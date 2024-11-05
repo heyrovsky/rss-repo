@@ -1,0 +1,37 @@
+name: RSS Curator Automation
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  run-curator:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with: 
+        token: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
+      
+    - name: Make script executable
+      run: chmod +x bin/rsscurator
+      
+    - name: Run RSS curator
+      run: ./bin/rsscurator
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git status --porcelain
+        echo "changes=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+      
+    - name: Commit and push if changes exist
+      if: steps.check_changes.outputs.changes > 0
+      run: |
+        git config --local user.email "locinem625@edectus.com"
+        git config --local user.name "lolcinembot"
+        git add .
+        git commit -m "Auto-update RSS content"
+        git push
