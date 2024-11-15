@@ -1,0 +1,1079 @@
+[
+  {
+    "hash": "d44ba2c698a4168ed859729176a5fd84e302912dc4f8aa481af347ba7f28bef0",
+    "item": {
+      "title": "Trump team puts EV tax credit on the block, Tesla is on board: Report",
+      "description": "Elon Musk is on record as saying it would hurt competitors more than Tesla.",
+      "links": [
+        "https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/"
+      ],
+      "categories": [
+        "Cars",
+        "EV adoption",
+        "EV tax credit",
+        "Tesla"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2169370321-1152x648.jpg"
+      },
+      "published": "2024-11-14T19:40:34Z"
+    }
+  },
+  {
+    "hash": "5c23a04b2f1fda4991fc1c98f8360f88330f193e3ea87658cbfb73fcd71b266d",
+    "item": {
+      "title": "Microsoft finally releases generic install ISOs for the Arm version of Windows",
+      "description": "Generic install media brings Arm PCs closer to feeling like any old x86 PC. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/"
+      ],
+      "categories": [
+        "Tech",
+        "ARM",
+        "microsoft",
+        "Windows",
+        "windows 11"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-bloom-rainbow-1152x648.jpeg"
+      },
+      "published": "2024-11-14T19:22:17Z"
+    }
+  },
+  {
+    "hash": "c60daf6914f306022209e24b54a1d8eeaccff5faad4fd32c3d9b5ca1446f14e1",
+    "item": {
+      "title": "Are standing desks good for you? The answer is getting clearer.",
+      "description": "Whatever your office setup, the most important thing is to move.",
+      "links": [
+        "https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/"
+      ],
+      "categories": [
+        "Health",
+        "Science",
+        "cardiovascular health",
+        "sitting",
+        "standing"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1128201711-1152x648.jpg"
+      },
+      "published": "2024-11-14T18:13:08Z"
+    }
+  },
+  {
+    "hash": "373dd58ce017134d3537f5f9a3324b4056116bcb442238102e98c86db5242b0c",
+    "item": {
+      "title": "ChatGPT’s success could have come sooner, says former Google AI researcher",
+      "description": "A co-author of \u003cem\u003eAttention Is All You Need\u003c/em\u003e reflects on ChatGPT's surprise and Google's conservatism.",
+      "links": [
+        "https://arstechnica.com/ai/2024/11/chatgpts-success-could-have-come-sooner-says-former-google-ai-researcher/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI technology",
+        "Attention is all you need",
+        "biotechnology",
+        "ChatGPT",
+        "chatgtp",
+        "google",
+        "GPT-3",
+        "GPT-4",
+        "Inceptive",
+        "Jakob Uszkoreit",
+        "large language models",
+        "openai",
+        "RNA",
+        "RNA vaccines",
+        "Transformers"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jakob_uszkoreit_header_2-1152x648.jpg"
+      },
+      "published": "2024-11-14T17:00:52Z"
+    }
+  },
+  {
+    "hash": "c980b119224747e00c3b8ec26166c9ea49041cba2e5a0ea7820451138f2eb80c",
+    "item": {
+      "title": "PyPI now supports digital attestations",
+      "description": "\u003cp\u003eThe Python Package Index (PyPI) has \u003ca\nhref=\"https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/\"\u003eannounced\u003c/a\u003e\nthat it has finalized support for \u003ca\nhref=\"https://peps.python.org/pep-0740/\"\u003ePEP 740\u003c/a\u003e (\"Index support\nfor digital attestations\"). \u003ca\nhref=\"https://www.trailofbits.com/\"\u003eTrail of Bits\u003c/a\u003e, which performed\nmuch of the development work for the implementation, has an \u003ca\nhref=\"https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/\"\u003ein-depth\nblog post\u003c/a\u003e about the work and its adoption, as well as what is left\nundone:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eOne thing is notably missing from all of this work:\n\u003cstrong\u003edownstream verification\u003c/strong\u003e. [...]\u003c/p\u003e\n\n\u003cp\u003eThis isn't an acceptable end state (cryptographic attestations have\ndefensive properties only insofar as they're \u003cstrong\u003e\u003cem\u003eactually\nverified\u003c/em\u003e\u003c/strong\u003e), so we're looking into ways to bring\nverification to individual installing clients. In particular, we're\ncurrently working on a \u003ca\nhref=\"https://github.com/pypa/pip/issues/12766\"\u003eplugin architecture\nfor \u003ctt\u003epip\u003c/tt\u003e\u003c/a\u003e that will enable users to \u003ca\nhref=\"https://github.com/trailofbits/pip-plugin-pep740\"\u003eload\nverification logic\u003c/a\u003e directly into their \u003ctt\u003epip install\u003c/tt\u003e\nflows.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/998215/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2024-11-14T21:22:12Z"
+    }
+  },
+  {
+    "hash": "daa9c2951d1d84aea37bf2e4f8dd0e82c9c0c7ec6232a98632cade58ea99ece4",
+    "item": {
+      "title": "Top Memecoin Project in Cabal Arena of TON Memelandia Reaches $100M Market Cap",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Top Memecoin Project in Cabal Arena of TON Memelandia Reaches $100M Market Cap\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMemelandia, a decentralized hub aimed to grow its meme coin\u0026#160;environment, \u0026#160;introduced by the Open Network (TON). This initiative makes use of TON\u0026#8217;s Telegram integration\u0026#160;to boost meme activity on the platform. Additionally, TON Memelandia announced the start of its Memecoin Battles, in which memecoin communities, token developers, and traders would vie",
+      "links": [
+        "https://thenewscrypto.com/top-memecoin-project-in-cabal-arena-of-ton-memelandia-reaches-100m-market-cap/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2024-11-14T21:19:33Z"
+    }
+  },
+  {
+    "hash": "91b1ba10b9f8a768e3689ceb4596fb2fdaa0e474876249e6c2a1de7cfe1d0fe7",
+    "item": {
+      "title": "$PEPE’s Recent Surge Sets the Stage for Pepe Unchained ($PEPU) and New Ecosystem Enhancements",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"750\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed_1_17315938290FyEfGkBdt.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed_1_17315938290FyEfGkBdt.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed_1_17315938290FyEfGkBdt-300x176.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed_1_17315938290FyEfGkBdt-1024x600.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed_1_17315938290FyEfGkBdt-768x450.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eTA, IL, 14th November 2024, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/pepes-recent-surge-sets-the-stage-for-pepe-unchained-pepu-and-new-ecosystem-enhancements/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed_1_17315938290FyEfGkBdt.jpg"
+      },
+      "published": "2024-11-14T20:50:25Z"
+    }
+  },
+  {
+    "hash": "637720f823e7f344a19aab47fb433e9ff79b6ab080bed05ce8dbf09fc58a1699",
+    "item": {
+      "title": "Playnance Launches PlayBlock: The Future of Zero-Gas Blockchain for Trading, Gaming, and Web3 Adoption",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/PR-1_1731566905yImtAbB3tZ.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/PR-1_1731566905yImtAbB3tZ.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2024/11/PR-1_1731566905yImtAbB3tZ-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/PR-1_1731566905yImtAbB3tZ-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/11/PR-1_1731566905yImtAbB3tZ-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eRamat Gan, Israel, 14th November 2024, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/playnance-launches-playblock-the-future-of-zero-gas-blockchain-for-trading-gaming-and-web3-adoption/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/PR-1_1731566905yImtAbB3tZ.jpg"
+      },
+      "published": "2024-11-14T19:47:48Z"
+    }
+  },
+  {
+    "hash": "a3f0cbd55129f6d9b68b192efe672e4fab50553c1dca43db83bf85f89c243d0e",
+    "item": {
+      "title": "Royal Bhutan Government Sells 367 Bitcoin on Binance",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/In_the_past_hour_the_Royal_Government_of_Bhutan_transferred_935.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/In_the_past_hour_the_Royal_Government_of_Bhutan_transferred_935.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/In_the_past_hour_the_Royal_Government_of_Bhutan_transferred_935-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/In_the_past_hour_the_Royal_Government_of_Bhutan_transferred_935-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBhutan has been quietly mining Bitcoin since 2021. Using its hydropower, Bhutan runs low cost, sustainable mining operations and has accumulated over 12,200 BTC, worth about $1.11 billion, making it one of the largest government holders of Bitcoin. Why Bhutan Is Selling Bitcoin According to Arkham Intelligence, Bhutan moved BTC",
+      "links": [
+        "https://thenewscrypto.com/royal-bhutan-government-sells-367-bitcoin-on-binance/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bhutan",
+        "Binance",
+        "Bitcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/In_the_past_hour_the_Royal_Government_of_Bhutan_transferred_935.jpg"
+      },
+      "published": "2024-11-14T17:07:49Z"
+    }
+  },
+  {
+    "hash": "6474255a9d884f5832dbea4685340eeb223c5d4d7051aaf8f36e1f04d934ff88",
+    "item": {
+      "title": "Can BlockDAG Surpass Toncoin \u0026 SUI to Hit $30 Fast? Exploring Their Layer 1 Potential!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-2-3.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can BlockDAG Surpass Toncoin \u0026amp; SUI to Hit $30 Fast? Exploring Their Layer 1 Potential!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-2-3.png 512w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-2-3-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-2-3-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe cryptocurrency sector is seeing a substantial rise, especially within Layer 1 blockchains. Toncoin has recently experienced a 5% price boost, reaching $4.78, accompanied by an increase in trading volume. At the same time, SUI has enhanced its platform through a partnership with Google Cloud, facilitating access to real-time blockchain",
+      "links": [
+        "https://thenewscrypto.com/can-blockdag-surpass-toncoin-sui-to-hit-30-fast-exploring-their-layer-1-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG",
+        "Toncoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-2-3.png"
+      },
+      "published": "2024-11-14T17:00:00Z"
+    }
+  },
+  {
+    "hash": "487f06a9c755eb8b2f421469c8989b13335662e2ce78902161a9cca41d17ede4",
+    "item": {
+      "title": "Gate.io Launches New USDE Wealth Management Products, Pioneering a High-Yield and High-Liquidity Model",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"420\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/image001-77.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/image001-77.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2024/11/image001-77-300x168.jpg 300w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eGlobal digital asset exchange Gate.io has announced the upcoming launch of its USDE wealth management products, which include USDE Staking and USDE Simple Earn, set to release on November 15 16:00:00, 2024  (UTC+8), as well as the soon-to-be-released USDE Flexible Staking. This product launch marks an innovative step forward for",
+      "links": [
+        "https://thenewscrypto.com/gate-io-launches-new-usde-wealth-management-products-pioneering-a-high-yield-and-high-liquidity-model/"
+      ],
+      "categories": [
+        "Press Release",
+        "Gate.io"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/image001-77.jpg"
+      },
+      "published": "2024-11-14T16:58:46Z"
+    }
+  },
+  {
+    "hash": "646fd604b3a5f991fffeed6c3df4ad8e2c8ad88042b0a53e6e9b26ff0624ec29",
+    "item": {
+      "title": "Dogecoin (DOGE) Price Prediction 2024, 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION-.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogecoin (DOGE)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION-.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION--300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION--150x84.jpg 150w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Dogecoin (DOGE) price prediction 2024, 2025-2030,\u0026#160;we will analyze the price patterns of DOGE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Dogecoin (DOGE) Current Market Status What is Dogecoin (DOGE)? Dogecoin (DOGE) 24H Technicals DOGECOIN (DOGE) PRICE",
+      "links": [
+        "https://thenewscrypto.com/dogecoin-doge-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "DOGE",
+        "Dogecoin",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION-.jpg"
+      },
+      "published": "2024-11-14T16:47:14Z"
+    }
+  },
+  {
+    "hash": "35a5593bb6c07d4bf5c279527515bd7bbad9e6648e5d88ea1f1c59836430f587",
+    "item": {
+      "title": "Binance Coin (BNB) Price Prediction 2024, 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Coin (BNB)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-150x84.jpg 150w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Binance Coin (BNB) price prediction 2024, 2025-2030,\u0026#160; we will analyze the price patterns of BNB by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Binance Coin (BNB) Current Market Status What is Binance Coin (BNB)? Binance Coin (BNB)",
+      "links": [
+        "https://thenewscrypto.com/binance-coin-bnb-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Binance",
+        "BNB",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg"
+      },
+      "published": "2024-11-14T16:36:42Z"
+    }
+  },
+  {
+    "hash": "b50d64b7be490a3901abf8f86315fea38a5cb80842000139c47c5eaffe18c35e",
+    "item": {
+      "title": "New Investor in Crypto? These 3 Altcoins Might Lead You To Million-Dollar Profits by December!",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/image001-75.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/image001-75.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2024/11/image001-75-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/image001-75-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/11/image001-75-376x212.jpg 376w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eNewcomers in crypto world are eager to discover altcoins with the potential for significant gains before year\u0026#8217;s end. With December approaching, certain digital assets are showing remarkable promise. Recognizing these opportunities now could be crucial for investors looking to capitalize on the market\u0026#8217;s momentum.  Among them is XYZVerse (XYZ), a",
+      "links": [
+        "https://thenewscrypto.com/new-investor-in-crypto-these-3-altcoins-might-lead-you-to-million-dollar-profits-by-december/"
+      ],
+      "categories": [
+        "Press Release",
+        "XYZVerse (XYZ)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/image001-75.jpg"
+      },
+      "published": "2024-11-14T16:25:00Z"
+    }
+  },
+  {
+    "hash": "b23565e6e13aea45162b1a351cb01438c3093c4b576784685c3ebe00e4070491",
+    "item": {
+      "title": "BlockDAG’s Market Dominance with $121.5M Presale: A Potential Threat to Solana and Kaspa’s Reign?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-1-12.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlockDAG\u0026#039;s Market Dominance with $121.5M Presale: A Potential Threat to Solana and Kaspa’s Reign?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-1-12.png 512w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-1-12-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-1-12-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe blockchain arena is currently experiencing a significant transformation with BlockDAG\u0026#8217;s debut, a presale platform that not only delivers groundbreaking technological innovations but also pioneers a distinctive approach to community involvement. This analysis delves into how BlockDAG (BDAG) measures up against the established technologies of Kaspa and Solana, which are",
+      "links": [
+        "https://thenewscrypto.com/blockdags-market-dominance-with-121-5m-presale-a-potential-threat-to-solana-and-kaspas-reign/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/unnamed-1-12.png"
+      },
+      "published": "2024-11-14T16:00:00Z"
+    }
+  },
+  {
+    "hash": "ce9c551bae66cec4e2725af98ff03e4c0155f8440b7296b5c882449266da6178",
+    "item": {
+      "title": "PEPE Prices Rise in South Korea After Upbit Listing News",
+      "description": "\u003cp\u003ePepe (PEPE) prices rose rapidly on South Korean crypto exchanges after Upbit listed the meme coin on November 14.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-prices-rise-in-south-korea-after-upbit-listing-news/\"\u003ePEPE Prices Rise in South Korea After Upbit Listing News\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-prices-rise-in-south-korea-after-upbit-listing-news/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoins",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14130622/1731589581-image-1731572038057_optimized.jpg"
+      },
+      "published": "2024-11-14T23:30:00Z"
+    }
+  },
+  {
+    "hash": "74aee934cb2958598881c249fff64e0c9d4e90e49f10d67a5bab6811c7add4fc",
+    "item": {
+      "title": "Hurry! $BEST Token Shatters $250K Milestone – Less Than 12 Hours to Buy Web3’s Hottest Wallet",
+      "description": "\u003cp\u003eBest Wallet is going viral on its mission to disrupt the Web3 wallet sector, and the $BEST token presale has shattered the $250K raised milestone as retail traders flock to unlock exclusive early-bird access to presales and new airdrops. As Bitcoin\u0026#8217;s price charges into the $90K range, FOMO is gripping the crypto market, and switched-on [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hurry-best-token-shatters-250k-milestone-less-than-12-hours-to-buy-web3s-hottest-wallet/\"\u003eHurry! $BEST Token Shatters $250K Milestone \u0026#8211; Less Than 12 Hours to Buy Web3’s Hottest Wallet\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hurry-best-token-shatters-250k-milestone-less-than-12-hours-to-buy-web3s-hottest-wallet/"
+      ],
+      "categories": [
+        "Industry Talk"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Gary McFarlane"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14223158/1731623517-d483ef9f003f47641046346a44f7d8d3.jpg"
+      },
+      "published": "2024-11-14T22:32:59Z"
+    }
+  },
+  {
+    "hash": "aa7103bcfa8adc0dd73f098380c94950299d57bed830c949243b21b5fcc05285",
+    "item": {
+      "title": "This New Pepe Coin is Raising $1m Every 24 Hours, Only 28 Days Left to Buy Pepe Unchained",
+      "description": "\u003cp\u003eNew $PEPE coin, Pepe Unchained ($PEPU), has raised $29.6 million in what is shaping up to be the largest meme coin ICO ever. Indeed, at the present run rate, Pepe Unchained will raise in excess of $50 million, catapulting it straight into the top league of meme coins. In the past 24 hours alone, Pepe [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/this-new-pepe-coin-is-raising-1m-every-24-hours-only-28-days-left-to-buy-pepe-unchained/\"\u003eThis New Pepe Coin is Raising $1m Every 24 Hours, Only 28 Days Left to Buy Pepe Unchained \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/this-new-pepe-coin-is-raising-1m-every-24-hours-only-28-days-left-to-buy-pepe-unchained/"
+      ],
+      "categories": [
+        "Industry Talk"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Gary McFarlane"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14222831/1731623310-4a46185d482a14d70377f1be6f8284c3.jpg"
+      },
+      "published": "2024-11-14T22:29:00Z"
+    }
+  },
+  {
+    "hash": "4d9f9d26c4ec50682feae20a635424cf5a195c3943d738ea4cf8b6b7ed9ff967",
+    "item": {
+      "title": "New MAGA-Fuelled PolitiFi Coin FreeDum Fighters (DUM) Raises $500,000 For Plan to Dominate Trump 2.0 Era",
+      "description": "\u003cp\u003eMAGA-fuelled PolitiFi coin FreeDum Fighters ($DUM) has raised over $500,000 in its presale as the bullish afterglow of the Trump election victory shows no signs of abating for politico-infused memes. FreeDum Fighters features a digital battle space where political protagonists of various stripes can go head-to-head. Tracked events from campaigns and beyond, feed into the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/new-maga-fuelled-politifi-coin-freedum-fighters-dum-raises-500000-for-plan-to-dominate-trump-2-0-era/\"\u003eNew MAGA-Fuelled PolitiFi Coin FreeDum Fighters (DUM) Raises $500,000 For Plan to Dominate Trump 2.0 Era\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/new-maga-fuelled-politifi-coin-freedum-fighters-dum-raises-500000-for-plan-to-dominate-trump-2-0-era/"
+      ],
+      "categories": [
+        "Industry Talk"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Gary McFarlane"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14222336/1731623016-4f064c08ae8c8ff6bb37f781540a2b58.jpg"
+      },
+      "published": "2024-11-14T22:24:20Z"
+    }
+  },
+  {
+    "hash": "3dafbc9b369b460e5e5e3d06aeed85b1094ad7bffec1bb122e4692bc9bf0ef09",
+    "item": {
+      "title": "Italy’s Ripple Partner Intesa Sanpaolo Expands Digital Assets Desk for Crypto Spot Trading",
+      "description": "\u003cp\u003eIntesa Sanpaolo, Italy's largest bank, is expanding its digital assets desk to include spot trading for cryptocurrencies, having secured the necessary internal approvals and technical setup to enter the market and enhance its blockchain initiatives.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/italys-ripple-partner-intesa-sanpaolo-expands-digital-assets-desk-for-crypto-spot-trading/\"\u003eItaly’s Ripple Partner Intesa Sanpaolo Expands Digital Assets Desk for Crypto Spot Trading\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/italys-ripple-partner-intesa-sanpaolo-expands-digital-assets-desk-for-crypto-spot-trading/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "italy",
+        "Spot trading"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14212626/1731619585-image-1731619540697_optimized.jpg"
+      },
+      "published": "2024-11-14T22:20:33Z"
+    }
+  },
+  {
+    "hash": "fa56856dd3cb3a4fd0b8ef7979ac061dc7f8941b9d54d525b66fa901f3704bef",
+    "item": {
+      "title": "Tether Launches Hadron Platform for Simplified Asset Tokenization",
+      "description": "\u003cp\u003eTether’s new Hadron platform aims to make asset tokenization accessible to institutions, businesses, and governments, simplifying the process for everything from stocks to loyalty points.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tether-launches-hadron-platform-for-simplified-asset-tokenization/\"\u003eTether Launches Hadron Platform for Simplified Asset Tokenization\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tether-launches-hadron-platform-for-simplified-asset-tokenization/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Stablecoin",
+        "Tether",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14175320/1731606800-1731606786440_processed.jpg"
+      },
+      "published": "2024-11-14T22:01:18Z"
+    }
+  },
+  {
+    "hash": "79762f36a6ff6087d557f18ac79af1a9531cb69dbd541fc28924460ad1d63669",
+    "item": {
+      "title": "Sol Strategies Acquires Cogent Crypto’s Solana Validator Assets Valued at $203.6 million in Stock and Cash Deal",
+      "description": "\u003cp\u003eSolana-focused publicly traded holding company and venture vehicle \u003ca href=\"https://solstrategies.io/\"\u003eSol Strategies\u003c/a\u003e (CSE: HODL) (OTC Pink: CYFRF), today announced it has acquired four validators from Cogent Crypto.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sol-strategies-acquires-cogent-cryptos-solana-validator-assets-valued-at-203-6-million-in-stock-and-cash-deal/\"\u003eSol Strategies Acquires Cogent Crypto’s Solana Validator Assets Valued at $203.6 million in Stock and Cash Deal\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sol-strategies-acquires-cogent-cryptos-solana-validator-assets-valued-at-203-6-million-in-stock-and-cash-deal/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Sol Strategies",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Gary McFarlane"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14204028/1731616828-solana-validators_optimized.jpg"
+      },
+      "published": "2024-11-14T20:54:57Z"
+    }
+  },
+  {
+    "hash": "3b833e5c76d8fa6ea31516a1351bdfa93c7e9522b11e7d41dfc5c1712172021c",
+    "item": {
+      "title": "Dogecoin Holders Bet Big on This New Coin as Trump Prepares For Inauguration Day – 100x by 2025?",
+      "description": "\u003cp\u003eDogecoin's price surged 20% following President-elect Trump's announcement of the Department of Government Efficiency (DOGE), led by Elon Musk, prompting speculation among holders about a potential 100x return for a new coin by 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-holders-bet-big-on-this-new-coin-as-trump-prepares-for-inauguration-day-100x-by-2025/\"\u003eDogecoin Holders Bet Big on This New Coin as Trump Prepares For Inauguration Day – 100x by 2025?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-holders-bet-big-on-this-new-coin-as-trump-prepares-for-inauguration-day-100x-by-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Dogecoin",
+        "Donald Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14184646/1731610006-image-1731609977130_optimized.jpg"
+      },
+      "published": "2024-11-14T20:53:18Z"
+    }
+  },
+  {
+    "hash": "7b176b2fdb0bdf6deb48b79c8e615015daaf794bb1fa8e4c913aa8b9a6b15ae9",
+    "item": {
+      "title": "Ex-CFTC Chair Giancarlo Denies Interest in SEC Role, Says He Already “Cleaned Up Gensler’s Mess”",
+      "description": "\u003cp\u003eFormer CFTC Chair Chris Giancarlo, known as \"Crypto Dad,\" has denied interest in replacing SEC Chair Gary Gensler, stating he already \"cleaned up Gensler's mess\" at the CFTC and dismissing rumors of a Treasury role.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ex-cftc-chair-giancarlo-denies-interest-in-sec-role-says-he-already-cleaned-up-genslers-mess/\"\u003eEx-CFTC Chair Giancarlo Denies Interest in SEC Role, Says He Already “Cleaned Up Gensler’s Mess”\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ex-cftc-chair-giancarlo-denies-interest-in-sec-role-says-he-already-cleaned-up-genslers-mess/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "SEC Chair"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14181755/1731608275-image-1731608246953_optimized.jpg"
+      },
+      "published": "2024-11-14T20:22:49Z"
+    }
+  },
+  {
+    "hash": "29b0967860ed399e3b0cb8d14e74ca37eb301e8be65b43ad090bcde8841c4fa8",
+    "item": {
+      "title": "Pennsylvania House Introduces Bill to Hold Bitcoin as Reserve Asset on State Balance Sheet",
+      "description": "\u003cp\u003ePennsylvania State Representative Mike Cabell has introduced a bill in the keystone state’s House of Representatives which would see up to 10 percent of the state’s funds comprised of Bitcoin, reports emerged Thursday, November 14. The move comes as the Satoshi Nakamoto-created token's value soared to new heights this week, surpassing $93,000 on Wednesday.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pennsylvania-house-introduces-bill-to-hold-bitcoin-as-reserve-asset-on-state-balance-sheet/\"\u003ePennsylvania House Introduces Bill to Hold Bitcoin as Reserve Asset on State Balance Sheet\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pennsylvania-house-introduces-bill-to-hold-bitcoin-as-reserve-asset-on-state-balance-sheet/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cynthia Lummis",
+        "Pennsylvania"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14182737/1731608857-1728586637-1725472025-1725472004938_processed.jpg"
+      },
+      "published": "2024-11-14T20:12:58Z"
+    }
+  },
+  {
+    "hash": "8f1450f7196985a0de66b568d24868904b839a4f286313503f80f9a5a077c107",
+    "item": {
+      "title": "Peanut Price Explodes 300% in Less Than 24 Hours – Could This Be the Next Dogecoin?",
+      "description": "\u003cp\u003eThe new Solana-based meme token PNUT has surged over 300% in less than 24 hours, fueled by excitement from Elon Musk's tweets, raising speculation about its potential to become the next Dogecoin.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/peanut-price-explodes-300-in-less-than-24-hours-could-this-be-the-next-dogecoin/\"\u003ePeanut Price Explodes 300% in Less Than 24 Hours – Could This Be the Next Dogecoin?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/peanut-price-explodes-300-in-less-than-24-hours-could-this-be-the-next-dogecoin/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Dogecoin",
+        "Peanut the Squirrel"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14200752/1731614871-image-1731614789313.jpg"
+      },
+      "published": "2024-11-14T20:08:33Z"
+    }
+  },
+  {
+    "hash": "b8c6e61b3cde039a252f8f98c0648f1d60edd6c0a1b0800b3dfa48b616798889",
+    "item": {
+      "title": "Bonk Surges 85% as Big Traders Pile In – Could This Be the Path to $1?",
+      "description": "\u003cp\u003eBonk, the Solana-based meme coin, has surged 85%, attracting massive investor interest as it tests crucial support levels around $0.00002635, with traders closely monitoring its potential for further upward momentum.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonk-surges-85-as-big-traders-pile-in-could-this-be-the-path-to-1/\"\u003eBonk Surges 85% as Big Traders Pile In – Could This Be the Path to $1?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonk-surges-85-as-big-traders-pile-in-could-this-be-the-path-to-1/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "BONK Price",
+        "Crypto trader"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14162429/1731601468-image-1731601438416_optimized.jpg"
+      },
+      "published": "2024-11-14T19:43:26Z"
+    }
+  },
+  {
+    "hash": "0464fffa57055b8b681143d20f3156dd9472873cb0930428f4908e266b6ccc38",
+    "item": {
+      "title": "Republicans Win House Majority, Clearing the Way for Crypto Legislation",
+      "description": "\u003cp\u003eRepublicans will remain in control of the House of Representatives, multiple media outlets projected Wednesday, November 13. The move effectively secures a unified government under President-elect Donald Trump following the 2024 U.S. presidential election.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/republicans-win-house-majority-paving-way-for-crypto-legislation/\"\u003eRepublicans Win House Majority, Clearing the Way for Crypto Legislation\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/republicans-win-house-majority-paving-way-for-crypto-legislation/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin",
+        "Donald Trump",
+        "House Republicans"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14161539/1731600938-1726758556-1726757398731_processed.jpg"
+      },
+      "published": "2024-11-14T18:57:50Z"
+    }
+  },
+  {
+    "hash": "80e1055912e8e3d34f1a4c4c15454223e3edb320f08b0231e5c7184a04b73e17",
+    "item": {
+      "title": "Trump’s World Liberty Financial Adopts Chainlink for DeFi Expansion",
+      "description": "\u003cp\u003eWorld Liberty Financial collaborates with Chainlink to secure its DeFi ecosystem with robust data feeds, cross-chain compatibility, and governance tools. This partnership underlines WLFI's focus on enhancing DeFi's reliability and utility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trumps-world-liberty-financial-adopts-chainlink-for-defi-expansion/\"\u003eTrump\u0026#8217;s World Liberty Financial Adopts Chainlink for DeFi Expansion\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trumps-world-liberty-financial-adopts-chainlink-for-defi-expansion/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "ChainLink",
+        "Donald Trump",
+        "World Liberty Financial"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14184453/1731609893-image-1731609819827_optimized.jpg"
+      },
+      "published": "2024-11-14T18:46:36Z"
+    }
+  },
+  {
+    "hash": "af86fb8af000b46722acab5094b93d910421479e927bd012ead58c759704d1f1",
+    "item": {
+      "title": "Best Crypto to Buy Now November 14 – dogwifhat, POPCAT, Bonk",
+      "description": "\u003cp\u003eDogwifhat hits new highs, POPCAT rebounds, and BONK shows strong altcoin season performance. Dive into why these coins are the best crypto to buy now and how shifting investor sentiment and technical indicators are boosting the crypto market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-november-14-dogwifhat-popcat-bonk/\"\u003eBest Crypto to Buy Now November 14 – dogwifhat, POPCAT, Bonk\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-november-14-dogwifhat-popcat-bonk/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Best Crypto",
+        "bonk crypto",
+        "Meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14151632/1731597391-1728497370-img_0166-1.jpg"
+      },
+      "published": "2024-11-14T18:14:31Z"
+    }
+  },
+  {
+    "hash": "e42815490b219f693e95be8d841e024e198ff000e3dae10810f84dcf509e6dbc",
+    "item": {
+      "title": "President-elect Donald Trump Picks Pro-Crypto Congressman Matt Gaetz as Attorney General",
+      "description": "\u003cp\u003eMatt Gaetz, a pro-crypto Congressman and Bitcoin advocate, has been nominated by President-elect Trump as Attorney General. Known for his push for Bitcoin-friendly policies, Gaetz's appointment signals a potential shift toward deregulation and clearer frameworks for digital assets in the U.S.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/donald-trump-taps-matt-gaetz-for-attorney-general-rol/\"\u003ePresident-elect Donald Trump Picks Pro-Crypto Congressman Matt Gaetz as Attorney General\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/donald-trump-taps-matt-gaetz-for-attorney-general-rol/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Matt Gaetz",
+        "United States",
+        "US Crypto Regulations"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/14174205/1731606124-image-1731606088303_optimized.jpg"
+      },
+      "published": "2024-11-14T17:45:49Z"
+    }
+  },
+  {
+    "hash": "32f267514140a8aa4eb437e1d59e6b49c6c47c308b86476e80bb84995b53e883",
+    "item": {
+      "title": "Visual Basic 6 IDE recreated in C#",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42141587\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/BAndysc/AvaloniaVisualBasic6"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T21:47:54Z"
+    }
+  },
+  {
+    "hash": "0d987acfb11f8527bb22f075bafddf33a0cc9235c37cf75ed98572df79821fce",
+    "item": {
+      "title": "The letter ℘: name and origin? (2017)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42137818\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mathoverflow.net/questions/278130/the-letter-wp-name-origin"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T16:28:30Z"
+    }
+  },
+  {
+    "hash": "28b1a097243e585af07fde624a17c0d6c18903f5dc4d96966ab3db142ea60a37",
+    "item": {
+      "title": "In Memoriam: Thomas E. Kurtz, 1928–2024",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42141761\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T22:12:09Z"
+    }
+  },
+  {
+    "hash": "1a55686e9bcfc969ab206c490a0d4c7e952cb52ea3fe9feac6cc4685a496a4e5",
+    "item": {
+      "title": "The Internet Gopher from Minnesota",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42106368\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.abortretry.fail/p/the-internet-gopher-from-minnesota"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-11T11:27:59Z"
+    }
+  },
+  {
+    "hash": "492888d99b888568ecd482fe88ff129428b159ed7fe8d8fc9beace267b11de1f",
+    "item": {
+      "title": "Something weird is happening with LLMs and chess",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42138289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynomight.substack.com/p/chess"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T17:05:40Z"
+    }
+  },
+  {
+    "hash": "9fb9ce52d2a527d47040d441f25cf9b6adb91ae19a8feda1d6ce23874e41acee",
+    "item": {
+      "title": "Daisy, an AI granny wasting scammers' time",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42138115\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T16:52:09Z"
+    }
+  },
+  {
+    "hash": "8a3448ed3ab3b3279bdbd66a0914ac1d0959cfe2c9822f8d23b8ee458b95585d",
+    "item": {
+      "title": "Old Vintage Computing Research: Dusting Off Dreamcast Linux",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42140863\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T20:31:07Z"
+    }
+  },
+  {
+    "hash": "949fb84c9000d260497e700b16a5def822f5c62b6527d8c4247cd750705adb84",
+    "item": {
+      "title": "OpenAI, Google and Anthropic are struggling to build more advanced AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42125888\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-13T13:28:51Z"
+    }
+  },
+  {
+    "hash": "850899a7b255c3dac8d39eb9b6f8cca4d1cb54a49dd0989c986ab17a696b04b1",
+    "item": {
+      "title": "My simple knowledge management and time tracking system",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42095263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-09T16:31:04Z"
+    }
+  },
+  {
+    "hash": "67aa774e2f91098fe5627b3ddd19e8de4f14b58d55b82b47ca999aa6833943a4",
+    "item": {
+      "title": "AI makes tech debt more expensive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42137527\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T16:01:59Z"
+    }
+  },
+  {
+    "hash": "77eefc21e2bf85341f8f10eb95e3ef317c0cc2f39d32cd623502c1792e45fa13",
+    "item": {
+      "title": "Bootstrapping Alpine Linux without root",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42107146\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.brixit.nl/bootstrapping-alpine-linux-without-root/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-11T14:02:06Z"
+    }
+  },
+  {
+    "hash": "bb0968572ce935188196bd59632c817d0f48b7cdf15f4ebed57f398a2eb96a07",
+    "item": {
+      "title": "InspectMind AI (YC W24) Is Hiring for AI in Construction",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42141160\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T21:00:51Z"
+    }
+  },
+  {
+    "hash": "2efa16a26b0daeb87414abe563e60d3b45bc286475129d7d62d6b4a8129a875f",
+    "item": {
+      "title": "Show HN: Windsurf – Agentic IDE",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42127882\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeium.com/windsurf/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-13T17:09:27Z"
+    }
+  },
+  {
+    "hash": "27249124e7468c1d9ed5d051958cf67be40fbdfe8a43034aee9b89c5fb9dad46",
+    "item": {
+      "title": "Implementing Signal's Double Ratchet algorithm (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42073677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-07T05:27:16Z"
+    }
+  },
+  {
+    "hash": "bb570786ccec3af71ff6d0304a229a538e79509f62961a19198605862a7832fc",
+    "item": {
+      "title": "The Leningrad botanists who saved the first seed bank",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42114688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-12T11:31:59Z"
+    }
+  },
+  {
+    "hash": "ebda3a4a2db8bef63b27dac37da7927fb34fe4c70d756cd55276be27f81109c4",
+    "item": {
+      "title": "Lessons from my first exit",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42133864\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mtlynch.io/lessons-from-my-first-exit/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T07:32:09Z"
+    }
+  },
+  {
+    "hash": "29b3806bee8f8eb341ff5c2e34eb9fa3733a843c126c71ca9696710065ba4ede",
+    "item": {
+      "title": "Red Hat to contribute container tech (Podman, bootc, ComposeFS...) to CNCF",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42139044\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.redhat.com/en/blog/red-hat-contribute-comprehensive-container-tools-collection-cloud-native-computing-foundation"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T17:59:27Z"
+    }
+  },
+  {
+    "hash": "b62cb635bc87332dfa5cd8bef3369901ffc2feea419e5f414b58cf84b24c9407",
+    "item": {
+      "title": "Origin private file system",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42137790\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T16:24:51Z"
+    }
+  },
+  {
+    "hash": "b0314110ceb0b883e1bb65c4fd985f92500cb05452c993b4be3fe932ca841bea",
+    "item": {
+      "title": "Control iPhone with the movement of your eyes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42104378\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-11T03:24:58Z"
+    }
+  },
+  {
+    "hash": "43d1ee45a379fa4b7185ea37657de142cdeda12109e3f8fd4afc239ad792af7e",
+    "item": {
+      "title": "Bad science as genre fiction",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42087677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://statmodeling.stat.columbia.edu/2024/11/08/bad-science-as-genre-fiction/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-08T15:44:20Z"
+    }
+  },
+  {
+    "hash": "6fd0b716a58bde6fb8944b57c3091aeaff2570be6bfded999bfa790ef5231fa6",
+    "item": {
+      "title": "SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42133744\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T06:59:26Z"
+    }
+  },
+  {
+    "hash": "20faa5805cd5d26dd0d227e31d891bbd9451b5167fb48e143e30175b8e5c37b2",
+    "item": {
+      "title": "The barriers to AI engineering are crumbling fast",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42136711\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.helix.ml/p/we-can-all-be-ai-engineers"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-14T14:56:48Z"
+    }
+  },
+  {
+    "hash": "2e038528842af62892c7635e5d93968516f855719b376706c1280c1ec5bc4fa2",
+    "item": {
+      "title": "The Median Researcher Problem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42092667\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lesswrong.com/posts/vZcXAc6txvJDanQ4F/the-median-researcher-problem-1"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-09T05:10:16Z"
+    }
+  },
+  {
+    "hash": "b9cb2a326d83c1b18932304f9d851cc4e7d5c0ceae28e0611130772d7f0de71c",
+    "item": {
+      "title": "When the U.S. Forest Service's budget shrinks, who pumps campground toilets?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42142966\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.marketplace.org/2024/11/11/national-forest-service-budget-cuts/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-11-15T00:55:43Z"
+    }
+  }
+]
