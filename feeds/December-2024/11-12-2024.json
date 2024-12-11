@@ -2503,5 +2503,934 @@
       "source": "Hacker News",
       "published": "2024-12-11T12:15:01Z"
     }
+  },
+  {
+    "hash": "54d53b36ccdf003dd22c2985d35ec41057adfb6832cb7a5f9bb589d89059cb1d",
+    "item": {
+      "title": "New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools",
+      "description": "A newly devised technique leverages a Windows accessibility framework called UI Automation (UIA) to perform a wide range of malicious activities without tipping off endpoint detection and response (EDR) solutions.\n\"To exploit this technique, a user must be convinced to run a program that uses UI Automation,\" Akamai security researcher Tomer Peled said in a report shared with The Hacker News. \"",
+      "links": [
+        "https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2pKkxA0HOrAaH9gF-Unjn8wIAabqSSWKzdbl36rLSzNUZBrymS-35Zj9FUKoFLd62HTBpXUVJFBnDTEsV1Gi_QqnPRsbNxo9dTp2dCN4X1ZcaNONe_qMB34GKNyIkvj-rjMJ6sZL5k4DJEUPJCAGA62kUuADWER3SRTj862YXGyyIs6xD3adWgUKi_Uz/s1600/exploit.gif"
+      },
+      "published": "2024-12-11T15:13:00Z"
+    }
+  },
+  {
+    "hash": "27103c3f73b0b7d606b764dedf0650da55e310b85c5b444378822ce6f982f475",
+    "item": {
+      "title": "What is Nudge Security and How Does it Work?",
+      "description": "Regain control of SaaS sprawl with Day One discovery of all SaaS and GenAI accounts along with workflows to help you mitigate security risks, curb rogue app usage, and manage SaaS spend.\nIn today’s highly distributed workplace, every employee has the ability to act as their own CIO, adopting new cloud and SaaS technologies whenever and wherever they need. While this has been a critical boon to",
+      "links": [
+        "https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmawq8-KEMz-RQKu9l-sz8Qc4vC6x4OBvzZK-a3hyphenhyphenk2gZ2X0iss9NBfG3St6Ve4_EBU0ZXYSpd7vCrWpsNQsprDNCd1vH5jCtzlgSjL0Tz-LGLkoZSG-Q2Eo4Motdn9RW3MI504A8dFP_8qAQmGSdN0BQnTDyHjbK0ORc3OIYhIbNBpEmN0Wo3lcTtSw/s1600/nudge.jpg"
+      },
+      "published": "2024-12-11T11:02:00Z"
+    }
+  },
+  {
+    "hash": "b0ef18d0c3b1d5da8b7a0369c3eb1a164be23f2657769e0366d567158ac5cb4b",
+    "item": {
+      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "description": "Add to a charity haul that's already raised nearly $9,500 in just a couple of days.",
+      "links": [
+        "https://arstechnica.com/gaming/2024/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-14/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/IMG_0393-1152x648.jpg"
+      },
+      "published": "2024-12-11T17:49:44Z"
+    }
+  },
+  {
+    "hash": "8fd6999046e80da526c2fea4e14e480aa0a8d30c02aff70c2bba4bd70c08cfa0",
+    "item": {
+      "title": "NASA believes it understands why Ingenuity crashed on Mars",
+      "description": "Engineers are already beginning to plan for possible follow-on missions.",
+      "links": [
+        "https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "ingenuity",
+        "Mars",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/1_PIA26238_ingentuity-ripples_cropped.width-1320-1152x648-1733936851.jpg"
+      },
+      "published": "2024-12-11T17:44:42Z"
+    }
+  },
+  {
+    "hash": "97a6bc4800ec3ba281e10716961ce93c7b0531b8b36eec525270601f27aed8d1",
+    "item": {
+      "title": "Report: Google told FTC Microsoft’s OpenAI deal is killing AI competition",
+      "description": "Microsoft gatekeeping OpenAI models saddles AI rivals with costs, report says.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2024/12/report-microsofts-exclusive-deal-with-openai-harms-competition-google-told-ftc/"
+      ],
+      "categories": [
+        "Google",
+        "Policy",
+        "ai industry",
+        "AI models",
+        "Antitrust law",
+        "Artificial Intelligence",
+        "federal trade commission",
+        "FTC",
+        "google",
+        "large language models",
+        "LLMs",
+        "microsoft",
+        "openai"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg"
+      },
+      "published": "2024-12-11T17:08:23Z"
+    }
+  },
+  {
+    "hash": "404f5d4e742d05055d75b2af8bb41fb1882b3b1827988ceb32b0e605bc3c0f58",
+    "item": {
+      "title": "New congressional report: “COVID-19 most likely emerged from a laboratory”",
+      "description": "A textbook example of shifting the standards of evidence to suit its authors' needs.",
+      "links": [
+        "https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/"
+      ],
+      "categories": [
+        "Science",
+        "Covid",
+        "Lab leak",
+        "pandemic",
+        "scientific evidence"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1316868296-1152x648.jpg"
+      },
+      "published": "2024-12-11T16:45:58Z"
+    }
+  },
+  {
+    "hash": "c6f0556d73f5d5c5e6646304de16c7d3874915ccf9e1bcaa8972526f528e82f2",
+    "item": {
+      "title": "The latest in poker cheats: Tiny cameras that can see cards as they’re dealt",
+      "description": "Several recent schemes were uncovered, so should players everywhere be concerned?",
+      "links": [
+        "https://arstechnica.com/gadgets/2024/12/the-latest-in-poker-cheats-tiny-cameras-that-can-see-cards-as-theyre-dealt/"
+      ],
+      "categories": [
+        "Tech",
+        "cameras",
+        "poker",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ben Dowsett, wired.com"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/holdem-1152x648.jpg"
+      },
+      "published": "2024-12-11T14:57:02Z"
+    }
+  },
+  {
+    "hash": "bc41b88a1fcda4c246818f0e792f057e4a2b070fd40f4a94da1e5cb09ea1067b",
+    "item": {
+      "title": "Seeing no road to profit, GM shutters Cruise",
+      "description": "GM decides to cut its losses, will focus on partial automation for passenger cars.",
+      "links": [
+        "https://arstechnica.com/cars/2024/12/seeing-no-road-to-profit-gm-shutters-cruise/"
+      ],
+      "categories": [
+        "Cars",
+        "autonomous vehicles",
+        "Cruise",
+        "robotaxis"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1238159620-scaled-1152x648-1733927481.jpg"
+      },
+      "published": "2024-12-11T14:48:41Z"
+    }
+  },
+  {
+    "hash": "054d6de9baa31301e282c0f1621eb269ebd97b7c78252d758efbd27079200a7f",
+    "item": {
+      "title": "Stable kernel 6.6.65 fixes two regressions",
+      "description": "\u003cp\u003eGreg Kroah-Hartman has released version \u003ca href=\"https://lwn.net/Articles/1001739/\"\u003e6.6.65\u003c/a\u003e of the kernel:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nThis release only fixes a build regression for openrisc, and a runtime\nregression for domU guests.  If you don't have problems with them, no\nneed to upgrade.\n\u003c/blockquote\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1001732/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2024-12-11T17:43:08Z"
+    }
+  },
+  {
+    "hash": "f680fc2fd212d88fe522c88e8f6c5c2b93edf0c62514d1105a15707c581e1d98",
+    "item": {
+      "title": "Backpack Exchange and Wallet to Integrate Sui",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Sui_Header_1733911816FmyULY3D2s.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Sui_Header_1733911816FmyULY3D2s.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2024/12/Sui_Header_1733911816FmyULY3D2s-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Sui_Header_1733911816FmyULY3D2s-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/12/Sui_Header_1733911816FmyULY3D2s-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eGrand Cayman, Cayman Islands, 11th December 2024, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/backpack-exchange-and-wallet-to-integrate-sui/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Sui_Header_1733911816FmyULY3D2s.jpg"
+      },
+      "published": "2024-12-11T14:12:24Z"
+    }
+  },
+  {
+    "hash": "feead821cf0b0d573ce4f461d81eb74c903911f380f89bbc56b13632e7a406ed",
+    "item": {
+      "title": "6 Mid-Cap Crypto Gems That Should Be on Your Radar",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Exploring-The-Rise-Of-Crypto-Gaming.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Exploring-The-Rise-Of-Crypto-Gaming.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Exploring-The-Rise-Of-Crypto-Gaming-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Exploring-The-Rise-Of-Crypto-Gaming-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSearching for crypto gems doesn’t have to involve trawling dubious memecoin launchpads for illiquid tokens with a half-life of about three seconds. If you set your sights a little higher and move into the field of established crypto assets, you’ll find there’s still plenty of opportunities to be had with",
+      "links": [
+        "https://thenewscrypto.com/6-mid-cap-crypto-gems-that-should-be-on-your-radar/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "ALICE",
+        "Gala Games"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Exploring-The-Rise-Of-Crypto-Gaming.jpg"
+      },
+      "published": "2024-12-11T14:08:12Z"
+    }
+  },
+  {
+    "hash": "b9a8f857cff0ec25cc2cf98c5f26c5911f69a1e450143d30ffb4a54b632793f2",
+    "item": {
+      "title": "Parex Network Advances Ecosystem Accessibility Through Verification and Integration",
+      "description": "\u003cp\u003e\u003cimg width=\"1728\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F.jpg 1728w, https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F-300x200.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F-1024x683.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F-768x512.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F-1536x1024.jpg 1536w\" sizes=\"auto, (max-width: 1728px) 100vw, 1728px\" /\u003e\u003c/p\u003eTokyo, Japan, 11th December 2024, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/parex-network-advances-ecosystem-accessibility-through-verification-and-integration/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/momentum_1733347017foB4mmEF6F.jpg"
+      },
+      "published": "2024-12-11T14:04:09Z"
+    }
+  },
+  {
+    "hash": "10fa73fa6c32e8e5ec59ecb3cd90a75b6b2c5d85d5b15262ddc17166503c4b65",
+    "item": {
+      "title": "Can Raydium (RAY) Sustain its Price Surge of Over 20%?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/raydium-price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Raydium (RAY) Sustain its Price Surge of Over 20%?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/raydium-price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/raydium-price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/raydium-price-analysis-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAfter more than a month of not so significant market price rises, Raydium token RAY’s price increased by more than 20% today. While the broader crypto market is facing a price correction, several altcoins, including RAY, witnessed considerable gains. After almost touching the $6 mark, Raydium made it to the",
+      "links": [
+        "https://thenewscrypto.com/can-raydium-ray-sustain-its-price-surge-of-over-20/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Price Analysis",
+        "RAY",
+        "Raydium"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/raydium-price-analysis.jpg"
+      },
+      "published": "2024-12-11T13:52:39Z"
+    }
+  },
+  {
+    "hash": "ed4690006ac61d7fd42820915fd1869d9b759512a6bc277371b8c2c00460bdff",
+    "item": {
+      "title": "Bitget Token Hits New ATH Amid the Crypto Market Correction",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Bitget-Token-price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitget Token Hits New ATH Amid the Crypto Market Correction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Bitget-Token-price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Bitget-Token-price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Bitget-Token-price-analysis-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWhile the global crypto market remains volatile, with major coins displaying losses led by Bitcoin\u0026#8217;s sudden plunge to the $96K zone, Bitget Token (BGB) started the day with a significant 36% rally, reaching a new all-time high of $3.28 just an hour ago. Over the past 24 hours, the native",
+      "links": [
+        "https://thenewscrypto.com/bitget-token-hits-new-ath-amid-the-crypto-market-correction/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "Bitget",
+        "Crypto Market"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Bitget-Token-price-analysis.jpg"
+      },
+      "published": "2024-12-11T13:39:13Z"
+    }
+  },
+  {
+    "hash": "4be2e9598c787db63803e58116b02a1874d744abe9e88561ff8b3db1ce764e5e",
+    "item": {
+      "title": "Outgoing RBI Governor Advocates CBDC as India’s Digital Payment Future",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/01/rbi.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Outgoing RBI Governor Advocates CBDC as India\u0026#039;s Digital Payment Future\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/01/rbi.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/01/rbi-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/01/rbi-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA homegrown central bank digital currency (CBDC), the digital rupee, was Shaktikanta Das\u0026#8217;s goal for India\u0026#8217;s economy on his final day as governor of the Reserve Bank of India (RBI). Das outlined his six-year endeavor to take use of new technology during his parting address on December 10. This included",
+      "links": [
+        "https://thenewscrypto.com/outgoing-rbi-governor-advocates-cbdc-as-indias-digital-payment-future/"
+      ],
+      "categories": [
+        "News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/01/rbi.jpg"
+      },
+      "published": "2024-12-11T13:31:18Z"
+    }
+  },
+  {
+    "hash": "8e8d6a5e5bf0365518f1bd6962ab330d70db6e2489305edebe0b5ae625a4c73d",
+    "item": {
+      "title": "Hilbert Group Integrates Liberty AI to Redefine Digital Asset Management",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"402\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-52.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-52.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-52-300x155.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-52-768x396.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eFollowing the announcement of Hilbert Group AB’s (Nasdaq: HILB B) acquisition of Liberty Road Capital (LRC), we are excited to share further details on the integration of Liberty’s advanced AI technology into Hilbert’s ecosystem. This step is set to revolutionise our trading and analytics capabilities on the asset management side",
+      "links": [
+        "https://thenewscrypto.com/hilbert-group-integrates-liberty-ai-to-redefine-digital-asset-management/"
+      ],
+      "categories": [
+        "Press Release",
+        "Hilbert Group"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-52.jpg"
+      },
+      "published": "2024-12-11T13:27:44Z"
+    }
+  },
+  {
+    "hash": "5b98ebb68aad27621506663ac43414b1171ead12d67c8a7271e0559aa611afda",
+    "item": {
+      "title": "Will Dogwifhat (WIF) Reclaim Its Bullish Trend?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Dogwifhat-WIF-Reclaim-Its-Bullish-Trend.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Will Dogwifhat (WIF) Reclaim Its Bullish Trend?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Dogwifhat-WIF-Reclaim-Its-Bullish-Trend.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Dogwifhat-WIF-Reclaim-Its-Bullish-Trend-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Dogwifhat-WIF-Reclaim-Its-Bullish-Trend-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe volatile crypto market has pulled back Bitcoin, to its previous low. While, Ethereum, is suffering at the $3.7K mark. Consequently, the altcoin momentum has been dragged down. Notably, a Solana-based meme coin, Dogwifhat (WIF) registered a moderate gain of 3.27% over the last 24 hours.  At press time, WIF",
+      "links": [
+        "https://thenewscrypto.com/will-dogwifhat-wif-reclaim-its-bullish-trend/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cryptocurrency",
+        "Dogwifhat",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Dogwifhat-WIF-Reclaim-Its-Bullish-Trend.jpg"
+      },
+      "published": "2024-12-11T13:16:43Z"
+    }
+  },
+  {
+    "hash": "6dab304511bfc818ebcf942e1a5c5f40a2ebd0a1ff4989034424db565ed54dd9",
+    "item": {
+      "title": "Coincheck Debuts on Nasdaq as Second Regulated Crypto Exchange",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Coincheck_Parent_Becomes_First_Japanese_Crypto_Exchange_Operator.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Coincheck Debuts on Nasdaq as Second Regulated Crypto Exchange\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Coincheck_Parent_Becomes_First_Japanese_Crypto_Exchange_Operator.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Coincheck_Parent_Becomes_First_Japanese_Crypto_Exchange_Operator-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Coincheck_Parent_Becomes_First_Japanese_Crypto_Exchange_Operator-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCoincheck, a leading Japanese cryptocurrency exchange, has officially debuted on the Nasdaq Global Market under the ticker \u0026#8220;CNCK.\u0026#8221; The listing follows its merger with Thunder Bridge IV, a special purpose acquisition company (SPAC). This makes Coincheck the second regulated crypto exchange to list on Nasdaq, following Coinbase\u0026#8217;s 2021 debut. The",
+      "links": [
+        "https://thenewscrypto.com/coincheck-debuts-on-nasdaq-as-second-regulated-crypto-exchange/"
+      ],
+      "categories": [
+        "Market News",
+        "Cryptocurrecncy",
+        "NASDAQ",
+        "SEC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Coincheck_Parent_Becomes_First_Japanese_Crypto_Exchange_Operator.jpg"
+      },
+      "published": "2024-12-11T13:14:15Z"
+    }
+  },
+  {
+    "hash": "5c3c90c03d88587a7e9043c2a63f0c43a9d67227cb315332a34a6cc7bb1b6409",
+    "item": {
+      "title": "Holdstation Announces HOLD Listing on KuCoin, BingX and MEXC",
+      "description": "\u003cp\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-51.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-51.jpg 800w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-51-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-51-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-51-376x212.jpg 376w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" /\u003e\u003c/p\u003eHoldstation governance token, HOLD, will be listed on KuCoin, BingX, and MEXC this December 12th 2024. This milestone represents a major step forward in expanding the token’s global reach and liquidity while reinforcing its vital role in Holdstation’s growing ecosystem. Premium Standard for the Community Holdstation, the premier Web3 wallet",
+      "links": [
+        "https://thenewscrypto.com/holdstation-announces-hold-listing-on-kucoin-bingx-and-mexc/"
+      ],
+      "categories": [
+        "Press Release",
+        "Holdstation"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-51.jpg"
+      },
+      "published": "2024-12-11T12:42:55Z"
+    }
+  },
+  {
+    "hash": "9316a54d94bad6c6723ed95016184d0aebee89ebf4cd135dafe900d7e49bbb73",
+    "item": {
+      "title": "MicroStrategy’s Nasdaq 100 Status Tied to ICB Classification: Bloomberg Intelligence",
+      "description": "\u003cp\u003eBloomberg Intelligence analyst suggests that MicroStrategy’s eligibility for inclusion in the Nasdaq 100 may depend on its classification as a technology or financial stock under the ICB framework.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/microstrategys-nasdaq-100-status-tied-to-icb-classification-bloomberg-intelligence/\"\u003eMicroStrategy\u0026#8217;s Nasdaq 100 Status Tied to ICB Classification: Bloomberg Intelligence\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/microstrategys-nasdaq-100-status-tied-to-icb-classification-bloomberg-intelligence/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "MicroStrategy",
+        "Nasdaq"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/11170600/1733936760-image-1733936721821_optimized.jpg"
+      },
+      "published": "2024-12-11T17:06:40Z"
+    }
+  },
+  {
+    "hash": "2005f01f81dd7793abbe31faf65772bc117815e44da4bf9d9b102c50ff9898b7",
+    "item": {
+      "title": "Roger Ver: US Intelligence “Hijacked” Bitcoin, Turned It Into “Financial Trap”",
+      "description": "\u003cp\u003eRoger Ver faces extradition to the US on tax evasion charges, which he denies, and could face up to 109 years in prison.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/roger-ver-us-intelligence-hijacked-bitcoin/\"\u003eRoger Ver: US Intelligence “Hijacked” Bitcoin, Turned It Into “Financial Trap”\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/roger-ver-us-intelligence-hijacked-bitcoin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Privacy",
+        "Roger Ver"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Veronika Rinecker"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/11154020/1733931620-image-1733931570907_optimized.jpg"
+      },
+      "published": "2024-12-11T16:18:38Z"
+    }
+  },
+  {
+    "hash": "c9e99598197b9ad853fcaa687e3f302860bedb5773096a72902fbc59f6dbbbc3",
+    "item": {
+      "title": "Ethereum Price Bounces Back to $3,800 – New ATHs Coming This Month?",
+      "description": "\u003cp\u003eBulls are back in control of the crypto market on Wednesday, with the Ethereum (ETH) price rallying over 4% back towards $3,800 in wake of the latest US inflation figures all but confirming that the US Federal Reserve will cut interest rates by another 25 bps later this month. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-bounces-back-to-3800-new-aths-coming-this-month/\"\u003eEthereum Price Bounces Back to $3,800 \u0026#8211; New ATHs Coming This Month?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-bounces-back-to-3800-new-aths-coming-this-month/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "ETH",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Joel Frank"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/09/09162325/1725899004-what-is-the-difference-between-bitcoin-and-ethereum.jpg"
+      },
+      "published": "2024-12-11T15:53:59Z"
+    }
+  },
+  {
+    "hash": "b8f975254a196f8edef09d172240870ba0c0f801eddb158b506d65b99f3d431b",
+    "item": {
+      "title": "Kyrgyzstan Passes Law Defining Digital Som CBDC Framework",
+      "description": "\u003cp\u003eKyrgyzstan's Parliament has approved a draft law establishing the framework for its CBDC, the digital som, which will serve as legal tender and is set for prototype testing in early 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/kyrgyzstan-passes-law-defining-digital-som-cbdc-framework/\"\u003eKyrgyzstan Passes Law Defining Digital Som CBDC Framework\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/kyrgyzstan-passes-law-defining-digital-som-cbdc-framework/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "CBDC",
+        "Kyrgyzstan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/11150512/1733929511-image-1733929481711_optimized.jpg"
+      },
+      "published": "2024-12-11T15:40:38Z"
+    }
+  },
+  {
+    "hash": "ee9cd0eda50fe2039ba3f86bebd6c794aaf32bcfbaf4e65fc6ce4fd83cb9072e",
+    "item": {
+      "title": "XRP Price Drops Below $2.20 – Was $1.94 the Key to Its Next Bullish Surge?",
+      "description": "\u003cp\u003eOn the back of mass market-wide liquidations, XRP seems to have found the footing needed for its next attempt at a new all-time high, according to an expert analyst.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-drops-below-2-20-is-1-94-the-key-to-its-next-rally/\"\u003eXRP Price Drops Below $2.20 – Was $1.94 the Key to Its Next Bullish Surge?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-drops-below-2-20-is-1-94-the-key-to-its-next-rally/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "bull run",
+        "Price Prediction",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/11132305/1733923384-xrp-drops-below-2-20-could-1-94-be-the-key-to-its-next-bullish-surge.jpg"
+      },
+      "published": "2024-12-11T15:19:43Z"
+    }
+  },
+  {
+    "hash": "d081d6f2992713648617da65547ceb4993b9043879db82d49730d5ecf7aa1769",
+    "item": {
+      "title": "India’s Central Bank Governor Sees Huge Potential of CBDC",
+      "description": "\u003cp\u003eShaktikanta Das, Governor of the Reserve Bank of India, underscores the potential of CBDC to transform India's economy, highlighting the advancements made in the digital rupee pilot\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cbdc-has-a-huge-potential-in-indias-future-economy-central-bank-governor/\"\u003eIndia\u0026#8217;s Central Bank Governor Sees Huge Potential of CBDC\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cbdc-has-a-huge-potential-in-indias-future-economy-central-bank-governor/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Digital Rupee",
+        "India",
+        "Reserve Bank of India(RBI)"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/11134241/1733924561-image-1733922926349_optimized.jpg"
+      },
+      "published": "2024-12-11T15:08:33Z"
+    }
+  },
+  {
+    "hash": "169df4607ad381ed08fba752f0610863c41bddb44ef2b4085f01c3b903621c81",
+    "item": {
+      "title": "Bitget Eyes Lithuania for EU Regional Hub Amid MiCA Compliance Plans",
+      "description": "\u003cp\u003eBitget plans to establish a European regional hub in Lithuania as part of its expansion strategy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitget-eyes-lithuania-for-eu-regional-hub-amid-mica-compliance-plans/\"\u003eBitget Eyes Lithuania for EU Regional Hub Amid MiCA Compliance Plans\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitget-eyes-lithuania-for-eu-regional-hub-amid-mica-compliance-plans/"
+      ],
+      "categories": [
+        "DeFi News",
+        "Bitget",
+        "Europe",
+        "MiCA Regulations"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/11123817/1733920697-image-1733920663111_optimized.jpg"
+      },
+      "published": "2024-12-11T14:18:16Z"
+    }
+  },
+  {
+    "hash": "8057c02d5ab31050668a83dddb454c108b56ac5dfbc94444fb607108200b2fed",
+    "item": {
+      "title": "Linux 6.13 Delivering Some Incremental Gains With AMD EPYC 9575F Performance",
+      "description": "With the in-development Linux 6.13 kernel one of the biggest features for those using new AMD EPYC 9005 \"Turin\" processors is using the AMD P-State driver by default for servers/motherboards with ACPI CPPC support enabled. But even for platforms without that where ACPI CPUFreq remains the default, the Linux 6.13 kernel is still showing some nice incremental uplift at large on these new AMD server processors. Here are some Linux 6.11 vs. 6.12 vs. 6.13 Git kernel benchmarks using an AMD EPYC 9575F 64-core server.",
+      "links": [
+        "https://www.phoronix.com/review/linux-613-amd-epyc-9575f"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-11T16:30:00Z"
+    }
+  },
+  {
+    "hash": "aa8ff2e2d117efa05a4f6311d3f4d3abe9452402bc6324d844737fca837a11f1",
+    "item": {
+      "title": "SiFive HiFive Premier P550 RISC-V Price Lowered, Ubuntu 24.04 Support Ready",
+      "description": "Going back to April 2024, SiFive announced the HiFive Premier P550 as an interesting RISC-V developer board to succeed their HiFive Unleashed that was a nice little RISC-V board. There were delays in shipping the HiFive Premier P550 but they have been making progress and are now ready to ship Ubuntu 24.04 LTS pre-installed on this RISC-V board. They have also lowered the pricing on these RISC-V boards...",
+      "links": [
+        "https://www.phoronix.com/news/HiFive-Premier-P550-Drop"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-11T16:10:08Z"
+    }
+  },
+  {
+    "hash": "715b70a0df2d91471d678c6b791a17ac534d8d79fee1b8f0f3d27bf4b9ed399a",
+    "item": {
+      "title": "OpenMandriva ROME 24.12 Released With KDE Plasma 6 Desktop By Default",
+      "description": "For fans of OpenMandriva or just wanting to reminisce over the former Mandrake Linux days, OpenMandriva ROME 24.12 is out today as the newest update to this Linux distribution...",
+      "links": [
+        "https://www.phoronix.com/news/OpenMandriva-ROME-24.12"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-11T15:16:29Z"
+    }
+  },
+  {
+    "hash": "01aa54412f1c25202272e5312b9d664b7547622a516ed5e80f7df8cc924c8a3e",
+    "item": {
+      "title": "PeerTube mobile app: discover videos while caring for your attention",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388488\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://joinpeertube.org/news/peertube-app"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T15:09:56Z"
+    }
+  },
+  {
+    "hash": "9bbdb74380278abce1212c34852fa5843577a7915d395a0159d28fe1d55b3e3e",
+    "item": {
+      "title": "Atrazine, an endocrine-disrupting herbicide banned in EU,still widely used in US",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42390236\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://water.usgs.gov/nawqa/pnsp/features/feature.php"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T17:25:25Z"
+    }
+  },
+  {
+    "hash": "6a517bfdec3fee028128acb4cacef8458fbc5ed85b5c0e05dcca79def95107c6",
+    "item": {
+      "title": "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42389532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T16:33:56Z"
+    }
+  },
+  {
+    "hash": "eaa9efd13b56e1a70c597eed9df768346c45e21e912086643ac5bd78c917f24e",
+    "item": {
+      "title": "Overweight overtakes tobacco smoking as the leading disease risk factor in 2024",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.scimex.org/newsfeed/being-overweight-overtakes-tobacco-smoking-as-the-leading-disease-risk-factor-in-2024"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T14:51:08Z"
+    }
+  },
+  {
+    "hash": "baca3497aed63e2ac7026e21df94c06135872e59f85e2b0fb34e1e9b6524c167",
+    "item": {
+      "title": "Gemini 2.0: our new AI model for the agentic era",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388783\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T15:33:54Z"
+    }
+  },
+  {
+    "hash": "6b30766be83b4c8c0eb53c1a1b56803850591da33b75da6d29b914b3cce9a9cb",
+    "item": {
+      "title": "Dioxus 0.6 – Crossplatform apps with Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388665\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dioxuslabs.com/blog/release-060/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T15:24:10Z"
+    }
+  },
+  {
+    "hash": "69e5e8b0d9c55e9ad07495bc4e228fc17adb105fa07814a2c82a770ee665b520",
+    "item": {
+      "title": "Pgroll – Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388973\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pgroll.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T15:51:22Z"
+    }
+  },
+  {
+    "hash": "448724c36aa1f13c640728679c45e99d39c60b511e2b4965feacf4ff11c828ac",
+    "item": {
+      "title": "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42389895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T17:00:41Z"
+    }
+  },
+  {
+    "hash": "75905c3f6dbd19826934a7e73d99dac2c87fa683622378f2060b7b17d3f4e444",
+    "item": {
+      "title": "Django and Postgres for the Busy Rails Developer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388340\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://andyatkinson.com/django-python-postgres-busy-rails-developer"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T14:56:29Z"
+    }
+  },
+  {
+    "hash": "6efc9c7dca6bb1096f487a74cebcd586044740ecee46101d43b5c7c2f60f1750",
+    "item": {
+      "title": "The GPU is not always faster",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388009\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cowfreedom.de/#dot_product/introduction/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T14:28:42Z"
+    }
+  },
+  {
+    "hash": "079ff423bcc71dd846fa353f57c5fb464821f23101eeae196f4950da03d4be31",
+    "item": {
+      "title": "Trillium TPU Is GA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388901\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T15:44:58Z"
+    }
+  },
+  {
+    "hash": "ed2eac77c9796464d8f34dcfe08cb810c703ed9ca4d0dbc546e14db0bcca3b65",
+    "item": {
+      "title": "FCC Opens Entire 6 GHz Band to Low Power Device Operations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42390344\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.fcc.gov/document/fcc-opens-entire-6-ghz-band-very-low-power-device-operations"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T17:35:04Z"
+    }
+  },
+  {
+    "hash": "4d4d0873ad088cca8d65a63dc70cae5fea672fef1bbd9e12129bc0318bab12c7",
+    "item": {
+      "title": "Machine Learning-Driven Static Profiling for GraalVM Native Image",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388109\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/graalvm/machine-learning-driven-static-profiling-for-native-image-d7fc13bb04e2"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T14:36:20Z"
+    }
+  },
+  {
+    "hash": "30ec5924dd4ec77f5686a593a8ecf01b4221e36c7506a2f88e0367aaf5a278e9",
+    "item": {
+      "title": "Show HN: KeyTik: The All-in-One Automation Tool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42348716\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Fajar-RahmadJaya/KeyTik"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-07T10:19:50Z"
+    }
+  },
+  {
+    "hash": "b9bb2e36ccfbb5430ba40dd32ffeb44d30b399b8aa89a7dda4a9d89059b8a39e",
+    "item": {
+      "title": "Phantom Vibrations of a Lost Smartphone",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42357377\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sapiens.org/culture/smartphones-cyborgs-phantom-limb/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-08T14:39:28Z"
+    }
+  },
+  {
+    "hash": "392b503ef1381c3a5e99f7ce8b7843343ae0f294f25923b8f7263fd9c63eb107",
+    "item": {
+      "title": "WhatsApp for Business Changed the World",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42366753\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-09T14:57:01Z"
+    }
+  },
+  {
+    "hash": "da8fbdf1259cf4aa632928b3626a1cbdbd39c40092eb96cc82ec6249107299d2",
+    "item": {
+      "title": "Don't Get Distracted",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388354\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://calebhearth.com/dont-get-distracted"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T14:57:25Z"
+    }
+  },
+  {
+    "hash": "4fa362fbedcfbf565e16d697565bbc90c88210b18c36be8ff8aa2deb0356383e",
+    "item": {
+      "title": "OnlyFans Models Are Using AI Impersonators to Keep Up with Their DMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42390210\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T17:23:33Z"
+    }
+  },
+  {
+    "hash": "75268b2222d60509e0d443edbf6d0fc4ecf35b1f3baac80e3baa599eb78504a2",
+    "item": {
+      "title": "12 Days of OpenAI: Day 5 [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42390672\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=mBhkD0iFf4w"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T18:00:20Z"
+    }
   }
 ]
