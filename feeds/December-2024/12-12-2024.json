@@ -512,5 +512,51 @@
       "source": "Hacker News",
       "published": "2024-12-08T16:58:48Z"
     }
+  },
+  {
+    "hash": "9b5ff0253a74fd8ffdbd44d3eff23e0cf630db0c3940f484257c0fc2e953aca4",
+    "item": {
+      "title": "Linux Fixes Regression That Broke File Names With ❤️ \u0026 Other Special Characters",
+      "description": "Linus Torvalds took to reverting some code tonight within the mainline Linux kernel that inadvertently had broken support having filenames with ❤️ and other special Unicode characters in filenames when on file-systems with case-folding (optional case insensitive file/folder name) support...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Reverts-Special-Char-Uni"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-12T02:11:01Z"
+    }
+  },
+  {
+    "hash": "c1c4c4e3d71d4ce367ab7630cadd9295a9cc9ea3aa6ec96c45092ebeb59acba7",
+    "item": {
+      "title": "OpenZFS 2.2.7 Released With Linux 6.12 Support, Many Fixes",
+      "description": "While we are awaiting the release of OpenZFS 2.3 that has been seeing release candidates since early October, OpenZFS 2.2.7 is out today as the newest stable release of this ZFS file-system implementation for Linux and FreeBSD systems...",
+      "links": [
+        "https://www.phoronix.com/news/OpenZFS-2.2.7-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-12T01:18:57Z"
+    }
+  },
+  {
+    "hash": "63d171d5b652ccbf468d4e5ef11cf1e6cc1f074b09e5d3c234ea54024132fb5a",
+    "item": {
+      "title": "Ham Radio All-in-One-Cable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42344819\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/skuep/AIOC"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-06T21:43:38Z"
+    }
   }
 ]
