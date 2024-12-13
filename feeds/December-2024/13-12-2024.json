@@ -1225,5 +1225,805 @@
       "source": "Hacker News",
       "published": "2024-12-10T21:59:39Z"
     }
+  },
+  {
+    "hash": "3f024871989dfa1ab6ee420cc28c237b19b9829eea6160fb58abbfc43c90cf9f",
+    "item": {
+      "title": "AI Product Management",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42407431\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.deeplearning.ai/the-batch/issue-279/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-13T10:29:05Z"
+    }
+  },
+  {
+    "hash": "6d5a356bb11aea409080519aaff18349db887149f45f18e389b63876010e0a7d",
+    "item": {
+      "title": "Mastering Ruby Debugging: From Puts to Professional Tools",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42376083\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.jetbrains.com/ruby/2024/12/mastering_ruby_debugging/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-10T12:06:55Z"
+    }
+  },
+  {
+    "hash": "4301e124317ea3be2a6d1b0f3db2561d49be82977f3ea497295fadf3bd34413e",
+    "item": {
+      "title": "Saving Voyager 1 [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42385393\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=dF_9YcehCZo"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T06:36:38Z"
+    }
+  },
+  {
+    "hash": "306728d946c540429981f60a350f4c34e393db7f04de79a7db0194775e111133",
+    "item": {
+      "title": "The dirty secret about OnlyFans: it's not hot to be a prostitute",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42407619\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://unherd.com/2024/12/the-dirty-secret-about-onlyfans/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-13T11:16:57Z"
+    }
+  },
+  {
+    "hash": "d4e22144d3de0f30744ce1bb9699642116eab2caadea711c1f6dedee38ce7f41",
+    "item": {
+      "title": "Ubuntu 25.04 Planning To Ship With The Linux 6.14 Kernel",
+      "description": "This shouldn't be too surprising especially after Canonical's commitment last year to always ship the latest upstream kernel version for Ubuntu releases moving forward, but the plan was confirmed today that Ubuntu 25.04 intends to ship with the Linux 6.14 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.04-Plans-Linux-6.14"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-13T11:48:53Z"
+    }
+  },
+  {
+    "hash": "edfb852da34b6fec0e3977f444f75254a7bbef0a8ddbf06b5d35881673b27a6d",
+    "item": {
+      "title": "Intel Looking To Raise SPIR-V Backend To Becoming An Official LLVM Target",
+      "description": "The SPIR-V target within the LLVM compiler for outputting to this common IR used across different accelerator/device types, different APIs from Vulkan and SYCL to GLSL / OpenCL / HLSL, and adapted for a variety of innovative use-cases could soon become an official target within LLVM...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-LLVM-SPIR-V-Official-Plan"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-13T11:35:40Z"
+    }
+  },
+  {
+    "hash": "54b3c23ce35d687574faf9b7198b0befc0e479f9a7ccf3929f5dd061a8be0221",
+    "item": {
+      "title": "GNOME 48 Mutter To Enjoy Improved Cursor Scaling For Wine Wayland \u0026 More",
+      "description": "Merged this week to GNOME's Mutter compositor for the GNOME 48 release is support for the wp_viewport protocol for cursor surfaces in order to provide a nicer experience on cursor scaling...",
+      "links": [
+        "https://www.phoronix.com/news/GNOME-48-Mutter-Cursor-Scaling"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-13T11:21:14Z"
+    }
+  },
+  {
+    "hash": "3ef20558966b46729639a6cff83298f6e090c3024f1b4ac6fe53dff4f5e96c57",
+    "item": {
+      "title": "Intel Panther Lake \u0026 Clearwater Forest Power Management Patches For Linux 6.14",
+      "description": "Intel engineer and Linux power management subsystem maintainer Rafael Wysocki queued up several power management related patches this week for Intel's upcoming Core Ultra \"Panther Lake\" processors as well as the next-gen Xeon Clearwater Forest processors...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Panther-Clearwater-PM-614"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-13T11:06:57Z"
+    }
+  },
+  {
+    "hash": "787f1a8403b29dc68569b3a7b32a8f2b011360c57b70ae1a0982dbc69fbd02d2",
+    "item": {
+      "title": "MEXC Vietnam Unveils MShow: Bridging Communities and Driving Market Expansion",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-61.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-61.jpg 781w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-61-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-61-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-61-376x212.jpg 376w\" sizes=\"(max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eMEXC, a global leader in cryptocurrency trading, is set to host the grand finale of MShow on December 14, an event designed to celebrate creativity and spotlight key trendsetters in the Vietnamese market. The competition will conclude with the crowning of a winner who embodies the creativity and innovation shaping",
+      "links": [
+        "https://thenewscrypto.com/mexc-vietnam-unveils-mshow-bridging-communities-and-driving-market-expansion/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-61.jpg"
+      },
+      "published": "2024-12-13T08:26:36Z"
+    }
+  },
+  {
+    "hash": "b42be657445bed71084e45729513ba8837dcde9ba0316778a0900626de9e5864",
+    "item": {
+      "title": "Google’s Quantum Chip ‘Willow’ Breaks Barriers, Igniting Crypto Security Debates",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/b.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Google’s Quantum Chip ‘Willow’ Breaks Barriers, Igniting Crypto Security Debates\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/b.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/b-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/b-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA computational problem\u0026#160;that would take one of the top supercomputers around ten septillion years to complete may now be solved in less than five minutes, according to Google\u0026#8217;s Quantum AI team\u0026#8217;s new quantum computing chip. In a blog post on December 9, Google\u0026#8217;s Quantum AI head Hartmut Neven explained that",
+      "links": [
+        "https://thenewscrypto.com/googles-quantum-chip-willow-breaks-barriers-igniting-crypto-security-debates/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Google"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/b.jpg"
+      },
+      "published": "2024-12-13T08:17:58Z"
+    }
+  },
+  {
+    "hash": "071085f8f9ddacc49eff7e272f7468f067fb5d5e69a40c3d2715572753b9974e",
+    "item": {
+      "title": "Floki Inu’s Hype vs Lightchain AI’s Groundbreaking Features Who Will Win the Market?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-3-8.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Floki Inu’s Hype vs Lightchain AI’s Groundbreaking Features Who Will Win the Market?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-3-8.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-3-8-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-3-8-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe cryptocurrency world thrives on diversity, where each project brings its own flavor to the table. Floki Inu, a meme-inspired cryptocurrency, has captured widespread attention with its engaging branding and enthusiastic community. On the other hand, Lightchain AI ($LCAI) is reshaping the blockchain landscape with revolutionary technologies like Proof of",
+      "links": [
+        "https://thenewscrypto.com/floki-inus-hype-vs-lightchain-ais-groundbreaking-features-who-will-win-the-market/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Floki",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-3-8.jpg"
+      },
+      "published": "2024-12-13T08:00:00Z"
+    }
+  },
+  {
+    "hash": "16415f86315c72c442d7d6ca5480f2b88ef1b06fe66982d4f607ebca81802434",
+    "item": {
+      "title": "DWF Labs Partners with Blockchain Center Abu Dhabi to Boost Web3 Innovation in MENA Region",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/07/partner.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"DWF Labs Partners with Blockchain Center Abu Dhabi to Boost Web3 Innovation in MENA Region\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/07/partner.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/07/partner-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/07/partner-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIt is with great pride that DWF Labs, a new generation Web3 market maker and cryptocurrency investor, announces that they have signed a Memorandum of Understanding (MOU) with The Blockchain Center Abu Dhabi. DWF Labs\u0026#8217; dedication to fostering innovation and development within the Web3 ecosystem is once again shown by",
+      "links": [
+        "https://thenewscrypto.com/dwf-labs-partners-with-blockchain-center-abu-dhabi-to-boost-web3-innovation-in-mena-region-2/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/07/partner.jpg"
+      },
+      "published": "2024-12-13T08:00:00Z"
+    }
+  },
+  {
+    "hash": "e5b4e7eeb169d8b0bbadae285629ab0f06cc5e41ad2fca07afffd05d0d40c2d4",
+    "item": {
+      "title": "Will Trump’s World Liberty Financial Continue Buying LINK and AAVE?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Donald-Trump-s-World-Liberty-Financial.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Will Trump’s World Liberty Financial Continue Buying LINK and AAVE?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Donald-Trump-s-World-Liberty-Financial.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Donald-Trump-s-World-Liberty-Financial-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Donald-Trump-s-World-Liberty-Financial-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAave and Chainlink emerged as the top cryptocurrency gainers on Thursday. The surge followed significant purchases by World Liberty Financial, a decentralized finance (DeFi) project linked to U.S. President-elect Donald Trump. AAVE led the market rally, climbing 19.24% in the past 24 hours to $361.60, its highest price since September",
+      "links": [
+        "https://thenewscrypto.com/will-trumps-world-liberty-financial-continue-buying-link-and-aave/"
+      ],
+      "categories": [
+        "Market News",
+        "AAVE",
+        "Chainlink (LINK)",
+        "DonaldTrump",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Donald-Trump-s-World-Liberty-Financial.jpg"
+      },
+      "published": "2024-12-13T07:45:39Z"
+    }
+  },
+  {
+    "hash": "fa31c2980a014043c2f09e7f26878ecd3a9c0f71fc52b82bb6dda5f50b70f417",
+    "item": {
+      "title": "Avalanche (AVAX) Price Prediction 2024, 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Avalanche (AVAX) Price Prediction 2023 — Will AVAX Hit $20 Soon?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Avalanche (AVAX) price prediction 2024, 2025-2030,\u0026#160; we will analyze the price patterns of AVAX by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Avalanche (AVAX) Current Market Status What is Avalanche (AVAX)? Avalanche (AVAX) 24H Technicals AVALANCHE (AVAX)",
+      "links": [
+        "https://thenewscrypto.com/avalanche-avax-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Avalanche",
+        "AVAX",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction.jpg"
+      },
+      "published": "2024-12-13T07:38:44Z"
+    }
+  },
+  {
+    "hash": "1cd9188d22d0816c36ab4b45503bf240705ccb8630f89bc0ce52d59c78b60a68",
+    "item": {
+      "title": "Chainlink (LINK) Price Prediction 2024, 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chainlink (LINK) Price Prediction 2023, 2024, 2025-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Chainlink (LINK) price prediction 2024, 2025-2030,\u0026#160;we will analyze the price patterns of LINK by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Chainlink (LINK) Current Market Status What is Chainlink (LINK)? Chainlink (LINK) 24H Technicals CHAINLINK (LINK) PRICE",
+      "links": [
+        "https://thenewscrypto.com/chainlink-link-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Chainlink Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg"
+      },
+      "published": "2024-12-13T07:16:31Z"
+    }
+  },
+  {
+    "hash": "b0075dac5e26bd0a38100ca154be585a8ac971626c13539a76836356d2d965fb",
+    "item": {
+      "title": "Solana Price Surge on the Horizon: Key Factors to Know",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Solana-Shows-Recovery-Signs-as-Price-Tightens-its-Hold-Above-240.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana Price Surge on the Horizon: Key Factors to Know\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Solana-Shows-Recovery-Signs-as-Price-Tightens-its-Hold-Above-240.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/Solana-Shows-Recovery-Signs-as-Price-Tightens-its-Hold-Above-240-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/Solana-Shows-Recovery-Signs-as-Price-Tightens-its-Hold-Above-240-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSolana (SOL) has emerged as one of the most resilient players in the cryptocurrency market, consistently capturing demand of both retail and institutional investors. Despite the broader volatility in the crypto space, SOL has demonstrated strong growth potential, driven by the increasing adoption of its ecosystem for decentralized applications (dApps),",
+      "links": [
+        "https://thenewscrypto.com/solana-price-surge-on-the-horizon-key-factors-to-know/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/Solana-Shows-Recovery-Signs-as-Price-Tightens-its-Hold-Above-240.jpg"
+      },
+      "published": "2024-12-13T07:07:41Z"
+    }
+  },
+  {
+    "hash": "23928f87c88e088b13725ee3307c3d26e75f622cbcf50f58e9a83ba359099141",
+    "item": {
+      "title": "Can Lightchain AI’s Ecosystem Attract Developers as Fast as Sui’s Network?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-1-11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Lightchain AI’s Ecosystem Attract Developers as Fast as Sui’s Network?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-1-11.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-1-11-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-1-11-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe competition to attract developers in the blockchain space is heating up, and new platforms are making waves. Lightchain AI ($LCAI), with its groundbreaking integration of artificial intelligence into blockchain technology, is quickly emerging as a game-changer. Developers can now explore its innovative features through the Lightchain AI Presale, providing",
+      "links": [
+        "https://thenewscrypto.com/can-lightchain-ais-ecosystem-attract-developers-as-fast-as-suis-network/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/unnamed-1-11.jpg"
+      },
+      "published": "2024-12-13T06:51:19Z"
+    }
+  },
+  {
+    "hash": "c6eab8954e0eacea2ce19c68441ee340022da794be4f8383ee544057f8370517",
+    "item": {
+      "title": "Trump Advisers Explore Restructuring Banking Regulators",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Trump-Advisers-Explore-Restructuring-Banking-Regulators.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Trump Advisers Explore Restructuring Banking Regulators\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Trump-Advisers-Explore-Restructuring-Banking-Regulators.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Trump-Advisers-Explore-Restructuring-Banking-Regulators-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Trump-Advisers-Explore-Restructuring-Banking-Regulators-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDonald Trump’s transition team is reportedly examining the changes to the federal banking regulatory framework in collaboration with the recently established Department of Government Efficiency (DOGE). The proposals, which could reshape the Federal Deposit Insurance Corporation (FDIC) and the Office of the Comptroller of the Currency (OCC), have raised concerns. ",
+      "links": [
+        "https://thenewscrypto.com/trump-advisers-explore-restructuring-banking-regulators/"
+      ],
+      "categories": [
+        "Market News",
+        "DOGE",
+        "FDIC",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Trump-Advisers-Explore-Restructuring-Banking-Regulators.jpg"
+      },
+      "published": "2024-12-13T06:45:26Z"
+    }
+  },
+  {
+    "hash": "9ec288a7b65c934cf8fcac42260e0a4f4ce29b6b6a7c5c467d4bc20cee79ac31",
+    "item": {
+      "title": "Rocket Report: Chinese national flies drone near Falcon 9, Trouble down under",
+      "description": "\"I am convinced that a collaboration between Avio and MaiaSpace could be established.\"",
+      "links": [
+        "https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/"
+      ],
+      "categories": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GeYXmxnawAA6Q1w-1152x648.jpg"
+      },
+      "published": "2024-12-13T11:30:46Z"
+    }
+  },
+  {
+    "hash": "fc940e9c78cc74c6e5559378652a55bb38822d2630b60a57cada2e776636a0cf",
+    "item": {
+      "title": "Topology Ventures Led by Casey Caruso Raises $75M",
+      "description": "\u003cp\u003eCasey Caruso, Google-engineer-turned-investor, has raised $75 million for her new venture capital firm, Topology Ventures. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/topology-ventures-led-by-casey-caruso-raises-75m/\"\u003eTopology Ventures Led by Casey Caruso Raises $75M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/topology-ventures-led-by-casey-caruso-raises-75m/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Topology Ventures",
+        "VC Funding"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13091945/1734081585-0_1_optimized-2.jpg"
+      },
+      "published": "2024-12-13T09:55:02Z"
+    }
+  },
+  {
+    "hash": "7bfcd4a049df4fe03c7da1cf880d2d75a820cdefa8b11077cbd59c12db77a6e2",
+    "item": {
+      "title": "U.S. Judge Slams FDIC for Redacting Crypto ‘Pause Letters’ in Coinbase-Backed FOIA Lawsuit",
+      "description": "\u003cp\u003eA U.S. federal judge has criticized the FDIC for its extensive redactions of so-called “pause letters” sent to banks regarding crypto-related activities.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/judge-criticizes-fdic-over-redactions-in-coinbase-backed-crypto-foia-case/\"\u003eU.S. Judge Slams FDIC for Redacting Crypto \u0026#8216;Pause Letters\u0026#8217; in Coinbase-Backed FOIA Lawsuit\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/judge-criticizes-fdic-over-redactions-in-coinbase-backed-crypto-foia-case/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Coinbase",
+        "FDIC",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13082627/1734078387-0_3-1_optimized.jpg"
+      },
+      "published": "2024-12-13T09:02:37Z"
+    }
+  },
+  {
+    "hash": "4a40839a41b5897a25cb82ca4731f57a2c9aa68df44e70826dbbfcb7d79f9581",
+    "item": {
+      "title": "Key Leader in Digital Euro Efforts Resigns to Quash German Bias Claims",
+      "description": "\u003cp\u003eStefan Berger resigned as the European Parliament's digital euro leader to clear doubts that the German center-right was stalling the project for a unified eurozone digital currency.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/key-digital-euro-leader-stefan-berger-resigns-quash-german-bias-claims/\"\u003eKey Leader in Digital Euro Efforts Resigns to Quash German Bias Claims\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/key-digital-euro-leader-stefan-berger-resigns-quash-german-bias-claims/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Digital Euro"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13082240/1734078159-0_1_optimized.jpg"
+      },
+      "published": "2024-12-13T08:39:57Z"
+    }
+  },
+  {
+    "hash": "7a4a9dafb8031c252047014a5121427dd4dbf08481c78bc27222bc0e5311d4ad",
+    "item": {
+      "title": "Former Grayscale CEO Joins Tokenization Platform Securitize",
+      "description": "\u003cp\u003eTokenization platform Securitize has appointed Michael Sonnenshein, the former CEO of Grayscale Investments, as its new executive leader.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/former-grayscale-ceo-joins-tokenization-platform-securitize/\"\u003eFormer Grayscale CEO Joins Tokenization Platform Securitize\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/former-grayscale-ceo-joins-tokenization-platform-securitize/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Grayscale Investments",
+        "Michael Sonnenshein",
+        "Securitize"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13075611/1734076571-0_0-1_optimized.jpg"
+      },
+      "published": "2024-12-13T08:33:20Z"
+    }
+  },
+  {
+    "hash": "53ebd75e028d2ea1defd2b13780027a6b763cb4b623f650936e759a0852fbcce",
+    "item": {
+      "title": "Bank of England Demands Firms to Disclose Crypto Exposure by March 2025",
+      "description": "\u003cp\u003eThe Bank of England’s regulatory arm has issued a directive requiring businesses to disclose their current and anticipated exposure to crypto assets by March 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bank-of-england-demands-firms-to-disclose-crypto-exposure/\"\u003eBank of England Demands Firms to Disclose Crypto Exposure by March 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bank-of-england-demands-firms-to-disclose-crypto-exposure/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Ethereum",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13073621/1734075381-0_2-2_optimized.jpg"
+      },
+      "published": "2024-12-13T08:23:05Z"
+    }
+  },
+  {
+    "hash": "5b566c07602b3be746d572ece73316a690ff2244f1f47d3ec8a2f2c7eb1962cb",
+    "item": {
+      "title": "Binance Leads with $21.6 Billion in Deposits in 2024, Outpacing Top 10 Exchanges Combined",
+      "description": "\u003cp\u003eBinance has solidified its position as the world’s leading cryptocurrency exchange, boasting $21.6 billion in customer deposits for 2024.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-leads-with-21-6-billion-in-deposits-in-2024/\"\u003eBinance Leads with $21.6 Billion in Deposits in 2024, Outpacing Top 10 Exchanges Combined\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-leads-with-21-6-billion-in-deposits-in-2024/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Binance",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13070845/1734073725-leonardo_phoenix_prompt_a_towering_futuristic_skyscraper_with_3_optimized.jpg"
+      },
+      "published": "2024-12-13T07:16:35Z"
+    }
+  },
+  {
+    "hash": "6452ab3b10782362a056b4ce6f3e623e154c0713c0b9ed2ebe35a0d93d6b729c",
+    "item": {
+      "title": "Solana Ecosystem Outpaces Ethereum in Terms of New Crypto Developers: Report",
+      "description": "\u003cp\u003eIn 2024, 7,625 new developers used Solana ecosystem, while 6,456 developers have explored Ethereum.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-ecosystem-outpaces-ethereum-in-terms-of-developers/\"\u003eSolana Ecosystem Outpaces Ethereum in Terms of New Crypto Developers: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-ecosystem-outpaces-ethereum-in-terms-of-developers/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Ethereum",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13062940/1734071380-image-1734071342675_optimized.jpg"
+      },
+      "published": "2024-12-13T06:35:10Z"
+    }
+  },
+  {
+    "hash": "ee80adf800156039f565b3bc258ec194588178c9d690440052028dbcf8a3410a",
+    "item": {
+      "title": "Bitcoin and Ether ETFs Combined See $870M Daily Inflows Amid Investor Confidence",
+      "description": "\u003cp\u003eBitcoin and Ether ETFs attracted $870m in daily inflows Friday, despite Bitcoin struggling to break past the $102K resistance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-ether-etfs-attract-870m-daily-inflows/\"\u003eBitcoin and Ether ETFs Combined See $870M Daily Inflows Amid Investor Confidence\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-ether-etfs-attract-870m-daily-inflows/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin ETF",
+        "Ether ETFs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13060246/1734069766-image-1734069569940_optimized-1.jpg"
+      },
+      "published": "2024-12-13T06:12:41Z"
+    }
+  },
+  {
+    "hash": "b7f8554ae2823ad9c976cf34e79707bdf51895ddc11247196b2703996ec893ef",
+    "item": {
+      "title": "Bitcoin Price Near $100K: Kraken Faces $5.1M Fine and Texas Pushes Bitcoin Reserve Bill",
+      "description": "\u003cp\u003eBitcoin price nears $100K as Kraken is fined $5.1M for regulatory breaches. Texas proposes a strategic Bitcoin reserve, signaling growing crypto adoption.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-near-100k-kraken-faces-5-1m-fine-and-texas-pushes-bitcoin-reserve-bill/\"\u003eBitcoin Price Near $100K: Kraken Faces $5.1M Fine and Texas Pushes Bitcoin Reserve Bill\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-near-100k-kraken-faces-5-1m-fine-and-texas-pushes-bitcoin-reserve-bill/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/09144214/1728455987-image-30-1.jpg"
+      },
+      "published": "2024-12-13T06:09:02Z"
+    }
+  },
+  {
+    "hash": "3601230b611c4270523e705c003b3c148bf134631314dd4baeadff788ef76bdf",
+    "item": {
+      "title": "Pro-Crypto Rep. French Hill Chosen to Lead House Financial Services Committee",
+      "description": "\u003cp\u003eRep. French Hill (R-Ark.) has been chosen to chair the House Financial Services Committee, where he will oversee the crypto sector under Donald Trump's second term.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/french-hill-chosen-lead-house-financial-services-committee/\"\u003ePro-Crypto Rep. French Hill Chosen to Lead House Financial Services Committee\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/french-hill-chosen-lead-house-financial-services-committee/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulations",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/13042455/1734063895-image-1734063482806_optimized.jpg"
+      },
+      "published": "2024-12-13T04:39:02Z"
+    }
+  },
+  {
+    "hash": "05de17f568e8772c2c77687de09886f58efc87f291bc1c113f30ebe7a8fb4bc9",
+    "item": {
+      "title": "How A Strategic Bitcoin Reserve Will Impact Texas, Its Economy And Taxpayers",
+      "description": "\u003cp\u003ePolicy makers explain how Texas' Strategic Bitcoin Reserve will impact the economy and taxpayers who may be able to pay taxes in crypto.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/how-a-strategic-bitcoin-reserve-will-impact-texas-its-economy-and-taxpayers/\"\u003eHow A Strategic Bitcoin Reserve Will Impact Texas, Its Economy And Taxpayers\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/how-a-strategic-bitcoin-reserve-will-impact-texas-its-economy-and-taxpayers/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Reserve",
+        "Texas"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/12230915/1734044955-image-1734040059276_optimized.jpg"
+      },
+      "published": "2024-12-13T03:50:21Z"
+    }
+  },
+  {
+    "hash": "4f87aa4567527ae184d7a17dbff19651a77ca97f2c25243f8b01d7b1fe5b5098",
+    "item": {
+      "title": "Russian Police Arrest 300 in Raid on ‘International Crypto Call Center Scammers’",
+      "description": "\u003cp\u003eRussian police have arrested at least 300 people in raids on a suspected international call center crypto scam ring based in Moscow.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/russian-police-arrest-300-in-raid-on-international-crypto-call-center-scammers/\"\u003eRussian Police Arrest 300 in Raid on ‘International Crypto Call Center Scammers’\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/russian-police-arrest-300-in-raid-on-international-crypto-call-center-scammers/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Police",
+        "Russia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/12140018/1734012018-image-1734011426799_optimized.jpg"
+      },
+      "published": "2024-12-13T03:00:00Z"
+    }
+  },
+  {
+    "hash": "95ce8e752df26a8663a7d558437d6dd4302fef73dc62d63e8096e21e24774a7b",
+    "item": {
+      "title": "Japanese Lawmaker Asks Government to Create National Bitcoin Reserve",
+      "description": "\u003cp\u003eA Japanese lawmaker has asked the government to launch a national Bitcoin reserve, echoing similar recent calls from MPs in Argentina, Russia, and beyond.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/japanese-lawmaker-asks-government-to-create-national-bitcoin-reserve/\"\u003eJapanese Lawmaker Asks Government to Create National Bitcoin Reserve\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/japanese-lawmaker-asks-government-to-create-national-bitcoin-reserve/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin adoption",
+        "Japan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/12140023/1734012022-image-1734011436608_optimized.jpg"
+      },
+      "published": "2024-12-12T23:30:00Z"
+    }
+  },
+  {
+    "hash": "1eddfdead35e735033abe9761569493190e420ba6155f1da844181ad257e7190",
+    "item": {
+      "title": "Sweden’s Spotlight Stock Market Adds 20 Valour Crypto ETPs in Record Launch",
+      "description": "\u003cp\u003eSweden’s Spotlight Stock Market has launched 20 new digital asset exchange-traded products (ETPs) from Valour, marking the largest single-day ETP launch and expanding access to cryptocurrency investments for traditional investors across Europe.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/swedens-spotlight-stock-market-adds-20-valour-crypto-etps-in-record-launch/\"\u003eSweden’s Spotlight Stock Market Adds 20 Valour Crypto ETPs in Record Launch\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/swedens-spotlight-stock-market-adds-20-valour-crypto-etps-in-record-launch/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "crypto stocks",
+        "Sweden"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/12220118/1734040878-image-1734040848943_optimized.jpg"
+      },
+      "published": "2024-12-12T22:13:23Z"
+    }
+  },
+  {
+    "hash": "6b5c77a998bd804d047cd2156c1ce28e5acc07aea88d2f0fe253ba8b04b5b428",
+    "item": {
+      "title": "Texas Rep. Giovanni Capriglione Files Proposal for Strategic Bitcoin Reserve",
+      "description": "\u003cp\u003eTexas Rep. Giovanni Capriglione has filed a proposal to establish a strategic Bitcoin reserve in Texas, allowing the state to accept taxes and donations in Bitcoin, enhancing fiscal stability and promoting cryptocurrency innovation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/texas-rep-giovanni-capriglione-files-proposal-for-strategic-bitcoin-reserve/\"\u003eTexas Rep. Giovanni Capriglione Files Proposal for Strategic Bitcoin Reserve\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/texas-rep-giovanni-capriglione-files-proposal-for-strategic-bitcoin-reserve/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin Reserve",
+        "Texas"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/12183318/1734028397-image-1734028372224_optimized.jpg"
+      },
+      "published": "2024-12-12T20:57:15Z"
+    }
+  },
+  {
+    "hash": "9565768cc6b466150db158f5becd941c48c5da6375b1d247a3c1cbf0f897a961",
+    "item": {
+      "title": "New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection",
+      "description": "Cybersecurity researchers have uncovered a new Linux rootkit called PUMAKIT that comes with capabilities to escalate privileges, hide files and directories, and conceal itself from system tools, while simultaneously evading detection.\n\"PUMAKIT is a sophisticated loadable kernel module (LKM) rootkit that employs advanced stealth mechanisms to hide its presence and maintain communication with",
+      "links": [
+        "https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHXY1PJ6CzHF7vXl-bcJc6Jh4utuRjvZQIQgG9CsGM4v_V-QfHNR5yx2BCf6R1YS9rij9zz-28Xd7TnSprXlvwc-7yqPUAXRM5c_V0Pq6u4GGKdr_CRlvhRBv5EmpSZ2xtwFpx9fyUQzISCqhmDdIWN004Ff82esgq9hTpG1URZx38M5iPvNUX8vtbIVtt/s1600/malware.png"
+      },
+      "published": "2024-12-13T09:11:00Z"
+    }
   }
 ]
