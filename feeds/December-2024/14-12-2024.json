@@ -1539,5 +1539,391 @@
       "source": "Hacker News",
       "published": "2024-12-12T13:05:08Z"
     }
+  },
+  {
+    "hash": "459ade7a44d35e9878bb8c6ca7392346f4357e1499aa262d24f8cb87cf34e1e5",
+    "item": {
+      "title": "Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42417480\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.essesmag.com/articles/racings-deadliest-day"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-14T14:52:36Z"
+    }
+  },
+  {
+    "hash": "19c7a0e16d30bc6b03cf3ed9241eafd28179c05a6ad91a2318f579072efb9aa9",
+    "item": {
+      "title": "Analysis of supply-chain attack on Ultralytics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42388607\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-11T15:18:34Z"
+    }
+  },
+  {
+    "hash": "390f2ce16550eb85b369d0a87d7265d1f4c1a5063f084eb3486eef4f4b4aec37",
+    "item": {
+      "title": "The Saga of the Color Brown in the Early Years of the PC (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42414371\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://nerdlypleasures.blogspot.com/2023/03/the-saga-of-color-brown-in-early-years.html"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-14T03:11:54Z"
+    }
+  },
+  {
+    "hash": "20e81bb7c1b97f8e718f78c97fd865ee17c72d1b346ea1b3e91dac2be148cd3d",
+    "item": {
+      "title": "Study reveals mammoth as key food source for ancient Americans",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42402710\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.uaf.edu/news/study-reveals-mammoth-as-key-food-source-for-ancient-americans.php"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-12T19:52:55Z"
+    }
+  },
+  {
+    "hash": "47ba67d2c6d9d577875d54fb71c8558fd2b200ccc44604c1a28daadc0a818595",
+    "item": {
+      "title": "Ilya Sutskever NeurIPS talk [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42413677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=YD-9NG1Ke5Y"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-14T00:49:17Z"
+    }
+  },
+  {
+    "hash": "ed8454e0796f24765602286e80e2602f31911728f29931daa28ef405005c9cc8",
+    "item": {
+      "title": "Engineering tunable catch bonds with DNA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42398671\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/s41467-024-52749-w"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-12T12:41:57Z"
+    }
+  },
+  {
+    "hash": "2f31014cd4452b29f8d0631a3b532a0f2b4934cd1f0b885d768a7b6fd4ccfdb2",
+    "item": {
+      "title": "Intel P-State Energy Aware Scheduling Patches Updated For Lunar Lake",
+      "description": "As covered last month on Phoronix, Intel has been experimenting with Energy Aware Scheduling (EAS) for the Intel P-State driver with a goal of enhancing the power efficiency of Core Ultra \"Lunar Lake\" processors. Recently a second iteration of that work was posted for review ahead of possible inclusion in a future version of the Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-P-State-EAS-Lunar-Lake"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-14T14:27:30Z"
+    }
+  },
+  {
+    "hash": "da6b471727a61b7df4e74bc1a4cf26afddd66ca04bf3d2ff039e4a84819098fc",
+    "item": {
+      "title": "Mesa 25.0 Introduces Standard Library For Driver OpenCL C",
+      "description": "An interesting addition to Mesa 25.0 this week is Alyssa Rosenzweig adding a standard library for the driver OpenCL C code, including the initial abbility to support assert() on device and other standard C constructs for the OpenCL C code...",
+      "links": [
+        "https://www.phoronix.com/news/OpenCL-C-Std-Lib-Mesa-25.0"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-14T13:50:02Z"
+    }
+  },
+  {
+    "hash": "0d2e154324e0633ed7cd9ce67b21a09e093ad96f21acd6d9ada2cb7185b1ef37",
+    "item": {
+      "title": "Tomarket Partners with Aptos Foundation to Launch $TOMA and Build Future Products on Aptos",
+      "description": "\u003cp\u003e\u003cimg width=\"1578\" height=\"748\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF.jpg 1578w, https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF-300x142.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF-1024x485.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF-768x364.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF-1536x728.jpg 1536w\" sizes=\"(max-width: 1578px) 100vw, 1578px\" /\u003e\u003c/p\u003eVictoria, Seychelles, 14th December 2024, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/tomarket-partners-with-aptos-foundation-to-launch-toma-and-build-future-products-on-aptos/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/IMG_1424_173416881991rQkoxpDF.jpg"
+      },
+      "published": "2024-12-14T11:35:49Z"
+    }
+  },
+  {
+    "hash": "604976299d7bd6227c25d069cfcbba1f293fc2b2f66a2f6809837cc9261c7e13",
+    "item": {
+      "title": "Is the Bitcoin Price Poised to Break Through the $103K Resistance?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Falls-to-96K-Support-After-Re-Testing-98K-Resistance.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is the Bitcoin Price Poised to Break Through the $103K Resistance?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Falls-to-96K-Support-After-Re-Testing-98K-Resistance.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Falls-to-96K-Support-After-Re-Testing-98K-Resistance-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Falls-to-96K-Support-After-Re-Testing-98K-Resistance-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs the new week of anticipation unfolds, the crypto market displays mixed signals. The major cryptocurrencies like Bitcoin and Ethereum have exhibited moderate spikes over the last 24 hours. BTC needs to test a series of resistance levels on the upside for further gains. Over the past few days, Bitcoin",
+      "links": [
+        "https://thenewscrypto.com/is-the-bitcoin-price-poised-to-break-through-the-103k-resistance/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "BTC",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Falls-to-96K-Support-After-Re-Testing-98K-Resistance.jpg"
+      },
+      "published": "2024-12-14T11:16:02Z"
+    }
+  },
+  {
+    "hash": "187927fc2da525374d64e20f0c2a260587ce024423ee349dcdf7e6020a1da8ac",
+    "item": {
+      "title": "FLOKI (FLOKI) Price Prediction 2024, 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/10/FLOKI-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"FLOKI (FLOKI) Price Prediction 2023, 2024, 2025-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/10/FLOKI-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/10/FLOKI-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/10/FLOKI-Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/10/FLOKI-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this FLOKI (FLOKI) price prediction for 2024, 2025-2030, we will analyze the price patterns of FLOKI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION FLOKI (FLOKI) Current Market Status What is FLOKI (FLOKI)? FLOKI (FLOKI) 24H Technicals FLOKI",
+      "links": [
+        "https://thenewscrypto.com/floki-floki-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Cryptocurrency",
+        "Cryptomarket",
+        "Floki",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Unnimaya"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/10/FLOKI-Price-prediction.jpg"
+      },
+      "published": "2024-12-14T11:12:23Z"
+    }
+  },
+  {
+    "hash": "699e873c4fbd7124384012a1f3fd2f16314e37a53fd7b26c09867fab0ab144af",
+    "item": {
+      "title": "Can VanEck Crypto Predictions for 2025 Become Reality?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/v-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can VanEck’s Crypto Predictions for 2025 Become Reality?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/v-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/v-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/v-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eInvestment giant VanEck has recently unveiled an optimistic outlook for the cryptocurrency market in 2025, predicting a bull market that could see Bitcoin (BTC) soaring to $180,000 and Ethereum (ETH) surpassing $6,000 in the first quarter. The report envisions a vibrant year ahead, driven by heightened institutional adoption, government participation,",
+      "links": [
+        "https://thenewscrypto.com/can-vaneck-crypto-predictions-for-2025-become-reality/"
+      ],
+      "categories": [
+        "Market News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "VanEck"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Janani"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/v-1.jpg"
+      },
+      "published": "2024-12-14T11:09:43Z"
+    }
+  },
+  {
+    "hash": "5693c95fe86f1fb340f5c507dbd0f81bb3aa20749b49798abaacd82fa8f33df2",
+    "item": {
+      "title": "Core DAO vs Lightchain AI–Evaluating Their Impact on the DeFi Ecosystem",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-73.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-73.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-73-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-73-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-73-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eDecentralized Finance (DeFi) has reshaped the financial world, enabling permissionless, transparent, and borderless financial systems. Two projects, Core DAO and Lightchain AI, are emerging as pivotal players in this evolving space. While Core DAO emphasizes decentralized governance and autonomy, Lightchain AI stands out for integrating blockchain with artificial intelligence through",
+      "links": [
+        "https://thenewscrypto.com/core-dao-vs-lightchain-ai-evaluating-their-impact-on-the-defi-ecosystem/"
+      ],
+      "categories": [
+        "Press Release",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-73.jpg"
+      },
+      "published": "2024-12-14T10:55:00Z"
+    }
+  },
+  {
+    "hash": "5dbc8e0eaa66771253ac6843a1c1c020dc33ecd967ce14030e8c1b124aed9535",
+    "item": {
+      "title": "Ethereum Stagnates its Bull Run to $4K at the $3.9K Resistance",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum $4K\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe global crypto market has decided to stay bullish this weekend as depicted by the 1.38% increase. Leading cryptocurrency, Bitcoin has surpassed its past few days’ resistance at the $100K level and is holding ground as of writing. Meanwhile, the altcoin sector has shown different signals. Some tokens such as",
+      "links": [
+        "https://thenewscrypto.com/ethereum-stagnates-its-bull-run-to-4k-at-the-3-9k-resistance/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Altcoin",
+        "ETH",
+        "ETHEREUM",
+        "Price Analysis",
+        "Recovery"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance.jpg"
+      },
+      "published": "2024-12-14T09:59:01Z"
+    }
+  },
+  {
+    "hash": "456609bf49ad1c5b838474d6f1654b8d1ddf773e4229e65ec575eabc67bb6662",
+    "item": {
+      "title": "Lightchain AI Price Prediction How Much Should You Put In LCAI Today To Make $1 Million When Price Reaches $50?",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-72.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-72.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-72-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-72-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-72-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eCryptocurrency has proven to be a lucrative avenue for strategic investors, and Lightchain AI (LCAI) is no exception. With its cutting-edge technology and market disruption, Lightchain AI is emerging as a top choice for those looking to multiply their investments. As its Lightchain AI Presale is currently priced at just",
+      "links": [
+        "https://thenewscrypto.com/lightchain-ai-price-prediction-how-much-should-you-put-in-lcai-today-to-make-1-million-when-price-reaches-50/"
+      ],
+      "categories": [
+        "Press Release",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-72.jpg"
+      },
+      "published": "2024-12-14T09:53:00Z"
+    }
+  },
+  {
+    "hash": "143b84525a3ddc151db7ad6105d97e8a513a0a0e6e6524d18018fd328786fa31",
+    "item": {
+      "title": "Lightchain AI Price Prediction for 2030 \u0026 2040 Will RXS Stand the Test of Time?",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-70.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-70.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-70-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-70-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-70-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe cryptocurrency market is known for its rapid evolution, with only a few projects standing the test of time. Lightchain AI emerges as a leader in blockchain innovation, seamlessly merging artificial intelligence with decentralized technology. As investors speculate about its long-term growth, the Lightchain AI Presale offers tokens at an",
+      "links": [
+        "https://thenewscrypto.com/lightchain-ai-price-prediction-for-2030-2040-will-rxs-stand-the-test-of-time/"
+      ],
+      "categories": [
+        "Press Release",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-70.jpg"
+      },
+      "published": "2024-12-14T08:52:00Z"
+    }
+  },
+  {
+    "hash": "66d7cbf3cdef10689c031e049b357075eac3694c65beaa3808cc0dc0d6383b35",
+    "item": {
+      "title": "Sui Blockchain and Ant Digital Partner to Tokenize ESG Assets",
+      "description": "\u003cp\u003eSui has announced a strategic partnership with Ant Digital to tokenize RWAs with a focus on environmental, social, and governance (ESG) assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sui-blockchain-and-ant-digital-partner-to-tokenize-esg-assets/\"\u003eSui Blockchain and Ant Digital Partner to Tokenize ESG Assets\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sui-blockchain-and-ant-digital-partner-to-tokenize-esg-assets/"
+      ],
+      "categories": [
+        "DeFi News",
+        "China",
+        "SUI",
+        "Sui Network"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/14070626/1734159985-image-1734159753698_optimized.jpg"
+      },
+      "published": "2024-12-14T10:48:11Z"
+    }
+  },
+  {
+    "hash": "5116a954aa8b5a02e25b2f24415b80b6cba4f1312dc83878df143178f8229af8",
+    "item": {
+      "title": "GOP Majority Leader to Push For Crypto Market Bill in First 100 Days, Says Rep. Hill",
+      "description": "\u003cp\u003eThe Republican Party is preparing to introduce a comprehensive crypto market structure bill within the first 100 days of the upcoming legislative session.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gop-majority-leader-to-push-for-crypto-market-bill-in-first-100-days-says-rep-hill/\"\u003eGOP Majority Leader to Push For Crypto Market Bill in First 100 Days, Says Rep. Hill\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gop-majority-leader-to-push-for-crypto-market-bill-in-first-100-days-says-rep-hill/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/14070041/1734159641-image-1734159271065_optimized.jpg"
+      },
+      "published": "2024-12-14T10:42:14Z"
+    }
+  },
+  {
+    "hash": "be621337fdb798f23508add09eb018f907575a6cb5d86e7285d4358e1562e488",
+    "item": {
+      "title": "Coinbase Faces $1B Lawsuit from BiT Global Over Wrapped Bitcoin (WBTC) Delisting",
+      "description": "\u003cp\u003eCoinbase is facing a $1 billion lawsuit from BiT Global Digital Limited over its decision to delist Wrapped Bitcoin (wBTC).\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-faces-1b-lawsuit-from-bit-global-over-wrapped-bitcoin-wbtc-delisting/\"\u003eCoinbase Faces $1B Lawsuit from BiT Global Over Wrapped Bitcoin (WBTC) Delisting\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-faces-1b-lawsuit-from-bit-global-over-wrapped-bitcoin-wbtc-delisting/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Coinbase",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/14065622/1734159382-image-1734159281448_optimized.jpg"
+      },
+      "published": "2024-12-14T10:28:09Z"
+    }
   }
 ]
