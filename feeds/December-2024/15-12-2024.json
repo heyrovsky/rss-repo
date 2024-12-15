@@ -430,5 +430,53 @@
       "source": "Hacker News",
       "published": "2024-12-14T19:53:12Z"
     }
+  },
+  {
+    "hash": "bac519a106f2e46144e99c4759e7fe3a4e247168b96e39801cd9674a91d8c5bd",
+    "item": {
+      "title": "Computing Inside an AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42415875\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://willwhitney.com/computing-inside-ai.html"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-14T09:52:06Z"
+    }
+  },
+  {
+    "hash": "c48d640ced6ee760cf829933d2a277a299558fa4ee17fde0d30f55900dcbe978",
+    "item": {
+      "title": "DOOM ported to run atop AMD ROCm + LLVM libc",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42421477\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.phoronix.com/news/DOOM-ROCm-LLVM-Port"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-15T04:35:06Z"
+    }
+  },
+  {
+    "hash": "8691108ed61557b12507d8911ef5e06be11269f6f0bb5a047d36054ac028fe50",
+    "item": {
+      "title": "A journey of optimization of cloud-based geospatial data processing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42411687\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.terrafloww.com/efficient-cloud-native-raster-data-access-an-alternative-to-rasterio-gdal/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-13T19:47:21Z"
+    }
+  },
+  {
+    "hash": "623a1064e963c0558e30b2cdee75c9d637480ea3786e1d6a7d6842a99bd5567f",
+    "item": {
+      "title": "The Clever Hans Effect, Iterative LLM Prompting, and Socrates' Meno",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42420902\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aalokbhattacharya.substack.com/p/men-machines-and-horses"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-15T01:58:19Z"
+    }
   }
 ]
