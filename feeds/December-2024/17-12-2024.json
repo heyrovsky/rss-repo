@@ -779,5 +779,113 @@
       "source": "Hacker News",
       "published": "2024-12-16T19:31:28Z"
     }
+  },
+  {
+    "hash": "c5ad0bbc0641d3a723209518197c404a3308b70287a3d95dcd923bc107f57a95",
+    "item": {
+      "title": "Spain’s BitBase to Install First Crypto ATMs in Argentina Next Year",
+      "description": "\u003cp\u003eThe Spanish firm BitBase will install its first crypto ATMs in Argentina in 2025, as adoption continues to gather pace in the Latin American nation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/spains-bitbase-to-install-first-crypto-atms-in-argentina-next-year/\"\u003eSpain’s BitBase to Install First Crypto ATMs in Argentina Next Year\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/spains-bitbase-to-install-first-crypto-atms-in-argentina-next-year/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Argentina",
+        "Crypto ATM"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/16162226/1734366146-image-1734366029874_optimized.jpg"
+      },
+      "published": "2024-12-16T23:30:00Z"
+    }
+  },
+  {
+    "hash": "18ac7d67565b204a83cdd49040481f96859b06a9448fbcad83c48f6e533f2c9d",
+    "item": {
+      "title": "Settlement from Meta for Australian Users Impacted by Cambridge Analytica",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42437697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-17T02:16:30Z"
+    }
+  },
+  {
+    "hash": "4a7c7fbffaed2efbdfdfb5a35eee2a8bac7287379b54f377ee7455ef0e594ae4",
+    "item": {
+      "title": "Alley Cat Remeow Edition",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42437400\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.joflof.com/alley.html"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-17T01:20:23Z"
+    }
+  },
+  {
+    "hash": "597f83738d00412b9cc78873d16af0d781cc9e98ca723d343720ab83c8bc5149",
+    "item": {
+      "title": "A new twist: The molecular machines that loop chromosomes also twist DNA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42414448\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2024-12-molecular-machines-loop-chromosomes-dna.html"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-14T03:26:49Z"
+    }
+  },
+  {
+    "hash": "0fbe9fdfc1f584386d4d6e35cefdf23b9142c7223d9cb91ba7538d7ddb6b255d",
+    "item": {
+      "title": "The Red Beads Experiment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42425268\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/make-work-better/w-edwards-demings-red-beads-experiment-dea18bfc2aba"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-15T19:07:59Z"
+    }
+  },
+  {
+    "hash": "f53beba2bdb6f4de4b56e198a33d333bd65fd26c9b2ec1021dd65cc0bbfd9e32",
+    "item": {
+      "title": "Fedora Linux Grappling With New vs. Old Intel Hardware Support For Compute Stack",
+      "description": "Fedora is among the Linux distributions that package up the Intel Compute Runtime stack to make it easy to run OpenCL and oneAPI Level Zero workloads on Intel graphics hardware via the distribution package manager and without having to jump through any extra hoops. But now with upstream Intel Compute Runtime dropping support for Ice Lake and older leaves the Fedora support in a pickle. Currently they are focusing on the \"legacy\" branch with older hardware support but for Fedora 42 are looking at upgrading the support to focus on newer Intel graphics hardware support while leaving that older hardware support behind...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Compute-Runtime-Fedora-42"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-17T01:45:30Z"
+    }
+  },
+  {
+    "hash": "7061d4d9e1d66476cc4af7d7ca12bc3c5cbc80f9a9e22eba3da6d3367771df7c",
+    "item": {
+      "title": "Hyprland 0.46 Wayland Compositor Brings Several New Features",
+      "description": "Hyprland 0.46 is out today as the newest update to this Wayland compositor that is packing in many new features ahead of the holidays...",
+      "links": [
+        "https://www.phoronix.com/news/Hyprland-0.46-Wayland"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2024-12-17T01:22:54Z"
+    }
   }
 ]
