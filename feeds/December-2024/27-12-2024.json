@@ -851,5 +851,128 @@
       },
       "published": "2024-12-26T16:30:00Z"
     }
+  },
+  {
+    "hash": "af57e0766430e4daccbbb5d2cae67d3f2dadddbd0fe1035c94c717d6481372b8",
+    "item": {
+      "title": "Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately",
+      "description": "Palo Alto Networks has disclosed a high-severity vulnerability impacting PAN-OS software that could cause a denial-of-service (DoS) condition on susceptible devices.\nThe flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), impacts PAN-OS versions 10.X and 11.X, as well as Prisma Access running PAN-OS versions. It has been addressed in PAN-OS 10.1.14-h8, PAN-OS 10.2.10-h12, PAN-OS 11.1.5, PAN-OS",
+      "links": [
+        "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/s1600/palo.png"
+      },
+      "published": "2024-12-27T07:34:00Z"
+    }
+  },
+  {
+    "hash": "15ffa8c632cbaea72a4edfc815148d2f938efc5cd6273e6ee7856349e686a282",
+    "item": {
+      "title": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
+      "description": "Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai variant dubbed FICORA and a Kaiten (aka Tsunami) variant called CAPSAICIN.\n\"These botnets are frequently spread through documented D-Link vulnerabilities that allow remote attackers to execute malicious commands via a GetDeviceSettings",
+      "links": [
+        "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/s1600/botnet.png"
+      },
+      "published": "2024-12-27T07:11:00Z"
+    }
+  },
+  {
+    "hash": "24a7efafbb1b7758f4a266fbad1458ea8d5b4ad41a24727d9e3751d17bcd7ea8",
+    "item": {
+      "title": "Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization",
+      "description": "The Apache Software Foundation (ASF) has released patches to address a maximum severity vulnerability in the MINA Java network application framework that could result in remote code execution under specific conditions.\nTracked as CVE-2024-52046, the vulnerability carries a CVSS score of 10.0. It affects versions 2.0.X, 2.1.X, and 2.2.X.\n\"The ObjectSerializationDecoder in Apache MINA uses Java's",
+      "links": [
+        "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/s1600/apache-mina.png"
+      },
+      "published": "2024-12-27T06:46:00Z"
+    }
+  },
+  {
+    "hash": "e9dac2cb4451bc26fd341d6471a02d9259d9b4a167d4c9e867cf7269baa7a76c",
+    "item": {
+      "title": "Implementing SM-2 in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42520632\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://borretti.me/article/implementing-sm2-in-rust"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-27T08:04:40Z"
+    }
+  },
+  {
+    "hash": "2ee410504ce49cee5b4f97d2acef9f0708fe5d36f4448291721432e10776f569",
+    "item": {
+      "title": "What can strong engineers do that weak engineers can't?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42520482\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/weak-engineers/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-27T07:16:05Z"
+    }
+  },
+  {
+    "hash": "0741ad022f03b9b6ea986bf7f4087b946ff80dc6454639948b174385aa36ebbb",
+    "item": {
+      "title": "Show HN: Map with an LLM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42519562\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://godview.ai"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-27T02:50:56Z"
+    }
+  },
+  {
+    "hash": "9c565b1055d1be0112ef3bc8378d16f38439a2395f59e20fd9453875d582484e",
+    "item": {
+      "title": "Search ArXiv Fluidly",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42519487\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://searchthearxiv.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-27T02:32:20Z"
+    }
+  },
+  {
+    "hash": "33e96cb7c7e3992ce20296a9435c2a00de96737fa5ca26ff95624a6295d9741c",
+    "item": {
+      "title": "Show HN: Simple live calculator in Tree-sitter and cranelift JIT",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42519881\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-27T04:12:32Z"
+    }
   }
 ]
