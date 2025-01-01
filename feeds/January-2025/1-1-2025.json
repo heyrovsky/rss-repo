@@ -4532,5 +4532,465 @@
       },
       "published": "2025-01-01T09:59:00Z"
     }
+  },
+  {
+    "hash": "74ff1be49e90b5678fc8d40838ce1c7821b5ebd952232b854918f937f50e875c",
+    "item": {
+      "title": "New \"DoubleClickjacking\" Exploit Bypasses Clickjacking Protections on Major Websites",
+      "description": "Threat hunters have disclosed a new \"widespread timing-based vulnerability class\" that leverages a double-click sequence to facilitate clickjacking attacks and account takeovers in almost all major websites.\nThe technique has been codenamed DoubleClickjacking by security researcher Paulos Yibelo.\n\"Instead of relying on a single click, it takes advantage of a double-click sequence,\" Yibelo said.",
+      "links": [
+        "https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU04JERCYZ7FKa5VZxkQhrYZqjsz5M36XeoiZc_OHYZH_KX1Pq5b32L7ilBO8teXlhz9g9hpsSUZYagx4DGO5IyaGlqBeUa7izCCHjTDqnMAjdO_KOh-OW_DHzU6lAKZl-aT6rU8yLMzvuxD6aKRLSsgi3H3C46tS1eOJz3kAT9Jv4k54QSpuhY08LX6Ud/s1600/attckflow.png"
+      },
+      "published": "2025-01-01T13:24:00Z"
+    }
+  },
+  {
+    "hash": "71ef7cfc261cfb8810e1ac4e98ddcdf69ca8d5c8b892c058b2964829ae9ca6f2",
+    "item": {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (python-django and python-tornado), \u003cb\u003eFedora\u003c/b\u003e (libxml2), and \u003cb\u003eRed Hat\u003c/b\u003e (python-virtualenv and python36:3.6).",
+      "links": [
+        "https://lwn.net/Articles/1003913/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-01-01T14:06:02Z"
+    }
+  },
+  {
+    "hash": "584dcf02d89d7ba7fcfd465c8ca0f403ed68877c64fe29f44f7088f8797d0134",
+    "item": {
+      "title": "Bitcoin’s Struggle Below $93K: Whale Sell-Offs and Swiss Reserve Proposal in Focus",
+      "description": "\u003cp\u003eBitcoin struggles below $93K as whale sell-offs and Swiss reserve proposals shape sentiment. BlackRock’s $37B ETF inflows boost market optimism.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoins-struggle-below-93k-whale-sell-offs-and-swiss-reserve-proposal-in-focus/\"\u003eBitcoin\u0026#8217;s Struggle Below $93K: Whale Sell-Offs and Swiss Reserve Proposal in Focus\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoins-struggle-below-93k-whale-sell-offs-and-swiss-reserve-proposal-in-focus/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/09144214/1728455987-image-30-1.jpg"
+      },
+      "published": "2025-01-01T11:55:40Z"
+    }
+  },
+  {
+    "hash": "f715196b3fb6d5282cf299a314ba587fb69027b840ee067a131c4c8d7258c8f0",
+    "item": {
+      "title": "FCA Crackdown Fails to Remove Half of Illegal Crypto Ads in UK: Report",
+      "description": "\u003cp\u003eThe UK Financial Conduct Authority (FCA) has faced criticism for its failure to remove nearly half of illegal crypto ads, as only 54% of flagged promotions were taken down despite issuing over 1,700 alerts in the past year.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fca-crackdown-fails-to-remove-half-of-illegal-crypto-ads-in-uk-report/\"\u003eFCA Crackdown Fails to Remove Half of Illegal Crypto Ads in UK: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fca-crackdown-fails-to-remove-half-of-illegal-crypto-ads-in-uk-report/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "FCA",
+        "UK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/01111957/1735730397-image-1735730366387_optimized.jpg"
+      },
+      "published": "2025-01-01T11:32:35Z"
+    }
+  },
+  {
+    "hash": "34fb111852b6d4e253380eb40fadfeea9f945db1ca776bf6cbd4db3a64283945",
+    "item": {
+      "title": "China Tightens Crypto Oversight with New Foreign Exchange Rules: Report",
+      "description": "\u003cp\u003eChina has introduced stricter regulations to curb cryptocurrency-related activities, with its foreign exchange regulator requiring banks to monitor and flag risky trades involving digital assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/china-tightens-crypto-oversight-with-new-foreign-exchange-rules-report/\"\u003eChina Tightens Crypto Oversight with New Foreign Exchange Rules: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/china-tightens-crypto-oversight-with-new-foreign-exchange-rules-report/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "China",
+        "Market",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/01104653/1735728413-image-1735726408174_optimized.jpg"
+      },
+      "published": "2025-01-01T11:02:26Z"
+    }
+  },
+  {
+    "hash": "4f7439ce149f66a298e0ea5ea8b3b491a5da492ea8945e01ecbe43e651128043",
+    "item": {
+      "title": "30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42565606\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openreview.net/forum?id=YXnwlZe0yf\u0026noteId=yrsGpHd0Sf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-01T12:21:18Z"
+    }
+  },
+  {
+    "hash": "412a3bb1d013926173eaaf2ff1762c8a9aca42c82b9d7dc9706592796a2829cb",
+    "item": {
+      "title": "Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42565821\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apiparrot.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-01T13:15:03Z"
+    }
+  },
+  {
+    "hash": "ccb56c2b443fc7fa456f862354f044d17be0d3b552e3754715ef473322de0de9",
+    "item": {
+      "title": "A. A. Milne's Winnie-the-Pooh as an accessible eBook",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42565513\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tilde.zone/@gluejar/113749300977151258"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-01T11:57:58Z"
+    }
+  },
+  {
+    "hash": "f5de7dfa17ddb30eab6e4e55a2fa986aa345ab5a8860138a12824bffd7d99674",
+    "item": {
+      "title": "Ruby 3.4 Highlights",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42566141\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-01T14:18:27Z"
+    }
+  },
+  {
+    "hash": "9f3b2ea53009c3049aef0c39d27e228cb87a1190329d683c09b3b21da8ec7856",
+    "item": {
+      "title": "Electrical circuits encased in fluid may reshape data-center design",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42557142\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-31T07:30:48Z"
+    }
+  },
+  {
+    "hash": "2e192ac38ebbcb9d9906a62a02e03b96af148d0b882c3ecb6429621de51dcccb",
+    "item": {
+      "title": "40+ JackOfManyTrades needs advice for job search",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42548572\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=42548572"
+      ],
+      "source": "Hacker News",
+      "published": "2024-12-30T12:05:10Z"
+    }
+  },
+  {
+    "hash": "f04f96ac79898308f4f34f71e1d6d13d60e7660d6181b8d38249e21c06925cb2",
+    "item": {
+      "title": "Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42564735\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-01T08:30:56Z"
+    }
+  },
+  {
+    "hash": "6634604f6a8d86e67c0cfd94b87323a605fa63cf0d98bbb05b971a8a03437677",
+    "item": {
+      "title": "The Magic of Metalinguistic Programming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42565184\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ericnormand.substack.com/p/the-magic-of-metalinguistic-programming"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-01T10:33:05Z"
+    }
+  },
+  {
+    "hash": "00afc0bb4cc048d81ea19dda9bdd851d2e61be96bfb953f18f1bed8b8877cf11",
+    "item": {
+      "title": "Shiba Inu (SHIB), Dogecoin (DOGE) FOMO Shifts to Hotter Rival, But It’s Not Pepe Coin (PEPE)",
+      "description": "\u003cp\u003e\u003cimg width=\"1344\" height=\"768\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Shiba Inu (SHIB), Dogecoin (DOGE) FOMO Shifts to Hotter Rival, But It\u0026#039;s Not Pepe Coin (PEPE)\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1.jpg 1344w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1-1024x585.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1-768x439.jpg 768w\" sizes=\"(max-width: 1344px) 100vw, 1344px\" /\u003e\u003c/p\u003eBecause of FOMO, meme coins like Shiba Inu (SHIB) and Dogecoin (DOGE) have long dominated the cryptocurrency market. Retail and institutional investors like their rapid growth and community spirit. However, as the crypto environment develops, Rexas Finance (RXS) is becoming a more popular opponent. Unlike meme coins like Pepe Coin,",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-shib-dogecoin-doge-fomo-shifts-to-hotter-rival-but-its-not-pepe-coin-pepe/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1.jpg"
+      },
+      "published": "2025-01-01T10:41:56Z"
+    }
+  },
+  {
+    "hash": "aa0adfb378ba55731602ba086312f776d64854089faeb70a5362fada1788595b",
+    "item": {
+      "title": "Pepe Coin Trader Who Made $67,000 from $166 Names Cheap Token Set to Explode in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"1344\" height=\"768\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pepe Coin Trader Who Made $67,000 from $166 Names Cheap Token Set to Explode in 2025\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed.jpg 1344w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-1024x585.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-768x439.jpg 768w\" sizes=\"(max-width: 1344px) 100vw, 1344px\" /\u003e\u003c/p\u003eA crypto trader who turned a $166 investment into $67,000 through the rise of Pepe Coin has shared a bold prediction. This individual believes another token could rival Pepe’s success in 2025, bringing significant returns to early adopters. The token in question is Rexas Finance (RXS), a project revolutionizing real-world",
+      "links": [
+        "https://thenewscrypto.com/pepe-coin-trader-who-made-67000-from-166-names-cheap-token-set-to-explode-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed.jpg"
+      },
+      "published": "2025-01-01T10:38:30Z"
+    }
+  },
+  {
+    "hash": "f48a9c30f316df5ff63dc0fd84ee1dea17fd5d1f22bf950fe084111141e81dea",
+    "item": {
+      "title": "What Are the Chances of Bitcoin Hitting $200K in 2025?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/The-Future-of-Bitcoin-Will-BTC-Cross-200K-in-2025.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/The-Future-of-Bitcoin-Will-BTC-Cross-200K-in-2025.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/The-Future-of-Bitcoin-Will-BTC-Cross-200K-in-2025-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/The-Future-of-Bitcoin-Will-BTC-Cross-200K-in-2025-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn 2024, the crypto market showed leaps and bounds of progress, particularly in Q3. Several key instances shaped up to be the realization of dreams for community members. Spearheading such an instance is Bitcoin’s price historically reaching $100K, propelled by specific external factors.\u0026#160; While multitudes of advancements occurred BTC’s $100K",
+      "links": [
+        "https://thenewscrypto.com/what-are-the-chances-of-bitcoin-hitting-200k-in-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "BTC",
+        "Price Analysis",
+        "price prediction",
+        "price surge"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/The-Future-of-Bitcoin-Will-BTC-Cross-200K-in-2025.jpg"
+      },
+      "published": "2025-01-01T10:37:02Z"
+    }
+  },
+  {
+    "hash": "6355626a4b500cafc07dfe0f124011a7b6c93716145a3bcca3182b3b06b6816d",
+    "item": {
+      "title": "Best New Meme Coin Presales for Massive Return Potential in 2024: BTFD’s Meteoric Presale, WIF’s and FRTC’s Steady Growth Wows Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Best New Meme Coin Presales for Massive Return Potential in 2024\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png-376x212.jpg 376w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eWhen it comes to cryptocurrency, there’s no shortage of surprises. Just as we saw with the BTFD Coin presale hitting $4.7 million within its first month, the crypto community thrives on seizing opportunities where others hesitate. It’s all about riding the wave—and meme coins have become an unstoppable force with",
+      "links": [
+        "https://thenewscrypto.com/best-new-meme-coin-presales-for-massive-return-potential-in-2024-btfds-meteoric-presale-wifs-and-frtcs-steady-growth-wows-investors/"
+      ],
+      "categories": [
+        "Press Release",
+        "BTFD",
+        "Meme Coin",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/TNC.png.jpg"
+      },
+      "published": "2025-01-01T10:07:47Z"
+    }
+  },
+  {
+    "hash": "81aa3a200ce5c671f50fabd7de6cb1799bf8d2a2becc384757c49c4d30f7c62b",
+    "item": {
+      "title": "Ethereum Price Prediction Could ETH Climb to $15,000 Amidst Lightchain AI Buying Frenzy?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-4.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Price Prediction Could ETH Climb to $15,000 Amidst Lightchain AI Buying Frenzy?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-4.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-4-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-4-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eEthereum (ETH), the powerhouse behind decentralized finance (DeFi) and smart contract innovation, continues to dominate the crypto landscape. With speculation about Ethereum reaching $15,000 by 2025, whales are doubling down on its long-term potential. Meanwhile, Lightchain AI, an emerging blockchain project, is creating waves with its presale success and innovative",
+      "links": [
+        "https://thenewscrypto.com/ethereum-price-prediction-could-eth-climb-to-15000-amidst-lightchain-ai-buying-frenzy/"
+      ],
+      "categories": [
+        "Press Release",
+        "ETH",
+        "ETHEREUM",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-4.png"
+      },
+      "published": "2025-01-01T10:05:00Z"
+    }
+  },
+  {
+    "hash": "63a429c41607a887baaf5bcb0482b2018f60e60116a33da6bc441e945cf307f3",
+    "item": {
+      "title": "Lunex Presale Rockets, With It To Become The Next Ethereum Contender – Press Release BNB News",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"501\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-172.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/image001-172.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2024/12/image001-172-300x200.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eFollowing a successful 2024 for the crypto space, enthusiasts are eyeing up the most profitable protocols on offer in 2025. Among these, Lunex Network ($LNEX) has been tipped as a frontrunner, contending with big players such as Ethereum and Binance Coin (BNB).  The protocol brings a fresh approach to trading",
+      "links": [
+        "https://thenewscrypto.com/lunex-presale-rockets-with-it-to-become-the-next-ethereum-contender-press-release-bnb-news/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi",
+        "Lunex Network ($LNEX)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/image001-172.jpg"
+      },
+      "published": "2025-01-01T10:00:00Z"
+    }
+  },
+  {
+    "hash": "1c6b0f733d04ce6989cda46959093aeabc9037f4e16e89e6420667a77341e39a",
+    "item": {
+      "title": "Can Lightchain AI Pump From $0.004 to $3 Before XRP? Answer Might Lie in Binance Listing",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Lightchain AI Pump From $0.004 to $3 Before XRP? Answer Might Lie in Binance Listing\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-3.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-3-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-3-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAs the cryptocurrency market anticipates its next bull run, Lightchain AI is drawing attention for its potential to achieve exponential growth. Currently in its presale phase, the token is priced at just $0.004 and has raised over $7 million, showcasing strong investor interest. With speculation surrounding a possible listing on",
+      "links": [
+        "https://thenewscrypto.com/can-lightchain-ai-pump-from-0-004-to-3-before-xrp-answer-might-lie-in-binance-listing/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoins",
+        "Lightchain",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-3.jpg"
+      },
+      "published": "2025-01-01T09:05:00Z"
+    }
+  },
+  {
+    "hash": "735ab507403af950450377cf476890ffdd1e9ee776ce47af5ad728d23f66e7e8",
+    "item": {
+      "title": "Why Solana, XRP, and Lightchain AI Are Predicted to Dominate in 2025?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Why Solana, XRP, and Lightchain AI Are Predicted to Dominate in 2025?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-2.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAs blockchain technology matures, Solana, XRP, and Lightchain AI are positioned to lead the next wave of innovation. Solana’s ultra-fast transactions and scalable infrastructure make it a go-to for decentralized applications. XRP continues to revolutionize cross-border payments with its low fees and near-instant settlements. Meanwhile, Lightchain AI is breaking new",
+      "links": [
+        "https://thenewscrypto.com/why-solana-xrp-and-lightchain-ai-are-predicted-to-dominate-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Lightchain",
+        "Ripple (XRP)",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/DOC-2.jpg"
+      },
+      "published": "2025-01-01T08:04:51Z"
+    }
+  },
+  {
+    "hash": "46fd7ed5e9296447ea673531298456055626b86d8e0b6ee708ea4a323feb096f",
+    "item": {
+      "title": "Remember How Solana Went From $8 to $250? Lightchain AI Shows Similar Chart Patterns",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Doc-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Remember How Solana Went From $8 to $250? Lightchain AI Shows Similar Chart Patterns\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Doc-1.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/01/Doc-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Doc-1-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eIn the world of cryptocurrency, Solana’s meteoric rise from $8 to $250 has become a benchmark for explosive growth. The market is now looking for the next big contender, and Lightchain AI is starting to show signs of similar potential. With tokens priced at just $0.0045 during its presale and",
+      "links": [
+        "https://thenewscrypto.com/remember-how-solana-went-from-8-to-250-lightchain-ai-shows-similar-chart-patterns/"
+      ],
+      "categories": [
+        "Press Release",
+        "Lightchain",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Doc-1.png"
+      },
+      "published": "2025-01-01T06:58:01Z"
+    }
+  },
+  {
+    "hash": "95f2f552e367851152e5669d01ca0c33b20ceace4bdde5143ca8e8cfa1c0c4f6",
+    "item": {
+      "title": "GCC Patches Posted For Half-Century Old ALGOL 68 Programming Language",
+      "description": "Mere hours into 2025 and some news I didn't expect to be writing about... An Oracle engineer has posted a set of patches implementing an ALGOL 68 programming language front-end for the GNU Compiler Collection (GCC). These are work-in-progress patches for the half century old niche programming language...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-ALGOL-68-Language-Front-End"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-01T12:14:00Z"
+    }
   }
 ]
