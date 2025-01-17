@@ -675,5 +675,58 @@
       },
       "published": "2025-01-16T09:00:22Z"
     }
+  },
+  {
+    "hash": "1b3811c1dfe8f8063c1e42df3378388071cfc0f5a806133fd11be823c7a44b01",
+    "item": {
+      "title": "Slum: The Shadow Library Uptime Monitor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42680318\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://open-slum.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-13T05:23:00Z"
+    }
+  },
+  {
+    "hash": "3e79a8018abe7c0fd33e3a5edba6c72a6b93245fa102a23c09b75f512d708c3d",
+    "item": {
+      "title": "Uncovering Real GPU NoC Characteristics: Implications on Interconnect Arch.",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42689802\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://people.ece.ubc.ca/aamodt/publications/papers/realgpu-noc.micro2024.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-13T21:41:12Z"
+    }
+  },
+  {
+    "hash": "8c3454f92b490fbcadbfb967c4e1b4ee9db44cb3447bbb283ac7f9cac311cbab",
+    "item": {
+      "title": "Titans: Learning to Memorize at Test Time",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42688392\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2501.00663"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-13T20:11:14Z"
+    }
+  },
+  {
+    "hash": "3e5a1f5c593244827f197cb35551fd2e825b4f63894b391f5f8267eb87c898e4",
+    "item": {
+      "title": "PCI Express 7.0 Remains On Track For 2025, v0.7 Spec Published",
+      "description": "Back in 2022 the PCI Express 7.0 specification was announced with hitting 128 GT/s and planned availability in 2025. Since then they have been iterating on the spec with PCI-SIG members and today they announced the PCI Express 7.0 v0.7 specification...",
+      "links": [
+        "https://www.phoronix.com/news/PCI-Express-7.0-v0.7-Spec"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-17T01:25:35Z"
+    }
   }
 ]
