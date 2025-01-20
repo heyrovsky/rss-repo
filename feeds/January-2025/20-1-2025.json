@@ -190,5 +190,246 @@
       ],
       "published": "2025-01-20T00:21:48Z"
     }
+  },
+  {
+    "hash": "472cda5e7c2453cf4d3ce361122b331e158dc7f56b5255e44331d47467fd89e7",
+    "item": {
+      "title": "The 6.13 kernel has been released",
+      "description": "Linus has \u003ca\nhref=\"https://lwn.net/ml/all/CAHk-=wiprabAQcCwb3qNhrT5P50MJNqunC9JU5v99kdvM-2rsg@mail.gmail.com\"\u003ereleased\nthe 6.13 kernel\u003c/a\u003e.  \"\u003cq\u003eSo nothing horrible or unexpected happened last\nweek, so I've tagged and pushed out the final 6.13 release\u003c/q\u003e.\"\n\u003cp\u003e\n\n\nSignificant features in this release include\nthe \u003ca href=\"https://lwn.net/Articles/994322/\"\u003elazy preemption model\u003c/a\u003e for CPU\nscheduling, \nArm64 \u003ca\nhref=\"https://www.kernel.org/doc/html/next/arch/arm64/gcs.html\"\u003eGuarded\nControl Stack\u003c/a\u003e support,\nthe \u003ca href=\"https://lwn.net/Articles/992991/\"\u003e\u003ctt\u003ePIDFD_GET_INFO()\u003c/tt\u003e operation\u003c/a\u003e,\n\u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6ac81fd55e8a\"\u003emulti-grain\nfile timestamps\u003c/a\u003e,\nbeginning \u003ca href=\"https://lwn.net/Articles/974578/\"\u003eatomic write\u003c/a\u003e support for the ext4\nand XFS filesystems,\nthe \u003ctt\u003esetxattrat()\u003c/tt\u003e,  \u003ctt\u003egetxattrat()\u003c/tt\u003e, \u003ctt\u003elistxattrat()\u003c/tt\u003e,\nand \u003ctt\u003eremovexattrat()\u003c/tt\u003e system calls,\n\u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c1bc51f85cd6\"\u003eprivate\nstacks\u003c/a\u003e for BPF programs,\n\u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=662df3e5c376\"\u003ea\nnew mechanism\u003c/a\u003e for adding guard pages to a memory mapping,\nthe removal of the reiserfs filesystem,\nand more.  See the LWN merge-window summaries (\u003ca\nhref=\"https://lwn.net/Articles/998623/\"\u003epart\u0026nbsp;1\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/998990/\"\u003epart\u0026nbsp;2\u003c/a\u003e) and \u003ca\nhref=\"https://kernelnewbies.org/Linux_6.13\"\u003ethe KernelNewbies 6.13 page\u003c/a\u003e\nfor more information.",
+      "links": [
+        "https://lwn.net/Articles/1005488/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-01-20T00:39:14Z"
+    }
+  },
+  {
+    "hash": "9202ed4a230cc14c8a263051a44415a479bb37a3448500f24d8ac83838628ac7",
+    "item": {
+      "title": "Robotics Class is Open",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"377\" src=\"https://hackaday.com/wp-content/uploads/2025/01/anav.gif?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" data-attachment-id=\"755474\" data-permalink=\"https://hackaday.com/2025/01/19/robotics-class-is-open/anav/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/01/anav.gif\" data-orig-size=\"800,377\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"anav\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/01/anav.gif?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/01/anav.gif?w=800\" /\u003e\u003c/div\u003eIf you are like us, you probably just spin up your own code for a lot of simple projects. But that\u0026#8217;s wasteful if you are trying to do anything serious. \u003ca href=\"https://hackaday.com/2025/01/19/robotics-class-is-open/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/01/19/robotics-class-is-open/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "Robot Operating System",
+        "ros"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/01/anav.gif"
+      },
+      "published": "2025-01-20T03:00:50Z"
+    }
+  },
+  {
+    "hash": "924945aa090be66734a3d2044d8fbba178999759cfb0b1d07d61b3f95050c17f",
+    "item": {
+      "title": "Hackaday Links: January 19, 2025",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Hackaday Links Column Banner\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg 800w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=250,134 250w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=400,215 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"137037\" data-permalink=\"https://hackaday.com/2014/11/09/hackaday-links-november-9-2014/had-links-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg\" data-orig-size=\"800,430\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Hackaday Links\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" /\u003e\u003c/div\u003eThis week, we witnessed a couple of space oopsies as both Starship and New Glenn suffered in-flight mishaps on the same day. SpaceX\u0026#8217;s Starship was the more spectacular, with the \u003ca href=\"https://hackaday.com/2025/01/19/hackaday-links-january-19-2025/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/01/19/hackaday-links-january-19-2025/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Hackaday links",
+        "Slider",
+        "bitcoin",
+        "Blue Origin",
+        "cfp",
+        "hackaday links",
+        "hope",
+        "landfill",
+        "leap year",
+        "meteorite",
+        "New Glenn",
+        "ring",
+        "satellite",
+        "SpaceX",
+        "starship"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+      },
+      "published": "2025-01-20T00:00:52Z"
+    }
+  },
+  {
+    "hash": "9e29826e7ff3197dfee546ada08da97b57e0f78d22f14aef84653fd68ac0d2a6",
+    "item": {
+      "title": "Dillo Turns 25, and Releases a New Version",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"755447\" data-permalink=\"https://hackaday.com/2025/01/19/dillo-turns-25-and-releases-a-new-version/dillo-3-2-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"dillo-3-2-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg?w=800\" /\u003e\u003c/div\u003eThe chances are overwhelming, that you are reading this article on a web browser powered by some form of the Blink or WebKit browser engines as used by Google, Apple, \u003ca href=\"https://hackaday.com/2025/01/19/dillo-turns-25-and-releases-a-new-version/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/01/19/dillo-turns-25-and-releases-a-new-version/"
+      ],
+      "categories": [
+        "internet hacks",
+        "Software Hacks",
+        "dillo",
+        "web",
+        "web browser"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/01/dillo-3-2-featured.jpg"
+      },
+      "published": "2025-01-19T21:00:40Z"
+    }
+  },
+  {
+    "hash": "a2862ba8abaeaea5fc0b0ec169560516c7f7ddf8f75e4d894a506c5d5d917408",
+    "item": {
+      "title": "Bambu Connect’s Authentication X.509 Certificate and Private Key Extracted",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"279\" src=\"https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg 1342w, https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg?resize=250,87 250w, https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg?resize=400,139 400w, https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg?resize=800,279 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"755431\" data-permalink=\"https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/bambu_connect_extracted_certificate_key_source/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg\" data-orig-size=\"1342,468\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"bambu_connect_extracted_certificate_key_source\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg?w=800\" /\u003e\u003c/div\u003eHot on the heels of Bambu Lab\u0026#8217;s announcement that it would be locking down all network access to its X1-series 3D printers with new firmware, the X.509 certificate and private \u003ca href=\"https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "News",
+        "Security Hacks",
+        "Bambu lab"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/01/bambu_connect_extracted_certificate_key_source.jpg"
+      },
+      "published": "2025-01-19T18:00:52Z"
+    }
+  },
+  {
+    "hash": "364a4de73b2fbb7a3409297a7bf41cda0d4f64b22de40681e3a9b8c5e187998c",
+    "item": {
+      "title": "UK's hardware talent is being wasted",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42763386\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://josef.cn/blog/uk-talent"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T23:52:13Z"
+    }
+  },
+  {
+    "hash": "1ef7d5ada509617ebc84876b49a7c2698881191ee626367febc49d09182a08ef",
+    "item": {
+      "title": "Chopstick sleeves as emissaries of Japanese typography and culture",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42719538\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-16T00:53:59Z"
+    }
+  },
+  {
+    "hash": "3cbdab75dcc6786e46ecd76ff3fe6ed810e29628f624490a5e6b79f677746ffb",
+    "item": {
+      "title": "FrontierMath was funded by OpenAI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42763231\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T23:27:59Z"
+    }
+  },
+  {
+    "hash": "78c2260b68d3004a343f601236b0fe0efc3eb84e32cbfc203a25c9aeed55b31d",
+    "item": {
+      "title": "Two Hard Things (2009)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42763592\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://martinfowler.com/bliki/TwoHardThings.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T00:18:48Z"
+    }
+  },
+  {
+    "hash": "5732dc59a13023c24906821ab9cfff5ade9838da0f2fbb951c3dfbfc997d79ac",
+    "item": {
+      "title": "Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42730449\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-16T20:25:36Z"
+    }
+  },
+  {
+    "hash": "7e1ef63a8367b82ddc4839e53a8b3806d25196ac0bcf2b71b42401757fd81370",
+    "item": {
+      "title": "Bunkers in Albania",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42728692\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Bunkers_in_Albania"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-16T18:08:16Z"
+    }
+  },
+  {
+    "hash": "20f69e2cb3a02151f8c66a1ec1f08a8175314769a5f1a918aca47eb76d56a241",
+    "item": {
+      "title": "Ask HN: Is anyone making money selling traditional downloadable software?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42764185\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=42764185"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T01:56:11Z"
+    }
+  },
+  {
+    "hash": "199ec340f54c3d0a27dc73d32c72be5f7cc58ddbf22dfa5850cd03e3c4383b99",
+    "item": {
+      "title": "Bambu Connect's Authentication X.509 Certificate and Private Key Extracted",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42764277\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T02:11:28Z"
+    }
+  },
+  {
+    "hash": "38c14b322e2474cc55c384efdee26beedf733fd2fcef7077ac3ca3205ef08d24",
+    "item": {
+      "title": "Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42758807\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gauntletai.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T17:01:02Z"
+    }
   }
 ]
