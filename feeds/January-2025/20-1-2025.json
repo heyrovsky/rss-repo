@@ -1073,5 +1073,457 @@
       "source": "Hacker News",
       "published": "2025-01-18T13:14:15Z"
     }
+  },
+  {
+    "hash": "c02f62097e39e1ba538eb061ff40491cca45140c6ae32fe95695c23fd627d0f8",
+    "item": {
+      "title": "CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42767076\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://susam.github.io/cfrs/demo.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T10:16:16Z"
+    }
+  },
+  {
+    "hash": "7d8bc508ee95630836e6e531223b23e9495822c76222c2d50d1a10c4515f1166",
+    "item": {
+      "title": "TypeScript enums: use cases and alternatives",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42766729\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://2ality.com/2025/01/typescript-enum-patterns.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T09:30:15Z"
+    }
+  },
+  {
+    "hash": "44267e1001d253bf96bfe58399259c6368faa033d5a119ceb66bfaa673ec8d38",
+    "item": {
+      "title": "Parinfer: Simpler Lisp Editing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42766205\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://shaunlebron.github.io/parinfer/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T08:21:16Z"
+    }
+  },
+  {
+    "hash": "eff38854c8bd71b6f4813f8c942ad507114e80504cd9ea04c29c276d47d26e8c",
+    "item": {
+      "title": "Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42732533\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thecollector.com/byzantine-sassanian-war/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-17T00:00:17Z"
+    }
+  },
+  {
+    "hash": "add5dac0f71de6b0d2985dacb1ee43ee356932d229d267cadd360eb72b2af192",
+    "item": {
+      "title": "Dutch Align with US Export Controls on Some ASML Chip Tools",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42729488\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-16T19:07:47Z"
+    }
+  },
+  {
+    "hash": "6ebba19f2b869984f2174ed5ba4e760d15143bea65f4878f06759dbbb83ec069",
+    "item": {
+      "title": "Designing the Sublime Boullée and Ledoux's Architectural Revolution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42728825\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://publicdomainreview.org/essay/designing-the-sublime/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-16T18:17:32Z"
+    }
+  },
+  {
+    "hash": "594aa270015bd5427e2a8546c9e8f2158a3b25349ee5a02861bfcf0cb2240167",
+    "item": {
+      "title": "More Rust Code Is Coming For Linux 6.14 Along With Hitting Another \"Major Milestone\"",
+      "description": "For the Linux 6.13 cycle the Rust code was hitting a \"tipping point\" with more Rust kernel drivers expected soon. For Linux 6.14 there is indeed a lot more Rust code being primed for this next kernel version...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.14-Rust"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-20T12:04:41Z"
+    }
+  },
+  {
+    "hash": "f609b1c327330b94aa2f2a62f1b99cd9eb35a94c6db44ed681a7d2ddcac81d4f",
+    "item": {
+      "title": "Intel FFmpeg Cartwheel 2024Q4 Adds Battlemage GPU Support",
+      "description": "Intel software engineers overnight published their new quarterly release of the Intel FFmpeg Cartwheel, the collection of the company's patches against this open-source multimedia library for enhancing the Intel GPU acceleration support while the patches work their way for upstream FFmpeg...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-FFmpeg-2024Q4-Battlemage"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-20T11:45:00Z"
+    }
+  },
+  {
+    "hash": "4d58a884b56adfd442aab63617c1712b02e060ce4e774ba9267fccc5947929c7",
+    "item": {
+      "title": "Many Scheduler Improvements Ready To Better Enhance The Linux 6.14 Kernel",
+      "description": "Ingo Molnar sent out the big batch of scheduler enhancements bright and early today for helping kick off the start of the Linux 6.14 merge window...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.14-Scheduler"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-20T11:37:33Z"
+    }
+  },
+  {
+    "hash": "9b0b3cd9eee9d49c6ac98f6251ee57120462913da7a99367bd78ae399e9f0f0d",
+    "item": {
+      "title": "Open-Source Qualcomm Adreno Vulkan Driver Lands Ray Query Support",
+      "description": "The \"TURNIP\" open-source Vulkan API driver within Mesa for supporting Qualcomm Adreno graphics is now able to expose accelerated ray query support for ray-tracing with newer Adreno GPUs...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-TURNIP-VK_KHR_ray_query"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-20T11:26:11Z"
+    }
+  },
+  {
+    "hash": "239e438d400c0e8e30d72d60fff20d45cd9d4070044267b18936bc1251d652ab",
+    "item": {
+      "title": "Linux 6.14 Adding \"STATX_DIO_READ_ALIGN\" To Address A Performance Pitfall",
+      "description": "Among the VFS pull requests sent out this weekend in advance of the Linux 6.14 merge window formally opening were the VFS direct I/O (DIO) updates that introduce a new STATX_DIO_READ_ALIGN field for addressing a possible performance pitfall...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.14-VFS-DIO"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-20T11:19:34Z"
+    }
+  },
+  {
+    "hash": "077a359231311b115d807689a6f4696fe49f7bd45b8907d1864efe107db9c044",
+    "item": {
+      "title": "Bitcoin, Ethereum, and Shiba Inu Have Shaped Crypto Wealth in the Last 10 Years, Now the Shift is to These 3 Tokens",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-40.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin, Ethereum, and Shiba Inu Have Shaped Crypto Wealth in the Last 10 Years, Now the Shift is to These 3 Tokens\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-40.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-40-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe crypto market has witnessed monumental changes over the last decade, with Bitcoin, Ethereum, and Shiba Inu leaving indelible marks on investors\u0026#8217; wealth. Bitcoin redefined digital currency, Ethereum opened the doors for smart contracts, and Shiba Inu capitalized on the meme coin frenzy. As the market evolves, focus is shifting",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-ethereum-and-shiba-inu-have-shaped-crypto-wealth-in-the-last-10-years-now-the-shift-is-to-these-3-tokens/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "ETHEREUM",
+        "Rexas Finance"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-40.jpg"
+      },
+      "published": "2025-01-20T08:51:40Z"
+    }
+  },
+  {
+    "hash": "6427b58eb5b19cc764cf1352e67574815416b2b04d6c2080034aef3c4ff9493e",
+    "item": {
+      "title": "XRP And Solana Holders Pivot to FX Guys ($FXG) As Analysts Predict A Massive Upswing",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-108.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-108.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-108-300x172.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eRipple (XRP) and Solana (SOL) have held strong positions in the crypto market, with loyal investors backing their long-term potential. However, recent market trends and price volatility have pushed many to seek new opportunities with better growth potential. Analysts now point to FXGuys ($FXG), a rising DeFi token, as a",
+      "links": [
+        "https://thenewscrypto.com/xrp-and-solana-holders-pivot-to-fx-guys-fxg-as-analysts-predict-a-massive-upswing/"
+      ],
+      "categories": [
+        "Press Release",
+        "FX Guys ($FXG)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-108.jpg"
+      },
+      "published": "2025-01-20T08:30:00Z"
+    }
+  },
+  {
+    "hash": "270afbb091e1f80999154984cf71f24c06bb3d0084bc24a61012f17e45820478",
+    "item": {
+      "title": "MEXC Unveils 2024 Annual Report: $100 Million Airdrop Distribution and 30 Million User Milestone Achieved",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-104.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-104.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-104-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-104-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eMEXC, a global leader in cryptocurrency exchanges, has officially launched its 2024 Annual Report. The report provides users with a personalized review of their trading journey over the past year. The report also reveals several key achievements of the platform, including the breakthrough of 30 million users, the distribution of",
+      "links": [
+        "https://thenewscrypto.com/mexc-unveils-2024-annual-report-100-million-airdrop-distribution-and-30-million-user-milestone-achieved/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-104.jpg"
+      },
+      "published": "2025-01-20T08:23:29Z"
+    }
+  },
+  {
+    "hash": "a027d0a7670f8e00f741376dfcb8803f99e9e7a9d6345ed0a45c304ebb4ff45c",
+    "item": {
+      "title": "Bitcoin Surges Above $109K to a New ATH as Trump Presidency Sparks Rally",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/template-IMG-01-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Surges Above $109K to a New ATH as Trump Presidency Sparks Rally\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/template-IMG-01-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/template-IMG-01-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/template-IMG-01-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBitcoin reached a new all-time high of $109,114.88 on Jan. 20. It briefly surpassed $109,000 before retreating below $108,000 within minutes. At 06:55 am UTC, BTC hit $109,036, breaking the previous record of $108,000 from December 2024. The rally comes hours before Donald Trump’s inauguration as the 47th U.S. President",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-surges-above-109k-to-a-new-ath-as-trump-presidency-sparks-rally/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "BTC",
+        "DonaldTrump"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/template-IMG-01-1.jpg"
+      },
+      "published": "2025-01-20T08:07:50Z"
+    }
+  },
+  {
+    "hash": "c0fa5653374a2ffbb0f4cc3fa50711abc7413ca6312a96cf59366a9957d988ba",
+    "item": {
+      "title": "UXLINK to Launch the World’s First Web3 Social PayFi Ecosystem – Introducing FujiPay and Fuji Card for Cross-Border Payments",
+      "description": "\u003cp\u003e\u003cimg width=\"706\" height=\"422\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-103.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-103.jpg 706w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-103-300x179.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-103-638x380.jpg 638w\" sizes=\"auto, (max-width: 706px) 100vw, 706px\" /\u003e\u003c/p\u003eUXLINK has officially announced via its official X (formerly Twitter) platform the upcoming launch of the Fuji Card, a cross-border payment card supporting cryptocurrency transactions, developed in collaboration with international payment institutions. The Fuji Card is a key component of the UXLINK PayFi ecosystem, designed to enable seamless cryptocurrency payments",
+      "links": [
+        "https://thenewscrypto.com/uxlink-to-launch-the-worlds-first-web3-social-payfi-ecosystem-introducing-fujipay-and-fuji-card-for-cross-border-payments/"
+      ],
+      "categories": [
+        "Press Release",
+        "UXLINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-103.jpg"
+      },
+      "published": "2025-01-20T07:54:23Z"
+    }
+  },
+  {
+    "hash": "f14458cfca3cbcb6a5143e0a22002efdc2442c4d30bd90b1823c5d0e4797ffc7",
+    "item": {
+      "title": "Ethereum Struggles To Surpass $3.5K Resistance Amid Bull Market",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Ethereum-Struggles-To-Surpass-3.5K-Resistance-Amid-Bull-Market.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Ethereum-Struggles-To-Surpass-3.5K-Resistance-Amid-Bull-Market.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/Ethereum-Struggles-To-Surpass-3.5K-Resistance-Amid-Bull-Market-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Ethereum-Struggles-To-Surpass-3.5K-Resistance-Amid-Bull-Market-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs US President Donald Trump’s inauguration day dawns, the crypto market has gone full bullish. Over the weekend, the largest cryptocurrency, Bitcoin, tested the $105K level and is currently trading at the $103K level. Due to Trump’s inauguration, memecoins surrounding the President and his wife Melania are trending in the",
+      "links": [
+        "https://thenewscrypto.com/ethereum-struggles-to-surpass-3-5k-resistance-amid-bull-market/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETHEREUM",
+        "Price Analysis"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Ethereum-Struggles-To-Surpass-3.5K-Resistance-Amid-Bull-Market.jpg"
+      },
+      "published": "2025-01-20T07:39:57Z"
+    }
+  },
+  {
+    "hash": "b8e5bb36497af0c4f53c3c19775a6c482ae0fa27c69fe9d7b1ca3042e623772b",
+    "item": {
+      "title": "Can Remittix Deliver 1000% Gains? Analysts Highlight Why This Altcoin Could Disrupt the Crypto Market in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"492\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-101.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-101.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-101-300x189.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-101-768x484.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMany wonder if Remittix (RTX) could deliver a 1000% increase in value, especially as 2025 looms. Projects come and go in cryptocurrency, but few combine practicality and hype as effectively as Remittix (RTX). Built to merge decentralized finance and traditional banking, this altcoin has turned heads with its promise of",
+      "links": [
+        "https://thenewscrypto.com/can-remittix-deliver-1000-gains-analysts-highlight-why-this-altcoin-could-disrupt-the-crypto-market-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Remittix (RTX)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-101.jpg"
+      },
+      "published": "2025-01-20T07:16:37Z"
+    }
+  },
+  {
+    "hash": "eafcab67016607c03483065dfcbde8a9b50423b89eabfa6a860a849fb602c71a",
+    "item": {
+      "title": "Can Solana (SOL) Eye the Next Target After Record Highs?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Solana (SOL) Eye the Next Target After Record Highs?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe global cryptocurrency market is facing a bearish downturn, shedding 2.54% and bringing its market cap down to $3.54 trillion. Amid the dip, the altcoin Solana (SOL) defies the trend, reaching a new all-time high of $294.33. Despite the uptick, SOL couldn’t escape the red zone. However, market analysts expect",
+      "links": [
+        "https://thenewscrypto.com/can-solana-sol-eye-the-next-target-after-record-highs/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cryptocurrency",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1.jpg"
+      },
+      "published": "2025-01-20T07:13:22Z"
+    }
+  },
+  {
+    "hash": "6a334d6eaac17f1d4ade07274f8e012255061cf0ea13ea3ed47261548eaccae5",
+    "item": {
+      "title": "Guardians of the Spark: NFT Launch and Staking on AVAX",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/1.png 1920w, https://thenewscrypto.com/wp-content/uploads/2025/01/1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/1-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/01/1-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/01/1-1536x864.png 1536w, https://thenewscrypto.com/wp-content/uploads/2025/01/1-376x212.png 376w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eThe digital world is changing fast, and NFTs are leading the way in transforming how players and collectors connect with virtual worlds. One exciting example is Guardians of The Spark, a unique gaming experience that combines immersive storytelling with blockchain technology. Along with the launch of this game’s NFT collection,",
+      "links": [
+        "https://thenewscrypto.com/guardians-of-the-spark-nft-launch-and-staking-on-avax/"
+      ],
+      "categories": [
+        "Press Release",
+        "AVAX",
+        "NFT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/1.png"
+      },
+      "published": "2025-01-20T05:16:55Z"
+    }
+  },
+  {
+    "hash": "6f0a5ff5344174a2524c00b1eac88e6127d4ce389f3ae6a32facf9ed01bbac71",
+    "item": {
+      "title": "Dogecoin Drops Below $0.40 as TRUMP Meme Coin Takes the Spotlight",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/dogecoin.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"dogecoin\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/dogecoin.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/dogecoin-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/dogecoin-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDogecoin Drops Below $0.40 Dogecoin (DOGE) price dived to as low as $0.40 on Sunday, January 19th, when Donald Trump\u0026#8217;s new meme coin, TRUMP, came out. Investors lost focus with the token launched on January 18th on Truth Social stealing the market. \u0026#8220;Dogecoin was great after Trump re-elected in 2025.\u0026#8221;.",
+      "links": [
+        "https://thenewscrypto.com/dogecoin-drops-below-0-40-as-trump-meme-coin-takes-the-spotlight/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Dogecoin",
+        "Meme Coin",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sneha Murali"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/dogecoin.jpg"
+      },
+      "published": "2025-01-19T18:31:58Z"
+    }
+  },
+  {
+    "hash": "388579bc6738bc9925a66529c392419a6f8f571b7edab0a460ab94a15099542c",
+    "item": {
+      "title": "⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [20 January]",
+      "description": "As the digital world becomes more complicated, the lines between national security and cybersecurity are starting to fade. Recent cyber sanctions and intelligence moves show a reality where malware and fake news are used as tools in global politics. Every cyberattack now seems to have deeper political consequences. Governments are facing new, unpredictable threats that can't be fought with",
+      "links": [
+        "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_20.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibUYtFkTwqS47YcUb7TUXjh3O_hy4EpcleWFJwMJbNsMDq7put9WHNzJ7DzL91ft_fkec3WiI4HLOimL-vxg5z3JBwvRQC69CxVTc3n11Gsi9a19wru6TduDUV921EdMQhbWtF7GySZemOaPRhygWbQxOEthbms_qodBav8RnhE7XRnhT8wmLaNB4XvRle/s1600/recap.png"
+      },
+      "published": "2025-01-20T12:02:00Z"
+    }
+  },
+  {
+    "hash": "472a5d5492419a19f4e1ab53a4c30deb107c65b681220c6307456528598569ad",
+    "item": {
+      "title": "Product Walkthrough: How Satori Secures Sensitive Data From Production to AI",
+      "description": "Every week seems to bring news of another data breach, and it’s no surprise why: securing sensitive data has become harder than ever. And it’s not just because companies are dealing with orders of magnitude more data. Data flows and user roles are constantly shifting, and data is stored across multiple technologies and cloud environments. Not to mention, compliance requirements are only getting",
+      "links": [
+        "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/s1600/main.png"
+      },
+      "published": "2025-01-20T11:10:00Z"
+    }
   }
 ]
