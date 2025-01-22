@@ -2089,5 +2089,526 @@
       "source": "Hacker News",
       "published": "2025-01-19T23:39:20Z"
     }
+  },
+  {
+    "hash": "a75f276acef0c5d4dbc1ebfc6ffefeab84a493e9e0c6fa3628656ffaca88c02e",
+    "item": {
+      "title": "Wine 10.0 released",
+      "description": "\u003ca href=\"https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0\"\u003eVersion\n10.0\u003c/a\u003e of the Wine Windows compatibility layer is out.  \"\u003cq\u003eThis release\nrepresents a year of development effort and over 6,000 individual\nchanges\u003c/q\u003e\".  Those changes include full support for the ARM64EC\narchitecture, better high-DPI display support, Wayland enabled by default,\nand more.",
+      "links": [
+        "https://lwn.net/Articles/1005801/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-01-22T14:53:37Z"
+    }
+  },
+  {
+    "hash": "251db0ac603a1e16244e98c890d63915a5bed681f1fae68abb78c51d5f65769f",
+    "item": {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (snapcast), \u003cb\u003eFedora\u003c/b\u003e (python-jinja2), \u003cb\u003eMageia\u003c/b\u003e (rsync), \u003cb\u003eSUSE\u003c/b\u003e (cdi-apiserver-container, cdi-cloner-container, cdi- controller-container, cdi-importer-container, cdi-operator-container, cdi- uploadproxy-container, cdi-uploadserver-container, cont, gh, kernel, kubevirt, virt-api-container, virt-controller-container, virt-exportproxy-container, virt-exportserver-container, virt-handler-container, virt-launcher-container, virt-libguestfs-t, nvidia-open-driver-G06-signed, and pam_u2f), and \u003cb\u003eUbuntu\u003c/b\u003e (linux-oem-6.11 and vim).",
+      "links": [
+        "https://lwn.net/Articles/1005798/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-01-22T14:15:05Z"
+    }
+  },
+  {
+    "hash": "4d95a596b285227acb4a207da5d05ffb19375108bce120e833664d199aa05678",
+    "item": {
+      "title": "Google increases investment in Anthropic by another $1 billion",
+      "description": "AI group is closing in on a $60 billion valuation.",
+      "links": [
+        "https://arstechnica.com/ai/2025/01/google-increases-investment-in-anthropic-by-another-1-billion/"
+      ],
+      "categories": [
+        "AI",
+        "Anthropic",
+        "google",
+        "LLMs",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "George Hammond, Madhumita Murgia, and Arash Massoudi, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/claude_llm_hero_1-1152x648.jpg"
+      },
+      "published": "2025-01-22T14:19:39Z"
+    }
+  },
+  {
+    "hash": "9fa66ed514973e13289faa12b5af6182f09bc606fad474a0c92ba2e922a5aa51",
+    "item": {
+      "title": "All the things Nintendo didn’t tell us about the Switch 2",
+      "description": "Some informed speculation on everything from price to battery life.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/01/all-the-things-nintendo-didnt-tell-us-about-the-switch-2/"
+      ],
+      "categories": [
+        "Features",
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/switch2-questions-1152x648.jpg"
+      },
+      "published": "2025-01-22T12:00:20Z"
+    }
+  },
+  {
+    "hash": "daafae65f25108e3bb22704dd027c7b47f7b047d13b8eed9f3b9e2a0d66cf70b",
+    "item": {
+      "title": "After Dogecoin (DOGE) and Solana (SOL), Here’s the New Coin Ready to Turn Average Joes Into Crypto Whales",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-2-19.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"After Dogecoin (DOGE) and Solana (SOL), Here\u0026#039;s the New Coin Ready to Turn Average Joes Into Crypto Whales\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-2-19.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-2-19-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-2-19-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eFollowing the unprecedented rise of Dogecoin (DOGE) and Solana (SOL), a new cryptocurrency is emerging as a formidable contender to reshape the market and elevate investors to the elite status of crypto magnates. Lightchain AI, an avant-garde initiative fusing artificial intelligence with blockchain technology, is rapidly solidifying its position as",
+      "links": [
+        "https://thenewscrypto.com/after-dogecoin-doge-and-solana-sol-heres-the-new-coin-ready-to-turn-average-joes-into-crypto-whales/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Dogecoin",
+        "Lightchain",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/unnamed-2-19.jpg"
+      },
+      "published": "2025-01-22T11:31:45Z"
+    }
+  },
+  {
+    "hash": "7e9676ead5e1aa9c178018bb0a62d19d02d13f5f6c41f8a6c4305cc3e02509d6",
+    "item": {
+      "title": "Traders Identify New Altcoin Taking on Shiba Inu and XRP, Could Be the Next SUI",
+      "description": "\u003cp\u003e\u003cimg width=\"808\" height=\"471\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-121.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-121.jpg 808w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-121-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-121-768x448.jpg 768w\" sizes=\"auto, (max-width: 808px) 100vw, 808px\" /\u003e\u003c/p\u003eShiba Inu and XRP have both had their time in the spotlight. From the memecoin rally to the latest bull market, saw significant growth. However, a new token could soon challenge both, taking advantage of TON’s growing ecosystem.  Shiba Inu Fails To Gather Momentum The “Doge-killer” Shiba Inu (SHIB) proved",
+      "links": [
+        "https://thenewscrypto.com/traders-identify-new-altcoin-taking-on-shiba-inu-and-xrp-could-be-the-next-sui/"
+      ],
+      "categories": [
+        "Market News",
+        "DeFi",
+        "Elluminex"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-121.jpg"
+      },
+      "published": "2025-01-22T11:30:00Z"
+    }
+  },
+  {
+    "hash": "c719141c95ef0117b825751fd98f29e6bbd071dcb6dcfbb97764867586e0031c",
+    "item": {
+      "title": "Emerging Crypto Giants: Rollblock, Hyperliquid, and Hedera Shape the Future of Blockchain Ecosystems",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-16.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-16.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-16-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-16-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-16-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eEven the biggest blockchains and most massive coins once started off small. A great investment trick is to find the emerging crypto giants and invest early. History is full of millionaires who bought the big guns as mere pennies. Hedra Hashgraph (HBAR) is shooting up the charts, and Hyperliquid (HYPE)",
+      "links": [
+        "https://thenewscrypto.com/emerging-crypto-giants-rollblock-hyperliquid-and-hedera-shape-the-future-of-blockchain-ecosystems/"
+      ],
+      "categories": [
+        "Market News",
+        "Hedera",
+        "Rollblock (RBLK)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-16.png"
+      },
+      "published": "2025-01-22T11:30:00Z"
+    }
+  },
+  {
+    "hash": "e89f4693240a48b852e7462a1726e42f7547eac64f06c89e3821622f90441667",
+    "item": {
+      "title": "XDC Network (XDC) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XDC Network (XDC) Price Prediction 2023 - Will XDC Hit $0.1 Soon?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this XDC Network (XDC) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of XDC by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION XDC Network (XDC) Current Market Status What is XDC Network (XDC)? XDC Network (XDC) 24H",
+      "links": [
+        "https://thenewscrypto.com/xdc-network-xdc-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "price prediction",
+        "XDC",
+        "XDC Network",
+        "XinFin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction.jpg"
+      },
+      "published": "2025-01-22T10:44:16Z"
+    }
+  },
+  {
+    "hash": "e2d625bc45566ce2b833ed4509cabaaf71c9e564b6f85209d44b52a93eecdb57",
+    "item": {
+      "title": "Crunch Joins Solana Incubator to Advance Decentralized Predictive AI",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crunch Joins Solana Incubator to Advance Decentralized Predictive AI\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrunch has been approved for the Solana Incubator program in New York\u0026#8217;s Cohort 2. The Solana Labs team will provide Crunch with specialized assistance during the program. A worldwide, decentralized network of about 7,000 machine learning engineers, scientists, and researchers may be mobilized via the Crunch platform. This community builds",
+      "links": [
+        "https://thenewscrypto.com/crunch-joins-solana-incubator-to-advance-decentralized-predictive-ai/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-01-22T10:40:00Z"
+    }
+  },
+  {
+    "hash": "858057acff4f012436b9ee056c53092ff6ca900e63ac17b440d0186c0dc95b9e",
+    "item": {
+      "title": "Binance Futures Expands BFUSD Features with USDC Support and Enhanced User Tools",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Futures Expands BFUSD Features with USDC Support and Enhanced User Tools\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eToday, Binance Futures, the biggest cryptocurrency derivatives exchange based on trading volume, announced exciting new features and improvements to BFUSD, the first cryptocurrency exchange-issued reward-bearing margin asset. These include a new Pre-Buy and Pre-Redeem reservation system that gives consumers additional convenience and trading flexibility, as well as USDC functionality that",
+      "links": [
+        "https://thenewscrypto.com/binance-futures-expands-bfusd-features-with-usdc-support-and-enhanced-user-tools/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg"
+      },
+      "published": "2025-01-22T10:29:54Z"
+    }
+  },
+  {
+    "hash": "b128a3444b5fd5005a1d5d7be8efc03617f10aca04914bedbe70f368474336b9",
+    "item": {
+      "title": "Deribit Crypto Exchange Trading Volume Crossed $1 Trillion in 2024",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Deribits_Crypto_Trading_Volume_Nearly_Doubled_to_Over_1T_in_2024.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Deribit Crypto Exchange Trading Volume Crossed $1 Trillion in 2024\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Deribits_Crypto_Trading_Volume_Nearly_Doubled_to_Over_1T_in_2024.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/Deribits_Crypto_Trading_Volume_Nearly_Doubled_to_Over_1T_in_2024-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Deribits_Crypto_Trading_Volume_Nearly_Doubled_to_Over_1T_in_2024-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith Trump’s re-election and Bitcoin recording new all-time highs, the crypto market is witnessing record trading volumes and price surges. While the overall crypto market capitalization is hovering around $3.62 trillion, several crypto exchanges are playing their part in handling huge trading volumes.  Deribit is one of the crypto derivatives",
+      "links": [
+        "https://thenewscrypto.com/deribit-crypto-exchange-trading-volume-crossed-1-trillion-in-2024/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Crypto Exchange",
+        "crypto trading"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Deribits_Crypto_Trading_Volume_Nearly_Doubled_to_Over_1T_in_2024.jpg"
+      },
+      "published": "2025-01-22T10:10:26Z"
+    }
+  },
+  {
+    "hash": "c7e99c1fb373001b24d3a4d4e5b41821ace75375fe95fcd57453d7f1fe2982fc",
+    "item": {
+      "title": "Gate.io Reserves Surpass $10B With $2.3B Surplus and 128.58% Ratio",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"420\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-124.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-124.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-124-300x168.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eGate.io released its latest Proof of Reserves report, once again demonstrating its industry leadership with outstanding figures. This milestone reinforces the platform’s commitment to security and trust, providing users and the market with a stronger foundation of reliability. Gate.io Reserve Strength Continues to Rise, Surplus Reserves Keep Growing The latest",
+      "links": [
+        "https://thenewscrypto.com/gate-io-reserves-surpass-10b-with-2-3b-surplus-and-128-58-ratio/"
+      ],
+      "categories": [
+        "Press Release",
+        "Gate.io"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-124.jpg"
+      },
+      "published": "2025-01-22T10:09:00Z"
+    }
+  },
+  {
+    "hash": "f5dc20078581774ef0d7826398b9655a561017a88ee00403012c8c0e3a20bc51",
+    "item": {
+      "title": "Mey Network Officially Launched Innovative Features To Revolutionize the Real-World Asset Ecosystem",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-116.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-116.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-116-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-116-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-116-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMey Network, a pioneer in blockchain-powered real-world asset innovation, proudly announces the official launch of its Staking Portal and Property Token Offering (PTO). Additionally, the Marketplace and P2P Lending Solutions will be released soon, further solidifying Mey Network\u0026#8217;s position as a transformative force in the real estate sector. These cutting-edge",
+      "links": [
+        "https://thenewscrypto.com/mey-network-officially-launched-innovative-features-to-revolutionize-the-real-world-asset-ecosystem/"
+      ],
+      "categories": [
+        "Press Release",
+        "Mey Network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-116.jpg"
+      },
+      "published": "2025-01-22T10:00:00Z"
+    }
+  },
+  {
+    "hash": "ac6354e87fd4d398ad0cf755b7d48ac3a042511df7de681ec9fdf0437568d9e2",
+    "item": {
+      "title": "Gate Ventures Invests $8.5M in the BugsCoin Ecosystem To Revolutionize Crypto Education",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"420\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-123.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-123.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-123-300x168.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eGate Ventures has announced a strategic investment of $8.5 million in the BugsCoin ecosystem. This funding aims to accelerate the development of the ANTTALK trading platform and the BugsCoin ($BGSC) token, key components of this growing ecosystem. This collaboration demonstrates Gate Ventures\u0026#8217; commitment to advancing cryptocurrency education and promoting global",
+      "links": [
+        "https://thenewscrypto.com/gate-ventures-invests-8-5m-in-the-bugscoin-ecosystem-to-revolutionize-crypto-education/"
+      ],
+      "categories": [
+        "Press Release",
+        "BugsCoin",
+        "Gate Ventures"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-123.jpg"
+      },
+      "published": "2025-01-22T08:43:24Z"
+    }
+  },
+  {
+    "hash": "36fa15f0f48ccbda828d39dc960b1d2b36e0a135217618f12c10ab6c43e80446",
+    "item": {
+      "title": "Fartcoin Rose 12,000% During the Correction: Which Meme Coins Could Thrive Too?",
+      "description": "\u003cp\u003eMeme coins dominated 2024, with Fartcoin leading the charge at 12,000% growth. Which tokens could shine next?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/fartcoin-rose-12000-during-the-correction-which-meme-coins-could-thrive-too/\"\u003eFartcoin Rose 12,000% During the Correction: Which Meme Coins Could Thrive Too?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/fartcoin-rose-12000-during-the-correction-which-meme-coins-could-thrive-too/"
+      ],
+      "categories": [
+        "Features",
+        "Meme coin",
+        "Pepe",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/22120918/1737547758-meme-coins_optimized.jpg"
+      },
+      "published": "2025-01-22T12:34:40Z"
+    }
+  },
+  {
+    "hash": "d1c42d0c2f235af2af2aa92087e437210d9b56eec4b7d525d34b3ffe09f62716",
+    "item": {
+      "title": "Who is Ross Ulbricht? The Silk Road Founder Pardoned By Trump",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eRoss Ulbricht's release follows a tireless campaign by Bitcoiners and his family — but this pardon will not be universally popular.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/who-is-ross-ulbricht-the-silk-road-founder-pardoned-by-trump/\"\u003eWho is Ross Ulbricht? The Silk Road Founder Pardoned By Trump\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/who-is-ross-ulbricht-the-silk-road-founder-pardoned-by-trump/"
+      ],
+      "categories": [
+        "Features",
+        "Bitcoin",
+        "Cryptocurrencies",
+        "Darkweb",
+        "Donald Trump",
+        "Drug Trafficking",
+        "Ross Ulbricht",
+        "Silk Road",
+        "silk road bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/22115624/1737546983-screenshot-2025-01-22-at-11-48-17_optimized-1.jpg"
+      },
+      "published": "2025-01-22T12:16:39Z"
+    }
+  },
+  {
+    "hash": "cbd8ffd50adec6625a0630dd56b7928e75e46b448619a39d362cc035dca654e6",
+    "item": {
+      "title": "Opinion: $TRUMP is a Big Mistake, and a Threat to Crypto",
+      "description": "\u003cp\u003eGiven Trump is renowned for having a pretty thin skin, it's very possible he could sour on crypto altogether if $TRUMP becomes worthless.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/opinion-trump-is-a-big-mistake-and-a-threat-to-crypto/\"\u003eOpinion: $TRUMP is a Big Mistake, and a Threat to Crypto\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/opinion-trump-is-a-big-mistake-and-a-threat-to-crypto/"
+      ],
+      "categories": [
+        "Opinions",
+        "Adoption",
+        "Altcoins",
+        "Cryptocurrency",
+        "Donald Trump",
+        "Regulation",
+        "Trump Coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/21195423/1737489263-image-1737489170316_optimized.jpg"
+      },
+      "published": "2025-01-22T10:45:40Z"
+    }
+  },
+  {
+    "hash": "962efdf9496ed45af09e62fb66d9dc57e883cd875d9225b1bffc126fb7e5f24d",
+    "item": {
+      "title": "Hackers Exploit Zero-Day in cnPilot Routers to Deploy AIRASHI DDoS Botnet",
+      "description": "Threat actors are exploiting an unspecified zero-day vulnerability in Cambium Networks cnPilot routers to deploy a variant of the AISURU botnet called AIRASHI to carry out distributed denial-of-service (DDoS) attacks.\nAccording to QiAnXin XLab, the attacks have leveraged the security flaw since June 2024. Additional details about the shortcomings have been withheld to prevent further abuse.\nSome",
+      "links": [
+        "https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqbfNJ03H8aqhaeU2BIEoeaxaHP9BDMq9b2FvRnwc4tzl-YgZXsdqOOjxW1qtbw8NiPTIlYm8tcZqvQf1qBAUa19F1mu0w1_QZ8Lu0vqQhXSI_XtH2-ZNaOncrdX_ICR0XH9yqV-lkV79twVRh9M7fzEy3rCNaiFvpOz3FW3B4TqonMMj6s0dAnNN3Rlw5/s1600/ddos-attack.png"
+      },
+      "published": "2025-01-22T13:53:00Z"
+    }
+  },
+  {
+    "hash": "bd86de3066a07818ff96e1bbc2d3e44f9efa070ae2045cd4c89cc2e894094644",
+    "item": {
+      "title": "Linux's KUnit Will Now Default To Using Hardware Acceleration For Faster Testing",
+      "description": "Surprisingly a change not made years ago, the Linux Kernel Unit Testing \"KUnit\" framework with the Linux 6.14 kernel is set to use hardware acceleration by default for faster testing where available...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-KUnit-Hardware-Accel"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-22T13:51:56Z"
+    }
+  },
+  {
+    "hash": "dea1540592c50e06b45d3254b73fa97eed34cb99a6d5f835bf83ca0a2f6d7481",
+    "item": {
+      "title": "Open Socrates by Agnes Callard review – a design for life",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42792718\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T13:42:51Z"
+    }
+  },
+  {
+    "hash": "5a39342986e02e8d79548a367a221dcc1a05767f782f4d4eb1efa7c207cc7204",
+    "item": {
+      "title": "Show HN: NotepadJs – A cross-platform love letter to Notepad",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42791820\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/itamarom/notepadjs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T11:59:29Z"
+    }
+  },
+  {
+    "hash": "84066945451eb4dd5a43a6574979ddf02a40ba99dd8743593960bdf4d38f0488",
+    "item": {
+      "title": "Examples of quick hash tables and dynamic arrays in C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42757076\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nullprogram.com/blog/2025/01/19/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T14:06:50Z"
+    }
+  },
+  {
+    "hash": "f43dc4939319960d09066d86ce87804817dd4b5189830677c2a4c2569d233e92",
+    "item": {
+      "title": "PyVista",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42793162\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pyvista.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T14:25:09Z"
+    }
+  },
+  {
+    "hash": "d856a0fe251ca2f3718f262108a7fb7d9f796b8fb461d58fbb7ec5f029986427",
+    "item": {
+      "title": "Vpternlog: When three is 100% more than two",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42753953\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pvk.ca/Blog/2024/11/22/vpternlog-ternary-isnt-50-percent/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T05:24:25Z"
+    }
   }
 ]
