@@ -2610,5 +2610,659 @@
       "source": "Hacker News",
       "published": "2025-01-19T05:24:25Z"
     }
+  },
+  {
+    "hash": "ebcc92f01c3d487da7f56e1ff6877cfd8fa19fdb3d0cb14d80e7acf89b393bc9",
+    "item": {
+      "title": "AMD Radeon On Linux 6.13 + Mesa 25.0-devel vs. NVIDIA R565 Linux Graphics/Gaming Performance",
+      "description": "Ahead of the upcoming NVIDIA GeForce RTX 50 series graphics \"Blackwell\" and the AMD Radeon RX 9070 series \"RDNA4\" later in the quarter, I figured it would be worthwhile having a dedicated article looking at the latest upstream Linux graphics/gaming performance for current generation NVIDIA GeForce RTX 40 and AMD Radeon RX 7000 series graphics cards. On the AMD side was the near-final Linux 6.13 kernel along with Mesa 25.0-devel for the latest RADV Vulkan and RadeonSI OpenGL driver support while on the NVIDIA side was their current 565 driver release branch.",
+      "links": [
+        "https://www.phoronix.com/review/jan2025-linux-gpus"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-22T17:00:00Z"
+    }
+  },
+  {
+    "hash": "c88935e3d3a8fbfabab3a52a3c701fb28b3932cbdf7e78c0f01c8480f58a4ff9",
+    "item": {
+      "title": "AMD Announces The AMDGPU Composition Stack \"ACS\" For Advanced Linux Desktop Features",
+      "description": "An unexpected surprise today are AMD Linux software engineers announcing a new project a bit further outside the scope of their open-source graphics drivers... The AMDGPU Composition Stack \"ACS\" is for delivering new advanced features atop Wayland for bettering the Linux desktop display capabilities...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-AMDGPU-Composition-Stack"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-22T15:12:44Z"
+    }
+  },
+  {
+    "hash": "18ba326d6c1fb774f50bfe407431503614bca68d7762c9af13d3da33d95e5c0c",
+    "item": {
+      "title": "Very Promising Linux Patch Optimizes TLB Flushes During Page Reclamation",
+      "description": "Google engineer Vinay Banakar sent out a patch this week for the Linux kernel's memory management code to optimize TLB flushes during page reclaim and are showing very promising results...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Optimize-TLB-Flush-Reclaim"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-22T15:01:18Z"
+    }
+  },
+  {
+    "hash": "786e9494482c2fc771a9e66dfb79bf5c69c73723621bf2006202f7e193666ee8",
+    "item": {
+      "title": "CARV Launches D.A.T.A Framework, Giving AI Agents ‘Eyes and Ears’ with On-Chain and Off-Chain Data",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT-376x212.jpg 376w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eSanta Clara, California, 22nd January 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/carv-launches-d-a-t-a-framework-giving-ai-agents-eyes-and-ears-with-on-chain-and-off-chain-data/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/20250122-125820_1737525654BoHYTT9xiT.jpg"
+      },
+      "published": "2025-01-22T14:14:20Z"
+    }
+  },
+  {
+    "hash": "2fe487e46ba1dacd7e42fa8fe0ac46f7d9bf5aacb959885981c7c1b6b4ae5f7a",
+    "item": {
+      "title": "Mini Dapps and Dapp Portal Powered by Kaia Blockchain Launched by LINE NEXT",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-20-at-3.43.24-AM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mini Dapps and Dapp Portal Powered by Kaia Blockchain Launched by LINE NEXT\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-20-at-3.43.24-AM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-20-at-3.43.24-AM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-20-at-3.43.24-AM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMini Dapps and a Dapp Portal powered by the Kaia blockchain were launched\u0026#160;today by LINE NEXT Inc., LINE\u0026#8217;s initiative devoted to creating and growing the Web3 ecosystem, and are accessible to users worldwide. Mini Dapps are available directly\u0026#160;on LINE Messenger and via the Dapp Portal\u0026#8217;s Official Account without the need",
+      "links": [
+        "https://thenewscrypto.com/mini-dapps-and-dapp-portal-powered-by-kaia-blockchain-launched-by-line-next/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-20-at-3.43.24-AM.jpeg"
+      },
+      "published": "2025-01-22T13:55:03Z"
+    }
+  },
+  {
+    "hash": "8344f5cebc670c172cb2e1e72565fdf0f3882354a29f506ae255670a38461446",
+    "item": {
+      "title": "MEXC Strengthens Its Web3 Commitment With the Listing of Jambo (J), Empowering Emerging Markets",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-125.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-125.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-125-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-125-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eMEXC, the world\u0026#8217;s leading cryptocurrency trading platform, announced the launch of the Jambo (J), an innovative on-chain mobile network project, scheduled for January 21, 2025, at 10:00 (UTC). The launch will be accompanied by Airdrop+ rewards of 28,000 J, 5,000 MX and 50,000 USDT. Empowering Users with Jambo\u0026#8217;s Scalable On-chain",
+      "links": [
+        "https://thenewscrypto.com/mexc-strengthens-its-web3-commitment-with-the-listing-of-jambo-j-empowering-emerging-markets/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-125.jpg"
+      },
+      "published": "2025-01-22T13:30:43Z"
+    }
+  },
+  {
+    "hash": "a3ae72e85334ee5cabea6fe6937b00dd08b0600d743b367c05852f73f68db26f",
+    "item": {
+      "title": "Why Privacy-Conscious Traders Are Flocking to DTX Exchange",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"616\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-120.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-120.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-120-300x237.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-120-768x607.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eIn today’s digital age, privacy has become a top priority for traders in financial markets. As more and more people experience data loss, identity theft, and invasive regulations, more traders are looking for platforms that provide secure, anonymous, and private trading.\u0026#160; The need for anonymity is particularly high in cryptocurrency",
+      "links": [
+        "https://thenewscrypto.com/why-privacy-conscious-traders-are-flocking-to-dtx-exchange/"
+      ],
+      "categories": [
+        "Press Release",
+        "DTX Exchange (DTX)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-120.jpg"
+      },
+      "published": "2025-01-22T13:30:00Z"
+    }
+  },
+  {
+    "hash": "7959d0397c0b50a9cb597e6ab8eddf9a8b63521337b6a24ab9c6307d05a8130d",
+    "item": {
+      "title": "Ethereum Price Decline While Popular DeFi Altcoin Becomes Top Pick for ETH Whales",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"410\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-119.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/image001-119.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-119-300x158.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/image001-119-768x404.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eEthereum is facing a sharp price decline as broader market conditions continue to weigh on its performance. Despite optimism surrounding the potential approval of an ETH ETF, the cryptocurrency has struggled to hold key support levels, prompting investors to explore alternative opportunities. One such opportunity gaining traction is DTX Exchange",
+      "links": [
+        "https://thenewscrypto.com/ethereum-price-decline-while-popular-defi-altcoin-becomes-top-pick-for-eth-whales/"
+      ],
+      "categories": [
+        "Press Release",
+        "DTX Exchange (DTX)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/image001-119.jpg"
+      },
+      "published": "2025-01-22T13:30:00Z"
+    }
+  },
+  {
+    "hash": "67cf834c58c2da32584d020afc73db74c335cc1e8d0d08ca32fe9113005e9b8f",
+    "item": {
+      "title": "$TRUMP and $MELANIA Perpetual Contracts Now Live on BYDFi",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/en-X1200x675_1737545084TY48wlOnkl.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/en-X1200x675_1737545084TY48wlOnkl.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/01/en-X1200x675_1737545084TY48wlOnkl-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/en-X1200x675_1737545084TY48wlOnkl-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/01/en-X1200x675_1737545084TY48wlOnkl-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eVictoria, Seychelles, 22nd January 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/trump-and-melania-perpetual-contracts-now-live-on-bydfi/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/en-X1200x675_1737545084TY48wlOnkl.jpg"
+      },
+      "published": "2025-01-22T12:44:25Z"
+    }
+  },
+  {
+    "hash": "e68dfcc1db86a3a4109f043b85e9cef7d0393763842f79711063452a78f5838e",
+    "item": {
+      "title": "Hyperliquid (HYPE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58-.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hyperliquid (HYPE) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58-.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58--300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58--376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hyperliquid (HYPE) price prediction for 2025, 2026-2030, we will analyze the price patterns of HYPE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hyperliquid (HYPE) Current Market Status What is Hyperliquid (HYPE)? Hyperliquid (HYPE) 24H Technicals HYPERLIQUID",
+      "links": [
+        "https://thenewscrypto.com/hyperliquid-hype-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "HYPE",
+        "Hyperliquid",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58-.jpg"
+      },
+      "published": "2025-01-22T12:32:58Z"
+    }
+  },
+  {
+    "hash": "e0b2bc610a5503009209321250ececd0eaa023947346affff8daa3d1485375b0",
+    "item": {
+      "title": "Mantle (MNT) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mantle (MNT) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Mantle (MNT) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of MNT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Mantle (MNT) Current Market Status What is Mantle (MNT)? Mantle (MNT) 24H Technicals MANTLE (MNT)",
+      "links": [
+        "https://thenewscrypto.com/mantle-mnt-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Mantle",
+        "MNT",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg"
+      },
+      "published": "2025-01-22T12:23:05Z"
+    }
+  },
+  {
+    "hash": "e3111e7ff8aa59facb7682e0bee9162edd827b84abc74f63f00f0f81a41cdbeb",
+    "item": {
+      "title": "ai16z (AI16Z) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/ai16z_Price-prediction-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ai16z (AI16Z) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/ai16z_Price-prediction-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/ai16z_Price-prediction-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/ai16z_Price-prediction-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this ai16z (AI16Z) price prediction 2025, 2026-2030, we will analyze the price patterns of AI16Z by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.  TABLE OF CONTENTS INTRODUCTION ai16z (AI16Z) Current Market Status What is ai16z (AI16Z)? ai16z (AI16Z) 24H Technicals AI16Z (AI16Z)",
+      "links": [
+        "https://thenewscrypto.com/ai16z-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "ai16z",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Meme Coin",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/ai16z_Price-prediction-2.jpg"
+      },
+      "published": "2025-01-22T12:14:26Z"
+    }
+  },
+  {
+    "hash": "d64fb4c6cf67057b9f4f6a1a21f68429817053a02fad7085de207bd7974cfd70",
+    "item": {
+      "title": "Official Trump (TRUMP) Added to Travala’s Payment Options with a 9% Price Surge",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Official-Trump-TRUMP-Added-to-Travalas-Payment-Options-with-a-9-Price-Surge.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Official Trump (TRUMP) Added to Travala’s Payment Options with a 9% Price Surge\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Official-Trump-TRUMP-Added-to-Travalas-Payment-Options-with-a-9-Price-Surge.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/Official-Trump-TRUMP-Added-to-Travalas-Payment-Options-with-a-9-Price-Surge-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Official-Trump-TRUMP-Added-to-Travalas-Payment-Options-with-a-9-Price-Surge-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTravala, the blockchain-enabled travel booking platform, has announced the inclusion of OFFICIAL TRUMP (TRUMP), a new payment solution. Thereby, it enables users to book hotels, flights, and other fun activities globally.   It provides a transit between cryptocurrency and real-world utility. Travala facilitates crypto enthusiasts with new technologies and encourages the",
+      "links": [
+        "https://thenewscrypto.com/official-trump-trump-added-to-travalas-payment-options-with-a-9-price-surge/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cryptocurrency",
+        "DonaldTrump",
+        "Travala",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Official-Trump-TRUMP-Added-to-Travalas-Payment-Options-with-a-9-Price-Surge.jpg"
+      },
+      "published": "2025-01-22T12:05:35Z"
+    }
+  },
+  {
+    "hash": "e9f917cb17d0d233a212f868c2ee7716a85c45c27dfe4b4776ae9451ecdb035f",
+    "item": {
+      "title": "Trump announces $500B “Stargate” AI infrastructure project with AGI aims",
+      "description": "Trump: \"The largest AI infrastructure project in history, and it's taking place here in America.\"",
+      "links": [
+        "https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/"
+      ],
+      "categories": [
+        "AI",
+        "agi",
+        "AI datacenter",
+        "AI infrastructure",
+        "Elon Musk",
+        "Larry Ellison",
+        "machine learning",
+        "Masayoshi Son",
+        "MGX",
+        "microsoft",
+        "NVIDIA",
+        "openai",
+        "oracle",
+        "sam altman",
+        "SoftBank",
+        "stargate",
+        "texas",
+        "UAE"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/stargate_header-1152x648.jpg"
+      },
+      "published": "2025-01-22T15:20:56Z"
+    }
+  },
+  {
+    "hash": "2959cd20558a691908e60b150b22b2936986a87cc5a8d32731f0c03aeb98d2c7",
+    "item": {
+      "title": "The Internet is (once again) awash with IoT botnets delivering record DDoSes",
+      "description": "Bigger, badder DDoSes are flooding the Internet. Dismal IoT security is largely to blame.",
+      "links": [
+        "https://arstechnica.com/security/2025/01/the-internet-is-once-again-awash-with-iot-botnets-delivering-record-ddoses/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ddos-for-hire.jpg"
+      },
+      "published": "2025-01-22T15:10:58Z"
+    }
+  },
+  {
+    "hash": "d30f4a8887a7d2508eed23f84078bc47a029830771f0cceba6a0e91e24e0ea50",
+    "item": {
+      "title": "Silk Road founder Ross Ulbricht pardoned by Trump 10 years into life sentence",
+      "description": "Trump confirmed the pardon was partly to “honor” Libertarian movement.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/01/silk-road-founder-ross-ulbricht-pardoned-by-trump-10-years-into-life-sentence/"
+      ],
+      "categories": [
+        "Policy",
+        "bitcoin",
+        "black market",
+        "cryptocurrency",
+        "Donald Trump",
+        "money laundering",
+        "ross ulbricht",
+        "Silk Road"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-461481376-1024x648.jpg"
+      },
+      "published": "2025-01-22T14:55:02Z"
+    }
+  },
+  {
+    "hash": "465bb1c586b78b56a9498ed9849c57f5e1cbd8fc010acf835710bb5fcac127f4",
+    "item": {
+      "title": "Mastercard DNS Error Went Unnoticed for Years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42793783\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T15:25:57Z"
+    }
+  },
+  {
+    "hash": "b79add75ff21daa313f8ea6d81ef5054ea9f342bdda20f1eb4dc9c9239480750",
+    "item": {
+      "title": "The Tyranny of Structurelessness (1970)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42793483\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jofreeman.com/joreen/tyranny.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T14:57:23Z"
+    }
+  },
+  {
+    "hash": "e09be79bdc6c93578b83c3f149781b78605c0f305243ac1ac098bbce675731fe",
+    "item": {
+      "title": "Simple CPU Design",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42793597\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://simplecpudesign.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T15:07:26Z"
+    }
+  },
+  {
+    "hash": "32c4f16f51a94542ed38fca29b8b10b2dde73ccd604b00043c7056cbc3b6c04a",
+    "item": {
+      "title": "Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42795375\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/sauravpanda/BrowserAI"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T17:40:09Z"
+    }
+  },
+  {
+    "hash": "7df4d53a83d3333307c3fd7f16cd0e083041558433e737aa28bd0f3352464f09",
+    "item": {
+      "title": "Minimal 64x4 Home Computer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42794232\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/slu4coder/Minimal-64x4-Home-Computer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T16:08:59Z"
+    }
+  },
+  {
+    "hash": "50d61c16e5d4f0fcd1da35419a49953037ddd002fe3451b4b776b904afd028fb",
+    "item": {
+      "title": "Lonely sunfish in Japan gets cardboard human friends",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42766500\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/cqjv4lz7g57o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-20T09:01:46Z"
+    }
+  },
+  {
+    "hash": "5ca742a6538ffdbbc5fa89b105532b7ef8dca229a91709f0b4fbdf22df56d842",
+    "item": {
+      "title": "Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42794902\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sievedata.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T17:01:17Z"
+    }
+  },
+  {
+    "hash": "4ceb01038262fbffa72e2cd4eb6657daca34e78b9b239a1e8d88f3abf2b740d6",
+    "item": {
+      "title": "TabBoo – add random jumpscares to websites you're trying to avoid",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42795237\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tabboo.xyz/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T17:27:14Z"
+    }
+  },
+  {
+    "hash": "786f87a52653155d5d9f547ac3508211c59d1fd071120c7fea9981825eefe67e",
+    "item": {
+      "title": "Show HN: Stratoshark, a sibling application to Wireshark",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42793777\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stratoshark.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T15:25:32Z"
+    }
+  },
+  {
+    "hash": "f513adde32e2b2f7b14ceceb5901978a9029edc85b7d1534def1931b6f9f20ca",
+    "item": {
+      "title": "Fluorescent Mineral Photography",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42795085\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.naturesrainbows.com/photography"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T17:15:38Z"
+    }
+  },
+  {
+    "hash": "6053c8dd1ba5798f447f563ffd3ced8909a11a649f789567db751898df1ab3d2",
+    "item": {
+      "title": "Origins of Common Unix Programs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42760768\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://darwinsys.com/history/origins.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T19:30:07Z"
+    }
+  },
+  {
+    "hash": "2965cd98d62d12a2b7173e8ea740138dd0dfd98f57916f8e6d07e7c22d19b685",
+    "item": {
+      "title": "Sequent Calculus and Notation – Par Part 1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42795097\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ryanbrewer.dev/posts/sequent-calculus/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T17:16:22Z"
+    }
+  },
+  {
+    "hash": "a7a75c3258a72e0770ab100d4186df7a1b87bb0fff55bde4e4e61fb8ae557f02",
+    "item": {
+      "title": "VPTERNLOG: when three is 100% more than two",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42753953\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pvk.ca/Blog/2024/11/22/vpternlog-ternary-isnt-50-percent/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-19T05:24:25Z"
+    }
+  },
+  {
+    "hash": "5ccc4d62846084963ed90d608fb9edf535c9c6c41e0bd17c867bb12b1dadecbc",
+    "item": {
+      "title": "OpenAI has upped its lobbying efforts nearly sevenfold",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42793567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T15:05:34Z"
+    }
+  },
+  {
+    "hash": "3400b1a53484135e7fbc72588313b752c8dea5a90865b4994688357057091fa9",
+    "item": {
+      "title": "Trump Terminates DHS Advisory Committee Memberships, Disrupting Cybersecurity Review",
+      "description": "The new Trump administration has terminated all memberships of advisory committees that report to the Department of Homeland Security (DHS).\u0026nbsp;\n\"In alignment with the Department of Homeland Security's (DHS) commitment to eliminating the misuse of resources and ensuring that DHS activities prioritize our national security, I am directing the termination of all current memberships on advisory",
+      "links": [
+        "https://thehackernews.com/2025/01/trump-terminates-dhs-advisory-committee.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2MvBKKlyv7rGl3kQZ-JoUlpTDQZ2Shes63UD98NvAWqFBcOHxaYUyI3GaBYnQLpDzcsIF4Ps2_ipDnLajg8mc_KBPNUs1YcBOmirupFcNFSqyfGr5VjFADWtowj50i-oW3nkIPSG5aUqsxilaZmKOHWECFLsFqHWdtOZ2sk7wx3_e-w48AnRkxcHJ3nMy/s1600/dhs.png"
+      },
+      "published": "2025-01-22T16:17:00Z"
+    }
+  },
+  {
+    "hash": "a134ae6167b2364f46e3d4e39991fc76faacea8df520ef03416d7b20a5a10fcc",
+    "item": {
+      "title": "A revamped Python string-formatting proposal",
+      "description": "The proposal to add a more general facility for string formatting to\nPython, which we \u003ca href=\"https://lwn.net/Articles/985346/\"\u003elooked at\u003c/a\u003e in August 2024,\nhas changed a great deal since, so it merits another look.  The\nchanges take multiple forms: a new title for \u003ca\nhref=\"https://peps.python.org/pep-0750/\"\u003ePEP\n750\u003c/a\u003e (\"Template Strings\"), a different mechanism for creating and using templates,\na new \u003ctt\u003eTemplate\u003c/tt\u003e type to hold them, and several additional authors for the PEP.\nMeanwhile, one controversial part of the original proposal, lazy evaluation\nof the interpolated values, has been changed so that it requires an\nexplicit opt-in (via \u003ca\nhref=\"https://docs.python.org/3.8/tutorial/controlflow.html#lambda-expressions\"\u003e\u003ctt\u003elambda\u003c/tt\u003e\u003c/a\u003e);\ntemplate strings are a generalization of \u003ca\nhref=\"https://lwn.net/Articles/919426/\"\u003ef-strings\u003c/a\u003e and lazy evaluation was seen by some\nas a potentially confusing departure from their behavior.",
+      "links": [
+        "https://lwn.net/Articles/1005000/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-01-22T18:08:05Z"
+    }
+  },
+  {
+    "hash": "e77087c27a7ca6024e949c8e5b79294d07cc1040a19ec89527d86786a7e0aa2d",
+    "item": {
+      "title": "A mouseless tale: trying for a keyboard-driven desktop",
+      "description": "\u003cp\u003eThe computer mouse is a wonderful invention, but for the past few\nmonths I've been working to use mine as little as possible for\nproductivity and ergonomic reasons. It should not be surprising that\nthere are quite a few open-source applications, utilities, and\nconfiguration options that are either designed to or incidentally\nassist in creating a keyboard-driven desktop. This includes tiling window\nmanagement with \u003ca\nhref=\"https://github.com/paperwm/PaperWM?tab=readme-ov-file#paperwm\"\u003ePaperWM\u003c/a\u003e, the \u003ca\nhref=\"https://vimium.github.io/\"\u003eVimium\u003c/a\u003e browser extension, \u003ca\nhref=\"https://github.com/sezanzeb/input-remapper?tab=readme-ov-file#input-remapper\"\u003eInput Remapper\u003c/a\u003e, and more.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1005332/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-01-22T15:32:13Z"
+    }
+  },
+  {
+    "hash": "5882a2666c5b63796d9fbb84c05b03061d2b5f5e487e87806efdf4f5c1c207e3",
+    "item": {
+      "title": "Puppet fork OpenVox makes first release",
+      "description": "\u003cp\u003eThe \u003ca href=\"https://voxpupuli.org/\"\u003eVox Pupuli\u003c/a\u003e project has\nannounced the first release of \u003ca\nhref=\"https://voxpupuli.org/openvox/\"\u003eOpenVox\u003c/a\u003e, a\n\"\u003cq\u003esoft-fork\u003c/q\u003e\" of the \u003ca href=\"https://www.puppet.com/\"\u003ePuppet\u003c/a\u003e\nautomation framework. The intention to fork was \u003ca\nhref=\"https://github.com/OpenVoxProject/planning/discussions/11\"\u003eannounced\u003c/a\u003e\nin December\u0026nbsp;2024.\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eOpenVox 8.11 is functionally equivalent to Puppet and should be a\ndrop-in replacement. Be aware, of course, that even though you can\ntype the same commands, use all the same modules and extensions, and\nconfigure the same settings, OpenVox is not yet tested to the same\nstandard that Puppet is. [...]\u003c/p\u003e\n\n\u003cp\u003ePlease don't use these packages on critical production\ninfrastructures yet, unless you're comfortable with troubleshooting\nand reporting back on the silly errors we've made while rebranding and\nrebuilding.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1005781/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-01-22T15:24:34Z"
+    }
+  },
+  {
+    "hash": "b2c5c145527b3e0d12e5139b3704e3d49763cc9152a4ea8f7d06c0832a9d7efa",
+    "item": {
+      "title": "Wine 10.0 released",
+      "description": "\u003ca href=\"https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0\"\u003eVersion\n10.0\u003c/a\u003e of the Wine Windows compatibility layer is out.  \"\u003cq\u003eThis release\nrepresents a year of development effort and over 6,000 individual\nchanges\u003c/q\u003e\".  Those changes include full support for the Arm64EC\narchitecture, better high-DPI display support, Wayland enabled by default,\nand more.",
+      "links": [
+        "https://lwn.net/Articles/1005801/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-01-22T14:53:37Z"
+    }
   }
 ]
