@@ -618,5 +618,122 @@
       "source": "Hacker News",
       "published": "2025-01-20T23:10:10Z"
     }
+  },
+  {
+    "hash": "c60d87a5871ffcac73709a740e0f4b56c324afefdc48713273006189d67340c6",
+    "item": {
+      "title": "Backdoor infecting VPNs used “magic packets” for stealth and security",
+      "description": "J-Magic backdoor infected organizations in a wide array of industries.",
+      "links": [
+        "https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "backdoors",
+        "juniper",
+        "magic packets",
+        "vpns"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/backdoor2.jpeg"
+      },
+      "published": "2025-01-23T23:42:29Z"
+    }
+  },
+  {
+    "hash": "b4569b36de7ee152381decd271483395b73da7e8d90a077142ac8b27716a52f5",
+    "item": {
+      "title": "Oracle Linux 10 Developer Preview Released With UEK-Next Based On Linux 6.12",
+      "description": "Building off last month's release of Red Hat Enterprise Linux 10.0 beta, Oracle today published the Oracle Linux 10 Developer Preview for a first glimpse at this next RHEL10-derived operating system...",
+      "links": [
+        "https://www.phoronix.com/news/Oracle-Linux-10-DP"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-24T01:33:19Z"
+    }
+  },
+  {
+    "hash": "1d160f29f0e9e4401cf25c4cdf058769aa459c445174835102c9a472453c5d0b",
+    "item": {
+      "title": "Ergodic Lagrangian dynamics in a superhero universe",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42809895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-24T02:03:43Z"
+    }
+  },
+  {
+    "hash": "b14ec4fa37afe90d34621b2b1b36b9aedc3e31fa093b5b87e42718edbd43fe8a",
+    "item": {
+      "title": "Sei (YC W22) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42809578\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-24T01:00:52Z"
+    }
+  },
+  {
+    "hash": "7f53d7f2a3020cb4e06e04bb57be7b9a54188d3f8fdd153dd5477e48da03e54c",
+    "item": {
+      "title": "Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42809034\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-23T23:14:46Z"
+    }
+  },
+  {
+    "hash": "d21f8197e90cff9ff6bca7bcd765f47c83858fb7a111ddcb7b23288135880a3b",
+    "item": {
+      "title": "Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42775422\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-21T01:38:57Z"
+    }
+  },
+  {
+    "hash": "6c6ce995ad5f2b6186f54ee1df32a60aa9a54207dcc66f70edc9b5a2169b4f8f",
+    "item": {
+      "title": "Capacitors Meet Geometric Series",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42789372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ivanbelenky.com/articles/capacitors"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-22T05:34:15Z"
+    }
+  },
+  {
+    "hash": "dfeca12962fd66765198039d1352070becf8856dde24eb160148a86903888406",
+    "item": {
+      "title": "Find Your Footing After Installing Arch Linux",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42781578\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ejmastnak.com/tutorials/arch/about/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-21T16:00:08Z"
+    }
   }
 ]
