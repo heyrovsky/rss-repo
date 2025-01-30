@@ -448,5 +448,149 @@
       },
       "published": "2025-01-29T20:06:15Z"
     }
+  },
+  {
+    "hash": "5e2678841c8258c85d6bc053bfcad8b57e8a266ad8ae1378f56975dd0b20793b",
+    "item": {
+      "title": "Wine Merge Request Opened For NTSYNC In-Process Synchronization With Linux 6.14+",
+      "description": "Now that the full-functioning NTSYNC driver is ready for Linux 6.14 for better emulating the Windows NT synchronization primitives on Linux, the merge request has been opened for upstream Wine to land the NTSYNC integration on its side for in-process synchronization...",
+      "links": [
+        "https://www.phoronix.com/news/Wine-NTSYNC-Merge-Request"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-30T01:32:01Z"
+    }
+  },
+  {
+    "hash": "32bf90a78180f74ca2785d3dafe257581a96f55ec37c53131e20f26468b95818",
+    "item": {
+      "title": "AMD GPU Operator Announced For Automated Driver Installation \u0026 Kubernetes Support",
+      "description": "AMD today announced two new software projects to better enhance their software support for Instinct accelerators / graphics deployments within the data center: AMD GPU Operator and AMD Metrics Exporter...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-GPU-Operator-Announced"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-30T01:21:25Z"
+    }
+  },
+  {
+    "hash": "7b990fd9329504a00eb452aa5ec350414621bb7bca5b2b714d6d7d8b4ee9851c",
+    "item": {
+      "title": "Worldcoin Reportedly ‘Flouting Brazil Ban,’ But Escapes Habeas Corpus Trouble",
+      "description": "\u003cp\u003eWorldcoin (WLD) and its operator Tools for Humanity are reportedly continuing to operate in Brazil’s São Paulo despite a ban on giving citizens crypto in exchange for their biometric data.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/worldcoin-reportedly-flouting-brazil-ban-but-escapes-habeas-corpus-trouble/\"\u003eWorldcoin Reportedly ‘Flouting Brazil Ban,’ But Escapes Habeas Corpus Trouble\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/worldcoin-reportedly-flouting-brazil-ban-but-escapes-habeas-corpus-trouble/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Brazil",
+        "Worldcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/29163741/1738168661-image-1738086392885_optimized.jpg"
+      },
+      "published": "2025-01-29T23:30:00Z"
+    }
+  },
+  {
+    "hash": "eed1b2053f8316d7dda3058f4e36475b2109b859a2d43f8ff4cec8b42dff2d99",
+    "item": {
+      "title": "Younger cannabis users have reduced brain function, finds largest study yet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42873697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://newatlas.com/brain/young-adult-cannabis-brain-function/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T01:23:54Z"
+    }
+  },
+  {
+    "hash": "04b4bedd849b467cad93c11eb4763e1a91b43d02e355fcc345fdcb221a5ba747",
+    "item": {
+      "title": "Mathesar – an intutive spreadsheet-like interface to Postgres data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42873312\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/mathesar-foundation/mathesar"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T00:31:53Z"
+    }
+  },
+  {
+    "hash": "ff2bdd1cb6295c7bf84bf02ae4fe555d33a405bf36fb17a719f7a106d61bd805",
+    "item": {
+      "title": "Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42873532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=42873532"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T01:02:03Z"
+    }
+  },
+  {
+    "hash": "98b824e07bcc1cd30544c9e152b71f9138ef9367356321e6b01f4f1f35cce3cc",
+    "item": {
+      "title": "Classic Duck Hunt Game Made in JavaScript and Kaplay",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42873476\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jslegend.itch.io/duck-hunter"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T00:53:21Z"
+    }
+  },
+  {
+    "hash": "5650f8b9e071819dab0ee58a8ad143e59fba5a51cc3ea5bd24ff381be952de01",
+    "item": {
+      "title": "Proper decoupling capacitor practices, and why you should leave 100nF behind",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42830948\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-26T16:00:50Z"
+    }
+  },
+  {
+    "hash": "477114166a06c2071cfdc8058a821025aac9032e023d5d098f7172ed9c49d451",
+    "item": {
+      "title": "The 'no. 8 wire' tradition in New Zealand",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42834999\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://teara.govt.nz/en/inventions-patents-and-trademarks/page-1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-26T22:45:24Z"
+    }
+  },
+  {
+    "hash": "4947bb0923d6c769c873441c914b14a5a486e57c9fc9c09170e28b9861b77cbe",
+    "item": {
+      "title": "Commercial Jet Collides with Police Chopper Near Reagan Airport – Mediaite",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42874301\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T02:56:45Z"
+    }
   }
 ]
