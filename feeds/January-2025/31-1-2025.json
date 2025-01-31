@@ -545,5 +545,118 @@
       "source": "Hacker News",
       "published": "2025-01-27T02:57:10Z"
     }
+  },
+  {
+    "hash": "d592e1fd41f9951da28f941ba3f48531a2ceecdf75cde6eefdaeb225b4890b99",
+    "item": {
+      "title": "Ford made a NASCAR Mach-E, but it’s not sure what to do with it yet",
+      "description": "Just some good ol' boys with some big ol' batteries.",
+      "links": [
+        "https://arstechnica.com/cars/2025/01/ford-made-a-nascar-mach-e-but-its-not-sure-what-to-do-with-it-yet/"
+      ],
+      "categories": [
+        "Cars",
+        "electric racing",
+        "Ford Performance",
+        "NASCAR"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Tim Stevens"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Mustang-Mach-E-NASCAR-Protype-Unveil-8-scaled-1152x648-1738271368.jpg"
+      },
+      "published": "2025-01-31T01:15:06Z"
+    }
+  },
+  {
+    "hash": "33859c73467163a4ae67bfaedf4770445820cf861769d3002ff36d53c21c1fff",
+    "item": {
+      "title": "Show HN: Ahey – A simple pub-sub service built on top of web push",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42883363\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ahey.io"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T23:39:29Z"
+    }
+  },
+  {
+    "hash": "85fe21cca0fc9aa1bfe05379818876dfd08873d9da832968b06a50af1c947819",
+    "item": {
+      "title": "RCA and the Roaring Twenties",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42868475\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://globalfinancialdata.com/rca-and-the-roaring-twenties"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-29T17:50:11Z"
+    }
+  },
+  {
+    "hash": "1106b053eaf8e3365c7f3e99534eb8f00c926005919725ab6483ed44652f13df",
+    "item": {
+      "title": "US spent millions on STD prevention in Gaza. But it was a province in Mozambique",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42884289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.middleeasteye.net/news/us-spent-millions-std-prevention-gaza-it-was-province-mozambique"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-31T02:46:50Z"
+    }
+  },
+  {
+    "hash": "24188f6b0837fe950ac872c0eea4a3e7f15b543bb94ee6d30fc4575e825d80e1",
+    "item": {
+      "title": "Mesa 25.0-rc1 Released With Initial AMD RDNA4 Support, Vulkan 1.4 \u0026 Other New Extensions",
+      "description": "Mesa 25.0 feature development is now over with the code having been branched from Mesa Git and the Mesa 25.0-rc1 release candidate issued. Mesa 25.0 is to be the next quarterly feature release for these open-source 3D graphics drivers and will hopefully see its stable debut before the end of February. In turn Mesa 25.0 will be found with the likes of Fedora 42 and Ubuntu 25.04 for providing the newest open-source OpenGL and Vulkan driver support, including for upcoming AMD RDNA4 graphics...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-25.0-rc1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-31T01:36:46Z"
+    }
+  },
+  {
+    "hash": "067fa24b5f232a694ab956ea7de49ef5e0576448cd8670c86c2e61b32a280d90",
+    "item": {
+      "title": "GParted 1.7 Released With Support For Bcachefs \u0026 Network Block Devices",
+      "description": "GParted as the GNOME Partition Editor as one of the most robust solutions for GUI-driven partition and file-system management on Linux is out with a new feature release...",
+      "links": [
+        "https://www.phoronix.com/news/GParted-1.7-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-31T01:20:08Z"
+    }
+  },
+  {
+    "hash": "443b26ae24d2c5ce5484bc3c7e507a17f51dfa428ccf4115cc162b2d1f26b1b0",
+    "item": {
+      "title": "Intel Decides Against Bringing Falcon Shores To Market, Instead An Internal Test Chip",
+      "description": "Intel Co-CEO Michelle Johnston Holthaus announced during their Q4 earnings call this evening that they will not be bringing their \"Falcon Shores\" AI / HPC chip to market. Falcon Shores was to be their next-gen GPU accelerator to effectively succeed their Gaudi AI chips. Instead Falcon Shores will be used as an internal test vehicle while preparing the hardware/software ecosystem for Jaguar Shores as its successor...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Falcon-Shores-No-Release"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-01-31T00:29:30Z"
+    }
   }
 ]
