@@ -383,5 +383,187 @@
       "source": "Hacker News",
       "published": "2025-01-31T23:06:52Z"
     }
+  },
+  {
+    "hash": "ff62bfb3afe212b2196770fec44e59fee98fe3be35e74fe009ca414649c0f9e7",
+    "item": {
+      "title": "Purpose Investments to Launch Canada’s First XRP ETF",
+      "description": "\u003cp\u003ePurpose Investments, known for pioneering Bitcoin and Ethereum ETFs in Canada, has filed to launch the first XRP ETF. The move could provide institutional investors with regulated access to XRP, aligning with increasing interest in crypto-based investment products amid regulatory shifts in the U.S.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/purpose-investments-to-launch-worlds-first-xrp-etf-before-u-s-issuers/\"\u003ePurpose Investments to Launch Canada’s First XRP ETF\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/purpose-investments-to-launch-worlds-first-xrp-etf-before-u-s-issuers/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Finance News",
+        "News",
+        "Crypto ETFs",
+        "Ripple",
+        "XRP ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/01001739/1738369059-image-1738369003636_optimized.jpg"
+      },
+      "published": "2025-02-01T00:18:15Z"
+    }
+  },
+  {
+    "hash": "1f065e2ceb5e952a16c77537b293fe72d74213170e9fe725880adaff7a8406de",
+    "item": {
+      "title": "Wine Wayland Merge Request Opened For Clipboard Support",
+      "description": "While Wine 10.0 recently debuted with the initial Wine Wayland driver, that native Wayland support is still in early form with various limitations and yet-to-be-implemented features... One of the newly-opened merge requests for filling in another gap is clipboard support for the Wine Wayland driver...",
+      "links": [
+        "https://www.phoronix.com/news/Wine-Wayland-Clipboard-Support"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-01T01:53:03Z"
+    }
+  },
+  {
+    "hash": "ad29d51ba777fb60826ee21d89856138be59e53fe05737ca9f96489e6cbb9784",
+    "item": {
+      "title": "\"NOVA-Core\" Patches Propose Building New NVIDIA Driver Piece-By-Piece In The Linux Kernel",
+      "description": "Red Hat engineers have been working on Nova as an open-source driver successor to the Nouveau driver for upstream NVIDIA GPU support within the Linux kernel that can be used with the Mesa OpenGL/Vulkan drivers. Unlike the prior larger RFC patch series, sent out to the Linux kernel mailing list today were some small patches for introducing \"NOVA-Core\" that would serve as the initial base for this modern NVIDIA Linux kernel DRM driver. Over time and succeeding kernel releases, the NOVA code would be built up until ultimately becoming a usable state for end-users...",
+      "links": [
+        "https://www.phoronix.com/news/NOVA-Core-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-01T01:30:00Z"
+    }
+  },
+  {
+    "hash": "f5544be780354d275a6977e0038ca5122b6966358da9ed2aba9ce7621396466f",
+    "item": {
+      "title": "Earthstar – A database for private, distributed, offline-first applications",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42894200\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://earthstar-project.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T00:22:57Z"
+    }
+  },
+  {
+    "hash": "42262db801a97034f20f975ab7867f467ab6649dd2a0d8da3d0ba025b9abd13f",
+    "item": {
+      "title": "Decision to dump water from Tulare County lakes altered after confusing locals",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42894708\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T01:30:02Z"
+    }
+  },
+  {
+    "hash": "0a8c335819623288c432af3c53aab06dfc75e6d0a9206bbfbbd07d1737e4340e",
+    "item": {
+      "title": "Notes on OpenAI O3-Mini",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42894215\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Jan/31/o3-mini/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T00:24:42Z"
+    }
+  },
+  {
+    "hash": "5b1d1535ce0c5dc7acc47615561553b91e2d21cff9fe62d051470b0203d3b9cb",
+    "item": {
+      "title": "Falsehoods programmers believe about null pointers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42894220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T00:25:43Z"
+    }
+  },
+  {
+    "hash": "0a32c1549a3c21e2084d5f463870082a45812c5fd061a18faaa66d1886963beb",
+    "item": {
+      "title": "Scientists find links between Alzheimer's, herpes, and head trauma",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42893627\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-31T23:23:25Z"
+    }
+  },
+  {
+    "hash": "784710267cea28d069e13b0590e81ff805e6aaf91b3f0cf6b1ef5d44d74e7fb1",
+    "item": {
+      "title": "A Missing Link Between Concussion and Alzheimer's",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42852643\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nautil.us/a-missing-link-between-concussion-and-alzheimers-1184691/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-28T14:27:03Z"
+    }
+  },
+  {
+    "hash": "62b1d510e71fa33982a40e4e985de32cfdd721dce91d75b2d43cac8ec4e1d230",
+    "item": {
+      "title": "AI and Two Hundred Dollar Tasks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42855542\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-28T17:54:03Z"
+    }
+  },
+  {
+    "hash": "659231d7664e2ad5f82979c405fc701d864c3498fa52782f117d294866eebea8",
+    "item": {
+      "title": "Show HN: Simple to build MCP servers that easily connect with custom LLM calls",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42894425\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mirascope.com/learn/mcp/server/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T00:50:40Z"
+    }
+  },
+  {
+    "hash": "7a5c2ca0eb645e7c7cf9aa077911f7f609f9557f1e32e73768bfc8401353ccfb",
+    "item": {
+      "title": "Why Tracebit is written in C#",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42893622\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-31T23:22:55Z"
+    }
+  },
+  {
+    "hash": "2422735e1ff631e8d970a404a32550cfaec5eaad94edc5389c4ed3be3dc8b30a",
+    "item": {
+      "title": "Switching to Linux: Reclaim Your Freedom",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42893234\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://linux-howto.org/article/switching-to-linux"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-31T22:46:10Z"
+    }
   }
 ]
