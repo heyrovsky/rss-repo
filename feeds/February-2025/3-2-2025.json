@@ -480,5 +480,58 @@
       ],
       "published": "2025-02-02T23:04:01Z"
     }
+  },
+  {
+    "hash": "9de7e84938fe0e67e7df71911d8adbd1a7db5086094c7638eaedec51558336f0",
+    "item": {
+      "title": "TopoNets: High-Performing Vision and Language Models with Brain-Like Topography",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42882649\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://toponets.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-30T22:08:19Z"
+    }
+  },
+  {
+    "hash": "3c198b04dac8bdfd4af8da562ae6a26a3052d22293d14741196f3d2e343e7c1b",
+    "item": {
+      "title": "NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42887356\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-01-31T13:19:19Z"
+    }
+  },
+  {
+    "hash": "be28ecb8c8d4f44a852a37378654ad5699ff331950f4b02f7bc252241b0c9ac6",
+    "item": {
+      "title": "The Art of Dithering and Retro Shading for the Web",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42913180\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-02T23:58:37Z"
+    }
+  },
+  {
+    "hash": "d92c3707a414f8169d1688e8b17ba1ab62c4d80344e42052d1bdd61817ee43bc",
+    "item": {
+      "title": "Kernel prepatch 6.14-rc1",
+      "description": "Linus has released \u003ca href=\"https://lwn.net/Articles/1007546/\"\u003e6.14-rc1\u003c/a\u003e and closed the\nmerge window for this release.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tThis is actually a _tiny_ merge window, and that's ok. The holidays\n\tclearly meant that people did less development than during a normal\n\tcycle, and that then shows up as a much smaller-than-average\n\trelease.  I really felt like this year we got the whole holiday\n\tseason release timing right, and this is just another sign of that.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1007547/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-02-03T01:50:01Z"
+    }
   }
 ]
