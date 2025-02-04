@@ -1385,5 +1385,609 @@
       "source": "Hacker News",
       "published": "2025-02-04T02:56:32Z"
     }
+  },
+  {
+    "hash": "a00c6f1274d41abf8052640e44fc5e3158bb09834b3460da28db59c2ea9c8996",
+    "item": {
+      "title": "Linux 6.15 Looks Like It May Try Again With EXECMEM_ROX Support",
+      "description": "Initially merged back for the Linux 6.13 kernel was EXECMEM_ROX support for module text on x86_64 systems. With this caching of large ROX pages it can help with lowering TLB instruction pressure and enhancing performance. But this EXECMEM_ROX support that was contributed by a Microsoft engineer ended up being reverted in the final days of Linux 6.13. The revert came due to bugs and not having any Linux x86 maintainers signing off on the code. This code has been getting into shape for trying again with the mainline kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-EXECMEM_ROX-Preps-Again"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-04T11:43:11Z"
+    }
+  },
+  {
+    "hash": "c20d19b642f42d69e836c921c30ce3c91e58cfde58001a928dff4773062fd634",
+    "item": {
+      "title": "Debian 13 Will Aim To Include GNOME 48, Debian/Ubuntu Begin Packaging GNOME Papers",
+      "description": "For those wondering whether Debian 13 would see the upcoming GNOME 48 desktop packages given the upcoming Debian 13 \"Trixie\" development freezes, it looks like this updated GNOME release will be squeezed in...",
+      "links": [
+        "https://www.phoronix.com/news/Debian-13-Plans-GNOME-48"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-04T11:31:21Z"
+    }
+  },
+  {
+    "hash": "04ac9b7d98a63b889e71ed14f613b476c3730b4be38f8941e9c15779579b00a9",
+    "item": {
+      "title": "Igalia's Optimizations Juicing More Graphics Performance Out Of The Raspberry Pi",
+      "description": "Igalia engineers José María Casanova Crespo and Maíra Canal presented at FOSDEM this past weekend in Brussels around the efforts by this open-source consulting firm to further enhance the 3D performance out of the Raspberry Pi single board computers...",
+      "links": [
+        "https://www.phoronix.com/news/Igalia-Raspberry-Pi-3D-Opts"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-04T11:12:01Z"
+    }
+  },
+  {
+    "hash": "dfe4b466bd0facaa85963dcf93247d46a569b8640e012f00b2ddf2bf34589c70",
+    "item": {
+      "title": "Nvidia open-source nanite: continuous level of detail (LOD) mesh library",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42930890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/nvpro-samples/nv_cluster_lod_builder"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-04T11:05:18Z"
+    }
+  },
+  {
+    "hash": "ed9731f37c4e74df2fb82b0f8a25952aa357492bc91c3f8af38d939d373f2247",
+    "item": {
+      "title": "Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42931269\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nango.dev/jobs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-04T12:01:03Z"
+    }
+  },
+  {
+    "hash": "9db3e6dca2c11ce5743f3def321b58eb4b117a6dda24e83481aff755bde2e0ca",
+    "item": {
+      "title": "AMD adds RF-sampling data converters to Versal adaptive SoCs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42899304\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.electronicsweekly.com/news/business/amd-adds-rf-sampling-data-converters-to-versal-adaptive-socs-2024-12/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T15:54:19Z"
+    }
+  },
+  {
+    "hash": "253cb2d65b8b5d712fb88ed5b087c9941c03ab0c9aa00d52664850ad049ef838",
+    "item": {
+      "title": "I Use Cline for AI Engineering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42900137\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-01T17:31:48Z"
+    }
+  },
+  {
+    "hash": "541eefd7da66fb4069a5c7b8eae391a84c5cfb15ad8a46b4c1bb896a6212a4b7",
+    "item": {
+      "title": "Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42930974\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-04T11:19:03Z"
+    }
+  },
+  {
+    "hash": "815e08997eb915aab6c07339fdf96c9778ae6d1ac2a66301b74b7c9ca2392780",
+    "item": {
+      "title": "Backblaze seemingly does not support files greater than 1 TB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42930786\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-04T10:50:01Z"
+    }
+  },
+  {
+    "hash": "1af1d4fb22937fe64fa1b72ce8f65eb5c31b07bda423a371fcbfd1d7e31fbb13",
+    "item": {
+      "title": "Platform for supporting local sellers and buyers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42929754\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blunum.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-04T08:34:23Z"
+    }
+  },
+  {
+    "hash": "bf870bf12a063094962711fbbb61293cf56398b3d883a7412c075d30acd8933f",
+    "item": {
+      "title": "US Charges Canadian Hacker for $65M DeFi Exploits",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/US_charges_Canadian_over_65M_KyberSwap_Indexed_Finance_hacks.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"US Charges Canadian Hacker for $65M DeFi Exploits\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/US_charges_Canadian_over_65M_KyberSwap_Indexed_Finance_hacks.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/US_charges_Canadian_over_65M_KyberSwap_Indexed_Finance_hacks-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/US_charges_Canadian_over_65M_KyberSwap_Indexed_Finance_hacks-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eUS prosecutors charged a Canadian national, Andean Medjedovic, with allegedly exploiting DeFi protocols Indexed Finance and KyberSwap, pilfering some $65 million through fictitious trades. On Feb. 3, the Justice Department unsealed an indictment in a Brooklyn federal court against Andean Medjedovic, charging him with hacking, attempted extortion, money laundering, and",
+      "links": [
+        "https://thenewscrypto.com/us-charges-canadian-hacker-for-65m-defi-exploits/"
+      ],
+      "categories": [
+        "Market News",
+        "Canada",
+        "Hacker"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/US_charges_Canadian_over_65M_KyberSwap_Indexed_Finance_hacks.jpg"
+      },
+      "published": "2025-02-04T08:56:20Z"
+    }
+  },
+  {
+    "hash": "5cc0d778c31e276876209af04fdbb2e06b347e06fae083b5af6a0f75f8426284",
+    "item": {
+      "title": "Donald Trump Orders Creation of US Sovereign Wealth Fund",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Trump-orders-creation-of-US-sovereign-wealth-fund.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Donald Trump Orders Creation of US Sovereign Wealth Fund\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Trump-orders-creation-of-US-sovereign-wealth-fund.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Trump-orders-creation-of-US-sovereign-wealth-fund-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Trump-orders-creation-of-US-sovereign-wealth-fund-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eUnited States President Donald Trump issued a new executive order to create a US Sovereign Wealth Fund. The order aims to create the fund by the next year and plans to acquire popular short-video application TikTok.  This is not the first time a country has created a fund to make",
+      "links": [
+        "https://thenewscrypto.com/donald-trump-orders-creation-of-us-sovereign-wealth-fund/"
+      ],
+      "categories": [
+        "Market News",
+        "DonaldTrump",
+        "United States"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Trump-orders-creation-of-US-sovereign-wealth-fund.jpg"
+      },
+      "published": "2025-02-04T07:49:25Z"
+    }
+  },
+  {
+    "hash": "59f8dc2c24a99dc128df6194faac9c913a93b38ef0ca3285b2c54d0d7940fba9",
+    "item": {
+      "title": "Why Smart Investors Are Picking FX Guys Presale Over Uniswap and Litecoin",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"470\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-29.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-29.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-29-300x188.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe crypto market is filled with opportunities, but savvy investors always look for projects with long-term potential, high returns, and tangible financial benefits. While established names like Uniswap and Litecoin have had their time in the spotlight, a new contender is emerging—FXGuys. Currently in its Stage 2 presale, FXGuys has",
+      "links": [
+        "https://thenewscrypto.com/why-smart-investors-are-picking-fx-guys-presale-over-uniswap-and-litecoin/"
+      ],
+      "categories": [
+        "Press Release",
+        "FXGuys"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-29.jpg"
+      },
+      "published": "2025-02-04T07:01:07Z"
+    }
+  },
+  {
+    "hash": "e0cc86bca1bb3fbcbd132e90e041a1e3c80aedca7845430e86fa56389c1eda36",
+    "item": {
+      "title": "Monday Crashes See Dogecoin Down 22% As Thousands Buy 1Fuel (OFT) For Shelter \u0026 Profit Rewards",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"287\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-17.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Monday Crashes See Dogecoin Down 22% As Thousands Buy 1Fuel (OFT) For Shelter \u0026amp; Profit Rewards\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-17.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-17-300x168.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-17-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eDogecoin took a brutal hit on Monday, dropping 22% as market volatility rattled investors. While panic set in for some, others shifted their focus to 1Fuel (OFT), a rising DeFi token gaining traction for its strong fundamentals and growth potential. Investors are flocking to 1Fuel’s presale, drawn by its innovative",
+      "links": [
+        "https://thenewscrypto.com/monday-crashes-see-dogecoin-down-22-as-thousands-buy-1fuel-oft-for-shelter-profit-rewards/"
+      ],
+      "categories": [
+        "Press Release",
+        "1Fuel",
+        "Blockchain",
+        "Dogecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-17.jpg"
+      },
+      "published": "2025-02-04T06:16:00Z"
+    }
+  },
+  {
+    "hash": "984ae6adb55f64733934272accd606b69214298e87949e2d2ea8d6d8d49c760a",
+    "item": {
+      "title": "Can Cardano (ADA) Build Momentum Toward $1?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Can-Cardano-ADA-Build-Momentum-Toward-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Cardano (ADA) Build Momentum Toward $1?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Can-Cardano-ADA-Build-Momentum-Toward-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Can-Cardano-ADA-Build-Momentum-Toward-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Can-Cardano-ADA-Build-Momentum-Toward-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFollowing a sharp downturn after Trump’s new tariffs, the crypto market has bounced back. The largest asset, Bitcoin (BTC), has risen to $102K, while Cardano (ADA) has gained over 17.63% in the last 24 hours.\u0026#160; Despite this short-term recovery, ADA’s momentum remains uncertain, with technical indicators exhibiting ambiguous signals. In",
+      "links": [
+        "https://thenewscrypto.com/can-cardano-ada-build-momentum-toward-1/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ADA",
+        "Cardano",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Can-Cardano-ADA-Build-Momentum-Toward-1.jpg"
+      },
+      "published": "2025-02-04T06:09:19Z"
+    }
+  },
+  {
+    "hash": "2a84569ec2907730514c6d916a081ad783209303bc2b4fed40b5158b6c835a90",
+    "item": {
+      "title": "Revealed: The Best Crypto Presale for 2025 – These 5 Coins Are Set To Lead the Bull Run",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-28.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-28.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-28-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-28-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003e🚀 The crypto market is gearing up for an exciting year, and presales are at the forefront of high-potential investments. Early-stage crypto projects often provide massive growth opportunities, allowing investors to get in before tokens skyrocket in value. Among the top contenders, Pengu Unleashed ($PUNGU) is making waves, positioning itself",
+      "links": [
+        "https://thenewscrypto.com/revealed-the-best-crypto-presale-for-2025-these-5-coins-are-set-to-lead-the-bull-run/"
+      ],
+      "categories": [
+        "Press Release",
+        "$PUNGU"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-28.jpg"
+      },
+      "published": "2025-02-04T04:56:51Z"
+    }
+  },
+  {
+    "hash": "c2d07351163dcc19c0dc591c6d3318a9a06bc453a67efd157f158534ee97672b",
+    "item": {
+      "title": "Shiba Inu vs Lightchain AI, Which Token Will Erase More Zeros This Altcoin Season?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Shiba-Inu-vs-Lightchain-AI-Which-Token-Will.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Shiba Inu vs Lightchain AI, Which Token Will Erase More Zeros This Altcoin Season?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Shiba-Inu-vs-Lightchain-AI-Which-Token-Will.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Shiba-Inu-vs-Lightchain-AI-Which-Token-Will-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Shiba-Inu-vs-Lightchain-AI-Which-Token-Will-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe cryptocurrency market thrives on finding breakout projects, and two tokens—Shiba Inu (SHIB) and Lightchain AI—are gaining significant attention. While Shiba Inu has built a strong community-driven presence as a meme coin, Lightchain AI is standing out with its cutting-edge blockchain innovation. With Lightchain AI’s presale surpassing $14.2 million at",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-vs-lightchain-ai-which-token-will-erase-more-zeros-this-altcoin-season/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Lightchain",
+        "ShibaInu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Shiba-Inu-vs-Lightchain-AI-Which-Token-Will.jpg"
+      },
+      "published": "2025-02-03T21:30:00Z"
+    }
+  },
+  {
+    "hash": "3a335232b0ae4242ef033847c162f9e6376d3ffeb44491484c1ca25a025c80b7",
+    "item": {
+      "title": "Homebrew Foil and Oil Caps Change Your Guitar’s Tone",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"415\" src=\"https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg 1014w, https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg?resize=250,130 250w, https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg?resize=400,207 400w, https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg?resize=800,415 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"757505\" data-permalink=\"https://hackaday.com/2025/02/04/homebrew-foil-and-oil-caps-change-your-guitars-tone/diycap_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg\" data-orig-size=\"1014,526\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"diycap_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg?w=800\" /\u003e\u003c/div\u003eHow any string instrument sounds depends on hundreds of factors; even the tiniest details matter. Seemingly inconsequential things like whether the tree that the wood came from grew on the \u003ca href=\"https://hackaday.com/2025/02/04/homebrew-foil-and-oil-caps-change-your-guitars-tone/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/04/homebrew-foil-and-oil-caps-change-your-guitars-tone/"
+      ],
+      "categories": [
+        "Musical Hacks",
+        "Parts",
+        "audio",
+        "capacitor",
+        "electric",
+        "guitar",
+        "low pass filter",
+        "paper",
+        "tone"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/diycap_feat.jpg"
+      },
+      "published": "2025-02-04T12:00:47Z"
+    }
+  },
+  {
+    "hash": "0cdaa3ae192ffaf890479f286f7045de109ea78d5e207cbcffe16b7ffe97f4f7",
+    "item": {
+      "title": "Understanding the T12 Style Soldering Iron Tip",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"431\" src=\"https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg 1209w, https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg?resize=250,135 250w, https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg?resize=400,215 400w, https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg?resize=800,431 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"757473\" data-permalink=\"https://hackaday.com/2025/02/04/understanding-the-t12-style-soldering-iron-tip/big_clive_t12_soldering_element_bit_teardown/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg\" data-orig-size=\"1209,651\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"big_clive_t12_soldering_element_bit_teardown\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg?w=800\" /\u003e\u003c/div\u003eSoldering irons and their tips come in a wide range of formats and styles, with the (originally Hakko) T12 being one of the more interesting offerings. This is because of \u003ca href=\"https://hackaday.com/2025/02/04/understanding-the-t12-style-soldering-iron-tip/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/04/understanding-the-t12-style-soldering-iron-tip/"
+      ],
+      "categories": [
+        "Teardown",
+        "Tool Hacks",
+        "soldering iron",
+        "t12"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/big_clive_t12_soldering_element_bit_teardown.jpg"
+      },
+      "published": "2025-02-04T09:00:04Z"
+    }
+  },
+  {
+    "hash": "84470187609699d26a1bed1b04eec3fbe2a004e5db2894a0705295659acca2f3",
+    "item": {
+      "title": "The Clever Design Behind Everyday Traffic Poles",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg 1280w, https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"757497\" data-permalink=\"https://hackaday.com/2025/02/03/the-clever-design-behind-everyday-traffic-poles/pole_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pole_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg?w=800\" /\u003e\u003c/div\u003eEver stopped at a red light and noticed something odd about the poles holding up the traffic lights? Look closer next time—many of them appear to hover just above the \u003ca href=\"https://hackaday.com/2025/02/03/the-clever-design-behind-everyday-traffic-poles/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/03/the-clever-design-behind-everyday-traffic-poles/"
+      ],
+      "categories": [
+        "Engineering",
+        "engineering",
+        "light pole",
+        "roadside",
+        "Traffic Lights",
+        "traffic pole"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Heidi Ulrich"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/pole_feat.jpg"
+      },
+      "published": "2025-02-04T06:00:35Z"
+    }
+  },
+  {
+    "hash": "46055d9ea6cd18f879879833d3acd8121d3e30c5b10b09820214e66db17e9445",
+    "item": {
+      "title": "Bicycle Adds Reliability With Second Chain",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg 1280w, https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"757424\" data-permalink=\"https://hackaday.com/2025/02/03/bicycle-adds-reliability-with-second-chain/two-speed-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"two-speed-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg?w=800\" /\u003e\u003c/div\u003eIgnoring the International Cycling Union\u0026#8216;s mostly arbitrary rules for what a bicycle is \u0026#8220;supposed\u0026#8221; to look like (at least if you want to race), there are actually reasons that the \u003ca href=\"https://hackaday.com/2025/02/03/bicycle-adds-reliability-with-second-chain/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/03/bicycle-adds-reliability-with-second-chain/"
+      ],
+      "categories": [
+        "News",
+        "Transportation Hacks",
+        "bicycle",
+        "chain",
+        "drivetrain",
+        "freewheel",
+        "reliability",
+        "repair",
+        "shifting",
+        "two speed"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/two-speed-main.jpg"
+      },
+      "published": "2025-02-04T03:00:00Z"
+    }
+  },
+  {
+    "hash": "d5b9da93b23679cd163f12febb011df95134d094f42ec6f4494b7dfdd47a7619",
+    "item": {
+      "title": "More Details On Why DeepSeek is a Big Deal",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg 800w, https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg?resize=400,242 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"539841\" data-permalink=\"https://hackaday.com/2022/06/15/eliza-and-the-google-intelligence/ai_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg\" data-orig-size=\"800,484\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1655332590\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"ai_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg?w=800\" /\u003e\u003c/div\u003eThe DeepSeek large language models (LLM) have been making headlines lately, and for more than one reason. IEEE Spectrum has an article that sums everything up very nicely. We shared \u003ca href=\"https://hackaday.com/2025/02/03/more-details-on-why-deepseek-is-a-big-deal/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/03/more-details-on-why-deepseek-is-a-big-deal/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "ai",
+        "Deepseek",
+        "LLM",
+        "reasoning"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2022/06/ai_feat.jpg"
+      },
+      "published": "2025-02-04T00:00:00Z"
+    }
+  },
+  {
+    "hash": "43894b8bc36bb7f54fb8dd2ecd028f9c1f9ec817a4edd14b18ca60767c14f519",
+    "item": {
+      "title": "Communicating With Satellites Like It’s 1957",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"531\" src=\"https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png 1150w, https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png?resize=250,166 250w, https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png?resize=400,265 400w, https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png?resize=800,531 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"757408\" data-permalink=\"https://hackaday.com/2025/02/03/communicating-with-satellites-like-its-1957/radio-satellite-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png\" data-orig-size=\"1150,763\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"radio-satellite-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png?w=800\" /\u003e\u003c/div\u003eWhen the first artificial satellite, Sputnik, was put into orbit around Earth, anyone in the path of the satellite could receive the beeps transmitted by the satellite provided they had \u003ca href=\"https://hackaday.com/2025/02/03/communicating-with-satellites-like-its-1957/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/03/communicating-with-satellites-like-its-1957/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "amateur radio",
+        "antenna",
+        "contact",
+        "dual-band",
+        "ham radio",
+        "QSO",
+        "radio",
+        "repeater",
+        "satellite",
+        "uhf",
+        "VHF"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/radio-satellite-main.png"
+      },
+      "published": "2025-02-03T21:00:00Z"
+    }
+  },
+  {
+    "hash": "28ac1765811984192a28db8af37e593bb5cdacbf8348c31fd3842da4dd3184a0",
+    "item": {
+      "title": "Examining the Vulnerability of Large Language Models to Data-Poisoning",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"329\" src=\"https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png 2151w, https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?resize=250,103 250w, https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?resize=400,164 400w, https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?resize=800,329 800w, https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?resize=1536,631 1536w, https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?resize=2048,842 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"757412\" data-permalink=\"https://hackaday.com/2025/02/03/examining-the-vulnerability-of-large-language-models-to-data-poisoning/41591_2024_3445_fig3_html/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png\" data-orig-size=\"2151,884\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"41591_2024_3445_Fig3_HTML\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png?w=800\" /\u003e\u003c/div\u003eLarge language models (LLMs) are wholly dependent on the quality of the input data with which these models are trained. While suggestions that people eat rocks are funny to you \u003ca href=\"https://hackaday.com/2025/02/03/examining-the-vulnerability-of-large-language-models-to-data-poisoning/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/03/examining-the-vulnerability-of-large-language-models-to-data-poisoning/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "large language model"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/41591_2024_3445_Fig3_HTML.png"
+      },
+      "published": "2025-02-03T19:30:00Z"
+    }
+  },
+  {
+    "hash": "98ed6fc800c63660882e293c1ecdfcaa796d42471e60acb47f4d1c8631cfa8e5",
+    "item": {
+      "title": "President Trump Signs Executive Order Calling for US Sovereign Wealth Fund Creation",
+      "description": "\u003cp\u003ePresident Trump signing the executive order for a sovereign wealth fund could be a positive signal towards the concept of a long-desired U.S. strategic Bitcoin reserve.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/president-trump-signs-executive-order-calling-for-us-sovereign-wealth-fund-creation/\"\u003ePresident Trump Signs Executive Order Calling for US Sovereign Wealth Fund Creation\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/president-trump-signs-executive-order-calling-for-us-sovereign-wealth-fund-creation/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Executive Order",
+        "Sovereign Wealth Fund",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/04101328/1738664008-image-1738663972784_optimized.jpg"
+      },
+      "published": "2025-02-04T10:19:11Z"
+    }
+  },
+  {
+    "hash": "f8dec94ba29e28823abbcd7fe1d0fbcf3a54813285026067cdb5572b1523a4d8",
+    "item": {
+      "title": "Watch Out For These 8 Cloud Security Shifts in 2025",
+      "description": "As cloud security evolves in 2025 and beyond, organizations must adapt to both new and evolving realities, including the increasing reliance on cloud infrastructure for AI-driven workflows and the vast quantities of data being migrated to the cloud.\nBut there are other developments that could impact your organizations and drive the need for an even more robust security strategy. Let’s take a",
+      "links": [
+        "https://thehackernews.com/2025/02/watch-out-for-these-8-cloud-security.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOHb66TGrTxCxe5CGY34xO54CjR0HB4xeUxzcQSuRm1DMqyKCMBA09ILdAZ-vF92KI3XMAF12BGcKyuxY3VCkBmV2_io4NF4U-wN6Tl-4VRiZPW8wqogePSZ7C-Gdn0p_TdN9ZH-vf8myYVHFv0mIMjZWWGPw2bxyNpriqF9z2s2NCGgYAmrQTf-OX6kE/s1600/cloud-security.png"
+      },
+      "published": "2025-02-04T11:00:00Z"
+    }
+  },
+  {
+    "hash": "50eb2433be9d356cbba64491eb54f55909ea6963bb231e9698c4194941b7774b",
+    "item": {
+      "title": "Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks",
+      "description": "Taiwan has become the latest country to ban government agencies from using Chinese startup DeepSeek's Artificial Intelligence (AI) platform, citing security risks.\n\"Government agencies and critical infrastructure should not use DeepSeek, because it endangers national information security,\" according to a statement released by Taiwan's Ministry of Digital Affairs, per Radio Free Asia.\n\"DeepSeek",
+      "links": [
+        "https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSf8K2uzNtey879iblouCwOZBfGr8f00fY4dhe-C1hajrPLJMuvjTzHts3r-Nn6uTSXIxP_XOXnHjJY_A_Fc_0WivrKA-akVy_-M6-Q2YO-QNNp9POuTTe3PA-d9T7838LVunlFL05QnfLfwM2YgZsV6uyhyphenhypheng0cz8Hx2eCKUQkwXGtCbdZOYjEBA7ejEza/s1600/deepseek-ai.png"
+      },
+      "published": "2025-02-04T09:32:00Z"
+    }
+  },
+  {
+    "hash": "6639af7d3a99fbf2073f444fea9a60424146b66f017e16f982cb74f1dbadeaea",
+    "item": {
+      "title": "AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access",
+      "description": "A security vulnerability has been disclosed in AMD's Secure Encrypted Virtualization (SEV) that could permit an attacker to load a malicious CPU microcode under specific conditions.\nThe flaw, tracked as CVE-2024-56161, carries a CVSS score of 7.2 out of 10.0, indicating high severity.\n\"Improper signature verification in AMD CPU ROM microcode patch loader may allow an attacker with local",
+      "links": [
+        "https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioFS_P1GtwtE1CIY3j_uiwFN4uBcJ4PXssvRxP_4K8ZEFe7nP81yWP3qyMF7ZvbbmCVdvP8CizF7C1tEcQuYPl3OoY61ZYWvkyuJoaFHkvRpQxOFY7z4eOaHsm4uFXgYcgjdVJkHng6vt0b2OrcoHpy2QSOkrNjhiiFV4hSfXI07Vv9sQXM3VvdnPMjeS/s1600/AMD.png"
+      },
+      "published": "2025-02-04T08:58:00Z"
+    }
   }
 ]
