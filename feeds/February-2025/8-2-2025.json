@@ -2470,5 +2470,381 @@
       "source": "Hacker News",
       "published": "2025-02-08T14:48:25Z"
     }
+  },
+  {
+    "hash": "e0304f834e0d58fa213a7546d882fb350fe074bf5831d4f3f4029cb28dae70ed",
+    "item": {
+      "title": "SysVinit 3.14 Released: Overcomes Three Decade Limitation Of Inittab Line Length",
+      "description": "For those continuing to make use of SysVinit as the aging init system that in the Linux world has been largely replaced by systemd, SysVinit 3.14 is out today and overcomes a long-standing limitation around the length of lines within the inittab files...",
+      "links": [
+        "https://www.phoronix.com/news/SysVinit-3.14-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-08T17:33:14Z"
+    }
+  },
+  {
+    "hash": "4075ec0e0f391e26944a7351ff7d7a55bc8cc4a877e1f0d0e05f5dc210b6f7df",
+    "item": {
+      "title": "Clang Thread Safety Checks Begin Uncovering Bugs In The Linux Kernel",
+      "description": "Posted to the Linux kernel mailing list this week were two competing solutions for new LLVM Clang capability / thread safety analysis to the Linux kernel. Two developers had separately been working on implementations for the Linux kernel to make use of Clang's \"-Wthread-safety\" functionality. Ultimately the upstream kernel will likely settle upon the superior or unified solution while already making use of these new checks is uncovering Linux kernel bugs...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Clang-Thread-Safety"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-08T16:02:31Z"
+    }
+  },
+  {
+    "hash": "604fbc5d41f8d082094cb08171e916d44036f6a3c9e806c1cd5dae29bc1b7688",
+    "item": {
+      "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42983699\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/xajik/thedeck"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T15:47:36Z"
+    }
+  },
+  {
+    "hash": "291f8f421a550ae08c3dfe3db45ad80e1fc90d7538e3b600cfceddab44dbe40b",
+    "item": {
+      "title": "Your AI Can't See Gorillas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42950976\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chiraaggohel.com/posts/llms-eda/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T16:33:55Z"
+    }
+  },
+  {
+    "hash": "87c50408caad614c685c1150801ef8ea1755d40faf62df0ae27cdde8461fa4f4",
+    "item": {
+      "title": "Show HN: FlashSpace – fast, open-source, macOS Spaces replacement",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42984420\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/wojciech-kulik/FlashSpace"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T17:19:23Z"
+    }
+  },
+  {
+    "hash": "a290088844518f45918e539e87cffe4b3b669f6f1a1c60a098ff524cbc4139a9",
+    "item": {
+      "title": "Obscure islands I find interesting",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42978199\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://amanvir.com/obscure-islands"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-07T22:23:31Z"
+    }
+  },
+  {
+    "hash": "92ec7954a91bdaeb9d4bbb15f6150e53086128c43907071e0a23e9d811032cce",
+    "item": {
+      "title": "Carbon is not a programming language (sort of)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42983733\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T15:51:06Z"
+    }
+  },
+  {
+    "hash": "7349ce0459f91357a1e46d254b5242a938ca745b205a2b9ece5417b6975c78e0",
+    "item": {
+      "title": "Fat Rand: How many lines do you need to generate a random number?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42956697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lucumr.pocoo.org/2025/2/4/fat-rand/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T23:10:47Z"
+    }
+  },
+  {
+    "hash": "8ac18857494f40b5a39b798b21b6849120925062e1661664463322f8acd4d8dd",
+    "item": {
+      "title": "Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42983148\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.freedemandletter.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T14:27:59Z"
+    }
+  },
+  {
+    "hash": "449dc4b480e725f95f0956e53ff4314c8db25a8fc96ef07e416983a7d9c9e51e",
+    "item": {
+      "title": "Writing a Simple Windows Driver in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42984457\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T17:25:03Z"
+    }
+  },
+  {
+    "hash": "73621d1465bd48f8da01aae41611324dc3f214552d6a3b19f7e68112e47cb51c",
+    "item": {
+      "title": "No Way Home",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42983835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://literaryreview.co.uk/no-way-home"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T16:04:06Z"
+    }
+  },
+  {
+    "hash": "11fdca5da41af898977081cf5a292d8533d738d4a643655b8afc9a2a5596f5c5",
+    "item": {
+      "title": "We are destroying software",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42983275\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://antirez.com/news/145"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T14:48:25Z"
+    }
+  },
+  {
+    "hash": "e36725e72097939aaa6bd26c9d3af90245b40f83d6ba6373a281a27e4e2cbc92",
+    "item": {
+      "title": "Insomnia, Control",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42946095\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://untested.sonnet.io/notes/insomnia-control/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T09:27:30Z"
+    }
+  },
+  {
+    "hash": "bea949bbbfcdffb40e434ed147b4429398e12425f7063b617dcdcfe1be128316",
+    "item": {
+      "title": "'The Licensing Racket’ Review: There's a Board for That",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42982578\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-08T12:43:09Z"
+    }
+  },
+  {
+    "hash": "b566fd4670c4f85e810ce74affe2dc24ac46a25b1a8175ff8f4079054c9ec9e6",
+    "item": {
+      "title": "3 Altcoins Predicted to Outperform Ethereum (ETH) in 2025 and Why Polygon (POL) Won’t Be One of Them",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-63.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-63.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-63-300x172.jpg 300w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe emphasis moves to expanding cryptocurrencies with unique concepts, vivid ecosystems, and significant expansion potential as Ethereum confronts growing competition. Though Ethereum is still ruling the blockchain market, three altcoins—Rexas Finance (RXS), Stellar (XLM), and Arbitrum (ARB)—are becoming more and more sought as rivals to eclipse ETH by 2025. Although",
+      "links": [
+        "https://thenewscrypto.com/3-altcoins-predicted-to-outperform-ethereum-eth-in-2025-and-why-polygon-pol-wont-be-one-of-them/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-63.jpg"
+      },
+      "published": "2025-02-08T13:37:00Z"
+    }
+  },
+  {
+    "hash": "30474a25f51d37ded3f7201cac6a4974a36718120221687614aeeb6d37b2a686",
+    "item": {
+      "title": "Will Onyxcoin (XCN) Hold Firm at $0.030 or Face a Pullback?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Onyxcoin-XCN-Hold-Firm-at-0.030-or-Face-a-Pullback.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Will Onyxcoin (XCN) Hold Firm at $0.030 or Face a Pullback?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Onyxcoin-XCN-Hold-Firm-at-0.030-or-Face-a-Pullback.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Onyxcoin-XCN-Hold-Firm-at-0.030-or-Face-a-Pullback-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Onyxcoin-XCN-Hold-Firm-at-0.030-or-Face-a-Pullback-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAsset prices are retreating to previous lows amid crypto market volatility. Among altcoins, Onyxcoin (XCN) has emerged as a standout performer early on. The asset has gained a modest 1.78%.\u0026#160; Onyxcoin’s upside correction triggered it to visit the $0.0305. Gradually, XCN slipped and traded at the lowest of $0.02686. The",
+      "links": [
+        "https://thenewscrypto.com/will-onyxcoin-xcn-hold-firm-at-0-030-or-face-a-pullback/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "Cryptocurrency",
+        "XCN"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Onyxcoin-XCN-Hold-Firm-at-0.030-or-Face-a-Pullback.jpg"
+      },
+      "published": "2025-02-08T13:04:44Z"
+    }
+  },
+  {
+    "hash": "a6fd1499ba357e319abcd00c72a5c9c618c8ab0a4dc7af7a640afe9b451efc5e",
+    "item": {
+      "title": "Don’t Focus Too Much on Solana (SOL) \u0026 Dogecoin (DOGE) and Miss a 3000% ROI With These 3 Coins",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-62.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-62.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-62-300x172.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eWith the exceptional price movements and market changes in Solana (SOL) and Dogecoin (DOGE), alarming headlines are captured daily. However, accurate investors understand that niche coins that have a chance to explode often yield the highest profits. As these market leaders are on their way to consolidating, Rexas Finance (RXS),",
+      "links": [
+        "https://thenewscrypto.com/dont-focus-too-much-on-solana-sol-dogecoin-doge-and-miss-a-3000-roi-with-these-3-coins/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-62.jpg"
+      },
+      "published": "2025-02-08T12:36:28Z"
+    }
+  },
+  {
+    "hash": "cff73126ecd09d0ca45bd31d2090f6d2a909ef838bc2ec9d07cd8e2a2565b8bc",
+    "item": {
+      "title": "SEC Pushes Back Decision on BlackRock Ethereum ETF Options",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SEC Pushes Back Decision on BlackRock Ethereum ETF Options\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto ETF filings are increasing by the day by global organizations. While the SEC is moving forward with some filings, others are getting delayed for various reasons. It pushed the last date to make a decision on iShares Ethereum ETF Options to April 9 this year. iShares is a",
+      "links": [
+        "https://thenewscrypto.com/sec-pushes-back-decision-on-blackrock-ethereum-etf-options/"
+      ],
+      "categories": [
+        "Market News",
+        "blackRock",
+        "Ethereum ETF",
+        "SEC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Ethereum-Stagnates-its-Bull-Run-to-4K-at-the-3.9K-Resistance.jpg"
+      },
+      "published": "2025-02-08T12:31:13Z"
+    }
+  },
+  {
+    "hash": "73be5c96129f035630b7a17a68f5d19793b735c9b1d5503395cd80510cfc072d",
+    "item": {
+      "title": "Why Qubetics, XRP, and Algorand Are the Best Altcoins To Buy In February 2025: Key Features, Unique Benefits, and What Sets Them Apart for Long-Term Growth",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-10.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-10.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-10-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-10-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-10-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eAre you keeping an eye on the best altcoins to buy in February 2025? If not, it’s time to buckle up because the market’s heating up with some real heavy-hitters you don\u0026#8217;t want to miss. We’ve seen some serious action with the likes of XRP and Algorand, each carving out",
+      "links": [
+        "https://thenewscrypto.com/why-qubetics-xrp-and-algorand-are-the-best-altcoins-to-buy-in-february-2025-key-features-unique-benefits-and-what-sets-them-apart-for-long-term-growth/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-10.png"
+      },
+      "published": "2025-02-08T12:30:00Z"
+    }
+  },
+  {
+    "hash": "7c6c4741ad535df00ae7ac920ba44166fc3556fce36d3b4af6e06d88dd01939c",
+    "item": {
+      "title": "Hong Kong Grants First-Ever Ethereum-Based Investment Immigration Approval",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Hong-Kong-Approves-Ethereum-Based-Investment-Immigration-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hong Kong Grants First-Ever Ethereum-Based Investment Immigration Approval\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Hong-Kong-Approves-Ethereum-Based-Investment-Immigration-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Hong-Kong-Approves-Ethereum-Based-Investment-Immigration-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Hong-Kong-Approves-Ethereum-Based-Investment-Immigration-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eInvest Hong Kong has approved its first investment immigration application using Ethereum (ETH) as proof of assets, valued at HKD 30 million. Confirmed reports from Hong Kong-based Certified Public Accountant Clement Siu reveal this groundbreaking development. This decision, following Hong Kong\u0026#8217;s approval of Spot Bitcoin and Ethereum ETF  on April 15th, ",
+      "links": [
+        "https://thenewscrypto.com/hong-kong-grants-first-ever-ethereum-based-investment-immigration-approval/"
+      ],
+      "categories": [
+        "Market News",
+        "ETH",
+        "ETHEREUM",
+        "Hong Kong"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Hong-Kong-Approves-Ethereum-Based-Investment-Immigration-1.jpg"
+      },
+      "published": "2025-02-08T12:18:20Z"
+    }
+  },
+  {
+    "hash": "40aa3095b81f144bdd04a894a6ba9c4829310c0a0d3baeaabc8273c3e01a0513",
+    "item": {
+      "title": "Max Burwick Accuses Pump.fun of Family Attacks",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Pump.funs-lawsuit-takes-a-dark-turn-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Max Burwick Accuses Pump.fun of Family Attacks\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Pump.funs-lawsuit-takes-a-dark-turn-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Pump.funs-lawsuit-takes-a-dark-turn-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Pump.funs-lawsuit-takes-a-dark-turn-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe legal dispute between Burwick Law and Pump.Fun took an ugly turn. Recently the law firm reported that their legal team and some plaintiffs got violent threats and have been doxxed. According to the law firm, the platform permitted some offensive tokens targeting their family, and all these things are",
+      "links": [
+        "https://thenewscrypto.com/max-burwick-accuses-pump-fun-of-family-attacks/"
+      ],
+      "categories": [
+        "Market News",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Pump.funs-lawsuit-takes-a-dark-turn-1.jpg"
+      },
+      "published": "2025-02-08T11:20:07Z"
+    }
+  },
+  {
+    "hash": "68d8d902a6d4299c79f1ba0e01fb5d46363d4a4c85f16170a85c7dedabc8de74",
+    "item": {
+      "title": "Is Ozak AI the Next Crypto Unicorn? Why Experts Predict a 1000% Surge in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-61.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-61.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-61-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-61-768x437.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eInnovative tasks that combine artificial intelligence (AI) with blockchain technology are swiftly gaining momentum, promising to convert multiple industries. One such project that has captured tremendous interest is Ozak AI, with professionals forecasting a capability of one 1000% surge through the end of 2025. This growth is pushed by way",
+      "links": [
+        "https://thenewscrypto.com/is-ozak-ai-the-next-crypto-unicorn-why-experts-predict-a-1000-surge-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak A"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-61.jpg"
+      },
+      "published": "2025-02-08T10:51:44Z"
+    }
   }
 ]
