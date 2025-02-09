@@ -622,5 +622,405 @@
       "source": "Hacker News",
       "published": "2025-02-07T14:04:32Z"
     }
+  },
+  {
+    "hash": "963bfcdea31dc9392217eae85aca15e37c1fbcecc32a7ee9ce3a452371039850",
+    "item": {
+      "title": "Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42989419\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-09T08:54:37Z"
+    }
+  },
+  {
+    "hash": "46dffaeb33fc4353016daa2bf8593755acc24fad74b36547dd1b3bfe9302d25a",
+    "item": {
+      "title": "RetroFab: Playable 3D simulations of vintage electronic games",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42989628\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://itizso.itch.io/retrofab"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-09T09:50:35Z"
+    }
+  },
+  {
+    "hash": "f412d7b5cbd33b994df6c2198df92d33a39067204f11627884506e31d01284a6",
+    "item": {
+      "title": "Classic Data science pipelines built with LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42990036\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-09T11:39:38Z"
+    }
+  },
+  {
+    "hash": "a257d909aeb49427e3a20f946bbb586ef7ace5ba9bf1a57f9e129d67e961ae87",
+    "item": {
+      "title": "Chimes at Midnight",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42989609\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://asteriskmag.com/issues/08/chimes-at-midnight"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-09T09:45:57Z"
+    }
+  },
+  {
+    "hash": "0277aed8a7e56b5559c4a157b2e85af8c111bf11c7e0ae6c829466b7729af3a0",
+    "item": {
+      "title": "Go Data Structures: Interfaces (2009)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42946270\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.swtch.com/interfaces"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T09:48:30Z"
+    }
+  },
+  {
+    "hash": "632b028dcf7ce2c64e7c531b3c1d2999a0068c9901de247eef5a309a6fc6adf5",
+    "item": {
+      "title": "3D reconstruction of the capital of the Aztec empire",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42950059\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tenochtitlan.thomaskole.nl/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T15:40:27Z"
+    }
+  },
+  {
+    "hash": "15b82e3242686cf96403723d819df07e59a9afb4cc0a662017fe36557e823ab4",
+    "item": {
+      "title": "Post-Processing Shaders as a Creative Medium",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42948590\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T14:02:43Z"
+    }
+  },
+  {
+    "hash": "755a66460a5bd310aa0043939dee5aff458b1cde421a045230b346d1c50d360d",
+    "item": {
+      "title": "Embrace the Grind (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42948703\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jacobian.org/2021/apr/7/embrace-the-grind/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-05T14:11:46Z"
+    }
+  },
+  {
+    "hash": "11da262f15304a22adf70dd7e9bf095ee2e048460cd62e5a6d0223ea0c8b1795",
+    "item": {
+      "title": "New Apple Silicon Co-Maintainer Steps Up For The Linux Kernel",
+      "description": "This week was the dramatic decision by Asahi Linux lead developer Hector Martin to step down as upstream kernel maintainer for the Apple Silicon (ARM) code following friction with other kernel developers over Rust affairs within the kernel. He still intends to contribute code to Asahi Linux's downstream kernel and Linus Torvalds has already merged the patch dropping him as an upstream maintainer. Now a new co-maintainer has volunteered to help oversee the Apple Silicon code for the mainline kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Apple-Silicon-New-Co-Maintainer"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-09T11:39:00Z"
+    }
+  },
+  {
+    "hash": "3eff27858d64af285aab35ebae900d584c5a7341fe2842ccbbbc8dfd932a800d",
+    "item": {
+      "title": "Linux FineIBT-BHI Updated For Toughening Up FineIBT Kernel Defenses",
+      "description": "Intel Linux engineer Peter Zijlstra has updated his set of patches implementing FineIBT-BHI mitigations for toughening up the FineIBT kernel protections previously introduced. This FineIBT-BHI code depends upon newly-merged code for the LLVM Clang compiler as part of the compiler defenses...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-FineIBT-BHI-Linux-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-09T11:29:00Z"
+    }
+  },
+  {
+    "hash": "3b70e83c555550d497a7b83269a64b5ace430bc9ce0f3f483774f1e45d973eb5",
+    "item": {
+      "title": "Wine-Staging 10.1 Delivers 361 Patches Atop Upstream Wine",
+      "description": "Following the release of Wine 10.1 on Friday for kicking off the new bi-weekly development releases after last month's Wine 10.0 stable release, Wine-Staging 10.1 is out today to get things moving once again  for this experimental flavor of Wine...",
+      "links": [
+        "https://www.phoronix.com/news/Wine-Staging-10.1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-09T11:17:43Z"
+    }
+  },
+  {
+    "hash": "d18ee6784af95bc04cda6bfd55a5ab41b923576f1dabb7d6fc60ede8783fe5fa",
+    "item": {
+      "title": "Arctic Pablo Leads the Top Crypto Presale Race! ICP’s Chain Fusion Booms, GALA’s GalaSwap Disrupts",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-5-2.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Arctic Pablo Leads the Top Crypto Presale Race! ICP’s Chain Fusion Booms, GALA’s GalaSwap Disrupts\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-5-2.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-5-2-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-5-2-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eIn the ever-evolving world of cryptocurrency, presales offer a golden opportunity for investors to get in on the ground floor of promising projects. Among the top crypto capturing attention are Arctic Pablo Coin, GALA, and Internet Computer Protocol (ICP). Each presents unique narratives and potential returns, making them worthy of",
+      "links": [
+        "https://thenewscrypto.com/arctic-pablo-leads-the-top-crypto-presale-race-icps-chain-fusion-booms-galas-galaswap-disrupts/"
+      ],
+      "categories": [
+        "Press Release",
+        "Arctic Pablo",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-5-2.png"
+      },
+      "published": "2025-02-09T07:45:00Z"
+    }
+  },
+  {
+    "hash": "53763c08b06f84ae07ffba753b31791663c9703b271a68a3854eba2c069000c6",
+    "item": {
+      "title": "Coinbase Urges Fewer Crypto Banking Restrictions – Can Lightchain AI Presale Ride the Hype?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-1-15.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Coinbase Urges Fewer Crypto Banking Restrictions - Can Lightchain AI Presale Ride the Hype?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-1-15.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-1-15-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-1-15-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eWith Coinbase urging fewer crypto banking restrictions, the market is buzzing with renewed optimism—raising the question: Can Lightchain AI’s presale ride the hype? As regulatory pressures ease, promising projects like Lightchain AI are gaining traction. The Lightchain AI Presale has already raised over $15.4 million at a presale price of",
+      "links": [
+        "https://thenewscrypto.com/coinbase-urges-fewer-crypto-banking-restrictions-can-lightchain-ai-presale-ride-the-hype/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-1-15.jpg"
+      },
+      "published": "2025-02-09T07:31:04Z"
+    }
+  },
+  {
+    "hash": "b13552808d1beb6ea0a6dd3f2578b452d92d13d558081fb88f7bd05872fa5bfd",
+    "item": {
+      "title": "Stellar (XLM) Aims for Gains \u0026 Litecoin Prices Hint at Surge While BlockDAG’s X1 Sparks Excitement Among Over 500K Miners!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-12-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Stellar (XLM) Aims for Gains \u0026amp; Litecoin Prices Hint at Surge While BlockDAG\u0026#039;s X1 Sparks Excitement Among Over 500K Miners!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-12-1.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-12-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-12-1-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe cryptocurrency market is opening up new avenues for users, with various assets demonstrating strong growth potential. Stellar (XLM) is building momentum, with predictions of a possible 100% increase in price if it breaks through certain resistance levels. Meanwhile, Litecoin (LTC) is gathering strength, with market data and heightened interest",
+      "links": [
+        "https://thenewscrypto.com/stellar-xlm-aims-for-gains-litecoin-prices-hint-at-surge-while-blockdags-x1-sparks-excitement-among-over-500k-miners/"
+      ],
+      "categories": [
+        "Press Release",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-12-1.png"
+      },
+      "published": "2025-02-09T07:24:26Z"
+    }
+  },
+  {
+    "hash": "0542d41a974e811df31c3afdde872860cc3c65f3ec518e558594d669f3292803",
+    "item": {
+      "title": "AAVE and ADA Price Targets Vs BlockDAG’s 5% Instant Cashback – Latest Crypto Opportunity to Stack Profit Through Referrals",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-8-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"AAVE and ADA Price Targets Vs BlockDAG’s 5% Instant Cashback – Latest Crypto Opportunity to Stack Profit Through Referrals\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-8-1.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-8-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-8-1-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAs the Aave (AAVE) price reaches $274.92, market watchers anticipate a rise towards $400. Forecasts for Cardano\u0026#8217;s (ADA) price target also show a possible increase to over $3.54. These assets are gaining traction, yet there\u0026#8217;s another blockchain endeavor capturing attention. BlockDAG (BDAG) offers more than just asset growth—it\u0026#8217;s a tool",
+      "links": [
+        "https://thenewscrypto.com/aave-and-ada-price-targets-vs-blockdags-5-instant-cashback-latest-crypto-opportunity-to-stack-profit-through-referrals/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-8-1.png"
+      },
+      "published": "2025-02-09T07:10:41Z"
+    }
+  },
+  {
+    "hash": "0a5699a067568d31d771d03a12b877734c5d6c07a9546733705ae68357b57336",
+    "item": {
+      "title": "BlockDAG, Solana, Avalanche, Cardano, and Stellar Among the Fastest Growing Crypto Assets in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-6-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlockDAG, Solana, Avalanche, Cardano, and Stellar Among the Fastest Growing Crypto Assets in 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-6-1.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-6-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-6-1-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe cryptocurrency world is in constant flux, presenting exciting prospects for those seeking substantial returns. The past few years have demonstrated the potential for significant growth in promising projects, and 2025 appears to be another year ripe with opportunity. As institutional acceptance increases and blockchain technology develops, certain digital currencies",
+      "links": [
+        "https://thenewscrypto.com/blockdag-solana-avalanche-cardano-and-stellar-among-the-fastest-growing-crypto-assets-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-6-1.png"
+      },
+      "published": "2025-02-09T06:58:31Z"
+    }
+  },
+  {
+    "hash": "899d8e6402a0010ca877512b489e073c156afba3d52c623ba910222c66c17154",
+    "item": {
+      "title": "FTX Sends Fund Distribution Emails While $345M in Claims Await KYC",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/FTX_officially_announced_that_the_bankruptcy_plan_has_officially.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"FTX Sends Fund Distribution Emails While $345M in Claims Await KYC\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/FTX_officially_announced_that_the_bankruptcy_plan_has_officially.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/FTX_officially_announced_that_the_bankruptcy_plan_has_officially-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/FTX_officially_announced_that_the_bankruptcy_plan_has_officially-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFTX has started notifying creditors with claims under $50,000 about their initial fund allocation. The exchange has emailed affected creditors, informing them of the next steps to receive their payments. Sunil, a representative of FTX creditors, confirmed this update in a recent X post. FTX Claims FTX are notifying claims",
+      "links": [
+        "https://thenewscrypto.com/ftx-sends-fund-distribution-emails-while-345m-in-claims-await-kyc/"
+      ],
+      "categories": [
+        "Market News",
+        "Bitgo",
+        "FTX",
+        "Kraken"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/FTX_officially_announced_that_the_bankruptcy_plan_has_officially.jpg"
+      },
+      "published": "2025-02-09T06:51:55Z"
+    }
+  },
+  {
+    "hash": "e940b76365092aa8bb55bcec664a08a0ff676677506142ed52e02b0b8be1b2b3",
+    "item": {
+      "title": "Best Crypto Under a Penny Set to Explode – Get In Before It’s Too Late!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-25.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Best Crypto Under a Penny Set to Explode – Get In Before It\u0026#039;s Too Late!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-25.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-25-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-25-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe cryptocurrency market is filled with opportunities, and some of the most promising investments come from projects still priced under a penny. These low-cost cryptos offer high growth potential, making them attractive for investors looking for significant returns. Among them, Qubetics, SUI, Celestia, Injective, and Bitcoin Cash stand out for",
+      "links": [
+        "https://thenewscrypto.com/best-crypto-under-a-penny-set-to-explode-get-in-before-its-too-late/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-25.png"
+      },
+      "published": "2025-02-09T06:30:00Z"
+    }
+  },
+  {
+    "hash": "ef602ea4066f9fcccd9042656a88b1a8988a44155ed46ab09c6f14792d1de2ec",
+    "item": {
+      "title": "Missed FLOKI’s Explosive Rally? Secure Your Bag With This Top New Meme Coin to Join This Weekend Before the Next Big Pump!",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Missed FLOKI’s Explosive Rally? Secure Your Bag With This Top New Meme Coin to Join This Weekend Before the Next Big Pump!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14-376x212.png 376w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eAre you still kicking yourself for missing out on Floki Inu’s wild rally? Those who bought FLOKI at its early stages turned their pennies into fortunes while others stood on the sidelines, watching in disbelief. But here’s the thing—crypto never stops evolving, and history is repeating itself right now. This",
+      "links": [
+        "https://thenewscrypto.com/missed-flokis-explosive-rally-secure-your-bag-with-this-top-new-meme-coin-to-join-this-weekend-before-the-next-big-pump/"
+      ],
+      "categories": [
+        "Press Release",
+        "BTFD Coin",
+        "Floki",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main-14.png"
+      },
+      "published": "2025-02-09T05:16:10Z"
+    }
+  },
+  {
+    "hash": "d8de79dc5577c092605f188d6bc3ce374794f29a6db3f3aa140aa4e6f24f0c05",
+    "item": {
+      "title": "If You Regret Missing Brett, Don’t Sleep on Arctic Pablo Coin’s Explosive Presale -The Top Meme Coin Investment in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"If You Regret Missing Brett, Don’t Sleep on Arctic Pablo Coin\u0026#039;s Explosive Presale -The Top Meme Coin Investment in 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1-376x212.png 376w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eThe cryptocurrency world is filled with stories of early investors who made life-changing gains by spotting opportunities before the crowd. One such story is the early days of Brett, a token that took the market by storm. Its low entry price attracted bold investors who saw the potential for massive",
+      "links": [
+        "https://thenewscrypto.com/if-you-regret-missing-brett-dont-sleep-on-arctic-pablo-coins-explosive-presale-the-top-meme-coin-investment-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Arctic Pablo",
+        "Brett",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1.png"
+      },
+      "published": "2025-02-08T23:45:00Z"
+    }
+  },
+  {
+    "hash": "ef600d33fb69765ac2b7eb757e2e3cef89f15ea4cd952e6fbc54e9f69a5977d3",
+    "item": {
+      "title": "Best Meme Coins to Buy for 2025: Arctic Pablo’s $0.000054 Entry, Cat in a Dog’s World’s Rise, and Mog Coin’s Latest Surge",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Best Meme Coins to Buy for 2025: Arctic Pablo Coin, Cat in a Dog’s World, and Mog Coin\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg-376x212.png 376w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eHave you ever wondered what makes a meme coin truly stand out? In a market filled with countless projects, only a few capture the perfect mix of innovation, storytelling, and profitability. Among the latest contenders, Arctic Pablo Coin (APC) has been making waves with its unique approach to bridging myth",
+      "links": [
+        "https://thenewscrypto.com/best-meme-coins-to-buy-for-2025-arctic-pablos-0-000054-entry-cat-in-a-dogs-worlds-rise-and-mog-coins-latest-surge/"
+      ],
+      "categories": [
+        "Press Release",
+        "Arctic Pablo",
+        "CAT",
+        "Mog coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/CMC-Main.jpg.png"
+      },
+      "published": "2025-02-08T22:45:00Z"
+    }
   }
 ]
