@@ -2296,5 +2296,802 @@
       "source": "Hacker News",
       "published": "2025-02-10T13:50:40Z"
     }
+  },
+  {
+    "hash": "dcf95271dc49497abd660ad688bda3e5e8532f884e25f8da53d7b3a8be7b0aac",
+    "item": {
+      "title": "Citing EV “rollercoaster” in US, BMW invests in internal combustion",
+      "description": "17 percent of BMW sales are EVs; another 7 percent are hybrids.",
+      "links": [
+        "https://arstechnica.com/cars/2025/02/citing-ev-rollercoaster-in-us-bmw-invests-in-internal-combustion/"
+      ],
+      "categories": [
+        "Cars",
+        "BMW",
+        "Electric vehicles",
+        "EV",
+        "EVs",
+        "internal combustion",
+        "PHEVs",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kana Inagaki and Patricia Nilsson , Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/2025-BMW-i5-M60-14-1152x648.jpg"
+      },
+      "published": "2025-02-10T15:31:44Z"
+    }
+  },
+  {
+    "hash": "46b6325d09a70eef7d0e7069f63f5baa88111e7dc14f3343b4812ac6e2e59f47",
+    "item": {
+      "title": "Boeing has informed its employees of uncertainty in future SLS contracts",
+      "description": "The White House has not made a final decision yet on the large rocket.",
+      "links": [
+        "https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/"
+      ],
+      "categories": [
+        "Space",
+        "NASA",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/SLS-Mar-17-2022-2546-1152x648.jpg"
+      },
+      "published": "2025-02-07T22:07:39Z"
+    }
+  },
+  {
+    "hash": "472135826089a95caa67185718cdb7f5008accb1a98d60c5c0361bbd1391d40b",
+    "item": {
+      "title": "Hackers Exploit Google Tag Manager to Deploy Credit Card Skimmers on Magento Stores",
+      "description": "Threat actors have been observed leveraging Google Tag Manager (GTM) to deliver credit card skimmer malware targeting Magento-based e-commerce websites.\nWebsite security company Sucuri said the code, while appearing to be a typical GTM and Google Analytics script used for website analytics and advertising purposes, contains an obfuscated backdoor capable of providing attackers with persistent",
+      "links": [
+        "https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2A8fvkQpyVDuFUfRnkoWtr68iIqRmt7NGIXCgcexftJEd6AWUlAFfQXZ1MpBkG2mISzQxxYbfjoAdqBIH5MOo2hS3fM4h01q87OrjBRfX43U3-WMl-sK5yku5rSUla4yPcxNaUYcYtUr5WWjZy7Je0d1CSs_4Qnsr2FAjuL_3TofvjoTxcQ2m2DSqY6QY/s1600/malware.png"
+      },
+      "published": "2025-02-10T15:16:00Z"
+    }
+  },
+  {
+    "hash": "01863470cf38a0b5fdbbaa4510ef7c5ed614fb1ebbf9ce00c2be7d4665d02f4d",
+    "item": {
+      "title": "[$] Maintainer opinions on Rust-for-Linux",
+      "description": "\u003cp\u003e\nMiguel Ojeda gave\n\u003ca href=\"https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/\"\u003e\na keynote\u003c/a\u003e at\n\u003ca href=\"https://fosdem.org/2025/\"\u003e\nFOSDEM\u0026nbsp;2025\u003c/a\u003e about the history of the\n\u003ca href=\"https://rust-for-linux.com/\"\u003e\nRust-for-Linux\u003c/a\u003e\nproject, and the current attitude of people in the kernel community toward the\nexperiment. Unlike his\n\u003ca href=\"https://lwn.net/Articles/952029/\"\u003e\nusual talks\u003c/a\u003e, this talk didn't focus so much on the current\nstate of the project, but rather on discussing history\nand predictions for the future. He ended up presenting quotes from more than 30\npeople involved in kernel development about what they thought of the project and\nexpected going forward.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1007921/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-02-10T17:10:01Z"
+    }
+  },
+  {
+    "hash": "987fc2d817962accc5f7c0aabc1781a784a98db1fdcf59b11b71d3c2c9abb3fb",
+    "item": {
+      "title": "Arti 1.4.0 released",
+      "description": "\u003cp\u003e\u003ca href=\"https://blog.torproject.org/arti_1_4_0_released/\"\u003eVersion\n1.4.0\u003c/a\u003e of \u003ca\nhref=\"https://tpo.pages.torproject.net/core/arti/\"\u003eArti\u003c/a\u003e, the \u003ca\nhref=\"https://www.torproject.org/\"\u003eTor Project's\u003c/a\u003e next-generation\nTor client written in Rust, has been released. Notable improvements in\nthis release include a new \u003ca\nhref=\"https://gitlab.torproject.org/tpo/core/arti/-/tree/main/doc/dev/rpc-book/src\"\u003eRPC\ninterface\u003c/a\u003e, and preparatory work toward service-side onion service\ndenial-of-service resistance. The release is dedicated to the \u003ca\nhref=\"https://lwn.net/Articles/997775/\"\u003ememory of Jérémy Bobbio\u003c/a\u003e,\nbetter known by many as \"Lunar\". For full details on the release, see\nthe \u003ca\nhref=\"https://gitlab.torproject.org/tpo/core/arti/-/blob/main/CHANGELOG.md#arti-140--7-february-2025\"\u003echangelog\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1008866/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-02-10T16:05:11Z"
+    }
+  },
+  {
+    "hash": "e37ba5130599bfa217b6ed12f88a2a8b82608d21cf8527ab5b0e186bd0d8648f",
+    "item": {
+      "title": "A Rust-for-Linux policy document",
+      "description": "Miguel Ojeda has \u003ca\nhref=\"https://lwn.net/ml/all/CANiq72m-R0tOakf=j7BZ78jDHdy=9-fvZbAT8j91Je2Bxy0sFg@mail.gmail.com\"\u003eannounced\u003c/a\u003e\nthe posting of \u003ca href=\"https://rust-for-linux.com/rust-kernel-policy\"\u003ea\nnew document\u003c/a\u003e describing policies around the use of Rust in the Linux\nkernel.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tThere has been a fair amount of confusion about what the kernel\n\tpolicies around Rust are, who maintains what and so on.  This\n\tdocument tries to clarify some of these points with what, to the\n\tbest of our knowledge, is the current status.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1008865/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-02-10T15:47:26Z"
+    }
+  },
+  {
+    "hash": "4e0f30ae460ba1100d7e74543ee2b1e30624096679bc022168987d2cd7ba9313",
+    "item": {
+      "title": "Bhad Bhabie Launches $BHAD: A Community Token Built with Purpose",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/BHAD-1280x720-New_17391884215vTIYEmUU8.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/BHAD-1280x720-New_17391884215vTIYEmUU8.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/02/BHAD-1280x720-New_17391884215vTIYEmUU8-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/BHAD-1280x720-New_17391884215vTIYEmUU8-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/02/BHAD-1280x720-New_17391884215vTIYEmUU8-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eLos Angeles, CA, 10th February 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bhad-bhabie-launches-bhad-a-community-token-built-with-purpose/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/BHAD-1280x720-New_17391884215vTIYEmUU8.jpg"
+      },
+      "published": "2025-02-10T14:03:36Z"
+    }
+  },
+  {
+    "hash": "4d57be88f4f3387b595566b39a17aeb312c61d8d633a58cbb969502c95699863",
+    "item": {
+      "title": "Serenity Launches DeDaSP for Secure On-chain Data Survivability",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-24.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Serenity Launches DeDaSP for Secure On-chain Data Survivability\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-24.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-24-300x180.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-24-1024x614.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-24-768x461.png 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eUsing biometric authentication, NFT-based recursive succession, and smart contracts to ensure a seamless, long-term ownership transfer, Serenity, a provider of blockchain solutions and security technology, has announced the launch of DeDaSP (Decentralized Data Survivability Protocol). This protocol is designed to secure and preserve data within an on-chain framework for decentralized systems.",
+      "links": [
+        "https://thenewscrypto.com/serenity-launches-dedasp-for-secure-on-chain-data-survivability/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-24.png"
+      },
+      "published": "2025-02-10T14:00:00Z"
+    }
+  },
+  {
+    "hash": "d9aade4932f6753d961955b2276b4924b69ca7a9af6910dbbc4a8f99da7049c1",
+    "item": {
+      "title": "Best New Meme Coin Presales To Invest in Today: BTFD Coin’s P2E Game, Popcat’s Viral Power \u0026 Shiba Inu’s Expanding Ecosystem",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-64.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-64.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-64-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-64-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-64-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMeme coins have evolved beyond being just viral internet jokes. They’ve become full-fledged investment opportunities, offering a mix of fun, community-driven hype, and, in some cases, real utility. Whether it’s through Play-to-Earn (P2E) gaming, viral engagement, or expanding DeFi ecosystems, meme coins continue to push boundaries and attract millions of",
+      "links": [
+        "https://thenewscrypto.com/best-new-meme-coin-presales-to-invest-in-today-btfd-coins-p2e-game-popcats-viral-power-shiba-inus-expanding-ecosystem/"
+      ],
+      "categories": [
+        "Press Release",
+        "BTFD Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-64.jpg"
+      },
+      "published": "2025-02-10T13:15:00Z"
+    }
+  },
+  {
+    "hash": "7dacb268ddf5d494b65661e2517d743d31bdcc18956216837b58606e2f68ae27",
+    "item": {
+      "title": "Michael Saylor Endorses Jetking’s Historic Bitcoin Standard Adoption",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Michael_Saylor_Promotes_Jetkings_Bitcoin_Standard_Adoption-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Michael Saylor Endorses Jetking’s Historic Bitcoin Standard Adoption\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Michael_Saylor_Promotes_Jetkings_Bitcoin_Standard_Adoption-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Michael_Saylor_Promotes_Jetkings_Bitcoin_Standard_Adoption-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Michael_Saylor_Promotes_Jetkings_Bitcoin_Standard_Adoption-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eJetking, a publicly traded company in India, now becomes the first Indian corporation to adopt the Bitcoin Standard. This decision aligns with the growing trend of institutional Bitcoin adoption rates, marking a great shift in India’s corporate finance landscape. Michael Saylor, CEO of Strategy and Bitcoin Maximalist publicly applauded Jetking’s",
+      "links": [
+        "https://thenewscrypto.com/michael-saylor-endorses-jetkings-historic-bitcoin-standard-adoption/"
+      ],
+      "categories": [
+        "Market News",
+        "Bitcoin",
+        "MichaelSaylor"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Michael_Saylor_Promotes_Jetkings_Bitcoin_Standard_Adoption-1.jpg"
+      },
+      "published": "2025-02-10T13:07:29Z"
+    }
+  },
+  {
+    "hash": "d7cd94ca885df280b795146ea7640db390af8fbbeaa219fa0e0c0e1d00c75d96",
+    "item": {
+      "title": "Ethereum Under Selling Pressure Despite Spot ETF Inflows",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Markets-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Under Selling Pressure Despite Spot ETF Inflows\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Markets-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Markets-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Markets-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEthereum is going on a downward spiral despite recording a considerable amount of spot ETF inflows in the last few weeks. While Bitcoin is struggling to reclaim its $100,000 mark, the broader crypto market is underperforming for the past few days. Meanwhile, the crypto fear and greed index fell into",
+      "links": [
+        "https://thenewscrypto.com/ethereum-under-selling-pressure-despite-spot-etf-inflows/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "ETH",
+        "ETHEREUM",
+        "price drop"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Markets-2.jpg"
+      },
+      "published": "2025-02-10T13:05:42Z"
+    }
+  },
+  {
+    "hash": "5c7f43ca9bb6548edfe765e50f7f1e0a7028d5c6077f228dcc7c77f9580fdc10",
+    "item": {
+      "title": "Can Bitcoin (BTC) Hold the $98K Level, or Is a Dip Incoming?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Shows-Price-Consolidation-Post-US-Election-Pump-and-Volatility-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Bitcoin (BTC) Hold the $98K Level, or Is a Dip Incoming?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Shows-Price-Consolidation-Post-US-Election-Pump-and-Volatility-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Shows-Price-Consolidation-Post-US-Election-Pump-and-Volatility-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Shows-Price-Consolidation-Post-US-Election-Pump-and-Volatility-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe largest asset, Bitcoin (BTC) continues to dominate the cryptocurrency market as its price movements are crucial. BTC reflects a period of consolidation following multiple drops. Bitcoin’s price is suffering to reclaim the $100K mark, facing repeated rejections that triggered sharp pullbacks.  The price action of the asset has established",
+      "links": [
+        "https://thenewscrypto.com/can-bitcoin-btc-hold-the-98k-level-or-is-a-dip-incoming/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "BTC",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/Bitcoin-Shows-Price-Consolidation-Post-US-Election-Pump-and-Volatility-2.jpg"
+      },
+      "published": "2025-02-10T13:05:19Z"
+    }
+  },
+  {
+    "hash": "dc5ba3fd0fde93cfbcb363b0a5dfffe25578d5199d8e9c1d72a03c803d48cc3b",
+    "item": {
+      "title": "Analyst Spots Bullish Pattern: Is Solana Heading for a $565 Breakout?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/sol-2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Analyst Spots Bullish Pattern: Is Solana Heading for a $565 Breakout?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/sol-2-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/sol-2-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/sol-2-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market displays signs of recovery as the overall market cap and the 24-hour trading volume surges to $3.19 trillion and $105 billion, respectively as per data from CMC. As the market recovers, major altcoins such as Solana are reversing the recent downtrends, indicating a potential rally. At press",
+      "links": [
+        "https://thenewscrypto.com/analyst-spots-bullish-pattern-is-solana-heading-for-a-565-breakout/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/sol-2-1.jpg"
+      },
+      "published": "2025-02-10T12:57:32Z"
+    }
+  },
+  {
+    "hash": "149a901665e5b006150ad28e2df66afbf78df2f280e47e9a906a06466a570a42",
+    "item": {
+      "title": "Top Crypto Picks February 2025: 3 Coins You Need To Buy Before They Boom",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-13.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-13.png 781w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-13-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-13-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-13-376x212.png 376w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eThe cryptocurrency market continues to evolve rapidly as 2025 unfolds. While global financial markets face challenges and the broader economy responds to new regulatory developments, crypto has shown incredible resilience. Digital assets are no longer just for speculative traders but have expanded into real-world applications, shaping industries from decentralized finance",
+      "links": [
+        "https://thenewscrypto.com/top-crypto-picks-february-2025-3-coins-you-need-to-buy-before-they-boom/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-13.png"
+      },
+      "published": "2025-02-10T12:30:00Z"
+    }
+  },
+  {
+    "hash": "1455e1b6509487ee5c0224944b79a7c87a3abee75db622040799cb4b7d6c6d30",
+    "item": {
+      "title": "Artificial Superintelligence Alliance (FET) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Artificial-Superintelligence-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"FET Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Artificial-Superintelligence-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/08/Artificial-Superintelligence-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/08/Artificial-Superintelligence-Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Artificial Superintelligence Alliance (FET) price prediction for 2025, 2026-2030, we will analyze the price patterns of FET by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Artificial Superintelligence Alliance (FET) Current Market Status What is Artificial Superintelligence Alliance",
+      "links": [
+        "https://thenewscrypto.com/artificial-superintelligence-alliance-fet-price-prediction-2/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Artificial Superintelligence Alliance",
+        "Crypto Market",
+        "Cryptocurrency",
+        "FET",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/08/Artificial-Superintelligence-Price-prediction.jpg"
+      },
+      "published": "2025-02-10T12:26:00Z"
+    }
+  },
+  {
+    "hash": "475a66ac12ae919ecc936ec1b636d7c6c39cd94c1a750fa435e4ae8509771658",
+    "item": {
+      "title": "Polkadot Blockchain Academy Launches First JAM Course to Train Web3 Developers",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"700\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-28.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Polkadot Blockchain Academy Launches First JAM Course to Train Web3 Developers\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-28.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-28-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-28-1024x597.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-28-768x448.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eThe JAM Course has been launched by Polkadot Blockchain Academy. The goal of this educational program is to introduce Polkadot\u0026#8217;s innovative new architecture to the most talented technical brains in the sector. Developed as a more practical, technical follow-on to the PBA Campus and the JAM Tour, the JAM Course will",
+      "links": [
+        "https://thenewscrypto.com/polkadot-blockchain-academy-launches-first-jam-course-to-train-web3-developers/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-28.png"
+      },
+      "published": "2025-02-10T12:00:00Z"
+    }
+  },
+  {
+    "hash": "93bc72525d6f5959cfad8e314e0961957f0a9c79c14c9810a473712fd484fa3d",
+    "item": {
+      "title": "Intel's Newest Open-Source Project Is \"Polite Guard\"",
+      "description": "Intel's newest open-source project and addition to their AI offerings is... Polite Guard...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Polite-Guard"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-10T17:40:00Z"
+    }
+  },
+  {
+    "hash": "825a4e9e61f7fcefa90ce3b5ebc94d54e849367b958f60acd61c2918fdb56717",
+    "item": {
+      "title": "Apple Touch Bar Backlight \u0026 Keyboard Mode Drivers Slated For Linux 6.15",
+      "description": "For those making use of the Intel-powered Apple MacBook Pro laptops featuring the Touch Bar, better support for that interface is slated to land with the upcoming Linux 6.15 kernel cycle...",
+      "links": [
+        "https://www.phoronix.com/news/Apple-Touch-Bar-Linux-6.15"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-10T17:18:22Z"
+    }
+  },
+  {
+    "hash": "db232848585f7e618b6feb23b98c7af0f0bccd98069d426f40bfc944088d4e0e",
+    "item": {
+      "title": "GIMP 3.0 RC3 Released For A Final Round Of Testing",
+      "description": "GIMP 3.0 RC3 is out today as what is hopefully the last release candidate before the long-awaited stable release of GIMP 3.0 as this long in development free software alternative to the likes of Adobe Photoshop...",
+      "links": [
+        "https://www.phoronix.com/news/GIMP-3.0-RC3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-10T15:51:00Z"
+    }
+  },
+  {
+    "hash": "42f3bedd19fabf07d01de02dd980a5f6e1e1c0a1e8e2e35bd0692e67d73fbf17",
+    "item": {
+      "title": "Ethereum Fees Fall Below $1 Million for First Time in Five Months",
+      "description": "\u003cp\u003eEthereum's daily transaction fees have seen a drastic decline, plummeting by $731,472 according to Token Terminal data. This marks a five-month low, with fees dipping below $1 million for the first time.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-fees-fall-below-1-million-for-first-time-in-five-months/\"\u003eEthereum Fees Fall Below $1 Million for First Time in Five Months\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-fees-fall-below-1-million-for-first-time-in-five-months/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "crypto fees",
+        "ETH Price",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10172113/1739208073-leonardo_phoenix_09_generate_logo_of_ethereum_in_purple_no_wor_0_optimized.jpg"
+      },
+      "published": "2025-02-10T17:27:41Z"
+    }
+  },
+  {
+    "hash": "1f943df9a50637c52d59801695f71cc24f1521c73651f9844e74ae4b02b17229",
+    "item": {
+      "title": "TRUMP Coin Tanks 78% – Could This Be the Biggest Crypto Collapse of the Year?",
+      "description": "\u003cp\u003eTRUMP has dropped by 3% in the past 24 hours, as the meme token continues its descent from its January all-time high.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-coin-tanks-78-could-this-be-the-biggest-crypto-collapse-of-the-year/\"\u003eTRUMP Coin Tanks 78% – Could This Be the Biggest Crypto Collapse of the Year?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-coin-tanks-78-could-this-be-the-biggest-crypto-collapse-of-the-year/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Trump",
+        "Trump Coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10171308/1739207587-trump-coin-tanks-78-could-this-be-the-biggest-crypto-collapse-of-the-year.jpg"
+      },
+      "published": "2025-02-10T17:26:11Z"
+    }
+  },
+  {
+    "hash": "e055a64822fcc3f382239fb0071fdb269d41c6309c9c56e9dd2dd20ba4714099",
+    "item": {
+      "title": "Linea Airdrop: Will the Token Fail or Breathe Life into L2s?",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eGiven examples like Scroll fading out, what are the chances Linea can revive the L2 market?\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/linea-airdrop-will-the-token-breathe-life-into-l2s/\"\u003eLinea Airdrop: Will the Token Fail or Breathe Life into L2s?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/linea-airdrop-will-the-token-breathe-life-into-l2s/"
+      ],
+      "categories": [
+        "Features",
+        "Ethereum",
+        "Layer-2",
+        "Linea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10154753/1739202472-photo_2025-02-10-16-28-48.jpeg"
+      },
+      "published": "2025-02-10T16:32:37Z"
+    }
+  },
+  {
+    "hash": "b9d2f46b6381ba81bc26465e1d9eab04554af95e3f77da84987b60d3dd48d092",
+    "item": {
+      "title": "Crypto Mixers Used Less By Ransomware Criminals, AI Agents Pose New Threat",
+      "description": "\u003cp\u003eA new report highlights how ransomware criminals are shifting away from crypto mixers, increasingly using centralized exchanges and cross-chain bridges. Experts warn of the growing role of AI-driven automation in cybercrime, potentially enabling faster, more precise attacks. Law enforcement efforts and security measures remain key concerns.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-mixers-used-less-by-ransomware-ai-threat-grows/\"\u003eCrypto Mixers Used Less By Ransomware Criminals, AI Agents Pose New Threat\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-mixers-used-less-by-ransomware-ai-threat-grows/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Chainalysis",
+        "Crypto crime",
+        "Ransomware"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/06214331/1738878211-image-1738878182482_optimized.jpg"
+      },
+      "published": "2025-02-10T16:25:01Z"
+    }
+  },
+  {
+    "hash": "244dc9a2384a2902b88cb78f496c969a6469cc4f1c734473118103539ed03440",
+    "item": {
+      "title": "Another Celeb Coin Goes Live: Bhad Bhabie Launches $BHAD to ‘Fund Cancer Research’",
+      "description": "\u003cp\u003eDanielle Bregoli, known as Bhad Bhabie, has launched her own coin BHAD, describing it as “a community-driven token designed to make a real impact.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/another-celeb-coin-goes-live-bhad-bhabie-launches-bhad-to-fund-cancer-research/\"\u003eAnother Celeb Coin Goes Live: Bhad Bhabie Launches $BHAD to \u0026#8216;Fund Cancer Research\u0026#8217;\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/another-celeb-coin-goes-live-bhad-bhabie-launches-bhad-to-fund-cancer-research/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Celebrity Memecoins",
+        "Memecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10155159/1739202719-bhad-bhabie-bhad-danielle-bregoli-celebrity-memecoin.jpg"
+      },
+      "published": "2025-02-10T16:11:55Z"
+    }
+  },
+  {
+    "hash": "fb7299c487323e14a3bf396e33fcef5280c1b36c8d0fa399f124249cc6988b36",
+    "item": {
+      "title": "Binance’s TST Coin Rallies 100x After CZ Tweet – Which Meme Coin Will Pump Next?",
+      "description": "\u003cp\u003e“Test coin turned meme coin” Test ($TST) surged 100x after supposed Binance endorsements and an exchange listing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binances-tst-coin-rallies-100x-after-cz-tweet/\"\u003eBinance\u0026#8217;s TST Coin Rallies 100x After CZ Tweet – Which Meme Coin Will Pump Next? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binances-tst-coin-rallies-100x-after-cz-tweet/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Binance",
+        "Changpeng Zhao",
+        "Meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10161559/1739204158-tst.jpg"
+      },
+      "published": "2025-02-10T16:02:29Z"
+    }
+  },
+  {
+    "hash": "b40d880de5a86dfd430f7d431c2f5c8eb638d57ec3985142429f6512ea9f9fbb",
+    "item": {
+      "title": "Injective Launches TradFi Index On-Chain, Enables TradFi Access on DeFi",
+      "description": "\u003cp\u003eInjective Labs launches an on-chain S\u0026amp;P 500 index, enabling investors to, for the first time, gain exposure to SPY with 24/7 access.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/injective-launches-sp-500-index-on-chain-enables-tradfi-access-on-defi/\"\u003eInjective Launches TradFi Index On-Chain, Enables TradFi Access on DeFi\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/injective-launches-sp-500-index-on-chain-enables-tradfi-access-on-defi/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi",
+        "Injective Protocol",
+        "Traditional finance"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10114315/1739187795-injective-sp-500-index-on-chain.jpg"
+      },
+      "published": "2025-02-10T15:42:26Z"
+    }
+  },
+  {
+    "hash": "e2e99c02338d98ae85020d768e4e6127b88b680ac7507cdd2f0c315ba16456a2",
+    "item": {
+      "title": "Solana Tumbles to $194 – Is the ‘Ethereum Killer’ Dying?",
+      "description": "\u003cp\u003eSolana has recovered after dropping as low as $194 earlier this morning, with the alt's fundamentals putting it in a good position to recover strongly with the wider market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-tumbles-to-197-is-the-ethereum-killer-dying/\"\u003eSolana Tumbles to $194 – Is the \u0026#8216;Ethereum Killer\u0026#8217; Dying?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-tumbles-to-197-is-the-ethereum-killer-dying/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "SOL",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10150340/1739199819-sol.jpg"
+      },
+      "published": "2025-02-10T15:04:00Z"
+    }
+  },
+  {
+    "hash": "d66f3bbc9ff26229ff052f86b18eef13dc247cf3ab21ade0d1d42ec05bf604d6",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCrypto market is red today\u003c/li\u003e\n\u003cli\u003eBitget Wallet Integrates Abstract Mainnet\u003c/li\u003e\n\u003cli\u003eMarket Growth Pushes Notional Losses Past Earlier Records\u003c/li\u003e\n\u003cli\u003eCelo Foundation Joins Hands with EiganLayer and 14 Other Partners to Launch CxAI\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-02-10T14:50:00Z"
+    }
+  },
+  {
+    "hash": "2cab0abe9547d0db137223c4283f3a1c2b445f4bb8b31b03b7dca680a09b9cb3",
+    "item": {
+      "title": "Japan’s FSA Plans Crypto Tax Cuts, Bitcoin Spot ETF Approval by 2026",
+      "description": "\u003cp\u003eJapan's FSA is considering classifying crypto as financial products like securities by 2026, potentially leading to Bitcoin spot ETF approval and a crypto tax cut from 55% to 20%.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/japans-fsa-plans-crypto-tax-cuts-bitcoin-spot-etf-approval-by-2026/\"\u003eJapan’s FSA Plans Crypto Tax Cuts, Bitcoin Spot ETF Approval by 2026\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/japans-fsa-plans-crypto-tax-cuts-bitcoin-spot-etf-approval-by-2026/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Japan",
+        "Tax"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/10121100/1739189460-image-1739189432833_optimized.jpg"
+      },
+      "published": "2025-02-10T14:32:00Z"
+    }
+  },
+  {
+    "hash": "7f9570df86b04fe4f343a51ffa6213abfdd0aa43f53b0f8c9e883270d6781b7f",
+    "item": {
+      "title": "Surnames from nicknames nobody has any more",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43000316\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.plover.com/lang/etym/nickname-names.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-10T13:54:38Z"
+    }
+  },
+  {
+    "hash": "ecf60276e29ca9d80bf7f5c813e869b826117f55488631035c47ae24c4293b31",
+    "item": {
+      "title": "Show HN: Global 3D Topography Explorer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43001688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://topography.jessekv.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-10T15:54:45Z"
+    }
+  },
+  {
+    "hash": "34b0848a7e518e4f32ca3ca62d57565683bbfce513b0458ca40f8d500c4c6d26",
+    "item": {
+      "title": "Ancient-DNA Study Identifies Originators of Indo-European Language Family",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42969038\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-07T03:30:10Z"
+    }
+  },
+  {
+    "hash": "e6fc40e6050dc75674dbf51c8368a53ed012a91120733ab1f0b82f974faac312",
+    "item": {
+      "title": "Show HN: Infinite Horizontal Array of Text Editors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42995991\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zeminary.com/arrays/app.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-10T01:25:05Z"
+    }
+  },
+  {
+    "hash": "c1ec110c5b427fd5b1839ef4a9a6c5969526738c4672f251b18a029d1080063a",
+    "item": {
+      "title": "Ask HN: Physics PhD at Stanford or Berkeley",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43000792\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43000792"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-10T14:38:29Z"
+    }
+  },
+  {
+    "hash": "fb173268f9547fe3249c9f770904c9fa8f08d0b52d7433f64d02b6b6754d5e14",
+    "item": {
+      "title": "Memory profilers, call graphs, exception reports, and telemetry",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42971038\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nuanced.dev/blog/system-wide-context"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-07T09:57:57Z"
+    }
+  },
+  {
+    "hash": "f3d3ead22fcdfd03696ff3b107262a8791d91bf162df90c9dfd6cc9d1d2d1188",
+    "item": {
+      "title": "Earth's inner core may have changed shape, say scientists",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43002130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c4gx37ky3gyo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-10T16:31:59Z"
+    }
+  },
+  {
+    "hash": "b6e33499efe7031c39f79a08a4f08d4018cc366fc7b703ded7c0bb8cf79203f8",
+    "item": {
+      "title": "Perma.cc – Permanent Link Service",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=42972622\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://perma.cc/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-07T14:04:14Z"
+    }
+  },
+  {
+    "hash": "66d0e1c0be04204a0596320152699b51a0377796740fc1c20d034319e1fe4aaf",
+    "item": {
+      "title": "Bank CEO: Retract your debanking piece? Me: No",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43001441\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.kalzumeus.com/2025/02/10/retraction-request-denied/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-10T15:32:10Z"
+    }
   }
 ]
