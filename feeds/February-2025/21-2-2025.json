@@ -4445,5 +4445,814 @@
       "source": "Hacker News",
       "published": "2025-02-21T17:11:00Z"
     }
+  },
+  {
+    "hash": "3182dc368540f2bfbaaed05911c60501cec061ad32d9f5a4821e39cd81886e52",
+    "item": {
+      "title": "RFK Jr. promptly cancels vaccine advisory meeting, pulls flu shot campaign",
+      "description": "Kennedy is reportedly planning to remove agency vaccine advisers, too.",
+      "links": [
+        "https://arstechnica.com/health/2025/02/rfk-jr-promptly-cancels-vaccine-advisory-meeting-pulls-flu-shot-campaign/"
+      ],
+      "categories": [
+        "Health",
+        "ACIP",
+        "anti-vaccine",
+        "CDC",
+        "flu",
+        "HHS",
+        "robert f kennedy jr",
+        "vaccines",
+        "wild to mild"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2196587890-1152x648.jpg"
+      },
+      "published": "2025-02-21T19:11:40Z"
+    }
+  },
+  {
+    "hash": "94b525e61449a987fb11ecbbae8c1ff361054b50a177b76f98546c324456604f",
+    "item": {
+      "title": "As the Kernel Turns: Rust in Linux saga reaches the “Linus in all-caps” phase",
+      "description": "Torvalds: You can avoid Rust as a C maintainer, but you can't interfere with it.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Tech",
+        "C language",
+        "C#",
+        "christoph hellwig",
+        "greg koah-hartman",
+        "Linus Torvalds",
+        "Linux",
+        "linux kernel mailing list",
+        "LKML",
+        "rust"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kevin Purdy"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-566440151-1152x648.jpg"
+      },
+      "published": "2025-02-21T18:55:11Z"
+    }
+  },
+  {
+    "hash": "b3003bc0c863be54a6d868c986431e55d32459ee33058db3e21b662e43730b9b",
+    "item": {
+      "title": "Notorious crooks broke into a company network in 48 minutes. Here’s how.",
+      "description": "Report sheds new light on the tactics allowing attackers to move at breakneck speed.",
+      "links": [
+        "https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "initial access",
+        "quick assist",
+        "ransomware",
+        "rdp"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet.jpg"
+      },
+      "published": "2025-02-21T18:17:28Z"
+    }
+  },
+  {
+    "hash": "83b32055aaba114a04447e5e514e968ae626e93a7837a2a1772cff47f1e1918e",
+    "item": {
+      "title": "Google’s cheaper YouTube Premium Lite subscription will drop Music",
+      "description": "The plan could soon arrive in the US, Australia, Germany, and Thailand. ",
+      "links": [
+        "https://arstechnica.com/google/2025/02/google-plans-cheaper-ad-free-youtube-subscription-without-music/"
+      ],
+      "categories": [
+        "Google",
+        "google",
+        "music streaming",
+        "YouTube"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-1152x648-1740156964.jpg"
+      },
+      "published": "2025-02-21T17:45:11Z"
+    }
+  },
+  {
+    "hash": "2011a476d64e37ac32e524005252decbe437917365d2ce27448a52a60efbf961",
+    "item": {
+      "title": "DeepSeek goes beyond “open weights” AI with plans for source code release",
+      "description": "Chinese AI firm says daily releases will reveal \"code that moved our tiny moonshot forward.\"",
+      "links": [
+        "https://arstechnica.com/ai/2025/02/deepseek-goes-beyond-open-weights-ai-with-plans-for-source-code-release/"
+      ],
+      "categories": [
+        "AI"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1475813704-1152x648.jpg"
+      },
+      "published": "2025-02-21T16:50:45Z"
+    }
+  },
+  {
+    "hash": "35f84f59bfaac0d5beb769b85213a1f5ca5cae40e115bdbae7c66ef3f1fbc964",
+    "item": {
+      "title": "Apple pulls end-to-end encryption in UK, spurning backdoors for gov’t spying",
+      "description": "Apple abruptly yanks privacy tool in UK, taking bold stance against snooping law.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/02/apple-pulls-data-protection-tool-instead-of-caving-to-uk-demand-for-a-backdoor/"
+      ],
+      "categories": [
+        "Apple",
+        "Policy",
+        "apple",
+        "data privacy",
+        "data protection",
+        "encryption",
+        "end to end encryption",
+        "online privacy",
+        "united kingdom"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2173563004-1152x648-1740154804.jpg"
+      },
+      "published": "2025-02-21T16:40:11Z"
+    }
+  },
+  {
+    "hash": "8ef71a8e7da75de10ab5c0a37e03767eab992def9ee8991aec185a83481349cb",
+    "item": {
+      "title": "Qubetics Hits 20,800 Holders, Making It the Best Crypto To Buy for February 2025 as Immutable X Bullish Price Prediction and Quant’s Growth",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-76.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-76.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-76-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-76-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-76-376x212.png 376w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe crypto market is witnessing a surge in innovation, with select projects positioning themselves as high-value investment opportunities for February 2025. Among them, Qubetics, Immutable X (IMX), and Quant (QNT) have been making headlines. Qubetics is revolutionizing cross-border payments, offering banks and financial institutions an efficient, blockchain-powered solution. Immutable X",
+      "links": [
+        "https://thenewscrypto.com/qubetics-hits-20800-holders-making-it-the-best-crypto-to-buy-for-february-2025-as-immutable-x-bullish-price-prediction-and-quants-growth/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-76.png"
+      },
+      "published": "2025-02-21T17:15:00Z"
+    }
+  },
+  {
+    "hash": "1c8f21995463cd04f04f233e9675b771034fed045298fcbe506314fb89860a42",
+    "item": {
+      "title": "BlockDAG’s Workforce Expansion Just Got a Major Boost—Liza van den Berg Joins as HR Head!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-2-10.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlockDAG’s Workforce Expansion Just Got a Major Boost—Liza van den Berg Joins as HR Head!\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-2-10.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-2-10-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-2-10-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eBlockDAG continues to expand its leadership team, ensuring that its rapid growth is matched by a well-structured and efficient internal framework. The latest addition, Liza van den Berg, joins as HR and Operations Specialist, bringing 13 years of experience in IT recruitment, sales, and business development. With expertise in building",
+      "links": [
+        "https://thenewscrypto.com/blockdags-workforce-expansion-just-got-a-major-boost-liza-van-den-berg-joins-as-hr-head/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-2-10.png"
+      },
+      "published": "2025-02-21T17:15:00Z"
+    }
+  },
+  {
+    "hash": "49128ddfa33beda7aa26eea5a87ce231aca0eec06e7f22324631bcecea1a0b7c",
+    "item": {
+      "title": "Traders Scramble for BlockDAG’s 350% Bonus: A Golden Opportunity? Examining XRP Recovery Potential and VET’s Challenges",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-66.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Traders Scramble for BlockDAG\u0026#039;s 350% Bonus: A Golden Opportunity? Examining XRP Recovery Potential and VET\u0026#039;s Challenges\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-66.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-66-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-66-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe past week presented a rocky road for XRP holders, as a sharp decline shook their confidence. Despite this, the XRP recovery potential remains a topic of considerable discussion among those exploring the crypto market, with many searching for signs of a resurgence. VeChain (VET), meanwhile, is navigating its own",
+      "links": [
+        "https://thenewscrypto.com/traders-scramble-for-blockdags-350-bonus-a-golden-opportunity-examining-xrp-recovery-potential-and-vets-challenges/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/unnamed-66.png"
+      },
+      "published": "2025-02-21T17:00:00Z"
+    }
+  },
+  {
+    "hash": "2b80202f084a676d3467bfcc6086715941c7d4825533418b4746fcf5b491efa2",
+    "item": {
+      "title": "XRP Price Set to Surge on ETF Hopes, Key Levels Highlighted by Analyst",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Can-an-XRP-ETF-Approval-Spark-a-Price-Rally.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can an XRP ETF Approval Spark a Price Rally?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Can-an-XRP-ETF-Approval-Spark-a-Price-Rally.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Can-an-XRP-ETF-Approval-Spark-a-Price-Rally-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Can-an-XRP-ETF-Approval-Spark-a-Price-Rally-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eXRP has been gaining attention as ETF hopes continue to drive positive sentiment in the market. The asset has surged to $2.7, which follows the U.S. Securities and Exchange Commission’s recent call for public comments on XRP ETF applications from firms such as Canary Capital, CoinShares, and WisdomTree, which has",
+      "links": [
+        "https://thenewscrypto.com/xrp-price-set-to-surge-on-etf-hopes-key-levels-highlighted-by-analyst/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Can-an-XRP-ETF-Approval-Spark-a-Price-Rally.jpg"
+      },
+      "published": "2025-02-21T16:50:21Z"
+    }
+  },
+  {
+    "hash": "d817e4c83459a793efe36d225c64d76216051e9b1ff880e8ec009640383511a8",
+    "item": {
+      "title": "Qubetics’ $TICS Revolutionizes Asset Tokenization, Near Protocol Scales New Heights, and Theta Disrupts Video Streaming – Top Cryptos To Invest in Today",
+      "description": "\u003cp\u003e\u003cimg width=\"760\" height=\"426\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-74.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-74.png 760w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-74-300x168.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-74-376x212.png 376w\" sizes=\"auto, (max-width: 760px) 100vw, 760px\" /\u003e\u003c/p\u003eThe cryptocurrency market is buzzing with new projects, each promising to change the digital landscape. As an investor, it can be a challenge to figure out where to put your money, especially when there are so many options on the table. That’s why decided to take a closer look at",
+      "links": [
+        "https://thenewscrypto.com/qubetics-tics-revolutionizes-asset-tokenization-near-protocol-scales-new-heights-and-theta-disrupts-video-streaming-top-cryptos-to-invest-in-today/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-74.png"
+      },
+      "published": "2025-02-21T16:15:00Z"
+    }
+  },
+  {
+    "hash": "3681d517d269715c99d2c025ae1b005fa689b2e2127c0ba52a1090c08433a1dc",
+    "item": {
+      "title": "PEPE Price Stumbles as PEPETO Becomes the Next 100x Memecoin To Watch",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-198.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/image001-198.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-198-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/image001-198-768x448.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e #PEPE has experienced a sharp decline in the last month, dropping 45% from its recent peak. Meanwhile, PEPETO has gained momentum, attracting investors with its expanding ecosystem and high-yield staking. With PEPE struggling at key resistance levels and  #PEPETO nearing its presale target, the two tokens are taking different paths",
+      "links": [
+        "https://thenewscrypto.com/pepe-price-stumbles-as-pepeto-becomes-the-next-100x-memecoin-to-watch/"
+      ],
+      "categories": [
+        "Press Release",
+        "PEPETO"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/image001-198.jpg"
+      },
+      "published": "2025-02-21T16:00:00Z"
+    }
+  },
+  {
+    "hash": "f04b15c51dbff24cb2c10f0272000a79ef488e68af791091e8719bed6ccfe566",
+    "item": {
+      "title": "NEAR Protocol (NEAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/09/NEAR-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"NEAR Protocol (NEAR) Price Prediction 2023, 2024, 2025-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/09/NEAR-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/09/NEAR-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/09/NEAR-Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/09/NEAR-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this NEAR Protocol (NEAR) price prediction 2025, 2026-2030,  we will analyze the price patterns of NEAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION NEAR Protocol (NEAR) Current Market Status What is NEAR Protocol (NEAR)? NEAR Protocol (NEAR)",
+      "links": [
+        "https://thenewscrypto.com/near-protocol-near-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "NEAR",
+        "NEAR Protocol",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/09/NEAR-Price-prediction.jpg"
+      },
+      "published": "2025-02-21T14:40:51Z"
+    }
+  },
+  {
+    "hash": "485532462a62bf3aac617792394bd66361489314b2663e11955ce2063921ed20",
+    "item": {
+      "title": "Bittensor (TAO) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bittensor (TAO) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Bittensor (TAO) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of TAO by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Bittensor (TAO) Current Market Status What is Bittensor (TAO)? Bittensor (TAO) 24H Technicals BITTENSOR (TAO) PRICE",
+      "links": [
+        "https://thenewscrypto.com/bittensor-tao-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "AI",
+        "Bittensor",
+        "Crypto Market",
+        "Cryptocurrecncy",
+        "Price preddiction",
+        "TAO"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM.jpeg"
+      },
+      "published": "2025-02-21T14:19:19Z"
+    }
+  },
+  {
+    "hash": "c6ba555fce86649e0b7629f00c841fc3212043fe4bf370c413adaf4c896062b2",
+    "item": {
+      "title": "SBF Says Court Narrative Was Misleading in Latest The New York Sun Interview",
+      "description": "\u003cp\u003eSam Bankman-Fried criticizes the handling of his fraud trial in \u003cem data-start=\"64\" data-end=\"82\"\u003eThe New York Sun\u003c/em\u003e interview, claiming the prosecution misled the jury. He also condemns Democratic policies on crypto, calling the Republican Party “more reasonable.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/sbf-criticizes-ftx-case-new-interview/\"\u003eSBF Says Court Narrative Was Misleading in Latest The New York Sun Interview\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/sbf-criticizes-ftx-case-new-interview/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "People In Crypto",
+        "Alameda Research",
+        "FTX",
+        "Sam Bankman-Fried"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/21143804/1740148684-julia_63915_manhattan_federal_court_overlaid_with_cryptocurrenc_74c3c0d7-3d1c-4d3e-8985-1ab13e62e5a6_optimized-2.jpg"
+      },
+      "published": "2025-02-21T18:50:33Z"
+    }
+  },
+  {
+    "hash": "de707a65c197bcafdaa084536472c84f76965172b8382fcd141b085f06dd77e7",
+    "item": {
+      "title": "Standard Chartered Analyst Says Bitcoin at $500k Still Possible as BTC Bull Token Smacks $2.5M in ICO",
+      "description": "\u003cp\u003eBTC Bull Token ($BTCBULL) presale surpasses $2.5M as investors eye Bitcoin’s ($BTC) potential climb to $500k before the end of Trump’s term. Analysts predict multiple price milestones ahead, with holders set to receive Bitcoin rewards through the token’s airdrop system.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-500k-btc-bull-token-2-5m-presale/\"\u003eStandard Chartered Analyst Says Bitcoin at $500k Still Possible as BTC Bull Token Smacks $2.5M in ICO\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-500k-btc-bull-token-2-5m-presale/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/21180705/1740161224-btcbull-22125.jpg"
+      },
+      "published": "2025-02-21T18:07:32Z"
+    }
+  },
+  {
+    "hash": "0de2a968012c26f2fa40b6431202430c37bfcf2bc121517bfd41977544dff391",
+    "item": {
+      "title": "[$] Multi-host testing with the pytest-mh framework",
+      "description": "\u003cp\u003eThe \u003ca\nhref=\"https://pytest-mh.readthedocs.io/en/latest/\"\u003e\u003ctt\u003epytest-mh\u003c/tt\u003e\u003c/a\u003e\nproject is a plugin that provides a multi-host test framework for the\npopular \u003ca href=\"https://pypi.org/project/pytest/\"\u003e\u003ctt\u003epytest\u003c/tt\u003e\u003c/a\u003e\nunit-testing framework and test runner. Work on \u003ctt\u003epytest-mh\u003c/tt\u003e\nstarted in 2023 to solve a multitude of issues that\ncropped up for developers and testers when testing the \u003ca\nhref=\"https://sssd.io\"\u003eSSSD\u003c/a\u003e project, which is a client for\nenterprise identity management. I was not happy with the state of\ntesting of the SSSD project and wanted to create something that would\nincrease test readability, remove duplication, eliminate errors, and\nprovide multi-host testing capabilities, while having the flexibility\nto build a new API around it. Finally, I also wanted something that\ncan be used by anyone to test their projects as well.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1007724/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-02-21T18:18:26Z"
+    }
+  },
+  {
+    "hash": "2da9808bcc42f1de65994ccc8169f58547bd553cd69525c58ab425469fabb768",
+    "item": {
+      "title": "Reviewing a Very Dodgy BSK-602 Adjustable Power Supply",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"436\" src=\"https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg 1747w, https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?resize=250,136 250w, https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?resize=400,218 400w, https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?resize=800,436 800w, https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?resize=1536,838 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"759665\" data-permalink=\"https://hackaday.com/2025/02/21/reviewing-a-very-dodgy-bsk-602-adjustable-power-supply/bsk-602_power_supply_teardown_diode_gone_wild_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg\" data-orig-size=\"1747,953\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"bsk-602_power_supply_teardown_diode_gone_wild_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg?w=800\" /\u003e\u003c/div\u003eThere\u0026#8217;s no shortage of cheap \u0026#38; cheerful power supplies which you can obtain from a range of online retailers, but with no listed certification worth anything on them calling them \u003ca href=\"https://hackaday.com/2025/02/21/reviewing-a-very-dodgy-bsk-602-adjustable-power-supply/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/21/reviewing-a-very-dodgy-bsk-602-adjustable-power-supply/"
+      ],
+      "categories": [
+        "Teardown",
+        "dc power supply",
+        "teardown"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/bsk-602_power_supply_teardown_diode_gone_wild_youtube.jpg"
+      },
+      "published": "2025-02-21T21:00:00Z"
+    }
+  },
+  {
+    "hash": "ef71c5d29dad6c7c8da782c47f557807fcaa19b7afe92b4f9cf161bb4502de21",
+    "item": {
+      "title": "Pocket Device Tracks Planets And The ISS",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"417\" src=\"https://hackaday.com/wp-content/uploads/2025/02/F74AOM5M7AHW9TK-e1740041030505.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" data-attachment-id=\"759583\" data-permalink=\"https://hackaday.com/2025/02/21/pocket-device-tracks-planets-and-the-iss/f74aom5m7ahw9tk/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/F74AOM5M7AHW9TK-e1740041030505.jpg\" data-orig-size=\"2372,1236\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"F74AOM5M7AHW9TK\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/F74AOM5M7AHW9TK-e1740041030505.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/F74AOM5M7AHW9TK-e1740041030505.jpg?w=800\" /\u003e\u003c/div\u003eEver been at a party and landed in a heated argument about exactly where the International Space Station (ISS) is passing over at that very instant? Me neither, but it\u0026#8217;s \u003ca href=\"https://hackaday.com/2025/02/21/pocket-device-tracks-planets-and-the-iss/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/21/pocket-device-tracks-planets-and-the-iss/"
+      ],
+      "categories": [
+        "Space",
+        "AWS",
+        "iss",
+        "orbit",
+        "planets",
+        "space"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/F74AOM5M7AHW9TK-e1740041030505.jpg"
+      },
+      "published": "2025-02-21T18:00:00Z"
+    }
+  },
+  {
+    "hash": "a99d7c37fe8362d0eaef5e9a01f83769cfbdbf16e42d9705f6fc6591cf07ba2b",
+    "item": {
+      "title": "Hackaday Podcast Episode 309: Seeing WiFi, A World Without USB, Linux in NES in Animal Crossing",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg 3000w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"202654\" data-permalink=\"https://hackaday.com/2016/05/02/blue-ribbon-microphone/microphone/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Microphone\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" /\u003e\u003c/div\u003eThis week Hackaday Editors Elliot Williams and Tom Nardi start things off with updates on the rapidly approaching Hackaday Europe and the saga of everyone\u0026#8217;s favorite 3D printed boat. From \u003ca href=\"https://hackaday.com/2025/02/21/hackaday-podcast-episode-309-seeing-wifi-a-world-without-usb-linux-in-nes-in-animal-crossing/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/21/hackaday-podcast-episode-309-seeing-wifi-a-world-without-usb-linux-in-nes-in-animal-crossing/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "Hackaday Podcast"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tom Nardi"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg"
+      },
+      "published": "2025-02-21T17:00:50Z"
+    }
+  },
+  {
+    "hash": "98e166c1bb644b1f8fd13c45caf94d5f9bd9671bc42db9360718c808f8120251",
+    "item": {
+      "title": "Building a One Wheel With Tracks",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"759588\" data-permalink=\"https://hackaday.com/2025/02/21/building-a-one-wheel-with-tracks/i-put-tracks-on-a-onewheel-will-it-work_-6-56-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"I Put Tracks on a OneWheel.. Will it Work_ 6-56 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png?w=800\" /\u003e\u003c/div\u003eOne-wheels use motion-tracking hardware and fine motor control to let you balance on a single wheel. That\u0026#8217;s neat and all, but [Michael Rechtin] had another idea in mind—what if a \u003ca href=\"https://hackaday.com/2025/02/21/building-a-one-wheel-with-tracks/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/21/building-a-one-wheel-with-tracks/"
+      ],
+      "categories": [
+        "Transportation Hacks",
+        "one wheel",
+        "onewheel",
+        "track",
+        "tracked vehicle",
+        "tracks"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/I-Put-Tracks-on-a-OneWheel.-Will-it-Work_-6-56-screenshot.png"
+      },
+      "published": "2025-02-21T16:30:21Z"
+    }
+  },
+  {
+    "hash": "86d91f7862422f94edf46096619abd9d10a11a542cc08455c2afc92d3dae8ff0",
+    "item": {
+      "title": "This Week in Security: OpenSSH, JumbledPath, and RANsacked",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg 800w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=400,242 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"188080\" data-permalink=\"https://hackaday.com/2016/01/26/the-dark-arts-meet-the-lulzsec-hackers/darkarts/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg\" data-orig-size=\"800,484\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"DarkArts\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" /\u003e\u003c/div\u003eOpenSSH has a newly fixed pair of vulnerabilities, and while neither of them are lighting the Internet on fire, these are each fairly important. The central observation made by the \u003ca href=\"https://hackaday.com/2025/02/21/this-week-in-security-openssh-jumbledpath-and-ransacked/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/21/this-week-in-security-openssh-jumbledpath-and-ransacked/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "News",
+        "Security Hacks",
+        "JumbledPath",
+        "openssh",
+        "RANsacked",
+        "This Week in Security"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+      },
+      "published": "2025-02-21T15:00:39Z"
+    }
+  },
+  {
+    "hash": "5e57e7439026276cb24d86897f349b35595cfe540e9654d090c95842e176ea90",
+    "item": {
+      "title": "A New 8-bit CPU for C",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/02/fosdem.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/02/fosdem.png 800w, https://hackaday.com/wp-content/uploads/2025/02/fosdem.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/fosdem.png?resize=400,226 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"759627\" data-permalink=\"https://hackaday.com/2025/02/21/a-new-8-bit-cpu-for-c/fosdem-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/02/fosdem.png\" data-orig-size=\"800,451\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"fosdem\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/02/fosdem.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/02/fosdem.png?w=800\" /\u003e\u003c/div\u003eIt is easy to port C compilers to architectures that look like old minicomputers or bigger CPUs. However, as the authors of the Small Device C Compiler (SDCC) found, pushing \u003ca href=\"https://hackaday.com/2025/02/21/a-new-8-bit-cpu-for-c/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/02/21/a-new-8-bit-cpu-for-c/"
+      ],
+      "categories": [
+        "FPGA",
+        "Software Development",
+        "8 bit",
+        "8-bit CPU",
+        "cpu",
+        "SDCC"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/02/fosdem.png"
+      },
+      "published": "2025-02-21T12:00:10Z"
+    }
+  },
+  {
+    "hash": "5c1e3fe154b52f99281bfe5abf3cebb70a8bb138af006fd89a0153476308eda6",
+    "item": {
+      "title": "SWE-Bench tainted by answer leakage; real pass rates significantly lower",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43130732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2410.06992"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T17:59:48Z"
+    }
+  },
+  {
+    "hash": "ff57fbf8354be42bbfbd25f7f783494980bef31f6ecd47f8c830a62872a6499a",
+    "item": {
+      "title": "Removing Jeff Bezos from my bed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43129439\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T16:27:54Z"
+    }
+  },
+  {
+    "hash": "5a00e4a82fac0faa6ac618b8f7f8e9ed141c96eebb2bfa6e975ac49bf0544396",
+    "item": {
+      "title": "Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43131902\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T19:34:37Z"
+    }
+  },
+  {
+    "hash": "d21e2e6bd9688eda45ba4c55971c317e16680885d94211192a9269254cb3210a",
+    "item": {
+      "title": "Richard Feynman's Blackboard at the Time of His Death (1988)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43131017\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://digital.archives.caltech.edu/collections/Images/1.10-29/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T18:22:59Z"
+    }
+  },
+  {
+    "hash": "c4abacc7630a168cddfa60bb39dccbc3bc5b2ac8963098ff9aefb518db516b38",
+    "item": {
+      "title": "The Ren'Py Visual Novel Engine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43132336\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.renpy.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T20:09:32Z"
+    }
+  },
+  {
+    "hash": "4c9dcda7ef8adebb8bcb0f46d253e61479af4a6b2a230b69d0831792e7c9a517",
+    "item": {
+      "title": "Suckless.org: software that sucks less",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43131059\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://suckless.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T18:27:00Z"
+    }
+  },
+  {
+    "hash": "13ca7edfce1fc777717a256b164653e8218834afb0709edfaee9a5c2480f237e",
+    "item": {
+      "title": "Why Ruby on Rails still matters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43130546\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.contraption.co/rails-versus-nextjs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T17:46:15Z"
+    }
+  },
+  {
+    "hash": "6c628a088cf5923c06bf5368c39b8b6e97cd1a66d05c1be881f5a972ca735d76",
+    "item": {
+      "title": "Cot: The Rust web framework for lazy developers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43089646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cot.rs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-18T14:09:52Z"
+    }
+  },
+  {
+    "hash": "1d33f350fb5181e7c428ff953872f0a92103c4fb8d29cd1c8f41ffd007b5304d",
+    "item": {
+      "title": "General Reasoning: Free, open resource for building large reasoning models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43131502\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gr.inc/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T19:01:59Z"
+    }
+  },
+  {
+    "hash": "9c8ff5b635ed11e19a3dfc7b1609a234de93d5bb41298ded1b349989c9f87c7a",
+    "item": {
+      "title": "Slime OS – An open-source app launcher for RP2040 based devices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43132482\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/abeisgoat/slime_os"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T20:22:57Z"
+    }
+  },
+  {
+    "hash": "2a5a7414f3c09424c82ef69aafecc8433db5828801e6f05a940f0858d130a9b7",
+    "item": {
+      "title": "ERPs suck. Generative AI will fix them",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43132656\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://getlumina.substack.com/p/erps-suck-generative-ai-will-fix"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T20:36:12Z"
+    }
+  },
+  {
+    "hash": "27071bf125c83506534942f0aa276cbf7fd2bacc20ab85ae626bee7dee0f1a3e",
+    "item": {
+      "title": "Neo Gamma (Home Humanoid)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43132260\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.1x.tech/neo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T20:02:34Z"
+    }
+  },
+  {
+    "hash": "03f1cca62d8ef69df38b82c9ed373dcdb73c18801592250788c0e2de5c9bc479",
+    "item": {
+      "title": "NASA's James Webb Space Telescope faces potential 20% budget cut",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43131045\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T18:25:16Z"
+    }
+  },
+  {
+    "hash": "87eccd75b3bc85f5a30e26dbf94ad5cca6dac8395d48f81cb219be3d0ca892f6",
+    "item": {
+      "title": "Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43130923\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T18:15:38Z"
+    }
+  },
+  {
+    "hash": "242dd31dab7959a2af9577591f7189ec78fb0a48c27552998b753e741d8553a1",
+    "item": {
+      "title": "The Profitable Startup",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43130480\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://linear.app/blog/the-profitable-startup"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-21T17:41:04Z"
+    }
+  },
+  {
+    "hash": "9684a5ed78fdaaab083c7373b23380849296f1e08a886e64b38eb7e3593414c6",
+    "item": {
+      "title": "System76 Releases COSMIC Alpha 6 Desktop Environment",
+      "description": "System76 engineers remain quite busy working on their Rust-written COSMIC desktop environment to be used by their Pop!_OS operating system as well as other Linux distributions moving forward...",
+      "links": [
+        "https://www.phoronix.com/news/COSMIC-Alpha-6-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-02-21T18:34:03Z"
+    }
   }
 ]
