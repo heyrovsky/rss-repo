@@ -566,5 +566,129 @@
       },
       "published": "2025-02-28T17:00:00Z"
     }
+  },
+  {
+    "hash": "2bff22f0e945536e332647b9dbd555d9d2f9999f23a2ae17520ec75eec81d7fc",
+    "item": {
+      "title": "SpaceX readies a redo of last month’s ill-fated Starship test flight",
+      "description": "The FAA has cleared SpaceX to launch Starship's eighth test flight as soon as Monday.",
+      "links": [
+        "https://arstechnica.com/space/2025/02/spacex-readies-a-redo-of-last-months-ill-fated-starship-test-flight/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "artemis",
+        "Commercial space",
+        "hls",
+        "launch",
+        "NASA",
+        "spacex",
+        "Starbase",
+        "starship",
+        "starship flight 8",
+        "super heavy",
+        "texas"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/ship34_1-1152x648.jpeg"
+      },
+      "published": "2025-03-01T00:53:40Z"
+    }
+  },
+  {
+    "hash": "1843ab4b0ae8c373273ac6cecfc13336e241cfa8baa78b4112af81aacd02cc5b",
+    "item": {
+      "title": "The Housing Theory of Everything",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43214263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://worksinprogress.co/issue/the-housing-theory-of-everything/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-01T00:59:13Z"
+    }
+  },
+  {
+    "hash": "d9ef1b2010cbeb89be03f435ccd605a067d6b28b57477bfb1efea06ce75e630b",
+    "item": {
+      "title": "When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43214576\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-01T01:37:26Z"
+    }
+  },
+  {
+    "hash": "52207a401716f008df07c2df6e89350b671af6907c0456919d382c22a39e83e4",
+    "item": {
+      "title": "Resident Physicians' Exam Scores Tied to Patient Survival",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43173808\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-25T16:18:11Z"
+    }
+  },
+  {
+    "hash": "a56663a020fc627f6765dfe6d524b558248c433d92aa09e0f3c48fbc5981346f",
+    "item": {
+      "title": "Self-Hosting a Firefox Sync Server",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43214294\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.diego.dev/posts/firefox-sync-server/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-01T01:03:48Z"
+    }
+  },
+  {
+    "hash": "fa58cb2a7ae27fd1ad1cb9dfabb6578dfa317923545c50b3c0f0ba6840568ab4",
+    "item": {
+      "title": "The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43204575\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deno.com/blog/the-dino-llama-and-whale"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-28T11:43:22Z"
+    }
+  },
+  {
+    "hash": "b10fbfe7f51e6707fe1b9f7cab7b6fc292848e56a9f32c279de2d36701aeaeec",
+    "item": {
+      "title": "Hot take: GPT 4.5 is a nothing burger",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43203543\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-28T09:24:13Z"
+    }
+  },
+  {
+    "hash": "ae6710c1ffc675ad8fa46f6876d34bda4f32b15de3dd5add79a961f76c863711",
+    "item": {
+      "title": "DeepSeek Develops Linux File-System For Better AI Training \u0026 Inference Performance",
+      "description": "Chinese AI company DeepSeek made public this week 3FS, a Linux FUSE-based file-system intended for allowing better AI training and inference performance...",
+      "links": [
+        "https://www.phoronix.com/news/DeekSeek-3FS-File-System"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-01T01:36:10Z"
+    }
   }
 ]
