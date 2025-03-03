@@ -1769,5 +1769,614 @@
       ],
       "published": "2025-03-03T11:06:04Z"
     }
+  },
+  {
+    "hash": "84f2b19920a3e908d165e31ff353641f26e47b9127dd898ef25fea9a81675de3",
+    "item": {
+      "title": "AI versus the brain and the race for general intelligence",
+      "description": "We already have an example of general intelligence, and it doesn't look like AI.",
+      "links": [
+        "https://arstechnica.com/science/2025/03/ai-versus-the-brain-and-the-race-for-general-intelligence/"
+      ],
+      "categories": [
+        "AI",
+        "Features",
+        "Science",
+        "Biology",
+        "large language models",
+        "learning",
+        "memory",
+        "Neuroscience"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1202271610-1152x648.jpg"
+      },
+      "published": "2025-03-03T12:00:09Z"
+    }
+  },
+  {
+    "hash": "100105cadb9c9c5a91737b9298c56c3a35a4f7cb39de6957e6bf8c21ed4a454d",
+    "item": {
+      "title": "Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint Sites",
+      "description": "Cybersecurity researchers are calling attention to a new phishing campaign that employs the ClickFix technique to deliver an open-source command-and-control (C2) framework called Havoc.\n\"The threat actor hides each malware stage behind a SharePoint site and uses a modified version of Havoc Demon in conjunction with the Microsoft Graph API to obscure C2 communications within trusted, well-known",
+      "links": [
+        "https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9YGOrvQKStIPnKjBBKmZlK_VT2HG504nvl1wHPNAz4x2mhaUBr28QFe4i_fkbtEM5YEYUVjykK8Bn-W-aMXB9GzsxeFI1Npi72S3ihHcmqnfu9QzJ2a46pPNtf8ImEkcs9WrwYx9CNkAH5QzKPwYLKFDPqSoPg6VZdlcHkeMcN06LscXhCyJ5_LQWCQD/s1600/clickfix.png"
+      },
+      "published": "2025-03-03T14:00:00Z"
+    }
+  },
+  {
+    "hash": "925c37cef2cfeb3e2eefe9f7fd1f30e1350f51dd432c1ede06bb933fb3c4f012",
+    "item": {
+      "title": "Hackers Exploit Paragon Partition Manager Driver Vulnerability in Ransomware Attacks",
+      "description": "Threat actors have been exploiting a security vulnerability in Paragon Partition Manager's BioNTdrv.sys driver in ransomware attacks to escalate privileges and execute arbitrary code.\nThe zero-day flaw (CVE-2025-0289) is part of a set of five vulnerabilities that was discovered by Microsoft, according to the CERT Coordination Center (CERT/CC).\n\"These include arbitrary kernel memory mapping and",
+      "links": [
+        "https://thehackernews.com/2025/03/hackers-exploit-paragon-partition.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgncx0aYCeCR_D6Bc5zEcycX3z1pSK3NjrvsYDSV2BSg6YDzXlkIXUMlTyuYtyeiX_PNpQT-hkHalQWI58kKg4m8h0BIupK7fw9if2pRpTA_fnN_rcn2TDYrjvMG_47mADzCbAX6O_yTP6BfULamphOCUdxMUWhZ5bWdiTBL7-YArXcT8cg8W6TPKXFvhw8/s1600/ransomware-malware.png"
+      },
+      "published": "2025-03-03T13:56:00Z"
+    }
+  },
+  {
+    "hash": "4bb1ba1f9ee88f8c2f4fb2ff24691cba32619895741a6052f771d4c1f0c6c504",
+    "item": {
+      "title": "U.K. ICO Investigates TikTok, Reddit, and Imgur Over Children's Data Protection Practices",
+      "description": "The U.K.'s Information Commissioner's Office (ICO) has opened an investigation into online platforms TikTok, Reddit, and Imgur to assess the steps they are taking to protect children between the ages of 13 and 17 in the country.\nTo that end, the watchdog said it's probing how the ByteDance-owned video-sharing service uses the personal data of children in the age range to surface recommendations",
+      "links": [
+        "https://thehackernews.com/2025/03/uk-ico-investigates-tiktok-reddit-and.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIwSLCRNvCEeRMoQrq_ZmHuQDYubOO5YJD69_8Z-mKIzELvneeaaKpPkFPVFecfULN4wF-DdsJCelgzBsA76P9HdwWe25Ga8Fv6vSA2skumS7LEiAsFbKyQcFb7YSAXKA-kgfvGjLLplKHZtVqgssv9HbvW6Z2tDk_nLgY6XioNahunbAfjtNVx-xWa0mk/s1600/tick.jpg"
+      },
+      "published": "2025-03-03T13:56:00Z"
+    }
+  },
+  {
+    "hash": "eaef48adfe250348330ee2b19c483f02f716f43046315021a0b76d479d6c7f8b",
+    "item": {
+      "title": "⚡ THN Weekly Recap: Alerts on Zero-Day Exploits, AI Breaches, and Crypto Heists",
+      "description": "This week, a 23-year-old Serbian activist found themselves at the crossroads of digital danger when a sneaky zero-day exploit turned their Android device into a target. Meanwhile, Microsoft pulled back the curtain on a scheme where cybercriminals used AI tools for harmful pranks, and a massive trove of live secrets was discovered, reminding us that even the tools we rely on can hide risky",
+      "links": [
+        "https://thehackernews.com/2025/03/thn-weekly-recap-alerts-on-zero-day.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-h7cOWC5cPv3U60-zRO3Oh1TaNxfyI0-vhyJQhyphenhyphenhBzk6Suxsi70x8iNKByuwWIShWrq1SvSVmIyxofQsQKJwXPRg5bnFOrMxKYG4rlQqAjYvXhi6F6glSIGOG1lL8BewD68qSOyyxu70ehTAJIr2BRbvn2IzNKzsMbcUjEmF-8LlTIawSWADVcy6d1Jw/s1600/recap.png"
+      },
+      "published": "2025-03-03T11:58:00Z"
+    }
+  },
+  {
+    "hash": "cda16940c6c0d4f75d0c055d12a4cedefea80cc5260a14681c116ad2f54a1efe",
+    "item": {
+      "title": "DavosWeb3 Roundtable 2025 Concludes by Accelerating the Global Web3 Movement",
+      "description": "\u003cp\u003eDavosWeb3 Roundtable successfully concluded its inaugural gathering in Davos. One hundred brightest minds in Web3 converged to shape the future of decentralized technologies.This event acted as a launchpad for visionary collaborations, insights, and tangible commitments toward building a more inclusive and innovative global ecosystem.Historic Gathering From seasoned blockchain pioneers to emerging Web3 entrepreneurs, delegates engaged [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/davosweb3-roundtable-2025/\"\u003eDavosWeb3 Roundtable 2025 Concludes by Accelerating the Global Web3 Movement\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/davosweb3-roundtable-2025/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/28122919/1740745759-image2.jpg"
+      },
+      "published": "2025-03-03T12:59:11Z"
+    }
+  },
+  {
+    "hash": "a9ecc8d22d8e19789583009cbc752c705100f4bdc6071b3576f22ec10550fac5",
+    "item": {
+      "title": "Ex-Bank of England Economist Says Digital Pound is a ‘White Elephant,ʼ Costly and Useless",
+      "description": "\u003cp\u003eThe Bank of England's digital pound project faces criticism from former economist Neil Record, who labels it a costly \"white elephant\" lacking public demand and potentially threatening privacy, despite £24 million already spent on development.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ex-bank-of-england-economist-criticized-digital-pound-as-white-elephant-costly-and-useless/\"\u003eEx-Bank of England Economist Says Digital Pound is a ‘White Elephant,ʼ Costly and Useless\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ex-bank-of-england-economist-criticized-digital-pound-as-white-elephant-costly-and-useless/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bank of England",
+        "Digital Pound",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/03114907/1741002547-image-1741002335540_optimized.jpg"
+      },
+      "published": "2025-03-03T12:47:41Z"
+    }
+  },
+  {
+    "hash": "dd7fc01ea515c4cea11d17d0dbf4b43782fe2b6cd72fdd40db225233592b9ced",
+    "item": {
+      "title": "The Ethereum Foundation Restructures Leadership With New Co-Executive Directors",
+      "description": "\u003cp\u003eThe Ethereum Foundation has made two new additions to its executive roster: Hsiao-Wei Wang and Tomasz Stańczak are new co-Executive Directors.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/the-ethereum-foundation-restructures-its-leadership-with-new-co-executive-directors/\"\u003eThe Ethereum Foundation Restructures Leadership With New Co-Executive Directors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/the-ethereum-foundation-restructures-its-leadership-with-new-co-executive-directors/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Ethereum",
+        "Ethereum Foundation",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/03120655/1741003614-ethereum-foundation-ethereum-aya-miyaguchi-hsiao-wei-wang-tomasz-stanczak.jpg"
+      },
+      "published": "2025-03-03T12:39:18Z"
+    }
+  },
+  {
+    "hash": "aea71ef073eefce0015a2237d9d191181ca648d5009b5c2e81ecfcae0876d7e5",
+    "item": {
+      "title": "Bitcoin Price Surges Nearly 10% to $95K as Trump’s Crypto Policies Boost Market Confidence",
+      "description": "\u003cp\u003eBitcoin price jumps 10% to $95K after Trump announces a Strategic Crypto Reserve, fueling market optimism. Will BTC hold gains or face resistance?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-surges-nearly-10-to-95k-as-trumps-crypto-policies-boost-market-confidence/\"\u003eBitcoin Price Surges Nearly 10% to $95K as Trump’s Crypto Policies Boost Market Confidence\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-surges-nearly-10-to-95k-as-trumps-crypto-policies-boost-market-confidence/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/14124115/1728886569-image-30-1.jpg"
+      },
+      "published": "2025-03-03T08:46:38Z"
+    }
+  },
+  {
+    "hash": "ab37cd56acf667a1db9d67b42a8a6fa69aa2005d3687d38093d7cd89f167216b",
+    "item": {
+      "title": "[$] Guard pages for file-backed memory",
+      "description": "One of the many new features packed into the 6.13 kernel release was guard\npages, a hardening mechanism that makes it possible to inject zero-access\npages into a process's address space in an efficient way.  That feature\nonly supports anonymous (user-space data) pages, though.  To make guard\npages more widely useful, Lorenzo Stoakes has put together \u003ca\nhref=\"https://lwn.net/ml/all/cover.1739469950.git.lorenzo.stoakes@oracle.com\"\u003ea patch\nset\u003c/a\u003e enabling the feature for file-backed pages as well; in the process,\nhe examined and resolved a long list of potential problems that extending\nthe feature could encounter.  One potential problem was not on his list,\nthough.",
+      "links": [
+        "https://lwn.net/Articles/1011366/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-03-03T15:00:22Z"
+    }
+  },
+  {
+    "hash": "625e8875de164f613fe7fd0e09b20c57dfb7d01715c954c398654009465f9a9e",
+    "item": {
+      "title": "Security updates for Monday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (ffmpeg, kernel, linux-6.1, mariadb-10.5, proftpd-dfsg, and xorg-server), \u003cb\u003eFedora\u003c/b\u003e (chromium, cutter-re, iniparser, nodejs22, rizin, webkitgtk, wireshark, xen, and xorg-x11-server), \u003cb\u003eMageia\u003c/b\u003e (binutils and ffmpeg), \u003cb\u003eOracle\u003c/b\u003e (emacs and kernel), \u003cb\u003eRed Hat\u003c/b\u003e (emacs and webkit2gtk3), \u003cb\u003eSUSE\u003c/b\u003e (azure-cli, bsdtar, gnutls, govulncheck-vulndb, libX11, libxkbfile, libxml2, nodejs-electron, openssh8.4, ovmf, phpMyAdmin, python, python-azure-identity, python311-jupyter-server, tiff, trivy, u-boot, and wireshark), and \u003cb\u003eUbuntu\u003c/b\u003e (opennds and Ruby SAML).",
+      "links": [
+        "https://lwn.net/Articles/1012760/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-03-03T14:28:23Z"
+    }
+  },
+  {
+    "hash": "a2a959e24cc4b9656fb71a8441da0130190262668e0aec232b3baa9e975a4274",
+    "item": {
+      "title": "Dogwifhat (WIF) Price Analysis: Can the Memecoin Rally Continue?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/dogwifhat-price-analysis-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogwifhat (WIF) Price Analysis: Can the Memecoin Rally Continue?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/dogwifhat-price-analysis-3.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/dogwifhat-price-analysis-3-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/dogwifhat-price-analysis-3-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDogwifhat (WIF) has seen a significant surge in the past 24 hours, climbing 25% to trade at $0.775. The memecoin has gained 22.15% over the past week, with its market capitalization now at $775.2 million and a 24-hour trading volume of $875.4 million. The memecoin listed among top gainers yesterday",
+      "links": [
+        "https://thenewscrypto.com/dogwifhat-wif-price-analysis-can-the-memecoin-rally-continue/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Crypto",
+        "Dogwifhat",
+        "memecoin",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/dogwifhat-price-analysis-3.jpg"
+      },
+      "published": "2025-03-03T10:53:14Z"
+    }
+  },
+  {
+    "hash": "ee0941ce4d492c0ae72011f8725f385ee942dfc2feb4246ce3e0f1ab0cf0b5b4",
+    "item": {
+      "title": "Bitcoin Reaches $95K as Trump Announces Crypto Reserve Plan",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Crypto-market-gains-300B-amid-Trump-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Reaches $95K as Trump Announces Crypto Reserve Plan\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Crypto-market-gains-300B-amid-Trump-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Crypto-market-gains-300B-amid-Trump-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Crypto-market-gains-300B-amid-Trump-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBitcoin surged to $95,043 on March 3 after U.S. President Donald Trump revealed plans for a strategic crypto reserve. The announcement fueled strong buying, pushing BTC up 8% during an unusual weekend rally. Currently, Bitcoin is trading at $91,821.69, reflecting a 6.97% gain in the past 24 hours. The total",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-reaches-95k-as-trump-announces-crypto-reserve-plan/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "DonaldTrump",
+        "Solana",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Crypto-market-gains-300B-amid-Trump-1.jpg"
+      },
+      "published": "2025-03-03T10:38:56Z"
+    }
+  },
+  {
+    "hash": "22c9fa76adb6e6bd2de6facb3de469acbb07389deb3d7f4bb4684374629fcb7f",
+    "item": {
+      "title": "Peter Schiff Questions XRP Inclusion in Trump’s Crypto Reserve",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/WhatsApp-Image-2024-07-29-at-9.35.30-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"peter schiff\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/WhatsApp-Image-2024-07-29-at-9.35.30-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/WhatsApp-Image-2024-07-29-at-9.35.30-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/WhatsApp-Image-2024-07-29-at-9.35.30-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFormer U.S. President Donald Trump\u0026#8217;s recent announcement of a U.S. Strategic Crypto Reserve has been contentious to the cryptocurrency fraternity. Despite the fact that Bitcoin\u0026#8217;s inclusion was not surprising, the inclusion of XRP and other altcoins has not been welcomed, particularly from the vocal critic of Bitcoin, Peter Schiff. Schiff,",
+      "links": [
+        "https://thenewscrypto.com/peter-schiff-questions-xrp-inclusion-in-trumps-crypto-reserve/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Peter Schiff",
+        "TRUMP",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sneha Murali"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/WhatsApp-Image-2024-07-29-at-9.35.30-PM.jpeg"
+      },
+      "published": "2025-03-03T10:36:46Z"
+    }
+  },
+  {
+    "hash": "71e597053903540f9f1377e855cf2f8f6781108620cf342ae01a603d7d30b55c",
+    "item": {
+      "title": "Football Legend Ronaldinho Joins Crypto With STAR10 Token",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Football-Legend-Ronaldinho-Joins-Crypto-With-STAR10-Token.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Football Legend Ronaldinho Joins Crypto With STAR10 Token\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Football-Legend-Ronaldinho-Joins-Crypto-With-STAR10-Token.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Football-Legend-Ronaldinho-Joins-Crypto-With-STAR10-Token-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Football-Legend-Ronaldinho-Joins-Crypto-With-STAR10-Token-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBrazilian footballer Ronaldinho has released his official digital token, STAR10. Developed on the BNB Chain, STAR10 seeks to establish a distinctive connection between football and blockchain technology, providing football fans with access to special challenges, rewards, and events. The total supply of STAR10 is set at 1 billion tokens with",
+      "links": [
+        "https://thenewscrypto.com/football-legend-ronaldinho-joins-crypto-with-star10-token/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "BNB Chain",
+        "Cryptocurrency",
+        "Digital Asset",
+        "football"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Football-Legend-Ronaldinho-Joins-Crypto-With-STAR10-Token.jpg"
+      },
+      "published": "2025-03-03T09:45:31Z"
+    }
+  },
+  {
+    "hash": "9e7859dbcb9c30d0ece7d08470155c13e9069468907dccc4f4f5458a45b6307e",
+    "item": {
+      "title": "XRP Missing Blocks and Its Role in Trump’s Crypto Reserve",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/X.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Missing Blocks and Its Role in Trump\u0026#039;s Crypto Reserve\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/X.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/X-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/X-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEx-President Donald Trump\u0026#8217;s recent headlines on a U.S. Strategic Crypto Reserve have reminded the public about the issues facing XRP, namely the 32,000 missing ledger blocks. It existed since early days of XRP Ledger back in 2012 when the original 32,570 blocks vanished from the public ledger, raising doubts over",
+      "links": [
+        "https://thenewscrypto.com/xrp-missing-blocks-and-its-role-in-trumps-crypto-reserve/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "BLOCKS",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sneha Murali"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/X.jpg"
+      },
+      "published": "2025-03-03T09:40:00Z"
+    }
+  },
+  {
+    "hash": "44e059d418e94e7aa6fad2153db7362d8dd98e40e17846b0b500e6fa461430dd",
+    "item": {
+      "title": "Chainlink (LINK) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chainlink (LINK) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Chainlink (LINK) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of LINK by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Chainlink (LINK) Current Market Status What is Chainlink (LINK)? Chainlink (LINK) 24H Technicals CHAINLINK (LINK) PRICE",
+      "links": [
+        "https://thenewscrypto.com/chainlink-link-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Chainlink Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg"
+      },
+      "published": "2025-03-03T09:18:59Z"
+    }
+  },
+  {
+    "hash": "211d64a33d9a0b483c90746fe677e8f817e8185157b25747e07164a2e053bc06",
+    "item": {
+      "title": "David Sacks Confirms Selling Crypto Holdings Before Trump’s Inauguration",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Gordon_Johnson_Says_Market_Driven_By_Corruption_Over_Trumps_Bitcoin.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"David Sacks Confirms Selling Crypto Holdings Before Trump’s Inauguration\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Gordon_Johnson_Says_Market_Driven_By_Corruption_Over_Trumps_Bitcoin.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Gordon_Johnson_Says_Market_Driven_By_Corruption_Over_Trumps_Bitcoin-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Gordon_Johnson_Says_Market_Driven_By_Corruption_Over_Trumps_Bitcoin-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWhite House Crypto \u0026#38; AI Czar appointed by US President Donald Trump, David Sacks, sold all his crypto holdings before the administration began. Responding to a post citing a Financial Times report, Sacks confirmed that he doesn’t hold any crypto investments. Sacks is one of the key personalities behind crypto",
+      "links": [
+        "https://thenewscrypto.com/david-sacks-confirms-selling-crypto-holdings-before-trumps-inauguration/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "United States"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Gordon_Johnson_Says_Market_Driven_By_Corruption_Over_Trumps_Bitcoin.jpg"
+      },
+      "published": "2025-03-03T08:58:44Z"
+    }
+  },
+  {
+    "hash": "11815915d15aba386d6d52bfbd47a4ce749465472075b3042c8a6b523d87c840",
+    "item": {
+      "title": "Top Crypto Gems to Buy: Qubetics ($TICS) Is a Game-Changer—Can it Reach $10? With Arweave and ICP Driving Web3 Innovation",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-8.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-8.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-8-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-8-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-8-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe crypto market never stands still, and the latest disruptors are making waves. Arweave is changing the way data is stored permanently, while Internet Computer Protocol (ICP) is pioneering a decentralized internet free from corporate control. But the name that’s generating the most excitement? Qubetics ($TICS). Unlike its competitors, Qubetics",
+      "links": [
+        "https://thenewscrypto.com/top-crypto-gems-to-buy-qubetics-tics-is-a-game-changer-can-it-reach-10-with-arweave-and-icp-driving-web3-innovation/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-8.png"
+      },
+      "published": "2025-03-03T08:30:00Z"
+    }
+  },
+  {
+    "hash": "9ca1d3b45f325c7bbb985c26b6509fb2c5f98a1b216ccb6efbbbc60b7bf26a46",
+    "item": {
+      "title": "The Internals of PostgreSQL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241404\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://www.interdb.jp/pg/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T13:14:22Z"
+    }
+  },
+  {
+    "hash": "476d2d0d8b1fea4959492dadbf97cc538a2722b607ff341ee36e188f25349c06",
+    "item": {
+      "title": "Buy Infowars for the Memes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43197193\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/opinion/articles/2025-02-27/buy-infowars-for-the-memes"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-27T18:47:57Z"
+    }
+  },
+  {
+    "hash": "4442c4733d9b72779e7c029d54f19b48c3d0e79c0200b7d1fcb6da4769274e83",
+    "item": {
+      "title": "FlakeUI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43238570\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/tearflake/flake-ui"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T05:29:02Z"
+    }
+  },
+  {
+    "hash": "abf10fec2fc42766fdc9a160b89dc4c7794deaaf35784e40cfcf90fd7ec5721a",
+    "item": {
+      "title": "Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241689\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fintoc.com/codehere"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T13:51:03Z"
+    }
+  },
+  {
+    "hash": "dd16d2e2165caa862a150119b7236fb26c14e3dbc79018e772dd770a2b873b5d",
+    "item": {
+      "title": "The weird afterlife of Xbox Kinect",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241880\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T14:10:44Z"
+    }
+  },
+  {
+    "hash": "2e7598baf13c2b35dad97e96c7b247815d33803fe16a85269a5745ab92666f27",
+    "item": {
+      "title": "Virtual museum of socialist era graphic design in Bulgaria",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43209046\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://socmus.com/en/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-28T18:58:13Z"
+    }
+  },
+  {
+    "hash": "471e719c4bcfd54224865cbedb1b43f9e7c42267b5987b87317dbaf71eabe7e7",
+    "item": {
+      "title": "Amazon’s delivery drones are grounded in College Station, Texas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241212\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wired.com/story/texas-amazon-drones-stop-flying/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T12:44:33Z"
+    }
+  },
+  {
+    "hash": "a0d6ef9c2a11ed7256da76303be56107a182bd59ff525982ba7c522718578ec3",
+    "item": {
+      "title": "AWS Cat Qubits Make Quantum Error Correction Effective, Affordable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43203745\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nextplatform.com/2025/02/27/aws-cat-qubits-make-quantum-error-correction-effective-affordable/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-02-28T09:51:38Z"
+    }
+  },
+  {
+    "hash": "bdc4566a48a6d879248b2e98cf2525b26f0693560432a9b02c8b4f399f5f676b",
+    "item": {
+      "title": "AMD Broadcast TLB Invalidation \"INVLPGB\" Support Appears Ready For The Linux Kernel",
+      "description": "Back in December Linux kernel patches were posted by a Meta engineer for making use of the AMD INVLPGB instruction found with Zen 3 and newer processors. The Linux kernel would use INVLPGB for invalidating TLB entries for a range of pages with broadcast. After these patches went through 14 rounds of review since December, it looks like this AMD broadcast TLB invalidation support is now ready for the mainline Linux kernel!..",
+      "links": [
+        "https://www.phoronix.com/news/AMD-INVLPGB-Ready-For-Linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-03T15:00:00Z"
+    }
+  },
+  {
+    "hash": "3bea76b9a41008a037d27c896470308bff77ffb6aa468acaf56907c7c2418774",
+    "item": {
+      "title": "Raspberry Pi CM4 Now Available With \"Extended Temperature\" Variants",
+      "description": "Raspberry Pi has been on a spree lately with many new product launches such as the Raspberry Pi 500, Raspberry Pi Monitor, Raspberry Pi 5 16GB, and Compute Module 5 in the past few months. Today the company announced an expansion of their offerings in the Compute Module 4 line-up...",
+      "links": [
+        "https://www.phoronix.com/news/Raspberry-Pi-CM4-Extended-Temp"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-03T13:45:26Z"
+    }
+  },
+  {
+    "hash": "196147b1f64ea95b03544c422324ff955da52eea411b1826c07bdbad192f1d8a",
+    "item": {
+      "title": "Rustup 1.28 Adds New Windows AArch64 \u0026 LoongArch Platform Support",
+      "description": "Rustup 1.28 is out today as the newest version of this official tool that is the Rust project's recommended means of installing the Rust programming language support...",
+      "links": [
+        "https://www.phoronix.com/news/Rustup-1.28-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-03T13:32:12Z"
+    }
   }
 ]
