@@ -1,0 +1,450 @@
+[
+  {
+    "hash": "340976f6a2c43631bfe8fea8a4bff59d6279db309160301312c3a49ad04012a6",
+    "item": {
+      "title": "Will the future of software development run on vibes?",
+      "description": "Accepting AI-written code without understanding how it works is growing in popularity.",
+      "links": [
+        "https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "Tech",
+        "coding",
+        "machine learning",
+        "vibe coding",
+        "vibecoding"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/vibe_coding_1-1152x648.jpg"
+      },
+      "published": "2025-03-05T23:41:59Z"
+    }
+  },
+  {
+    "hash": "9cb946199252b890df1981ea8e99ecc8bd93de8274d83611034db8fda8bb3306",
+    "item": {
+      "title": "You knew it was coming: Google begins testing AI-only search results",
+      "description": "AI Mode could be the future of Google, but it's currently just an experiment.",
+      "links": [
+        "https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "ai mode",
+        "google ai overviews",
+        "LLM"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Google-AI-Mode-1152x648-1741206693.jpg"
+      },
+      "published": "2025-03-05T21:04:24Z"
+    }
+  },
+  {
+    "hash": "778bb3874281d8d1a0fa1e1107c60a990c3bacb735112193c82bae41d6a1e81c",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for March 6, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1012147/\"\u003eFront\u003c/a\u003e: Firefox forks; Bend and Vine; FineIBT; Guard pages; Fedora's Flatpak packaging; Zotero.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1012149/\"\u003eBriefs\u003c/a\u003e: LFS 12.3; FerretDB 2.0; Firefox; Fish 4.0; Incus 6.10; Thunderbird 136.0; Xen 4.20; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1012150/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1012147/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-03-06T00:15:30Z"
+    }
+  },
+  {
+    "hash": "0535f68a15820d27ba14afddf6452f20735db0f5353c9b1b7b51bc3fddcf78c2",
+    "item": {
+      "title": "Zen and the Art of Microcode Hacking (Google Bug Hunters)",
+      "description": "The Google Bug Hunters blog has \u003ca\nhref=\"https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking\"\u003ea\ndetailed description\u003c/a\u003e of how a vulnerability in AMD's microcode-patching\nfunctionality was discovered and exploited; the authors have also released\na set of tools to assist with this kind of research in the future.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tSecure hash functions are designed in such a way that there is no\n\tsecret key, and there is no way to use knowledge of the\n\tintermediate state in order to generate a collision. However, CMAC\n\twas not designed as a hash function, and therefore it is a weak\n\thash function against an adversary who has the key. Remember that\n\tevery AMD Zen CPU has to have the same AES-CMAC key in order to\n\tsuccessfully calculate the hash of the AMD public key and the\n\tmicrocode patch contents. Therefore, the key only needs to be\n\trevealed from a single CPU in order to compromise all other CPUs\n\tusing the same key. This opens up the potential for hardware\n\tattacks (e.g., reading the key from ROM with a scanning electron\n\tmicroscope), side-channel attacks (e.g., using Correlation Power\n\tAnalysis to leak the key during validation), or other software or\n\thardware attacks that can somehow reveal the key. In summary, it is\n\ta safe assumption that such a key will not remain secret forever.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1013136/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-03-05T22:10:45Z"
+    }
+  },
+  {
+    "hash": "595f59ff838c6c627ff4c9973a70f8f51fa4cc62cb3afa08ca3ca20a60785f6c",
+    "item": {
+      "title": "Bitwise Files S-1 Registration for Aptos ETF",
+      "description": "\u003cp\u003eBitwise Asset Management filed an S-1 registration statement on Wednesday with the U.S. Securities and Exchange Commission (SEC) to launch the Bitwise Aptos ETF. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitwise-files-s-1-registration-for-aptos-etf/\"\u003eBitwise Files S-1 Registration for Aptos ETF\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitwise-files-s-1-registration-for-aptos-etf/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "aptos",
+        "Bitwise",
+        "ETFs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/05220632/1741212392-0_3_optimized.jpg"
+      },
+      "published": "2025-03-05T22:14:04Z"
+    }
+  },
+  {
+    "hash": "6ae77f6aec0552977a9ca706fb852687a5304240f87cf29728c4ca1667fd25db",
+    "item": {
+      "title": "Cardano Price Prediction: Can ADA Exceed Expectations and Reach $3, or Is BlockDAG the Smarter Investment in 2025?",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-47.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-47.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-47-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-47-376x212.jpg 376w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eMany cryptocurrencies have struggled in 2025, with volatile price swings wiping out billions in value. However, a handful of promising projects continue to stand out, proving their resilience with strong fundamentals and real-world applications. Cardano (ADA) has been one of the most talked-about assets this year, gaining traction among whales",
+      "links": [
+        "https://thenewscrypto.com/cardano-price-prediction-can-ada-exceed-expectations-and-reach-3-or-is-blockdag-the-smarter-investment-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-47.jpg"
+      },
+      "published": "2025-03-05T20:00:00Z"
+    }
+  },
+  {
+    "hash": "229edb85722129103d375c83bc1b829e43446235064654a49ffbaa0e33594d5d",
+    "item": {
+      "title": "Missed Dogecoin? This Token Is Ready To Surpass DOGE in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-40.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-40.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-40-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-40-376x212.jpg 376w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eDogecoin had its day in the sun, turning a meme into a crypto sensation that left early buyers grinning all the way to the bank. For those who missed that wild ride, the sting of “what if” still stays. Lately, experts are spreading word about a new contender: BinoFi, a",
+      "links": [
+        "https://thenewscrypto.com/missed-dogecoin-this-token-is-ready-to-surpass-doge-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "BinoFi"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-40.jpg"
+      },
+      "published": "2025-03-05T20:00:00Z"
+    }
+  },
+  {
+    "hash": "26237f0ade6d02c294d0ac7b822506baeae3e9a7f4d7ee5f8989ed1f1169971c",
+    "item": {
+      "title": "Monthly Market Insights Report by Binance Research Highlights Key Trends and Developments",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Binance-plans-to-have1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Research Monthly Report of March Highlights Key Trends and Developments\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Binance-plans-to-have1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/08/Binance-plans-to-have1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/08/Binance-plans-to-have1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe cryptocurrency market witnessed a turbulent February 2025, marked by significant declines, major security breaches, and shifting investor sentiment. Amid global economic uncertainties and escalating trade tensions, digital asset markets experienced increased volatility, leading to a widespread decline in asset values. However, certain sectors, such as stablecoins and real-world assets",
+      "links": [
+        "https://thenewscrypto.com/monthly-market-insights-report-by-binance-research-highlights-key-trends-and-developments/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/08/Binance-plans-to-have1.jpg"
+      },
+      "published": "2025-03-05T19:13:38Z"
+    }
+  },
+  {
+    "hash": "e858d5a0df20c7f56ca3600432ec236f9cd42d4a37755a6fcd72d62b3341b106",
+    "item": {
+      "title": "Binance Celebrates IWD 2025 with Global Events Empowering Women in Crypto",
+      "description": "\u003cp\u003e\u003cimg width=\"1380\" height=\"776\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Celebrates IWD 2025 with Global Events Empowering Women in Crypto\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13.png 1380w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13-376x212.png 376w\" sizes=\"auto, (max-width: 1380px) 100vw, 1380px\" /\u003e\u003c/p\u003eIn honor of International Women\u0026#8217;s Day (IWD) 2025, Binance, the global blockchain ecosystem that powers the biggest cryptocurrency exchange in the world in terms of trading volume and registered users, is hosting a number of events aimed at encouraging financial empowerment and attracting more women to the cryptocurrency industry. These",
+      "links": [
+        "https://thenewscrypto.com/binance-celebrates-iwd-2025-with-global-events-empowering-women-in-crypto/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-13.png"
+      },
+      "published": "2025-03-05T18:56:45Z"
+    }
+  },
+  {
+    "hash": "41ba620fe1cd8a1c3dbe3ca17c43a4e2fec19a9bc41e8329fd79f07e235e2cae",
+    "item": {
+      "title": "XRP Bulls Accumulate as Whales Pile In, Holding Above Key Support",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-Price-Rallies-30-While-XRPTurbos-AI-Launchpad.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Rallies 30% While XRPTurbo’s AI Launchpad Rockets To 70% Presale Filled—Will This Be The Next DeFi Breakthrough On Ripple?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-Price-Rallies-30-While-XRPTurbos-AI-Launchpad.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-Price-Rallies-30-While-XRPTurbos-AI-Launchpad-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-Price-Rallies-30-While-XRPTurbos-AI-Launchpad-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eRecent activity on the XRP Ledger shows that whale investors have been quietly accumulating large amounts of XRP, potentially setting the stage for a significant price boost. Over the past week, whale addresses holding between 100 million and 1 billion coins added a total of 1.34 billion XRP valued at",
+      "links": [
+        "https://thenewscrypto.com/xrp-bulls-accumulate-as-whales-pile-in-holding-above-key-support/"
+      ],
+      "categories": [
+        "News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-Price-Rallies-30-While-XRPTurbos-AI-Launchpad.jpg"
+      },
+      "published": "2025-03-05T18:30:00Z"
+    }
+  },
+  {
+    "hash": "5d5ba13edd5b15d08887444cb7c8b1245ff221ef003ec31a1cbbe6cd920a8f44",
+    "item": {
+      "title": "Chainlink Eyes Breakout: Can the Demand Zone Propel LINK Beyond $20?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/link.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Chainlink (LINK) Eye the $30 Mark After Surging Over 12%?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/link.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/link-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/link-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eChainlink (LINK) has shown signs of recovery amid a volatile trading session, bouncing off a 24-hour low of $13.07 and closing the day with a rise to $14.862. With the broader crypto market witnessing a minor recovery, LINK has returned to a key demand zone around $14, prompting traders to",
+      "links": [
+        "https://thenewscrypto.com/chainlink-eyes-breakout-can-the-demand-zone-propel-link-beyond-20/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Chainlink",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/link.jpg"
+      },
+      "published": "2025-03-05T17:30:00Z"
+    }
+  },
+  {
+    "hash": "4d0f1b3c6c6a3b143f56cfb0685b050ba5260cfa267b6bdd47da46718a5161f4",
+    "item": {
+      "title": "Best Crypto Investment: Qubetics’ IDE Opens Blockchain to All, XRP Faces SEC Appeal, and Bitcoin’s U.S. Reserve Potential Sparks Debate",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-27.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-27.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-27-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-27-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-27-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eEver wondered which crypto project will dominate the market next? While Bitcoin continues making headlines as a potential U.S. crypto reserve, XRP is caught in the crossfire of regulatory battles that could determine its future. Meanwhile, Qubetics is shaking up the industry by making blockchain development more accessible through its",
+      "links": [
+        "https://thenewscrypto.com/best-crypto-investment-qubetics-ide-opens-blockchain-to-all-xrp-faces-sec-appeal-and-bitcoins-u-s-reserve-potential-sparks-debate/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-27.png"
+      },
+      "published": "2025-03-05T17:15:00Z"
+    }
+  },
+  {
+    "hash": "25d376530baa573e47f01b5b48e9065e8eefb02d9e73e354f7490d7252badf67",
+    "item": {
+      "title": "Institutional FOMO Kicks In—BlockDAG’s Path to $600M Is Almost Sealed",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-45.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-45.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-45-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-45-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe crypto world moves fast, but BlockDAG is moving faster. With over $200 million raised, 18.7 billion BDAG coins sold, and a price of $0.0248 in batch 27, this isn’t just another presale—it’s shaping up to be one of the biggest success stories in blockchain. And the momentum is only",
+      "links": [
+        "https://thenewscrypto.com/institutional-fomo-kicks-in-blockdags-path-to-600m-is-almost-sealed/"
+      ],
+      "categories": [
+        "Press Release",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-45.jpg"
+      },
+      "published": "2025-03-05T17:00:00Z"
+    }
+  },
+  {
+    "hash": "6052b31920457d52856a7f062dc9b76e94f2dc8446c3190097eccb07170ba234",
+    "item": {
+      "title": "Tailscale is pretty useful",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43270835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.6nok.org/tailscale-is-pretty-useful/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-05T19:09:19Z"
+    }
+  },
+  {
+    "hash": "600470e393ea2f1a1c8bf190c83f028dfb8940ab49063f593f2f44bab47b975d",
+    "item": {
+      "title": "Git without a forge",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43272275\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-05T20:56:25Z"
+    }
+  },
+  {
+    "hash": "53352fd39e5471a628be3dbee9eba2133eccc4cffd9379c41b4214430bcecde8",
+    "item": {
+      "title": "Solving First Order Differential Equations with Julia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43245172\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T18:41:37Z"
+    }
+  },
+  {
+    "hash": "104a4a8afd67d54757f99d183820ab74f37dfebe0fba26c0a2788baea63deb86",
+    "item": {
+      "title": "Zentool – AMD Zen Microcode Manipulation Utility",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43272463\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-05T21:10:35Z"
+    }
+  },
+  {
+    "hash": "e482bcdc72800161ea8ef66b27672ec2ea01661ee03fec7eab55a57d12ac3b46",
+    "item": {
+      "title": "In Severance, Office Perks Couldn't Be More Sinister",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43251416\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theoffcut.substack.com/p/severance-office-perks-sinister"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-04T07:25:02Z"
+    }
+  },
+  {
+    "hash": "f3b0252fd2e50074aa7308bc44d630e5076a40500ada9181a45b4152f2673d37",
+    "item": {
+      "title": "Show HN: Leaflet.pub – a web app for creating and sharing rich documents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43269928\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43269928"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-05T17:55:29Z"
+    }
+  },
+  {
+    "hash": "e699ad94045da8622a63e858eaab45fcfbcc6bc440aa7d717c9939c01b93995e",
+    "item": {
+      "title": "Math Academy pulled me out of the Valley of Despair",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241499\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T13:27:07Z"
+    }
+  },
+  {
+    "hash": "69cf00fa755ae7171fd629dc4a9d32ac2b69d8a8588cd73be312becb36ac065c",
+    "item": {
+      "title": "Superintelligence Strategy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43272607\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nationalsecurity.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-05T21:19:37Z"
+    }
+  },
+  {
+    "hash": "b45c09d91d175cdbab964d5e19c51b546f3d34c6b2c2de57da8b7d6b7a4a28f2",
+    "item": {
+      "title": "Wake up Neo: An ancient painting competition, and The Matrix",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43240821\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://keithamcgowan.blogspot.com/2025/03/wake-up-neothe-matrix-ai-and-ancient.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T11:45:49Z"
+    }
+  },
+  {
+    "hash": "2cd50bbcb7090bf651861631cd459f05acd6fd63f9d929f6392c2477bfdb1ac7",
+    "item": {
+      "title": "Intel the CPU Company",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43270464\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.abortretry.fail/p/intel-the-cpu-company"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-05T18:38:05Z"
+    }
+  },
+  {
+    "hash": "eff880df0752e6cf92806a1cac9e697b94b571ba3abb7d155399ccc544112a08",
+    "item": {
+      "title": "AMD Announces \"Instella\" Fully Open-Source 3B Language Models",
+      "description": "Another announcement at AMD today beyond the open-source Linux driver fun for the Radeon RX 9070 series is announcing the open-sourcing of Instella as their new fully open 3B parameter language models...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Intella-Open-Source-LM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-06T00:13:36Z"
+    }
+  }
+]
