@@ -2810,5 +2810,1014 @@
       "source": "Hacker News",
       "published": "2025-03-05T19:34:23Z"
     }
+  },
+  {
+    "hash": "de673681960badd02e37d4eefd4f18285933b2b27b195f1ddfb90b657382ee9e",
+    "item": {
+      "title": "Bad vibes? Google may have screwed up haptics in the new Pixel Drop update",
+      "description": "Google didn't mention any changes to haptics prior to the Pixel Drop.",
+      "links": [
+        "https://arstechnica.com/google/2025/03/bad-vibes-google-may-have-screwed-up-haptics-in-the-new-pixel-drop-update/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "google",
+        "Google Pixel",
+        "haptics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Pixel-9-vibes-1-2-1152x648.jpg"
+      },
+      "published": "2025-03-07T17:41:31Z"
+    }
+  },
+  {
+    "hash": "53a05a65d333748431b35ae7810658c5265c1c6728fd44a5ef180095f29af231",
+    "item": {
+      "title": "AMD says top-tier Ryzen 9900X3D and 9950X3D CPUs arrive March 12 for $599 and $699",
+      "description": "Inflated pricing for the 9800X3D might make these more appealing to some buyers.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/03/amd-says-top-tier-ryzen-9900x3d-and-9950x3d-cpus-arrive-march-12-for-599-and-699/"
+      ],
+      "categories": [
+        "Gaming",
+        "Tech",
+        "AMD",
+        "Ryzen",
+        "Ryzen 9800X3D",
+        "Ryzen 9900x3d",
+        "Ryzen 9950x3d",
+        "zen 5"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/9000x3d-1152x648.jpeg"
+      },
+      "published": "2025-03-07T17:27:48Z"
+    }
+  },
+  {
+    "hash": "c2cc8d60fd3fb982f1ec505510ace8b2760aab509227d5708b8b0734775805ec",
+    "item": {
+      "title": "After less than a day, the Athena lander is dead on the Moon",
+      "description": "\"The mission has concluded and teams are continuing to assess the data collected.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/03/after-less-than-a-day-the-athena-lander-is-dead-on-the-moon/"
+      ],
+      "categories": [
+        "Space",
+        "intuitive machines",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Im-2-landing-895x648.jpg"
+      },
+      "published": "2025-03-07T16:01:22Z"
+    }
+  },
+  {
+    "hash": "4bfdb6c4d205635a1d9adc9b2ce46962a5ee3760e8b94e5182f2245a14b1e8c2",
+    "item": {
+      "title": "Trump says bitcoin reserve will change everything. Crypto fans aren’t so sure.",
+      "description": "Trump orders federal agencies to pool seized bitcoins in reserve.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/03/crypto-fans-underwhelmed-by-symbolic-trump-order-creating-us-bitcoin-reserve/"
+      ],
+      "categories": [
+        "Policy",
+        "bitcoin",
+        "bitcoin reserve",
+        "cryptocurrency",
+        "digital assets",
+        "Donald Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-1195940447-1152x648.jpg"
+      },
+      "published": "2025-03-07T15:48:25Z"
+    }
+  },
+  {
+    "hash": "d4922b64b07a9087dcc10010d27cec6de5996db1fbb16e0f1ba4d3c3802e0948",
+    "item": {
+      "title": "Maserati kills electric version of MC20 supercar for lack of demand",
+      "description": "Buyers are increasingly turned off by electrification when it comes to supercars.",
+      "links": [
+        "https://arstechnica.com/cars/2025/03/maserati-kills-electric-version-of-mc20-supercar-for-lack-of-demand/"
+      ],
+      "categories": [
+        "Cars",
+        "Maserati MC20"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Medium-16857-MaseratiMC20-1152x648.jpg"
+      },
+      "published": "2025-03-07T15:08:51Z"
+    }
+  },
+  {
+    "hash": "8dad85b746a8a4308928852257fb4785eba22722e27617865908b2a8e67bd85b",
+    "item": {
+      "title": "[$] Hash-based module integrity checking",
+      "description": "\u003cp\u003e\nOn January 20, Thomas Weißschuh shared a new\n\u003ca href=\"https://lwn.net/ml/all/20250120-module-hashes-v2-0-ba1184e27b7f@weissschuh.net/\"\u003e\npatch set\u003c/a\u003e implementing an alternate method for checking the integrity of\nloadable kernel modules. This mechanism, which checks module integrity based\non hashes computed at build time instead of using cryptographic signatures,\ncould enable reproducible kernel builds in more contexts. Several distributions\nhave already expressed interest in the patch set if Weißschuh can get it\ninto the kernel.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1012946/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-03-07T15:44:04Z"
+    }
+  },
+  {
+    "hash": "d1ce3c56bc272915f0e7e34cfa0491ef4c5f3736237360d3fd2efbefd7c696c0",
+    "item": {
+      "title": "FIN7, FIN8, and Others Use Ragnar Loader for Persistent Access and Ransomware Operations",
+      "description": "Threat hunters have shed light on a \"sophisticated and evolving malware toolkit\" called Ragnar Loader that's used by various cybercrime and ransomware groups like Ragnar Locker (aka Monstrous Mantis), FIN7, FIN8, and Ruthless Mantis (ex-REvil).\n\"Ragnar Loader plays a key role in keeping access to compromised systems, helping attackers stay in networks for long-term operations,\" Swiss",
+      "links": [
+        "https://thehackernews.com/2025/03/fin7-fin8-and-others-use-ragnar-loader.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbA2CTGheYdWSDdIZkNtJ9w-iK_78Px1nMOshis8fQEHjQArrB6CZPhtwWRyDRK-u9KCnS9KYg2d8BHvX3MVUcxPRyq_L6lgDUfoWpToLyfRttUE2IKyyNtPupjEzFJuDsW0Ed4K8ybvHcp0D8fM01Fn5n1BVIb9SWfWDsZEN6KCc4mt9Gf4Yk5lKv6Kqh/s1600/malware-ransomware-loader.png"
+      },
+      "published": "2025-03-07T14:15:00Z"
+    }
+  },
+  {
+    "hash": "4f75046fde9a039f38046089bab832ec72220fe95d0de78a92cfec08cf2cf32d",
+    "item": {
+      "title": "Is Solana (SOL) Losing Its Grip After Plunging Below $145?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is Solana (SOL) Losing Its Grip After Plunging Below $145?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThough US President Donald Trump signed an executive order to create a Strategic Bitcoin Reserve, BTC retraced back to its low. The action was supposed to improve the market sentiment but failed as the government would not acquire new Bitcoin. Anatoly Yakovenko, the Solana co-founder has expressed skepticism over the",
+      "links": [
+        "https://thenewscrypto.com/is-solana-sol-losing-its-grip-after-plunging-below-145/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Can-Solana-SOL-Eye-the-Next-Target-After-Record-Highs-1.jpg"
+      },
+      "published": "2025-03-07T13:30:05Z"
+    }
+  },
+  {
+    "hash": "210bc590f68e8a56619e7fd427b46a422b1d56c85f78200defb33da6476ace99",
+    "item": {
+      "title": "This Token at $0.006 Will Reach $3 by the End of 2025, While Ripple (XRP) Could Top Out at $8.50",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-5-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"This Token at $0.006 Will Reach $3 by the End of 2025, While Ripple (XRP) Could Top Out at $8.50\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-5-2.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-5-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-5-2-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAs the crypto market gears up for its next explosive cycle, investors are carefully analyzing which assets have the highest growth potential. While Ripple (XRP) remains a top contender with a projected high of $8.50, a new blockchain project is capturing investor attention—Lightchain AI (LCAI). Currently priced at just $0.006,",
+      "links": [
+        "https://thenewscrypto.com/this-token-at-0-006-will-reach-3-by-the-end-of-2025-while-ripple-xrp-could-top-out-at-8-50/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Lightchain",
+        "Ripple (XRP)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-5-2.jpg"
+      },
+      "published": "2025-03-07T13:30:00Z"
+    }
+  },
+  {
+    "hash": "c66d338e577c3bc462e13e941c22f51ca18331d684d447c0f903891d848f531f",
+    "item": {
+      "title": "Cardano (ADA) Loses Relevance as a New DeFi Token Pops up on Investors’ Radar in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-67.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-67.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-67-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-67-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003e2025 is proving to be a pivotal year as Cardano (ADA), once a leading blockchain platform known for its scientific approach and scalability promises, is losing its relevance. Meanwhile, a new DeFi token, BinoFi (BINO), is capturing the attention of investors and traders alike. This shift highlights the growing demand",
+      "links": [
+        "https://thenewscrypto.com/cardano-ada-loses-relevance-as-a-new-defi-token-pops-up-on-investors-radar-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "BinoFi"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-67.jpg"
+      },
+      "published": "2025-03-07T13:26:37Z"
+    }
+  },
+  {
+    "hash": "610f41449b45b75ad68e11b917b49e7e19ca214ab204a52b6fb4a580570bf1fa",
+    "item": {
+      "title": "ONDO Tops Losers List After Sharp 13% Decline – What’s Next?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Ondo-price-analysis-13.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ONDO Tops Losers List After Sharp 13% Decline – What’s Next?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Ondo-price-analysis-13.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Ondo-price-analysis-13-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Ondo-price-analysis-13-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOndo (ONDO) is trading at $1.00, reflecting a 13% decline in the last 24 hours. The market cap stands at $3.27 billion, mirroring the same percentage drop. The trading volume has reached $426.24 million, marking a 3.77% decrease.\u0026#160; The broader crypto market is also experiencing a downturn, with the total",
+      "links": [
+        "https://thenewscrypto.com/ondo-tops-losers-list-after-sharp-13-decline-whats-next/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bearish market trend",
+        "ONDO",
+        "Ondo Finance (ONDO)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Ondo-price-analysis-13.jpg"
+      },
+      "published": "2025-03-07T12:50:11Z"
+    }
+  },
+  {
+    "hash": "56f041de979d84dd5e7a30fb601200407226d61f9d33b58d2a6f230c95549643",
+    "item": {
+      "title": "PEPE Plunges 15%, PI Network Down 31% – Why $BLEM is Positioned for a 17X Explosion",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"457\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-64.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-64.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-64-300x182.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eAs the cryptocurrency market continues its volatile dance in 2025, established players like PI Network and PEPE show concerning technical weakness. Meanwhile, BitLemons ($BLEM) is quietly positioning itself for what analysts project could be a staggering 17X return upon exchange listing. Unlike its competitors, BitLemons delivers a fully operational GambleFi",
+      "links": [
+        "https://thenewscrypto.com/pepe-plunges-15-pi-network-down-31-why-blem-is-positioned-for-a-17x-explosion/"
+      ],
+      "categories": [
+        "Press Release",
+        "BitLemons ($BLEM)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-64.jpg"
+      },
+      "published": "2025-03-07T12:45:00Z"
+    }
+  },
+  {
+    "hash": "3a2c4ea6f9806bc03f32738d34381e3427e5de29dfc17370fcccbf1b35b55ec6",
+    "item": {
+      "title": "4 Cryptos Under $0.50 That Are Better Short-Term Investments Than Ripple (XRP) and Cardano (ADA)",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"4 Cryptos Under $0.50 That Are Better Short-Term Investments Than Ripple (XRP) and Cardano (ADA)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-6.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-6-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAlthough Cardano (ADA) and Ripple (XRP) are well-known names in the crypto market, several other tokens priced less than $0.50 are better short-term investment prospects. Given current market trends and technical indicators showing quick increases, these substitutes have attracted more investor interest. Among these, Rexas Finance (RXS), Tron (TRX), Stellar",
+      "links": [
+        "https://thenewscrypto.com/4-cryptos-under-0-50-that-are-better-short-term-investments-than-ripple-xrp-and-cardano-ada/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Cryptocurrency",
+        "Rexas Finance"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-6.jpg"
+      },
+      "published": "2025-03-07T12:30:00Z"
+    }
+  },
+  {
+    "hash": "281437ca43c951a0e173f17c4a1a7e0b56e7aacf90f2922d15a01630dfa121cf",
+    "item": {
+      "title": "Movement (MOVE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Movement-Price-Prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"MOVE Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Movement-Price-Prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Movement-Price-Prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Movement-Price-Prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Movement (MOVE) price prediction 2025, 2026-2030,  we will analyze the price patterns of MOVE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Movement (MOVE) Current Market Status What is Movement (MOVE)? Movement (MOVE) 24H Technicals Movement (MOVE)",
+      "links": [
+        "https://thenewscrypto.com/movement-move-price-prediction-2025-2026-2030/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Movement-Price-Prediction.jpg"
+      },
+      "published": "2025-03-07T12:27:36Z"
+    }
+  },
+  {
+    "hash": "a50cc69627f681d6ab190a010dc6e682606df6ea3323327cc9b4bd62d29e7685",
+    "item": {
+      "title": "Coinbase Acquired Iron Fish Team to Enhance Blockchain Privacy",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Coinbase-CEO-Brian-Armstrong-favors-01.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Coinbase Acquired Iron Fish Team to Enhance Blockchain Privacy\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Coinbase-CEO-Brian-Armstrong-favors-01.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Coinbase-CEO-Brian-Armstrong-favors-01-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Coinbase-CEO-Brian-Armstrong-favors-01-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePrivacy is crucial in the present modern-day world, especially in emerging technologies like blockchain. Even though the blockchain technology is efficient, immutable, and secure, it still needs further improvements as it is in early stages of development. On a similar note, Coinbase acquired the Iron Fish team to improve privacy",
+      "links": [
+        "https://thenewscrypto.com/coinbase-acquired-iron-fish-team-to-enhance-blockchain-privacy/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Base",
+        "Coinbase",
+        "Privacy"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Coinbase-CEO-Brian-Armstrong-favors-01.jpg"
+      },
+      "published": "2025-03-07T12:26:23Z"
+    }
+  },
+  {
+    "hash": "526080a188a8ca55c76871cef6ee4d805d971c0651b083826d5e61ce879285c7",
+    "item": {
+      "title": "POPG Expands Its Reach: $POPG Now Available on LBank",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/popg-Lbank-cover_1741341643XL51OazCDD.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/popg-Lbank-cover_1741341643XL51OazCDD.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/03/popg-Lbank-cover_1741341643XL51OazCDD-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/popg-Lbank-cover_1741341643XL51OazCDD-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/03/popg-Lbank-cover_1741341643XL51OazCDD-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eDubai, United Arab Emirates, 7th March 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/popg-expands-its-reach-popg-now-available-on-lbank/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/popg-Lbank-cover_1741341643XL51OazCDD.jpg"
+      },
+      "published": "2025-03-07T12:02:51Z"
+    }
+  },
+  {
+    "hash": "2873ca279aba3f55f2fbb803d6f1a0908a63024b9480c3979a15b9b5479fa04d",
+    "item": {
+      "title": "Crypto Market Surges: SOL Up 8.6%, ADA’s Stunning 41.6% Rally, and BitLemons’ ($BLEM) 17x Potential",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"429\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-66.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-66.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-66-300x171.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe cryptocurrency market continues its impressive momentum as Solana (SOL) demonstrates sustained strength with an 8.6% weekly gain, while Cardano (ADA) delivers a stunning 41.64% rally over the same period. Meanwhile, BitLemons ($BLEM) is quietly establishing itself as the dark horse of crypto gaming with its revolutionary approach to the",
+      "links": [
+        "https://thenewscrypto.com/crypto-market-surges-sol-up-8-6-adas-stunning-41-6-rally-and-bitlemons-blem-17x-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "BitLemons"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-66.jpg"
+      },
+      "published": "2025-03-07T11:45:00Z"
+    }
+  },
+  {
+    "hash": "4a565e202b118c0e31ffe06e35ccc97f98493e9291f8e4a02326e2b4b7f26122",
+    "item": {
+      "title": "Women Favor Long-Term Crypto Strategies, With 30% Choosing Bitcoin as Their First Investment – Survey",
+      "description": "\u003cp\u003eMore women are joining the crypto world, and a Bitpanda study shows they prefer long-term investments. However, many face challenges like limited knowledge and income.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/women-investors-favor-long-term-crypto-strategy-survey/\"\u003eWomen Favor Long-Term Crypto Strategies, With 30% Choosing Bitcoin as Their First Investment – Survey\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/women-investors-favor-long-term-crypto-strategy-survey/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitpanda",
+        "Cryptocurrencies",
+        "Investments"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Veronika Rinecker"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07152956/1741361396-image-1741361344798_optimized.jpg"
+      },
+      "published": "2025-03-07T16:48:04Z"
+    }
+  },
+  {
+    "hash": "1c56f31f01017242d74ec15131667473bc15939832e0d3e77b57df8bcf7c58a9",
+    "item": {
+      "title": "Yescoin Founder Zhang Chi Detained by Shanghai Police Amid Business Dispute",
+      "description": "\u003cp\u003eYescoin founder Zhang Chi has been detained by Shanghai police following a business dispute with his partners. The announcement has raised concerns within the community, with some questioning the project's legitimacy amid delays in its token launch and uncertainty over its leadership.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/yescoin-founder-zhang-chi-detained-by-shanghai-police-amid-business-dispute/\"\u003eYescoin Founder Zhang Chi Detained by Shanghai Police Amid Business Dispute\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/yescoin-founder-zhang-chi-detained-by-shanghai-police-amid-business-dispute/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "China",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07163616/1741365376-image-1741365346900_optimized.jpg"
+      },
+      "published": "2025-03-07T16:44:26Z"
+    }
+  },
+  {
+    "hash": "8bb5bdb8c86583914d69465e12f589e9c5eafa4e2a184162fbf4c97494596bfe",
+    "item": {
+      "title": "XRP Explosion Incoming? Key Levels Point to a Run Toward $10",
+      "description": "\u003cp\u003eXRP seems to have lapsed as highly anticipated bullish catalysts fail to deliver—but key levels suggest its next big move is approaching.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-explosion-near-key-levels-point-to-a-run-toward-10/\"\u003eXRP Explosion Incoming? Key Levels Point to a Run Toward $10\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-explosion-near-key-levels-point-to-a-run-toward-10/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "bull run",
+        "price prediciton",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07150100/1741359660-cover-xrp_optimized.jpg"
+      },
+      "published": "2025-03-07T16:30:37Z"
+    }
+  },
+  {
+    "hash": "daa550847c8d452b17d16f03becf53eff20eec915d1cd338fbca7a57a15b238c",
+    "item": {
+      "title": "Final Chance to Buy First Ever Meme Index Crypto, $MEMEX Token Raises Nearly $4m",
+      "description": "\u003cp\u003eA smart investing solution for meme coins, Meme Index ($MEMEX), has raised nearly $4 million in its presale, which must finish in 24 days, on March 31.Savvy crypto investors can take advantage of this final chance to contribute to the first-ever decentralized meme coin investing platform, which provides exposure to a basket of meme coins [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/final-chance-to-buy-first-ever-meme-index-crypto-memex-token-raises-nearly-4m/\"\u003eFinal Chance to Buy First Ever Meme Index Crypto, $MEMEX Token Raises Nearly $4m\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/final-chance-to-buy-first-ever-meme-index-crypto-memex-token-raises-nearly-4m/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Meme coin",
+        "Meme Index",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07162024/1741364424-memex_optimized.jpg"
+      },
+      "published": "2025-03-07T16:26:02Z"
+    }
+  },
+  {
+    "hash": "dadff698ab2ca87ba1b942abb45a47a41796a15e41725bbb17c1c5cb50562892",
+    "item": {
+      "title": "FDUSD Reveals Strategic Integration With Ledger’s Off-Exchange Trading Network",
+      "description": "\u003cp\u003eFirst Digital announced a partnership with Ledger Enterprise Tradelink to enable institutions to leverage FDUSD for off-exchange settlements.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fdusd-reveals-strategic-integration-with-ledgers-off-exchange-trading-network/\"\u003eFDUSD Reveals Strategic Integration With Ledger’s Off-Exchange Trading Network\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fdusd-reveals-strategic-integration-with-ledgers-off-exchange-trading-network/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Ledger",
+        "Stablecoin",
+        "Trading"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07142057/1741357256-first-digital-fdusd-stablecoins-ledger-enterprise-tradelink-wallet-ledger-off-exchange-settlements.jpg"
+      },
+      "published": "2025-03-07T16:15:31Z"
+    }
+  },
+  {
+    "hash": "1b9906e780a4b1004c504ecd56f00ce62f863207c95d552a698cd2d44e90ac91",
+    "item": {
+      "title": "Bitcoin Cash Breaks Out in 40% Surge – Is $1,000 the Next Target?",
+      "description": "\u003cp\u003eWhile it may not be catching headlines this cycle, Bitcoin Cash (BCH) is catching tailwinds with its latest breakout move—and sights could be set much higher.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-cash-breaks-out-is-1000-the-next-target/\"\u003eBitcoin Cash Breaks Out in 40% Surge – Is $1,000 the Next Target?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-cash-breaks-out-is-1000-the-next-target/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin Cash",
+        "bull run",
+        "price prediciton"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07120147/1741348906-bch-cover_optimized.jpg"
+      },
+      "published": "2025-03-07T16:14:34Z"
+    }
+  },
+  {
+    "hash": "a7f266602fdafa68912782dec2809096c879c4202812ca412a66da4369b81bf3",
+    "item": {
+      "title": "Best Presales to Buy Today – Which Tokens Could 100x When the Market Turns?",
+      "description": "\u003cp\u003eAs crypto prices remain unsteady throughout the start of the year, an increasing number of investors are supporting presales in order to acquire promising tokens before they officially list on exchanges.Presale tokens usually come with fixed low prices, making them less susceptible to short-term market volatility. This structure allows both retail and institutional investors to [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/best-presales-to-buy-today-which-tokens-could-100x-when-the-market-turns/\"\u003eBest Presales to Buy Today – Which Tokens Could 100x When the Market Turns? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/best-presales-to-buy-today-which-tokens-could-100x-when-the-market-turns/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoins",
+        "Meme Coins",
+        "presales"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07153151/image-7-1-2.jpg"
+      },
+      "published": "2025-03-07T16:03:05Z"
+    }
+  },
+  {
+    "hash": "828000653c22cc8b20b344a5d2b40729048d8206b876a7fde80d6a539a1cbbd6",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is red today\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003ePancakeSwap Sees Highest Monthly Trading Volumes Since 2021\u003c/li\u003e\n\u003cli\u003ePublic Miners Pour $5B into Bitcoin Supply Chain – Miner Weekly\u003c/li\u003e\n\u003cli\u003eMEXC Partners with Hacken to Boost Platform Security\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-03-07T15:55:58Z"
+    }
+  },
+  {
+    "hash": "b033453faa1c85a906e34f9428fba78fb122e8a8e8cece82d938fe220bd38b1a",
+    "item": {
+      "title": "Analysts Suggest Strategies U.S. Can Adopt to Acquire More Bitcoin Amid Crypto Reserve Strategy",
+      "description": "\u003cp\u003eJiang Jinze, founder of Muse Labs, has responded to the US government's Bitcoin reserve strategy, which excludes direct BTC purchases. Jinze revealed that alternative methods, including selling gold to fund indirect Bitcoin acquisitions, are now under consideration. This approach would be budget-neutral, leveraging gold sale proceeds to acquire Bitcoin without requiring additional funds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/analysts-suggest-strategies-u-s-can-adopt-to-acquire-more-bitcoin-amid-crypto-reserve-strategy/\"\u003eAnalysts Suggest Strategies U.S. Can Adopt to Acquire More Bitcoin Amid Crypto Reserve Strategy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/analysts-suggest-strategies-u-s-can-adopt-to-acquire-more-bitcoin-amid-crypto-reserve-strategy/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin Reserve",
+        "Jiang Jinze",
+        "United States"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07141303/1741356782-image-1741350042854_optimized.webp"
+      },
+      "published": "2025-03-07T15:47:21Z"
+    }
+  },
+  {
+    "hash": "c6d91093b5704468cff75fb1c065e177963ffb55f969e6b71e9365921a3c2760",
+    "item": {
+      "title": "Best Crypto to Buy Today – Which Coins Will Explode After the Sell-Off?",
+      "description": "\u003cp\u003eCrypto prices have been seesawing lately due to two distinct and influential factors. On the one hand a pro-crypto US administration is something the crypto industry has long called for. On the other, geopolitical uncertainty and macroeconomic conditions have traders offloading their riskier assets. That said, the path is clear for some sweltering 2025 price [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/best-crypto-to-buy-today-which-coins-will-explode-after-the-sell-off/\"\u003eBest Crypto to Buy Today – Which Coins Will Explode After the Sell-Off?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/best-crypto-to-buy-today-which-coins-will-explode-after-the-sell-off/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoins",
+        "Meme Coins",
+        "presales"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07144041/image-7-1-1.jpg"
+      },
+      "published": "2025-03-07T15:46:09Z"
+    }
+  },
+  {
+    "hash": "b6fc2728db0ca24c08d5a7657b90c5e5882b0ff66d5ebe72ecce1e63545406fe",
+    "item": {
+      "title": "Sui Network Partners with Trump’s Crypto Project – Will it Outperform Solana?",
+      "description": "\u003cp\u003eThe SUI Network token, native to the \u0026#8220;Ethereum killer\u0026#8221; Sui blockchain, experienced a notable price surge on Thursday following the announcement of a \u0026#8220;strategic reserve deal\u0026#8221; between the Trump-affiliated decentralized finance (DeFi) protocol, World Liberty Financial (WLFI), and the layer-1 blockchain.This marks the latest crypto play linked to US President Trump who has promised the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sui-partners-with-trumps-crypto-project-will-it-outperform-solana/\"\u003eSui Network Partners with Trump’s Crypto Project – Will it Outperform Solana?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sui-partners-with-trumps-crypto-project-will-it-outperform-solana/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "SUI",
+        "Sui Network",
+        "World Liberty Financial"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07130513/Sui-Gains-Momentum-as-Technical-Breakout-Hints-at-a-Massive-Surge.jpg"
+      },
+      "published": "2025-03-07T15:37:23Z"
+    }
+  },
+  {
+    "hash": "0ad246eb0253a7d4f649207ce6f45422432f25d6ab6467907d383d94cc88a7a4",
+    "item": {
+      "title": "Solana Co-Founder Questions Trump’s Crypto Stockpile – Will SOL Be Left Out?",
+      "description": "\u003cp\u003eSolana has declined by 5% in the past 24 hours, with its fall to $143 coming after its co-founder Anatoly Yakovenko publicly opposed the idea of a US strategic crypto reserve.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-co-founder-questions-trumps-crypto-stockpile-will-sol-be-left-out/\"\u003eSolana Co-Founder Questions Trump’s Crypto Stockpile – Will SOL Be Left Out?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-co-founder-questions-trumps-crypto-stockpile-will-sol-be-left-out/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "SOL",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07153114/1741361473-image-1741361462192.jpg"
+      },
+      "published": "2025-03-07T15:31:47Z"
+    }
+  },
+  {
+    "hash": "c178b4e5602236f044bc31d66ba057be447542d30c01eee16accb5df426698f5",
+    "item": {
+      "title": "US Bitcoin Reserve Could Reshape Global Finance – Bitwise Head of Research",
+      "description": "\u003cp\u003eRyan Rasmussen believes a US strategic Bitcoin reserve could reshape global finance by accelerating adoption, legitimizing Bitcoin, and removing fears of a government crackdown.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-bitcoin-reserve-could-reshape-global-finance-bitwise/\"\u003eUS Bitcoin Reserve Could Reshape Global Finance – Bitwise Head of Research\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-bitcoin-reserve-could-reshape-global-finance-bitwise/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Reserve",
+        "Donald Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Veronika Rinecker"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07133403/1741354443-image-1741354343777_optimized.jpg"
+      },
+      "published": "2025-03-07T15:22:21Z"
+    }
+  },
+  {
+    "hash": "675726f70283e94f9dc7e0fe6f6b6bddee65bd6ab5aa5e4f15d269c2c3719129",
+    "item": {
+      "title": "Opinion: Reaction to Trump’s Bitcoin Reserve Has Been Weird",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBTC's price action doesn't reflect how significant this Bitcoin reserve actually is — and what it means for the global economy.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/opinion-reaction-to-trumps-bitcoin-reserve-has-been-weird/\"\u003eOpinion: Reaction to Trump\u0026#8217;s Bitcoin Reserve Has Been Weird\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/opinion-reaction-to-trumps-bitcoin-reserve-has-been-weird/"
+      ],
+      "categories": [
+        "Opinions",
+        "Adoption",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/07143418/1741358057-image-1741357710107_optimized.jpg"
+      },
+      "published": "2025-03-07T14:55:45Z"
+    }
+  },
+  {
+    "hash": "fd725601bb51e321e808d53ffd3ffb8c56d7270ace85a92398106c40995731c8",
+    "item": {
+      "title": "Ubuntu To Revert \"-O3\" Optimizations, Continues Quest For Easier ARM64 Installations",
+      "description": "Canonical engineer Matthieu Clemenceau has posted a status update on the behalf of the Ubuntu Foundations engineers now half-way through the Ubuntu 25.04 development cycle. A number of notable package updates have landed as well as continued work on better ARM64 support and coming to a decision over \"-O3\" optimized packages...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-No-O3-Easier-ARM64"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-07T16:10:00Z"
+    }
+  },
+  {
+    "hash": "2b5125bbdd41d116a70ae909aa2678c1cc5f08333dc42fbe57f7ed5ee8c2c907",
+    "item": {
+      "title": "AMD Officially Confirms Ryzen 9 9900X3D + Ryzen 9 9950X3D Pricing \u0026 Availability",
+      "description": "Back in January at CES was the Ryzen 9 9000X3D and Ryzen 9 9950X3D announcement while today AMD officially confirmed the release date and pricing on these new Zen 5 desktop CPUs with 3D V-Cache...",
+      "links": [
+        "https://www.phoronix.com/news/Ryzen-9-9900X3D-9950X3D"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-07T15:41:10Z"
+    }
+  },
+  {
+    "hash": "4ecb564f08070b6d3192c86846913e265faf065a4f5299e352bdd996f1252f31",
+    "item": {
+      "title": "GCC 15 Now Enables AArch64 Early Scheduling For -O3/-Ofast Modes",
+      "description": "The GCC \"-fschedule-insns\" option allows for reordering of instructions to eliminate execution stalls when required data is unavailable. This early scheduling option can be beneficial for systems with slow floating point performance or costly memory load instructions. With the upcoming GCC 15 release, AArch64 will be enabling this early scheduling optimization at the -O3 optimization level and higher...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-15-AArch64-Early-Sched"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-07T15:13:24Z"
+    }
+  },
+  {
+    "hash": "88167f70e94964efb9580d9517274ae093e16353abce9e31d5232ca75a4272a5",
+    "item": {
+      "title": "Introducing command And commandfor In HTML",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43292056\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developer.chrome.com/blog/command-and-commandfor"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T17:24:02Z"
+    }
+  },
+  {
+    "hash": "0debeea96bceea606b5ae2eba02a5654c49c8e659609167fd44ed9d3a45530b7",
+    "item": {
+      "title": "Vtm: Text-Based Desktop Environment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291946\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/directvt/vtm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T17:12:30Z"
+    }
+  },
+  {
+    "hash": "21d35457fb3adecb847027c07730827a44757600b95001813fd9edd914d3bc2b",
+    "item": {
+      "title": "Strobelight: A profiling service built on open source technology",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43290555\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T14:43:24Z"
+    }
+  },
+  {
+    "hash": "57741c272ef3f8a41b5a8d8bb3559700298a88060d9e06d8f4c24d57bdecd529",
+    "item": {
+      "title": "Betting on the Pope was the original prediction market",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43290892\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nodumbideas.com/p/betting-on-the-pope-was-the-original"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T15:25:13Z"
+    }
+  },
+  {
+    "hash": "baaf9d13c93736478e157626fca8e9b32255ab73e7e581b018395e5d8c059010",
+    "item": {
+      "title": "Optimistic Locking in B-Trees",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43292050\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cedardb.com/blog/optimistic_btrees/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T17:23:28Z"
+    }
+  },
+  {
+    "hash": "468e67eb9ed306f226d3be0a8035cdeffc34b1898834f4b0edda5fe89f4341ed",
+    "item": {
+      "title": "Why reading Martha C Nussbaum's philosophy is pure pleasure",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291541\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T16:29:18Z"
+    }
+  },
+  {
+    "hash": "e2d7cbd776e817cba66c5246b2adb22ed17ce0adaa16355b3904d377c8fff045",
+    "item": {
+      "title": "Kraftful (YC S19) is hiring a founding eng to support our hockey-stick growth",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291839\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T17:00:44Z"
+    }
+  },
+  {
+    "hash": "c77488254c7f6fb73f14c74e020c3dba24558a8cde6d9b5a53aaf1401034a0c3",
+    "item": {
+      "title": "Reflection – AlphaGo / Gemini team building superintelligent coding agents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43292008\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.reflection.ai/superintelligence/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T17:19:59Z"
+    }
+  },
+  {
+    "hash": "3589d82198f3b93ad79e08553ef410ac901f17426b1be2e48136a9ececf9fba7",
+    "item": {
+      "title": "Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291678\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Interactive-Echoes/IEMidi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T16:44:20Z"
+    }
+  },
+  {
+    "hash": "04dc4a2a93867747c59be3faefa28562a088cfca0fbf8cd26be8ba9050e59527",
+    "item": {
+      "title": "Laser-based device can scan almost any sample of gas and tell you what's in it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291299\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-02-laser-based-device-scan-sample.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T16:06:37Z"
+    }
+  },
+  {
+    "hash": "7756edc0bc675898fa9c8e8bc40fcff83cde7a1367d376ba9ba295e3bd0d87db",
+    "item": {
+      "title": "Do your eyes bug you even though your prescription is \"correct\"?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291922\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43291922"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-07T17:09:20Z"
+    }
+  },
+  {
+    "hash": "b8db86c59d2158e49421460ec77f2aff2d8bb0ff0f253d02a00aa47a36157409",
+    "item": {
+      "title": "A Scientific American bolt puzzle",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43243110\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-03T16:06:51Z"
+    }
+  },
+  {
+    "hash": "18f0b119d07a3cbde26c1deb41abe4d44b9144e5fafdc8d3c7529bbcafeca634",
+    "item": {
+      "title": "Why Quantum Engineering Is Emerging as a Distinct Industrial Sector",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43252994\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/quantum-mechanics"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-04T10:51:59Z"
+    }
+  },
+  {
+    "hash": "0b2cd93bcb40f6a9bd04a7763b02166f46398e4efcd1cb0074ea91fc2ac3eedc",
+    "item": {
+      "title": "Google change is breaking some digital photo frames",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43255789\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theverge.com/news/623306/google-photos-digital-photo-frame-auto-sync-going-away"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-04T15:19:23Z"
+    }
   }
 ]
