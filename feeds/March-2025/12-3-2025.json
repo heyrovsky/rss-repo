@@ -1440,5 +1440,654 @@
       "source": "Hacker News",
       "published": "2025-03-12T06:43:07Z"
     }
+  },
+  {
+    "hash": "5d6d4df54bf31f087e5baa89d8653c08fc8bdea69291496de23eeef0cfaf87ea",
+    "item": {
+      "title": "First Ammonia-Fueled Ship Hits a Snag",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/ammonia-fuel-2671266100"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-12T11:24:40Z"
+    }
+  },
+  {
+    "hash": "d64169b4ba622430e95e03c760b9e827f7ac547ae558c2e2432305b468ca7058",
+    "item": {
+      "title": "Open-UI: Maintain an open standard for UI and promote its adherence and adoption",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43308278\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/openui/open-ui"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-09T11:53:58Z"
+    }
+  },
+  {
+    "hash": "5c20a93ca270309549f207b1239c1d7b27510f5c2603ea647274f3268dec9f85",
+    "item": {
+      "title": "Pivot Robotics (YC W24) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342301\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-12T12:00:28Z"
+    }
+  },
+  {
+    "hash": "5491750d3014dc16f5517b31c49800759e36f37307262692122c77118050b1cd",
+    "item": {
+      "title": "My Stupid Noise Journey",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307751\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynomight.net/noise/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-09T10:06:27Z"
+    }
+  },
+  {
+    "hash": "32837201a28cf49c91b8bc19e9e88f6726358ba25ea30d78992f3972181c5f3c",
+    "item": {
+      "title": "Quantum state engineering\u0026photon statistics at electromagnetic time interfaces",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303765\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-08T21:38:29Z"
+    }
+  },
+  {
+    "hash": "3b9d5330779a0ef5d6b341a8bd65893ede9633c6e05dff6298041b31ba36e9d6",
+    "item": {
+      "title": "Usaid staff told to shred and burn classified documents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43341741\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/cjw2yywy3x7o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-12T10:38:15Z"
+    }
+  },
+  {
+    "hash": "045a89089604e1a8a6064331144ae8cc65df2344a72bbf7d45ca7e023a3708cd",
+    "item": {
+      "title": "KDE's KWin Wayland \u0026 X11 Code Are Now Split, KWin_X11 To Be Maintained Until Plasma 7",
+      "description": "Yesterday marked the milestone of KWin's kwin_x11 and kwin_wayland code being split up. The Wayland and X11 code for the KWin compositor is now separate from each other but can be co-installable for systems wanting to support both X11 and Wayland environments...",
+      "links": [
+        "https://www.phoronix.com/news/KWin-Wayland-X11-Split"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-12T10:53:49Z"
+    }
+  },
+  {
+    "hash": "1ffbb0702a06e1e8917ee4b7d0a128e1b0459353c72b142f53c4501ce7c1af73",
+    "item": {
+      "title": "Haiku OS Wrapping Up Its New malloc \u0026 Various Performance Optimizations",
+      "description": "The BeOS-inspired Haiku open-source operating system project is out with a new monthly progress report to highlight its latest development accomplishments...",
+      "links": [
+        "https://www.phoronix.com/news/Haiku-OS-New-malloc-More-Perf"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-12T10:44:13Z"
+    }
+  },
+  {
+    "hash": "ab903be420b0ef431b9a704b911be40a596b5e9c551442a922fe0af1a875f6b3",
+    "item": {
+      "title": "LLVM 20's Great Fortran Language Support With Flang",
+      "description": "With the newly-released LLVM 20.1 compiler stack among the many changes throughout the massive codebase is renaming the \"flang-new\" compiler just to \"flang\". This new Flang compiler front-end has matured quite well over the years to providing robust and reliable Fortran language support within the confines of the LLVM toolchain...",
+      "links": [
+        "https://www.phoronix.com/news/LLVM-20-Flang"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-12T10:33:39Z"
+    }
+  },
+  {
+    "hash": "3f219c6cefb8d3cbbfa827c551d88a84768410097f838a89ac92b0ec2dd88cbd",
+    "item": {
+      "title": "Jonathan Riddell Stepping Down From KDE Plasma Release Management",
+      "description": "Longtime KDE developer who has served with Plasma release management duties, KDE Neon operating system development, and former Kubuntu release manager, among other roles, announced he will be stepping down from his Plasma release management duties...",
+      "links": [
+        "https://www.phoronix.com/news/Riddell-Stepping-Down-Plasma-RM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-12T10:18:08Z"
+    }
+  },
+  {
+    "hash": "de88cc4110f452bcbb866f2a65f44547257bbd084d49ccd338aec04c7490dd41",
+    "item": {
+      "title": "Crypto Payments Network Mesh Secures $82M in Series B, Mostly Settled in PayPal’s PYUSD",
+      "description": "\u003cp\u003eCrypto payments firm Mesh has raised $82 million in a Series B funding round to expand its blockchain-based settlement network globally.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-payments-network-mesh-secures-82m-in-series-b-mostly-settled-in-paypals-pyusd/\"\u003eCrypto Payments Network Mesh Secures $82M in Series B, Mostly Settled in PayPal\u0026#8217;s PYUSD\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-payments-network-mesh-secures-82m-in-series-b-mostly-settled-in-paypals-pyusd/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "funding",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/12104528/1741776328-image-1741776226156_optimized.jpg"
+      },
+      "published": "2025-03-12T11:45:52Z"
+    }
+  },
+  {
+    "hash": "bca3efadda977f79cef304eb9b598e54ef4c01ae54133868b8da29ddf38596c6",
+    "item": {
+      "title": "Bitcoin Panic Selling Accelerates as Price Drops, $70K Possible: Glassnode",
+      "description": "\u003cp\u003eBitcoin investors who bought at its all-time high of $109,000 in January are now panic-selling as prices decline, according to Glassnode.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-panic-selling-accelerates-as-price-drops-70k-possible-glassnode/\"\u003eBitcoin Panic Selling Accelerates as Price Drops, $70K Possible: Glassnode\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-panic-selling-accelerates-as-price-drops-70k-possible-glassnode/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Market",
+        "price crash"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/12100841/1741774121-image-1741774007086_optimized.jpg"
+      },
+      "published": "2025-03-12T11:41:31Z"
+    }
+  },
+  {
+    "hash": "deec5f84b5552a474a6bace47364d33863584ac55b96f590f75e24cb36f7be9d",
+    "item": {
+      "title": "Cardano’s Price Pulls Back After 80% Surge, but Expert Predicts Further Growth",
+      "description": "\u003cp\u003eCardano soared 80% after joining the U.S. Crypto Reserve but pulled back. Will ADA regain momentum? Experts break down what’s next.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/cardano-price-pulls-back-after-80-surge-expert-predicts-growth/\"\u003eCardano’s Price Pulls Back After 80% Surge, but Expert Predicts Further Growth\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/cardano-price-pulls-back-after-80-surge-expert-predicts-growth/"
+      ],
+      "categories": [
+        "Features",
+        "ADA",
+        "Cardano",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/11105715/1741690635-cardano-and-us-reserve.jpg"
+      },
+      "published": "2025-03-12T11:39:47Z"
+    }
+  },
+  {
+    "hash": "548e6170833987961b4c4f3620c1a7559c7cb8d4855a8716126b06f11f0f9fbb",
+    "item": {
+      "title": "Lazarus Targets Solana and Exodus Wallets, Infecting Hundreds of Software Developers",
+      "description": "\u003cp\u003eNorth Korea's Lazarus Group targeted Solana and Exodus wallets by infecting hundreds of software developers via malicious npm packages, stealing cryptocurrency-related data and establishing persistent backdoors.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/lazarus-targets-solana-and-exodus-wallets-infecting-hundreds-of-software-developers/\"\u003eLazarus Targets Solana and Exodus Wallets, Infecting Hundreds of Software Developers\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/lazarus-targets-solana-and-exodus-wallets-infecting-hundreds-of-software-developers/"
+      ],
+      "categories": [
+        "DeFi News",
+        "Lazarus Group",
+        "Security"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/12104011/1741776010-image-1741775954926_optimized.jpg"
+      },
+      "published": "2025-03-12T11:39:46Z"
+    }
+  },
+  {
+    "hash": "5fb9c98f878435beafd4da277abd67bdd9c9da44feda89271a484af15ac3e82d",
+    "item": {
+      "title": "Soneium Partners with Messaging Platform LINE to Bring 4 Mini-Apps Onchain",
+      "description": "\u003cp\u003eJapanese messaging giant LINE and Soneium have partnered to launch mini-gaming apps on Soneium blockchain in the coming months.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/line-soneium-partner-to-bring-mini-apps-onchain/\"\u003eSoneium Partners with Messaging Platform LINE to Bring 4 Mini-Apps Onchain\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/line-soneium-partner-to-bring-mini-apps-onchain/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Soneium"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/12085622/1741769782-image-1741769663761_optimized.jpg"
+      },
+      "published": "2025-03-12T09:05:55Z"
+    }
+  },
+  {
+    "hash": "44b653dbbb83240df7edb42994fddd8d252649ac201457fccf5cd9a708d4c995",
+    "item": {
+      "title": "Finery Markets Partners with Sage Capital to Boost Crypto Liquidity for Institutions",
+      "description": "\u003cp\u003eFinery Markets has announced a strategic partnership with Sage Capital Management to enhance liquidity access for institutional cryptocurrency traders.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/finery-markets-partners-with-sage-capital-to-boost-crypto-liquidity-for-institutions/\"\u003eFinery Markets Partners with Sage Capital to Boost Crypto Liquidity for Institutions\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/finery-markets-partners-with-sage-capital-to-boost-crypto-liquidity-for-institutions/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/12080454/1741766694-image-1741766425538_optimized.jpg"
+      },
+      "published": "2025-03-12T08:45:14Z"
+    }
+  },
+  {
+    "hash": "26954b9cf75c5e3cdb0a95399144e1aaa11d9895b988cb7eb16670a27743a9db",
+    "item": {
+      "title": "NFT Company Sues Fashion Conglomerate LVMH for Patent Infringement",
+      "description": "\u003cp\u003eA company specializing in smartwatch face designs sold through NFTs has filed a lawsuit against luxury goods giant LVMH, alleging patent infringement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nft-company-sues-lvmh-for-patent-infringement/\"\u003eNFT Company Sues Fashion Conglomerate LVMH for Patent Infringement\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nft-company-sues-lvmh-for-patent-infringement/"
+      ],
+      "categories": [
+        "NFT News",
+        "Legal",
+        "NFTs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/12074223/1741765343-image-1741764889426_optimized.jpg"
+      },
+      "published": "2025-03-12T08:39:51Z"
+    }
+  },
+  {
+    "hash": "ae11f9239183ccf9eab665eafe814537ec7d4311bc54d9b3fd4902471d599a7e",
+    "item": {
+      "title": "Bitcoin Bounces Back to $83K – Will It Smash Resistance or Face Rejection?",
+      "description": "\u003cp\u003eBitcoin rebounds above $83K as Trump’s crypto reserve proposal fuels investor optimism. Will BTC break resistance at $83,800, or face another selloff?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-bounces-back-to-83k-will-it-smash-resistance-or-face-rejection/\"\u003eBitcoin Bounces Back to $83K \u0026#8211; Will It Smash Resistance or Face Rejection?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-bounces-back-to-83k-will-it-smash-resistance-or-face-rejection/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/09144214/1728455987-image-30-1.jpg"
+      },
+      "published": "2025-03-12T08:26:12Z"
+    }
+  },
+  {
+    "hash": "25b141114fa023e16defc8027d163a7106e459b25a72b00636faed8c1f35d161",
+    "item": {
+      "title": "Best Coins To Join Now: Qubetics’ 25th Stage Surges Past $14.9M as Arweave Expands And VeChain Secures $76M Deal",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-51.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-51.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-51-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-51-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-51-376x212.png 376w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eCryptocurrency has become more than just a trend—it’s a full-on revolution. As the industry continues to grow, new players emerge and promise to shape the future of finance. Among them, three coins stand out for their potential to change the game: Qubetics, Arweave, and VeChain. These coins each bring something",
+      "links": [
+        "https://thenewscrypto.com/best-coins-to-join-now-qubetics-25th-stage-surges-past-14-9m-as-arweave-expands-and-vechain-secures-76m-deal/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-51.png"
+      },
+      "published": "2025-03-12T08:30:00Z"
+    }
+  },
+  {
+    "hash": "413e114e5971b46c7d865439cbd70b1d328cb9f6f8c01ee89e710c15feba78c4",
+    "item": {
+      "title": "HC Davos Ice Stadium Officially Becomes zondacrypto arena",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"960\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/photo_2025-03-11-20.33.35.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/photo_2025-03-11-20.33.35.jpeg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/03/photo_2025-03-11-20.33.35-300x225.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/photo_2025-03-11-20.33.35-1024x768.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/03/photo_2025-03-11-20.33.35-768x576.jpeg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003ezondacrypto enters the Swiss market with a strong impact, expanding its sports sponsorship portfolio to a new discipline – ice hockey. The leading cryptocurrency exchange in Central and Eastern Europe has become a partner of HC Davos, the 31-time Swiss champion, as well as the title sponsor of the club’s",
+      "links": [
+        "https://thenewscrypto.com/hc-davos-ice-stadium-officially-becomes-zondacrypto-arena/"
+      ],
+      "categories": [
+        "Press Release",
+        "zondacrypto"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/photo_2025-03-11-20.33.35.jpeg"
+      },
+      "published": "2025-03-12T08:01:55Z"
+    }
+  },
+  {
+    "hash": "3e30a676b87e0104094a58cc4ada128266f7197e0c2a27ea85537887fa9d25f1",
+    "item": {
+      "title": "Korea Blockchain Week 2025 (KBW2025) Returns to Seoul in September",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"606\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-18.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Korea Blockchain Week 2025 (KBW2025) Returns to Seoul in September\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-18.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-18-300x142.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-18-1024x485.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-18-768x364.jpg 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eThe leading\u0026#160;Web3 conference in Asia announced that it will return to Seoul in September. Thousands of delegates and industry leaders\u0026#160;will gather to talk about the newest developments in blockchain, artificial intelligence, and industry regulation. The main KBW2025: IMPACT conference will be held at the Walkerhill Hotel \u0026#38; Resort in Seoul from",
+      "links": [
+        "https://thenewscrypto.com/korea-blockchain-week-2025-kbw2025-returns-to-seoul-in-september/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-18.jpg"
+      },
+      "published": "2025-03-12T08:00:00Z"
+    }
+  },
+  {
+    "hash": "d4264b43341c6c2e43a14a1dd67dbcfe7c22b686bb8b82d36761401074b7ae90",
+    "item": {
+      "title": "Onyxcoin (XCN) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Onyxcoin (XCN) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOnyxcoin (XCN) price prediction 2025, 2026-2030, we will analyze the price patterns of XCN by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Onyxcoin (XCN) Current Market Status What is Onyxcoin (XCN)? Onyxcoin (XCN) 24H Technicals ONYXCOIN (XCN) PRICE PREDICTION",
+      "links": [
+        "https://thenewscrypto.com/onyxcoin-xcn-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Onyxcoin",
+        "price prediction",
+        "XCN"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design.jpg"
+      },
+      "published": "2025-03-12T07:57:07Z"
+    }
+  },
+  {
+    "hash": "2af117e139b6b8b1726dd2aea225e82d00868a9ddbdf4f35d8175947924684be",
+    "item": {
+      "title": "Crypto Market Revival, How Bitcoin Policy and Peace Sparked a Surge?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/bitcoin.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Market Revival, How Bitcoin Policy and Peace Sparked a Surge?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/bitcoin.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/bitcoin-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/bitcoin-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMajor cryptocurrencies, along with Bitcoin and Ethereum, showed positive movement as the broader market started to recover. The crypto market capitalization stands at $2.65 trillion while showing a 2.73% increase during the previous 24 hours. The market recovery may be indicated by this recent upward trend. Bitcoin\u0026#8217;s price spiked by",
+      "links": [
+        "https://thenewscrypto.com/crypto-market-revival-how-bitcoin-policy-and-peace-sparked-a-surge/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "Crypto Market"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/bitcoin.jpg"
+      },
+      "published": "2025-03-12T07:38:18Z"
+    }
+  },
+  {
+    "hash": "d4630b5ce57ae5663963e3cbd47192ae28b7d32bbdc234ff78a28f1f3232bf4c",
+    "item": {
+      "title": "Is a Bullish Wave Brewing for PEPE, or More Bearish Pain?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/pepe-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is a Bullish Wave Brewing for PEPE, or More Bearish Pain?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/pepe-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/pepe-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/pepe-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market opened with a brief uptick, pushing the global market cap to $2.64 trillion. Meme coins followed suit, climbing to a $48.8 billion market cap after a 4.8% gain. PEPE, the frog-themed token, jumped by over 5.04%. The prolonged bearish pressure within the market has resulted in intense",
+      "links": [
+        "https://thenewscrypto.com/is-a-bullish-wave-brewing-for-pepe-or-more-bearish-pain/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Meme Coin",
+        "PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/pepe-1.jpg"
+      },
+      "published": "2025-03-12T07:05:17Z"
+    }
+  },
+  {
+    "hash": "986d7ccc0c0a04b01a5d9aa840df8827d99406a927c3631dd2fb048370ee09ba",
+    "item": {
+      "title": "Solana and Altcoin ETF Delays Continue as SEC Extends Review Process",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/SEC_postpones_altcoin_ETF_decisions_but_2025_approval_prospects.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana and Altcoin ETF Delays Continue as SEC Extends Review Process\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/SEC_postpones_altcoin_ETF_decisions_but_2025_approval_prospects.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/SEC_postpones_altcoin_ETF_decisions_but_2025_approval_prospects-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/SEC_postpones_altcoin_ETF_decisions_but_2025_approval_prospects-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe U.S. Securities and Exchange Commission (SEC) has postponed its decision on VanEck’s proposed spot Solana (SOL) exchange-traded fund (ETF). This delay aligns with the regulator’s cautious approach to cryptocurrency ETFs, emphasizing investor protection and market stability.   The SEC’s decision to delay the Solana ETF was widely anticipated, as the",
+      "links": [
+        "https://thenewscrypto.com/solana-and-altcoin-etf-delays-continue-as-sec-extends-review-process/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Altcoins",
+        "ETFs",
+        "SEC",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/SEC_postpones_altcoin_ETF_decisions_but_2025_approval_prospects.jpg"
+      },
+      "published": "2025-03-12T07:02:09Z"
+    }
+  },
+  {
+    "hash": "974a8eca1a8bc269a052441e644e85e72f1b43f216bb7e07c8eee8cad8c5be7f",
+    "item": {
+      "title": "Matchain Reaches #1 on DappRadar: A Closer Look At the Fastest-Growing Layer2",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"469\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-101.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-101.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-101-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-101-768x462.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe numbers don’t lie. Matchain is surging ahead, faster than any other blockchain right now. No other chain is growing this fast. For the first time, Matchain ranks as the #1 Layer 2 blockchain on DappRadar’s 7-day rankings. The latest data also shows: \u0026#8211; 137.88% user growth in one week\u0026#8211;",
+      "links": [
+        "https://thenewscrypto.com/matchain-reaches-1-on-dappradar-a-closer-look-at-the-fastest-growing-layer2/"
+      ],
+      "categories": [
+        "Press Release",
+        "Matchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-101.jpg"
+      },
+      "published": "2025-03-12T06:02:15Z"
+    }
+  },
+  {
+    "hash": "95fce1ed15303aee8292c265775e092960018eb380c5fd8b7b40e6f33c19bbb3",
+    "item": {
+      "title": "U.S. House Votes to Overturn IRS Rule on DeFi Platforms",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/U_S_House_votes_to_overturn_IRS_crypto_broker_rule_as_Senate_reconsideration-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"U.S. House Votes to Overturn IRS Rule on DeFi Platforms\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/U_S_House_votes_to_overturn_IRS_crypto_broker_rule_as_Senate_reconsideration-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/U_S_House_votes_to_overturn_IRS_crypto_broker_rule_as_Senate_reconsideration-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/U_S_House_votes_to_overturn_IRS_crypto_broker_rule_as_Senate_reconsideration-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMembers of the House of Representatives voted with a clear majority to reverse IRS regulations that define crypto entities together with DeFi platforms as brokers.  The latest IRS rule required all crypto entities to gather tax information from their users before the Biden administration left office. The Congress gained a",
+      "links": [
+        "https://thenewscrypto.com/u-s-house-votes-to-overturn-irs-rule-on-defi-platforms/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "DeFi",
+        "IRS",
+        "US House"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/U_S_House_votes_to_overturn_IRS_crypto_broker_rule_as_Senate_reconsideration-1.jpg"
+      },
+      "published": "2025-03-12T05:52:11Z"
+    }
+  },
+  {
+    "hash": "57ca4f5d8f77382f9b5917f0e57ad3410abd4afd8105f607c57ea6774bb421ea",
+    "item": {
+      "title": "XRP ETF Race Heats Up as Franklin Templeton Joins the Crowd With Recent Filing",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-ETF-Race-Heats-Up-as-Franklin-Templeton-Joins-the-Crowd-With-Recent-Filing-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP ETF Franklin Templeton\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-ETF-Race-Heats-Up-as-Franklin-Templeton-Joins-the-Crowd-With-Recent-Filing-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-ETF-Race-Heats-Up-as-Franklin-Templeton-Joins-the-Crowd-With-Recent-Filing-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-ETF-Race-Heats-Up-as-Franklin-Templeton-Joins-the-Crowd-With-Recent-Filing-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs the crypto market begins another attempt at price revival, community members seem to have turned over a positive leaf. The overall market cap shows a 2.73% increase, and Bitcoin has retraced to its Monday trading level of $82,000. As whales and investors wade through this consolidation phase, other subsectors",
+      "links": [
+        "https://thenewscrypto.com/xrp-etf-race-heats-up-as-franklin-templeton-joins-the-crowd-with-recent-filing/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Franklin Templeton",
+        "Ripple",
+        "USA",
+        "xrp",
+        "XRP ETF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/XRP-ETF-Race-Heats-Up-as-Franklin-Templeton-Joins-the-Crowd-With-Recent-Filing-2.jpg"
+      },
+      "published": "2025-03-12T05:46:36Z"
+    }
+  },
+  {
+    "hash": "146564dff62648e1f674a918e4e94b1c115120f8461e51bb92e6340427a15624",
+    "item": {
+      "title": "Pentesters: Is AI Coming for Your Role?",
+      "description": "We’ve been hearing the same story for years: AI is coming for your job. In fact, in 2017, McKinsey printed a report, Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation, predicting that by 2030, 375 million workers would need to find new jobs or risk being displaced by AI and automation. Queue the anxiety.\u0026nbsp;\nThere have been ongoing whispers about what roles would be",
+      "links": [
+        "https://thehackernews.com/2025/03/pentesters-is-ai-coming-for-your-role.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzKEKVjNt0QxMyJ8NY4mLd_gaotu9HoGMZ01-96acPfNR3R_u6-15wsTqscn_ZVb61URrcB-zRQuj5oO5wJmsOb7ipqsDe9JUXQto_1GjUMlM14U06J3LQcDBVlKdxEqBOVHt0SLHKxXP7ZmQ_3Q_eTW9baBC77thMmjT4dbfvz3RKiXfmxwX2Gh-hgc/s1600/THN-Article-Header.png"
+      },
+      "published": "2025-03-12T10:25:00Z"
+    }
+  },
+  {
+    "hash": "31e6422354f35e43d7cfc0ce20a443c52584d9f950e1269d90caa60af9358230",
+    "item": {
+      "title": "URGENT: Microsoft Patches 57 Security Flaws, Including 6 Actively Exploited Zero-Days",
+      "description": "Microsoft on Tuesday released security updates to address 57 security vulnerabilities in its software, including a whopping six zero-days that it said have been actively exploited in the wild.\nOf the 56 flaws, six are rated Critical, 50 are rated Important, and one is rated Low in severity. Twenty-three of the addressed vulnerabilities are remote code execution bugs and 22 relate to privilege",
+      "links": [
+        "https://thehackernews.com/2025/03/urgent-microsoft-patches-57-security.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhulVq_o0BUQ0ne74sUmxfnaeq7IkAuU2wxrBhGof00K_inB8ePU_Gq2MQmxkgGDq4zfgwI8pv1Fv3Eg5T7ecaas6-8rYf1WoaEQrgUPNOCM_GPVY-g9p9JZk0W6vk_sZLegTcvn_9nYEQRf5GANormSz2CyMkL8G73BdBAAhJDXZoz1WmJ6CaBLAJZl1mO/s1600/ms.gif"
+      },
+      "published": "2025-03-12T09:52:00Z"
+    }
   }
 ]
