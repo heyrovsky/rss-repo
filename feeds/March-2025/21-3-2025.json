@@ -431,5 +431,155 @@
       },
       "published": "2025-03-20T19:25:45Z"
     }
+  },
+  {
+    "hash": "d751c38d6d6dbf5b7fe4f25258f99d8c3ddd04fd5fcc35b5f79418823eda4654",
+    "item": {
+      "title": "The ax has become an important part of the Space Force’s arsenal",
+      "description": "\"I’ve terminated 11 major contracts in less than three years.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/03/the-ax-has-become-an-important-part-of-the-space-forces-arsenal/"
+      ],
+      "categories": [
+        "Space",
+        "military space",
+        "space force"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/240404-F-OR751-0001-1152x648.jpg"
+      },
+      "published": "2025-03-21T00:02:47Z"
+    }
+  },
+  {
+    "hash": "838ed46a256e4b831b617a173e4152aa9eb83d73eb9aa81c8d947f9e3df65a90",
+    "item": {
+      "title": "Intel Updates Advanced Performance Extensions \"APX\" Code For The Linux Kernel",
+      "description": "In addition to Intel software engineers this week being busy doing a late restructuring of AVX10 support in moving away from possible 256-bit maximum vector register size (a great move and still so excited to see this materialize!), there are also Intel engineers continuing work on enabling Advanced Performance Extensions (APX) on the Linux kernel side...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-APX-Update-Linux-Kernel"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-21T00:59:34Z"
+    }
+  },
+  {
+    "hash": "b2e13e01f1fc0fd4e2ed9883b9c5ebcab079fd5e1b78c643df8be55aece1976e",
+    "item": {
+      "title": "Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43394591\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-18T00:56:19Z"
+    }
+  },
+  {
+    "hash": "534ba8b247962cf90f1c6eee04e56c6d07af9da43d5bbc2a3138b1f71b4f11e1",
+    "item": {
+      "title": "The IndieWeb Doesn't Need to \"Take Off\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431068\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://susam.net/indieweb-does-not-need-to-take-off.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T01:46:31Z"
+    }
+  },
+  {
+    "hash": "981e0713023a4c94a5d0d1ee69ad1c58d679ac0487c33d2f634a7b043dc7a3dc",
+    "item": {
+      "title": "Asahi Linux Progress Report - Linux 6.14",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431299\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://asahilinux.org/2025/03/progress-report-6-14/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T02:38:55Z"
+    }
+  },
+  {
+    "hash": "33142a420d1480a5113ecc6ea0c2e7d50655733cc0fde42850052f0914c720e1",
+    "item": {
+      "title": "NASA Whoosh Rocket",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43402058\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-18T17:23:30Z"
+    }
+  },
+  {
+    "hash": "1b67304d4200a75a043a17d91b420bbe4be8b855a71631f097bc5f7979669821",
+    "item": {
+      "title": "SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43430856\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2503.11576"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T01:06:42Z"
+    }
+  },
+  {
+    "hash": "9a2cc239bbe1b5ec26f8f2f8643b6daf78d4add1318703d606ca4becee3c6a13",
+    "item": {
+      "title": "Debugging PostgreSQL More Easily",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43398148\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-18T11:25:54Z"
+    }
+  },
+  {
+    "hash": "72701e2ae50bf52cec73e05ee7abd77d2aabd36c4085a62f9917ed31a9003425",
+    "item": {
+      "title": "Nonprofit's Leader Convicted of Siphoning Off $240M in Federal Food Aid",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431184\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T02:14:46Z"
+    }
+  },
+  {
+    "hash": "93b03dff67a6c39664dabc019410af817a64e8ff0f70c4cd7160deb2914f8e78",
+    "item": {
+      "title": "Chibi: PNG-tuber application made in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43430750\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/megabytesofrem/chibi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T00:49:10Z"
+    }
+  },
+  {
+    "hash": "005d364c95ccb85c109673b91f18d13b64ad3ea0b1a02d2fb9cf5514ed849d57",
+    "item": {
+      "title": "Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431171\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T02:11:35Z"
+    }
   }
 ]
