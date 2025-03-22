@@ -1046,5 +1046,491 @@
       },
       "published": "2025-03-21T20:00:26Z"
     }
+  },
+  {
+    "hash": "e9141c964feffcf01041d3ccabb164dddeb0f381520f993e357226e182dce645",
+    "item": {
+      "title": "Crabtime: Zig’s Comptime in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43415820\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://crates.io/crates/crabtime"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-19T18:44:11Z"
+    }
+  },
+  {
+    "hash": "75b1b2ab29b6743d5c2b8ca39da67a395ba188d604bf3793c4779bfafae6370e",
+    "item": {
+      "title": "Cake is watching you: I built a camera cake",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43415113\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/@hazalmestci/interact-with-your-cake-and-eat-it-too-24d25da25017"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-19T17:44:59Z"
+    }
+  },
+  {
+    "hash": "05b13481b8c8800e9d8758422d62b649ce7a8d3a279795aacf3aeafca8209a93",
+    "item": {
+      "title": "Sound that can bend itself through space, reaching only your ear in a crowd",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43406777\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theconversation.com/researchers-created-sound-that-can-bend-itself-through-space-reaching-only-your-ear-in-a-crowd-252266"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-19T00:04:49Z"
+    }
+  },
+  {
+    "hash": "b117c73ab5e4b9c610625784d535117e0f6519668d0264cf9a1288092e253875",
+    "item": {
+      "title": "Graydon Carter's Wild Ride Through the Golden Age of Magazines",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43419616\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/magazine/2025/03/24/when-the-going-was-good-graydon-carter-book-review"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-20T03:17:03Z"
+    }
+  },
+  {
+    "hash": "50946050b4a9b8cf48be0d5b8a296dfba613d1dbbfe4e6c61c5a85098960a1bf",
+    "item": {
+      "title": "Sometimes, it’s the little tech annoyances that sting the most",
+      "description": "macOS wouldn't remember mouse settings? This means war!",
+      "links": [
+        "https://arstechnica.com/culture/2025/03/sometimes-its-the-little-tech-annoyances-that-sting-the-most/"
+      ],
+      "categories": [
+        "Culture",
+        "Annoyances",
+        "Mac",
+        "Mouse",
+        "tech"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-618210412-scaled-1152x648-1742589637.jpg"
+      },
+      "published": "2025-03-22T11:07:46Z"
+    }
+  },
+  {
+    "hash": "348acba9c87ff12408a7ca7dbc3ab655dcc7a4a836607a2fec215e87749985ff",
+    "item": {
+      "title": "Code Submitted Ahead Of Linux 6.15 For Enabling Block Sizes Greater Than Page Size",
+      "description": "Ahead of the Linux v6.14 kernel expected for release tomorrow and in turn the Linux 6.15 merge window, Linux engineer Christian Brauner at Microsoft began sending out his pull requests today of new code he's hoping to see merged for this next cycle. One of those interesting pulls is the work for block devices to allow for block sizes to be greater than the page size...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-BS-Greater-Than-PS"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-22T10:52:09Z"
+    }
+  },
+  {
+    "hash": "bab8f2ebc75a51cb526a4c3c261f6031c484ff56987d46eeb09268c3b6b806dd",
+    "item": {
+      "title": "NVIDIA's Open-Source Kernel Driver Ported To Haiku OS, Mesa NVK Adapted To Run On Top",
+      "description": "Haiku OS developer X512 has managed a rather impressive feat: porting NVIDIA's open-source kernel modules to Haiku. Not only did he get NVIDIA's official Linux kernel modules running on Haiku but he also ported the Mesa NVK Vulkan driver to be able to run atop the NVIDIA kernel driver interface...",
+      "links": [
+        "https://www.phoronix.com/news/NVIDIA-Haiku-OS-NVRM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-22T10:36:18Z"
+    }
+  },
+  {
+    "hash": "1c57e24d2014a7f4492109f8d912e03005c9525b1caa20b7aaa42c82cb125835",
+    "item": {
+      "title": "KDE Continues Prepping More Features For Plasma 6.4",
+      "description": "KDE developers continue pushing ahead with new feature development on the Plasma 6.4 desktop to further refine Plasma 6...",
+      "links": [
+        "https://www.phoronix.com/news/KDE-Plasma-6.4-KMenuEdit"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-22T10:20:46Z"
+    }
+  },
+  {
+    "hash": "496c1b2804f0c81b97b784af273f265c28614d14cca7e05f0cd9870dd5a81d5b",
+    "item": {
+      "title": "Volatile Market Sentiment: Could Bitcoin Reclaim $90K in the Coming Days?",
+      "description": "\u003cp\u003eBitcoin trades above $84K as U.S. policy shifts and SEC updates drive sentiment. Can BTC reclaim $90K amid tightening technicals and whale activity?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/volatile-market-sentiment-could-bitcoin-reclaim-90k-in-the-coming-days/\"\u003eVolatile Market Sentiment: Could Bitcoin Reclaim $90K in the Coming Days?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/volatile-market-sentiment-could-bitcoin-reclaim-90k-in-the-coming-days/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/14124115/1728886569-image-30-1.jpg"
+      },
+      "published": "2025-03-22T10:51:51Z"
+    }
+  },
+  {
+    "hash": "e10ebd8b35b81c9e78a27421db7e06c33833bcbccee4b806994d0d976b915ebb",
+    "item": {
+      "title": "Tether Collaborates with Big Four Auditor to Verify 1:1 Backing for USDT Stablecoin",
+      "description": "\u003cp\u003eTether is reportedly working with a Big Four accounting firm to conduct an audit of its reserves and confirm that each token is backed 1:1 with assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tether-collaborates-with-big-four-auditor-to-verify-11-backing-for-usdt-stablecoin/\"\u003eTether Collaborates with Big Four Auditor to Verify 1:1 Backing for USDT Stablecoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tether-collaborates-with-big-four-auditor-to-verify-11-backing-for-usdt-stablecoin/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Tether",
+        "Tether USDT"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/22080214/1742630534-image-1742630417743_optimized.jpg"
+      },
+      "published": "2025-03-22T08:47:02Z"
+    }
+  },
+  {
+    "hash": "9680f0adc2b8b1a5cc9ec32d6a0d3f91b47d852e7a78ddf6e7758ed849b090c8",
+    "item": {
+      "title": "Haun Ventures Targets $1 Billion Raise for New Crypto Investment Funds",
+      "description": "\u003cp\u003eVenture capital firm Haun Ventures is reportedly aiming to raise $1 billion across two new cryptocurrency investment funds within the next three months.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/haun-ventures-targets-1-billion-raise-for-new-crypto-investment-funds/\"\u003eHaun Ventures Targets $1 Billion Raise for New Crypto Investment Funds\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/haun-ventures-targets-1-billion-raise-for-new-crypto-investment-funds/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "VC Funding"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/22080555/1742630755-image-1742630403414_optimized.jpg"
+      },
+      "published": "2025-03-22T08:38:23Z"
+    }
+  },
+  {
+    "hash": "c11ee308b979268f7753d60056f69142cddd17c986679a22583c9010160421ff",
+    "item": {
+      "title": "Crypto Industry Super PAC Endorses Republican Candidates in Florida Special Elections",
+      "description": "\u003cp\u003eA political action committee network backed by the crypto industry is throwing its weight behind two Republican candidates in Florida’s upcoming special elections.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-industry-super-pac-endorses-republican-candidates-in-florida-special-elections/\"\u003eCrypto Industry Super PAC Endorses Republican Candidates in Florida Special Elections\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-industry-super-pac-endorses-republican-candidates-in-florida-special-elections/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Election",
+        "Fairshake PAC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/22082240/1742631760-image-1742630387012_optimized.jpg"
+      },
+      "published": "2025-03-22T08:34:10Z"
+    }
+  },
+  {
+    "hash": "a35257ea3c133b038ef1d1ed7812dab2b6186462dfd1e80c49cefd1cef37d696",
+    "item": {
+      "title": "Tornado Cash (TORN) Surges 42% in a Day, Indicators Hint Further Gains",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Tornado-Cash-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Tornado Cash (TORN) Surges 42% in a Day, Indicators Hint Further Gains\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Tornado-Cash-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Tornado-Cash-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Tornado-Cash-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTornado Cash (TORN) price is showing a strong upward trend and surged 42% in the intraday session. The bulls are looking aggressive and have reached new heights. TORN cryptocurrency has increased by more than 59% in the past week, indicating positive momentum. TORN price trading above 50-day and 200-day exponential",
+      "links": [
+        "https://thenewscrypto.com/tornado-cash-torn-surges-42-in-a-day-indicators-hint-further-gains/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "TORN",
+        "Tornado Cash"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Tornado-Cash-1.jpg"
+      },
+      "published": "2025-03-22T08:43:11Z"
+    }
+  },
+  {
+    "hash": "29ca8e2fdb639bfcdaa5147f7eec81c3c82579a48f6a0e8e3620f7e4796bad8b",
+    "item": {
+      "title": "Ethereum Falls—Will It Recover? DuragDoge Rises as the Next Memecoin Leader",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"470\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-199.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-199.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-199-300x188.jpg 300w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eWell, even the second-largest crypto in the market, Ethereum (ETH), is feeling the heat of the bear market. Ethereum continues to be on a prolonged downtrend, hitting a new yearly all-time low. This has derailed its holders and investors as ETH continues to dip despite the network’s activity to raise",
+      "links": [
+        "https://thenewscrypto.com/ethereum-falls-will-it-recover-duragdoge-rises-as-the-next-memecoin-leader/"
+      ],
+      "categories": [
+        "Press Release",
+        "DuragDoge"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-199.jpg"
+      },
+      "published": "2025-03-22T08:30:00Z"
+    }
+  },
+  {
+    "hash": "727fa14b83fdd147199c90e79ce97f44103827b8b0c5b98d4b2af6d4bfaae428",
+    "item": {
+      "title": "Experts See the Prospects of $10,000 Returns if You Put $100 on Hedera, FXGuys, and PI",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"470\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-198.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-198.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-198-300x188.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003ePi Network (PI) recently came back from the ashes after a long mining period, while Hedera (HBAR) is trying to reverse its slow growth in 2025. Both these tokens are likely to deliver a 100x ROI in 2025. Smart investors are also leaning towards a new high-potential altcoin called FXGuys",
+      "links": [
+        "https://thenewscrypto.com/experts-see-the-prospects-of-10000-returns-if-you-put-100-on-hedera-fxguys-and-pi/"
+      ],
+      "categories": [
+        "Press Release",
+        "FXGuys"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-198.jpg"
+      },
+      "published": "2025-03-22T08:30:00Z"
+    }
+  },
+  {
+    "hash": "cbf70637ac81a1e1005712c0d4ee171829304b6ef0d86c0ffea4699548f2e294",
+    "item": {
+      "title": "PancakeSwap (CAKE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/CAKE_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PancakeSwap (CAKE) Price Prediction 2023, 2024, 2025-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/CAKE_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/CAKE_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/CAKE_Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/06/CAKE_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this PancakeSwap (CAKE) price prediction for 2025, 2026-2030, we will analyze the price patterns of CAKE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.  TABLE OF CONTENTS INTRODUCTION PancakeSwap (CAKE) Current Market Status What is PancakeSwap (CAKE)? PancakeSwap (CAKE) 24H Technicals PANCAKESWAP",
+      "links": [
+        "https://thenewscrypto.com/pancakeswap-cake-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "CAKE",
+        "Crypto Market",
+        "Cryptocurrency",
+        "PancakeSwap",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/CAKE_Price-prediction.jpg"
+      },
+      "published": "2025-03-22T07:18:44Z"
+    }
+  },
+  {
+    "hash": "7faf9cbcb37ef0c8d7ca8aea4f7f7b3c10978c7c6437d1ed4ab92e40678f95e0",
+    "item": {
+      "title": "IMF Includes Cryptocurrencies in Balance of Payments Framework",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/IMF-updates-global-standards-to-include.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"IMF Includes Cryptocurrencies in Balance of Payments Framework\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/IMF-updates-global-standards-to-include.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/IMF-updates-global-standards-to-include-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/IMF-updates-global-standards-to-include-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eInternational Monetary Fun joined the growing list of global organizations that recognize cryptocurrencies. What started as an experiment in 2009 has now grown into a trillion-dollar industry. It reached such as magnitude that is hard to ignore by world leaders and government agencies. Trump’s pro-crypto stance further fueled the growth",
+      "links": [
+        "https://thenewscrypto.com/imf-includes-cryptocurrencies-in-balance-of-payments-framework/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "IMF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/IMF-updates-global-standards-to-include.jpg"
+      },
+      "published": "2025-03-22T06:49:25Z"
+    }
+  },
+  {
+    "hash": "3bfcf098dd8301f5bc30deaf37a963a648d4ef14ba6ce9b01a7e1e8fbb6d88bf",
+    "item": {
+      "title": "PancakeSwap (CAKE) Price Surges 10% As Whale Activity Soars",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PancakeSwap (CAKE) Price Surges 10% As Whale Activity Soars \" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePancakeSwap (CAKE) is heading in the upper direction, surged by 10% in the last 24 hours. It spiked to 59.11% last week showcasing extreme bullishness. The on-chain analysis of CAKE revealed a significant spike in whale activity, which boosted its price. According to the on-chain analytics platform Santiment, PancakeSwap (CAKE)",
+      "links": [
+        "https://thenewscrypto.com/pancakeswap-cake-price-surges-10-as-whale-activity-soars/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "CAKE",
+        "PancakeSwap"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today.jpg"
+      },
+      "published": "2025-03-22T06:44:45Z"
+    }
+  },
+  {
+    "hash": "e3f4203c5a1fb9bb22b8544ed4ba5a976a52b06442b84e9b469adfaeef573737",
+    "item": {
+      "title": "Toncoin (TON) Drops Over 4% After TD Sequential Flashes a Pullback Signal",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Toncoin (TON) Drops Over 4% After TD Sequential Flashes a Pullback Signal\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market is on a shaky rebound, with assets fluctuating within the bear swirl. Bitcoin and Ethereum grapple to break free from bearish pressure, and Toncoin (TON) follows suit, sliding by over 4.42%. To shift the momentum, certain crucial levels of Toncoin should be retested. The asset opened the",
+      "links": [
+        "https://thenewscrypto.com/toncoin-ton-drops-over-4-after-td-sequential-flashes-a-pullback-signal/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "TON",
+        "Toncoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour.jpg"
+      },
+      "published": "2025-03-22T06:42:33Z"
+    }
+  },
+  {
+    "hash": "3c59f9b90c67ddab7f87420566bd8e3df5d12de2d648ea7b1cd287e8a35c2922",
+    "item": {
+      "title": "What’s Drawing Bitcoin (BTC) and Ethereum (ETH) Traders To Buy BinoFi (BINO) Tokens?",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-197.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-197.jpg 781w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-197-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-197-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-197-376x212.jpg 376w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eThe crypto market has steeply declined since January 20th, when Donald Trump assumed office as the U.S. president. The recent sell-offs have seen Bitcoin and Ethereum dip sharply as investors liquidate their crypto holdings. Analysts believe the sell-off could result from macroeconomic uncertainty in the U.S. following Trump’s proposed economic",
+      "links": [
+        "https://thenewscrypto.com/whats-drawing-bitcoin-btc-and-ethereum-eth-traders-to-buy-binofi-bino-tokens/"
+      ],
+      "categories": [
+        "Press Release",
+        "BinoFi"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-197.jpg"
+      },
+      "published": "2025-03-22T06:20:42Z"
+    }
+  },
+  {
+    "hash": "3257f928b8d2b433f3bab632adc40ac6b7a6f7c1181127a74d38da77494705a5",
+    "item": {
+      "title": "Ethereum Pectra Upgrade Delayed Past April 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Stumbles-9-–-Is-This-a-Dip-or-Deeper-Trouble.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Stumbles 9% – Is This a Dip or Deeper Trouble?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Stumbles-9-–-Is-This-a-Dip-or-Deeper-Trouble.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Stumbles-9-–-Is-This-a-Dip-or-Deeper-Trouble-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Stumbles-9-–-Is-This-a-Dip-or-Deeper-Trouble-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe highly anticipated Ethereum Pectra mainnet upgrade has been delayed beyond its initial April 2025 target date, according to decisions made during Ethereum\u0026#8217;s All Core Developers Consensus Call (ACDC) #153 on March 20. This postponement reflects the development team\u0026#8217;s cautious approach to ensuring the network upgrade proceeds without complications. During",
+      "links": [
+        "https://thenewscrypto.com/ethereum-pectra-upgrade-delayed-past-april-2025/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ETH",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Ethereum-Stumbles-9-–-Is-This-a-Dip-or-Deeper-Trouble.jpg"
+      },
+      "published": "2025-03-21T23:55:00Z"
+    }
+  },
+  {
+    "hash": "01d15416154de7d2c8f247b203538d8e4eef3e8f2326a3ac26775c9b347369d8",
+    "item": {
+      "title": "Cardano (ADA) Faces Price Pressure, But Network Activity Remains Strong",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano Shows High Positive Sentiment Despite Weak On-chain Growth\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano (ADA) appears positioned for a potential bullish breakout, according to recent technical analysis from prominent market watchers. Rose Premium Signals has identified a bullish reversal pattern on the ADA chart, suggesting the possibility of significant upside if key support levels hold. In a March 20 commentary shared on X,",
+      "links": [
+        "https://thenewscrypto.com/cardano-ada-faces-price-pressure-but-network-activity-remains-strong/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ADA",
+        "Cardano"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg"
+      },
+      "published": "2025-03-21T23:15:00Z"
+    }
   }
 ]
