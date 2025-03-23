@@ -159,5 +159,74 @@
       "source": "Hacker News",
       "published": "2025-03-20T18:40:59Z"
     }
+  },
+  {
+    "hash": "0d849fbccd67dd24a5a08ea2bf70d7f0fa53194a7d6df223e6d6e11258f37187",
+    "item": {
+      "title": "(Recommendation Systems and Search) × LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43450732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eugeneyan.com/writing/recsys-llm/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-23T03:40:05Z"
+    }
+  },
+  {
+    "hash": "95fd3d52915644d31b0493fb60880b8884c3d0b9e45552ede1c9e291f64e146a",
+    "item": {
+      "title": "EmptyEpsilon open source spaceship bridge simulator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43424970\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://daid.github.io/EmptyEpsilon/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-20T15:55:51Z"
+    }
+  },
+  {
+    "hash": "04b0f5bfdfc89c26d53479d867da6e8720894d52b01940c49dea756294809889",
+    "item": {
+      "title": "Metabolism Can Shape Cells' Destinies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43436663\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T15:13:35Z"
+    }
+  },
+  {
+    "hash": "b26b3c1c05368d4bd153290e519bb0a39cf4c4f3929b75b3ed217b960377823c",
+    "item": {
+      "title": "Matched and Deleted",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43432151\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dikshaupadhyay.com/p/matched-and-deleted"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-21T05:42:27Z"
+    }
+  },
+  {
+    "hash": "835a9e73dbba382971ab118671802ef032372cf3415bd2dadaf52638fc10bcbf",
+    "item": {
+      "title": "GitHub Supply Chain Breach: Coinbase Attack Exposes 218 Repositories, Leaks CI/CD Secrets",
+      "description": "The supply chain attack involving the GitHub Action \"tj-actions/changed-files\" started as a highly-targeted attack against one of Coinbase's open-source projects, before evolving into something more widespread in scope.\n\"The payload was focused on exploiting the public CI/CD flow of one of their open source projects – agentkit, probably with the purpose of leveraging it for further compromises,\"",
+      "links": [
+        "https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0eIY35kZylUhG7KWX2bgx0CqTGEwbv45gVAjOhmMWRQmd9W3UBBvrk9chpIrLnECFWyhD-7qtsQNhBx4XWxpmLV1oesoWe1qoAXanEio8EP3B-vhr8MMMDz9PC8q6o2etHZ6S0Y60RQ80Uo3E4BI1TtQG3dfEE5PgZMZoZMFr1bo-VLiAZjucxdulpu/s1600/action.png"
+      },
+      "published": "2025-03-23T05:26:00Z"
+    }
   }
 ]
