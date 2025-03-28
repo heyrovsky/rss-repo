@@ -2825,5 +2825,734 @@
       ],
       "published": "2025-03-28T13:00:00Z"
     }
+  },
+  {
+    "hash": "62db0f58d66a581f4d36f32e4923c4d0248dada3b98c24f16b83d1155874c522",
+    "item": {
+      "title": "[$] Making the OpenWrt One",
+      "description": "In a keynote on the final day of \u003ca\nhref=\"https://www.socallinuxexpo.org/scale/22x\"\u003eSCALE 22x\u003c/a\u003e, Denver\nGingerich said that he wanted to talk \"\u003cq\u003ea little bit about a router and\nalso the big picture around that router\u003c/q\u003e\".  Gingerich is the director of\ncompliance at the \u003ca href=\"https://sfconservancy.org/\"\u003eSoftware Freedom\nConservancy\u003c/a\u003e (SFC), which is the organization behind the \u003ca\nhref=\"https://openwrt.org/toh/openwrt/one\"\u003eOpenWrt One\u003c/a\u003e router that\nLWN \u003ca href=\"https://lwn.net/Articles/994961/\"\u003elooked at\u003c/a\u003e back in November.  The\nrouter is, of course, based on firmware from the\n\u003ca href=\"https://openwrt.org/start\"\u003eOpenWrt project\u003c/a\u003e, which got its\nstart because of GPL-enforcement activities and is a member project at the SFC.",
+      "links": [
+        "https://lwn.net/Articles/1014998/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-03-28T16:31:36Z"
+    }
+  },
+  {
+    "hash": "e5562f8f9375a422b5e6e9710c38ac003bf5102a7b96e2b860a9d0e46807cb33",
+    "item": {
+      "title": "[$] The first part of the 6.15 merge window",
+      "description": "As of this writing, 6,653 non-merge changesets have been pulled into the\nmainline kernel repository for the 6.15 release.  This merge window is thus\nwell underway.  A number of significant changes have been merged so far;\nread on for our summary of the first half of the 6.15 merge window.",
+      "links": [
+        "https://lwn.net/Articles/1015414/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-03-28T15:08:17Z"
+    }
+  },
+  {
+    "hash": "d90eaf8d18d495ad25e72f4f36fbc4a6e19dd5cfd80d89a929c06d594b96ded5",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is red today\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eAave DAO Integrates Chainlink SVR on Ethereum Mainnet\u003c/li\u003e\n\u003cli\u003eThe Sandbox Alpha Season 5 Starts Monday, Includes Attack on Titan, Jurassic World, Teletubbies, Atari, Hellboy, Terminator, and More\u003c/li\u003e\n\u003cli\u003eDecentralized Storage Platform Walrus Launches Mainnet, Welcomes Claynosaurz\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-03-28T16:25:00Z"
+    }
+  },
+  {
+    "hash": "2b932474a0cc5028c89e5a9779d216f537b8b47753a49e1a7cfe357bb0b77d87",
+    "item": {
+      "title": "Nine Filings, One Barrier — Is XRP ETF Approval Almost Here?",
+      "description": "\u003cp\u003eMultiple institutions are lining up to launch an XRP ETF, but everything depends on how soon Ripple’s case with the SEC is resolved.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/nine-filings-one-barrier-is-the-xrp-etf-almost-here/\"\u003eNine Filings, One Barrier — Is XRP ETF Approval Almost Here?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/nine-filings-one-barrier-is-the-xrp-etf-almost-here/"
+      ],
+      "categories": [
+        "Features",
+        "SEC",
+        "XRP",
+        "XRP ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/28154541/1743176740-1000_f_583093679_diouv2n3oy4wfhvdovtpge8844uq8e7n_optimized.jpg"
+      },
+      "published": "2025-03-28T15:56:25Z"
+    }
+  },
+  {
+    "hash": "cecfc5e59d1ca70558b6c6892ac1d204fcefb5841546459887ee99a3faa4a3a1",
+    "item": {
+      "title": "GHIBLI Market Cap Soars 99.2% in 24 Hours – Could it Get Listed on Meme Index? ICO Ends in 3 Days",
+      "description": "\u003cp\u003eFollowing backlash over OpenAI’s “Ghiblify” feature, $GHIBLI’s market cap soared by 99.2%, sparking investor interest and speculation around a possible listing on the Meme Index, with just days left in its ICO.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ghibli-surges-99-as-meme-index-listing-speculation-grows/\"\u003eGHIBLI Market Cap Soars 99.2% in 24 Hours – Could it Get Listed on Meme Index? ICO Ends in 3 Days\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ghibli-surges-99-as-meme-index-listing-speculation-grows/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Crypto ICO",
+        "Meme coin",
+        "Meme Index"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/28150538/1743174337-meme-index-32825.jpg"
+      },
+      "published": "2025-03-28T15:11:51Z"
+    }
+  },
+  {
+    "hash": "7f3ec43f2c75e5bb5fb4199821ac77c28798dc1c74e4d5a39df4db87835eee52",
+    "item": {
+      "title": "Is Walrus the Next AI Mega Coin? 55% Rally Says Maybe",
+      "description": "\u003cp\u003eWalrus (WAL) has taken centre stage in the AI conversation with a volatile mainnet launch.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/is-walrus-coin-the-next-ai-mega-crypto-55-rally-says-maybe/\"\u003eIs Walrus the Next AI Mega Coin? 55% Rally Says Maybe \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/is-walrus-coin-the-next-ai-mega-crypto-55-rally-says-maybe/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "AI",
+        "Technical Analysis",
+        "Walrus"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/28131721/1743167840-is-walrus-the-next-ai-mega-coin-55-rally-says-maybe.jpg"
+      },
+      "published": "2025-03-28T15:02:50Z"
+    }
+  },
+  {
+    "hash": "d85d01c85ee3bf535444ee3e1ff8e10415d167ac13970ab940172030902afa17",
+    "item": {
+      "title": "Canaan Reveals New Bitcoin Mining Machine for Home Use",
+      "description": "\u003cp\u003eCanaan has unveiled Avalon Q, its new professional-grade, low-sound Bitcoin mining machine for home users.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/canaan-reveals-new-bitcoin-mining-machine-for-home-use/\"\u003eCanaan Reveals New Bitcoin Mining Machine for Home Use\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/canaan-reveals-new-bitcoin-mining-machine-for-home-use/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/28140811/1743170891-canaan-bitcoin-miners-avalon-q.jpg"
+      },
+      "published": "2025-03-28T14:10:35Z"
+    }
+  },
+  {
+    "hash": "aa6b522796b20fc5d077dee5c6aa18da890d0cd5593ddfbe2f912b5623f3f3a2",
+    "item": {
+      "title": "BNB Chain’s Tutorial $TUT Meme Coin Soars 140% After Binance Listing",
+      "description": "\u003cp\u003e$TUT meme coin, built on the BNB Chain, soared 140% after a Binance listing and community vote. With over 1.8M users engaging in its educational tutorial, the token's trading volume skyrocketed, but indicators suggest caution as funding rates turn negative and resistance looms near $0.06.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tut-meme-coin-jumps-140-after-binance-listing/\"\u003eBNB Chain’s Tutorial $TUT Meme Coin Soars 140% After Binance Listing\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tut-meme-coin-jumps-140-after-binance-listing/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Binance",
+        "BNB Chain",
+        "Meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/28125428/1743166468-tutcryptoo_optimized.webp"
+      },
+      "published": "2025-03-28T13:52:43Z"
+    }
+  },
+  {
+    "hash": "d1a083ca6e9bc404a6fe4fbb7b362cd932205c01101d56635e2f1bae78bb3005",
+    "item": {
+      "title": "The Nation Token ($NATO) Officially Launches Following Historic Airdrop to 1 Million Users on Base",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/nato_featured_image_17430844618YCwyftvEO.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/nato_featured_image_17430844618YCwyftvEO.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/03/nato_featured_image_17430844618YCwyftvEO-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/nato_featured_image_17430844618YCwyftvEO-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/03/nato_featured_image_17430844618YCwyftvEO-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eIași, Romania, 28th March 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/the-nation-token-nato-officially-launches-following-historic-airdrop-to-1-million-users-on-base/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/nato_featured_image_17430844618YCwyftvEO.jpg"
+      },
+      "published": "2025-03-28T15:02:14Z"
+    }
+  },
+  {
+    "hash": "75823caa39783d7d5f763277333bc361d7c43daf5e96a3ed7f846c1177cafa8d",
+    "item": {
+      "title": "Sui (SUI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sui (SUI) Price Prediction\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-150x84.jpg 150w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Sui (SUI) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of SUI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sui (SUI) Current Market Status What is Sui (SUI)? Sui (SUI) 24H Technicals SUI (SUI)",
+      "links": [
+        "https://thenewscrypto.com/sui-sui-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "SUI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg"
+      },
+      "published": "2025-03-28T13:48:46Z"
+    }
+  },
+  {
+    "hash": "517b83e97afd770e9e28b5e0c44ac224cad425ea0121ef330f52f4136c4ba4cb",
+    "item": {
+      "title": "Shiba Inu (SHIB) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Shiba-Inu-SHIB_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Shiba Inu (SHIB)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Shiba-Inu-SHIB_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Shiba-Inu-SHIB_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Shiba-Inu-SHIB_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Shiba Inu (SHIB) price prediction for 2025, 2026-2030,\u0026#160; we will analyze the price patterns of SHIB by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Shiba Inu (SHIB) Current Market Status What is Shiba Inu (SHIB)? Shiba Inu",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-shib-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "memecoin",
+        "price prediction",
+        "SHIB",
+        "Shiba Inu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Shiba-Inu-SHIB_Price-prediction.jpg"
+      },
+      "published": "2025-03-28T13:12:00Z"
+    }
+  },
+  {
+    "hash": "21f82295dfd2c141e05481c1902b1e10cd9f5b2db64601c02435a789467a7c23",
+    "item": {
+      "title": "GHIBLI Token Price Jumps 80%, What’s Driving the Rally?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/GHIBLI-Token-Secures-Multiple-Exchange.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"GHIBLI Token Price Jumps 80%, What’s Driving the Rally?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/GHIBLI-Token-Secures-Multiple-Exchange.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/GHIBLI-Token-Secures-Multiple-Exchange-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/GHIBLI-Token-Secures-Multiple-Exchange-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMemecoins never make the crypto markets dull. So far, several popular internet memes and trends have made their entry into the crypto industry with their memecoins. From the pioneering Shiba Inu dog meme and Pepe the frog memes to the latest Ghibli AI art, the crypto market welcomed all trends.\u0026#160;",
+      "links": [
+        "https://thenewscrypto.com/ghibli-token-price-jumps-80-whats-driving-the-rally/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "memecoin",
+        "price surge"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/GHIBLI-Token-Secures-Multiple-Exchange.jpg"
+      },
+      "published": "2025-03-28T13:10:19Z"
+    }
+  },
+  {
+    "hash": "995f952ee5e3ed4512528b5777b7f5410770bb842cfee2b132f2b21380ba2ad3",
+    "item": {
+      "title": "South Carolina Drops Staking Lawsuit, Proposes Bitcoin Reserve Bill",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Oklahoma-House-Passes-Bitcoin-Reserve-Bill-with-a-77-15-Vote.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"South Carolina Drops Staking Lawsuit, Proposes Bitcoin Reserve Bill\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Oklahoma-House-Passes-Bitcoin-Reserve-Bill-with-a-77-15-Vote.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Oklahoma-House-Passes-Bitcoin-Reserve-Bill-with-a-77-15-Vote-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Oklahoma-House-Passes-Bitcoin-Reserve-Bill-with-a-77-15-Vote-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSouth Carolina has dismissed its lawsuit against Coinbase over its staking services, following Vermont’s lead. The lawsuit accused Coinbase of offering unregistered securities. The state’s decision marks a significant shift in regulatory actions against crypto staking in the U.S. On March 27, Coinbase and the South Carolina Attorney General’s securities",
+      "links": [
+        "https://thenewscrypto.com/south-carolina-drops-staking-lawsuit-proposes-bitcoin-reserve-bill/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "Crypto"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Oklahoma-House-Passes-Bitcoin-Reserve-Bill-with-a-77-15-Vote.jpg"
+      },
+      "published": "2025-03-28T13:01:31Z"
+    }
+  },
+  {
+    "hash": "86d440ae9e79e58e64876627bb7c8fdb6d7a9f2a01be8a85ca971d2057d26935",
+    "item": {
+      "title": "XRPTurbo Crosses 250,000 XRP Presale Raise, Gears up for Platform Demo \u0026 Staking Launch",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-224.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-224.jpg 781w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-224-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-224-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-224-376x212.jpg 376w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eMomentum is building fast in the XRP ecosystem as XRPTurbo—a rising DeFi and AI-powered launchpad built on the XRP Ledger—breaks through the 250,000 XRP milestone in its presale. With under four days remaining, investor interest is reaching new heights as anticipation grows around XRPTurbo’s game-changing platform demo. Earlier this week,",
+      "links": [
+        "https://thenewscrypto.com/xrpturbo-crosses-250000-xrp-presale-raise-gears-up-for-platform-demo-staking-launch/"
+      ],
+      "categories": [
+        "Press Release",
+        "XRPTurbo"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-224.jpg"
+      },
+      "published": "2025-03-28T13:00:00Z"
+    }
+  },
+  {
+    "hash": "569ba7160aeea563ad9c561bd70846d8647200146422344a934dcbd786a707ef",
+    "item": {
+      "title": "Toncoin Shows Bullish Momentum—Can TON Break Key Resistance?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Toncoin Shows Bullish Momentum—Can TON Break Key Resistance?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eToncoin (TON) has been pushing higher, showing strength even as the broader crypto market struggles. It’s now trading at $4.00, up 5.38% in the last 24 hours, with buyers stepping in and fundamentals looking solid. Will Toncoin break past $4.67 and keep climbing, or is a pullback coming? TON’s Indicators",
+      "links": [
+        "https://thenewscrypto.com/toncoin-shows-bullish-momentum-can-ton-break-key-resistance/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Altcoin",
+        "TON",
+        "Toncoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/The_TD_Sequential_presents_a_buy_signal_on_the_Toncoin_TON_4_hour-1.jpg"
+      },
+      "published": "2025-03-28T12:52:58Z"
+    }
+  },
+  {
+    "hash": "a0d199b868398bc448e419e642f319cba984b1aa5261e12f6046f0165cbcff12",
+    "item": {
+      "title": "From Tokenized Assets to Wireless Networks—Why Qubetics, Story, and Helium Rank as the Top Crypto Picks To Buy for 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-92.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-92.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-92-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-92-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-92-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eHelium is building something bold—an entirely decentralized wireless network that flips traditional telecom models on their heads. Instead of relying on centralized providers with expensive infrastructure and rigid pricing, Helium rewards users for powering a shared wireless network. That means lower costs, more coverage, and a system driven by the",
+      "links": [
+        "https://thenewscrypto.com/from-tokenized-assets-to-wireless-networks-why-qubetics-story-and-helium-rank-as-the-top-crypto-picks-to-buy-for-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-92.png"
+      },
+      "published": "2025-03-28T12:45:00Z"
+    }
+  },
+  {
+    "hash": "43f0891f0932cfc7591cb24d02866b3b86af1979833825379756436f1128d90d",
+    "item": {
+      "title": "Digital Identity in Gaming: Why Your Wallet Will Be Your Gamer Tag in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"467\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-94.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/image001-94.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/03/image001-94-300x186.png 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe gaming industry continues to shift toward decentralized identity management solutions. Current players integrate blockchain-based avatars into their gaming activity as well as NFT gaming profiles and Web3 credentials.  Gamer identities based on screen names and profiles and cross-platform capabilities have experienced change yet still have existing challenges. Users face",
+      "links": [
+        "https://thenewscrypto.com/digital-identity-in-gaming-why-your-wallet-will-be-your-gamer-tag-in-2025/"
+      ],
+      "categories": [
+        "Learn",
+        "Blockchain",
+        "METAMASK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/image001-94.png"
+      },
+      "published": "2025-03-28T12:44:12Z"
+    }
+  },
+  {
+    "hash": "3c6b5d776f3e41283a550f44062dd2c2c522a4d163c4c07508f37f6481e39423",
+    "item": {
+      "title": "Can Ozak AI Outperform Chainlink and Ethereum? Why Some Analysts Predict 300x Potential",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-29.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Ozak AI Outperform Chainlink and Ethereum? Why Some Analysts Predict 300x Potential\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-29.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-29-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-29-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eCrypto market is constantly evolving, with innovative projects rising to venture mounted gamers. Ethereum (ETH) and Chainlink (LINK) have long been dominant in their respective areas—Ethereum because the leading smart contract platform and Chainlink because the go-to decentralized oracle network. However, a new AI-powered crypto, Ozak AI (OZAK), is gaining",
+      "links": [
+        "https://thenewscrypto.com/can-ozak-ai-outperform-chainlink-and-ethereum-why-some-analysts-predict-300x-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Chainlink",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/unnamed-1-29.jpg"
+      },
+      "published": "2025-03-28T12:30:00Z"
+    }
+  },
+  {
+    "hash": "5d9deeb5b99c9eaba226acd4158125176912d4b7689a474cded19f9d6baecad2",
+    "item": {
+      "title": "Google solves its mysterious Pixel problem, announces 9a launch date",
+      "description": "Google has sorted out its Pixel problems and will begin the 9a rollout on April 10.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/03/google-confirms-pixel-9a-launch-for-april-10/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "Google Pixel",
+        "pixel 9a"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Pixel-9a_1-copy-1152x648-1743179341.jpg"
+      },
+      "published": "2025-03-28T16:50:57Z"
+    }
+  },
+  {
+    "hash": "222951032b547c942da62ddb67407fd4f0163385124ded325abedaf0cc34c9c5",
+    "item": {
+      "title": "Corning’s new ceramic glass might save your next phone from disaster",
+      "description": "Gorilla Glass Ceramic will appear on its first phone in the coming months. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/03/cornings-new-apple-like-ceramic-glass-might-save-your-next-phone-from-disaster/"
+      ],
+      "categories": [
+        "Tech"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/corning-glass-1152x648.jpg"
+      },
+      "published": "2025-03-28T16:02:09Z"
+    }
+  },
+  {
+    "hash": "b1ab82e6cc296995b12f088a7c26affb20bef600c7f93ab7148d6067eacc083e",
+    "item": {
+      "title": "Trump annoyed the Smithsonian isn’t promoting discredited racial ideas",
+      "description": "New executive order slams museum for recognizing \"race is not a biological reality.\"",
+      "links": [
+        "https://arstechnica.com/science/2025/03/trump-annoyed-the-smithsonian-isnt-promoting-discredited-racial-ideas/"
+      ],
+      "categories": [
+        "Science",
+        "eugenics",
+        "race",
+        "Racism",
+        "scientific racism",
+        "Smithsonian",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2163809851-1152x648.jpg"
+      },
+      "published": "2025-03-28T15:53:45Z"
+    }
+  },
+  {
+    "hash": "c95bf21ed64681ae31a39bf53d71d277227db4bb2c05a6e5f395324a3050b23d",
+    "item": {
+      "title": "What to make of Nintendo’s mention of new “Switch 2 Edition games”",
+      "description": "Fine print suggests visual upgrades for original Switch games on new hardware.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/03/nintendo-hints-at-enhanced-switch-2-edition-games-for-new-console/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/switch2-new-1152x648.png"
+      },
+      "published": "2025-03-28T15:20:56Z"
+    }
+  },
+  {
+    "hash": "6af43fbdd5c23484000f7da524349a79677e9ac2c80cc7586b2d617c5f0bbe24",
+    "item": {
+      "title": "Gran Turismo 7 expands its use of AI/ML-trained NPCs with good effect",
+      "description": "First, Sony made an unbeatable AI driver; now, it's retrained it to be a good NPC.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/03/gran-turismo-7-gets-an-npc-upgrade-with-improved-gt-sophy-ai/"
+      ],
+      "categories": [
+        "Cars",
+        "Gaming",
+        "AI",
+        "gran turismo 7",
+        "GT Sophy"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GT_Sophy_01-1152x648.jpg"
+      },
+      "published": "2025-03-28T15:01:32Z"
+    }
+  },
+  {
+    "hash": "d8362da22275ed91177e5b9cfb60ca3b5556b433053201e1ff1b881239455359",
+    "item": {
+      "title": "GNOME 48 \u0026 KDE Plasma 6.3 Delivering Great Wayland Desktop Experience On Ubuntu 25.04 For Linux Gaming",
+      "description": "While there were a few graphics benchmarks in yesterday's Ubuntu 25.04 beta benchmarks, today's article is looking more at the Ubuntu 25.04 Linux gaming performance for both the GNOME 48 and KDE Plasma 6.3 desktops that default to the Wayland-based session by default while also trying out the X11 session for both of these desktops.",
+      "links": [
+        "https://www.phoronix.com/review/ubuntu-2504-kde-gnome-way"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-28T15:42:17Z"
+    }
+  },
+  {
+    "hash": "4c18388292d48d2eea34a7eb1a925389230eeddf4ad65c30fd7380acc7d6157f",
+    "item": {
+      "title": "Linux 6.15 Landing Backlight Driver For Various Apple iPhones \u0026 iPads",
+      "description": "Back during the Linux 6.13 kernel cycle initial support for many (pre-M1) Apple devices were upstreamed including various iPad, iPhone, and iPod Touch devices. That though was the very preliminary support and continuing to work their way upstream are various drivers/patches to further enhance the support. Now for the Linux 6.15 kernel is a new Apple backlight driver for controlling the backlight on various mobile Apple devices...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-Backlight-Apple"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-03-28T15:09:32Z"
+    }
+  },
+  {
+    "hash": "4d67ec96e1024cfdb962bc75e2d922d200813a97f02cd0e1921c4501c847f604",
+    "item": {
+      "title": "How Kerala got rich",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43507286\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T16:27:44Z"
+    }
+  },
+  {
+    "hash": "407beee0e48597defddbe6271a181727fa030db3e872da8bc8407b8f981e286f",
+    "item": {
+      "title": "Xee: A Modern XPath and XSLT Engine in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43502291\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.startifact.com/posts/xee/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T06:48:18Z"
+    }
+  },
+  {
+    "hash": "d14d61cafde54d62da042ba67d6c55f3be4f79107469621f9d79bf50e793ac43",
+    "item": {
+      "title": "The Book (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43507404\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://99percentinvisible.org/episode/the-real-book/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T16:39:10Z"
+    }
+  },
+  {
+    "hash": "1391de0547594b2d2321224af6982992fe59fd06976bacbcd5246177089a640c",
+    "item": {
+      "title": "Show HN: Hexi, modern header-only network binary serialisation for C++ hackers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43508061\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/EmberEmu/Hexi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T17:37:42Z"
+    }
+  },
+  {
+    "hash": "ef506ffdc8869a5b9f313791d72f3f4108a39ebb17ec141355f4eeb186fba913",
+    "item": {
+      "title": "Disk I/O bottlenecks in GitHub Actions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43506574\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T15:22:36Z"
+    }
+  },
+  {
+    "hash": "9c89f2f9ae4493633d393aef715d7ba1073618ef0e1d5d810682da0617dd159b",
+    "item": {
+      "title": "Show HN: Cursor IDE now remembers your coding prefs using MCP",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43506068\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43506068"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T14:44:59Z"
+    }
+  },
+  {
+    "hash": "edf10c0a314de984e9b00ca2c0137efcf120aaac83bce04ba9f7322501aff494",
+    "item": {
+      "title": "Building Statically Linked Go Executables with CGO and Zig",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43505646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://calabro.io/zig-cgo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T14:11:07Z"
+    }
+  },
+  {
+    "hash": "696d7bee4440c1653def6f821ae82d929d6a6b2613880a4379826461b5b7ffdc",
+    "item": {
+      "title": "Show HN",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43469783\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wakana.io"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-25T10:52:03Z"
+    }
+  },
+  {
+    "hash": "8d13884c1bb8f2e6456eb072a1958e179d1b6ce6ef6020cc89308ce149012e61",
+    "item": {
+      "title": "Moiré Than Meets the Eye: Uncovering the Quantum Potential of Phasons",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43463003\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-24T16:49:35Z"
+    }
+  },
+  {
+    "hash": "08ada2f0d1d0c8fddce94bf20a626150c95a0c288c33511f752e66ff26329add",
+    "item": {
+      "title": "Are Levi's from Amazon different from Levi's from Levi's?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43504451\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nymag.com/strategist/article/levis-amazon-jeans-testing.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-28T12:18:26Z"
+    }
   }
 ]
