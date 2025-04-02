@@ -2021,5 +2021,868 @@
       },
       "published": "2025-04-02T10:00:00Z"
     }
+  },
+  {
+    "hash": "f382831db3383972fb3e8faad96c0cb6c766855d371380a05a77b461f508d066",
+    "item": {
+      "title": "Unshittification: 3 tech companies that recently made my life… better",
+      "description": "Enshittification is not the only option.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/unshittification-3-tech-companies-that-recently-made-my-life-better/"
+      ],
+      "categories": [
+        "Culture",
+        "Tech",
+        "enshittification",
+        "technology"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-617888224-1152x648-1743540512.jpg"
+      },
+      "published": "2025-04-02T13:30:44Z"
+    }
+  },
+  {
+    "hash": "5ef789ab71ca9edab0489d87e4c0e9e1dd601239fc10af3dbb5bce72aa127232",
+    "item": {
+      "title": "Nintendo offers new Switch 2 details ahead of June 5 launch",
+      "description": "\u003cem\u003eMario Kart World\u003c/em\u003e, new GameChat feature are prominent.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/switch2-1152x648.png"
+      },
+      "published": "2025-04-02T13:04:43Z"
+    }
+  },
+  {
+    "hash": "9635823f5e3b5f3c59e5b504487c02f32500a0eadae43c60b019430af3f84321",
+    "item": {
+      "title": "2025 Audi RS e-tron GT: More range, more power, still drives like an Audi",
+      "description": "The refresh looks the same but charges faster, goes faster, and much farther.",
+      "links": [
+        "https://arstechnica.com/cars/2025/04/2025-audi-rs-e-tron-gt-more-range-more-power-still-drives-like-an-audi/"
+      ],
+      "categories": [
+        "Cars",
+        "Audi RS e-tron GT",
+        "car review",
+        "First drive"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/3Q6A0425-1152x648.jpg"
+      },
+      "published": "2025-04-02T13:01:46Z"
+    }
+  },
+  {
+    "hash": "a39f067acacf15039394f05192fa07378973a5b5358c273de0f1b026c8149f4d",
+    "item": {
+      "title": "Introducing Fedora Project Leader Jef Spaleta",
+      "description": "\u003cp\u003eOutgoing Fedora Project Leader (FPL) Matthew Miller has \u003ca\nhref=\"https://fedoramagazine.org/introducing-fedora-project-leader-jef-spaleta/\"\u003eannounced\u003c/a\u003e\nhis successor, Jef Spaleta.\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eSome of you may remember Jef's passionate voice in the early Fedora\ncommunity. He got involved all the way back in the days of fedora.us,\nbefore Red Hat got involved. Jef served on the Fedora Board from July\n2007 through the end of 2008. This was the critical time after Fedora\nExtras and Fedora Core merged into one Fedora Linux where, with the\nlaunch of the \"Features\" process, Fedora became a truly community-led\nproject.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eSpaleta will be joining Red Hat full time in May and Miller will be\nformally handing off FPL duties at the \u003ca\nhref=\"https://fedoraproject.org/flock/2025/\"\u003eFlock\u003c/a\u003e conference in\nJune.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016217/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-02T14:40:41Z"
+    }
+  },
+  {
+    "hash": "d6eb0965902ed349f450214a70166494bb44b2fa4a20ee2bcf7d2f888d913189",
+    "item": {
+      "title": "PorteuX 2.0 released",
+      "description": "\u003cp\u003e\u003ca href=\"https://github.com/porteux/porteux/releases\"\u003eVersion\n2.0\u003c/a\u003e of \u003ca href=\"https://github.com/porteux/porteux?tab=readme-ov-file#about\"\u003ePorteuX\u003c/a\u003e, a distribution based on Slackware Linux, has been\nreleased. This release adds the ability to test experimental Wayland\nsessions for the Cinnamon, LXQt, and Xfce desktops. PorteuX 2.0\nupdates the Linux kernel to 6.14 and includes many package updates and\nbug fixes. Users have the choice of PorteuX stable or its rolling release\ncalled current. See the \u003ca\nhref=\"https://github.com/porteux/porteux/blob/main/boot/boot/docs/install.txt\"\u003e\u003ctt\u003einstall.txt\u003c/tt\u003e\u003c/a\u003e\nfor instructions on installing PorteuX to disk.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016216/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-02T14:34:14Z"
+    }
+  },
+  {
+    "hash": "a7fd9bfe089dc86ba954053386d575c9cb8268bdf8e46c95a638bcc9a523ca00",
+    "item": {
+      "title": "[$] Approaches to reducing TLB pressure",
+      "description": "The CPU's translation lookaside buffer (TLB) caches the results of\nvirtual-address translations, significantly speeding memory accesses.  TLB\nmisses are expensive, so a lot of thought goes into using the TLB as\nefficiently as possible.  Reducing pressure on the TLB was the topic of Rik\nvan Riel's memory-management-track session at the 2025 Linux Storage,\nFilesystem, Memory-Management, and BPF Summit.  Some approaches were\nconsidered, but the session was short on firm conclusions.",
+      "links": [
+        "https://lwn.net/Articles/1016009/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-02T13:45:59Z"
+    }
+  },
+  {
+    "hash": "41e33dd4fba59f1d69a66360cf7ca05b160cbe370847f62d7ebf507824d4a54a",
+    "item": {
+      "title": "Rockbox 4.0 released",
+      "description": "For those of you who still have dedicated audio players: \u003ca\nhref=\"https://www.rockbox.org/wiki/ReleaseNotes400\"\u003eversion 4.0\u003c/a\u003e of\nRockbox, a replacement firmware for many players, has been released.\nThis release brings support for a number of new devices, updated codecs, a\nnumber of user-interface improvements, some new games, and more.  (LWN last\n\u003ca href=\"https://lwn.net/Articles/391982/\"\u003ereviewed Rockbox\u003c/a\u003e in 2010 — and looked at\nthe ill-fated \u003ca href=\"https://lwn.net/Articles/408626/\"\u003eAndroid port\u003c/a\u003e that year as\nwell).",
+      "links": [
+        "https://lwn.net/Articles/1016207/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-02T13:11:21Z"
+    }
+  },
+  {
+    "hash": "dc1b201efdb23f76f0b473480faa745890510ab5c219cd5a6bbb3fa3526670dd",
+    "item": {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (firefox-esr, jetty9, openjpeg2, and tomcat9), \u003cb\u003eFedora\u003c/b\u003e (dokuwiki, firefox, php-kissifrot-php-ixr, php-phpseclib3, and rust-zincati), \u003cb\u003eRed Hat\u003c/b\u003e (kernel and pki-core), \u003cb\u003eSlackware\u003c/b\u003e (mozilla), \u003cb\u003eSUSE\u003c/b\u003e (apparmor, atop, docker, docker-stable, firefox, govulncheck-vulndb, libmodsecurity3, openvpn, upx, and warewulf4), and \u003cb\u003eUbuntu\u003c/b\u003e (inspircd, linux, linux-aws, linux-gcp, linux-gke, linux-gkeop, linux-ibm,\n linux-lowlatency, linux-lowlatency-hwe-6.8, linux-oem-6.8, linux-oracle,\n linux-oracle-6.8, linux-aws, linux-aws-5.4, linux-aws-fips, linux-azure-6.8, linux-hwe-6.8, linux-raspi, linux-realtime, nginx, phpseclib, and vim).",
+      "links": [
+        "https://lwn.net/Articles/1016205/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-02T13:03:12Z"
+    }
+  },
+  {
+    "hash": "7846c8e127b30af13e3468e77d55a6aea91f853d0a809be4b3424e779f0f4bc2",
+    "item": {
+      "title": "Pi Coin Price Approaches All-Time Low, Facing Community Backlash",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Pi_Network_Faces_Community_Backlash_Is_Pi_Coin_Price_Heading_to.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pi Coin Price Approaches All-Time Low, Facing Community Backlash\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Pi_Network_Faces_Community_Backlash_Is_Pi_Coin_Price_Heading_to.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Pi_Network_Faces_Community_Backlash_Is_Pi_Coin_Price_Heading_to-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Pi_Network_Faces_Community_Backlash_Is_Pi_Coin_Price_Heading_to-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePi Network announced the successful completion of its inaugural PiFest earlier today on X. It highlighted the record participation of community members with over 125,000 registered sellers and 58,000 active sellers. Around 1.8 million Pioneers used Map of Pi, making it one of the largest global commerce events.  The team",
+      "links": [
+        "https://thenewscrypto.com/pi-coin-price-approaches-all-time-low-facing-community-backlash/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "pi coin",
+        "Pi Network",
+        "price drop"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Pi_Network_Faces_Community_Backlash_Is_Pi_Coin_Price_Heading_to.jpg"
+      },
+      "published": "2025-04-02T11:27:18Z"
+    }
+  },
+  {
+    "hash": "60e46a60eca6c9c9f39d4adf9fd77c38ade073ab4ee7317690f941cd0cb499f9",
+    "item": {
+      "title": "Grayscale Files S-3 to Convert Digital Large Cap Fund into ETF",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Grayscale_seeks_ETF_status_for_multi_asset_fund_with_S_3_form1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Grayscale Files S-3 to Convert Digital Large Cap Fund into ETF\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Grayscale_seeks_ETF_status_for_multi_asset_fund_with_S_3_form1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Grayscale_seeks_ETF_status_for_multi_asset_fund_with_S_3_form1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Grayscale_seeks_ETF_status_for_multi_asset_fund_with_S_3_form1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eGrayscale Investments filed an Import-Form S-3 with the U.S. Securities and Exchange Commission (SEC) to convert its Digital Large Cap Fund (GDLC) into an exchange-traded fund (ETF). The application, submitted on April 1, seeks to change into a publicly traded product what is at present a private investment vehicle. The",
+      "links": [
+        "https://thenewscrypto.com/grayscale-files-s-3-to-convert-digital-large-cap-fund-into-etf/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETF",
+        "Grayscale",
+        "SEC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Grayscale_seeks_ETF_status_for_multi_asset_fund_with_S_3_form1.jpg"
+      },
+      "published": "2025-04-02T10:54:41Z"
+    }
+  },
+  {
+    "hash": "845d85ac7a3ebc72624e6bb2f5a0135dfbbed4b28e1b326587e598444243811b",
+    "item": {
+      "title": "Solana to $5,000? See Beyond SOL’s Unrealistic Predictions to These 3 Stronger Alternatives",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana to $5,000? See Beyond SOL’s Unrealistic Predictions to These 3 Stronger Alternatives\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAlthough many outrageous and unmet expectations predict Solana (SOL) will reach $5,000 in a few years, investors with experience understand that such forecasts are unfeasible. While searching for reliable investments across the cryptocurrency spectrum, many are turning towards Cardano (ADA), Rexas Finance (RXS), and Ripple (XRP). These three cryptocurrencies offer",
+      "links": [
+        "https://thenewscrypto.com/solana-to-5000-see-beyond-sols-unrealistic-predictions-to-these-3-stronger-alternatives/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Rexas Finance",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5.jpg"
+      },
+      "published": "2025-04-02T10:41:24Z"
+    }
+  },
+  {
+    "hash": "0a6ecefc332ff75f938f1240ace2b3a099dc3f0b450e9e423435838cd70f2ff3",
+    "item": {
+      "title": "Metaplanet Expands Bitcoin Holding with $13M Purchase, Holds 4,206 BTC",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Metaplanet_Expands_Bitcoin_Holdings_Amid_Market_Corrections_and-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Metaplanet Expands Bitcoin Holding with $13M Purchase, Holds 4,206 BTC\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Metaplanet_Expands_Bitcoin_Holdings_Amid_Market_Corrections_and-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Metaplanet_Expands_Bitcoin_Holdings_Amid_Market_Corrections_and-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Metaplanet_Expands_Bitcoin_Holdings_Amid_Market_Corrections_and-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMetaplanet, also referred to as “Asia\u0026#8217;s MicroStrategy,\u0026#8221; added another 160 BTC worth $13.3 million to the Bitcoin stack. It appears that the Japanese firm is going all in on Bitcoin.  The company acquired 696 Bitcoins worth $67.8 million on April 1st which made it the 9th-largest corporate holder of Bitcoin. ",
+      "links": [
+        "https://thenewscrypto.com/metaplanet-expands-bitcoin-holding-with-13m-purchase-holds-4206-btc/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "metaplanet"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Metaplanet_Expands_Bitcoin_Holdings_Amid_Market_Corrections_and-1.jpg"
+      },
+      "published": "2025-04-02T10:10:00Z"
+    }
+  },
+  {
+    "hash": "1e7ef2df79584fc73b55c6abda0a94b31cc9575c2fe69ff7a93e57ce3eb91aef",
+    "item": {
+      "title": "Best Crypto to Buy Now: AurealOne Tokenomics Explained A Must-Know for Crypto Investors!!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Best Crypto to Buy Now: AurealOne Tokenomics Explained A Must-Know for Crypto Investors!!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eWhen so many cryptocurrencies are being launched what is the proper strategy to choose the right cryptocurrencies to invest into? With the crypto market in a constant state of flux, it presents itself as quite nigh impossible to identify these precious opportunities. Crypto is, at its core, digital money that",
+      "links": [
+        "https://thenewscrypto.com/best-crypto-to-buy-now-aurealone-tokenomics-explained-a-must-know-for-crypto-investors/"
+      ],
+      "categories": [
+        "Press Release",
+        "Aureal One (DLUME)",
+        "Blockchain",
+        "Crypto"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4.png"
+      },
+      "published": "2025-04-02T09:57:04Z"
+    }
+  },
+  {
+    "hash": "6689afffac33a403bb795b0e6b859ce8cb1e6ca1acf56df1b22616171f43769e",
+    "item": {
+      "title": "XRPTurbo ($XRT) Set For Bitmart Listing After Sold-Out Presale",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"257\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP News: XRPTurbo ($XRT) Set For Bitmart Listing After Sold-Out Presale\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4-300x151.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe XRP ecosystem is buzzing with excitement as XRPTurbo ($XRT), the first-ever AI-driven DeFi launchpad on the XRP Ledger, gears up for its highly anticipated listing on Bitmart in less than 24 hours. This pivotal moment arrives shortly after XRPTurbo’s presale sold out entirely and marked a major milestone for",
+      "links": [
+        "https://thenewscrypto.com/xrpturbo-xrt-set-for-bitmart-listing-after-sold-out-presale/"
+      ],
+      "categories": [
+        "Press Release",
+        "BitMart",
+        "Blockchain",
+        "XRPTurbo"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-4.jpg"
+      },
+      "published": "2025-04-02T09:25:36Z"
+    }
+  },
+  {
+    "hash": "2d6fc4c057b6ce8139a1d8566b644fc7a27dc84f8863f211b0213ce8b153f928",
+    "item": {
+      "title": "Is Cronos (CRO) Preparing for a Major Price Breakout Above Key Levels?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Cronos-price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is Cronos (CRO) Preparing for a Major Price Breakout Above Key Levels?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Cronos-price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Cronos-price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Cronos-price-analysis-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCronos (CRO) is among the top three gainers today, surging 6.06% in the last 24 hours. The cryptocurrency now trades at $0.1062, with a market capitalization of $2.82 billion. Trading volume spiked 99.30% to $70.58 million, reflecting increased investor interest. The fully diluted valuation (FDV) stands at $10.62 billion, while",
+      "links": [
+        "https://thenewscrypto.com/is-cronos-cro-preparing-for-a-major-price-breakout-above-key-levels/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Bullish Momentum",
+        "Cronos"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Cronos-price-analysis.jpg"
+      },
+      "published": "2025-04-02T09:24:17Z"
+    }
+  },
+  {
+    "hash": "23d0a336e3863d9e059d819e7b05f7a9b6a73e7d05bdff369d476f73aa3a2a0e",
+    "item": {
+      "title": "Raydium (RAY) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Raydium (RAY) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Raydium (RAY) price prediction 2025, 2026-2030, we will analyze the price patterns of RAY by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Raydium (RAY) Current Market Status What is Raydium (RAY)? Raydium (RAY) 24H Technicals RAYDIUM (RAY)",
+      "links": [
+        "https://thenewscrypto.com/raydium-ray-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "price prediction",
+        "RAY",
+        "Raydium"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY.jpg"
+      },
+      "published": "2025-04-02T08:02:50Z"
+    }
+  },
+  {
+    "hash": "989cfc7c9f23e3345104cc88b4b41dcfae193ce9f67d01e9041fe49103999ae1",
+    "item": {
+      "title": "Google Fixed Cloud Run Vulnerability Allowing Unauthorized Image Access via IAM Misuse",
+      "description": "Cybersecurity researchers have disclosed details of a now-patched privilege escalation vulnerability in Google Cloud Platform (GCP) Cloud Run that could have allowed a malicious actor to access container images and even inject malicious code.\n\"The vulnerability could have allowed such an identity to abuse its Google Cloud Run revision edit permissions in order to pull private Google Artifact",
+      "links": [
+        "https://thehackernews.com/2025/04/google-fixed-cloud-run-vulnerability.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXHpZfMK9c_7qs10Nxs5C01t3Rrv9KfcCuKIcVIYr9bKIFY0blX0GW6PaAE9_MIiJiXJLo8O7-djZyzkO7HhG1b60Yr9-u5g_lG2DSPJFTlYeN6pKZOwvfewuy8Gj1RwDe9oeZzB4_RTOOTwvcvPOcCEr5khGOU7rUqbHOin25VbHlpUQmPgeKT8zKan0e/s1600/ImageRunner-vulnerability.gif"
+      },
+      "published": "2025-04-02T13:48:00Z"
+    }
+  },
+  {
+    "hash": "aaa785eece65f34fc4d696dd13826b3f8f996adab42cc6b3ec9fe8b713996bef",
+    "item": {
+      "title": "Best Meme Coins to Buy Now – Big Pump in April?",
+      "description": "\u003cp\u003eWhen the market slows, allocating part of your portfolio to top meme coins can be a smart move. These tokens often fall harder than traditional assets—but they also tend to rebound faster when sentiment shifts.Their volatility means meme coins frequently become undervalued during dips, offering strong upside as momentum returns.We’re seeing that now. In the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/best-meme-coins-to-buy-now-which-tokens-will-last-into-2025/\"\u003eBest Meme Coins to Buy Now – Big Pump in April?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/best-meme-coins-to-buy-now-which-tokens-will-last-into-2025/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoins",
+        "Meme Coins",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02142838/1743604117-best-meme-coins-to-buy-now-big-pump-in-april.jpg"
+      },
+      "published": "2025-04-02T14:31:09Z"
+    }
+  },
+  {
+    "hash": "684ddbab0727361c9d32c7149970a6bbe4dc9217384edc98569b2a7aef09be1f",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is red today\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eLibre Integrates LayerZero to Bring Institutional Tokenized Funds to 120 Blockchains\u003c/li\u003e\n\u003cli\u003e$1.67 Billion Lost in Q1 2025 – CertiK\u003c/li\u003e\n\u003cli\u003eAmber Integrates Voltage for Bitcoin Lightning Payments in Australia\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-04-02T14:25:00Z"
+    }
+  },
+  {
+    "hash": "c027b03527742ac5d20f6d2872a2ab6a028fafbf7ab16ac2e640958984ace275",
+    "item": {
+      "title": "EOS Rallies Over 18% After Breaking Key Resistance – Can It Sustain Momentum?",
+      "description": "\u003cp\u003eEOS Network, a Layer-1 blockchain utilizing the open-source Antelope protocol for fast and feeless transactions, has surged 18% in price over the past 24 hours.According to CoinMarketCap data, $EOS climbed from a low of $0.6071 to an intraday high of $0.8345 before slightly retracing to $0.8505 at press time. This growth extended its monthly gains [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eos-rallies-over-18-after-breaking-key-resistance-can-it-sustain-momentum/\"\u003eEOS Rallies Over 18% After Breaking Key Resistance \u0026#8211; Can It Sustain Momentum?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eos-rallies-over-18-after-breaking-key-resistance-can-it-sustain-momentum/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Crypto Market",
+        "Vaulta"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02105424/1743591264-image-1743591072873_optimized.webp"
+      },
+      "published": "2025-04-02T14:03:25Z"
+    }
+  },
+  {
+    "hash": "5959be4f377fbd7e831f3942d5d08fb1ab0ed283f46230f126217cf4d2c29ad1",
+    "item": {
+      "title": "Sei Establishes US Non-Profit Foundation, Opens New York Office",
+      "description": "\u003cp\u003eSei Foundation, the organization supporting the Layer-1 blockchain Sei, has revealed a new US non-profit, Sei Development Foundation, establishing its headquarters in New York.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sei-establishes-us-non-profit-foundation-opens-new-york-office/\"\u003eSei Establishes US Non-Profit Foundation, Opens New York Office\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sei-establishes-us-non-profit-foundation-opens-new-york-office/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Regulation",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02112154/1743592914-sei-us-non-profit-sei-foundation.jpg"
+      },
+      "published": "2025-04-02T13:38:57Z"
+    }
+  },
+  {
+    "hash": "98ae71bd95a935539346c75c292decdb647a72137755f703ca2b81e0e5b186bd",
+    "item": {
+      "title": "CZ Criticizes AI Agent Developers for Prioritizing Tokens Over Utility",
+      "description": "\u003cp\u003eBinance co-founder CZ criticizes AI agent developers for prioritizing token launches over building useful products, urging a focus on utility and proven market fit before introducing native tokens.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cz-criticizes-ai-agent-developers-for-prioritizing-tokens-over-utility/\"\u003eCZ Criticizes AI Agent Developers for Prioritizing Tokens Over Utility\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cz-criticizes-ai-agent-developers-for-prioritizing-tokens-over-utility/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "AI Agents",
+        "Changpeng Zhao"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02122642/1743596802-image-1743596768817_optimized.jpg"
+      },
+      "published": "2025-04-02T13:15:46Z"
+    }
+  },
+  {
+    "hash": "e7987c06517313ab13d9714c842173fd5846cddb6a724ff062794b52c127f468",
+    "item": {
+      "title": "Will PEPE Explode Past Resistance? Why Traders Are Eyeing a Double-Digit Breakout",
+      "description": "\u003cp\u003ePepe (PEPE) finds itself at a critical juncture, nearing the 4-month resistance that has capped its recent upside attempts, and traders are betting on a surge.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/will-pepe-break-key-resistance-traders-eye-double-digit-surge/\"\u003eWill PEPE Explode Past Resistance? Why Traders Are Eyeing a Double-Digit Breakout \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/will-pepe-break-key-resistance-traders-eye-double-digit-surge/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Pepe",
+        "price prediciton",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02130054/1743598854-will-pepe-explode-past-resistance-why-traders-are-eyeing-a-double-digit-breakout.jpg"
+      },
+      "published": "2025-04-02T13:01:11Z"
+    }
+  },
+  {
+    "hash": "4251d9cce00b41e770afdb63c59e32b2676c60013d1562ca43fdd29f010eb792",
+    "item": {
+      "title": "Liberation Day: How Will Bitcoin React to Trump’s Tariffs?",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWall Street firms are expecting heightened volatility in the S\u0026amp;P 500 — and sell-offs there could be calamitous for Bitcoin.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/liberation-day-how-will-bitcoin-react-to-trumps-tariffs/\"\u003eLiberation Day: How Will Bitcoin React to Trump\u0026#8217;s Tariffs?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/liberation-day-how-will-bitcoin-react-to-trumps-tariffs/"
+      ],
+      "categories": [
+        "Features",
+        "Altcoin",
+        "Bear Market",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Digital Asset",
+        "Donald Trump",
+        "Market",
+        "Regulation",
+        "Stocks",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02124248/1743597767-7fbd3ca0-2b3f-4297-9700-17ac8205d930_optimized.jpg"
+      },
+      "published": "2025-04-02T12:59:16Z"
+    }
+  },
+  {
+    "hash": "8f2cea1095cbbdcaa390d23bc049f5ee0db52e9390e905115f1eb70128a7f43d",
+    "item": {
+      "title": "Google Warns UK Crypto Firms of North Korea-Linked Fraudsters",
+      "description": "\u003cp\u003eGoogle warns UK crypto firms of North Korea-linked fraudsters infiltrating blockchain projects, using fake identities and extortion tactics to exploit vulnerabilities as they shift operations from the U.S. to Europe amidst heightened scrutiny.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/google-warns-uk-crypto-firms-of-north-korea-linked-fraudsters/\"\u003eGoogle Warns UK Crypto Firms of North Korea-Linked Fraudsters\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/google-warns-uk-crypto-firms-of-north-korea-linked-fraudsters/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "Google",
+        "North Korea",
+        "UK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02120505/1743595505-0_1-84.jpg"
+      },
+      "published": "2025-04-02T12:06:12Z"
+    }
+  },
+  {
+    "hash": "3b78a683c6e88414ae297dfec25457938059eeeff2b64a5e5bd4728f1b812f52",
+    "item": {
+      "title": "SMBC Parent Sumitomo Mitsui Plans Stablecoin Launch with Ava Labs and Fireblocks",
+      "description": "\u003cp\u003eSMFG is preparing to launch a stablecoin in partnership with blockchain firm Ava Labs and crypto infrastructure provider Fireblocks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/smbc-parent-sumitomo-mitsui-plans-stablecoin-launch-with-ava-labs-and-fireblocks/\"\u003eSMBC Parent Sumitomo Mitsui Plans Stablecoin Launch with Ava Labs and Fireblocks\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/smbc-parent-sumitomo-mitsui-plans-stablecoin-launch-with-ava-labs-and-fireblocks/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Avalanche",
+        "Japan",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02111950/1743592789-0_1-4_optimized.jpg"
+      },
+      "published": "2025-04-02T11:21:33Z"
+    }
+  },
+  {
+    "hash": "f31d238d612e5e2100559871ae43d7a8dd479f6b32e80494092e4729ebd3365d",
+    "item": {
+      "title": "South Korean Investor Faces Fine for Assaulting Delio CEO Over Lost Crypto Funds",
+      "description": "\u003cp\u003eA South Korean investor fined for assaulting Delio’s CEO underscores rising tensions among defrauded crypto investors, as regulatory scrutiny intensifies amidst the collapse of major platforms like Delio and Haru Invest.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korean-investor-faces-fine-for-assaulting-delio-ceo-over-lost-crypto-funds/\"\u003eSouth Korean Investor Faces Fine for Assaulting Delio CEO Over Lost Crypto Funds\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korean-investor-faces-fine-for-assaulting-delio-ceo-over-lost-crypto-funds/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "crypto scam",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02105844/1743591523-0_1-83_optimized.jpg"
+      },
+      "published": "2025-04-02T11:02:27Z"
+    }
+  },
+  {
+    "hash": "d7e92306a1ebf35384ba4907574fb47e3346444b27e1063a0a3ae68ca11841a4",
+    "item": {
+      "title": "Coinbase Receives 50% of Circle’s USDC Reserve Revenue, IPO Filing Reveals",
+      "description": "\u003cp\u003e\u003cspan data-preserver-spaces=\"true\"\u003eCoinbase Global is entitled to half of the residual revenue generated from reserves backing Circle’s USDC stablecoin, according to new disclosures in \u003c/span\u003e\u003cspan data-preserver-spaces=\"true\"\u003eCircle’s S-1 filing\u003c/span\u003e.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-receives-50-of-circles-usdc-reserve-revenue-ipo-filing-reveals/\"\u003eCoinbase Receives 50% of Circle’s USDC Reserve Revenue, IPO Filing Reveals\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-receives-50-of-circles-usdc-reserve-revenue-ipo-filing-reveals/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Circle",
+        "Coinbase",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/02104502/1743590701-image-1743590683895_optimized.jpg"
+      },
+      "published": "2025-04-02T10:48:27Z"
+    }
+  },
+  {
+    "hash": "c411c1b6a207eec8ce45deddd5fa10ba2dc0cc8ced2aaf6436081ddef3449c68",
+    "item": {
+      "title": "Measuring Acceleration Structures",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43555904\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zeux.io/2025/03/31/measuring-acceleration-structures/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T12:28:52Z"
+    }
+  },
+  {
+    "hash": "be4014e007e1a39987ec200d5eb20cca15d9fe113fee67ebf1acbd2a6bc94b76",
+    "item": {
+      "title": "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43555286\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T10:25:18Z"
+    }
+  },
+  {
+    "hash": "903455fcae1dfb0864b7be699e939ff400a59a22ecd57805f811daf0fd3af9f7",
+    "item": {
+      "title": "Show HN: Hot Notes – Fuzzy Search for Apple Notes (macOS)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43555987\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hotmatcha.dev/hot-notes/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T12:41:24Z"
+    }
+  },
+  {
+    "hash": "6fb4bb9dca15821f23747893309dae5ece880e4efb904fc457804da8784d3978",
+    "item": {
+      "title": "A steam locomotive from 1993 broke my yarn test",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43556280\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T13:10:40Z"
+    }
+  },
+  {
+    "hash": "8e58289db66b320a3aa85d4662c43329ea9532e58bb6c8dc124fc6995c0dafeb",
+    "item": {
+      "title": "UCSD: Large Language Models Pass the Turing Test",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43555248\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2503.23674"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T10:18:08Z"
+    }
+  },
+  {
+    "hash": "56951cff7d7cd9fd7c8fffa63b8d36a84a4ddf46479ba9c7628feeedb1a56c33",
+    "item": {
+      "title": "Sports supplement creatine makes no difference to muscle gains, trial finds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43556350\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T13:16:38Z"
+    }
+  },
+  {
+    "hash": "c5011b2f0fac1cb1bc242edbf94cc7b8a2cd6a57d473305e68eafc9f6b49cb0b",
+    "item": {
+      "title": "You're protecting your data wrong – Introducing the Protected Query Pattern",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43531816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-31T06:33:04Z"
+    }
+  },
+  {
+    "hash": "6aa736017a83081b93c010645d18df878540a34d2b1985fc58881256bb6e9ca3",
+    "item": {
+      "title": "Vitodeploy: Self hosted Laravel Forge alternative",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43521994\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vitodeploy.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-30T07:01:56Z"
+    }
+  },
+  {
+    "hash": "6eacb3d93b93addd7c04e641e2a65816e1ff8d1a2ce8f72dbd25372b9bcf7a1b",
+    "item": {
+      "title": "A dramatic Einstein ring seen by Webb",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43557139\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-04-einstein-webb.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T14:32:48Z"
+    }
+  },
+  {
+    "hash": "9328856c3b5fb19e3cf94817fe0907463693cc9365715abd8fa6eb8673231d66",
+    "item": {
+      "title": "GNOME \u0026 KDE Plasma Wayland Sessions Outperforming Xfce + LXQt On Ubuntu 25.04 For Linux Gaming",
+      "description": "Last week I posted some initial GNOME 48 and KDE Plasma 6.3 desktop gaming benchmarks on Ubuntu 25.04 beta for looking at the performance of those two leading desktop options for this upcoming Ubuntu Linux release. Both GNOME and KDE under Wayland were outperforming KDE on X11 (and GNOME on X11 wasn't even working due to bugs). Some Phoronix readers questioned though whether the Wayland advantage on GNOME/KDE was due to those desktops losing focus on X11 support or if they are just too bloated. So for adding some additional context, here are some graphics/gaming benchmarks on the same system hardware/software when adding in the Xfce 4.20 and LXQt 2.1 X11 desktops.",
+      "links": [
+        "https://www.phoronix.com/review/ubuntu-2504-x11-gaming"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-02T14:44:19Z"
+    }
+  },
+  {
+    "hash": "a2c050d33802fd6ebd1e6d08b439477c22f7f46a062b93bb04d2cf898edf88ab",
+    "item": {
+      "title": "Many KVM Updates Merged For Linux 6.15",
+      "description": "This morning's Intel TDX update reminded me that I still hadn't gotten around to digging into the Kernel-based Virtual Machine (KVM) changes merged last week for the ongoing Linux 6.15 kernel merge window. Here is a look at the KVM changes this cycle that continue to be particularly heavy on Intel and AMD virtualization improvements...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-KVM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-02T14:09:06Z"
+    }
+  },
+  {
+    "hash": "14a9e826115278327a1fb11893295749dd4ded70074ae56575cc9e0e540e3afe",
+    "item": {
+      "title": "Intel TDX Is Becoming Potentially Faster, Avoiding \"Slow \u0026 Buggy\" Code Path On Linux",
+      "description": "Intel Trust Domain Extensions (TDX) for providing hardware-backed isolation and confidential computing support for virtual machines (VMs) on modern Xeon processors is about to become more reliable and potentially faster for some workloads...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-TDX-Avoiding-HLT-Linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-02T12:19:39Z"
+    }
+  },
+  {
+    "hash": "4e280ba5c2784184a854b5cda88cc94d9644cddf1bb9f280c40477eabe57e608",
+    "item": {
+      "title": "Many Scheduler Updates In The Linux 6.15 Kernel",
+      "description": "Merged last week for the Linux 6.15 merge window were a big set of scheduler updates...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-Scheduler"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-02T09:45:11Z"
+    }
   }
 ]
