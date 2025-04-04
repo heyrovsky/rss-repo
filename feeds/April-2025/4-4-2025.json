@@ -2879,5 +2879,766 @@
       },
       "published": "2025-04-03T23:01:06Z"
     }
+  },
+  {
+    "hash": "b72007ceb6bdbd5a3eeeebbb066007ad15d81fa0959892991c53fae526ec2149",
+    "item": {
+      "title": "[$] The state of guest_memfd",
+      "description": "A typical cloud-computing host will share some of its memory with each\nguest that it runs.  The host retains its access to that memory, though,\nmeaning that it can readily dig through that memory in search of data that\nthe guest would prefer to keep private.  The \u003ca\nhref=\"https://lwn.net/Articles/949277/\"\u003eguest_memfd subsystem\u003c/a\u003e removes (most of) the\nhost's access to guest memory, making the guest's data more secure.  In the\nmemory-management track of the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF Summit, David Hildenbrand ran a discussion on\nthe state and future of this feature.",
+      "links": [
+        "https://lwn.net/Articles/1016133/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-04T15:52:32Z"
+    }
+  },
+  {
+    "hash": "2277389e0aad9d4e11396b90e903c010b608c43e2c47243a30b7cd490905e444",
+    "item": {
+      "title": "“Existential crisis”: The tariff scythe takes a swing at board games",
+      "description": "Most games are made in China. They now face hefty fees.",
+      "links": [
+        "https://arstechnica.com/culture/2025/04/existential-crisis-the-tariff-scythe-takes-a-swing-at-board-games/"
+      ],
+      "categories": [
+        "Culture",
+        "Board games",
+        "china",
+        "tariffs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_3988-1152x648.jpg"
+      },
+      "published": "2025-04-04T17:48:03Z"
+    }
+  },
+  {
+    "hash": "0e527367e3b74feff10ad0be72b4904c842c80a1cc430c364a3d0c85aa3a429f",
+    "item": {
+      "title": "We have the first video of a plant cell wall being built",
+      "description": "Plant cells without a cell wall are fragile, so it's hard to image its construction.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/how-to-watch-plant-cells-build-a-cell-wall-without-killing-them/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "cell wall",
+        "imaging",
+        "microscopy",
+        "plants"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.16.45 PM-1152x648.png"
+      },
+      "published": "2025-04-04T17:37:20Z"
+    }
+  },
+  {
+    "hash": "55412fcbe861ca27df98e726dcf190ae7e59bd240015c79d872fdc49a3c2d3d7",
+    "item": {
+      "title": "Newly hatched hummingbird looks, acts like a toxic caterpillar",
+      "description": "\"Batesian mimicry\" is when a species evolves to look like one that's inedible.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/a-baby-hummingbird-cosplays-as-a-caterpillar/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "evolution",
+        "hummingbirds",
+        "mimicry"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Elizabeth Rayne"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-2127724319-1152x648.jpg"
+      },
+      "published": "2025-04-04T17:02:15Z"
+    }
+  },
+  {
+    "hash": "a730390a4cf8351b2dcb95fbc004b8638130358b923b6dd68dc8b8e84a3bb510",
+    "item": {
+      "title": "2025 Chevrolet Silverado EV LT review: This is one long pickup truck",
+      "description": "Has the moment passed for massive electric trucks with massive range?",
+      "links": [
+        "https://arstechnica.com/cars/2025/04/2025-chevrolet-silverado-ev-lt-review-this-is-one-long-pickup-truck/"
+      ],
+      "categories": [
+        "Cars",
+        "car review",
+        "Chevrolet Silverado EV LT"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/2025-Chevrolet-Silverado-EV-LT-01-1152x648.jpg"
+      },
+      "published": "2025-04-04T15:55:28Z"
+    }
+  },
+  {
+    "hash": "8dc25cca4b3f34615589c92669aeaf7ddc2317a5ada84b898c56c572c9e44279",
+    "item": {
+      "title": "Switch 2 preorders delayed over Trump tariff uncertainty",
+      "description": "Nintendo will \"assess\" market conditions; planned June 5 launch date still set for now.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/04/nintendo-delays-switch-2-preorders-to-assess-trump-tariff-effects/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/system-angled-1152x648-1743606848.jpeg"
+      },
+      "published": "2025-04-04T15:03:39Z"
+    }
+  },
+  {
+    "hash": "b817f573b2f9224e5bdf53a3b7092007c7f4d68ddb8fd297a304c16b10d3e9f6",
+    "item": {
+      "title": "Cardano (ADA) Could Surge to $5, According to Bullish Pundit",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano Shows High Positive Sentiment Despite Weak On-chain Growth\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrypto influencer Alex Becker has turned bullish on Cardano, predicting the cryptocurrency could surge to $5 from its current price of $0.648. This remarkable shift comes from a pundit who was previously skeptical about ADA\u0026#8217;s prospects. Cardano has experienced a significant correction, retracing 51% from its December 3 high of",
+      "links": [
+        "https://thenewscrypto.com/cardano-ada-could-surge-to-5-according-to-bullish-pundit/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ADA",
+        "Cardano"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg"
+      },
+      "published": "2025-04-04T13:45:00Z"
+    }
+  },
+  {
+    "hash": "b11dd379566c4104befacb0a3d0ae7a619a202346020331ba2330a89511ae69f",
+    "item": {
+      "title": "Why Investors Are Accumulating $OZ Before Its AI-Powered Trading Goes Mainstream",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Why Investors Are Accumulating $OZ Before Its AI-Powered Trading Goes Mainstream\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5-2.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5-2-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe financial markets are rapidly changing, and those who leverage advanced technology will gain the upper hand. That’s why smart investors are eyeing Ozak AI’s $OZ token, a key player in the future of AI-powered trading. With predictive AI reshaping trading strategies, this innovative platform is set to disrupt the",
+      "links": [
+        "https://thenewscrypto.com/why-investors-are-accumulating-oz-before-its-ai-powered-trading-goes-mainstream/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-5-2.jpg"
+      },
+      "published": "2025-04-04T13:22:09Z"
+    }
+  },
+  {
+    "hash": "abed3ed8b38ad55f9833bcac1c6ef2848d78ea449ec4842c1faff8f14a7e4f41",
+    "item": {
+      "title": "XRP Price Could Fall Below $1.50 in April, Investors Turn to Hyped Crypto Lightchain AI",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-2-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Could Fall Below $1.50 in April, Investors Turn to Hyped Crypto Lightchain AI\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-2-2.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-2-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-2-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003e​As April unfolds, XRP faces potential challenges, with some forecasts suggesting its price could dip below $1.50. Currently, XRP is trading at $2.01, reflecting a slight decrease of 0.065% from the previous close. This projection has prompted investors to seek alternative opportunities, turning their attention to emerging cryptocurrencies like Lightchain",
+      "links": [
+        "https://thenewscrypto.com/xrp-price-could-fall-below-1-50-in-april-investors-turn-to-hyped-crypto-lightchain-ai/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Lightchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-2-2.jpg"
+      },
+      "published": "2025-04-04T13:00:00Z"
+    }
+  },
+  {
+    "hash": "85b59356f2638ab5339048cefe6783251bc6b4e244f8f5d8ebb1958b6d695bdf",
+    "item": {
+      "title": "Traders Bet on Shiba Inu (SHIB) Outrunning Dogecoin (DOGE), While Rexas Finance (RXS) Targets a Parabolic 10100% Run.",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Traders Bet on Shiba Inu (SHIB) Outrunning Dogecoin (DOGE), While Rexas Finance (RXS) Targets a Parabolic 10100% Run.\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-3.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-3-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe top trader is known for accurately predicting that Shiba Inu(SHIB), whose massive burn rate is   27625.47%, can run DOGE out if it keeps rising. Meanwhile, Rexas Finance(RXS) is predicted to surge to a staggering 10,100% run. This is due to its unmatched utility and robust ecosystem,   built",
+      "links": [
+        "https://thenewscrypto.com/traders-bet-on-shiba-inu-shib-outrunning-dogecoin-doge-while-rexas-finance-rxs-targets-a-parabolic-10100-run/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Rexas Finance"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-3.jpg"
+      },
+      "published": "2025-04-04T13:00:00Z"
+    }
+  },
+  {
+    "hash": "2a9344e6ee2bfd6a5dd67c2742d9e1b691d93b9b8d8e52cdd0f9b4aefd69024f",
+    "item": {
+      "title": "Sui (SUI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sui (SUI) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Sui (SUI) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of SUI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sui (SUI) Current Market Status What is Sui (SUI)? Sui (SUI) 24H Technicals SUI (SUI)",
+      "links": [
+        "https://thenewscrypto.com/sui-sui-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "SUI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg"
+      },
+      "published": "2025-04-04T12:51:43Z"
+    }
+  },
+  {
+    "hash": "8e44d4deea114a29ca0e4ed6f52964ce0280552ad87f76b25c39ba462e240818",
+    "item": {
+      "title": "Official Trump (TRUMP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Official Trump (TRUMP) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Official Trump (TRUMP) price prediction 2025, 2026-2030, we will analyze the price patterns of TRUMP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Official Trump (TRUMP) Current Market Status What is Official Trump (TRUMP)? Official Trump (TRUMP)",
+      "links": [
+        "https://thenewscrypto.com/official-trump-trump-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Price Prdiction",
+        "Trump Coin",
+        "Trump meme coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg"
+      },
+      "published": "2025-04-04T12:41:24Z"
+    }
+  },
+  {
+    "hash": "3553c2127ec23752fa9dca873faf474f27f395183669eecdb1669e680d804827",
+    "item": {
+      "title": "VeChain Shows Signs of Recovery Despite Market Downturn: What’s Next For VET?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/05/MAY-11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"VeChain (VET) Potential Surge to $0.60 Backed by Fractal Patterns\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/05/MAY-11.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/05/MAY-11-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/05/MAY-11-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eVeChain (VET) has begun staging a recovery amid broader market uncertainty, with its price climbing 2.2% in the last 24 hours. This positive movement comes despite downward pressure on the crypto market following the US President\u0026#8217;s signing of an executive order initiating new tariff wars, which has sparked global economic",
+      "links": [
+        "https://thenewscrypto.com/vechain-shows-signs-of-recovery-despite-market-downturn-whats-next-for-vet/"
+      ],
+      "categories": [
+        "Market News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/05/MAY-11.jpg"
+      },
+      "published": "2025-04-04T12:30:00Z"
+    }
+  },
+  {
+    "hash": "c4b3873dd0fe49448c71687830a24745781575eb4bcfee1f3879cebfaf5af53c",
+    "item": {
+      "title": "Analysts Predict Bitcoin Might Resume Bull Run Soon, Will US Tariffs Propel Rally?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Analysts-Predict-Bitcoin-Might-Resume-Bull-Run-Soon-Will-US-Tariffs-Propel-Rally.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Analysts-Predict-Bitcoin-Might-Resume-Bull-Run-Soon-Will-US-Tariffs-Propel-Rally.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Analysts-Predict-Bitcoin-Might-Resume-Bull-Run-Soon-Will-US-Tariffs-Propel-Rally-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Analysts-Predict-Bitcoin-Might-Resume-Bull-Run-Soon-Will-US-Tariffs-Propel-Rally-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn the last 24 hours, the cryptocurrency market has seen a modest price increase of 0.85%. While international tensions rise in the economic sector, investors watch with bated breath how the digital assets will react. However, so far the external factors have not caused any outcomes in cryptocurrency prices.\u0026#160; Notably,",
+      "links": [
+        "https://thenewscrypto.com/analysts-predict-bitcoin-might-resume-bull-run-soon-will-us-tariffs-propel-rally/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "Cryptocurrency",
+        "Price Analysis",
+        "Recovery"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Analysts-Predict-Bitcoin-Might-Resume-Bull-Run-Soon-Will-US-Tariffs-Propel-Rally.jpg"
+      },
+      "published": "2025-04-04T12:12:32Z"
+    }
+  },
+  {
+    "hash": "6841d7e85426d58dc776ae1bfb2d24c83abbeb9f275e24d4cbb2bb91047cabb8",
+    "item": {
+      "title": "Can Shiba Inu (SHIB) Reach $1 If Bitcoin (BTC) Hits $500,000? Not Likely, But This $0.007 Token Could Go to $7",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Shiba Inu (SHIB) Reach $1 If Bitcoin (BTC) Hits $500,000? Not Likely, But This $0.007 Token Could Go to $7\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-2.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-2-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAs Bitcoin (BTC) continues to break new records, some investors speculate whether Shiba Inu (SHIB) could reach $1 if BTC hits $500,000. While this seems improbable for SHIB, a different token is emerging as a promising contender—Lightchain AI. Currently available at just $0.007125 during its presale, Lightchain AI is drawing",
+      "links": [
+        "https://thenewscrypto.com/can-shiba-inu-shib-reach-1-if-bitcoin-btc-hits-500000-not-likely-but-this-0-007-token-could-go-to-7/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "Lightchain",
+        "Shiba Inu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-2.jpg"
+      },
+      "published": "2025-04-04T12:08:24Z"
+    }
+  },
+  {
+    "hash": "be4e22bf6d10501cd5520e640abc0e260b1c89503ed463a6adad4d7fbc3f6f29",
+    "item": {
+      "title": "Crypto FOMO Will Hit Soon, Get in Early on This Crypto That Could 30x Like Post-FTX Solana (SOL)",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto FOMO Will Hit Soon, Get in Early on This Crypto That Could 30x Like Post-FTX Solana (SOL)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-6.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-6-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe market sentiment of Crypto FOMO (Fear of Missing Out) is increasing as traders expect a major price surge soon. Institutional players continue their discreet buying activities, while retail investors maintain their position outside the market until they receive confirmation signals. The entry of sidelined capital into markets during bull",
+      "links": [
+        "https://thenewscrypto.com/crypto-fomo-will-hit-soon-get-in-early-on-this-crypto-that-could-30x-like-post-ftx-solana-sol/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Rexas Finance",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-6.jpg"
+      },
+      "published": "2025-04-04T11:40:01Z"
+    }
+  },
+  {
+    "hash": "5aad347aa0b56571eac3a001a93f8118ff9d6755e3fce15252fb244fdad53e5b",
+    "item": {
+      "title": "Vulkan 1.4.312 Brings Two New Extensions From NVIDIA \u0026 Qualcomm",
+      "description": "Vulkan 1.4.312 is out today as the newest routine spec update to this high performance graphics and compute API. In addition to the usual mundane clarifications and fixes, this update brings two new extensions from Qualcomm and NVIDIA...",
+      "links": [
+        "https://www.phoronix.com/news/Vulkan-1.4.312-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-04T17:50:00Z"
+    }
+  },
+  {
+    "hash": "8902b3ee28a8d3a9a2968057a3e1ad8cf4d4755af201f571ae9709dc44775ffb",
+    "item": {
+      "title": "Linux 6.15 USB/Thunderbolt Changes Include The New PS883X Driver",
+      "description": "Along with the staging updates, driver core, and char/misc merges this week for the areas of the kernel overseen by Greg Kroah-Hartman, he also sent out the USB and Thunderbolt updates for the Linux 6.15 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-USB"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-04T16:57:40Z"
+    }
+  },
+  {
+    "hash": "494b0cf7f485f8b51fe5820d4262f85e0ac3ea7cc3a4b48422548e3a42381528",
+    "item": {
+      "title": "Rust Is Looking For Your Feedback To Help Guide Its Future",
+      "description": "With Rust turning ten years old this year, they are reflecting and working to draft plans for the next decade. They have started the Rust Vision Survey where they are looking for feedback from all Rust skill-sets as they look toward the future...",
+      "links": [
+        "https://www.phoronix.com/news/Rust-Vision-Survey-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-04T15:57:00Z"
+    }
+  },
+  {
+    "hash": "6f53946b920a322ba4c0bf291f639afdfc4759111620584377f55ea1904ef3dc",
+    "item": {
+      "title": "Kerosene did not save the sperm whale (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43584303\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T15:59:28Z"
+    }
+  },
+  {
+    "hash": "476f13d9bbd501459b6b59ec816ae0f39b3901cf75ca5ec76ecab43fa21f25a4",
+    "item": {
+      "title": "YIMBYism as Industrial Policy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43585587\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.slowboring.com/p/yimbyism-as-industrial-policy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T17:41:42Z"
+    }
+  },
+  {
+    "hash": "7aca42b9c0dc57875fd9c54220993a8fc21e6231f7535693dd85453dcee8e3ea",
+    "item": {
+      "title": "CINC Is Not Chef",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43585354\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cinc.sh/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T17:22:06Z"
+    }
+  },
+  {
+    "hash": "43231ec7f69aa5a3049f329317dea6a4a9a03621664d5662ed0dce21828a4d04",
+    "item": {
+      "title": "The Curse of Ayn Rand's Heir",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43584663\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T16:23:42Z"
+    }
+  },
+  {
+    "hash": "59153d1dbaa2f4b731dad19ac2bda85ac38b9a2da7568da0413d38a2d3b0a840",
+    "item": {
+      "title": "Thunder Compute (YC S24) is hiring a GPU systems engineer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43585103\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T17:00:40Z"
+    }
+  },
+  {
+    "hash": "700638d4a8471af1986b7f8561d220f9667a6ea53aae020870bae463a4a7ba07",
+    "item": {
+      "title": "Build an 8-bit computer from scratch (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43533715\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eater.net/8bit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-31T11:29:34Z"
+    }
+  },
+  {
+    "hash": "e4b09f1ea88048f1d64f6c2673997cfd15842dcb635e2ab3b31c7bcbb3e00547",
+    "item": {
+      "title": "Growing Buffers to Avoid Copying Data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43540070\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://johnnysswlab.com/growing-buffers-to-avoid-copying-data/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-03-31T21:16:21Z"
+    }
+  },
+  {
+    "hash": "270c4d0a9c731b82bab74f790158c85a58f4ffad9d17e9e3f53a3e03fe2c2cf2",
+    "item": {
+      "title": "Show HN: I made a platform to load and performance test API's",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43555409\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://buzzbench.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T10:52:00Z"
+    }
+  },
+  {
+    "hash": "a72353d268ecec3a4145e512b3a5e33d5ae7275083c0665aea5d561cd63f3122",
+    "item": {
+      "title": "Gumroad’s source is available",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43580103\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/antiwork/gumroad"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T09:56:37Z"
+    }
+  },
+  {
+    "hash": "0cb288beec421995052aee494b4d3048c4840675fc6a5eaa3c9e5f9513a4bb6e",
+    "item": {
+      "title": "DeepSeek: Inference-Time Scaling for Generalist Reward Modeling",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43578430\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2504.02495"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T04:50:45Z"
+    }
+  },
+  {
+    "hash": "7084bb0d2e21cf5d475bc5407d619b5ba9e94d49217cbeaf5605c0863fbef0b3",
+    "item": {
+      "title": "Fantastically Wrong: The Legendary Scientist Who Swore Our Planet Is Hollow",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43555728\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wired.com/2014/07/fantastically-wrong-hollow-earth/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-02T11:54:51Z"
+    }
+  },
+  {
+    "hash": "2ed5f7de1bc6407d89f7ddb0e7fae7ec7ec1ab64dfc8400b44f22d71fa2573eb",
+    "item": {
+      "title": "Ask HN: As a Founder, is this business model compelling?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43584547\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43584547"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T16:15:48Z"
+    }
+  },
+  {
+    "hash": "03ce87cfb492a2aef12afb95121bcb08b7db65b6adc7c800538ace3a99a3f77a",
+    "item": {
+      "title": "AI Won’t Replace Crypto Developers Anytime Soon Says Industry Experts",
+      "description": "\u003cp\u003eAI crypto technologies like ChatGPT and ChainGPT are transforming blockchain development workflows, but experts say these tools are more likely to enhance productivity than to replace human crypto developers.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/experts-say-ai-crypto-tools-wont-replace-developers/\"\u003eAI Won’t Replace Crypto Developers Anytime Soon Says Industry Experts\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/experts-say-ai-crypto-tools-wont-replace-developers/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "AI",
+        "AI Agents",
+        "developers"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04175139/1743789099-why-this-ai-bot-might-skyrocket-your-crypto-portfolio-in-2025.jpg"
+      },
+      "published": "2025-04-04T17:54:08Z"
+    }
+  },
+  {
+    "hash": "2a5ad9de70cdeedf88d018659a34467bdb1979eb1ac01ae45aa08cdc1de78052",
+    "item": {
+      "title": "Grayscale Files New S-1 Form for Solana ETF With SEC",
+      "description": "\u003cp\u003eGrayscale Investments has officially taken another step toward expanding its cryptocurrency exchange-traded fund (ETF) offerings.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grayscale-files-new-s-1-form-for-solana-etf-with-sec/\"\u003eGrayscale Files New S-1 Form for Solana ETF With SEC\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grayscale-files-new-s-1-form-for-solana-etf-with-sec/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Finance News",
+        "News",
+        "Grayscale Investments",
+        "SEC",
+        "Solana ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04172621/1743787581-1742220020-solana-2_optimized.jpg"
+      },
+      "published": "2025-04-04T17:32:35Z"
+    }
+  },
+  {
+    "hash": "294f8f47404e12748289cfcd883ccadabb450cf435f4081fbf97b81a556b868e",
+    "item": {
+      "title": "Ethereum Developers to Launch Pectra Upgrade Mainnet on May 7",
+      "description": "\u003cp\u003eThe anticipated Pectra upgrade mainnet has been officially scheduled to launch on May 7, 2025. This milestone event marks a major step forward for the Pectra ecosystem, promising to bring about substantial improvements, enhancements, and innovations to its infrastructure\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-developers-to-launch-pectra-upgrade-mainnet-on-may-7/\"\u003eEthereum Developers to Launch Pectra Upgrade Mainnet on May 7\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-developers-to-launch-pectra-upgrade-mainnet-on-may-7/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "News",
+        "ETH Price",
+        "Ethereum Developer",
+        "Hoodi Testnet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04144701/1743778021-image-1743775397019_optimized.webp"
+      },
+      "published": "2025-04-04T17:19:33Z"
+    }
+  },
+  {
+    "hash": "e47ce0a84ec7c46438cbe82edf763b63472b676623c1b150118d0c614c5800b2",
+    "item": {
+      "title": "3 Cryptos to Buy in April",
+      "description": "\u003cp\u003eIn the aftermath of Trump’s “Liberation Day,” mass liquidations have rocked investment markets—a rare window for opportunistic investors to diversify at a discount.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-best-cryptos-to-buy-in-april/\"\u003e3 Cryptos to Buy in April\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-best-cryptos-to-buy-in-april/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoin",
+        "Best Crypto"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04151714/1743779833-3-cryptos-to-buy-in-april.jpg"
+      },
+      "published": "2025-04-04T16:54:33Z"
+    }
+  },
+  {
+    "hash": "b6b4bd7de9969b09199bb02caa36378d7614c0c3e3b65a20acb823aa9dd9ea7c",
+    "item": {
+      "title": "SUI Price Pops as Falling Wedge Breaks – Here’s What Happens Next",
+      "description": "\u003cp\u003eTariff woes have pulled SUI down by 3% today, but its recent breaking out of a falling wedge pattern could see it explode again very soon.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sui-price-pops-as-falling-wedge-breaks-heres-what-happens-next/\"\u003eSUI Price Pops as Falling Wedge Breaks – Here’s What Happens Next\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sui-price-pops-as-falling-wedge-breaks-heres-what-happens-next/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Prediction",
+        "SUI",
+        "Sui Network"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04120353/1743768232-sui-price-pops-as-falling-wedge-breaks-heres-what-happens-next.jpg"
+      },
+      "published": "2025-04-04T16:40:50Z"
+    }
+  },
+  {
+    "hash": "8506da457be1a2b7742c8df4ca0c67ab9ca88e04e2891756d27e2a568d7bedab",
+    "item": {
+      "title": "Best Meme Coins to Buy Now – Next 100x?",
+      "description": "\u003cp\u003eWhen the crypto market slows down, meme coins are often the first to bounce back.They tend to fall harder than big-name tokens—but when things turn bullish, they also rise much faster.That’s starting to happen now. While the overall market dropped 2.6% in the past 24 hours, meme coins actually climbed slightly to a $49.1 billion [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/best-meme-coins-to-buy-now-next-100x/\"\u003eBest Meme Coins to Buy Now – Next 100x?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/best-meme-coins-to-buy-now-next-100x/"
+      ],
+      "categories": [
+        "Press Releases",
+        "AI Agents",
+        "Meme Coins",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04120808/1743768487-best-meme-coins-to-buy-now-next-100x.jpg"
+      },
+      "published": "2025-04-04T16:26:50Z"
+    }
   }
 ]
