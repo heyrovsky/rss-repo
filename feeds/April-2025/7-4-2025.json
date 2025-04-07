@@ -1074,5 +1074,560 @@
       },
       "published": "2025-04-07T06:17:05Z"
     }
+  },
+  {
+    "hash": "63dfca4542e43c52fa9e15d659afedc8a33ff36fec100dc2638556e4b549c60e",
+    "item": {
+      "title": "FFmpeg Lands AES-NI Optimized Implementation For Big Speed-Up",
+      "description": "FFmpeg is known for carrying a lot of hand-optimized Assembly code for speeding up this widely-used multimedia library and taking advantage of AVX-512 and other modern CPU ISA capabilities. Merged yesterday was support for making use of AES-NI for those relying on Advanced Encryption Standard (AES) within FFmpeg for encrypted video streams...",
+      "links": [
+        "https://www.phoronix.com/news/FFmpeg-Faster-AES-NI"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-07T10:25:12Z"
+    }
+  },
+  {
+    "hash": "30ee37af2a0f9f258a332809e8d1ebd625298005fdac842d2c9f82a14d35c5c4",
+    "item": {
+      "title": "Apple M1 / M2 / M3 Core Support Might Soon Be Merged For The GCC Compiler",
+      "description": "When it comes to compiler support for Apple Silicon and their hardware at large, Apple has long been focused on the LLVM/Clang toolchain given their long history with it, employing many of the developers, and Xcode being based on LLVM. The GNU Compiler Collection (GCC) though may soon see upstream support for the newer Apple Cores thanks to the work of GCC developer Iain Sandoe along with the input of engineers from Arm and the Apple open-source team...",
+      "links": [
+        "https://www.phoronix.com/news/Apple-Cores-GCC-Possibly-Soon"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-07T10:12:11Z"
+    }
+  },
+  {
+    "hash": "445753efa77543ec20ff79830e9a62e19e2ae92fa15b5946af255eb042818bd4",
+    "item": {
+      "title": "Linux 6.14.1 Released With An Initial Set Of Fixes \u0026 Hardware Quirks",
+      "description": "For those that prefer waiting for the first point release before upgrading to a new feature release, Linux 6.14.1 was released this morning with an initial collection of fixes atop the Linux 6.14 codebase from two weeks ago...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.14.1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-07T09:53:40Z"
+    }
+  },
+  {
+    "hash": "56d4a101090638fd35b7ecf83c79608949ba8a8b7a928f4d76197f05c95fc433",
+    "item": {
+      "title": "Your Startup Doesn't Need to Be a Unicorn",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43609242\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T08:42:43Z"
+    }
+  },
+  {
+    "hash": "525a3d6a7e81d8e6570c60383637622ca29bdda95a2aa45556cad991528bf73a",
+    "item": {
+      "title": "Bluesky's Quest to Build Nontoxic Social Media",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43609658\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T10:08:50Z"
+    }
+  },
+  {
+    "hash": "973638a983fc9c5527cdf1fd866b95b440ecd42841122e233a09c8b1486f2462",
+    "item": {
+      "title": "Classic HN: ITAPPMONROBOT",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43609578\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thedailywtf.com/articles/ITAPPMONROBOT"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T09:52:22Z"
+    }
+  },
+  {
+    "hash": "b4a27adbded8adb8839aa7ebeb02119a437f2865176313484345ae88af50fece",
+    "item": {
+      "title": "I'm manually transcribing the AltairBASIC source, ten lines a day starting today",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43584422\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeberg.org/luciofstars/altabasic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T16:06:47Z"
+    }
+  },
+  {
+    "hash": "f9f36bf149dc12a4f9f216bcabe61e522c273920cbf948b6bd4f7b369b6fd23b",
+    "item": {
+      "title": "The Mathematics of Crochet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43585649\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T17:47:05Z"
+    }
+  },
+  {
+    "hash": "1184a157b1e8591f00574b9ceea3878e11f26173a4993f3826752cf570b927d1",
+    "item": {
+      "title": "Inside One of America's Last Pencil Factories (2018)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43610187\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T11:43:46Z"
+    }
+  },
+  {
+    "hash": "224edefae65d5640ad8b39eaef5f6b9d03f315763b16fac7ed8616963d061d45",
+    "item": {
+      "title": "Deterministic simulation testing for async Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43581900\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://s2.dev/blog/dst"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T13:17:11Z"
+    }
+  },
+  {
+    "hash": "c92e217c1c95988f17491e734a794e1f1075b864fd7a6d02fc5cf56700583c56",
+    "item": {
+      "title": "The speech police: Chairman Brendan Carr and the FCC’s news distortion policy",
+      "description": "FCC invokes 1960s-era policy to punish media after decades of minimal enforcement.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/trumps-fcc-chair-invokes-rarely-enforced-news-distortion-policy-to-punish-media/"
+      ],
+      "categories": [
+        "Features",
+        "Policy",
+        "cbs 60 minutes",
+        "fcc chairman brendan carr",
+        "fcc news distortion policy"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/brendan-carr-1152x648.jpg"
+      },
+      "published": "2025-04-07T11:00:54Z"
+    }
+  },
+  {
+    "hash": "412e7f4d93cace92548e914db7924c02d8da3cae6408289cf3caa405c3544378",
+    "item": {
+      "title": "Crypto Market Crash: $1.35 Billion Lost in 24 Hours Due to Global Tariffs",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto_Market_Crash_Today_985M_Liquidated_Bitcoin_Dips_Below_78K.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"crypto market crash\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto_Market_Crash_Today_985M_Liquidated_Bitcoin_Dips_Below_78K.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto_Market_Crash_Today_985M_Liquidated_Bitcoin_Dips_Below_78K-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto_Market_Crash_Today_985M_Liquidated_Bitcoin_Dips_Below_78K-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe cryptocurrency market has crashed over the last 24 hours. Approximately $1.35 billion has been washed out as prices plunged rapidly. The global crypto market is valued at $2.49 trillion now, which is a 11.4 percent decrease from yesterday. Top Cryptos Drop Sharply Bitcoin dropped to $75,000, while Ethereum is",
+      "links": [
+        "https://thenewscrypto.com/crypto-market-crash-1-35-billion-lost-in-24-hours-due-to-global-tariffs/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Market Crash"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sneha Murali"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto_Market_Crash_Today_985M_Liquidated_Bitcoin_Dips_Below_78K.jpg"
+      },
+      "published": "2025-04-07T08:55:02Z"
+    }
+  },
+  {
+    "hash": "041c27f21fb8e3b7d63f1b18f490c18c85fb069b5bd4d2fb82ba0e542648da21",
+    "item": {
+      "title": "DWF Labs Mints USD1 Stablecoin, First Test Transaction Hits Wallet",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"DWF Labs Mints USD1 Stablecoin, First Test Transaction Hits Wallet\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eLaunched for the cryptocurrency project wlfi, which is backed by Trump, DWF Labs has announced a strategic relationship with the USD1 stablecoin. The USD1 stablecoin hopes to attract more users, offer more security, and increase its adoption by teaming up with DWF Labs. A prominent venture capital firm, DWF Labs, has recently minted",
+      "links": [
+        "https://thenewscrypto.com/dwf-labs-mints-usd1-stablecoin-first-test-transaction-hits-wallet/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-04-07T08:23:36Z"
+    }
+  },
+  {
+    "hash": "62dcbc1949e9163c2f61e8ddade889e0783db85b05b3442a5e11861d549061f8",
+    "item": {
+      "title": "Endless CTO Amit Showcases Web3 Genesis Cloud at Hong Kong Web3 Festival 2025, Advancing the Future of Decentralized Technology",
+      "description": "\u003cp\u003e\u003cimg width=\"736\" height=\"489\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/image001-9.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/image001-9.jpg 736w, https://thenewscrypto.com/wp-content/uploads/2025/04/image001-9-300x199.jpg 300w\" sizes=\"auto, (max-width: 736px) 100vw, 736px\" /\u003e\u003c/p\u003e At the Hong Kong Web3 Festival 2025, a leading global event for blockchain and Web3 innovation, Amit Kumar Jaiswal, Chief Technology Officer of Endless Web3 Genesis Cloud, delivered a compelling keynote speech highlighting the transformative capabilities of the Endless — a decentralized intelligent component protocol. Many industry leaders, developers, and",
+      "links": [
+        "https://thenewscrypto.com/endless-cto-amit-showcases-web3-genesis-cloud-at-hong-kong-web3-festival-2025-advancing-the-future-of-decentralized-technology/"
+      ],
+      "categories": [
+        "Press Release",
+        "WEB 3.0"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/image001-9.jpg"
+      },
+      "published": "2025-04-07T08:00:14Z"
+    }
+  },
+  {
+    "hash": "542d75d0ddfa0db3ab6acbc2736f412e1f28f987e6420ba4b026932d86594b41",
+    "item": {
+      "title": "Bemo v2: The Liquid Staking Upgrade Expanding the Scope of What’s Attainable on the TON Ecosystem",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"469\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/image001-7.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/image001-7.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/04/image001-7-300x180.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/image001-7-768x462.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eBemo, a non-custodial TON-based liquid staking protocol, has launched an upgrade. This release, per the team, introduces a plethora of improvements such as advanced DeFi integrations, more flexible staking/unstaking mechanics, real-time notifications, automatic gas calculation, and a new token standard. It is designed to provide users with a smoother, transparent,",
+      "links": [
+        "https://thenewscrypto.com/bemo-v2-the-liquid-staking-upgrade-expanding-the-scope-of-whats-attainable-on-the-ton-ecosystem/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bemo"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/image001-7.png"
+      },
+      "published": "2025-04-07T08:00:00Z"
+    }
+  },
+  {
+    "hash": "0d8788397b1ad1f093ca1fca75a1721ba54f289975da43efa9d655d250d063f1",
+    "item": {
+      "title": "Stellar (XLM) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Stellar (XLM) Price Prediction 2024, 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Stellar (XLM) price prediction for 2025, 2026-2030,\u0026#160; we will analyze the price patterns of XLM by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Stellar (XLM) Current Market Status What is Stellar (XLM)? Stellar (XLM) 24H Technicals STELLAR",
+      "links": [
+        "https://thenewscrypto.com/stellar-xlm-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Stellar",
+        "XLM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3.jpg"
+      },
+      "published": "2025-04-07T07:40:38Z"
+    }
+  },
+  {
+    "hash": "acecd103b598a063fda003c8b34caba43c25544b56191d674899fb4d41d286cd",
+    "item": {
+      "title": "Ethereum Crashes Below $1,500 as Global Crypto Market Plunges 11%",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Market-today.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Crashes Below $1,500 as Global Crypto Market Plunges 11%\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Market-today.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Market-today-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Market-today-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eToday, Ethereum\u0026#8217;s value has dropped significantly to $1,452.78, having realized a 19.43% drop in a span of 24 hours. Its market capitalisation value currently stands at an almost equivalent-valued percentage decline of $175.31 billion. However, despite this price decline, trading spiked by 405.03% in day volume to $32.31 billion. Thus,",
+      "links": [
+        "https://thenewscrypto.com/ethereum-crashes-below-1500-as-global-crypto-market-plunges-11/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "BEARISH",
+        "ETH",
+        "ETHEREUM",
+        "Whale"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Market-today.jpg"
+      },
+      "published": "2025-04-07T07:39:49Z"
+    }
+  },
+  {
+    "hash": "94b309a1739f5fd48eb47007e7cfb45fa3f6ef4a8f080e47177a4deb727a57d5",
+    "item": {
+      "title": "Will Dogecoin Recover After Breaking Below Critical Support?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_6312127222785361479_x.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Will Dogecoin Recover After Breaking Below Critical Support?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_6312127222785361479_x.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_6312127222785361479_x-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_6312127222785361479_x-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDogecoin has dropped to $0.1336 on the 4-hour chart, nearing its lowest value since November 2024, when it was $0.1107. Price action shows renewed selling activity as the chart nears a key historical demand zone.\u0026#160; According to an analysis by KrissPax, a descending triangle that broke to the upside around",
+      "links": [
+        "https://thenewscrypto.com/will-dogecoin-recover-after-breaking-below-critical-support/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "DOGE",
+        "Dogecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/photo_6312127222785361479_x.jpg"
+      },
+      "published": "2025-04-07T07:28:26Z"
+    }
+  },
+  {
+    "hash": "dfbc9098d55ff7b921d4edb05a8f8ff386b6650fd73fecd56ea71053a1d6ae68",
+    "item": {
+      "title": "Will Cardano (ADA) Survive the Crypto Market Meltdown Triggered by Global Tariffs?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Cardano-price-analysis2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Will Cardano (ADA) Survive the Crypto Market Meltdown Triggered by Global Tariffs?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Cardano-price-analysis2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Cardano-price-analysis2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Cardano-price-analysis2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano (ADA) is under strong bearish pressure as the broader crypto market reacts negatively to global economic tensions. The recent tariffs imposed by the U.S. President Donald Trump have triggered a sell-off across markets, and ADA hasn\u0026#8217;t been spared. After trading at $0.659 on Sunday, ADA has fallen sharply, hitting",
+      "links": [
+        "https://thenewscrypto.com/will-cardano-ada-survive-the-crypto-market-meltdown-triggered-by-global-tariffs/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "ADA",
+        "Bitcoin",
+        "Cardano",
+        "Crypto Market",
+        "Donald John Trump"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Cardano-price-analysis2.jpg"
+      },
+      "published": "2025-04-07T07:20:04Z"
+    }
+  },
+  {
+    "hash": "131c5132dcf9e6cda64f7b7cfd007c2e48c77da21cc91506e7e612d64bf7cfff",
+    "item": {
+      "title": "XRP Sinks Over 16%, Will the Slide Continue Below $1?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/XRP-Sinks-Over-16-Will-the-Slide-Continue-Below-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Sinks Over 16%, Will the Slide Continue Below $1?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/XRP-Sinks-Over-16-Will-the-Slide-Continue-Below-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/XRP-Sinks-Over-16-Will-the-Slide-Continue-Below-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/XRP-Sinks-Over-16-Will-the-Slide-Continue-Below-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSustained bearish pressure has pulled the entire crypto market cap down to $2.48 trillion, down by a 6.92% fall. The dramatic drop has sparked losses in assets, with Ripple\u0026#8217;s XRP taking the worst hit, plummeting by a steep 16.06%.\u0026#160; XRP continued to fail to reach the ATH after multiple recovery",
+      "links": [
+        "https://thenewscrypto.com/xrp-sinks-over-16-will-the-slide-continue-below-1/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/XRP-Sinks-Over-16-Will-the-Slide-Continue-Below-1.jpg"
+      },
+      "published": "2025-04-07T07:01:36Z"
+    }
+  },
+  {
+    "hash": "899987476ef24958fd89fbf816494ed3990d812a5864ed0dbde8c23e850d8f29",
+    "item": {
+      "title": "“7 Siblings” Whale Resumes ETH Accumulation as Ethereum Price Crashes",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Whales_are_buying_ETH_during_the_dip_in_the_past_12_hours_as_the.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"“7 Siblings” Whale Resumes ETH Accumulation as Ethereum Price Crashes\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Whales_are_buying_ETH_during_the_dip_in_the_past_12_hours_as_the.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Whales_are_buying_ETH_during_the_dip_in_the_past_12_hours_as_the-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Whales_are_buying_ETH_during_the_dip_in_the_past_12_hours_as_the-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eGlobal macroeconomic conditions and trade wars among countries are causing crypto market turmoil. While Bitcoin has fallen below the $80K price level, the Ether price is trading in the $1.5K price range. Meanwhile, Ethereum whales are taking the present market dip as an opportunity to accumulate more ETH. On-chain analyst",
+      "links": [
+        "https://thenewscrypto.com/7-siblings-whale-resumes-eth-accumulation-as-ethereum-price-crashes/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETH Price",
+        "ETHEREUM",
+        "Whale Alert"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Whales_are_buying_ETH_during_the_dip_in_the_past_12_hours_as_the.jpg"
+      },
+      "published": "2025-04-07T06:28:53Z"
+    }
+  },
+  {
+    "hash": "d3cea20599440b5ec372bc68eb86c6b014e290a7baccd8514da2e1920360ddf0",
+    "item": {
+      "title": "Security Theater: Vanity Metrics Keep You Busy - and Exposed",
+      "description": "After more than 25 years of mitigating risks, ensuring compliance, and building robust security programs for Fortune 500 companies, I’ve learned that looking busy isn’t the same as being secure.\u0026nbsp;\nIt’s an easy trap for busy cybersecurity leaders to fall into. We rely on metrics that tell a story of the tremendous efforts we’re expending - how many vulnerabilities we patched, how fast we",
+      "links": [
+        "https://thehackernews.com/2025/04/security-theater-vanity-metrics-keep.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbC_TIGQTO-1Uc6_izxGwiTfKoX1ezBRQXUnEVk72RH6NFqe6TPbBbM2_LolN_959PBPK7wdIpN0HL8n_V7A4xMqGOrjHz-0_s8cFQeOlUqhzdtsnx3harpixhE2piVqqwZoCAkbCjYloQP94GNEgZfwKyFvWuaJY3Uiy1tjAcVPyUwiZ8_t4s1600W5hm/s1600/xmcyber.jpg"
+      },
+      "published": "2025-04-07T11:00:00Z"
+    }
+  },
+  {
+    "hash": "c3ed647895c7c7a980a01ace329b8a0286e5a0478e770a2a0d17777ce189a99c",
+    "item": {
+      "title": "Layer 1 Blockchain MANTRA Launches $108M Fund to Foster RWA Adoption",
+      "description": "\u003cp\u003eMANTRA Ecosystem Fund (MEF) is a $108 million investment initiative aimed at fostering the growth and adoption of real-world asset\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/layer-1-blockchain-mantra-launches-108m-fund-to-foster-rwa-adoption/\"\u003eLayer 1 Blockchain MANTRA Launches $108M Fund to Foster RWA Adoption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/layer-1-blockchain-mantra-launches-108m-fund-to-foster-rwa-adoption/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Layer 1",
+        "MANTRA",
+        "RWA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07104946/1744022986-image-1744022765987_optimized.jpg"
+      },
+      "published": "2025-04-07T12:00:00Z"
+    }
+  },
+  {
+    "hash": "dafac72070a0649c8b0db63f5b026be3e84afa9d2f35da0b88ed110be4996ed2",
+    "item": {
+      "title": "SafePal Launches Telegram Wallet, Upgrades Wallet Suite",
+      "description": "\u003cp\u003eSafePal has upgraded the Secure Element chipsets in its full hardware wallet line and launched a Telegram Mini-wallet with a banking gateway and Mastercard functionality.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/safepal-launches-telegram-wallet-upgrades-wallet-suite/\"\u003eSafePal Launches Telegram Wallet, Upgrades Wallet Suite\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/safepal-launches-telegram-wallet-upgrades-wallet-suite/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Security",
+        "Telegram",
+        "Wallet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07115402/1744026841-image-1744026816612_optimized.jpg"
+      },
+      "published": "2025-04-07T11:57:49Z"
+    }
+  },
+  {
+    "hash": "2392c61bacc3750ddb4d9ab1bfc9ee3f26195be85a323652ad42627233ff273b",
+    "item": {
+      "title": "Tether Weighs U.S.-Only Stablecoin Amid Potential Pro-Crypto Trump Regulations",
+      "description": "\u003cp\u003eTether is considering launching a U.S.-only version of its token if the Trump administration introduces favorable regulations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tether-weighs-us-only-stablecoin-amid-potential-pro-crypto-trump-regulations/\"\u003eTether Weighs U.S.-Only Stablecoin Amid Potential Pro-Crypto Trump Regulations\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tether-weighs-us-only-stablecoin-amid-potential-pro-crypto-trump-regulations/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Stablecoin",
+        "Tether",
+        "USDT"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07092126/1744017686-aaf3b16d-c3f1-4f10-8d74-b690632dbdd7_optimized.jpg"
+      },
+      "published": "2025-04-07T10:34:42Z"
+    }
+  },
+  {
+    "hash": "f4b8fc512f25f88676020287eb0764da488de52493e637e84822322cf825e2b8",
+    "item": {
+      "title": "BTC, SOL, XRP Drop 20% — Billionaire Bill Ackman Calls for 90-Day Pause on Trump’s Tariffs",
+      "description": "\u003cp\u003eBitcoin and other major cryptocurrencies endured steep losses as global financial markets reeled from escalating trade tensions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/btc-sol-xrp-drop-20-billionaire-bill-ackman-calls-for-90-day-pause-on-trumps-tariffs/\"\u003eBTC, SOL, XRP Drop 20% — Billionaire Bill Ackman Calls for 90-Day Pause on Trump\u0026#8217;s Tariffs\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/btc-sol-xrp-drop-20-billionaire-bill-ackman-calls-for-90-day-pause-on-trumps-tariffs/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07095715/1744019835-image-1744019737858_optimized.jpg"
+      },
+      "published": "2025-04-07T10:26:19Z"
+    }
   }
 ]
