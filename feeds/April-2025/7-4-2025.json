@@ -3153,5 +3153,656 @@
       },
       "published": "2025-04-07T10:26:19Z"
     }
+  },
+  {
+    "hash": "7ec7c63fccccda528691bc5e5140ade434149e35d892627a641d42d2acb45bd7",
+    "item": {
+      "title": "[$] An update on pahole",
+      "description": "\u003cp\u003e\nPahole (originally \"Poke-a-hole\") is a Swiss Army knife for exploring and\nediting debug information. Pahole is also currently involved\nin the kernel's build process to rearrange the information\nproduced by various compilers into a form useful to the BPF verifier, although\nthere are plans to render it unnecessary.\nPahole maintainer Arnaldo Carvalho de Melo shared some status\nupdates about the project at the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF summit. Interested readers can find his slides\n\u003ca href=\"http://vger.kernel.org/~acme/prez/lsfmm-bpf-2025/\"\u003ehere\u003c/a\u003e.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016243/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-04-07T21:01:52Z"
+    }
+  },
+  {
+    "hash": "8dcdc7e08a197af22b4dc7765466d0d71ef7797d4892be2f4360a5a5bf306c40",
+    "item": {
+      "title": "Fifty Years of Open Source Software Supply Chain Security (Queue)",
+      "description": "ACM Queue \u003ca href=\"https://queue.acm.org/detail.cfm?id=3722542\"\u003elooks at\nthe security problem\u003c/a\u003e in the light of a report on Multics security that\nwas published in 1974.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tWe are all struggling with a massive shift that has happened in the\n\tpast 10 or 20 years in the software industry. For decades, software\n\treuse was only a lofty goal. Now it's very real. Modern\n\tprogramming environments such as Go, Node, and Rust have made it\n\ttrivial to reuse work by others, but our instincts about\n\tresponsible behaviors have not yet adapted to this new reality.\n\u003cp\u003e\n\tThe fact that the 1974 Multics review anticipated many of the\n\tproblems we face today is evidence that these problems are\n\tfundamental and have no easy answers. We must work to make\n\tcontinuous improvements to open source software supply chain\n\tsecurity, making attacks more and more difficult and expensive.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016715/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-07T19:56:36Z"
+    }
+  },
+  {
+    "hash": "d35a4fc11db2bc3f08962bfa8f6113e32b573fafe927b3e3ef29604af20a6c57",
+    "item": {
+      "title": "Cardano Developer Donates $460K in ADA to Cardano Treasury Despite Market Dip",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano Shows High Positive Sentiment Despite Weak On-chain Growth\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano just got a serious vote of confidence from within its own ranks. Sebastien Guillemot — a widely respected voice in the Cardano community — recently disclosed that his company dcSpark has officially donated 686,567 ADA to the Cardano Treasury, worth approximately $460,000 at the time of contribution. This wasn’t",
+      "links": [
+        "https://thenewscrypto.com/cardano-developer-donates-460k-in-ada-to-cardano-treasury-despite-market-dip/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ADA",
+        "Cardano"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/cardano-price-analysis-1-2-1.jpg"
+      },
+      "published": "2025-04-07T16:00:00Z"
+    }
+  },
+  {
+    "hash": "b76aec25126645b3f11366394a85257e0c196ef6e5e8be3b6d00031ca9405f28",
+    "item": {
+      "title": "Vincent Van Code Explains Why XRP Holders Shouldn’t Panic Amid Market Crash",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Ripple-Lawsuit-Conclusion-Catalyzes-Bull-Run-in-XRP-Is-3-on-the-Horizon-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Struggles at $2.40 but Holds Long-Term Growth Potential\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Ripple-Lawsuit-Conclusion-Catalyzes-Bull-Run-in-XRP-Is-3-on-the-Horizon-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Ripple-Lawsuit-Conclusion-Catalyzes-Bull-Run-in-XRP-Is-3-on-the-Horizon-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Ripple-Lawsuit-Conclusion-Catalyzes-Bull-Run-in-XRP-Is-3-on-the-Horizon-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs the crypto market reels under immense selling pressure, XRP has become one of the hardest-hit assets, losing more than 17% of its value today. The drop has pulled the price down to $1.76, stoking fears of a broader downturn. But while retail investors scramble for the exits, Vincent Van",
+      "links": [
+        "https://thenewscrypto.com/vincent-van-code-explains-why-xrp-holders-shouldnt-panic-amid-market-crash/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Ripple-Lawsuit-Conclusion-Catalyzes-Bull-Run-in-XRP-Is-3-on-the-Horizon-1.jpg"
+      },
+      "published": "2025-04-07T15:00:00Z"
+    }
+  },
+  {
+    "hash": "8e4522a166463c4472ae0908b80263418bbdb127f3dd1520bf69933b4aed6fa2",
+    "item": {
+      "title": "Litecoin (LTC) Struggles Below $70 as Market Cap Drops 14%",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Litecoin-Price-Tests-130-Amid-Bearish-Market-Signals.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Litecoin Struggles Below $70 as Market Cap Drops 14%\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Litecoin-Price-Tests-130-Amid-Bearish-Market-Signals.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Litecoin-Price-Tests-130-Amid-Bearish-Market-Signals-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Litecoin-Price-Tests-130-Amid-Bearish-Market-Signals-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eLitecoin (LTC) is trading at $67.02 after dropping 15.13% in the last 24 hours. Its market capitalization now stands at $5.06 billion, reflecting a 14.55% decline. Despite this downturn, the daily trading volume surged by 301.99% to reach $1.13 billion. The volume-to-market-cap ratio currently sits at 22.27%, suggesting heightened short-term",
+      "links": [
+        "https://thenewscrypto.com/litecoin-ltc-struggles-below-70-as-market-cap-drops-14/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "BEARISH",
+        "Litecoin",
+        "LTC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Litecoin-Price-Tests-130-Amid-Bearish-Market-Signals.jpg"
+      },
+      "published": "2025-04-07T14:31:43Z"
+    }
+  },
+  {
+    "hash": "cc8128debecf03c7137bbfbdfe5ba0378ec87cbec78d2d70b9162e95c1f857e6",
+    "item": {
+      "title": "SHIB Drops 7%: Is This the Start of a Bigger Correction?",
+      "description": "\u003cp\u003e\u003cimg width=\"320\" height=\"180\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/SHIB-Drops-7-Is-This-the-Start-of-a-Bigger-Correction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SHIB Drops 7%: Is This the Start of a Bigger Correction?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/SHIB-Drops-7-Is-This-the-Start-of-a-Bigger-Correction.jpg 320w, https://thenewscrypto.com/wp-content/uploads/2025/04/SHIB-Drops-7-Is-This-the-Start-of-a-Bigger-Correction-300x169.jpg 300w\" sizes=\"auto, (max-width: 320px) 100vw, 320px\" /\u003e\u003c/p\u003eFollowing the steady market crash, the meme coin market cap has reached $42.5 billion after a 15.1% slip. The dog-themed Shiba Inu (SHIB) has lost over 7.81% in the past 24 hours.\u0026#160; The meme coin opened the day trading at a high of $0.00001211. Eventually, the bears pulled SHIB to",
+      "links": [
+        "https://thenewscrypto.com/shib-drops-7-is-this-the-start-of-a-bigger-correction/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Meme Coin",
+        "SHIB",
+        "Shiba Inu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/SHIB-Drops-7-Is-This-the-Start-of-a-Bigger-Correction.jpg"
+      },
+      "published": "2025-04-07T13:54:33Z"
+    }
+  },
+  {
+    "hash": "4eb1b50cf53da8bf9891301ca552624d5ccf56df7a40d66dce7fd43d1f524aa1",
+    "item": {
+      "title": "ARK Invest Buys $13.4M in Coinbase Shares During Market Turmoil",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ark-Invest-Buys-Additional-Coinbase-Shares-Worth-13.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ARK Invest Buys $13.4M in Coinbase Shares During Market Turmoil\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ark-Invest-Buys-Additional-Coinbase-Shares-Worth-13.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ark-Invest-Buys-Additional-Coinbase-Shares-Worth-13-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ark-Invest-Buys-Additional-Coinbase-Shares-Worth-13-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCathie Wood’s ARK Invest has acquired Coinbase (COIN) shares worth $13.4 million across three of its ETFs. The move comes amid a broad market sell-off triggered by President Trump’s new tariff policies. Despite the turmoil, ARK doubled down on its long-term crypto strategy. According to ARK’s daily trade report for",
+      "links": [
+        "https://thenewscrypto.com/ark-invest-buys-13-4m-in-coinbase-shares-during-market-turmoil/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Ark Invest",
+        "Coinbase",
+        "Stablecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Ark-Invest-Buys-Additional-Coinbase-Shares-Worth-13.jpg"
+      },
+      "published": "2025-04-07T13:12:05Z"
+    }
+  },
+  {
+    "hash": "b2216fda331edea9669fe0d824ea61d65ccf3fa648a4ad7492ad527a0adc685a",
+    "item": {
+      "title": "Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality",
+      "description": "Touted 10M token context proves elusive, while early performance tests disappoint experts.",
+      "links": [
+        "https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "LLaMA",
+        "Llama 3",
+        "Llama 4",
+        "machine learning",
+        "meta",
+        "Simon Willison"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/llama_head_1-1152x648.jpg"
+      },
+      "published": "2025-04-07T19:54:47Z"
+    }
+  },
+  {
+    "hash": "71d4aeb0fb637e1c38493f00604ed1cf6f4793832b5c10e193cacc6c5d7c76a1",
+    "item": {
+      "title": "De-extinction company announces that the dire wolf is back",
+      "description": "What they delivered is a grey wolf genome carrying a handful of genetic edits.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/de-extinction-company-announces-that-the-dire-wolf-is-back/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "colossal",
+        "de-extinction",
+        "dire wolf",
+        "wolves"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/image-1-1152x648.jpeg"
+      },
+      "published": "2025-04-07T19:35:27Z"
+    }
+  },
+  {
+    "hash": "463ba3dd0e400425dc69601ad663ff92730a4fa32915e9d9a7ffba6aae005ce1",
+    "item": {
+      "title": "Balatro yet again subject to mods’ poor understanding of “gambling”",
+      "description": "YouTube restricts some, but not all, videos depicting the poker-ish indie game.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/04/balatro-yet-again-subject-to-mods-poor-understanding-of-gambling/"
+      ],
+      "categories": [
+        "Gaming",
+        "age restricted",
+        "balatro",
+        "gambling",
+        "google",
+        "online gambling",
+        "PEGI",
+        "YouTube"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kevin Purdy"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-72068709-1152x648.jpg"
+      },
+      "published": "2025-04-07T19:24:10Z"
+    }
+  },
+  {
+    "hash": "1aec8f44f0b637053d85907cf1fc747bbe48e3eee0d0a1afd99e0890c1b91d5b",
+    "item": {
+      "title": "Google’s AI Mode search can now answer questions about images",
+      "description": "Google's AI Mode can now understand images as part of your searches.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/googles-ai-mode-search-can-now-answer-questions-about-images/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "ai search",
+        "Artificial Intelligence",
+        "google",
+        "Google Gemini",
+        "google search"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/AIModeLens_HeroImage_2097x1182.width-2200.format-webp-1152x648.webp"
+      },
+      "published": "2025-04-07T19:13:37Z"
+    }
+  },
+  {
+    "hash": "da0ec237eb4bfbe098365930b46123d0d7d9a87c923bcef201cdec68e15ea4ba",
+    "item": {
+      "title": "Trump gives China one day to end retaliations or face extra 50% tariffs",
+      "description": "China expects to outlast US in trade war, alarming Big Tech.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/trump-gives-china-one-day-to-end-retaliations-or-face-extra-50-tariffs/"
+      ],
+      "categories": [
+        "Policy",
+        "china tariffs",
+        "consumer technology",
+        "Donald Trump",
+        "trump tariffs",
+        "us-china trade war"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-1197811004-1152x648.jpg"
+      },
+      "published": "2025-04-07T18:58:46Z"
+    }
+  },
+  {
+    "hash": "f310137a113b4207857c40bb7a04b8cdcb7d6599dbb70c3a1a917b4f0f3a706d",
+    "item": {
+      "title": "Paramount drops action-packed Mission: Impossible—Final Reckoning trailer",
+      "description": "\"If we want to bring the world back from the brink, we have to deal with him.\"",
+      "links": [
+        "https://arstechnica.com/culture/2025/04/the-gangs-back-to-wrap-up-a-mission-in-mi-final-reckoning-trailer/"
+      ],
+      "categories": [
+        "Culture",
+        "entertainment",
+        "film trailers",
+        "MI: Final Reckoning",
+        "mission impossible",
+        "Paramount Pictures",
+        "Tom Cruise",
+        "Trailers"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/reckon1-1152x648.jpg"
+      },
+      "published": "2025-04-07T18:28:59Z"
+    }
+  },
+  {
+    "hash": "9b6b67f40106b992f022db823ec8400f74b3caa20e92de5af191ff28602c8eb5",
+    "item": {
+      "title": "Second child dies of measles—anti-vaccine advocate reported it before officials",
+      "description": "Another tragic death highlights growing power of anti-vaccine advocates.",
+      "links": [
+        "https://arstechnica.com/health/2025/04/second-child-dies-of-measles-anti-vaccine-advocate-reported-it-before-officials/"
+      ],
+      "categories": [
+        "Health",
+        "anti-vaccine",
+        "child",
+        "death",
+        "Infectious disease",
+        "kennedy",
+        "measles",
+        "outbreak",
+        "texas",
+        "vaccine"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-2195967593-1152x648.jpg"
+      },
+      "published": "2025-04-07T18:19:34Z"
+    }
+  },
+  {
+    "hash": "8716e58817e2faa19858df0db00bf1045dacfb5c9c0ce02f02c86735cd6eb044",
+    "item": {
+      "title": "White House figures out how it texted secret bombing plans to a reporter",
+      "description": "Waltz apparently accepted iPhone contact suggestion without verifying accuracy.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/white-house-figures-out-how-it-texted-secret-bombing-plans-to-a-reporter/"
+      ],
+      "categories": [
+        "Policy",
+        "michael waltz",
+        "White House"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/michael-waltz-1-1152x648-1744046512.jpg"
+      },
+      "published": "2025-04-07T17:40:45Z"
+    }
+  },
+  {
+    "hash": "86370d89e59c102d0934dc2cd650d6e384ca89398b54625fec399b4508602658",
+    "item": {
+      "title": "A begrudging defense of Nintendo’s “Game-Key cards” for the Switch 2",
+      "description": "Op-ed: Game-Key cards have problems, but I'll take them over download-only.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/a-begrudging-defense-of-nintendos-game-key-cards-for-the-switch-2/"
+      ],
+      "categories": [
+        "Gaming",
+        "Tech",
+        "nintendo switch",
+        "nintendo switch 2"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/switch-game-key-1152x640.jpeg"
+      },
+      "published": "2025-04-07T16:53:34Z"
+    }
+  },
+  {
+    "hash": "8d948e90ac4b334c3451f99eede205b53b9b42a81137ebebc8042b42072d43d9",
+    "item": {
+      "title": "Show HN: Lux – A luxurious package manager for Lua",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43614285\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T18:13:23Z"
+    }
+  },
+  {
+    "hash": "81ad8b68e5b3642ead6c3c216bf78aaf626a050bdcf9927db22d038c48a00d35",
+    "item": {
+      "title": "In React {Transitions} = F(state)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43615624\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jordaneldredge.com/blog/transitions-f-of-state/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T20:28:59Z"
+    }
+  },
+  {
+    "hash": "e172d884100737c21a6303b74c8efc9a37b7075691e3e6d85e2e98d02ba0be9b",
+    "item": {
+      "title": "20 years of Git",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43613305\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.gitbutler.com/20-years-of-git/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T16:37:57Z"
+    }
+  },
+  {
+    "hash": "18deb3f31cb9f1793b2841fd93341c71fc34c3633c1ea93d7ce6b6863eaa21fd",
+    "item": {
+      "title": "Scaffold Level Editor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43615322\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.littlepolygon.com/posts/scaffold/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T20:00:58Z"
+    }
+  },
+  {
+    "hash": "30cb487ffb3a0f86642e61a65ffd86c81dc2c14ce8ab2815d8ec288506ba636e",
+    "item": {
+      "title": "PiDP-1, or the rebirth of an old machine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43595326\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-05T18:06:09Z"
+    }
+  },
+  {
+    "hash": "29b445e542325e16b61d9da21e4ebe1e1c757f1e7ecfdef6730bc0257151a416",
+    "item": {
+      "title": "W.G. Sebald and the Politics of Melancholy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43591196\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://newrepublic.com/article/193177/wg-sebald-politics-melancholy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-05T05:57:39Z"
+    }
+  },
+  {
+    "hash": "3ea951ec6ea5d99ae930163417806a6682ca8ab8c18bd3e624fbd6af26dd10a1",
+    "item": {
+      "title": "Why Catullus continues to seduce us",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43612807\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T15:49:05Z"
+    }
+  },
+  {
+    "hash": "e66fd04485f75ddce797832d61f0364367770aa4bb471b1d4c52fdd3223c5da8",
+    "item": {
+      "title": "Mass grave of Roman soldiers found under Vienna sports field",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43584208\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gizmodo.com/mass-grave-of-150-roman-soldiers-found-under-vienna-sports-field-2000584946"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T15:54:30Z"
+    }
+  },
+  {
+    "hash": "cf4484029efa06060552cb079324d5f0c372a085231ceddd8f2d2cfcff17d71f",
+    "item": {
+      "title": "Interviewing a software engineer who prepared with AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43577490\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T01:41:35Z"
+    }
+  },
+  {
+    "hash": "c3cb01dd3fea6523e9a492838df477c791a05b2513fb01e22f234cfa1d73a94f",
+    "item": {
+      "title": "Rust-Written Redox OS Makes USB 3.x Improvements, Async NVMe Driver Support",
+      "description": "The Rust-written Redox OS open-source operating system project has published its March 2025 status report that outlines exciting progress made over the past month...",
+      "links": [
+        "https://www.phoronix.com/news/Redox-OS-March-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-07T19:07:01Z"
+    }
+  },
+  {
+    "hash": "099271efb042e331c8453223b1af3122a3026a89249e87b30eff1ee1da637532",
+    "item": {
+      "title": "Mozilla Builders' LocalScore: An Interesting Local AI LLM Benchmark",
+      "description": "Via Mozilla's Mozilla Builders initiative for fostering open-source AI projects is LocalScore, an interesting local AI large language model (LLM) benchmark for Windows and Linux systems. LocalScore has a lot of potential and also builds off the Mozilla Ocho Llamafile project as an easy-to-distribute LLM framework. LocalScore is still in its early stages but is already working well and will also be used in future hardware reviews on Phoronix...",
+      "links": [
+        "https://www.phoronix.com/news/LocalScore-AI-LLM-Benchmark"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-07T18:38:00Z"
+    }
+  },
+  {
+    "hash": "2a8e656f4659b0ac189bce2fce9a3587b57ecc2050d439a40440d24ece003118",
+    "item": {
+      "title": "Crypto ETPs See Outflows of $240M After US Trade Tariff News: CoinShares",
+      "description": "\u003cp class=\"\" data-start=\"806\" data-end=\"1042\"\u003eCoinShares reported $240 million in outflows from crypto exchange-traded products in response to U.S. trade tariff news, with market participants retreating from risk amid shifting macroeconomic signals.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinshares-240m-flows-out-of-crypto-etps-on-tariff-news/\"\u003eCrypto ETPs See Outflows of $240M After US Trade Tariff News: CoinShares\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinshares-240m-flows-out-of-crypto-etps-on-tariff-news/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Finance News",
+        "News",
+        "CoinShares",
+        "Crypto ETPs",
+        "tariffs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07202807/1744057687-1740632000-d379212b-6898-4080-ae83-1ea259aa3306_optimized.jpg"
+      },
+      "published": "2025-04-07T20:34:01Z"
+    }
+  },
+  {
+    "hash": "ab55bd1cb0caac285523034e812dbd74254e6b74d364521dfdf8e88da67bc4ff",
+    "item": {
+      "title": "Binance Taps Worldpay to Enable Apple Pay, Google Pay Integration",
+      "description": "\u003cp\u003eBinance partners with Worldpay to integrate Apple Pay and Google Pay, enabling seamless crypto purchases via digital wallets, enhancing accessibility for millions of users globally and bridging traditional finance with blockchain innovation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-adds-apple-google-pay-via-worldpay-deal/\"\u003eBinance Taps Worldpay to Enable Apple Pay, Google Pay Integration\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-adds-apple-google-pay-via-worldpay-deal/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "Apple",
+        "Binance",
+        "Google"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07154700/1744040819-image-1744040792152_optimized.jpg"
+      },
+      "published": "2025-04-07T20:05:15Z"
+    }
+  },
+  {
+    "hash": "3f4226269c985917c3887c8042a53a30ce7e1693c531ac54f167c4d6a98884c7",
+    "item": {
+      "title": "Tokenized Assets to Surge to $19 Trillion by 2033: Ripple Report",
+      "description": "\u003cp\u003eAccording to Ripple, the tokenized assets market could reach $19.4 trillion by 2033, expanding from $1.5 trillion in 2023 as financial institutions and infrastructure providers continue to adopt digital representations of assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-tokenized-assets-may-hit-19t-by-2033/\"\u003eTokenized Assets to Surge to $19 Trillion by 2033: Ripple Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-tokenized-assets-may-hit-19t-by-2033/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Boston Consulting Group",
+        "Ripple",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07183444/1744050884-image-1744050840417_optimized.jpg"
+      },
+      "published": "2025-04-07T18:39:03Z"
+    }
   }
 ]
