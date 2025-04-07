@@ -858,5 +858,221 @@
       },
       "published": "2025-04-06T20:57:28Z"
     }
+  },
+  {
+    "hash": "d3cf82e19f89cbb88558aa2c2431f3641736f7735a1c111a92d9a3760eb1509e",
+    "item": {
+      "title": "Writing C for Curl",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43608551\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T06:51:19Z"
+    }
+  },
+  {
+    "hash": "280c207a953e6ed0f199f9b9d0edafc9ef66faa62f40cf4a21ddd98fc86cd9a0",
+    "item": {
+      "title": "A Multiwavelength Look at Proxima Centauri's Flares",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43565891\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-03T07:07:48Z"
+    }
+  },
+  {
+    "hash": "40ba358fbcde003d7a0e1c845e3b1b5a2b99375761bbd380a5834979a198cd9d",
+    "item": {
+      "title": "Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43585055\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T16:56:42Z"
+    }
+  },
+  {
+    "hash": "742ce7cfac970b1da26372a30631c7c943e382648bcbbb7b50492642f218d7da",
+    "item": {
+      "title": "Benchmarking LLM social skills with an elimination game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43586380\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/lechmazur/elimination_game"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-04T18:54:41Z"
+    }
+  },
+  {
+    "hash": "0fb8efa7baf34fa7a4fabc1f1561a89268024543ee03edb07898c94667bde59e",
+    "item": {
+      "title": "Knowing where your engineer salary comes from",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43603646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/where-the-money-comes-from/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-06T18:25:36Z"
+    }
+  },
+  {
+    "hash": "46575fccdf6ac60e8cb59a849eb5e2fdbd00fad25bcfa2e7ff167e1f0b34f255",
+    "item": {
+      "title": "Food fermentation in space: Opportunities and challenges",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43606912\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T02:14:58Z"
+    }
+  },
+  {
+    "hash": "be2f1eda51a052bb8891fb73e95458c12742d1227cc9c70bcadd30e6aacd1dc9",
+    "item": {
+      "title": "PoisonSeed Exploits CRM Accounts to Launch Cryptocurrency Seed Phrase Poisoning Attacks",
+      "description": "A malicious campaign dubbed PoisonSeed is leveraging compromised credentials associated with customer relationship management (CRM) tools and bulk email providers to send spam messages containing cryptocurrency seed phrases in an attempt to drain victims' digital wallets.\n\"Recipients of the bulk spam are targeted with a cryptocurrency seed phrase poisoning attack,\" Silent Push said in an",
+      "links": [
+        "https://thehackernews.com/2025/04/poisonseed-exploits-crm-accounts-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6-qtZRWHS1tQTTkSLxAJEPuZNwds0SE-9EmKCtCJ-l3_U24gRDCSbH04NjUCT0v4dIjcpaz9WFWfEkdWuHKSH1QSwnUWwehtLdDH_WtFI5FFyPYemDnqlMX-9Cupb1pD6L0jNqwBB8R4QwcDvZ3OWHj5PDXrkHNvIO4AFv2pZwjyb59rEx7I_D2IN_kL/s1600/crypto-seed.jpg"
+      },
+      "published": "2025-04-07T07:29:00Z"
+    }
+  },
+  {
+    "hash": "3dbe853c94499c682067f5a7542139a448051465d4934421ce07a30de6b37712",
+    "item": {
+      "title": "Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware",
+      "description": "Ivanti has disclosed details of a now-patched critical security vulnerability impacting its Connect Secure product that has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-22457 (CVSS score: 9.0), concerns a case of a stack-based buffer overflow that could be exploited to execute arbitrary code on affected systems.\n\"A stack-based buffer overflow in Ivanti",
+      "links": [
+        "https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCltg902mTaOYxU2hZDJqQJhi9eJluvxfnbIAsb0TGxGbkPpcC2bFLnQmwCw0xC-ve4pgNLlSGzT1rUVmaIyWGodNQihyphenhyphenWcgsL9fUGrMAcfYJ-zz2XtKlN-7-L6WZF6Md48cG9sQYj_xsdC55um9N2jlmq-wKw5C3FeBC-IsEhCmuihjjNxXsFakuZOeyB/s1600/hackers.jpg"
+      },
+      "published": "2025-04-04T06:07:00Z"
+    }
+  },
+  {
+    "hash": "17640d1697e40c3793d5864e4a8a101693929d778bd6c812b319de36135eb499",
+    "item": {
+      "title": "Pump.fun Relaunches Livestreams to 5% of Users After Five-Month Safety Pause",
+      "description": "\u003cp\u003ePump.fun has reintroduced its live-streaming feature to a limited group of users, five months after suspending it due to a wave of harmful and controversial content.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pump-fun-resumes-livestreams-with-new-moderation-rules/\"\u003ePump.fun Relaunches Livestreams to 5% of Users After Five-Month Safety Pause\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pump-fun-resumes-livestreams-with-new-moderation-rules/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Meme Coins",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07073936/1744011576-image-1744011557007_optimized.jpg"
+      },
+      "published": "2025-04-07T08:21:45Z"
+    }
+  },
+  {
+    "hash": "fbc60ae7e36c6a499c2984e7416b6358719b901cb72de4ddd82dd6cab468d143",
+    "item": {
+      "title": "Emerging Address Poisoning Attack on Bitcoin Blockchain, Casa Executive Warns",
+      "description": "\u003cp\u003eJameson Lopp cautioned Bitcoin holders, stressing the recent surge in Bitcoin address “poisoning” attacks, where attackers mimic wallet addresses.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/emerging-address-poisoning-attack-on-bitcoin-blockchain-casa-executive-warns/\"\u003eEmerging Address Poisoning Attack on Bitcoin Blockchain, Casa Executive Warns\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/emerging-address-poisoning-attack-on-bitcoin-blockchain-casa-executive-warns/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin",
+        "Blockchain",
+        "Hackers"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07075552/1744012551-image-1744009361139_optimized.jpg"
+      },
+      "published": "2025-04-07T08:10:40Z"
+    }
+  },
+  {
+    "hash": "20f1e94597ca8b38e30ead98f1c43f33db67771c6b27eea8dda092fc1896d541",
+    "item": {
+      "title": "Crypto Liquidations Surpass $1.3B as Markets Continue to Crash on ‘Black Monday’",
+      "description": "\u003cp\u003eCryptocurrency markets faced a brutal correction on what’s being dubbed “Black Monday,” with total liquidations exceeding $1.36 billion in the past 24 hours.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-liquidations-hit-1-3b-as-markets-crash-on-black-monday/\"\u003eCrypto Liquidations Surpass $1.3B as Markets Continue to Crash on \u0026#8216;Black Monday\u0026#8217;\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-liquidations-hit-1-3b-as-markets-crash-on-black-monday/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07071352/1744010032-image-1744009948852_optimized.jpg"
+      },
+      "published": "2025-04-07T07:28:49Z"
+    }
+  },
+  {
+    "hash": "139f5746cbd06ff5feb588db1c23eeacab382c20dfffb214ad9e74c0dd129ea3",
+    "item": {
+      "title": "Hong Kong to Roll Out Updated Virtual Asset Policy Framework by End of 2025",
+      "description": "\u003cp\u003eHong Kong will release an expanded virtual asset policy by year-end, aiming to deepen Web3 integration into finance and the broader economy, Financial Secretary Paul Chan said.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hong-kong-to-roll-out-updated-virtual-asset-framework-end-of-2025/\"\u003eHong Kong to Roll Out Updated Virtual Asset Policy Framework by End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hong-kong-to-roll-out-updated-virtual-asset-framework-end-of-2025/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Crypto Regulations",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/07060147/1744005706-image-1744005682611_optimized.jpg"
+      },
+      "published": "2025-04-07T06:17:05Z"
+    }
   }
 ]
