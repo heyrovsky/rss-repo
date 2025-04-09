@@ -1592,5 +1592,851 @@
       },
       "published": "2025-04-09T10:08:20Z"
     }
+  },
+  {
+    "hash": "abaa5f431bb1294a14ffedc50576370c8f66f762e9311d08874255d783c8c7e9",
+    "item": {
+      "title": "[$] Debian Project Leader election 2025 edition",
+      "description": "\u003cp\u003eFour candidates have stepped up to run in the \u003ca\nhref=\"https://www.debian.org/vote/2025/vote_001\"\u003e2025 Debian Project\nLeader\u003c/a\u003e (DPL) election. \u003ca\nhref=\"https://www.debian.org/vote/2025/platforms/tille\"\u003eAndreas\nTille\u003c/a\u003e, who is in his first term as DPL, is running again. \u003ca\nhref=\"https://www.debian.org/vote/2025/platforms/srud\"\u003eSruthi\nChandran\u003c/a\u003e, \u003ca\nhref=\"https://www.debian.org/vote/2025/platforms/locutusofborg\"\u003eGianfranco\nCostamagna\u003c/a\u003e, and \u003ca\nhref=\"https://www.debian.org/vote/2025/platforms/jak\"\u003eJulian Andres\nKlode\u003c/a\u003e are the other candidates running for a chance to serve a\nterm as DPL. The campaigning phase ended on April\u0026#160;5, and Debian\nmembers began voting on April\u0026#160;6. Voting ends on\nApril\u0026#160;19. This year, the campaign period has been lively and\nsometimes contentious, touching on problems with Debian team\ndelegations and finances.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016107/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-09T14:58:28Z"
+    }
+  },
+  {
+    "hash": "52c9aff4efce7778bd09b66b1acfc4871b4dde65c19a93d67b9a3e199dc63bcc",
+    "item": {
+      "title": "[$] A new type of spinlock for the BPF subsystem",
+      "description": "\u003cp\u003e\nThe 6.15 merge window saw the inclusion of a new type of lock for BPF programs:\na resilient queued spinlock that Kumar Kartikeya Dwivedi has been working on\nfor some time. Eventually, he hopes to convert all of the spinlocks currently\nused in the BPF subsystem to his new lock.\nHe gave a remote presentation about the design of the lock at the\n2025 Linux Storage, Filesystem,\nMemory-Management, and BPF summit.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016674/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-04-09T14:33:25Z"
+    }
+  },
+  {
+    "hash": "6062d5762a5ddaa92c0a8ea57aa7a510bc219c2967dd5570dbc40ef923c08457",
+    "item": {
+      "title": "[$] Improving hot-page detection and promotion",
+      "description": "Tiered-memory systems feature multiple types of memory with varying\nperformance characteristics; on such systems, good performance depends on\nkeeping the most frequently used data in the fastest memory.  Identifying\nthat data and placing it properly is a challenge that has kept developers\nbusy for years.  Bharata Rao, presenting remotely during a\nmemory-management-track session at the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF Summit, led a discussion on \u003ca\nhref=\"https://lwn.net/Articles/1014220/#hotpage\"\u003ea potential solution\u003c/a\u003e he has recently\nposted; Raghavendra K\u0026#160;T was also named on \u003ca\nhref=\"https://lwn.net/ml/linux-mm/20250123105721.424117-1-raghavendra.kt@amd.com/\"\u003ethe\nsession proposal\u003c/a\u003e.  It seems likely, based on the discussion, that\ndevelopers working in this area will not run out of problems anytime soon.",
+      "links": [
+        "https://lwn.net/Articles/1016519/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-09T13:47:53Z"
+    }
+  },
+  {
+    "hash": "8e222984b71eddd4b11c0ffb2002a07855374bdb06fa5e2fc9daafc4dc1491df",
+    "item": {
+      "title": "[$] Two approaches to better kernel samepage merging",
+      "description": "The \u003ca href=\"https://docs.kernel.org/admin-guide/mm/ksm.html\"\u003ekernel\nsamepage merging (KSM)\u003c/a\u003e subsystem works by finding pages in memory with\nthe same contents, then replacing the duplicated copies with a single,\nshared copy.  KSM can improve memory utilization in a system, but has some\nproblems as well.  In two memory-management-track sessions at the 2025\nLinux Storage, Filesystem, Memory-Management, and BPF Summit, Mathieu\nDesnoyers and Sourav Panda proposed improvements to KSM to\nmake it work better for specific use cases.",
+      "links": [
+        "https://lwn.net/Articles/1016426/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-09T13:45:34Z"
+    }
+  },
+  {
+    "hash": "ee31260fefba21c44e66734a1da384fd6755396abda0fde31cd84fe99cba9838",
+    "item": {
+      "title": "OpenSSH 10.0 released",
+      "description": "\u003cp\u003e\u003ca href=\"https://www.openssh.com/releasenotes.html#10.0p1\"\u003eOpenSSH\n10.0\u003c/a\u003e has been released. Support for the DSA signature algorithm,\nwhich was disabled by default beginning in 2015, has been\nremoved. Other notable changes include using the \u003cspan\nclass=\"nobreak\"\u003epost-quantum\u003c/span\u003e algorithm \u003ca\nhref=\"https://datatracker.ietf.org/doc/html/draft-kampanakis-curdle-ssh-pq-ke-03#name-mlkem768x25519-sha256\"\u003emlkem768x25519-sha256\u003c/a\u003e\nfor key agreement by default, support for systemd-style socket\nactivation in \u003ca href=\"https://www.openssh.com/portable.html\"\u003ePortable OpenSSH\u003c/a\u003e, and moving code for user\nauthentication from the \u003ctt\u003esshd-session\u003c/tt\u003e binary to the new\n\u003ctt\u003essh-auth\u003c/tt\u003e binary:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nSplitting this code into a separate binary ensures that the crucial\npre-authentication attack surface has an entirely disjoint address\nspace from the code used for the rest of the connection. It also\nyields a small runtime memory saving as the authentication code will\nbe unloaded after the authentication phase completes. This change\nshould be largely invisible to users, though some log messages may now\ncome from \"sshd-auth\" instead of \"sshd-session\". Downstream\ndistributors of OpenSSH will need to package the sshd-auth binary.\n\u003c/blockquote\u003e\n\n\u003cp\u003eThe release notes also warn that \"\u003cq\u003esoftware that naively matches\nversions using patterns like \"OpenSSH_1*\"\u003c/q\u003e\" may be confused by the\nnew version number.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016924/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-09T13:18:50Z"
+    }
+  },
+  {
+    "hash": "a77028586c7dc3076b440e6254b599ac770f2915f5b711c29d65710e8ff58781",
+    "item": {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (lemonldap-ng, libbssolv-perl, and phpmyadmin), \u003cb\u003eFedora\u003c/b\u003e (augeas, mariadb10.11, and thunderbird), \u003cb\u003eOracle\u003c/b\u003e (gimp, libxslt, python3.11, python3.12, tomcat, and xorg-x11-server), \u003cb\u003eRed Hat\u003c/b\u003e (expat, grafana, opentelemetry-collector, and webkit2gtk3), \u003cb\u003eSUSE\u003c/b\u003e (azure-cli-core, doomsday, kernel, and poppler), and \u003cb\u003eUbuntu\u003c/b\u003e (dotnet8, dotnet9, erlang, and poppler).",
+      "links": [
+        "https://lwn.net/Articles/1016923/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-09T13:01:00Z"
+    }
+  },
+  {
+    "hash": "8ba41820907bfc717e82af204308ad3cfa1b7a03032990b56ea876f92c1e34ce",
+    "item": {
+      "title": "Lovable AI Found Most Vulnerable to VibeScamming — Enabling Anyone to Build Live Scam Pages",
+      "description": "Lovable, a generative artificial intelligence (AI) powered platform that allows for creating full-stack web applications using text-based prompts, has been found to be the most susceptible to jailbreak attacks, allowing novice and aspiring cybercrooks to set up lookalike credential harvesting pages.\n\"As a purpose-built tool for creating and deploying web apps, its capabilities line up perfectly",
+      "links": [
+        "https://thehackernews.com/2025/04/lovable-ai-found-most-vulnerable-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGkslJ3fDvPaurA3ZobXyyK-_iAaRF5NmvSiOisZgf4pDCJRQWti_6JeI9mpVMhXH3Ao0pftU6WbDCfsMGorlZfpgQ9qfSyDXXbVkwwCZAgUMvcSxuL0QGB4bh1-A4kyM0LjhAhzIwrZ3-cOdfWPVESOL9ht8tI-HcDv2IZX-mOU7L2ZPawxJ08tugjB1d/s1600/AI-scam.jpg"
+      },
+      "published": "2025-04-09T14:28:00Z"
+    }
+  },
+  {
+    "hash": "91e8a1a6c02b48433873acc6f3247901709906b4dc884ee46bf93b122bfe4087",
+    "item": {
+      "title": "Trump throws coal a lifeline, but the energy industry has moved on",
+      "description": "The US market has been moving away from coal for decades.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/trump-throws-coal-a-lifeline-but-the-energy-industry-has-moved-on/"
+      ],
+      "categories": [
+        "Science",
+        "climate change",
+        "coal",
+        "Energy",
+        "syndication",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Marianne Lavelle, Inside Climate News"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/coal-fired-hi-1152x648.jpg"
+      },
+      "published": "2025-04-09T14:05:33Z"
+    }
+  },
+  {
+    "hash": "32dfcc8eedee3452dfc8b47a5c570bc5de93c2b883bb61dc8c4660fbddffa8a3",
+    "item": {
+      "title": "Will Cardano Bears Succeed in Reaching the $0.4 Support, as Token Continues to Fall?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn the past day, the crypto market has retraced back to previous support levels after a brief recovery. Meanwhile, the US regulatory sector is drumming up with a major announcement. The final voting to nominate SEC Paul Atkins is looming closer. On the other hand, the global economic landscape is",
+      "links": [
+        "https://thenewscrypto.com/will-cardano-bears-succeed-in-reaching-the-0-4-support-as-token-continues-to-fall/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ADA",
+        "Altcoin",
+        "Cardano",
+        "Cryptocurrency",
+        "Price Analysis",
+        "price drop"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall.jpg"
+      },
+      "published": "2025-04-09T12:01:45Z"
+    }
+  },
+  {
+    "hash": "99fc073ae33b0c5db99df016f9d452a8c16069332ee8e12a7553acfe2e03614c",
+    "item": {
+      "title": "Aave Kicks Off $4M Token Buyback, Backed by Over 99% Community Support",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Aave Kicks Off $4M Token Buyback, Backed by Over 99% Community Support\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Aave community has voted in favor of the first phase of its AAVE token buyback program after it was approved with a 99.63% vote on the governance forum of the platform. Significantly, this is a step towards the deployment of the Aavenomics economic model. It is intended to encourage",
+      "links": [
+        "https://thenewscrypto.com/aave-kicks-off-4m-token-buyback-backed-by-over-99-community-support/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "AAVE",
+        "USDT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support.jpg"
+      },
+      "published": "2025-04-09T11:56:19Z"
+    }
+  },
+  {
+    "hash": "d87adad9585cf32e2e0a986a130581db4c49c36e044e0570c0ec0c52b7653ba2",
+    "item": {
+      "title": "21Shares to Launch Officially Endorsed Dogecoin ETP on SIX Swiss Exchange",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/21Shares_Forms_Exclusive_Partnership_with_the_House_of_Doge_to_Launch.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"21Shares to Launch Officially Endorsed Dogecoin ETP on SIX Swiss Exchange\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/21Shares_Forms_Exclusive_Partnership_with_the_House_of_Doge_to_Launch.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/21Shares_Forms_Exclusive_Partnership_with_the_House_of_Doge_to_Launch-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/21Shares_Forms_Exclusive_Partnership_with_the_House_of_Doge_to_Launch-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003e21Shares, one of the biggest crypto exchange-traded product (ETP) providers globally, has introduced a fully backed Dogecoin ETP. According to the Wednesday announcement the new product will be listed on the SIX Swiss Exchange under the ticker ‘DOGE.’ Much wow. Now live! 🐕 In partnership with @houseofdoge, we\u0026#39;re excited to",
+      "links": [
+        "https://thenewscrypto.com/21shares-to-launch-officially-endorsed-dogecoin-etp-on-six-swiss-exchange/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "21shares",
+        "Crypto Market",
+        "DOGE",
+        "Dogecoin",
+        "Dogecoin Foundation",
+        "ETP",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/21Shares_Forms_Exclusive_Partnership_with_the_House_of_Doge_to_Launch.jpg"
+      },
+      "published": "2025-04-09T11:52:08Z"
+    }
+  },
+  {
+    "hash": "062d05c0607b93b65ce6648ccf6803bd991dd00419f47fb0c4938fdd2f32c9f1",
+    "item": {
+      "title": "Floki and Pepe Hype Fades—But Ozak AI’s $1 Target Is Gaining Serious Investor Attention!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-7.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Floki and Pepe Hype Fades—But Ozak AI’s $1 Target Is Gaining Serious Investor Attention!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-7.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-7-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eMeme coins like Floki and Pepe grabbed headlines and fueled a brand new wave of speculative investing. Social media buzz, viral marketing, and the fear of missing out (FOMO) pushed their costs up dramatically in short bursts.\u0026#160; But because the hype surrounding these coins begins to fade in early 2025,",
+      "links": [
+        "https://thenewscrypto.com/floki-and-pepe-hype-fades-but-ozak-ais-1-target-is-gaining-serious-investor-attention/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Floki",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-7.jpg"
+      },
+      "published": "2025-04-09T11:40:13Z"
+    }
+  },
+  {
+    "hash": "0f8b3c91b0b716b4d6532101316dfd8765e5fb1f6874cf9ea4c38931864ba6b8",
+    "item": {
+      "title": "Official Trump (TRUMP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Official Trump (TRUMP) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Official Trump (TRUMP) price prediction 2025, 2026-2030, we will analyze the price patterns of TRUMP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Official Trump (TRUMP) Current Market Status What is Official Trump (TRUMP)? Official Trump (TRUMP)",
+      "links": [
+        "https://thenewscrypto.com/official-trump-trump-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Price Prdiction",
+        "Trump Coin",
+        "Trump meme coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg"
+      },
+      "published": "2025-04-09T11:32:28Z"
+    }
+  },
+  {
+    "hash": "73389a9828f342247fafcb861319a7f5877490229bf027dd8e7bff2c9462e291",
+    "item": {
+      "title": "Meta Faces Accusations of Assisting China in AI Development",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Meta-Accused-of-Assisting-Chinas-AI-Ambitions.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Meta Faces Accusations of Assisting China in AI Development\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Meta-Accused-of-Assisting-Chinas-AI-Ambitions.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Meta-Accused-of-Assisting-Chinas-AI-Ambitions-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Meta-Accused-of-Assisting-Chinas-AI-Ambitions-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSenior Meta executive Sarah Wynn-Williams turned into a whistleblower regarding the firm’s involvement with China. The news is raising concerns about the social media giant’s intention behind helping China in advanced technology, such as AI development.\u0026#160; A Bloomberg news report confirmed that Sarah is going to testify before the Senate",
+      "links": [
+        "https://thenewscrypto.com/meta-faces-accusations-of-assisting-china-in-ai-development/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "AI",
+        "china",
+        "Meta"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Meta-Accused-of-Assisting-Chinas-AI-Ambitions.jpg"
+      },
+      "published": "2025-04-09T11:31:26Z"
+    }
+  },
+  {
+    "hash": "36345d6f13140ac18a9eede4d62f926a27f16b5702b6f3b13057e00e32237ad7",
+    "item": {
+      "title": "Chainlink (LINK) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chainlink (LINK) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Chainlink (LINK) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of LINK by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Chainlink (LINK) Current Market Status What is Chainlink (LINK)? Chainlink (LINK) 24H Technicals CHAINLINK (LINK) PRICE",
+      "links": [
+        "https://thenewscrypto.com/chainlink-link-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Chainlink Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg"
+      },
+      "published": "2025-04-09T11:25:19Z"
+    }
+  },
+  {
+    "hash": "35ee6a6349005e4bfe87429137e7a51a137fed09e9374dc0e99b7cef90a230f0",
+    "item": {
+      "title": "Cathie Wood’s Ark Doubles Down on Coinbase with $4.8M Share Purchase",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/IMG_2732.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cathie Wood’s Ark Doubles Down on Coinbase with $4.8M Share Purchase\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/IMG_2732.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/IMG_2732-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/IMG_2732-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eArk Invest, led by their  fund manager Cathie Wood, continued its strategic push into Coinbase (COIN), acquiring $4.8 million worth of shares on Tuesday. Ark invested in 31,730 shares of Coinbase ahead of U.S. President Donald Trump’s tariffs becoming effective at midnight on Wednehaven’tsday through three of their exchange-traded funds",
+      "links": [
+        "https://thenewscrypto.com/cathie-woods-ark-doubles-down-on-coinbase-with-4-8m-share-purchase/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ARK",
+        "Coinbase"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/IMG_2732.jpg"
+      },
+      "published": "2025-04-09T10:33:25Z"
+    }
+  },
+  {
+    "hash": "b10d260e7d19f9db4dd3df48a63df9b35260c518dd8c5535b80a161c4553f4b6",
+    "item": {
+      "title": "Trump-Linked WLFI Dumps $8M in Ethereum at Loss as Market Bleeds",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Trump_backed_World_Liberty_may_have_sold_5471_ETH_amid_125M_loss.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Trump-Linked WLFI Dumps $8M in Ethereum at Loss as Market Bleeds\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Trump_backed_World_Liberty_may_have_sold_5471_ETH_amid_125M_loss.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Trump_backed_World_Liberty_may_have_sold_5471_ETH_amid_125M_loss-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Trump_backed_World_Liberty_may_have_sold_5471_ETH_amid_125M_loss-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA wallet allegedly tied to Trump-supported World Liberty Financial (WLFI) sold 5,471 ETH at $1,465 per coin, according to Lookonchain data sourced from Arkham. The sale, valued at $8.01 million, occurred just before the news broke, prompting questions about the project’s financial position and broader market strategy. WLFI initially spent",
+      "links": [
+        "https://thenewscrypto.com/trump-linked-wlfi-dumps-8m-in-ethereum-at-loss-as-market-bleeds/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "DonaldTrump",
+        "ETH",
+        "WLFI",
+        "World Liberty Financial"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Trump_backed_World_Liberty_may_have_sold_5471_ETH_amid_125M_loss.jpg"
+      },
+      "published": "2025-04-09T10:31:35Z"
+    }
+  },
+  {
+    "hash": "71da7b2ee009a005ca28f45f1425c2f5f83012f8a29be3aef3ba60417912e507",
+    "item": {
+      "title": "3 Most Profitable Tokens That Could Turn $600 into $60,000 in 4 Months",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-12.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"3 Most Profitable Tokens That Could Turn $600 into $60,000 in 4 Months\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-12.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-12-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThere are plenty of opportunities in the crypto market; some tokens have become especially interesting for exponential development. Still, three tokens—Rexas Finance (RXS), XRP, and Sui—SUI—stand out as the best candidates for exceptional gains. A $600 investment might turn into an impressive $60,000 in just four months since market trends",
+      "links": [
+        "https://thenewscrypto.com/3-most-profitable-tokens-that-could-turn-600-into-60000-in-4-months/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Rexas Finance",
+        "Ripple"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-12.jpg"
+      },
+      "published": "2025-04-09T10:29:26Z"
+    }
+  },
+  {
+    "hash": "20103da7e4d9dd87ab8713b51b9cf6c269ae8e1174b7933249ff1804d88a573e",
+    "item": {
+      "title": "AMD To Detail ROCm Open-Source Software Progress In June",
+      "description": "AMD announced today they will be hosting a virtual \"Advancing AI 2025\" event in mid-June where they will talk about their next-gen AMD Instinct accelerators while of much interest to many Phoronix readers is an update on the ROCm open-source software...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-ROCm-June-2025-Announcement"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-09T14:02:21Z"
+    }
+  },
+  {
+    "hash": "128a7ba8f125a29b058d8f14a51d05d9f880d5f35f76b2a3f46e14b5fd51edd4",
+    "item": {
+      "title": "OpenSSH 10.0 Released To Better Fend Off Attacks By Quantum Computers",
+      "description": "OpenSSH 10.0 is now available for this widely-used SSH client/server implementation. There are a number of changes to find with OpenSSH 10.0 including better protections against possible attacks by future quantum computers...",
+      "links": [
+        "https://www.phoronix.com/news/OpenSSH-10.0-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-09T13:55:35Z"
+    }
+  },
+  {
+    "hash": "09b4595a767c686bc0fc520462e9eb0079f4eb72131cf3186c18c17245019123",
+    "item": {
+      "title": "The Agent2Agent Protocol (A2A)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631381\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:38:20Z"
+    }
+  },
+  {
+    "hash": "cefc4eb48efd58c4c5e769d7709252dea2a44f5e96fb7313e8cd900bbdf42805",
+    "item": {
+      "title": "Quality-of-Life in Tetris Games",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631656\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jcarlosroldan.com/post/355"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T13:10:44Z"
+    }
+  },
+  {
+    "hash": "86d30057015c6ae71bfb9f9c1db5f89e276ae7ab2baaa4fed97ca58a2a9e7f60",
+    "item": {
+      "title": "The chroot Technique – a Swiss army multitool for Linux systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://livesys.se/posts/the-chroot-technique/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T14:12:47Z"
+    }
+  },
+  {
+    "hash": "d6a3a956e46b04102a824b3b20c94911c42e7662ce5a0ad8c006ddb9b0ca6b49",
+    "item": {
+      "title": "Ironwood: The first Google TPU for the age of inference",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631274\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:24:19Z"
+    }
+  },
+  {
+    "hash": "613ba3a14d0df10deb83b02674b086e46ae4927fbb3ea94d66723590dd9e661b",
+    "item": {
+      "title": "American Disruption",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631276\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stratechery.com/2025/american-disruption/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:24:36Z"
+    }
+  },
+  {
+    "hash": "fb8a0beebdec3522eac4bae31e360f68b6ba262c163bfeb6c8f98971499dbea2",
+    "item": {
+      "title": "SpacetimeDB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631822\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spacetimedb.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T13:27:30Z"
+    }
+  },
+  {
+    "hash": "113a30c8f31e498b0d52668f59a0b8ff73484a12bb5ff05b675237d5b914c25f",
+    "item": {
+      "title": "Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client (Dynobase Alternative)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631793\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynomate.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T13:24:51Z"
+    }
+  },
+  {
+    "hash": "5a5e2d45f6e67db521d1c4ee34214ad4d29a147c0b875f7b164411b7778a0b06",
+    "item": {
+      "title": "Microphone Input Noise Comparison – Avisoft Bioacoustics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43602652\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://avisoft.com/recorder-tests/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-06T16:23:53Z"
+    }
+  },
+  {
+    "hash": "ed2435f85dfb93ded307148755c0734f8c382d42c04ee767ca4158f933e4eb26",
+    "item": {
+      "title": "An LLM Query Understanding Service",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631450\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://softwaredoug.com/blog/2025/04/08/llm-query-understand"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:46:59Z"
+    }
+  },
+  {
+    "hash": "ea4233bde23653c40d26937fbbced206445a87a6ffd022a92083dc9d499a3a6a",
+    "item": {
+      "title": "Small Town America vs. Big Box Stores",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632459\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T14:20:14Z"
+    }
+  },
+  {
+    "hash": "a496c573c8f4854ac3981556f431f72440fdfb870b3e1cfc0c12acfb0801228c",
+    "item": {
+      "title": "React for Two Computers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631004\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://overreacted.io/react-for-two-computers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T11:35:36Z"
+    }
+  },
+  {
+    "hash": "0e7a5ca5a366a3e6989cb719f8aca4170c8b983162d0c49f3917c7d69d0ba294",
+    "item": {
+      "title": "Show HN: I built a Yahoo Messenger-inspired web chat app – pure nostalgia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630733\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://buzzed.chat"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T10:47:20Z"
+    }
+  },
+  {
+    "hash": "14b938856421d2687b3309600a7880afef8237def2176f1329c0a394fdc71949",
+    "item": {
+      "title": "Treasury's OCC Says Hackers Had Access to 150k Emails",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631298\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:28:01Z"
+    }
+  },
+  {
+    "hash": "e124953a17c6e2f923e77e77c7466c4ddd7bbf03bb9c35b889b61ed86e062070",
+    "item": {
+      "title": "Man pages are great, man readers are the problem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631672\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T13:11:50Z"
+    }
+  },
+  {
+    "hash": "320ffb90898f2a8f2e5954aeff9f645f70e51b3f865a3141a9ac4b88300273e0",
+    "item": {
+      "title": "How to lock down your phone if you're traveling to the U.S.",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630624\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T10:27:36Z"
+    }
+  },
+  {
+    "hash": "3ed4fb8a6c9c0a269a0deb3947995a5b2e6166722b96059c4e2aeb8b4b67bb89",
+    "item": {
+      "title": "Michael Saylor’s Strategy May Need to Sell BTC at a Loss To Cover Debt, What Does This Mean For the Bitcoin Price?",
+      "description": "\u003cp\u003eMichael Saylor’s Strategy faces mounting pressure to sell Bitcoin reserves at a loss to cover debt obligations, raising questions about the impact on Bitcoin’s price and the firm’s long-term crypto strategy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/michael-saylors-strategy-may-need-to-sell-btc-at-a-loss-to-cover-debt-what-does-this-mean-for-the-bitcoin-price/\"\u003eMichael Saylor’s Strategy May Need to Sell BTC at a Loss To Cover Debt, What Does This Mean For the Bitcoin Price?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/michael-saylors-strategy-may-need-to-sell-btc-at-a-loss-to-cover-debt-what-does-this-mean-for-the-bitcoin-price/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Michael Saylor",
+        "MicroStrategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09132728/1744205248-image-1744205228099_optimized.jpg"
+      },
+      "published": "2025-04-09T15:04:36Z"
+    }
+  },
+  {
+    "hash": "519146ff91eed1cbc681953868712d508a7b4812bdcf6330a836b6774966661a",
+    "item": {
+      "title": "Is Ethereum in Crisis? 60% Price Drop Sparks Concern",
+      "description": "\u003cp\u003eThe Ethereum price has plunged 63% since December, sparking concerns the cryptocurrency and its underlying blockchain may be facing a crisis.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/is-ethereum-in-crisis-60-price-drop-sparks-concern/\"\u003eIs Ethereum in Crisis? 60% Price Drop Sparks Concern\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/is-ethereum-in-crisis-60-price-drop-sparks-concern/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Bitcoin",
+        "Blockchain",
+        "ETFs",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jeffrey Gogo"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/08101702/1744107421-is-ethereum-in-crisis-50_-drop-sparks-concerns_v3.jpg"
+      },
+      "published": "2025-04-09T15:03:03Z"
+    }
+  },
+  {
+    "hash": "7e505090f68adddaeb27b45b8e1ee5a6af9cb4e647f9b371b0696b8f51cd08e3",
+    "item": {
+      "title": "Bitcoin Could Mirror 2020 Crash-and-Rebound Pattern, CoinShares Analyst Warns",
+      "description": "\u003cp\u003eBitcoin’s recent drop amid Trump-China tariff tensions mirrors its 2020 crash-and-rebound pattern, with analysts suggesting macroeconomic shocks could set the stage for another recovery fueled by monetary policy shifts and investor optimism.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-could-mirror-2020-crash-and-rebound-pattern-coinshares-analyst-warns/\"\u003eBitcoin Could Mirror 2020 Crash-and-Rebound Pattern, CoinShares Analyst Warns\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-could-mirror-2020-crash-and-rebound-pattern-coinshares-analyst-warns/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "CoinShares",
+        "Donald Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09122653/1744201612-b6c0cf76-3671-44e1-af77-4d7acac9819f_optimized.jpg"
+      },
+      "published": "2025-04-09T14:57:55Z"
+    }
+  },
+  {
+    "hash": "b2378fb86e9d2f53f1545532d4650c69aa10eaa789a5c9191da20a93a4af1e66",
+    "item": {
+      "title": "‘Hawk Tuah Girl’ Returns After Meme Coin Scandal, Kicks Off Comeback with KSI",
+      "description": "\u003cp\u003eInternet personality Haliey Welch, famously known as “Hawk Tuah Girl,” has returned to the public eye with a new episode of her Talk Tuah podcast.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hawk-tuah-girl-returns-after-meme-coin-scandal-kicks-off-comeback-with-ksi/\"\u003e\u0026#8216;Hawk Tuah Girl\u0026#8217; Returns After Meme Coin Scandal, Kicks Off Comeback with KSI\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hawk-tuah-girl-returns-after-meme-coin-scandal-kicks-off-comeback-with-ksi/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Meme coin",
+        "Solana meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09144718/1744210037-11_optimized.png"
+      },
+      "published": "2025-04-09T14:48:21Z"
+    }
+  },
+  {
+    "hash": "375acea3376d87ddec55048c1ae574aab700bd79ff072f11aacf93870ac37b89",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is red today\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eSui Unveils Collaboration With Ledger\u003c/li\u003e\n\u003cli\u003eLombard Finance Partner with Major Institutional Players to Scale Bitcoin Staking\u003c/li\u003e\n\u003cli\u003eBIMA Launches Mainnet for Bitcoin-Backed Yield Generation\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-04-09T14:35:00Z"
+    }
+  },
+  {
+    "hash": "3b741a8fcc483ceba7eafbb35d09b6a6a8bcef2d4a78899caa8864d845330614",
+    "item": {
+      "title": "Q1 Trading Volume Plunges 41%, Sentiment Hits 2-Year Low – Q1 CMC Report",
+      "description": "\u003cp\u003eQ1 2025 saw a broad crypto market pullback, divergence between price and sentiment, and a return to fundamentals, according to the latest CoinMarketCap report.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/q1-trading-volume-plunges-41-sentiment-hits-2-year-low-q1-cmc-report/\"\u003eQ1 Trading Volume Plunges 41%, Sentiment Hits 2-Year Low – Q1 CMC Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/q1-trading-volume-plunges-41-sentiment-hits-2-year-low-q1-cmc-report/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09130539/1744203938-cmc-trading-volume-sentiment.jpg"
+      },
+      "published": "2025-04-09T13:52:38Z"
+    }
+  },
+  {
+    "hash": "84dd2c4fef1628c2c52bffa70c0c7d20797eadada1bbd49c58d4c15baed3f484",
+    "item": {
+      "title": "Research: Over 60% of Trump Meme Coins Are Dead",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eMost Trump tokens have crashed. Here's what the data tells us.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/reports/research-over-60-of-trump-meme-coins-are-dead/\"\u003eResearch: Over 60% of Trump Meme Coins Are Dead\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/reports/research-over-60-of-trump-meme-coins-are-dead/"
+      ],
+      "categories": [
+        "Cryptonews Reports",
+        "Donald Trump",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09091235/1744189954-trump-meme-report_v2.jpg"
+      },
+      "published": "2025-04-09T13:35:39Z"
+    }
+  },
+  {
+    "hash": "eb1b4c1a678023c7c2275d1aad19ae655a251c0c18574e598b87e218a585d9ff",
+    "item": {
+      "title": "Taurus Launches Global Interbank Network to Streamline Digital Asset Operations",
+      "description": "\u003cp\u003eSwitzerland-based Taurus has launched Taurus Network, an interbank digital asset platform connecting over 35 institutions to streamline cross-border settlement, collateral management, and compliance across crypto, tokenized securities, and CBDCs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/taurus-launches-interbank-network-to-streamline-digital-asset-operations/\"\u003eTaurus Launches Global Interbank Network to Streamline Digital Asset Operations\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/taurus-launches-interbank-network-to-streamline-digital-asset-operations/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09070414/1744182254-image-1744182204087_optimized.jpg"
+      },
+      "published": "2025-04-09T13:00:00Z"
+    }
   }
 ]
