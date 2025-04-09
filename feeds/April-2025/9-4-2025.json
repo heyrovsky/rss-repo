@@ -2438,5 +2438,826 @@
       },
       "published": "2025-04-09T13:00:00Z"
     }
+  },
+  {
+    "hash": "579d4d50800adca0a0a5630ac762d04ed93bebac56c9ac75aff3ce1b2c468e05",
+    "item": {
+      "title": "Hardening the Firefox frontend",
+      "description": "\u003cp\u003eTom Schuster, Frederik Braun, and Christoph Kerschbaumer have\npublished an \u003ca\nhref=\"https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html\"\u003earticle\u003c/a\u003e\non the Firefox Security team's \u003cspan class=\"nobreak\"\u003e\u003ca\nhref=\"https://attackanddefense.dev/\"\u003eAttack \u0026amp; Defense\u003c/a\u003e\u003c/span\u003e\nblog that explains recent work to harden Firefox's frontend code.\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nWe have rewritten over 600 JavaScript event handlers to mitigate XSS\nand other injection attacks in the main Firefox user interface. This\nmitigation will ship in Firefox 138. However, blocking the execution\nof scripts in the parent process is not the end - we will expand this\ntechnique to other contexts in the near future. There is still more\nwork to do as the UI requires JavaScript APIs with a high level of\nprivileges. However: We still eliminated a whole class of attacks,\nsignificantly raising the bar for attackers to exploit Firefox.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016978/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-09T18:00:21Z"
+    }
+  },
+  {
+    "hash": "c450740add5d0991f7cd607dc0475827afbc2fb7ba958d26e12e08df85a57686",
+    "item": {
+      "title": "[$] An update on torn-write protection",
+      "description": "In a combined storage and filesystem track session at the \n2025 Linux Storage, Filesystem, Memory Management, and BPF Summit, John\nGarry continued the theme of \"untorn\" (or atomic) writes that started in \u003ca\nhref=\"https://lwn.net/Articles/1016015/\"\u003ethe previous session\u003c/a\u003e.  It was also\nan update on where things have gone for untorn writes since his \u003ca\nhref=\"https://lwn.net/Articles/974578/\"\u003esession at last year's summit\u003c/a\u003e.  Beyond that,\nhe looked at some of the plans and challenges for the feature in the future.",
+      "links": [
+        "https://lwn.net/Articles/1016406/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-04-09T15:26:34Z"
+    }
+  },
+  {
+    "hash": "60aca5e0a047c9f33956df5d738a250954c796b5b2cbe8e08329f305c21d81a6",
+    "item": {
+      "title": "[$] An update on pahole",
+      "description": "\u003cp\u003e\nPahole (originally \"Poke-a-hole\") is a Swiss Army knife for exploring and\nediting debug information. Pahole is also currently involved\nin the kernel's build process to rearrange the information\nproduced by various compilers into a form useful to the BPF verifier, although\nthere are plans to render it unnecessary.\nPahole maintainer Arnaldo Carvalho de Melo shared some status\nupdates about the project at the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF Summit. Interested readers can find his slides\n\u003ca href=\"http://vger.kernel.org/~acme/prez/lsfmm-bpf-2025/\"\u003ehere\u003c/a\u003e.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016243/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-04-07T21:01:52Z"
+    }
+  },
+  {
+    "hash": "9d70c747f9c71a9255d0e66a2d5903bfa635a3e41138080e13f6c22c208be13b",
+    "item": {
+      "title": "Kaspersky Identifies a Crypto-Theft Malware on Microsoft’s SourceForge",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Kaspersky_Flags_Malware_on_SourceForge_That_Tricks_Victims_Into.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Kaspersky Identifies a Crypto-Theft Malware on Microsoft’s SourceForge\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Kaspersky_Flags_Malware_on_SourceForge_That_Tricks_Victims_Into.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Kaspersky_Flags_Malware_on_SourceForge_That_Tricks_Victims_Into-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Kaspersky_Flags_Malware_on_SourceForge_That_Tricks_Victims_Into-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eKaspersky firm identified a malware in SourceForge that is stealing cryptocurrency from users’ wallet addresses. It alerted the crypto community today, stating that the malware is present as Microsoft’s plugin. The incident reminds crypto users to employ security practices while transferring cryptocurrencies.\u0026#160; Kaspersky is a seasoned cybersecurity firm that keeps",
+      "links": [
+        "https://thenewscrypto.com/kaspersky-identifies-a-crypto-theft-malware-on-microsofts-sourceforge/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto Scam",
+        "Malware"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Kaspersky_Flags_Malware_on_SourceForge_That_Tricks_Victims_Into.jpg"
+      },
+      "published": "2025-04-09T13:05:59Z"
+    }
+  },
+  {
+    "hash": "d6f57eaa10ec4adaa72e467bf4421575da7cbbb62273d22118bda7a9610a1706",
+    "item": {
+      "title": "Millions of Ledger Users Can Self-Custody SUI and Sui Tokens",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/04-06_Blog_Header_2_1744137265H5yUJNRDRK.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/04-06_Blog_Header_2_1744137265H5yUJNRDRK.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/04/04-06_Blog_Header_2_1744137265H5yUJNRDRK-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/04-06_Blog_Header_2_1744137265H5yUJNRDRK-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/04-06_Blog_Header_2_1744137265H5yUJNRDRK-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eGrand Cayman, Cayman Islands, 9th April 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/millions-of-ledger-users-can-self-custody-sui-and-sui-tokens/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/04-06_Blog_Header_2_1744137265H5yUJNRDRK.jpg"
+      },
+      "published": "2025-04-09T13:00:45Z"
+    }
+  },
+  {
+    "hash": "43220f384c0ee0a1ae3ed43bf56afadd81270c93b2bbad90316e902ef415c0ae",
+    "item": {
+      "title": "KuCoin Token (KCS) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/07/KCS-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"KuCoin Token (KCS)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/07/KCS-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/07/KCS-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/07/KCS-Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/07/KCS-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIIn this KuCoin Token (KCS) price prediction 2025, 2026-2030, we will analyze the price patterns of KCS by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION KuCoin Token (KCS) Current Market Status What is KuCoin Token (KCS)? KuCoin Token (KCS)",
+      "links": [
+        "https://thenewscrypto.com/kucoin-token-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "KCS",
+        "KuCoin Token",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/07/KCS-Price-prediction.jpg"
+      },
+      "published": "2025-04-09T12:56:56Z"
+    }
+  },
+  {
+    "hash": "dba9fd1e81b16f6be81a0b3c4eb626791ea1a58dc4f0ed779e68610a7abc5aa1",
+    "item": {
+      "title": "Maker (MKR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/04/d480ade9-5f9b-41db-8af4-4ec72caa8521.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Maker(MKR)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/04/d480ade9-5f9b-41db-8af4-4ec72caa8521.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/04/d480ade9-5f9b-41db-8af4-4ec72caa8521-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/04/d480ade9-5f9b-41db-8af4-4ec72caa8521-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Maker (MKR) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of MKR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Maker (MKR) Current Market Status What is Maker (MKR)? Maker (MKR) 24H Technicals MAKER (MKR)",
+      "links": [
+        "https://thenewscrypto.com/maker-mkr-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "MAKER",
+        "MKR",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/04/d480ade9-5f9b-41db-8af4-4ec72caa8521.jpg"
+      },
+      "published": "2025-04-09T12:44:04Z"
+    }
+  },
+  {
+    "hash": "e67be99c4a80ff31990929d6820b1f3fec332fe47d4bafc1855d963786a0a582",
+    "item": {
+      "title": "Top Analyst Compares Ozak AI to Render Network—Is It Undervalued at $0.003?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-13.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Top Analyst Compares Ozak AI to Render Network—Is It Undervalued at $0.003?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-13.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-13-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAI and crypto continue to converge, developing some of the most talked-about investment possibilities of 2025. One mission now turning heads in both spaces is Ozak AI, a rising project in the AI crypto region.\u0026#160; Recently, a top analyst compared Ozak AI to Render Network (RNDR), a famous project recognised",
+      "links": [
+        "https://thenewscrypto.com/top-analyst-compares-ozak-ai-to-render-network-is-it-undervalued-at-0-003/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-13.jpg"
+      },
+      "published": "2025-04-09T12:30:00Z"
+    }
+  },
+  {
+    "hash": "06c97754612d9ac640629ad9c5ee3ac13775e7040c80a95d0ec8cc07ae49fc84",
+    "item": {
+      "title": "Will Cardano Bears Succeed in Reaching the $0.4 Support, as Token Continues to Fall?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn the past day, the crypto market has retraced back to previous support levels after a brief recovery. Meanwhile, the US regulatory sector is drumming up with a major announcement. The final voting to nominate SEC Paul Atkins is looming closer. On the other hand, the global economic landscape is",
+      "links": [
+        "https://thenewscrypto.com/will-cardano-bears-succeed-in-reaching-the-0-4-support-as-token-continues-to-fall/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ADA",
+        "Altcoin",
+        "Cardano",
+        "Cryptocurrency",
+        "Price Analysis",
+        "price drop"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Will-Cardano-Bears-Succeed-in-Reaching-the-0.4-Support-as-Token-Continues-to-Fall.jpg"
+      },
+      "published": "2025-04-09T12:01:45Z"
+    }
+  },
+  {
+    "hash": "f0ce9351c06620d85f3dd0e113f383f51bcabcd59797207358e8e27fc5880d67",
+    "item": {
+      "title": "Aave Kicks Off $4M Token Buyback, Backed by Over 99% Community Support",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Aave Kicks Off $4M Token Buyback, Backed by Over 99% Community Support\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Aave community has voted in favor of the first phase of its AAVE token buyback program after it was approved with a 99.63% vote on the governance forum of the platform. Significantly, this is a step towards the deployment of the Aavenomics economic model. It is intended to encourage",
+      "links": [
+        "https://thenewscrypto.com/aave-kicks-off-4m-token-buyback-backed-by-over-99-community-support/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "AAVE",
+        "USDT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Aave-Kicks-Off-4M-Token-Buyback-Backed-by-Over-99-Community-Support.jpg"
+      },
+      "published": "2025-04-09T11:56:19Z"
+    }
+  },
+  {
+    "hash": "86a417caafe7a05cce4aa5a482bff6a962241f29ba66927df8ebbcfe860159aa",
+    "item": {
+      "title": "Windows 11’s Copilot Vision wants to help you learn to use complicated apps",
+      "description": "Copilot beta update is rolling out to Windows Insider program testers now.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/windows-11s-copilot-vision-wants-to-help-you-learn-to-use-complicated-apps/"
+      ],
+      "categories": [
+        "AI",
+        "Tech",
+        "copilot",
+        "copilot vision",
+        "microsoft",
+        "windows 11"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/microsoft_copilot_logo-1152x648.jpg"
+      },
+      "published": "2025-04-09T16:57:04Z"
+    }
+  },
+  {
+    "hash": "0d085fce5c2ed43987d3d32453d0bebdcea3c92866d6fe9a313221fdd54355d6",
+    "item": {
+      "title": "Apple TV+ releases first trailer for sci-fi comedy Murderbot",
+      "description": "\"Now that I've hacked my programming, I can do whatever I want... as long as they don't find out.\"",
+      "links": [
+        "https://arstechnica.com/culture/2025/04/a-sec-unit-goes-rogue-in-murderbot-trailer/"
+      ],
+      "categories": [
+        "Culture",
+        "Apple TV Plus",
+        "entertainment",
+        "Murderbot",
+        "streaming television",
+        "Trailers",
+        "TV trailers"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/murderbot1-1152x648-1744212564.jpg"
+      },
+      "published": "2025-04-09T16:45:27Z"
+    }
+  },
+  {
+    "hash": "27cd200896ca0e6f9405d022bb47520e6752bdcf9f9ada8f852425927de79412",
+    "item": {
+      "title": "Why Trump’s tariffs probably won’t cause an immediate Switch 2 price bump",
+      "description": "But import taxes could impact longer-term pricing, US console supplies.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/04/why-trumps-tariffs-probably-wont-cause-an-immediate-switch-2-price-bump/"
+      ],
+      "categories": [
+        "Gaming",
+        "nintendo switch 2",
+        "trump tariffs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/game-card-switch-2-1152x648-1744042139.jpeg"
+      },
+      "published": "2025-04-09T16:36:47Z"
+    }
+  },
+  {
+    "hash": "7a6b0f8188932858582fe7a5098dd9d76b792c7aa918e59d88dbbcd45b7ab1d1",
+    "item": {
+      "title": "Meta secretly helped China advance AI, ex-Facebooker will tell Congress",
+      "description": "Meta whistleblower can testify to Congress despite gag order on press interviews.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/congress-to-question-whistleblower-who-accused-meta-of-helping-china-in-ai-race/"
+      ],
+      "categories": [
+        "Policy",
+        "ai race",
+        "Artificial Intelligence",
+        "Facebook. china",
+        "meta"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-944290870-1024x648.jpg"
+      },
+      "published": "2025-04-09T16:07:12Z"
+    }
+  },
+  {
+    "hash": "cc7800d538fb90db2500074278352d8112975731ab98b3ad8c2094423de3fde9",
+    "item": {
+      "title": "Fruit flies can be made to act like miniature robots",
+      "description": "Light and smells can turn flies into remote-controlled near-automatons.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/fruit-flies-can-be-made-to-act-like-miniature-robots/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "fruit flies",
+        "neurobiology",
+        "optogenetics",
+        "Robotics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-115944069-1152x648.jpg"
+      },
+      "published": "2025-04-09T15:50:53Z"
+    }
+  },
+  {
+    "hash": "fa456bd5f7440664873f583f1e78afd441a15e2d896da83a9eb4d2b59e400ce6",
+    "item": {
+      "title": "Google unveils Ironwood, its most powerful AI processor yet",
+      "description": "Ironwood will be available in configurations of up to 9,216 liquid-cooled chips.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/google-unveils-ironwood-its-most-powerful-ai-processor-yet/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "artificial intellignece",
+        "google",
+        "TPU"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Ironwood-google-1152x648-1744210674.jpg"
+      },
+      "published": "2025-04-09T15:30:30Z"
+    }
+  },
+  {
+    "hash": "894d1a2b75d508c5ad32c131c6ddb9ce4ac6b4ebd973750538588d3c1ca6bb2b",
+    "item": {
+      "title": "Road deaths fell below 40,000 in 2024, the lowest since 2019",
+      "description": "Road deaths decreased by 3.8 percent in 2024, to 39,345.",
+      "links": [
+        "https://arstechnica.com/cars/2025/04/road-deaths-decreased-in-2024-but-remain-above-pre-covid-levels/"
+      ],
+      "categories": [
+        "Cars",
+        "road deaths"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-157283654-1152x648.jpg"
+      },
+      "published": "2025-04-09T15:15:24Z"
+    }
+  },
+  {
+    "hash": "2706cfdc34a9a4a290fffafd26e565e3e99ba79e0afb8cf1bcf1b6e32bad19f2",
+    "item": {
+      "title": "AMD Prepping PKI Accelerator Driver \"AMDPK\" For Linux",
+      "description": "Not to be confused with the AMDXDNA accelerator driver that was mainlined just with the Linux 6.14 kernel, AMD Linux engineers are now working on \"AMDPK\" as a new accelerator driver for their upcoming PKI Accelerator engines...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-PKI-Accelerator-AMDPK-Linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-09T17:52:23Z"
+    }
+  },
+  {
+    "hash": "3b751f7067e5e568b3b086773b221fd927735f456ac8bc212198ab1740b2ff1e",
+    "item": {
+      "title": "How much do you think it costs to make a pair of Nike shoes in Asia?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631543\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://threadreaderapp.com/thread/1909741170953273353.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:58:39Z"
+    }
+  },
+  {
+    "hash": "31e94b7179253fecd0e27740b8b78bf92712d982e768ec6056dcf91488aa03ef",
+    "item": {
+      "title": "Visual Reasoning Is Coming Soon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633568\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T15:58:30Z"
+    }
+  },
+  {
+    "hash": "03ad696ef3c3b1b14c4cc8a52b75cdccdd896dd4dbf2ef49204c08b07c46ae7a",
+    "item": {
+      "title": "Show HN: I built an app to generate story relationships using Mermaidjs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633298\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/herol3oy/austen"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T15:34:27Z"
+    }
+  },
+  {
+    "hash": "a04ddbc869f95fc47a84fb44dabe29d0e5c78a165bea7f4f7e2d0c34e2af2428",
+    "item": {
+      "title": "Trump's DOJ will no longer prosecute cryptocurrency fraud",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43634582\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T17:10:24Z"
+    }
+  },
+  {
+    "hash": "08b06f1bf8dd4e191bd0e06a8a536251a0fbdeff93a8edb630c93df4089d5f43",
+    "item": {
+      "title": "Last Windows update creates C:\\inetpub",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43634778\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://infosec.exchange/@wdormann/114308857330723919"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T17:26:02Z"
+    }
+  },
+  {
+    "hash": "c6177c1aa81d362b76f4efd6948e4f91950cc75a0c304daa11d3abac7ca5037e",
+    "item": {
+      "title": "Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43634517\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43634517"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T17:04:53Z"
+    }
+  },
+  {
+    "hash": "9387cf000975b10e26a328ff7d91acb366fede553831d69ce0cd63f28044ea85",
+    "item": {
+      "title": "How University Students Use Claude",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633383\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T15:41:38Z"
+    }
+  },
+  {
+    "hash": "35a3febd57c81aab30edd63802581ab2a9d44cf3768f535f66f155078b79da3a",
+    "item": {
+      "title": "Doing the Prospero-Challenge in RPython",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633457\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pypy.org/posts/2025/04/prospero-in-rpython.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T15:48:50Z"
+    }
+  },
+  {
+    "hash": "608fa50efe204f258ad07ce29ac01b787db0111baf95f1481047287d4e13c2c6",
+    "item": {
+      "title": "Fake job seekers are flooding US companies that are hiring for remote positions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631384\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:39:16Z"
+    }
+  },
+  {
+    "hash": "3f7184436eea04cc8f1f3618a9a9ad713b74448cfeb46b99c6e4a7d1e3d10612",
+    "item": {
+      "title": "Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632278\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fermi-game.andrewnoble.me/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T14:04:17Z"
+    }
+  },
+  {
+    "hash": "bfd6239b763bee7b1d63e697982ba2dc0d65225729e87078d3d389005b7d1d79",
+    "item": {
+      "title": "A guide to reduce screen time",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630661\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T10:34:42Z"
+    }
+  },
+  {
+    "hash": "22ead33cea0bdd367098c63139eddd30b86d15bd11b8cac96c92a09d992910e7",
+    "item": {
+      "title": "Rolex Caliber 7135: new indirect impulse escapement and high frequency movement",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633005\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hodinkee.com/articles/introducing-rolex-land-dweller"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T15:07:53Z"
+    }
+  },
+  {
+    "hash": "7c9aec2c5bf98e9dcd30b0953d80efe505a8d3788d891542f54b68217744dffe",
+    "item": {
+      "title": "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632831\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://productrank.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T14:53:01Z"
+    }
+  },
+  {
+    "hash": "0d553755364f9a89109b4d456224fd8cfbb7ff5e5ff376e4a010581466b9ee2f",
+    "item": {
+      "title": "Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633330\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://osf.io/preprints/osf/zhm54_v3"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T15:36:52Z"
+    }
+  },
+  {
+    "hash": "c4c813f358b17ebccbd7a32c04471ffe4725cf89858226dca9bdd41b419ba65b",
+    "item": {
+      "title": "China Hits Back With 84% Tariffs on U.S. Goods, Bitcoin Drops to $76K",
+      "description": "\u003cp class=\"\" data-start=\"452\" data-end=\"694\"\u003eChina tariffs surge to 84% in retaliation for U.S. duties, leading to renewed fears of a prolonged trade war. Bitcoin plunged below $76K as investors reacted to the mounting economic uncertainty.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/china-hits-back-with-84-tariffs-on-us-goods-bitcoin-drops-to-76k/\"\u003eChina Hits Back With 84% Tariffs on U.S. Goods, Bitcoin Drops to $76K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/china-hits-back-with-84-tariffs-on-us-goods-bitcoin-drops-to-76k/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "China",
+        "Reciprocal Tariffs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09152816/1744212496-0_0_optimized-9.jpg"
+      },
+      "published": "2025-04-09T18:09:32Z"
+    }
+  },
+  {
+    "hash": "5cdbd4a22993054e873a96551581134576e42f7a175151a7435f09a067c719c9",
+    "item": {
+      "title": "Trump Hikes China Tariffs to 125%, Grants 90-Day Delay for Other Nations",
+      "description": "\u003cp\u003eGlobal markets responded sharply after President Donald Trump announced a major escalation in his trade stance toward China, while offering a temporary reprieve to other countries. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-hikes-china-tariffs-to-125-grants-90-day-delay-for-other-nations/\"\u003eTrump Hikes China Tariffs to 125%, Grants 90-Day Delay for Other Nations\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-hikes-china-tariffs-to-125-grants-90-day-delay-for-other-nations/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "China",
+        "Donald Trump",
+        "tariffs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04041040/1743739840-abite_optimized.jpg"
+      },
+      "published": "2025-04-09T17:52:01Z"
+    }
+  },
+  {
+    "hash": "a093066791a39eafc8b5231ab0ce70451b98cf783c6465a9352f2786cfa4f35d",
+    "item": {
+      "title": "The Warren Buffett Play in Crypto? Best Wallet Secures $11.6M to Lead the Next Market Cycle",
+      "description": "\u003cp class=\"\" data-start=\"568\" data-end=\"867\"\u003eAs the crypto market resets, Best Wallet is stepping forward with $11.6M in fresh capital, offering users a smarter, noncustodial Web3 experience—from staking and multi-chain support to presale access—all through the \u003cem data-start=\"827\" data-end=\"840\"\u003ebest wallet\u003c/em\u003e for navigating volatility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/best-wallet-raises-11-6m-to-lead-crypto-comeback/\"\u003eThe Warren Buffett Play in Crypto? Best Wallet Secures $11.6M to Lead the Next Market Cycle\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/best-wallet-raises-11-6m-to-lead-crypto-comeback/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Best Wallet",
+        "Crypto ICO",
+        "crypto wallet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09171428/1744218868-best-wallet-4925.jpg"
+      },
+      "published": "2025-04-09T17:24:59Z"
+    }
+  },
+  {
+    "hash": "93b5e971212b66af8484ee9fbc90272ce79563bb24bb39ff8889a814d61524e2",
+    "item": {
+      "title": "Smart Money’s AI Shift: From Hype to Utility – MIND of Pepe Is Built for the Next Phase as Presale Nears $7.9M",
+      "description": "\u003cp\u003eAs AI hype cools, smart money is shifting toward utility-driven projects. MIND of Pepe, a crypto-native AI agent built for real-time market insight and blockchain deployment, has raised $7.9M in presale funding.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/smart-money-backs-ai-agent-mind-of-pepe/\"\u003eSmart Money’s AI Shift: From Hype to Utility – MIND of Pepe Is Built for the Next Phase as Presale Nears $7.9M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/smart-money-backs-ai-agent-mind-of-pepe/"
+      ],
+      "categories": [
+        "Press Releases",
+        "AI Agents",
+        "best crypto 2025",
+        "MIND of Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09165530/1744217730-mind-4925.jpg"
+      },
+      "published": "2025-04-09T17:04:10Z"
+    }
+  },
+  {
+    "hash": "6197655c584f0df12f80a50032883c5ab5b3075dd15f94d0baa3d9cc79fe8ad3",
+    "item": {
+      "title": "3 Cryptos to Buy as Trump Tariffs Go Live",
+      "description": "\u003cp\u003eUS President Donald Trump’s announcement of sweeping tariffs on foreign goods has jolted global markets, triggering a sharp 5.9% drop in the $2.52 trillion crypto sector over the past 24 hours.The move has intensified fears of a full-scale trade war, with China, Canada, and the EU all responding with retaliatory tariffs. As the ripple effects [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-cryptos-to-buy-as-trump-tariffs-go-live-solana-solx-xrp/\"\u003e3 Cryptos to Buy as Trump Tariffs Go Live\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-cryptos-to-buy-as-trump-tariffs-go-live-solana-solx-xrp/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoins",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09130112/1744203671-3-cryptos-to-buy-as-trump-tariffs-go-live.jpg"
+      },
+      "published": "2025-04-09T17:01:31Z"
+    }
+  },
+  {
+    "hash": "9cf9c6aeaac36b877ac350f0dee76380251488c495e77cc9c0e450e7d563668a",
+    "item": {
+      "title": "Best Meme Coins to Buy Now – Market Nuked… But These Look Ready to Run?",
+      "description": "\u003cp\u003eDuring steep crypto downturns, meme coins often fall the hardest—but they’re also among the fastest to bounce back when sentiment shifts. This time, though, they’re showing surprising resilience.While the broader market dropped 6.5% in the past 24 hours to a $2.5 trillion cap, meme coins slid just 3.6%, holding steady at a $43 billion valuation.President [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/best-meme-coins-to-buy-now-market-nuked-but-these-look-ready-to-run/\"\u003eBest Meme Coins to Buy Now – Market Nuked… But These Look Ready to Run?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/best-meme-coins-to-buy-now-market-nuked-but-these-look-ready-to-run/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Dogecoin",
+        "Meme Coins",
+        "Shiba inu"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09114923/1744199363-best-meme-coins-to-buy-now-market-nuked-but-these-look-ready-to-run.jpg"
+      },
+      "published": "2025-04-09T16:39:27Z"
+    }
+  },
+  {
+    "hash": "c2947d376338188fb90c3c0d25723a078737a40c8310c8cfe0ce18750345881a",
+    "item": {
+      "title": "21Shares Launches First Dogecoin ETP on SIX Swiss Exchange",
+      "description": "\u003cp\u003e21Shares and the House of Doge, the corporate arm of the Dogecoin Foundation, have teamed up to launch Europe's first Dogecoin Exchange-Traded Product (ETP). The new ETP will be listed on the SIX Swiss Exchange under the ticker symbol DOGE, expanding access to Dogecoin for traditional European investors.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/21shares-launches-first-dogecoin-etp-on-six-swiss-exchange/\"\u003e21Shares Launches First Dogecoin ETP on SIX Swiss Exchange\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/21shares-launches-first-dogecoin-etp-on-six-swiss-exchange/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "21Shares Fund",
+        "DOGE Price",
+        "Dogecoin ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09141823/1744208302-image-1744200574634_optimized.webp"
+      },
+      "published": "2025-04-09T16:36:24Z"
+    }
+  },
+  {
+    "hash": "4066b0c8963049d4c9b61716642c4a647fcf76f9627335075b5b8695b60bbd06",
+    "item": {
+      "title": "Is $1,000 the Final Floor for Ethereum? One Metric Thinks So",
+      "description": "\u003cp\u003eEthereum has tumbled by 8% today, yet its chart and indicators suggest that it could fall all the way to $1,000 before it manages to recover.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/is-1000-the-final-floor-for-ethereum-one-metric-thinks-so/\"\u003eIs $1,000 the Final Floor for Ethereum? One Metric Thinks So\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/is-1000-the-final-floor-for-ethereum-one-metric-thinks-so/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "ETH",
+        "Ethereum",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09113855/1744198734-is-1000-the-final-floor-for-ethereum-one-metric-thinks-so.jpg"
+      },
+      "published": "2025-04-09T15:44:12Z"
+    }
   }
 ]
