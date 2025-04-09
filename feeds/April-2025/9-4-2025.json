@@ -311,5 +311,106 @@
       },
       "published": "2025-04-08T21:39:42Z"
     }
+  },
+  {
+    "hash": "b3a3fc49dca2733975bc2c21c9cf59b9579c34e74fb4825b75f4417c967bf61e",
+    "item": {
+      "title": "GNU C Library Lands Workaround After Breaking Various Steam Games, Discord \u0026 Other Apps",
+      "description": "The release of the GNU C Library 2.41 at the end of January ended up inadvertently breaking some Steam games, Discord, Julia, MATLAB, and other select user-space software. A workaround was merged today for Glibc to workaround the problem...",
+      "links": [
+        "https://www.phoronix.com/news/Glibc-WA-Steam-Exec-Stack"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-09T00:43:04Z"
+    }
+  },
+  {
+    "hash": "45fa9950096baf0ab4e4aaab2a6c905d1e6910867e00df561275ffc57e4dc325",
+    "item": {
+      "title": "Dockerfmt: A Dockerfile Formatter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43628037\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/reteps/dockerfmt"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T01:21:22Z"
+    }
+  },
+  {
+    "hash": "2ff17ebab79ac44a292516e2d82edc01eafdc247eaa39c628f9306ce63c23f7e",
+    "item": {
+      "title": "Show HN: DrawDB – open-source online database diagram editor (a retro)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43627758\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.drawdb.app/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T00:20:18Z"
+    }
+  },
+  {
+    "hash": "bf2e95e0fa04d0fcac8510cd54ff0961893063984b7e0e8f797244ca7e4301de",
+    "item": {
+      "title": "Linux Kernel Defence Map – Security Hardening Concepts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43597264\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/a13xp0p0v/linux-kernel-defence-map"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-05T22:16:54Z"
+    }
+  },
+  {
+    "hash": "cd75a0be88d8992bd1627346becebf548597d8914bedabedcdff3e87abfcdd1c",
+    "item": {
+      "title": "The Barium Experiment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43627864\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tomscii.sig7.se/2025/04/The-Barium-Experiment"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T00:44:22Z"
+    }
+  },
+  {
+    "hash": "bcd20e8caab25d3d8464c38703153a86a4293da96a1dc077e5b461aa714241dd",
+    "item": {
+      "title": "Who isn't a big fan of \"impartial\" news? People who don't have power",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43627877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T00:46:28Z"
+    }
+  },
+  {
+    "hash": "2c8f1ef4c08fdae7f125221f805aecceb7d960db3d77406ded2036acc0628cab",
+    "item": {
+      "title": "Show HN: Soundscapes and Lofi Player",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43613855\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.noisefill.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T17:26:51Z"
+    }
+  },
+  {
+    "hash": "66770bca428134a804b2160a349454285bc910f4d346207006adc295821937d5",
+    "item": {
+      "title": "Work Simplification and the History of Government Efficiency and Management",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43627746\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.governance.fyi/p/historical-government-efficiency"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T00:17:33Z"
+    }
   }
 ]
