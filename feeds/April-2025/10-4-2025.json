@@ -465,5 +465,402 @@
       },
       "published": "2025-04-09T21:13:30Z"
     }
+  },
+  {
+    "hash": "427e460c3f60be4380880fbd2681e26c5d134c8a98d87e1ed44bd397f7500112",
+    "item": {
+      "title": "Ask Hackaday: Vibe Coding",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=2048,1239 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"489984\" data-permalink=\"https://hackaday.com/githubcopilot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"GithubCopilot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800\" /\u003e\u003c/div\u003eVibe coding is the buzzword of the moment. What is it? The practice of writing software by describing the problem to an AI large language model and using the code \u003ca href=\"https://hackaday.com/2025/04/09/ask-hackaday-vibe-coding/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/ask-hackaday-vibe-coding/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Ask Hackaday",
+        "Software Development",
+        "ai",
+        "LLM",
+        "vibe coding"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg"
+      },
+      "published": "2025-04-10T02:00:52Z"
+    }
+  },
+  {
+    "hash": "9da67678c738e7e530165bffa8428c62c8017c0812c4f5dc37df075ee3956e29",
+    "item": {
+      "title": "Going to the Top with a Raspberry Pi Elevator",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/04/elev.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/elev.png 800w, https://hackaday.com/wp-content/uploads/2025/04/elev.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/04/elev.png?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"771051\" data-permalink=\"https://hackaday.com/2025/04/09/going-to-the-top-with-a-raspberry-pi-elevator/elev-4/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/elev.png\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"elev\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/elev.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/elev.png?w=800\" /\u003e\u003c/div\u003e[BorisDigital] was mesmerised by a modern elevator. He decided to see how hard it would be to design his own elevator based on Raspberry Pis. He started out with a \u003ca href=\"https://hackaday.com/2025/04/09/going-to-the-top-with-a-raspberry-pi-elevator/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/going-to-the-top-with-a-raspberry-pi-elevator/"
+      ],
+      "categories": [
+        "Raspberry Pi",
+        "elevator",
+        "mqtt"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/elev.png"
+      },
+      "published": "2025-04-09T23:00:56Z"
+    }
+  },
+  {
+    "hash": "e7b3b33ceeac44bd505f14ad0afe9f491e476aa325521dca5bd7d45dc3a5d2e1",
+    "item": {
+      "title": "FLOSS Weekly Episode 828: Incus Inception",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"483960\" data-permalink=\"https://hackaday.com/pipewire-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Pipewire\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" /\u003e\u003c/div\u003eThis week, Jonathan Bennett and Rob Campbell talk to Stéphane Graber about LXC, Linux Containers, and Incus! Why did Incus fork from LXD, why are Fortune 500 companies embracing it, \u003ca href=\"https://hackaday.com/2025/04/09/floss-weekly-episode-828-incus-inception/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/floss-weekly-episode-828-incus-inception/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "Slider",
+        "FLOSS Weekly"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg"
+      },
+      "published": "2025-04-09T20:00:45Z"
+    }
+  },
+  {
+    "hash": "91d4d94aa03899a4c2e2bb4e0fc6ed7580a3a14e7c7a4d6985201fd9a6771d87",
+    "item": {
+      "title": "Self-Hosting a Cluster on Old Phones",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"553\" src=\"https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg 1157w, https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg?resize=250,173 250w, https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg?resize=400,277 400w, https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg?resize=800,553 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"771008\" data-permalink=\"https://hackaday.com/2025/04/09/self-hosting-a-cluster-on-old-phones/k3s-phone-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg\" data-orig-size=\"1157,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;7.1\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;ILCE-7RM4\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1732319472\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;105\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;1250\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0.04\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"k3s-phone-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg?w=800\" /\u003e\u003c/div\u003eThe phones most of us carry around in our pockets every day hold a surprising amount of computing power. It\u0026#8217;s somewhat taken for granted now that we can get broadband \u003ca href=\"https://hackaday.com/2025/04/09/self-hosting-a-cluster-on-old-phones/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/self-hosting-a-cluster-on-old-phones/"
+      ],
+      "categories": [
+        "handhelds hacks",
+        "bootloader",
+        "k3s",
+        "kubernetes",
+        "linux",
+        "postmarketos",
+        "raspberry pi",
+        "smartphone",
+        "unlockable"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/k3s-phone-main.jpg"
+      },
+      "published": "2025-04-09T17:00:28Z"
+    }
+  },
+  {
+    "hash": "197db170a3e62719728a0c6d3ea10f6a150b0440bc703199b3cae6f57d2b37c5",
+    "item": {
+      "title": "You Shouldn’t Build an X-Ray Machine, But You Could",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"294\" src=\"https://hackaday.com/wp-content/uploads/2025/04/xray.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/xray.png 800w, https://hackaday.com/wp-content/uploads/2025/04/xray.png?resize=250,92 250w, https://hackaday.com/wp-content/uploads/2025/04/xray.png?resize=400,147 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"770898\" data-permalink=\"https://hackaday.com/2025/04/09/you-shouldnt-build-an-x-ray-machine-but-you-could/xray-6/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/xray.png\" data-orig-size=\"800,294\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"xray\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/xray.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/xray.png?w=800\" /\u003e\u003c/div\u003eEver wanted your own X-ray machine? Of course you have! Many of us were indoctrinated with enticing ads for X-ray specs and if you like to see what\u0026#8217;s inside things, \u003ca href=\"https://hackaday.com/2025/04/09/you-shouldnt-build-an-x-ray-machine-but-you-could/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/you-shouldnt-build-an-x-ray-machine-but-you-could/"
+      ],
+      "categories": [
+        "Medical Hacks",
+        "Science",
+        "x-ray"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/xray.png"
+      },
+      "published": "2025-04-09T15:30:00Z"
+    }
+  },
+  {
+    "hash": "7e8379456d666f5e038dc2852cf3e65ca405dfde06e3031ddc961fe144efc01e",
+    "item": {
+      "title": "In 2025, The Philly Maker Faire Finds Its Groove",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"356\" src=\"https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg 1024w, https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg?resize=250,111 250w, https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg?resize=400,178 400w, https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg?resize=800,356 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"558595\" data-permalink=\"https://hackaday.com/2022/10/21/new-venue-gives-philly-maker-faire-a-fresh-start/phillyfaire_logo2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg\" data-orig-size=\"1024,456\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"phillyfaire_logo2\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg?w=800\" /\u003e\u003c/div\u003eThe first Philadelphia Maker Faire was extremely impressive, and seemed poised to be one of the premier maker events on the East Coast. Unfortunately, it had the misfortune of happening \u003ca href=\"https://hackaday.com/2025/04/09/in-2025-the-philly-maker-faire-finds-its-groove/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/in-2025-the-philly-maker-faire-finds-its-groove/"
+      ],
+      "categories": [
+        "cons",
+        "Featured",
+        "Slider",
+        "Philadelphia Maker Faire"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tom Nardi"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2022/10/phillyfaire_logo2.jpg"
+      },
+      "published": "2025-04-09T14:00:05Z"
+    }
+  },
+  {
+    "hash": "af0df7d007cf9c1ff171ff3209170ff67941fe7fa9eb96438be1f5348fd56ef5",
+    "item": {
+      "title": "Forget Propellers, Embrace Tentacle-based Locomotion",
+      "description": "\u003cdiv\u003e\u003cimg width=\"748\" height=\"420\" src=\"https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png?w=748\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png 748w, https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png?resize=400,225 400w\" sizes=\"auto, (max-width: 748px) 100vw, 748px\" data-attachment-id=\"770934\" data-permalink=\"https://hackaday.com/2025/04/09/forget-propellers-embrace-tentacle-based-locomotion/zodiaq-robot-wide/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png\" data-orig-size=\"748,420\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ZodiAq robot wide\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png?w=748\" /\u003e\u003c/div\u003eUnderwater robots face many challenges, not least of which is how to move around. ZodiAq is a prototype underwater soft robot (link is to research paper) that takes an unusual approach \u003ca href=\"https://hackaday.com/2025/04/09/forget-propellers-embrace-tentacle-based-locomotion/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/09/forget-propellers-embrace-tentacle-based-locomotion/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "flagella",
+        "marine",
+        "robot",
+        "rov",
+        "tentacles",
+        "underwater"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/ZodiAq-robot-wide.png"
+      },
+      "published": "2025-04-09T11:00:38Z"
+    }
+  },
+  {
+    "hash": "fb1a9204d50675d5ef78dff4388e36357820b95a0b49bd733f0b0d0e30ca6390",
+    "item": {
+      "title": "The Columbian Orator taught nineteenth-century Americans how to speak",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639280\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T00:00:34Z"
+    }
+  },
+  {
+    "hash": "b3a48c94d092fafa7a72827ea191918ceddc12acc521f3da32ccefeb83ab3010",
+    "item": {
+      "title": "Google Cloud Rapid Storage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639642\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T01:05:30Z"
+    }
+  },
+  {
+    "hash": "389658f9f8a49bb6a079b1af599f47791d01ab02d87f8c97227fe672592a5907",
+    "item": {
+      "title": "Dice and Queues",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43640115\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://justincartwright.com/2025/02/25/dice-and-queues.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T02:38:42Z"
+    }
+  },
+  {
+    "hash": "0d3da6307c743a88e28d1d42d470540e958752fd6de4a41b58b3e8e868b398b8",
+    "item": {
+      "title": "Evidence suggesting Quasar Alpha is OpenAI's new model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43640166\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.kilocode.ai/p/quasar-alpha-what-we-know-thus-far"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T02:48:08Z"
+    }
+  },
+  {
+    "hash": "5685e450bfcbd65305a2425f9c21245908bc824d14bbff0622358b0fc9135f43",
+    "item": {
+      "title": "Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43615805\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T20:51:02Z"
+    }
+  },
+  {
+    "hash": "ede3a0bc992c3bd5cd688d62bd40afe814db2146851d835a3452cdfa0429d524",
+    "item": {
+      "title": "How much do you think it costs to make a pair of Nike shoes in Asia?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631543\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/dieworkwear/status/1909741170953273353"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T12:58:39Z"
+    }
+  },
+  {
+    "hash": "088ffed0f6b763ff4c7574a31c4383c4142d5a8e1077daab63e5add4c57d7afb",
+    "item": {
+      "title": "BS 1363 British Plugs and Sockets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639421\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.plugsocketmuseum.nl/British1.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T00:26:31Z"
+    }
+  },
+  {
+    "hash": "6b8bb59aba713bbf8c11bf2cb7aaebdcd8e540f1070855df9aff3095a8fd8e60",
+    "item": {
+      "title": "Rusty Cascading Style Sheets – Another CSS Preprocessor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639734\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ved-patel226/RCSS"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T01:21:49Z"
+    }
+  },
+  {
+    "hash": "4ee5aaad524239918d5e2afec6e5d78c33ae8fca2ae492d2607d8669951eab0f",
+    "item": {
+      "title": "No Pay, No Work; Early Career Lessons",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639871\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T01:51:24Z"
+    }
+  },
+  {
+    "hash": "b846cce5b3b3ac6c848efac18686df6787855ccbf7c4803d9c15a7e7f1d40dbf",
+    "item": {
+      "title": "The Consequences of Limiting the Tax Deductibility of R\u0026D",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4998845"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T23:47:45Z"
+    }
+  },
+  {
+    "hash": "a9c0f6b38436d0cfa572c8d5c6142ba715b6b46ba6895a0b07c0d08e6dc901ef",
+    "item": {
+      "title": "Men's Weird Collections Inspired the Modern Museum: Cabinets of Curiosities",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43601282\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://worldhistory.substack.com/p/how-strange-mens-weird-collections"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-06T13:25:14Z"
+    }
+  },
+  {
+    "hash": "fc81be5e981cd7141c6a564a8ff97b3fd05519e1cf39800b857b25f74c9a2b5f",
+    "item": {
+      "title": "SEC Approves Listing, Trading of Options on ETH ETFs",
+      "description": "\u003cp\u003eInvestors can now trade options tied to BlackRock's iShares Ethereum Trust (ETHA), Bitwise Ethereum ETF, Grayscale's Ethereum Trust, and Ethereum Mini Trust.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-approves-listing-trading-of-options-on-eth-etfs/\"\u003eSEC Approves Listing, Trading of Options on ETH ETFs\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-approves-listing-trading-of-options-on-eth-etfs/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Crypto ETFs",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/10031125/1744254685-a0014ba2-87f6-41f1-b2ff-4af7ad4b9bd6_optimized.jpg"
+      },
+      "published": "2025-04-10T03:12:37Z"
+    }
+  },
+  {
+    "hash": "acd9e7a1dc346f450a395cf289328bd52f6c9f1f1c9d6b4fe4c7984dece37039",
+    "item": {
+      "title": "Cardano Price Analysis: ADA Bounces as Trade Wars Ease, But $0.30 ADA Remains Likely",
+      "description": "\u003cp\u003eThe Cardano (ADA) price jumped an impressive 13% on Wednesday after US President Trump backed off somewhat from his trade war against the rest of the globe, facilitating a major rally in risk asset markets. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-analysis-ada-bounces-as-trade-wars-ease-but-0-30-ada-remains-likely/\"\u003eCardano Price Analysis: ADA Bounces as Trade Wars Ease, But $0.30 ADA Remains Likely\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-analysis-ada-bounces-as-trade-wars-ease-but-0-30-ada-remains-likely/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ADA",
+        "Cardano"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Joel Frank"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/10004942/ADAUSD_2025-04-09_19-45-39_99c5e-1024x517.png"
+      },
+      "published": "2025-04-10T00:52:17Z"
+    }
+  },
+  {
+    "hash": "b1b1a16688f5d88cb57ffce042bb12834ca86e93256351544b97f0938e27f3f3",
+    "item": {
+      "title": "South Korean Police Raid Illegal Gambling Den Disguised as Crypto Mining Center",
+      "description": "\u003cp\u003eSouth Korean police have raided a suspected illegal gambling den whose operator claimed it was a center for crypto mining.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korean-police-raid-illegal-gambling-den-disguised-as-crypto-mining-center/\"\u003eSouth Korean Police Raid Illegal Gambling Den Disguised as Crypto Mining Center\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korean-police-raid-illegal-gambling-den-disguised-as-crypto-mining-center/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Police",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09151236/1744211556-image-1744186816136_optimized.jpg"
+      },
+      "published": "2025-04-09T23:30:00Z"
+    }
   }
 ]
