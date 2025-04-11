@@ -2447,5 +2447,680 @@
       },
       "published": "2025-02-26T07:32:49Z"
     }
+  },
+  {
+    "hash": "a960f3330f4537f0f19adf30084cbe123f44db84531865648e04c3071000c508",
+    "item": {
+      "title": "Apple silent as Trump promises “impossible” US-made iPhones",
+      "description": "How does Apple solve a problem like Trump’s trade war?",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/apple-silent-as-trump-promises-impossible-us-made-iphones/"
+      ],
+      "categories": [
+        "Policy",
+        "apple",
+        "china",
+        "china tariffs",
+        "Donald Trump",
+        "Foxconn",
+        "iphone",
+        "tariffs",
+        "Tim Cook",
+        "us",
+        "us-china trade war"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-2187854869-1152x648.jpg"
+      },
+      "published": "2025-04-11T17:32:16Z"
+    }
+  },
+  {
+    "hash": "7edd951486c007c7179e18633f1f1db810782a02d6bdce4956e464f7e8035329",
+    "item": {
+      "title": "A guide to the “platonic ideal” of a Negroni and other handy tips",
+      "description": "Perfumer by day, mixologist by night, Kevin Peterson specializes in crafting scent-paired cocktails.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/is-there-a-grand-unified-theory-of-cocktails-maybe/"
+      ],
+      "categories": [
+        "Science",
+        "aromas",
+        "chemistry",
+        "cocktails",
+        "mixology",
+        "molecular mixology",
+        "perfumery",
+        "smell",
+        "taste perception"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/cocktail2-1152x648-1743791633.jpg"
+      },
+      "published": "2025-04-11T16:53:16Z"
+    }
+  },
+  {
+    "hash": "a68228ee8e76866f3efedfba4b89c510a285e5c903dea4f8a06c1b279dbcd698",
+    "item": {
+      "title": "FTC now has three Republicans and no Democrats instead of the typical 3-2 split",
+      "description": "Senate puts third Republican on FTC while two Democrats sue Trump over firings.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/trump-cements-control-of-federal-trade-commission-with-3-0-republican-advantage/"
+      ],
+      "categories": [
+        "Policy",
+        "FTC",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/mark-meador-1152x648-1744389126.jpg"
+      },
+      "published": "2025-04-11T16:42:07Z"
+    }
+  },
+  {
+    "hash": "aa371d48bd691d0018b2b77ae5b7bc4a5f4771be318120564efab12312c40b7b",
+    "item": {
+      "title": "Quantum hardware may be a good match for AI",
+      "description": "New manuscript describes analyzing image data in a quantum processor.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/companies-take-a-step-toward-running-ai-on-quantum-hardware/"
+      ],
+      "categories": [
+        "AI",
+        "Science",
+        "Computer science",
+        "image classification",
+        "Physics",
+        "quantum computing",
+        "quantum mechanics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-1520210789-1152x648.jpg"
+      },
+      "published": "2025-04-11T14:46:31Z"
+    }
+  },
+  {
+    "hash": "8854b5c926320d6bd5aabff9fa70295ff96631af26c2d3d2f7e8a295b76f3b27",
+    "item": {
+      "title": "Experimental drug looks to be gastric bypass surgery in pill form",
+      "description": "Daily drug creates temporary coating in small intestine.",
+      "links": [
+        "https://arstechnica.com/health/2025/04/experimental-drug-looks-to-be-gastric-bypass-surgery-in-pill-form/"
+      ],
+      "categories": [
+        "Health",
+        "GLP-1",
+        "obesity",
+        "Ozempic",
+        "syndication",
+        "weight loss"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Emily Mullin, wired.com"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/weightloss-1152x648.jpg"
+      },
+      "published": "2025-04-11T14:25:01Z"
+    }
+  },
+  {
+    "hash": "4968e4cd67c6d63c6a5a5a2d8c9278230a17851af55bc25ca6d877bcccdc8132",
+    "item": {
+      "title": "Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit",
+      "description": "Fortinet has revealed that threat actors have found a way to maintain read-only access to vulnerable FortiGate devices even after the initial access vector used to breach the devices was patched.\nThe attackers are believed to have leveraged known and now-patched security flaws, including, but not limited to, CVE-2022-42475, CVE-2023-27997, and CVE-2024-21762.\n\"A threat actor used a known",
+      "links": [
+        "https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj665ioA1BI_NUmyvCD8cUQpH5PRTnM9SueXZbF2ZXNyujH3ynQRIWmYjcqkKvg1vBmYy9S268xYjHLWCSOEMD7UmiVjCtbIrmVuH7gEZqht9ODrByB2kZjvsCbkp-yNbdzaZFdrN5ubAlAXJIm-km5bWNX7WS9rPQErt0C1_GZoAvpEAvHwk4KRgnq8w-7/s1600/hack.jpg"
+      },
+      "published": "2025-04-11T17:55:00Z"
+    }
+  },
+  {
+    "hash": "bf33bfe1ccf75b06a0c77a8c546568a74957b07161ca37de1e3c9ff45a7b8b25",
+    "item": {
+      "title": "Vine Coin (VINE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/VINE-Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Vine Coin (VINE) Price Prediction 2025, 2026-2030 \" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/VINE-Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/VINE-Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/VINE-Price-prediction-design-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Vine Coin (VINE) price prediction for 2025, 2026-2030, we will analyze the price patterns of VINE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Vine Coin (VINE) Current Market Status What is Vine Coin (VINE)? Vine Coin",
+      "links": [
+        "https://thenewscrypto.com/vine-coin-vine-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Meme Coin",
+        "price prediction",
+        "Vine coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/VINE-Price-prediction-design.jpg"
+      },
+      "published": "2025-04-11T14:10:21Z"
+    }
+  },
+  {
+    "hash": "262395f6433ae4b218f274a7ce1b3eac842323d3eca84214778f54c1795154cc",
+    "item": {
+      "title": "Vitalik Buterin Warns on EIP-7702 Risks Ahead of Ethereum’s Pectra Launch",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Vitalik_Buterin_responds_to_security_concerns_over_new_Pectra_upgrade.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Vitalik Buterin Warns on EIP-7702 Risks Ahead of Ethereum’s Pectra Launch\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Vitalik_Buterin_responds_to_security_concerns_over_new_Pectra_upgrade.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Vitalik_Buterin_responds_to_security_concerns_over_new_Pectra_upgrade-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Vitalik_Buterin_responds_to_security_concerns_over_new_Pectra_upgrade-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEthereum co-founder Vitalik Buterin has responded to growing concerns around EIP-7702, a key part of the upcoming Pectra upgrade. In a Warpcast post, Buterin advised users to delegate only to audited contracts approved by trusted wallet teams. The response came after user critiques surfaced online, highlighting a serious issue. According",
+      "links": [
+        "https://thenewscrypto.com/vitalik-buterin-warns-on-eip-7702-risks-ahead-of-ethereums-pectra-launch/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Market Updates",
+        "ETH",
+        "ETHEREUM",
+        "VitalikButerin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Vitalik_Buterin_responds_to_security_concerns_over_new_Pectra_upgrade.jpg"
+      },
+      "published": "2025-04-11T13:48:56Z"
+    }
+  },
+  {
+    "hash": "58a90e7e03e97d468a0662a0bcf12705f2fa2225a315c6f655babd99b6c087cb",
+    "item": {
+      "title": "Popcat (SOL) POPCAT Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/09/POPCAT-SOL-Price-Prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Popcat (SOL) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/09/POPCAT-SOL-Price-Prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/09/POPCAT-SOL-Price-Prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/09/POPCAT-SOL-Price-Prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Popcat (SOL) POPCAT price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of POPCAT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Popcat (SOL) POPCAT Current Market Status What is Popcat (SOL) POPCAT? Popcat (SOL) POPCAT",
+      "links": [
+        "https://thenewscrypto.com/popcat-sol-popcat-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Popcat (SOL)",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shafika Fathima"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/09/POPCAT-SOL-Price-Prediction.jpg"
+      },
+      "published": "2025-04-11T13:44:04Z"
+    }
+  },
+  {
+    "hash": "193f67fe1dc3997a81df6942652eaf7a922b9fa9b3e77169b605b4b24e645c32",
+    "item": {
+      "title": "Binance Confirms Listing of ONDO, BIGTIME and VIRTUAL Following Second Vote to List Round",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/BINANCE-SET-TO-LIST-BIGTIME-VIRTUAL-AND-ONDO.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Confirms Listing of ONDO, BIGTIME, and VIRTUAL Following Second Vote to List Round\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/BINANCE-SET-TO-LIST-BIGTIME-VIRTUAL-AND-ONDO.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/BINANCE-SET-TO-LIST-BIGTIME-VIRTUAL-AND-ONDO-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/BINANCE-SET-TO-LIST-BIGTIME-VIRTUAL-AND-ONDO-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWhile the global crypto market feels the pressure with Bitcoin slipping to $82K following a new tariff announcement from the U.S. President Donald Trump — Binance has shared a bit of good news. The world\u0026#8217;s largest crypto exchange has confirmed the listing of three new tokens: Ondo (ONDO), Big Time",
+      "links": [
+        "https://thenewscrypto.com/binance-confirms-listing-of-ondo-bigtime-and-virtual-following-second-vote-to-list-round/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Market Updates",
+        "Binance",
+        "Crypto Exchange",
+        "Crypto Market",
+        "ONDO",
+        "VIRTUAL"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/BINANCE-SET-TO-LIST-BIGTIME-VIRTUAL-AND-ONDO.jpg"
+      },
+      "published": "2025-04-11T13:14:24Z"
+    }
+  },
+  {
+    "hash": "7aabb765529cfd4dbebec37a15754ccfcc3087d315db15e6e2e4375c233bf371",
+    "item": {
+      "title": "Revolving Games’ HatchKings Heats Up As ‘Spinathon Event’ Kicks Off",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-4.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Revolving Games’ HatchKings Heats Up As ‘Spinathon Event’ Kicks Off\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-4.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-4-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-4-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eRevolving Games, a leading web3 games publisher, in partnership with TapTap Games, is currently running Season 1 of HatchKings, a social slot game expanding the Hatchlings IP and introducing $HATCH, a 100% community-owned token launching on the BNB Smart Chain. The 10-day event, which kicked off on April 3, runs",
+      "links": [
+        "https://thenewscrypto.com/revolving-games-hatchkings-heats-up-as-spinathon-event-kicks-off/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "HatchKings"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-3-4.jpg"
+      },
+      "published": "2025-04-11T12:57:42Z"
+    }
+  },
+  {
+    "hash": "33860c23d698ba79fa0dbca7d14e6c5c628120fdfcf37337c866bfefd5a62618",
+    "item": {
+      "title": "The $0.003 Investment That Could Hit $1 at Launch—Ozak AI Is Set to Explode!",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-16.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"The $0.003 Investment That Could Hit $1 at Launch—Ozak AI Is Set to Explode!\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-16.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-16-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eOzak AI, a cutting-edge project, has captured attention with its potential for massive growth. Currently priced at just $0.003, it offers an investment opportunity that could yield extraordinary returns. As the project approaches its launch, many investors are eyeing it, anticipating a surge in value. With a bold vision and",
+      "links": [
+        "https://thenewscrypto.com/the-0-003-investment-that-could-hit-1-at-launch-ozak-ai-is-set-to-explode/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Cryptocurrency",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-16.jpg"
+      },
+      "published": "2025-04-11T12:29:30Z"
+    }
+  },
+  {
+    "hash": "42b44b150156be6e3d61630fe2ace1861b05c27ff6ccfe0f58c00e82ff98f8e7",
+    "item": {
+      "title": "My Crypto Funding Wins Best Trading Conditions Among Crypto Prop Firms",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/1200x720_17443187041y9pzSkSif.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/1200x720_17443187041y9pzSkSif.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/04/1200x720_17443187041y9pzSkSif-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/1200x720_17443187041y9pzSkSif-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/1200x720_17443187041y9pzSkSif-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eLondon, Greater London, 11th April 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/my-crypto-funding-wins-best-trading-conditions-among-crypto-prop-firms/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/1200x720_17443187041y9pzSkSif.jpg"
+      },
+      "published": "2025-04-11T12:05:09Z"
+    }
+  },
+  {
+    "hash": "69c7875e73ea72f5429a76aeae3554261de807f2fc254e4f2e94e21b7e0af0b2",
+    "item": {
+      "title": "Sonic (prev. FTM) (S) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Sonic-Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"S Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Sonic-Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Sonic-Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Sonic-Price-prediction-design-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Sonic (prev. FTM) (S) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of S by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Sonic (prev. FTM) (S) Current Market Status What is Sonic (prev. FTM) (S)?",
+      "links": [
+        "https://thenewscrypto.com/sonic-prev-ftm-s-price-prediction-2025-2026-2030/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "price prediction",
+        "S",
+        "SONIC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Sonic-Price-prediction-design.jpg"
+      },
+      "published": "2025-04-11T11:57:01Z"
+    }
+  },
+  {
+    "hash": "12558f2d5c6d75e3053eca983fd3e9e24b8cbf9d6f36a2c221bfce7297d0da90",
+    "item": {
+      "title": "Sui (SUI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sui (SUI) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Sui (SUI) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of SUI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sui (SUI) Current Market Status What is Sui (SUI)? Sui (SUI) 24H Technicals SUI (SUI)",
+      "links": [
+        "https://thenewscrypto.com/sui-sui-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "SUI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg"
+      },
+      "published": "2025-04-11T11:42:22Z"
+    }
+  },
+  {
+    "hash": "d93d8c20cddc888503bd5854fd7378ade42201a4a4e0fc717da63f1922296de0",
+    "item": {
+      "title": "JASMY Price Rises 14%, Can Bulls Maintain the Upward Trend?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/JasmyCoin-Markets-price-Today.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"JASMY Price Rises 14%, Can Bulls Maintain the Upward Trend?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/JasmyCoin-Markets-price-Today.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/JasmyCoin-Markets-price-Today-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/JasmyCoin-Markets-price-Today-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eJasmyCoin price analysis shows that buyers are returning, and a significant breakout above the 50-day ($0.01447) EMA level is likely. JASMY\u0026#8217;s price rose 14% in the last 24 hours and 22% over the last week which reversed the short-term trend in the upward direction.\u0026#160; However, the continuation of this bullish",
+      "links": [
+        "https://thenewscrypto.com/jasmy-price-rises-14-can-bulls-maintain-the-upward-trend/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "JASMY",
+        "JasmyCoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/JasmyCoin-Markets-price-Today.jpg"
+      },
+      "published": "2025-04-11T11:37:41Z"
+    }
+  },
+  {
+    "hash": "b305ca93a142c0a160429b42310553309851c4e37c2442e64bb832b5f4dd7061",
+    "item": {
+      "title": "Running Linux 6.15 vs. 6.14 Performance With The AMD Ryzen AI 7 PRO 360",
+      "description": "So far my testing this week of the Linux 6.15 kernel in its early, post-RC1 state has been going well. No major upsets, yet to uncover any significant performance regressions, and overall has been going smoothly with the many new features/changes in Linux 6.15...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-Ryzen-AI-7-PRO-360"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-11T17:42:00Z"
+    }
+  },
+  {
+    "hash": "5f13b282ef5f05d3c67586fe0d33db771e929cea6d9c8ebfafc7274aa1d71e2a",
+    "item": {
+      "title": "Intel Preps VRR Refactoring For Linux 6.16, More Xe3 Panther Lake Display Enablement",
+      "description": "Intel graphics driver engineers today sent out their first batch of feature updates to DRM-Next for queuing ahead of the next Linux 6.16 kernel cycle...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.16-1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-11T15:24:00Z"
+    }
+  },
+  {
+    "hash": "00835741f4665aecb612a8198e5786b35c69a2e1e61e6c4bf3ed075fd508d207",
+    "item": {
+      "title": "[$] Inlining kfuncs into BPF programs",
+      "description": "\u003cp\u003e\nEduard Zingerman presented a daring proposal that \"\u003cq\u003emakes sense if you think\nabout it a bit\u003c/q\u003e\" at the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF Summit. He wants to inline\nperformance-sensitive kernel functions\ninto the BPF programs that call them. His\nprototype does not yet address all of the design problems inherent in that idea,\nbut it did spark a lengthy discussion about the feasibility of his proposal.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1016712/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-04-11T17:15:10Z"
+    }
+  },
+  {
+    "hash": "0846b93d6073d8e33f69caec02bd34482bf43508973f1661516c2b080ba02b4c",
+    "item": {
+      "title": "The PS3 Licked the Many Cookie",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43656279\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://darkcephas.github.io/ps3_failed/ps3_failed.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T17:27:39Z"
+    }
+  },
+  {
+    "hash": "a203a956eb4a890726b6d00197076652f85c373aa0b3102766ebef7355177bf1",
+    "item": {
+      "title": "Bilinear interpolation on a quadrilateral using Barycentric coordinates",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43654912\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:25:13Z"
+    }
+  },
+  {
+    "hash": "6a260c580eacd51c8907a030a8e9836535e8828b7380c3938928216ea313ede3",
+    "item": {
+      "title": "Erlang's not about lightweight processes and message passing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43655221\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:50:49Z"
+    }
+  },
+  {
+    "hash": "1cbe23a721395767408a0865ab360fd7784f3f3da6bb86db697558d418c256d0",
+    "item": {
+      "title": "Bonobos use a kind of syntax once thought to be unique to humans",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43612835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-07T15:51:21Z"
+    }
+  },
+  {
+    "hash": "e8b528ffb4701b96b823f29a59d03bb3d8845e4dbec5dcf4763d0cdd9cc52bf2",
+    "item": {
+      "title": "Mosaic (YC W25) is building a general purpose agent for video editing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43656007\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T17:00:43Z"
+    }
+  },
+  {
+    "hash": "1dbe2e564d54f8f944c2cf3cc8759e162d7a8d802b694debb88098f072f9a012",
+    "item": {
+      "title": "WordPress launches new free AI website builder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43654279\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wordpress.com/blog/2025/04/09/ai-website-builder/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T14:36:16Z"
+    }
+  },
+  {
+    "hash": "c5573bbd966d629915e26d310f686864c01a0936711f7b8633f2fa5e7b7f1b6c",
+    "item": {
+      "title": "Rust CUDA Project",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43654881\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Rust-GPU/Rust-CUDA"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:22:35Z"
+    }
+  },
+  {
+    "hash": "84081c27cdafad0944e7f096d2f35f11257ffa0a284d78e799553715d1993b05",
+    "item": {
+      "title": "Playing in the Creek",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43650656\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hgreer.com/PlayingInTheCreek/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T05:05:33Z"
+    }
+  },
+  {
+    "hash": "c1136565ccf276ea21c0d3887c158e886dee0f7c6ff9979fe8c0ec906349e3e0",
+    "item": {
+      "title": "Evelyn Waugh's Decadent Redemption",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43654971\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:29:10Z"
+    }
+  },
+  {
+    "hash": "976000d1fc308b23aeeec56db45fbd5cf4afc1587744996a7524d3d01605567d",
+    "item": {
+      "title": "Titanic digital scan reveals new details of ship's final hours",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43627300\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/cwy6gjwd0g6o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-08T22:58:55Z"
+    }
+  },
+  {
+    "hash": "dc53af226f8b5784ab52a25be7bef97fa187486d175e16ae5bef2e16e0629efb",
+    "item": {
+      "title": "Show HN: Time Travel with Your SQL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43648713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43648713"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T22:48:37Z"
+    }
+  },
+  {
+    "hash": "051507bbfb590cc8bd6497b8160d78f3c816de5d972c4277a6dfcb1e19915fe6",
+    "item": {
+      "title": "Leaked Meta data reveals massive campaign to remove pro-Palestine posts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43655603\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T16:24:58Z"
+    }
+  },
+  {
+    "hash": "3bcda9ef0fb1f4d19576a86203127bb8113f6e5522eb9f7c0f32584e8c173b52",
+    "item": {
+      "title": "WebRTC for the Curious",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43654813\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://webrtcforthecurious.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:18:21Z"
+    }
+  },
+  {
+    "hash": "5a873eb20860a707ed1357551b495c6e96cc5681154398a0b12ec121ae993e0e",
+    "item": {
+      "title": "Datastar: Web Framework for the Future?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43655914\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chrismalek.me/posts/data-star-first-impressions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T16:53:20Z"
+    }
+  },
+  {
+    "hash": "4877207f414cb3999e211771f2554f963413104293a749359a7757740ed0db60",
+    "item": {
+      "title": "Ask HN: Has anyone quit their startup (VC-backed) over cofounder disagreements?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43655505\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43655505"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T16:16:07Z"
+    }
+  },
+  {
+    "hash": "6c3ec713ddf1c9874d1272969b03d88103a7f1b5a1b37101c7b568d761258834",
+    "item": {
+      "title": "Agency vs. Control vs. Reliability in Agent Design",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43654932\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fin.ai/research/agency-control-reliability-the-tradeoffs-in-customer-support-agents/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:26:53Z"
+    }
   }
 ]
