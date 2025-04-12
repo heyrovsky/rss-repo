@@ -1,0 +1,207 @@
+[
+  {
+    "hash": "acb8e2cf78c433a9216a43fdf2c40054e22c7781a1affc70247afdb770f28c76",
+    "item": {
+      "title": "[$] Managing multiple sources of page-hotness data",
+      "description": "Knowing how frequently accessed a page of memory is (its \"hotness\") is a\nkey input to many memory-management heuristics.  Jonathan Cameron, in a\nmemory-management track at the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF Summit, pointed out that the number of sources\nof that kind of data is growing over time.  He wanted to explore the\nquestions of what commonality exists between data from those sources, and\nwhether it makes sense to aggregate them all somehow.",
+      "links": [
+        "https://lwn.net/Articles/1016722/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-11T23:56:02Z"
+    }
+  },
+  {
+    "hash": "8873382254232cb68799f07f46d38f664383f1d9360d138dc78ecb51d4ffa767",
+    "item": {
+      "title": "AI isn’t ready to replace human coders for debugging, researchers say",
+      "description": "Even when given access to tools, AI agents can't reliably debug software.",
+      "links": [
+        "https://arstechnica.com/ai/2025/04/researchers-find-ai-is-pretty-bad-at-debugging-but-theyre-working-on-it/"
+      ],
+      "categories": [
+        "AI",
+        "coding",
+        "debugging",
+        "LLM",
+        "microsoft",
+        "Programming",
+        "software development"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/linux-scripts-1152x648.jpg"
+      },
+      "published": "2025-04-11T22:26:58Z"
+    }
+  },
+  {
+    "hash": "6e761741459f42c1feed4e6f75f4b1962c21bcae025ec742bd6e64561a2e64ad",
+    "item": {
+      "title": "Turbulent global economy could drive up prices for Netflix and rivals",
+      "description": "\"... our members are going to be punished.\" ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/streaming-price-hikes-more-likely-amid-uncertainty-around-global-taxes-economy/"
+      ],
+      "categories": [
+        "Tech",
+        "Netflix",
+        "streaming",
+        "tariffs",
+        "united kingdom"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/dw_xmas_24_005_embargoed_children_in_need_15_51247419-1152x648.jpeg"
+      },
+      "published": "2025-04-11T21:23:26Z"
+    }
+  },
+  {
+    "hash": "4bd8bfa607ae92dff39cec4b1f8fd6de6db0c98c3a0a0a952a28885de47d8877",
+    "item": {
+      "title": "Vacheron Constantin Breaks the World Record for Most Complicated Wristwatch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43659365\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T22:26:41Z"
+    }
+  },
+  {
+    "hash": "54a78c5fef4f6177af4f58ca0d6636cd4af86cecc2a8a16807568ac397604782",
+    "item": {
+      "title": "A recent study suggests that insects branched out from crustaceans",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43658093\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T20:19:39Z"
+    }
+  },
+  {
+    "hash": "15f2399bc3c67ee5fac3112220a422d3e9dcca3e358afc8df6dbf5530a6b0d56",
+    "item": {
+      "title": "Once lush Sahara was home to a surprisingly unique group of humans",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643467\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T13:16:25Z"
+    }
+  },
+  {
+    "hash": "d387bfaf254f71069f08c94a98778a6d975d950bdea439b9bd989e31ad0a8426",
+    "item": {
+      "title": "Blue Prince is a roguelike puzzle masterpiece",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43628070\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-09T01:27:48Z"
+    }
+  },
+  {
+    "hash": "005f584c843d80007586ff5dbe47cf6c94f976d5e591a3ac9531f7ddc5737dd6",
+    "item": {
+      "title": "Erlang's not about lightweight processes and message passing (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43655221\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T15:50:49Z"
+    }
+  },
+  {
+    "hash": "2a881a1f2d6c5b75c68cbc20a0f90e38b3af7bf80341ed42950d63e0f235366f",
+    "item": {
+      "title": "AI Coding and the Peanut Butter and Jelly Problem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43658794\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T21:26:36Z"
+    }
+  },
+  {
+    "hash": "ac256d54646729b6e1c942ca5d8972b907766519d9ba0b1e7805da63e75f7116",
+    "item": {
+      "title": "Key principles on in-game virtual currencies in the EU",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43658420\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T20:52:39Z"
+    }
+  },
+  {
+    "hash": "6615b9ceae160ad0a2c5c57a8876ac810b29702abd12d9d0f870868b877e7fd7",
+    "item": {
+      "title": "You might not need WebSockets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43659370\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hntrl.io/posts/you-dont-need-websockets/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T22:27:16Z"
+    }
+  },
+  {
+    "hash": "d4d5d3bc13dc5c6af8dd722b0ce91cff01522638069a1e4e8249b7f5273091d4",
+    "item": {
+      "title": "PyReason: Explainable inference for annotated, real valued, graph based and tem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43625211\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/lab-v2/pyreason"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-08T18:47:45Z"
+    }
+  },
+  {
+    "hash": "87fb350b23e5ffcceadfb959ee6744f36fff6474fdabd5a95bc1acad5ec985f1",
+    "item": {
+      "title": "Our Best Customers Are Now Robots",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43659340\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fly.io/blog/fuckin-robots/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T22:23:37Z"
+    }
+  },
+  {
+    "hash": "8e675c8a1e535e100e53e4b9983d6e710e3c8ca35213682e7ba7ff0ed31966fe",
+    "item": {
+      "title": "We clone a running VM in 2 seconds (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43622514\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codesandbox.io/blog/how-we-clone-a-running-vm-in-2-seconds"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-08T14:55:27Z"
+    }
+  }
+]
