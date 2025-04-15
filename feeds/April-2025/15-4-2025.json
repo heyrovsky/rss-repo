@@ -281,5 +281,122 @@
       "source": "Hacker News",
       "published": "2025-04-12T04:53:39Z"
     }
+  },
+  {
+    "hash": "bee437a9e5beeb66ed38dffd1253d56252ded8742b729e84652d19484a05eada",
+    "item": {
+      "title": "Oracle Releases Unbreakable Enterprise Kernel 8 Powered By Linux 6.12 LTS",
+      "description": "Oracle today debuted the newest version of their Unbreakable Enterprise Kernel \"UEK\" designed to be paired with their RHEL-derived Oracle Linux operating system as a heavily-patched version of the Linux kernel. With today's release of UEK 8 they have rebased atop the current Linux 6.12 long-term support codebase...",
+      "links": [
+        "https://www.phoronix.com/news/Oracle-UEK-8-Linux-6.12-Kernel"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-15T00:40:09Z"
+    }
+  },
+  {
+    "hash": "5dde002d55a760d08afb228463e8267d209f11c2707fe88fe713e76bbc14059f",
+    "item": {
+      "title": "After Harvard says no to feds, $2.2 billion of research funding put on hold",
+      "description": "The university also turned its homepage into a tribute to research.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/harvard-says-feds-research-funding-demands-amount-to-a-takeover/"
+      ],
+      "categories": [
+        "Policy",
+        "Science",
+        "legal threats",
+        "research funding",
+        "science",
+        "trump administration"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-1832935833-1152x648.jpg"
+      },
+      "published": "2025-04-14T22:39:51Z"
+    }
+  },
+  {
+    "hash": "91fe4a8dfd3f08ff7f204c9b19c77fa0f38ebb09792675156e6da297b1966e29",
+    "item": {
+      "title": "Behind the 6-digit code: Building HOTP and TOTP from scratch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43653322\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.dogac.dev/how-do-one-time-passwords-work/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-11T13:06:17Z"
+    }
+  },
+  {
+    "hash": "eefe825c0989e9d2770a0190bb0de789ad68b33b32f9dd150d608d7f366152ee",
+    "item": {
+      "title": "Overuse of CT scans could cause 100k extra cancers in US",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43688395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.icr.ac.uk/about-us/icr-news/detail/overuse-of-ct-scans-could-cause-100-000-extra-cancers-in-us"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T02:15:09Z"
+    }
+  },
+  {
+    "hash": "2de3d1ba91a00808a4a1eae2ae21d2858786685364d5bc848081fb53764211bd",
+    "item": {
+      "title": "USL – A Universal Scripting Language That Outputs to 111 Programming Languages",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43688456\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://townsendatomics.gumroad.com/l/usl"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T02:26:19Z"
+    }
+  },
+  {
+    "hash": "10993e17e2075a05a2fc296f139191502db256353169962298b34bad59357035",
+    "item": {
+      "title": "Google to embrace MCP",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43646227\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-10T17:34:40Z"
+    }
+  },
+  {
+    "hash": "004e03afd055d0cd90187ffd12688140cfa14070dbe2f1b584a93467868b2e4f",
+    "item": {
+      "title": "The Problem with \"Vibe Coding\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43687767\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T00:26:53Z"
+    }
+  },
+  {
+    "hash": "76f53153787f7989d7164ca460d56397c66bd7cf765d2019ee3a96cd960cbfc4",
+    "item": {
+      "title": "How to Bike Across the Country",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43681936\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.brooks.team/posts/how-to-bike-across-the-country/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-14T14:49:42Z"
+    }
   }
 ]
