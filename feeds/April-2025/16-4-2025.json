@@ -1,0 +1,212 @@
+[
+  {
+    "hash": "66c0ff2ad8cb17ab4f73e31ae59ad57d7f6d5c9c8e188d0ecfd8d0635cc8cb77",
+    "item": {
+      "title": "[$] Topics from the virtual filesystem layer",
+      "description": "In the first filesystem-track session at the 2025 Linux Storage,\nFilesystem, Memory Management, and BPF Summit (LSFMM+BPF), virtual\nfilesystem (VFS) layer co-maintainer Christian Brauner had a few different\ntopics he wanted to talk about.  Issues on the agenda\nincluded iterating through anonymous mount namespaces, a needed feature\nfor ID-mapped mounts, the perennial unprivileged mounts topic, potentially\nusing hazard pointers for file reference counting, and Rust bindings.  He\ndid not expect to get through all of them in the 30 minutes allotted, but\nthe session did move along pretty quickly to at least\nintroduce them to the assembled filesystem developers.",
+      "links": [
+        "https://lwn.net/Articles/1017128/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-04-16T00:01:10Z"
+    }
+  },
+  {
+    "hash": "568564f1cb3e2aa632ade347e236cdfb95be6b165aeedd41f898b409258e56ad",
+    "item": {
+      "title": "MITRE Warns CVE Program Faces Disruption (Security Week)",
+      "description": "Security Week is one of several outlets \u003ca\nhref=\"https://www.securityweek.com/mitre-signals-potential-cve-program-deterioration-as-us-gov-funding-expires/\"\u003ereporting\u003c/a\u003e\nthat the funding for the CVE program at MITRE disappears as of\nApril\u0026#160;16.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tMaintained by MITRE Corporation, a not-for-profit organization that\n\toperates federal R\u0026amp;D centers, the CVE program is funded through\n\tmultiple channels, including the U.S. government, industry\n\tpartnerships, and international organizations. \n\t\u003cp\u003e\n\tEarlier this month, in anticipation of the US government funding\n\tcuts, MITRE initiated layoffs that affected more than 400 employees\n\tin its Virginia office. The cuts were ordered after the Trump\n\tadministration announced more than $28 million in canceled\n\tcontracts for the company.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1017565/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-15T21:25:50Z"
+    }
+  },
+  {
+    "hash": "14418f694a12b65ea2c692511b35b5800f91154bbf9131e013379e48a1a2d5a7",
+    "item": {
+      "title": "Autism rate rises slightly; RFK Jr. claims he’ll “have answers by September“",
+      "description": "The slight rise is due to better access to tests in underserved communities.",
+      "links": [
+        "https://arstechnica.com/health/2025/04/autism-rate-rises-from-2-76-to-3-22-likely-due-to-better-testing-access/"
+      ],
+      "categories": [
+        "Health",
+        "autism",
+        "CDC",
+        "robert f kennedy jr",
+        "testing"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1207345889-1152x648.jpg"
+      },
+      "published": "2025-04-15T22:09:05Z"
+    }
+  },
+  {
+    "hash": "d78377bc22e199352c3557bb0d2f36f1ec384df668fd10912e640238bd33a755",
+    "item": {
+      "title": "GNOME's Help Browser Affected By A Serious Security Issue For Arbitrary File Reads",
+      "description": "The GNOME Help Browser \"Yelp\" for viewing HTML / man page / DocBook and other documentation formats from the GNOME desktop is subject to a yet-to-be-patched-upstream security vulnerability that is now public and can allow for arbitrary file reads and could be funneled through your web browser...",
+      "links": [
+        "https://www.phoronix.com/news/GNOME-Yelp-Security-Issue-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-16T00:36:57Z"
+    }
+  },
+  {
+    "hash": "724a3000f03bb225c7616c1ec26981675fcf3d52d51ba6c05fa157ef92054654",
+    "item": {
+      "title": "How dairy robots are changing work for cows and farmers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43699188\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/lely-dairy-robots"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T22:26:35Z"
+    }
+  },
+  {
+    "hash": "018b24db7ca5c81298b82ec14f8027e5e4e05a8e633c3215fa7856dba83c0794",
+    "item": {
+      "title": "Cursor IDE support hallucinates lockout policy, causes user cancellations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43683012\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-14T16:24:28Z"
+    }
+  },
+  {
+    "hash": "82240bab1689dc50fab5dbdc1d10705d5e0670bdaf8b0d121af4f4140c79e8bf",
+    "item": {
+      "title": "A flowing WebGL gradient, deconstructed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43663290\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alexharri.com/blog/webgl-gradients"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-12T10:54:53Z"
+    }
+  },
+  {
+    "hash": "88f8ef27d6b9f83dc9c26bd7dcd4d927fbc770f256f5a8c70c721520d1003099",
+    "item": {
+      "title": "OpenAI is building a social network?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43694877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theverge.com/openai/648130/openai-social-network-x-competitor"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T16:08:29Z"
+    }
+  },
+  {
+    "hash": "c81f8e618f8079de4e0058b549a7f12e4d05baa9103933779b7d172b90b9ba12",
+    "item": {
+      "title": "Show HN: Torque – A lightweight meta-assembler for any processor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43698801\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://benbridle.com/projects/torque.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T21:46:45Z"
+    }
+  },
+  {
+    "hash": "cd00adcb989294e6fb658d1e2b349e176487e42a82b385492a911a5c2977cb51",
+    "item": {
+      "title": "Mark Zuckerberg's failed negotiations with the FTC to end Meta's antitrust case",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43699816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/us-news/law/mark-zuckerberg-meta-antitrust-ftc-negotiations-a53b3382"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T23:51:33Z"
+    }
+  },
+  {
+    "hash": "be23960e700efe9c1d7a1fd3822cef140110d3a409ed244755c4214302354da9",
+    "item": {
+      "title": "What does it mean for a technology to follow Wright's Law?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43662462\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ourworldindata.org/learning-curve"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-12T08:20:25Z"
+    }
+  },
+  {
+    "hash": "baef531003f5c0a088fffa207e2991cad9b2ba5ecb1fa874ddf45c81481855a4",
+    "item": {
+      "title": "Liquid: Language models are scalable and unified multi-modal generators",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43697532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://foundationvision.github.io/Liquid/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T19:46:14Z"
+    }
+  },
+  {
+    "hash": "b31f3854a84c611458643df00dc722a8707539fdd0e8277d4ee73a950d6b3c7b",
+    "item": {
+      "title": "Chroma: Ubisoft's internal tool used to simulate color-blindness",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43692089\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ubisoft/Chroma"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T13:04:26Z"
+    }
+  },
+  {
+    "hash": "da1b6be78d4f987022af56fe840e0361c42f0745d1df489a1854df13f3875007",
+    "item": {
+      "title": "Fun ways of deciding authorship order (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43695285\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T16:37:47Z"
+    }
+  },
+  {
+    "hash": "253ceeaa66575c9757da05ad3a3c97d8f30929497114a89eeb7be368b091c7bb",
+    "item": {
+      "title": "Show HN: Particle - News, Organized",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43698590\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apps.apple.com/us/app/particle-news/id6683283775"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-15T21:26:44Z"
+    }
+  }
+]
