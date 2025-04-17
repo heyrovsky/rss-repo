@@ -325,5 +325,156 @@
       ],
       "published": "2025-04-17T00:22:19Z"
     }
+  },
+  {
+    "hash": "cd60297214dc8ba970957fd7c93cf6f81bac84c62aecb7a596970e371d8392d7",
+    "item": {
+      "title": "New Windows Task Scheduler Bugs Let Attackers Bypass UAC and Tamper with Logs",
+      "description": "Cybersecurity researchers have detailed four different vulnerabilities in a core component of the Windows task scheduling service that could be exploited by local attackers to achieve privilege escalation and erase logs to cover up evidence of malicious activities.\nThe issues have been uncovered in a binary named \"schtasks.exe,\" which enables an administrator to create, delete, query, change,",
+      "links": [
+        "https://thehackernews.com/2025/04/experts-uncover-four-new-privilege.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8AUniRDkx_hmhlRLXM90BvM7qjdCTYaSdXMMyLOhx933X44BxGL5q0dxAt_dN05OgR45gasinWyg_7BqamqQU_UmGNF8gzj7CvxW77b8yxxnIUjbcZe7HfBLE2nlMWonF4RsG7l-Az7mOjjycJBHp-cLJi8Axm6NWF2UzLIrG_h7GG_EugerUE-TSfEJY/s1600/1000101087.jpg"
+      },
+      "published": "2025-04-16T16:18:00Z"
+    }
+  },
+  {
+    "hash": "b5e788fe5e98d4dc58e01a3eb7fb858989bb5053b5b8b825d868b7d596d4d15b",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for April 17, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1017012/\"\u003eFront\u003c/a\u003e: APT 3.0; Fedora 42; Lots more LSFMM+BPF coverage.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1017014/\"\u003eBriefs\u003c/a\u003e: CVE funding; Yelp vulnerability; Fedora 42; Manjaro 25.0; GCC 15; Pinta 3.0; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1017015/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1017012/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-17T01:00:42Z"
+    }
+  },
+  {
+    "hash": "b0930117a5864ec0cf8b7ef000aba95a775626f24e7c891701e7ac975920d71c",
+    "item": {
+      "title": "Intel Continues Exploring Energy Aware Scheduling For Hybrid CPUs Without SMT",
+      "description": "While Intel's Core Ultra 200V \"Lunar Lake\" SoCs with on-package memory has been reported to be a one-off design, besides the integrated memory it was also notable for being a hybrid core design while lacking Hyper Threading (HT / SMT) support. The notion of hybrid P/E core CPUs without SMT looks like it will continue with Intel software engineers still exploring Energy Aware Scheduling (EAS) around such layouts...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-P-State-EAS-Hybrid-Cont"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-17T00:48:42Z"
+    }
+  },
+  {
+    "hash": "d0bf213d25718b8e1c631980e59f64e8d6e4ffdc9363ca41eb54ce5dca2dcb29",
+    "item": {
+      "title": "Zoom outage caused by accidental 'shutting down' of the zoom.us domain",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711957\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://status.zoom.us/incidents/pw9r9vnq5rvk"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T00:55:49Z"
+    }
+  },
+  {
+    "hash": "086811ce3bbae2a06c9b2e8fa112c8beaeddb7484024229097adee202d1ebb47",
+    "item": {
+      "title": "Jellyfin as a Spotify alternative",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711706\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T00:10:51Z"
+    }
+  },
+  {
+    "hash": "cf28413dfd0a87b689f0706f4a8d1d736de437092f631b72198217e6697025a2",
+    "item": {
+      "title": "Concurrency in Haskell: Fast, Simple, Correct",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43679906\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bitbashing.io/haskell-concurrency.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-14T10:47:32Z"
+    }
+  },
+  {
+    "hash": "6b64d77f8e13a2d6b1581f01e55bf8fb0ff6ecac4c738939302a7808c7299a21",
+    "item": {
+      "title": "\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710761\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jsomers.net/vivarium/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-16T21:46:10Z"
+    }
+  },
+  {
+    "hash": "df80d40d46a93d4c9101b894050a26058f01faeac927cbd1dc66cb455fe27817",
+    "item": {
+      "title": "How Nintendo bled Atari games to death",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704596\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-16T12:33:33Z"
+    }
+  },
+  {
+    "hash": "4630f84ae6c29c6f2779bcb0998f5674af78c06a9e441e916c19760cbbdf181a",
+    "item": {
+      "title": "Sony Unveils the Smallest and Lightest Lidar Depth Sensor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43712115\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T01:19:41Z"
+    }
+  },
+  {
+    "hash": "ecb8d1d6aafcae284c95e6fa5d3b27694fcf8e43dccaa00223332fe2a4bac71a",
+    "item": {
+      "title": "Nix Trigonometric Math Library from Ground Zero",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669540\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-13T02:23:48Z"
+    }
+  },
+  {
+    "hash": "d618e219e5e58d69de7c900510ab15f9f265cd631f5bd964a7d0601084471f51",
+    "item": {
+      "title": "US judge finds administration wilfully defied court order in deportation flights",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43712598\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.abc.net.au/news/2025-04-17/judge-in-venezuelan-migrants-case-finds-trump-admin-probably-con/105186022"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T02:44:43Z"
+    }
   }
 ]
