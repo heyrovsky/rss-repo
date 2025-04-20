@@ -716,5 +716,223 @@
       },
       "published": "2025-04-20T08:09:58Z"
     }
+  },
+  {
+    "hash": "60f928ea82e35e28a28fda184cc736a3f50120c4b0ab75603548801c24e0247a",
+    "item": {
+      "title": "Ghost forests are growing as sea levels rise",
+      "description": "As trees choked by saltwater die along low-lying coasts, marshes may move in.",
+      "links": [
+        "https://arstechnica.com/science/2025/04/ghost-forests-are-growing-as-sea-levels-rise/"
+      ],
+      "categories": [
+        "Science",
+        "ghost forest",
+        "rising sea",
+        "sea level rise",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jude Coleman"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-450454937-1152x648.jpg"
+      },
+      "published": "2025-04-20T11:05:08Z"
+    }
+  },
+  {
+    "hash": "fadf64e2b7f0d08df5e4c03a8ab1fdf660a1fcba180a58c549aafc7013aee544",
+    "item": {
+      "title": "Sway 1.11-rc1 Released With Many New Features \u0026 New Wayland Protocols",
+      "description": "Sway 1.11-rc1 is out today as a test release ahead of this next Wayland compositor feature release. Sway 1.11 is bringing a number of new features for this i3-inspired Wayland compositor while also building off the new features laid out in the recent wlroots 0.19-rc1 library...",
+      "links": [
+        "https://www.phoronix.com/news/Sway-1.11-rc1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-20T12:02:30Z"
+    }
+  },
+  {
+    "hash": "d85a88c8a7d68d45d848e9169503a8edd2f77d7772b3854f797424a263c74074",
+    "item": {
+      "title": "FreeType Fixes Inefficient Code Causing 10x Startup Time Hit When Loading Arial TTF Font",
+      "description": "The FreeType library for rendering text onto bitmaps that is widely used by a variety of applications has landed a set of three patches today providing an important performance improvement to address a significant inefficiency within the existing FreeType codebase...",
+      "links": [
+        "https://www.phoronix.com/news/FreeType-Slow-Loading-Arial-TTF"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-20T10:33:03Z"
+    }
+  },
+  {
+    "hash": "80ad5b14cb6877b48460781c3f2cbc8d06141a7690a12c81b5bd5c3ea31dc4ba",
+    "item": {
+      "title": "Linux 6.13 Series Ends With The Linux 6.13.12 Release",
+      "description": "Greg Kroah-Hartman has released a few new Linux kernel stable point releases today for Easter and also capping off the Linux 6.13 kernel cycle in the process...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.13-Ends"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-20T10:19:08Z"
+    }
+  },
+  {
+    "hash": "fae88d65fec8668dbadb9b5943f2a16460b2ada3af5c23dd6ef4ce7e7200b869",
+    "item": {
+      "title": "OpenVPN DCO Driver Queued In Net-Next Ahead Of Linux 6.16",
+      "description": "The long-in-development OpenVPN DCO kernel driver for providing data channel offloading (DCO) to yield faster OpenVPN performance looks like it's now in a state for upstreaming with the Linux 6.16 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/OpenVPN-DCO-In-Net-Next-6.16"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-20T10:00:41Z"
+    }
+  },
+  {
+    "hash": "675dcb505923cdc7b6586b9252cf9cd538a0bc46975fca4d25ca7ecf5277a85a",
+    "item": {
+      "title": "What the hell is an elliptic curve?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43742722\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T09:45:27Z"
+    }
+  },
+  {
+    "hash": "475344fc52cdbf95f0f57c2aee12d3b75f5382d988c4612196fc57d175d9a330",
+    "item": {
+      "title": "Pretty State Machine Patterns in Rust (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43741051\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hoverbear.org/blog/rust-state-machine-pattern/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T02:14:40Z"
+    }
+  },
+  {
+    "hash": "4adaf68225470bc4e60018b66fda348083323b8bb4ad364771f713ac3789fe17",
+    "item": {
+      "title": "Show HN: Lit.money – Ethically designed to be a private, simple way to see money",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43714823\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lit.money/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T10:05:27Z"
+    }
+  },
+  {
+    "hash": "df9001cda155886c9c98d94895b82b8ea55297d82b651317079817df1d46e974",
+    "item": {
+      "title": "Attention Spans for Math and Stories (2019)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43709843\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-16T20:13:16Z"
+    }
+  },
+  {
+    "hash": "19fdf598900664413ae6e51b1fdbb005f69a0348fa1fd81735ffa1f84a5de59b",
+    "item": {
+      "title": "$PEDRO Coin Opens Presale with Ethereum Support and Community Incentives",
+      "description": "\u003cp\u003eA new meme coin project, $PEDRO, has launched its presale on the Ethereum blockchain.The project is centered around a community-driven token and a marketing campaign inspired by a viral internet raccoon character known as “Pedro”. It combines Ethereum-based infrastructure with a range of promotional and referral initiatives designed to build early participation.Presale Access and Participation [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/pedro-coin-opens-presale-with-ethereum-support-and-community-incentives/\"\u003e$PEDRO Coin Opens Presale with Ethereum Support and Community Incentives\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/pedro-coin-opens-presale-with-ethereum-support-and-community-incentives/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$pedro"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/19180832/pedro-coin-opens-presale-with-ethereum-support-and-community-incentives.jpg"
+      },
+      "published": "2025-04-20T12:00:00Z"
+    }
+  },
+  {
+    "hash": "e573d1fec313723ce06500650b05b4a1af610c24a3acfbe9b8b2725863954cd4",
+    "item": {
+      "title": "Bitcoin Price Hovers at $84,752 After Dropping from $85,200: What Traders Should Watch Today",
+      "description": "\u003cp\u003eBitcoin drops below $84,600 as wedge breakdown threatens further losses. Meanwhile, Charles Schwab gears up for spot BTC trading in 2026, signaling growing institutional interest.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-hovers-at-84752-after-dropping-from-85200-what-traders-should-watch-today/\"\u003eBitcoin Price Hovers at $84,752 After Dropping from $85,200: What Traders Should Watch Today\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-hovers-at-84752-after-dropping-from-85200-what-traders-should-watch-today/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/14124115/1728886569-image-30-1.jpg"
+      },
+      "published": "2025-04-20T09:40:44Z"
+    }
+  },
+  {
+    "hash": "9a388768e20016cfa4ca7b2b13fc3c4eabcdbdbc338b8b7c8c181ced0ff4ce3b",
+    "item": {
+      "title": "Abraxas Capital Wallet Acquires Nearly $250M in Bitcoin Ahead of Easter",
+      "description": "\u003cp\u003eA crypto wallet tied to London-based investment firm Abraxas Capital has made headlines after purchasing nearly $250 million worth of Bitcoin in the four days leading up to Easter. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/abraxas-capital-wallet-acquires-nearly-250m-in-bitcoin-ahead-of-easter/\"\u003eAbraxas Capital Wallet Acquires Nearly $250M in Bitcoin Ahead of Easter\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/abraxas-capital-wallet-acquires-nearly-250m-in-bitcoin-ahead-of-easter/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ruholamin Haqshanas"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/20090552/1745139952-image-1745139840121_optimized.jpg"
+      },
+      "published": "2025-04-20T09:16:30Z"
+    }
   }
 ]
