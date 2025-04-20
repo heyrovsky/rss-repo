@@ -130,5 +130,130 @@
       "source": "Hacker News",
       "published": "2025-04-16T16:01:00Z"
     }
+  },
+  {
+    "hash": "5a2ae5a8ab913b4cc3dc7cf003524c85ab666d555e76144d3b1412270c85258d",
+    "item": {
+      "title": "HFS/HFS+ File-System Driver Support For Linux May End Up Being Maintained",
+      "description": "Just a few days ago there was talk of potentially removing the Apple HFS and HFS+ file-system drivers from the Linux kernel considering they had been orphaned for a decade and beginning to cause a maintenance burden. After briefly being marked for deprecation, it now looks like the drivers may be maintained with new maintainers alleging to step-up to the role...",
+      "links": [
+        "https://www.phoronix.com/news/Apple-HFS-2025-Linux-Maintain"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-20T00:48:09Z"
+    }
+  },
+  {
+    "hash": "76cf21411ce05104ab9cb290541a903e86335f4ef83c3979558912d81e49db93",
+    "item": {
+      "title": "100 Years to Solve an Integral (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43741273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T03:16:42Z"
+    }
+  },
+  {
+    "hash": "fcb2b56f3911cdaf3274e68a3aa418205aae228d5907e16e7bfcb4b48bc3940c",
+    "item": {
+      "title": "Novel color via stimulation of individual photoreceptors at population scale",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43741013\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/doi/10.1126/sciadv.adu1052"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T02:03:09Z"
+    }
+  },
+  {
+    "hash": "b5651eece263c686266f3244728e4e1bce778568e9304fdc01975701b782e203",
+    "item": {
+      "title": "Welcome to the Era of Experience [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43740858\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T01:28:41Z"
+    }
+  },
+  {
+    "hash": "d1253ed2a546c63e1a832385cda4151b2bf480c20018f14de8cbe5797a3d353d",
+    "item": {
+      "title": "Calypsi: A series of C compiler and assembly language cross compiler tool chains",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710912\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/hth313/Calypsi-tool-chains"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-16T22:08:33Z"
+    }
+  },
+  {
+    "hash": "24076ae41e2d699c8cb9c89aa9c6e299c1cdf8f9402c1325eb18ea0c9febc845",
+    "item": {
+      "title": "The Icelandic Voting System (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43738675\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://smarimccarthy.is/posts/2024-11-25-voting-system/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T19:10:07Z"
+    }
+  },
+  {
+    "hash": "47d766676ba8edfb4e7375d144e94a131170a0ea6869375e928d9c0c0a5db4aa",
+    "item": {
+      "title": "British rebellion against Roman legions caused by drought, research finds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43722816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/uk-news/2025/apr/17/british-rebellion-against-roman-legions-caused-by-drought-research-finds"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T22:17:06Z"
+    }
+  },
+  {
+    "hash": "d3fc568e2ff91bfb7d0eba1e72c0bb6843f8620eb7c7993b5e032aa59339cbf1",
+    "item": {
+      "title": "Everyone knows your location, Part 2: try it yourself and share the results",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43716704\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T13:41:27Z"
+    }
+  },
+  {
+    "hash": "2981c22800a402745043b3ff5b62d28d4d7fa8bd74307d8a29a6b524d2291e63",
+    "item": {
+      "title": "Don't force your kids to do math",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43738195\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T18:08:42Z"
+    }
+  },
+  {
+    "hash": "b505e3e19503de625c9cfce15694924fec82fc5254cdb2ca47a6dd58964c5a71",
+    "item": {
+      "title": "An image of the Australian desert illuminates satellite pollution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43737469\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T16:32:19Z"
+    }
   }
 ]
