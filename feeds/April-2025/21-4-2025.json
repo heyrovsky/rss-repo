@@ -1,0 +1,193 @@
+[
+  {
+    "hash": "b6ec71acf5fc33b41df24b25056e165562064ba0ad88034278ad4d184c074979",
+    "item": {
+      "title": "Kernel prepatch 6.15-rc3",
+      "description": "The \u003ca href=\"https://lwn.net/Articles/1018192/\"\u003e6.15-rc3\u003c/a\u003e kernel prepatch is out for\ntesting.  \"\u003cq\u003eThere's absolutely nothing of huge note here as far as I can\ntell.  Just a fair number of small fixes all over the place\u003c/q\u003e\".",
+      "links": [
+        "https://lwn.net/Articles/1018193/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-20T23:27:49Z"
+    }
+  },
+  {
+    "hash": "50cb0918eb09c0035ea51bfface0ea690be8080071a994bdab849257d43921e9",
+    "item": {
+      "title": "Linux 6.15-rc3 Released With GCC 15 Build Fixes, Intel Bartlett Lake \u0026 Zen 5 Check",
+      "description": "Easter doesn't get in the way of Linus Torvalds' weekly kernel release regiment: Linux 6.15-rc3 is now available for testing the latest kernel fixes ahead of the stable Linux 6.15 kernel release coming around the end of May...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-rc3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-20T21:05:13Z"
+    }
+  },
+  {
+    "hash": "85f5a3473783707b245ccb0698d746683db469ae80b8cbbf45bf975a59b40dd2",
+    "item": {
+      "title": "Crows can recognize geometric regularity",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43717251\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-04-crows-geometric-regularity.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-17T14:20:13Z"
+    }
+  },
+  {
+    "hash": "8af7229f5b971f6901668cc4bf2fdae58394151c1ae3159e9ddae7755f8dbbe6",
+    "item": {
+      "title": "Decomposing Transactional Systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746461\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://transactional.blog/blog/2025-decomposing-transactional-systems"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T20:54:56Z"
+    }
+  },
+  {
+    "hash": "68fc4c59e470a888f27a397e9ec838989c6d60772800f85eefb0fae8c3008514",
+    "item": {
+      "title": "Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746017\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.well-typed.com/blog/2023/04/falsify/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T19:41:29Z"
+    }
+  },
+  {
+    "hash": "f0e3c94731fefda4c3b7451896ffdbf7d2e7e8c7e18470f4ce0dcdacbbdf010e",
+    "item": {
+      "title": "TikZJax: Embedding LaTeX Drawings in HTML",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746831\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tikzjax.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T22:04:22Z"
+    }
+  },
+  {
+    "hash": "eb400a464d224a3f650361de60a45331f2213461f3f65d45a59625371723332d",
+    "item": {
+      "title": "Demystifying decorators: They don't need to be cryptic",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thepythoncodingstack.com/p/demystifying-python-decorators"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T21:07:03Z"
+    }
+  },
+  {
+    "hash": "d2e86416b74052bc86dda89940bc67edf4d66edfb7d9bd7d830865f3b0c13d4b",
+    "item": {
+      "title": "The appeal of serving your web pages with a single process",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43725516\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-18T06:19:06Z"
+    }
+  },
+  {
+    "hash": "702cd47b80371dbd326c3bd0d7471d10c3fd4b9f59090e2bbad481acec3c952e",
+    "item": {
+      "title": "Better Error Handling",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://meowbark.dev/Better-error-handling"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T20:13:19Z"
+    }
+  },
+  {
+    "hash": "ee0779a200a48b90a01f6d80bfc70b07c40a60f1a1f2fbba06c2b1c248675acc",
+    "item": {
+      "title": "Efficient E-Matching for Super Optimizers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43734485\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.vortan.dev/ematching/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T05:47:54Z"
+    }
+  },
+  {
+    "hash": "c65e8b968abb82e245fc90e7ab8e1bcc45d938ef6b55716e3cfb886b43ba55ae",
+    "item": {
+      "title": "Show HN: JuryNow – Get an anonymous instant verdict from 12 real people",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43745554\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jurynow.app/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T18:32:29Z"
+    }
+  },
+  {
+    "hash": "e8e02a2a6287c0c5560e77e23d0f6c9aaf512ced6cc03c6d7d59e78af91499a2",
+    "item": {
+      "title": "How encryption for Cinema Movies works",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43745281\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://serverless.industries/2024/05/31/digital-cinema.en.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T17:52:50Z"
+    }
+  },
+  {
+    "hash": "4dd5026e38ae9ddae6800dbc8e0c82b922d712f090dfb1812463746b031121bd",
+    "item": {
+      "title": "Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43745776\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://420.headset.io"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T19:03:45Z"
+    }
+  },
+  {
+    "hash": "85833e0ce228adfd571f80c0a9f8a3a0f643c6e636b307398f0cda53dbfcffb7",
+    "item": {
+      "title": "Brazilian Police Seize $45,000 Worth of Crypto in ‘Protection Racket’ Raid",
+      "description": "\u003cp\u003eBrazilian police have confiscated cryptoassets worth $45,000 in a major raid of a protection racket ring that appears to have targeted businesspeople in the south of the country.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/brazilian-police-seize-45000-worth-of-crypto-in-protection-racket-raid/\"\u003eBrazilian Police Seize $45,000 Worth of Crypto in ‘Protection Racket’ Raid\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/brazilian-police-seize-45000-worth-of-crypto-in-protection-racket-raid/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Brazil"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/20125718/1745153838-image-1745153266777_optimized.jpg"
+      },
+      "published": "2025-04-20T23:30:00Z"
+    }
+  }
+]
