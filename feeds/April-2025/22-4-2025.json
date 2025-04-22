@@ -2233,5 +2233,727 @@
       },
       "published": "2025-04-22T10:57:11Z"
     }
+  },
+  {
+    "hash": "130ad1a20375f8f8c56c644bda1c647fb510bd4bfa6280706e4e1f46b0a0de49",
+    "item": {
+      "title": "Security updates for Tuesday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (java-1.8.0-openjdk, kernel, libxslt, mod_auth_openidc:2.3, and webkit2gtk3), \u003cb\u003eFedora\u003c/b\u003e (c-ares, giflib, jupyterlab, perl, perl-Devel-Cover, perl-PAR-Packer, prometheus-podman-exporter, python-notebook, python-pydantic-core, rpki-client, ruby, rust-adblock, rust-cookie_store, rust-gitui, rust-gstreamer, rust-icu_collections, rust-icu_locid, rust-icu_locid_transform, rust-icu_locid_transform_data, rust-icu_normalizer, rust-icu_normalizer_data, rust-icu_properties, rust-icu_properties_data, rust-icu_provider, rust-icu_provider_macros, rust-idna, rust-idna_adapter, rust-litemap, rust-ron, rust-sequoia-openpgp, rust-sequoia-openpgp1, rust-tinystr, rust-url, rust-utf16_iter, rust-version-ranges, rust-write16, rust-writeable, rust-zerovec, rust-zip, thunderbird, and uv), \u003cb\u003eSUSE\u003c/b\u003e (erlang, erlang26, and govulncheck-vulndb), and \u003cb\u003eUbuntu\u003c/b\u003e (mosquitto).",
+      "links": [
+        "https://lwn.net/Articles/1018444/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-22T13:20:19Z"
+    }
+  },
+  {
+    "hash": "7a2d9844e330b05732ad2c4c969d8cb6031a801e502bfee0e69882f22c5fa8dd",
+    "item": {
+      "title": "FTC sues Uber over difficulty of canceling subscriptions, “false” claims",
+      "description": "It's the latest legal move against Big Tech by the Trump administration.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/ftc-sues-uber-over-difficulty-of-canceling-subscriptions-false-claims/"
+      ],
+      "categories": [
+        "Policy",
+        "FTC",
+        "syndication",
+        "Uber"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Rafe Uddin and Stefania Palma, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/getty-uber-app-icon-1152x648.jpg"
+      },
+      "published": "2025-04-22T13:23:32Z"
+    }
+  },
+  {
+    "hash": "9ac16e0435d213dcbb2250591552c3fdf7b0633dcdae23ea28f34daa8b7da726",
+    "item": {
+      "title": "2025 Chevrolet Blazer EV SS first drive: A big ride and handling upgrade",
+      "description": "It's not a track car, but we drove it on a track. ",
+      "links": [
+        "https://arstechnica.com/cars/2025/04/2025-chevrolet-blazer-ev-ss-first-drive-a-big-ride-and-handling-upgrade/"
+      ],
+      "categories": [
+        "Cars",
+        "car review",
+        "Chevrolet Blazer EV SS",
+        "First drive"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/2025-Chevrolet-Blazer-EV-SS-01-1152x648-1745263942.jpg"
+      },
+      "published": "2025-04-22T13:00:02Z"
+    }
+  },
+  {
+    "hash": "de9317aeacdb8c794f59b109c2fb17d05ad797fe8ffa303e01e8d06cba71a9be",
+    "item": {
+      "title": "Tuesday Telescope: A rare glimpse of one of the smallest known moons",
+      "description": "I'll bet you don't spend a ton of time thinking about Deimos.",
+      "links": [
+        "https://arstechnica.com/space/2025/04/tuesday-telescope-hera-today-gone-to-deimos/"
+      ],
+      "categories": [
+        "Space",
+        "daily telescope",
+        "deimos",
+        "space",
+        "tuesday telescope"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/77971-960x648.png"
+      },
+      "published": "2025-04-22T12:00:31Z"
+    }
+  },
+  {
+    "hash": "19d8d41c3fbdf2e911d60dc621d8ed0931022829dd6e0fe98f6b415320d51317",
+    "item": {
+      "title": "GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages",
+      "description": "Cybersecurity researchers have detailed a now-patched vulnerability in Google Cloud Platform (GCP) that could have enabled an attacker to elevate their privileges in the Cloud Composer workflow orchestration service that's based on Apache Airflow.\n\"This vulnerability lets attackers with edit permissions in Cloud Composer to escalate their access to the default Cloud Build service account, which",
+      "links": [
+        "https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLtmF7171FSylSNlTW3Um2CO9i9YEB53VEICr-B3GDvpr7BVZvz4OZBtpzQorEViSSBKIHQuJF-olB81d_5GuXBAujUXy5rhpbazW-r7JSA_enH_rC1-AWp603FzExYkA245zeyx2ausSAs19pDbe116tOWbg7DZ0uUWxIxuChPuU6MxFRVfN_kKS9DXd5/s1600/google.gif"
+      },
+      "published": "2025-04-22T14:06:00Z"
+    }
+  },
+  {
+    "hash": "6023cf45a5ee31e23808c39b70e6100ba0482b2208569d1e73a7e779e9d5d4d4",
+    "item": {
+      "title": "Cryptocurrency Dominates in South Korea Market, Surpasses Stock Market",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-trading-surpasses-stocks-in-S-korea.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cryptocurrency Dominates in South Korea Market, Surpasses Stock Market\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-trading-surpasses-stocks-in-S-korea.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-trading-surpasses-stocks-in-S-korea-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-trading-surpasses-stocks-in-S-korea-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe market capitalization of cryptocurrency in South Korea has exceeded 100 trillion won or $74.8 billion. With these numbers, the daily transaction volumes of crypto have now surpassed the nation’s stock markets.  Due to this, everyone in the nation is concerned about excessive speculative trading, as a report suggests that",
+      "links": [
+        "https://thenewscrypto.com/cryptocurrency-dominates-in-south-korea-market-surpasses-stock-market/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Cryptocurrecncy",
+        "MiCA",
+        "South Korea"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-trading-surpasses-stocks-in-S-korea.jpg"
+      },
+      "published": "2025-04-22T11:18:32Z"
+    }
+  },
+  {
+    "hash": "bde9fe369e0cae9ef7990ebe5a03d032be73994b8ce82b70f58e9eaa81df29c3",
+    "item": {
+      "title": "Billionaire Investor Says the ‘Shiba Inu of This Cycle’ Will Create a Never Seen Number of New Crypto Millionaires",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-13.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Billionaire Investor Says the ‘Shiba Inu of This Cycle’ Will Create a Never Seen Number of New Crypto Millionaires\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-13.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-13-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eIn 2021, Shiba Inu (SHIB) became one of the best financial assets available worldwide. With its price growing by an amazing 45,000% in just a few months, what started as a meme soon developed into a movement. The coin’s rise wasn’t driven by utility or technical innovation but by sheer",
+      "links": [
+        "https://thenewscrypto.com/billionaire-investor-says-the-shiba-inu-of-this-cycle-will-create-a-never-seen-number-of-new-crypto-millionaires/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Rexas Finance (RXS)",
+        "Shiba Inu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-13.jpg"
+      },
+      "published": "2025-04-22T11:00:00Z"
+    }
+  },
+  {
+    "hash": "a651a366c8b5784399d5dbe4570bb572765c7cf87de22931753c136d0299e245",
+    "item": {
+      "title": "Spot Bitcoin ETFs Record Highest Daily Inflow Since January",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/US_Bitcoin_ETFs_clock_biggest_inflows_since_January_as_crypto_markets.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Spot Bitcoin ETFs Record Highest Daily Inflow Since January\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/US_Bitcoin_ETFs_clock_biggest_inflows_since_January_as_crypto_markets.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/US_Bitcoin_ETFs_clock_biggest_inflows_since_January_as_crypto_markets-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/US_Bitcoin_ETFs_clock_biggest_inflows_since_January_as_crypto_markets-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eU.S.-listed spot Bitcoin ETFs just had their best day in nearly three months. On April 21, these funds attracted a whopping $381.40 million in new money, the highest daily total since late January.  data from SoSoValue revealed ARK 21Shares Bitcoin ETF (ARKB) led the charge with $116.13 million inflows, followed",
+      "links": [
+        "https://thenewscrypto.com/spot-bitcoin-etfs-record-highest-daily-inflow-since-january/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "Bitcoin ETF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/US_Bitcoin_ETFs_clock_biggest_inflows_since_January_as_crypto_markets.jpg"
+      },
+      "published": "2025-04-22T10:32:45Z"
+    }
+  },
+  {
+    "hash": "f2850780828f6566908c3887d14c71e35c6f7ec85fa944a08086d5a935654d9e",
+    "item": {
+      "title": "Ethereum Observes a Breakout as Bearish Trend Extends: Can Bulls Step In?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Markets-2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Observes a Breakout as Bearish Trend Extends: Can Bulls Step In?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Markets-2-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Markets-2-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Markets-2-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDuring Asian trading hours, Ethereum opened the market with a price value of $1,576.53. At the timeframe, Ethereum has been recording a downward trend before experiencing a slight increase, as the price now sits at $1,625.79.\u0026#160; Ethereum, the second largest digital asset by market capitalization has broken out of its",
+      "links": [
+        "https://thenewscrypto.com/ethereum-observes-a-breakout-as-bearish-trend-extends-can-bulls-step-in/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "ETH",
+        "ETHEREUM",
+        "Ethereum (ETH)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Ethereum-Markets-2-1.jpg"
+      },
+      "published": "2025-04-22T10:16:34Z"
+    }
+  },
+  {
+    "hash": "bc0e2690a7443b90940c20533f7223abfc9198317230b1ae8fa73be492682c15",
+    "item": {
+      "title": "Enjin Coin (ENJ) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/01/Enj-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Enjin Coin (ENJ) Price Prediction 2023, 2024, 2025-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/01/Enj-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/01/Enj-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/01/Enj-1-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/01/Enj-1-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Enjin Coin (ENJ) price prediction 2025, 2026-2030,  we will analyze the price patterns of ENJ by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Enjin Coin (ENJ) Current Market Status What is Enjin Coin (ENJ)? Enjin Coin (ENJ)",
+      "links": [
+        "https://thenewscrypto.com/enjin-coin-enj-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "ENJ",
+        "Enjin Coin",
+        "Enjin Price Prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/01/Enj-1.jpg"
+      },
+      "published": "2025-04-22T10:11:55Z"
+    }
+  },
+  {
+    "hash": "b71a2fb77a660da259b987745f0e5a4a052b3d13e7bc592bfd0e0af368f56c86",
+    "item": {
+      "title": "Investors Remain Cautious of Dogecoin (DOGE) and Cardano (ADA) While Pouring Into This $0.20 Token",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-25.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Investors Remain Cautious of Dogecoin (DOGE) and Cardano (ADA) While Pouring Into This $0.20 Token\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-25.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-25-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eInvestors are expressing increasing excitement for a younger competitor, Rexas Finance (RXS), presently valued at $0.20, as the cryptocurrency market changes. They are also cautious toward established competitors like Dogecoin (DOGE) and Cardano (ADA). This change in attitude draws attention to a more general trend whereby market players seek creative",
+      "links": [
+        "https://thenewscrypto.com/investors-remain-cautious-of-dogecoin-doge-and-cardano-ada-while-pouring-into-this-0-20-token/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Dogecoin",
+        "Rexas Finance"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-25.jpg"
+      },
+      "published": "2025-04-22T10:06:26Z"
+    }
+  },
+  {
+    "hash": "663e6ff953e02b068ed480d482c513d8b265dac8556bcd76f3896e9cbf7bc847",
+    "item": {
+      "title": "Sui (SUI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sui (SUI) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Sui (SUI) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of SUI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sui (SUI) Current Market Status What is Sui (SUI)? Sui (SUI) 24H Technicals SUI (SUI)",
+      "links": [
+        "https://thenewscrypto.com/sui-sui-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "SUI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg"
+      },
+      "published": "2025-04-22T10:02:24Z"
+    }
+  },
+  {
+    "hash": "b43abcc954ffbbb5500ef865217a2cd76e3d683452682eae9db19bae1d0cc1a3",
+    "item": {
+      "title": "POL (Prev. MATIC) Jumps 12%, Will Buyers Keep the Heat On?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/POL-Prev.-MATIC-Jumps-12-Will-Buyers-Keep-the-Heat-On.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"POL (Prev. MATIC) Jumps 12%, Will Buyers Keep the Heat On?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/POL-Prev.-MATIC-Jumps-12-Will-Buyers-Keep-the-Heat-On.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/POL-Prev.-MATIC-Jumps-12-Will-Buyers-Keep-the-Heat-On-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/POL-Prev.-MATIC-Jumps-12-Will-Buyers-Keep-the-Heat-On-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market is attempting a recovery, with the market cap having reached $2.75 trillion. Leading cryptocurrencies, Bitcoin and Ethereum, are hovering within the previous range. Meanwhile, POL (prev. MATIC) has drawn attention by securing a spot on the top gainers list, jumping by over 12.15%. POL opened the trading",
+      "links": [
+        "https://thenewscrypto.com/pol-prev-matic-jumps-12-will-buyers-keep-the-heat-on/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "MATIC",
+        "POL"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/POL-Prev.-MATIC-Jumps-12-Will-Buyers-Keep-the-Heat-On.jpg"
+      },
+      "published": "2025-04-22T09:42:13Z"
+    }
+  },
+  {
+    "hash": "d25068866c3537e77159d7bc094a25ff01d39740f3fdc7a8a6bc9f2be4505d07",
+    "item": {
+      "title": "Fartcoin Surpasses $1 Mark as Whales Accumulate 6.25M Tokens",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Whales-bought-Fartcoin.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Fartcoin Surpasses $1 Mark as Whales Accumulate 6.25M Tokens\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Whales-bought-Fartcoin.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Whales-bought-Fartcoin-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Whales-bought-Fartcoin-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFartcoin has been making rounds across crypto media for the past few weeks with its exceptional market performance. The memecoin has a huge following in the crypto community and marks significant price surges every now and then irrespective of the crypto market conditions.\u0026#160; In the last 24 hours, several whales",
+      "links": [
+        "https://thenewscrypto.com/fartcoin-surpasses-1-mark-as-whales-accumulate-6-25m-tokens/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "FARTCOIN",
+        "price surge",
+        "Whale Alert"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Whales-bought-Fartcoin.jpg"
+      },
+      "published": "2025-04-22T09:33:57Z"
+    }
+  },
+  {
+    "hash": "56960b988560ea3d058e2e94d16c2f5286bd08de9cdeece79c9b64c7a93dbf08",
+    "item": {
+      "title": "Whale.io Accelerates into Battlepass Season 2 with Double Lamborghinis and Epic Rewards",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-22_10-34-28_1745307351aHqVHGCZ25.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-22_10-34-28_1745307351aHqVHGCZ25.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-22_10-34-28_1745307351aHqVHGCZ25-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-22_10-34-28_1745307351aHqVHGCZ25-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-22_10-34-28_1745307351aHqVHGCZ25-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eWillemstad, Curacao, 22nd April 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/whale-io-accelerates-into-battlepass-season-2-with-double-lamborghinis-and-epic-rewards/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-22_10-34-28_1745307351aHqVHGCZ25.jpg"
+      },
+      "published": "2025-04-22T09:00:05Z"
+    }
+  },
+  {
+    "hash": "f04968c8f1264eb391532590687f447f0c834b8f83cbc55146ba7aa2c96e0bbf",
+    "item": {
+      "title": "Intel Core Ultra 9 285K \"Arrow Lake\" Performance On Linux Has Improved A Lot Since Launch",
+      "description": "Today's Linux benchmarking at Phoronix is looking at how the Intel Core Ultra 9 285K performance has evolved since its launch last October. Taking the launch-day benchmarks from October with the same hardware, we are revisiting the Intel Arrow Lake performance under Linux today using the newest system BIOS and the newly-released Ubuntu 25.04 for seeing how the performance has evolved roughly over the past half-year.",
+      "links": [
+        "https://www.phoronix.com/review/intel-arrow-lake-ubuntu-2504"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-22T14:00:00Z"
+    }
+  },
+  {
+    "hash": "032d813afd50acc2a3e6295df040be81059694f046187d5a69304b2b4edcd2d4",
+    "item": {
+      "title": "GCC Compiler Adds Targeting Support For XuanTie RISC-V CPUs",
+      "description": "One of the early features being merged for what will become the GCC 16 compiler following last week's GCC 15 code branching is CPU targeting support for the XuanTie RISC-V processors...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-XuanTie-RISC-V-CPUs"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-22T13:41:51Z"
+    }
+  },
+  {
+    "hash": "bfb2f6f1d22a94b53be18b5138c4f6c2dde45d896343b4d5cfaf3493aabfbf84",
+    "item": {
+      "title": "Kmemdump Proposed For The Linux Kernel To Help With Memory Dumping \u0026 Debugging",
+      "description": "Eugen Hristev of Linaro sent out a \"request for comments\" patch series today proposing kmemdump for the Linux kernel as a new means to assist in debugging driver/system problems by making it easier to dump memory for specific areas/regions...",
+      "links": [
+        "https://www.phoronix.com/news/kmemdump"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-22T12:28:19Z"
+    }
+  },
+  {
+    "hash": "8c5885437f128d7f783f3e1bd37f507066d14889c371468168a83268b9408651",
+    "item": {
+      "title": "Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43761998\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hey.earth/posts/duckdb-doom"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T13:35:47Z"
+    }
+  },
+  {
+    "hash": "ed93c8fcdaa903cb13ae62841e813d4f34d32dafdac906b9868271813e0269ba",
+    "item": {
+      "title": "Using physics simulations to find targeting strategies in tenpin bowling",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43762451\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T14:14:28Z"
+    }
+  },
+  {
+    "hash": "16f4a4a426ab36f28e54ab314f4a7b0daa49166ff32cd974c7ad14c84d35d9f9",
+    "item": {
+      "title": "Join the W3C Exploration Interest Group: where standards start",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43761976\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T13:34:27Z"
+    }
+  },
+  {
+    "hash": "ffb89f0bbe479e0da0a27d60de60fbd5592c8fe9e3e1a60870084b55b97f0ae5",
+    "item": {
+      "title": "Libro: a command-line tool to track your books",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43737916\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/mkaz/libro"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T17:33:05Z"
+    }
+  },
+  {
+    "hash": "e298ca714882a62cab38c7385924628c228310cabb4187944e152e5fd332d990",
+    "item": {
+      "title": "A Real-Time Algorithm for Non-Convex Powered Descent Guidance [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43735960\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/01/AIAA_SciTech_2020.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T12:25:58Z"
+    }
+  },
+  {
+    "hash": "7df43d64afd4d3d341924df0ff5b0cc1b5ef5b4b6757724eb6c33b67f0942346",
+    "item": {
+      "title": "Does RL Incentivize Reasoning in LLMs Beyond the Base Model?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43760625\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://limit-of-rlvr.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T10:24:37Z"
+    }
+  },
+  {
+    "hash": "8905a75784a7a29820ec4128297f4d7d1b3b81e512ad07be8f668ee397cb1be4",
+    "item": {
+      "title": "I Open-Sourced My AI Toy Company That Runs on ESP32 and OpenAI Realtime API",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43762409\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/akdeb/ElatoAI"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T14:10:59Z"
+    }
+  },
+  {
+    "hash": "8229c5146be776dff3e618696a9f8c8c437786cf4c6aac8e7916ff7a3a8dec5b",
+    "item": {
+      "title": "SerenityOS is a love letter to '90s user interfaces",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43760626\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://serenityos.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T10:24:43Z"
+    }
+  },
+  {
+    "hash": "0e4d2e384482549cdae6529582985a047cddffca623e7763be937121407f5de3",
+    "item": {
+      "title": "The many ways tarrifs will hit your electronics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43760262\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/tariffs-electronics-prices"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T09:02:42Z"
+    }
+  },
+  {
+    "hash": "be3c6d8d1810a4e929029a07c29417e292987ba11ae94f7fa8af9183bda9ba5f",
+    "item": {
+      "title": "Pike – a dynamic programming language with a syntax similar to Java and C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43734938\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pike.lysator.liu.se/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T07:59:05Z"
+    }
+  },
+  {
+    "hash": "7f10420d7c72ef4244422b9cffbb68890a616bdd0c288469d76c1313e3dabb2c",
+    "item": {
+      "title": "The Cold Start Problem: Using Network Effects to Scale Your Product – A Review",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43761835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-22T13:24:52Z"
+    }
+  },
+  {
+    "hash": "19d3a5b7d0208cee7f4a69e0ef26eaf60b385dc7cf982e4a7b49e2bdc8c44a3c",
+    "item": {
+      "title": "New P2E Game Fantasy Pepe Raises $200K in 24 Hours – ChatGPT Manages a Football Team and You’re Going to Want In",
+      "description": "\u003cp\u003eFantasy Pepe has introduced an AI‑powered fantasy football league where ChatGPT and DeepSeek manage meme clubs and Grok referees 60‑second matches. Holders predict winners with $FEPE, earn staking yields, collect NFT players, and the presale has raised $200k while moving through 30 price tiers.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/fantasy-pepe-presale-rockets-200k-24-hours/\"\u003eNew P2E Game Fantasy Pepe Raises $200K in 24 Hours – ChatGPT Manages a Football Team and You’re Going to Want In\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/fantasy-pepe-presale-rockets-200k-24-hours/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Meme Coins",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22134817/1745329695-unnamed-1.jpg"
+      },
+      "published": "2025-04-22T14:41:06Z"
+    }
+  },
+  {
+    "hash": "2ef9b48f4ec3fa814425dacd983189e40e85231253cb2bc585549374b79a2c48",
+    "item": {
+      "title": "IOTA Moves to Rebased Protocol in Two Weeks, Its ‘Most Technical’ Upgrade Yet",
+      "description": "\u003cp\u003eLayer-1 blockchain Iota's “largest, most complex, and most important upgrade” to the Rebased Protocol is set for 5 May 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/iota-moves-to-rebased-protocol-in-two-weeks-its-most-technical-upgrade-yet/\"\u003eIOTA Moves to Rebased Protocol in Two Weeks, Its ‘Most Technical’ Upgrade Yet\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/iota-moves-to-rebased-protocol-in-two-weeks-its-most-technical-upgrade-yet/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "IOTA",
+        "Layer 1"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22124824/1745326104-iota-rebased-protocol-upgrade.jpg"
+      },
+      "published": "2025-04-22T14:17:46Z"
+    }
+  },
+  {
+    "hash": "d58457ce050834f6a54d5aeece413a70123d155e60a92d60db7ff66593b4146e",
+    "item": {
+      "title": "Bitcoin ETFs See Biggest Inflows Since January with $381M Boost Over Easter",
+      "description": "\u003cp\u003eU.S.-based Bitcoin ETFs recorded their strongest day of net inflows since late January, as crypto markets showed resilience over the Easter weekend.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-etfs-see-biggest-inflows-since-january-with-381m-boost-over-easter/\"\u003eBitcoin ETFs See Biggest Inflows Since January with $381M Boost Over Easter\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-etfs-see-biggest-inflows-since-january-with-381m-boost-over-easter/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin ETFs",
+        "ETFs",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22120407/1745323447-1741850552-image-1741849602920_optimized.jpg"
+      },
+      "published": "2025-04-22T14:03:22Z"
+    }
+  },
+  {
+    "hash": "c115c96c7e9044d27829e3cc92b8859f24a6b9ac4dadc2a2ca413e4923930022",
+    "item": {
+      "title": "Can Pi Coin Still Hit $100? Expert Reveals How the Team Is Fighting the Sell-Off",
+      "description": "\u003cp\u003ePi Network (PI) is currently down 62.6% and trading 78.7% below its all-time high, as controversy and fraud allegations have triggered a wave of selling pressure.Despite this, a leading crypto expert and longtime supporter of the project believes the team is actively working to regain control and stabilize the token’s price.Dr. Altcoin, a well-followed figure [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/can-pi-coin-still-hit-100-expert-reveals-how-the-team-is-fighting-the-sell-off/\"\u003eCan Pi Coin Still Hit $100? Expert Reveals How the Team Is Fighting the Sell-Off\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/can-pi-coin-still-hit-100-expert-reveals-how-the-team-is-fighting-the-sell-off/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Blockchain",
+        "BTC bull token",
+        "Pi Network"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22115939/1745323178-can-pi-coin-still-hit-100-expert-reveals-how-the-team-is-fighting-the-sell-off.jpg"
+      },
+      "published": "2025-04-22T12:52:53Z"
+    }
+  },
+  {
+    "hash": "110beeff4cca28c1d72f6281071477dfab4865efb98ef3c28dc08bfb75d76811",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is green today\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eMonad Joins Hands with Chainlink Scale\u003c/li\u003e\n\u003cli\u003eCircle Launches Payments Network, Partners with Fireblocks\u003c/li\u003e\n\u003cli\u003eOmni Launches $10M User Program, Incentivized Deposits for SolverNet-Powered Symbiotic\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-04-22T12:25:00Z"
+    }
+  },
+  {
+    "hash": "0e752f5ebf4a0ee358386aed0925f96ef78fa374e77b8c780403c0907a402b3e",
+    "item": {
+      "title": "Will an XRP ETF Send Prices Flying? Incoming SEC Chair Faces 70 Crypto Filings",
+      "description": "\u003cp\u003eThe XRP price has dipped by 1.5% in the past 24 hour, yet the imminent appointment of Paul Atkins as SEC Chair could bring a wave of XRP ETF approvals.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/will-an-xrp-etf-send-prices-flying-incoming-sec-chair-faces-70-crypto-filings/\"\u003eWill an XRP ETF Send Prices Flying? Incoming SEC Chair Faces 70 Crypto Filings\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/will-an-xrp-etf-send-prices-flying-incoming-sec-chair-faces-70-crypto-filings/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Ripple",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22125444/1745326484-will-an-xrp-etf-send-prices-flying-incoming-sec-chair-faces-70-crypto-filings_v2.jpg"
+      },
+      "published": "2025-04-22T12:06:22Z"
+    }
   }
 ]
