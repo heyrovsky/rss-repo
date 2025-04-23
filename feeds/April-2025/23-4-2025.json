@@ -2891,5 +2891,931 @@
       },
       "published": "2025-04-23T12:15:00Z"
     }
+  },
+  {
+    "hash": "82c9e2a963a5c3f18dfe19e1296e85081ed36dd5f18056caf4188df12b072813",
+    "item": {
+      "title": "DPRK Hackers Steal $137M from TRON Users in Single-Day Phishing Attack",
+      "description": "Multiple threat activity clusters with ties to North Korea (aka Democratic People's Republic of Korea or DPRK) have been linked to attacks targeting organizations and individuals in the Web3 and cryptocurrency space.\n\"The focus on Web3 and cryptocurrency appears to be primarily financially motivated due to the heavy sanctions that have been placed on North Korea,\" Google-owned Mandiant said in",
+      "links": [
+        "https://thehackernews.com/2025/04/dprk-hackers-steal-137m-from-tron-users.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRwDyi03mZbpxyWN_NvUwFVZYSrWiEHIkmLVuBADIEKchjh7towT2dNyZhsAx4zJZV1mm-BgMMECLVH4Y6Nwxu1PP0elxYigR2tVXkB9CgkqEK30bistN_gB4gBXpqbeHNkNuYlsh1_1jmn_0x5NSIQhm-A3OBYlL3UPNFE83q9tnPR0H4UnGW-76XhAo1/s1600/tron.jpg"
+      },
+      "published": "2025-04-23T17:09:00Z"
+    }
+  },
+  {
+    "hash": "d615e0379cb1011d7f32a48f98543f2db16d5bb0657accbbf712fee0037c60ed",
+    "item": {
+      "title": "Apple and Meta furious at EU over fines totaling €700 million",
+      "description": "EU fines Apple €500M and Meta €200M in first Digital Markets Act penalties.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/apple-and-meta-furious-at-eu-over-fines-totaling-e700-million/"
+      ],
+      "categories": [
+        "Policy",
+        "apple",
+        "European Commission",
+        "meta"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg"
+      },
+      "published": "2025-04-23T16:53:12Z"
+    }
+  },
+  {
+    "hash": "3da107077d695425dd7d335cf6d7e6386e9103c00738bad93598ae9aed4ad2cb",
+    "item": {
+      "title": "Zuckerberg stifled Instagram because he loves Facebook, Instagram founder says",
+      "description": "Before acquiring Instagram, Mark Zuckerberg swore Facebook had “no agenda.”",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/04/zuckerberg-stifled-instagram-because-he-loves-facebook-instagram-founder-says/"
+      ],
+      "categories": [
+        "Policy",
+        "Antitrust law",
+        "Facebook",
+        "federal trade commission",
+        "FTC",
+        "Instagram",
+        "meta",
+        "meta monopoly trial"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-1322070840-1024x648.jpg"
+      },
+      "published": "2025-04-23T16:14:31Z"
+    }
+  },
+  {
+    "hash": "17884dd2d7e5a78f37658dca3dc7947f63c9d626a06610761554fdb37b85e573",
+    "item": {
+      "title": "Bethesda isn’t shutting down ambitious fan-made “Skyblivion” remaster project",
+      "description": "\"Bethesda has always been supportive of community projects like ours...\"",
+      "links": [
+        "https://arstechnica.com/gaming/2025/04/bethesda-isnt-shutting-down-ambitious-fan-made-skyblivion-remaster-project/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2021-08-12-114128-1152x648.png"
+      },
+      "published": "2025-04-23T15:19:16Z"
+    }
+  },
+  {
+    "hash": "fd69c7a44d95f12744a8a01e0486e85a5df4db257e0dae74e23d3c6a54d28060",
+    "item": {
+      "title": "Republican space officials criticize “mindless” NASA science cuts",
+      "description": "\"Heliophysics is the most unknown—and underrated—part of NASA’s science program.\"",
+      "links": [
+        "https://arstechnica.com/science/2025/04/republican-space-officials-criticize-mindless-nasa-science-cuts/"
+      ],
+      "categories": [
+        "Science",
+        "NASA",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2013/03/the_sun-670x648.jpg"
+      },
+      "published": "2025-04-23T14:55:17Z"
+    }
+  },
+  {
+    "hash": "b0cf25804ce65ab98c7d3c10e17fbea3554fdddb7732fcc08b2c619d37e01b63",
+    "item": {
+      "title": "[$] Addressing UID/GID drift in rpm-ostree and bootc",
+      "description": "\u003cp\u003eThe Fedora Project is looking for solutions to an interesting\nproblem with its image-based editions and spins, such as the \u003ca\nhref=\"https://fedoraproject.org/atomic-desktops/\"\u003eAtomic Desktops\u003c/a\u003e\nor \u003ca href=\"https://fedoraproject.org/coreos/\"\u003eCoreOS\u003c/a\u003e, that are\ncreated with \u003ca\nhref=\"https://coreos.github.io/rpm-ostree/\"\u003erpm-ostree\u003c/a\u003e or \u003ca\nhref=\"https://bootc-dev.github.io/bootc/\"\u003ebootc\u003c/a\u003e. If a package that\nis part of a image-based version has a user or group created\ndynamically on installation, and it owns files installed on the\nsystem, the system may be subject to user ID (UID) and group ID (GID) \"drift\"\non updates. This  \"\u003cspan class=\"nobreak\"\u003eUID/GID drift\u003c/span\u003e\" may come about when a new image with\nupdates is generated, and therefore files may have the wrong\nownership. This can have side-effects ranging from mildly inconvenient to\nserious. No solutions have been adopted just yet, but there are a few\nideas on how to deal with the problem.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1018082/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-23T17:05:31Z"
+    }
+  },
+  {
+    "hash": "9e12b6f13c90bbc4a1523b306761babcbbc03e0e64e9021c227cd35c45832500",
+    "item": {
+      "title": "NLnet announces funding for 42 FOSS projects",
+      "description": "\u003cp\u003eThe \u003ca href=\"https://nlnet.nl/\"\u003eNLnet Foundation\u003c/a\u003e has \u003ca\nhref=\"https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html\"\u003eannounced\u003c/a\u003e\nthe projects that have received funding from its \u003ca\nhref=\"https://nlnet.nl/news/2024/20240601-call.html\"\u003eOctober call\u003c/a\u003e\nfor grant proposals from the \u003ca\nhref=\"https://www.ngi.eu/ngi-projects/ngi-zero-commons-fund/\"\u003eNext\nGeneration Internet (NGI) Zero Commons Fund\u003c/a\u003e.\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nThe selected projects all contribute, one way or another, to the\nmission of the Commons Fund: reclaiming the public nature of the\ninternet. For example, there are people working on interesting open\nhardware projects such as the tablet \u003ca\nhref=\"https://nlnet.nl/project/MNT-Reform-Touch/\"\u003eMNT Reform Touch\u003c/a\u003e\nand the \u003ca href=\"https://nlnet.nl/project/Solar-FemtoTX/\"\u003eSolar\nFemtoTX motherboard\u003c/a\u003e — a collaborative effort to create an\nultra-low power motherboard that can run on solar power. \u003ca\nhref=\"https://nlnet.nl/project/LLM2FPGA/\"\u003eLLM2FPGA\u003c/a\u003e aims to enable\nrunning open source LLMs locally on programmable chips (\"FPGAs\") using\na fully open-source toolchain. \u003ca\nhref=\"https://nlnet.nl/project/bcachefs-crypto-API/\"\u003ebcachefs\u003c/a\u003e\nreadies itself as the next generation filesystem for Linux, improving\nperformance, scalability and reliability when compared to legacy\nfilesystems.\n\u003c/blockquote\u003e\n\n\u003cp\u003eIn all, 42 projects have been selected for the NGI grants which are\nbetween \u0026euro;5,000 and \u0026euro;50,000. See the announcement for the\nfull list of selected projects, and the \u003ca\nhref=\"https://nlnet.nl/project/current.html\"\u003ecurrent projects\u003c/a\u003e page\nfor other recent projects funded by NLnet.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1018621/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-04-23T16:16:54Z"
+    }
+  },
+  {
+    "hash": "82da2dff76f5f87266b3b1d5bcd2ac411f31e8786da3495dffa18d4bbc287f0f",
+    "item": {
+      "title": "Ethena (ENA) Breaks Resistance at $0.35, Is the 18% Rally Eyeing New Highs?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ethena-ENA-Breaks-Resistance-at-0.35-Is-the-18-Rally-Eyeing-New-Highs-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethena (ENA) Breaks Resistance at $0.35, Is the 18% Rally Eyeing New Highs?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Ethena-ENA-Breaks-Resistance-at-0.35-Is-the-18-Rally-Eyeing-New-Highs-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ethena-ENA-Breaks-Resistance-at-0.35-Is-the-18-Rally-Eyeing-New-Highs-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Ethena-ENA-Breaks-Resistance-at-0.35-Is-the-18-Rally-Eyeing-New-Highs-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe reversal of the prolonged downturn in the crypto market has pushed the assets to their former highs. Bitcoin and Ethereum have entered the bullish zone. Aligning with the trend, Ethena (ENA) has rallied over 18.52%. In the early hours, Ethena traded at the bottom range of $0.2987. The bullish",
+      "links": [
+        "https://thenewscrypto.com/ethena-ena-breaks-resistance-at-0-35-is-the-18-rally-eyeing-new-highs/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ENA",
+        "Ethena"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Ethena-ENA-Breaks-Resistance-at-0.35-Is-the-18-Rally-Eyeing-New-Highs-1.jpg"
+      },
+      "published": "2025-04-23T13:57:58Z"
+    }
+  },
+  {
+    "hash": "d011ee52ba6871ac1f6595579b9a216b78c7640303e26069c0d7a0e66d15751b",
+    "item": {
+      "title": "Keycard Launches Pre-Sale for Shell: The Most Open, Modular Hardware Wallet to Date",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp-768x461.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp-1536x922.jpg 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eZug, Switzerland, 23rd April 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/keycard-launches-pre-sale-for-shell-the-most-open-modular-hardware-wallet-to-date/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Keycard_Shell_PR_17453304542tztEBcJQp.jpg"
+      },
+      "published": "2025-04-23T13:12:31Z"
+    }
+  },
+  {
+    "hash": "bf9746c3b41c81e4372338171f1e7b4e266a69c9ac0c529c656cca7395b20be3",
+    "item": {
+      "title": "BC.GAME to Host ‘Untamed Arena’ During TOKEN2049 Dubai, Showcasing Web3 Culture and Influencer Appearances",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW-376x212.jpg 376w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eBelize, Belize, 23rd April 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bc-game-to-host-untamed-arena-during-token2049-dubai-showcasing-web3-culture-and-influencer-appearances/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/dubai_event_1745307601500GE57feW.jpg"
+      },
+      "published": "2025-04-23T13:01:17Z"
+    }
+  },
+  {
+    "hash": "5b1639e98b064e31bea444b65e4e0dd923c0ca421cc28b5edba45dcd8228d472",
+    "item": {
+      "title": "Lattica Emerges from Stealth with Breakthrough FHE Platform for Secure AI in the Cloud",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"1033\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Lattica Emerges from Stealth with Breakthrough FHE Platform for Secure AI in the Cloud\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26-300x194.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26-1024x661.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26-768x496.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26-1536x992.jpg 1536w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eHaving emerged from stealth, Lattica is a platform that is based on FHE and enables the safe and private usage of artificial intelligence in the cloud. In addition to other investors, the firm has received financial backing from the Cyber Fund of Konstantin Lomashuk and Sandeep Nailwal, a co-founder of Polygon",
+      "links": [
+        "https://thenewscrypto.com/lattica-emerges-from-stealth-with-breakthrough-fhe-platform-for-secure-ai-in-the-cloud/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-26.jpg"
+      },
+      "published": "2025-04-23T13:00:00Z"
+    }
+  },
+  {
+    "hash": "1957cd7d72912c6b23b4a18abfc68be9791abfb492693c06fa738132634928c0",
+    "item": {
+      "title": "iExec Launches $1M RLC Ecosystem Fund to Boost AI \u0026 DePIN Innovation",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"721\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"iExec Launches $1M RLC Ecosystem Fund to Boost AI \u0026amp; DePIN Innovation\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-300x180.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-1024x615.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1-768x461.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eiExec, the platform that acts as the trust layer for DePIN and AI, has presented an announcement about a $1M\u0026#160;RLC ecosystem fund that will back\u0026#160;web3 initiatives in many key sectors. There will be a combination of dilutive and non-dilutive investments made in order to provide funding for initiatives that aim",
+      "links": [
+        "https://thenewscrypto.com/iexec-launches-1m-rlc-ecosystem-fund-to-boost-ai-depin-innovation/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/unnamed-1.png"
+      },
+      "published": "2025-04-23T13:00:00Z"
+    }
+  },
+  {
+    "hash": "ebb013bd28cc2d552f3a8891fd689df1cafce4f92720d55c327a21e690007247",
+    "item": {
+      "title": "Bitcoin-Ethereum Rebound Influences Mass Liquidation Over $654.22M in 24H",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/635M_liquidated_in_24H_as_trader_predicts_100K_Bitcoin_short_squeeze.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin-Ethereum Rebound Influences Mass Liquidation Over $654.22M in 24H \" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/635M_liquidated_in_24H_as_trader_predicts_100K_Bitcoin_short_squeeze.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/635M_liquidated_in_24H_as_trader_predicts_100K_Bitcoin_short_squeeze-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/635M_liquidated_in_24H_as_trader_predicts_100K_Bitcoin_short_squeeze-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market saw mass liquidations over the past 24 hours, totaling $654.22 million. Around 172,659 traders were wiped out — mostly from short positions — highlighting growing pressure on bullish sentiment. The largest cryptocurrency, Bitcoin (BTC) liquidated $321.73 million as its price gained more than 6% and went over",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-ethereum-rebound-influences-mass-liquidation-over-654-22m-in-24h/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "ETH",
+        "ETHEREUM",
+        "Liquidation"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/635M_liquidated_in_24H_as_trader_predicts_100K_Bitcoin_short_squeeze.jpg"
+      },
+      "published": "2025-04-23T12:57:41Z"
+    }
+  },
+  {
+    "hash": "78687e34cb25bfe9d240480e2b30b1026b718f059576d1b127a667e5c8701c91",
+    "item": {
+      "title": "Bonk (BONK) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/BONK-PRICE-PREDICTION-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bonk (BONK) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/BONK-PRICE-PREDICTION-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/BONK-PRICE-PREDICTION-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/BONK-PRICE-PREDICTION-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Bonk (BONK) price prediction 2025, 2026-2030, we will analyze the price patterns of BONK by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Bonk (BONK) Current Market Status What is Bonk (BONK)? BONK 24H Technicals BONK (BONK) PRICE",
+      "links": [
+        "https://thenewscrypto.com/bonk-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "BONK",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/BONK-PRICE-PREDICTION-2.jpg"
+      },
+      "published": "2025-04-23T12:38:32Z"
+    }
+  },
+  {
+    "hash": "a2cf6b54de40ea55d18acee9f68a06170b37e33d954de9770f1ac6017144cb0a",
+    "item": {
+      "title": "Binance Updates Crypto Transfer Rules in South Africa Amid Regulatory Push",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Binance-tightens-South-African-compliance11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Updates Crypto Transfer Rules in South Africa Amid Regulatory Push\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Binance-tightens-South-African-compliance11.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Binance-tightens-South-African-compliance11-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Binance-tightens-South-African-compliance11-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBinance, the largest crypto exchange, announced on April 23 that it will gradually introduce changes to crypto withdrawals and deposit procedures for users in South Africa. This step is taken in response to the local regulatory demands.  The users of Binance in South Africa will be asked to provide further",
+      "links": [
+        "https://thenewscrypto.com/binance-updates-crypto-transfer-rules-in-south-africa-amid-regulatory-push/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Binance",
+        "crypto regulation",
+        "South Africa"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Binance-tightens-South-African-compliance11.jpg"
+      },
+      "published": "2025-04-23T12:12:51Z"
+    }
+  },
+  {
+    "hash": "b4757c7be83db4f82c49fb88534b39e359a3febd1019aa32de03d754127d8ead",
+    "item": {
+      "title": "WIF Soars 27%, Is the Rally Just Warming Up as It Eyes the $1 Mark?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/WIF-Soars-27-Is-the-Rally-Just-Warming-Up-as-It-Eyes-the-1-Mark.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"WIF Soars 27%, Is the Rally Just Warming Up as It Eyes the $1 Mark?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/WIF-Soars-27-Is-the-Rally-Just-Warming-Up-as-It-Eyes-the-1-Mark.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/WIF-Soars-27-Is-the-Rally-Just-Warming-Up-as-It-Eyes-the-1-Mark-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/WIF-Soars-27-Is-the-Rally-Just-Warming-Up-as-It-Eyes-the-1-Mark-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the 6% recovery of the crypto market, Bitcoin has jumped to $93.6K, while Ethereum is trading within the $1.8K range. The recent gains have pushed the assets to their former highs. Meanwhile, the Solana-based dogwifhat (WIF) has lined up with a 27.12% rally.\u0026#160; The WIF has tested its crucial",
+      "links": [
+        "https://thenewscrypto.com/wif-soars-27-is-the-rally-just-warming-up-as-it-eyes-the-1-mark/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Dogwifhat",
+        "Meme Coin",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/WIF-Soars-27-Is-the-Rally-Just-Warming-Up-as-It-Eyes-the-1-Mark.jpg"
+      },
+      "published": "2025-04-23T12:11:37Z"
+    }
+  },
+  {
+    "hash": "6b3c895432b2bf18e625248f4f68710de6ba84fd21b6944107f4da03d9431d5e",
+    "item": {
+      "title": "Kaia (KAIA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/ANT-_Price-prediction-KAIA-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Kaia (KAIA) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/ANT-_Price-prediction-KAIA-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/ANT-_Price-prediction-KAIA-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/ANT-_Price-prediction-KAIA-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Kaia (KAIA) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of KAIA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Kaia (KAIA) Current Market Status What is Kaia (KAIA)? Kaia (KAIA) 24H Technicals KAIA PRICE",
+      "links": [
+        "https://thenewscrypto.com/kaia-kaia-price-prediction-2025-2026-2030/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Kaia",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/ANT-_Price-prediction-KAIA-1.jpg"
+      },
+      "published": "2025-04-23T12:05:25Z"
+    }
+  },
+  {
+    "hash": "dbb131047465cdcb26910a6444cee0f3ff1e7b4f59c42d11a39c7c7a5913ac5b",
+    "item": {
+      "title": "AI Horseless Carriages",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773813\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://koomen.dev/essays/horseless-carriages/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T16:19:56Z"
+    }
+  },
+  {
+    "hash": "650b3f1afb746d32c417736c4e004eb5a336df22f9036dbcd7e9cfc8d38e2498",
+    "item": {
+      "title": "Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773563\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/trycua/cua"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T15:55:05Z"
+    }
+  },
+  {
+    "hash": "f261795643443ab019fbae25d3151649d7e5b92312bc7452f4af1dca911d2818",
+    "item": {
+      "title": "A Computational Proof of the Highest-Scoring Boggle Board",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43774702\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.danvk.org/2025/04/23/boggle-solved.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T17:45:35Z"
+    }
+  },
+  {
+    "hash": "d2ed00bfbf35b8b327b31b1f41ba1b3d80b8497be926b9a5ffd733027d36628c",
+    "item": {
+      "title": "Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43772503\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T14:14:30Z"
+    }
+  },
+  {
+    "hash": "46bf2ae70ecefa4b44630f31b2ad680c976b0906bd2439bf344b1f3c06430cee",
+    "item": {
+      "title": "Graphics Livecoding in Common Lisp",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43774726\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kevingal.com/blog/cl-livecoding.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T17:48:20Z"
+    }
+  },
+  {
+    "hash": "8a0eb45b814c3a70567a4dd1800dd3df3f0848fd26decbb39faa3cebea17b6fa",
+    "item": {
+      "title": "How ZGC allocates memory for the Java heap",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43770821\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://joelsiks.com/posts/zgc-heap-memory-allocation/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T11:24:28Z"
+    }
+  },
+  {
+    "hash": "1657e1cd3250ff0c16797821f3b6815ce0a38f1729a814cf8a684a2eb0ae9057",
+    "item": {
+      "title": "How I blog with Obsidian, Hugo, GitHub, and Cloudflare",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43771645\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T13:00:32Z"
+    }
+  },
+  {
+    "hash": "613debc3da3909d1d25416710701398b9098f79792c5b862559ee461f82c62f4",
+    "item": {
+      "title": "The Future of MCPs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43774327\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iamcharliegraham.substack.com/publish/post/161906169"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T17:12:58Z"
+    }
+  },
+  {
+    "hash": "3f71219e5bed0dcfb2b033a249215b90363acb7bda9a597af437490b86d5ded6",
+    "item": {
+      "title": "The Danglepoise",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773537\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sallery.co.uk/danglepoise"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T15:52:45Z"
+    }
+  },
+  {
+    "hash": "5b935ecad7f85724ec72f799eab5cb379e3d4d26589d89eb3242096d5bb11c65",
+    "item": {
+      "title": "The Really Big One (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43774742\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/magazine/2015/07/20/the-really-big-one"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T17:49:52Z"
+    }
+  },
+  {
+    "hash": "05cea3384e61049081fe32099bfb41d96f4f0583cb1ab8f9e0a2c57434dbd8f4",
+    "item": {
+      "title": "Show HN: Moose – OSS framework to build analytical back ends with ClickHouse",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773976\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.fiveonefour.com/moose"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T16:41:23Z"
+    }
+  },
+  {
+    "hash": "c80824bfd3360abf2c4fce1fe3af2b938bbd52a6c0edecc50de41ec7a0ecb83c",
+    "item": {
+      "title": "Lessons learned operating petabyte-scale ClickHouse clusters: Part II",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43747186\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse-part-ii"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T23:04:41Z"
+    }
+  },
+  {
+    "hash": "a6a50aa8e7fd5f57277614dad1d898e87bff3362b636785544794910fac493ec",
+    "item": {
+      "title": "Beer on Board in the Age of Sail (2017)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43769289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T06:42:31Z"
+    }
+  },
+  {
+    "hash": "8fe2685d8b7fd2be3e1f1f020c77d0d7871264dfab0bd7b6e2b7f869a5b56c39",
+    "item": {
+      "title": "They made computers behave like annoying salesmen",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773710\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T16:10:12Z"
+    }
+  },
+  {
+    "hash": "4a86b7b87e6eba41bdfbe083ac6244ac1d774cd94f98f14bfafb40dd409bc775",
+    "item": {
+      "title": "How MOS 6502 Illegal Opcodes Work (2008)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43743399\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.pagetable.com/?p=39"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T12:36:05Z"
+    }
+  },
+  {
+    "hash": "f1a939b8988f7353d1c0db248e4a50c248e74ae063d6f492e74951a8aa9f7867",
+    "item": {
+      "title": "Show HN: Advanced-Alchemy – A framework agnostic library for SQLAlchemy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43771816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/litestar-org/advanced-alchemy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T13:17:48Z"
+    }
+  },
+  {
+    "hash": "ba7f15a73bd699a00e2e71c89803fad331528b153071ed151a9db55c5fa861b4",
+    "item": {
+      "title": "To Avoid Deer Strikes, Finland Is Painting Deer Antlers with Reflective Paint",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43747634\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/smart-news/avoid-deer-strikes-finland-painting-deer-antlers-reflective-paint-180949792/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-21T00:36:00Z"
+    }
+  },
+  {
+    "hash": "87350644e70817c98b2ff430b70eeca536c0ad4bbecdbab63862b46bc4111105",
+    "item": {
+      "title": "Understand Your Dependencies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43739374\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deps.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-19T20:52:01Z"
+    }
+  },
+  {
+    "hash": "542571793a725fbff080decc3867e7924df231126d5f8cb4fb00e1fc20b5d7c3",
+    "item": {
+      "title": "MGBX Unveils Global Brand Upgrade at Token2049 Dubai",
+      "description": "\u003cp\u003eMGBX has announced that the platform has officially completed a comprehensive brand and channel upgrade.A formal brand upgrade launch event will take place during Token2049 in Dubai, marking MGBX\u0026#8217;s official entry into the Middle Eastern market.About MGBX: Major Cryptocurrency Asset Trading Platform Founded in April 2019, MGBX is dedicated to providing secure and efficient digital [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/mgbx-unveils-global-brand-upgrade-at-token2049-dubai/\"\u003eMGBX Unveils Global Brand Upgrade at Token2049 Dubai\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/mgbx-unveils-global-brand-upgrade-at-token2049-dubai/"
+      ],
+      "categories": [
+        "Press Releases",
+        "mgbx",
+        "token2049"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-04-23T18:11:56Z"
+    }
+  },
+  {
+    "hash": "e4d8dafdbb41dc13e3cb669432337df36c36b1ed3a1e50e3d08d4b3d0165f72c",
+    "item": {
+      "title": "Binance Enforces Sender-ID Checks as $278M South Africa Crypto Market Heats Up",
+      "description": "\u003cp\u003eBinance has tightened compliance in South Africa, requiring users to supply sender name and, if applicable, originating exchange on every deposit; withdrawals need matching beneficiary data. Costs may rise, yet regulators say clarity could lure institutions to a market set for $333 million in 2028.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-compliance-south-africa-transfers/\"\u003eBinance Enforces Sender-ID Checks as $278M South Africa Crypto Market Heats Up\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-compliance-south-africa-transfers/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Exchange",
+        "Crypto Regulation",
+        "South Africa"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-04-23T18:03:54Z"
+    }
+  },
+  {
+    "hash": "111d7955d82911e78a8ac670e39175d68c83b51cb5c2c96a87e9383a5c0b62b1",
+    "item": {
+      "title": "Mythical Games and the Shift Toward Gameplay-Focused Web3 Experiences",
+      "description": "\u003cp\u003eOver the past several years, Mythical Games has played a notable role in evolving web3 gaming by focusing less on technical features and more on delivering engaging experiences.By prioritizing gameplay, accessibility, and entertainment value, the studio has contributed to making blockchain-enabled games more approachable to a wider audience.Rethinking the Introduction to Web3 Gaming When Bitcoin [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/mythical-games-shift-toward-gameplay-focused-web3-experiences/\"\u003eMythical Games and the Shift Toward Gameplay-Focused Web3 Experiences\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/mythical-games-shift-toward-gameplay-focused-web3-experiences/"
+      ],
+      "categories": [
+        "Press Releases",
+        "mythical games",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23174608/mythical-games-shift-toward-gameplay-focused-web3-experiences.jpg"
+      },
+      "published": "2025-04-23T17:46:36Z"
+    }
+  },
+  {
+    "hash": "7366aa5253f4505f3e6217c1fa1ddab0261db6ac75122557967ca85f63e842fd",
+    "item": {
+      "title": "Aptos Logs 133K Wallets, 558K Transactions in Osaka Expo Week One—Is Adoption",
+      "description": "\u003cp\u003eAptos has introduced a friction-free digital wallet at Expo 2025 in Osaka, allowing newcomers to collect soulbound NFT stamps from each pavilion. In seven days the platform has registered 133,000 wallets and processed more than 558,000 transactions, pointing to wider public use of blockchain.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aptos-133k-wallets-558k-transactions-osaka-expo/\"\u003eAptos Logs 133K Wallets, 558K Transactions in Osaka Expo Week One—Is Adoption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aptos-133k-wallets-558k-transactions-osaka-expo/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Aptos",
+        "Digital wallet",
+        "Osaka"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23144635/1745419595-0_0_optimized-9.jpg"
+      },
+      "published": "2025-04-23T17:30:52Z"
+    }
+  },
+  {
+    "hash": "37f781a8f1c5419c75c4659b8687da2529fe51af43c8fa8e7b9926674987b315",
+    "item": {
+      "title": "Tesla and Bitcoin’s Complicated Relationship",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eTesla's decision to dump 75% of its Bitcoin in 2022 cost it billions of dollars.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/tesla-and-bitcoins-complicated-relationship/\"\u003eTesla and Bitcoin\u0026#8217;s Complicated Relationship\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/tesla-and-bitcoins-complicated-relationship/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Donald Trump",
+        "Elon Musk",
+        "Market",
+        "Michael Saylor",
+        "Regulation",
+        "Strategy",
+        "Tesla"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23151614/1745421374-image-1745421265819_optimized.jpg"
+      },
+      "published": "2025-04-23T17:29:24Z"
+    }
+  },
+  {
+    "hash": "d92b6d4d19e1deffeff664a7f753645dec3390f150c08ce32cc3705ac92411ad",
+    "item": {
+      "title": "Trump’s China Pivot Triggers Solana Price Spike – $1,000 SOL Now in Play?",
+      "description": "\u003cp\u003eThe Solana price has risen by 9% today, boosted bullishly after US President Donald Trump signalled his willingness to strike a trade deal with China.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trumps-china-pivot-triggers-solana-price-spike-1000-sol-now-in-play-solx/\"\u003eTrump’s China Pivot Triggers Solana Price Spike – $1,000 SOL Now in Play?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trumps-china-pivot-triggers-solana-price-spike-1000-sol-now-in-play-solx/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Prediction",
+        "SOL",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23111112/1745406671-1000-sol-now-in-play.jpg"
+      },
+      "published": "2025-04-23T17:22:13Z"
+    }
+  },
+  {
+    "hash": "62ff1333067fd55d51e3a34bf3bb0034dcdabcbaa413bf3a25721b1581d9126c",
+    "item": {
+      "title": "The Biggest Meme Coin Moves Today – Time to Buy?",
+      "description": "\u003cp\u003eThe meme coin market is erupting once again, soaring 18.2% in the last 24 hours and pushing total market capitalization to a staggering $59 billion.With fresh momentum flooding in, traders are turning their attention to tokens backed by viral narratives, cult-like communities, and breakout potential.Here are three meme coins gaining serious traction that could lead [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/the-biggest-meme-coin-moves-today-time-to-buy/\"\u003eThe Biggest Meme Coin Moves Today – Time to Buy?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/the-biggest-meme-coin-moves-today-time-to-buy/"
+      ],
+      "categories": [
+        "Press Releases",
+        "BTCBULL",
+        "Meme Coins",
+        "NEIRO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23133053/1745415053-the-biggest-meme-coin-moves-today-time-to-buy.jpg"
+      },
+      "published": "2025-04-23T17:17:51Z"
+    }
+  },
+  {
+    "hash": "6066b64d737926752de3c1cf370872a01cf56cd70a10c68ca96a2646682a1d45",
+    "item": {
+      "title": "No One’s Talking About These Meme Coins – But They’re Pumping Today",
+      "description": "\u003cp\u003eMeme coins are the wildcards of crypto — fast, unpredictable, and capable of turning tiny bets into life-changing wins almost overnight.Right now, they’re lighting up the charts. In just the past 24 hours, the meme coin market has rocketed 16.4%, pushing its total value to an eye-watering $58.1 billion.With what could be the last major [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/no-ones-talking-about-these-meme-coins-but-theyre-pumping-today-popcat-solaxy-turbo/\"\u003eNo One’s Talking About These Meme Coins – But They’re Pumping Today\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/no-ones-talking-about-these-meme-coins-but-theyre-pumping-today-popcat-solaxy-turbo/"
+      ],
+      "categories": [
+        "News",
+        "Meme Coins",
+        "Popcat",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23132944/1745414984-no-ones-talking-about-these-meme-coins-but-theyre-pumping-today.jpg"
+      },
+      "published": "2025-04-23T16:57:04Z"
+    }
+  },
+  {
+    "hash": "5ba6f524cac057ab9723ef43512a46e70847364966febc63c7b31261a31087ed",
+    "item": {
+      "title": "Is Pi Coin Headed for a Total Collapse? Price Could Drop to $0.40 If This Happens",
+      "description": "\u003cp\u003ePi has gone up by nearly 5% in the past day and currently sits at $0.6683 as cryptocurrencies have rallied following some reassurances from President Trump and White House officials about their approach to tariffs and monetary policy matters.However, the native asset of the Pi Network currently trades 77.6% below its all-time high of $2.98 [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/is-pi-coin-headed-for-a-total-collapse-price-could-drop-to-40-cents/\"\u003eIs Pi Coin Headed for a Total Collapse? Price Could Drop to $0.40 If This Happens\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/is-pi-coin-headed-for-a-total-collapse-price-could-drop-to-40-cents/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Blockchain",
+        "BTC bull token",
+        "Pi Network"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23132816/1745414895-is-pi-coin-headed-for-a-total-collapse-price-could-drop-to-0-40-if-this-happens.jpg"
+      },
+      "published": "2025-04-23T16:18:59Z"
+    }
+  },
+  {
+    "hash": "a230ce6319ef5c29274dcf2d2d13e9ff39b3b947eb2eca7af65e66d46d0fc8c6",
+    "item": {
+      "title": "SpaceX Founding Member Jim Cantrell Joins Spacecoin to Scale Decentralized Satellite Network",
+      "description": "\u003cp\u003eSpacecoin, a DePIN powered by a satellite constellation, has welcomed Jim Cantrell, SpaceX founding member and Phantom Space Corporation CEO, as a strategic advisor.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/spacex-founding-member-joins-spacecoin-to-scale-decentralized-satellite-network/\"\u003eSpaceX Founding Member Jim Cantrell Joins Spacecoin to Scale Decentralized Satellite Network\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/spacex-founding-member-joins-spacecoin-to-scale-decentralized-satellite-network/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Decentralization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23145442/1745420082-spacecoin-decentralized-satellite-network-jim-cantrell.jpg"
+      },
+      "published": "2025-04-23T15:24:10Z"
+    }
+  },
+  {
+    "hash": "d5081806a96bfcb95d0686863716b2e86cfe7063c686760378f0bf3ed0823711",
+    "item": {
+      "title": "SOL Strategies Locks In Record $500M Note to Turbo-Charge SOL Staking Yield",
+      "description": "\u003cp\u003eSOL Strategies has unveiled a convertible note facility of up to $500M, with a $20M opening tranche expected by May 1 2025. Proceeds purchase SOL that is staked on in-house validators, and note interest is paid in SOL at up to 85% of the staking yield generated.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sol-strategies-500m-note-sol-staking-yield/\"\u003eSOL Strategies Locks In Record $500M Note to Turbo-Charge SOL Staking Yield\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sol-strategies-500m-note-sol-staking-yield/"
+      ],
+      "categories": [
+        "DeFi News",
+        "Sol Strategies",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23132440/1745414679-052523b3-8d39-49ee-ae58-c6bbf08bb484_optimized.jpg"
+      },
+      "published": "2025-04-23T13:55:38Z"
+    }
   }
 ]
