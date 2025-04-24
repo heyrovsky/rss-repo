@@ -1217,5 +1217,613 @@
       },
       "published": "2025-04-24T06:32:47Z"
     }
+  },
+  {
+    "hash": "98cb0e1584e97a852a9d59d4c92ecf18fa141ce8d084ed8b6671d9df436a12cc",
+    "item": {
+      "title": "Cars and Key Fobs: Attacks on Car Remotes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780876\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T09:53:22Z"
+    }
+  },
+  {
+    "hash": "0229980d3858333923a0722c7b550672f89596d5b861c4b7f32962b0a7adea0a",
+    "item": {
+      "title": "On loyalty to Your Employer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780815\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.talentstuff.com/blog/on-loyalty-to-your-employer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T09:43:48Z"
+    }
+  },
+  {
+    "hash": "76ab20af9327d2a5a686645fbcdb5459553b7e5a6f14e9fddb3ea55864698d01",
+    "item": {
+      "title": "Careless People",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780363\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T08:17:11Z"
+    }
+  },
+  {
+    "hash": "b5a401192d4f850a801aa32cfcfca5163467fcd15335fea0a18bb2bb9b2fe87d",
+    "item": {
+      "title": "Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43781663\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T12:00:10Z"
+    }
+  },
+  {
+    "hash": "060bdce469bdcfc30871181d208b5aa8ef7c414ba043d9e02ff6b7d5d0ff5925",
+    "item": {
+      "title": "Vim Language, Motions, and Modes Explained (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780682\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T09:16:36Z"
+    }
+  },
+  {
+    "hash": "ac61388f7cf94603db98bcef454fd693f224893edb1ff73d4553caaf7c4e84ab",
+    "item": {
+      "title": "Why US police shootings are so deadly ― and why some police forces do better",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43781372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/d41586-025-01271-0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T11:22:50Z"
+    }
+  },
+  {
+    "hash": "76c28e81669ed027f08f8650385632a58f52c489777eccca6aa32f79ebf46bf5",
+    "item": {
+      "title": "How much math is knowable? [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43776477\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=VplMHWSZf5c"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T20:48:57Z"
+    }
+  },
+  {
+    "hash": "506da9ecba31447feb361298dcf1eff798735779bd7f99ceff2ecacbcb01fd7c",
+    "item": {
+      "title": "Creating your own federated microblog",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780785\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fedify.dev/tutorial/microblog"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T09:37:57Z"
+    }
+  },
+  {
+    "hash": "c1c92916fdf60dcd9d80dc434686106c521fab1e136478751941426252da71e0",
+    "item": {
+      "title": "New Patches Get Linux Booting On The Snapdragon X1-Powered Dell Inspiron 14 Plus",
+      "description": "New Linux kernel patches have been posted adding the necessary Device Tree files so that Linux is able to boot on the Qualcomm Snapdragon X1 powered Dell Inspiron 14 Plus laptop...",
+      "links": [
+        "https://www.phoronix.com/news/Dell-Inspiron-14-Plus-Linux-X1E"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-24T10:25:20Z"
+    }
+  },
+  {
+    "hash": "e889db5099c8210c1d7a1f989618332320a5ec90081e09f9cdf437db39b4579d",
+    "item": {
+      "title": "Mesa Falling Back To Its Multi-File Cache Due To Performance Reasons",
+      "description": "Mesa has supported on-disk shader cache for years to help speed-up game load times and overall system efficiencies. They had shifted from a multi-file cache layout to a single file cache for greater space savings. Steam also added support for the single-file cache. But now upstream Mesa is shifting back from the single-file cache default to the multi-file cache over performance issues...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-Single-File-Cache-Issue"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-24T10:08:30Z"
+    }
+  },
+  {
+    "hash": "98c0868e66ceabd86a6d49d5a91824a98338710bd294882f9c8863b4a0e72723",
+    "item": {
+      "title": "Raspberry Pi HEVC Decoder Linux Driver Updated For Mainline Kernel Attempt",
+      "description": "At the end of last year the upstreaming efforts began for a Raspberry Pi HEVC decoder driver for getting H.265/HEVC accelerated decode working on the Raspberry Pi 4 and Raspberry Pi 5 single-board computers with the mainline kernel. Nearly a half-year later that effort is still ongoing but yesterday brought the third iteration of this driver...",
+      "links": [
+        "https://www.phoronix.com/news/Raspberry-Pi-HEVC-Decode-V3"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-24T09:53:24Z"
+    }
+  },
+  {
+    "hash": "7e9cfc90f52f647f5578adc107e69f0cbf1f25de7e330fe4b4f9fea091e286e7",
+    "item": {
+      "title": "PCIe Controller Support For The Apple M2 Pro Coming To The Mainline Linux Kernel",
+      "description": "The latest bit of hardware enablement coming out of Asahi Linux and queued for introduction in the mainline kernel the next cycle is PCI Express (PCIe) support for the Apple M2 Pro SoC...",
+      "links": [
+        "https://www.phoronix.com/news/Apple-T6020-PCIe-M2-Pro"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-04-24T09:44:54Z"
+    }
+  },
+  {
+    "hash": "a127bac727db955916514bbffef771dd3ac4b0c60aac8b0aca52482e8adf9b5b",
+    "item": {
+      "title": "Russia Plans Regulated Crypto Exchange for Elite Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Russias_central_bank_finance_ministry_to_launch_crypto_exchange.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Russia Plans Regulated Crypto Exchange for Elite Investors\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Russias_central_bank_finance_ministry_to_launch_crypto_exchange.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Russias_central_bank_finance_ministry_to_launch_crypto_exchange-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Russias_central_bank_finance_ministry_to_launch_crypto_exchange-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Finance Ministry and Central Bank of Russia are expectedly to work on introducing a crypto exchange for elite investors under an experimental legal regime.  The Russian Media Group RBC reported on April 23 that during a ministry meeting, the Finance Minister of Russia, Anton Siluanov, mentioned that the exchange",
+      "links": [
+        "https://thenewscrypto.com/russia-plans-regulated-crypto-exchange-for-elite-investors/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Crypto Excahnge",
+        "Russia"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Russias_central_bank_finance_ministry_to_launch_crypto_exchange.jpg"
+      },
+      "published": "2025-04-24T09:00:55Z"
+    }
+  },
+  {
+    "hash": "9d5260452d628a4b05ffd83180447516e0e40a4fb26adecb27665254bb0059b3",
+    "item": {
+      "title": "The Importance of Press Releases in Branding and Marketing: A Timeless Tool in a Digital Era",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/image001-79.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/image001-79.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/04/image001-79-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/image001-79-376x212.jpg 376w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eIn the fast-paced world of digital marketing, where trends shift overnight and algorithms change like the wind, one classic tool remains consistently powerful: the press release. While often underestimated, press releases are a cornerstone of effective branding and marketing strategies, especially when distributed through the best press release distribution agency",
+      "links": [
+        "https://thenewscrypto.com/the-importance-of-press-releases-in-branding-and-marketing-a-timeless-tool-in-a-digital-era/"
+      ],
+      "categories": [
+        "Press Release",
+        "EasyPRwire"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/image001-79.jpg"
+      },
+      "published": "2025-04-24T08:55:14Z"
+    }
+  },
+  {
+    "hash": "8137611059124212e7806e1c8216e58cb3549be49d54795e86171d5e5c9d9e48",
+    "item": {
+      "title": "SEC and El Salvador Explore Cross-Border Digital Assets Sandbox Initiative",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/El_Salvador_Proposes_Crypto_Sandbox_to_SEC_in_Bold_Cross_Border.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SEC and El Salvador Explore Cross-Border Digital Assets Sandbox Initiative\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/El_Salvador_Proposes_Crypto_Sandbox_to_SEC_in_Bold_Cross_Border.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/El_Salvador_Proposes_Crypto_Sandbox_to_SEC_in_Bold_Cross_Border-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/El_Salvador_Proposes_Crypto_Sandbox_to_SEC_in_Bold_Cross_Border-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe United States Security and Exchange Commission (SEC) is in talks with El Salvador over a potential cross-border crypto sandbox. This partnership could redefine how digital assets are regulated and tested between nations. This discussion comes amidst tension between both nations about deportation policies, casting political thoughts over what could",
+      "links": [
+        "https://thenewscrypto.com/sec-and-el-salvador-explore-cross-border-digital-assets-sandbox-initiative/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Digital Asset",
+        "El Salvador",
+        "SandBox",
+        "SEC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/El_Salvador_Proposes_Crypto_Sandbox_to_SEC_in_Bold_Cross_Border.jpg"
+      },
+      "published": "2025-04-24T08:42:30Z"
+    }
+  },
+  {
+    "hash": "b17456aa1c8eebb67fa4085f3d0443be38ad8cf67e5699c2a424749187165975",
+    "item": {
+      "title": "Uniswap Faces a Dip, Yet Is the Path to $8 Still in Sight?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Uniswap-UNI-Find-Its-Momentum-Again.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Uniswap Faces a Dip, Yet Is the Path to $8 Still in Sight?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Uniswap-UNI-Find-Its-Momentum-Again.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Uniswap-UNI-Find-Its-Momentum-Again-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Uniswap-UNI-Find-Its-Momentum-Again-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAfter a turbulent phase, the crypto market has made a recovery, resulting in the assets stepping into new highs. Currently, the market reflects mixed signals, slipping 1.23%. Meanwhile, Uniswap (UNI) has recorded a loss of over 2.56%. UNI kickstarted the day trading at around $5.91. The asset has mounted and",
+      "links": [
+        "https://thenewscrypto.com/uniswap-faces-a-dip-yet-is-the-path-to-8-still-in-sight/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "UNI",
+        "Uniswap"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Will-Uniswap-UNI-Find-Its-Momentum-Again.jpg"
+      },
+      "published": "2025-04-24T08:33:39Z"
+    }
+  },
+  {
+    "hash": "17add648ca7c3598f244a5aa8d2ff6306b95596fe376c64a9bffd4f9ed15ffe3",
+    "item": {
+      "title": "HODL 2025: Blockchain’s Brightest Minds. All in Dubai",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"HODL 2025: Blockchain’s Brightest Minds. All in Dubai\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49-376x212.jpg 376w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eHODL 2025, set for 14-15 May 2025 at the Madinat Jumeirah in Dubai, follows the Dubai FinTech Summit and marks a new chapter for Trescon’s flagship event. Formerly known as the World Blockchain Summit, the event has been at the forefront of blockchain innovation for nearly a decade. As the",
+      "links": [
+        "https://thenewscrypto.com/hodl-2025-blockchains-brightest-minds-all-in-dubai/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Dubai",
+        "HODL"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-21_18-10-49.jpg"
+      },
+      "published": "2025-04-24T08:16:32Z"
+    }
+  },
+  {
+    "hash": "92fc0f282d4822d026fcf1852916dc6d974cf5f9f523dcf257c34ee89adf34fb",
+    "item": {
+      "title": "Justin Sun Highlights TRX ETF Potential, Says Market Underestimates Impact",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"755\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-23-15.38.44.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-23-15.38.44.jpeg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-23-15.38.44-300x177.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-23-15.38.44-1024x604.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-23-15.38.44-768x453.jpeg 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eDuring a livestream\u0026#160; hosted by the leading exchange HTX, Founder of TRON and Advisor to HTX, Justin Sun expressed confidence in the approval of the newly filed Canary Capital Group Staked TRX ETF, calling it a “non-replicable” opportunity for both investors and the broader crypto market. The event, titled “TRX",
+      "links": [
+        "https://thenewscrypto.com/justin-sun-highlights-trx-etf-potential-says-market-underestimates-impact/"
+      ],
+      "categories": [
+        "Press Release",
+        "HTX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-23-15.38.44.jpeg"
+      },
+      "published": "2025-04-24T08:02:19Z"
+    }
+  },
+  {
+    "hash": "986da2b045fffb585381df1e6dd7ac7abfe8adda6b12049c57f36c8972541eec",
+    "item": {
+      "title": "Melania Meme Coin Jumps Over 11% After a Downtrend: What’s Behind Price Uptick?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Can-MELANIAs-16-Surge-Ignite-a-Run-to-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Melania Meme Coin Jumps Over 11% After a Downtrend: What’s Behind Price Uptick?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Can-MELANIAs-16-Surge-Ignite-a-Run-to-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Can-MELANIAs-16-Surge-Ignite-a-Run-to-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Can-MELANIAs-16-Surge-Ignite-a-Run-to-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn just a 24-hour timeframe, Official Melania Memecoin has recorded an uptick in its price value. According to market data, MELANIA now trades at a price value of $0.4569 after recording an intraday high of $0.542, noting a 11.39% uptick in the same period.\u0026#160; Additionally, the market cap read at",
+      "links": [
+        "https://thenewscrypto.com/melania-meme-coin-jumps-over-11-after-a-downtrend-whats-behind-price-uptick/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "MELANIA",
+        "Meme Coin",
+        "Official Melania Meme"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Can-MELANIAs-16-Surge-Ignite-a-Run-to-2.jpg"
+      },
+      "published": "2025-04-24T07:49:36Z"
+    }
+  },
+  {
+    "hash": "3b94764ce1623f0af2b0447e9c1b742f8298a2455d908d7178fdb2b908588b06",
+    "item": {
+      "title": "KuCoin Expands Its Operations in Thailand Competitive Crypto Market",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-exchange-KuCoin-enters-crowded-Thailand-market.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"KuCoin Expands Its Operations in Thailand Competitive Crypto Market\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-exchange-KuCoin-enters-crowded-Thailand-market.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-exchange-KuCoin-enters-crowded-Thailand-market-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-exchange-KuCoin-enters-crowded-Thailand-market-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto exchange KuCoin, based in Seychelles, launched its Thailand operations officially as part of its Southeast Asian market expansion plan. KuCoin Thailand began its operations in the Thai market on April 23 through the former ERX Company Limited. The company now operates under KuCoin Thailand after receiving its crypto",
+      "links": [
+        "https://thenewscrypto.com/kucoin-expands-its-operations-in-thailand-competitive-crypto-market/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Market Updates",
+        "Crypto Market",
+        "KuCoin",
+        "Thailand"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Crypto-exchange-KuCoin-enters-crowded-Thailand-market.jpg"
+      },
+      "published": "2025-04-24T07:18:02Z"
+    }
+  },
+  {
+    "hash": "5f0182e3384cb201c6bd1bd3469e8cbe64e3608c6a96f4b7c1473ed7d4552a2b",
+    "item": {
+      "title": "FBI Report Reveals $9.3 Billion Lost to Crypto Scams in 2024, Seniors Most Affected",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Americans-lost-9.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"FBI Report Reveals $9.3 Billion Lost to Crypto Scams in 2024, Seniors Most Affected\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Americans-lost-9.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Americans-lost-9-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Americans-lost-9-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Federal Bureau of Investigation’s Internet Crime Complaint Center (IC3) released its annual report on April 23. The report mainly focused on complaints and frauds in the crypto sector and losses that occurred due to it in 2024.  As per the report, over 140,000 complaints were registered in 2024, estimating",
+      "links": [
+        "https://thenewscrypto.com/fbi-report-reveals-9-3-billion-lost-to-crypto-scams-in-2024-seniors-most-affected/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto Scam",
+        "FBI",
+        "Scam"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Americans-lost-9.jpg"
+      },
+      "published": "2025-04-24T07:07:36Z"
+    }
+  },
+  {
+    "hash": "2e1ea1e51cd5b063487327ce50ced77eba7f92d2652bac224ca795027e54e45e",
+    "item": {
+      "title": "Onyxcoin Pops 8%, Can It Stay in the Green While Eyeing $0.025?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Onyxcoin-Pops-10-Can-It-Stay-in-the-Green-While-Eyeing-0.025.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Onyxcoin Pops 8%, Can It Stay in the Green While Eyeing $0.025?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Onyxcoin-Pops-10-Can-It-Stay-in-the-Green-While-Eyeing-0.025.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Onyxcoin-Pops-10-Can-It-Stay-in-the-Green-While-Eyeing-0.025-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Onyxcoin-Pops-10-Can-It-Stay-in-the-Green-While-Eyeing-0.025-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eYesterday’s crypto market rally entered bullish territory. Today, the assets have initiated trading with a brief spike of 0.15%, reaching a $2.92 trillion market cap. TRUMP and Onyxcoin secured the spotlight among top gainers and trending coins with notable gains.\u0026#160; Onyxcoin (XCN) has registered a gain of over 8.38% in",
+      "links": [
+        "https://thenewscrypto.com/onyxcoin-pops-8-can-it-stay-in-the-green-while-eyeing-0-025/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "Onyxcoin",
+        "XCN"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Onyxcoin-Pops-10-Can-It-Stay-in-the-Green-While-Eyeing-0.025.jpg"
+      },
+      "published": "2025-04-24T05:58:19Z"
+    }
+  },
+  {
+    "hash": "0f239d6867e337573107eb01109a7fec25e665b4a492c12b3980fb4efa939f57",
+    "item": {
+      "title": "Review: Ryzen AI CPU makes this the fastest the Framework Laptop 13 has ever been",
+      "description": "With great power comes great responsibility and subpar battery life.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/04/review-ryzen-ai-cpu-makes-this-the-fastest-the-framework-laptop-13-has-ever-been/"
+      ],
+      "categories": [
+        "Features",
+        "Tech",
+        "AMD",
+        "AMD Ryzen",
+        "framework",
+        "framework laptop 13",
+        "reviews",
+        "Ryzen",
+        "ryzen ai",
+        "ryzen ai 300"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/IMG_2928-1152x648.jpeg"
+      },
+      "published": "2025-04-24T10:30:40Z"
+    }
+  },
+  {
+    "hash": "75d71b1805704ee9e9cef9157c8fd0a6f0aaed0e8a468fed31b57d31c0a6ab0b",
+    "item": {
+      "title": "Automating Zero Trust in Healthcare: From Risk Scoring to Dynamic Policy Enforcement Without Network Redesign",
+      "description": "The Evolving Healthcare Cybersecurity Landscape\u0026nbsp;\nHealthcare organizations face unprecedented cybersecurity challenges in 2025. With operational technology (OT) environments increasingly targeted and the convergence of IT and medical systems creating an expanded attack surface, traditional security approaches are proving inadequate. According to recent statistics, the healthcare sector",
+      "links": [
+        "https://thehackernews.com/2025/04/automating-zero-trust-in-healthcare.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5sQEeFqmEz1ZPjL3yY16Iw2zl8_JHbIchzSSWxP0mqDS_TrmVVBiKRodlYlFSPzj0ybRzxLZZxyhyDF8cKNSsL56nk6jXlZ0IiMdK-e6RFSP9_Ms6eXC3YqV__tAN9QmC84xVT311UgsK7KoFr-cTpCs61akLauXNQ7wsZXd_sD-9zVcus9h6yUlXPc/s1600/zero-trust.png"
+      },
+      "published": "2025-04-24T10:30:00Z"
+    }
+  },
+  {
+    "hash": "fb9431d75b9200bc61353ed0adca97f584c6e2bf24baa92a5f9a2a4dc0e4c219",
+    "item": {
+      "title": "Critical Commvault Command Center Flaw Enables Attackers to Execute Code Remotely",
+      "description": "A critical security flaw has been disclosed in the Commvault Command Center that could allow arbitrary code execution on affected installations.\nThe vulnerability, tracked as CVE-2025-34028, carries a CVSS score of 9.0 out of a maximum of 10.0.\n\"A critical security vulnerability has been identified in the Command Center installation, allowing remote attackers to execute arbitrary code without",
+      "links": [
+        "https://thehackernews.com/2025/04/critical-commvault-command-center-flaw.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDLr1rAcgXFZ49b0Sw8CA4kpnhJhoGkn9phfeRTrJhIU1mqsqUJqP7ogZ1QOgCE8VQ_nIXbML8YL45eS3nm6YSHYF4GCrMiQM7ym6PinTrALJ03qHGtgl0o4pYrwdFbqul3rh1Fin1WW7m-Q6mTDSbjCMw7FuTbBGPyHloxjBtK2kxVfX-wvWKIkN1qw7b/s1600/exploit-watch.jpg"
+      },
+      "published": "2025-04-24T10:00:00Z"
+    }
+  },
+  {
+    "hash": "e4331cfadaecd5b6140de736f8cf60dd0ad9ef434b02d1824ceac8b25f7ce392",
+    "item": {
+      "title": "Bitcoin Traders Sell Puts as Long-Term Holders Add 635K BTC Since January",
+      "description": "\u003cp\u003eBitcoin long-term holders have accumulated 635K BTC since January while traders employ bullish options strategies, signaling confidence despite mixed market signals and $94K price volatility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-traders-sell-puts-as-long-term-holders-add-635k-btc-since-january/\"\u003eBitcoin Traders Sell Puts as Long-Term Holders Add 635K BTC Since January\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-traders-sell-puts-as-long-term-holders-add-635k-btc-since-january/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Whale",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/24105108/1745491868-image-1745491845444_optimized.jpg"
+      },
+      "published": "2025-04-24T10:59:00Z"
+    }
+  },
+  {
+    "hash": "ec6f4c6f2a39d2ad022e4e7768eff88feb9b94b0560bde46fcd7d541ef89ac50",
+    "item": {
+      "title": "Opinion: Mass Adoption of Web3 Is Not Inevitable — Here’s How We Get There",
+      "description": "\u003cp\u003eInterest in crypto is rising, but most people still aren’t jumping in. Why? Mass adoption won’t happen by accident—it takes real insight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/opinion-mass-adoption-of-web3-is-not-inevitable-heres-how-we-get-there/\"\u003eOpinion: Mass Adoption of Web3 Is Not Inevitable — Here’s How We Get There\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/opinion-mass-adoption-of-web3-is-not-inevitable-heres-how-we-get-there/"
+      ],
+      "categories": [
+        "Opinions",
+        "Adoption",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jonathan Inglis"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23134226/1745415746-image-1745415684234_optimized.jpg"
+      },
+      "published": "2025-04-24T10:58:52Z"
+    }
+  },
+  {
+    "hash": "c67c86a0d6458b0773c26ba15d021e45064c53aa7ad9a97704347f0b36750741",
+    "item": {
+      "title": "BlackRock’s IBIT Sees $643M Daily Inflow as Bitcoin ETFs Hit $917M High; Ethereum ETFs Blee",
+      "description": "\u003cp\u003eBlackRock’s iShares Bitcoin Trust (IBIT) led a record $917 million in daily inflows across U.S. spot Bitcoin ETFs, with $643 million added in a single day, highlighting surging institutional demand even as Ethereum ETFs saw outflows.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/blackrocks-ibit-sees-643m-daily-inflow-as-bitcoin-etfs-hit-917m-high-ethereum-etfs-blee/\"\u003eBlackRock’s IBIT Sees $643M Daily Inflow as Bitcoin ETFs Hit $917M High; Ethereum ETFs Blee\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/blackrocks-ibit-sees-643m-daily-inflow-as-bitcoin-etfs-hit-917m-high-ethereum-etfs-blee/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin ETFs",
+        "Blackrock ETF",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/24093926/1745487566-image-1745487539362_optimized.jpg"
+      },
+      "published": "2025-04-24T10:03:16Z"
+    }
+  },
+  {
+    "hash": "8b6bf9f07be5e38ca62a72312b417fefcb71b435de6292dd45be99c808279db5",
+    "item": {
+      "title": "Revolut Profits Spike More Than Double in 2024 to £1.3B Thanks to Crypto Trading Boom",
+      "description": "\u003cp\u003eRevolut has reported a record-breaking financial year, surpassing $1 billion in annual profit for the first time.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/revolut-profits-spike-more-than-double-in-2024-to-1-3b-thanks-to-crypto-trading-boom/\"\u003eRevolut Profits Spike More Than Double in 2024 to £1.3B Thanks to Crypto Trading Boom\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/revolut-profits-spike-more-than-double-in-2024-to-1-3b-thanks-to-crypto-trading-boom/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Market",
+        "Revolut"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/24095218/1745488338-image-1745487979723_optimized.jpg"
+      },
+      "published": "2025-04-24T09:54:53Z"
+    }
   }
 ]
