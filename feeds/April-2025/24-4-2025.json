@@ -467,5 +467,106 @@
       },
       "published": "2025-04-23T21:15:31Z"
     }
+  },
+  {
+    "hash": "c0156d0db2fae46c9272d3100045c8a7807333fcfece3bfcdeedf186441f7b42",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for April 24, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1017842/\"\u003eFront\u003c/a\u003e: Owen Le Blanc and MCC; UID/GID drift; DMA for UIO; More LSFMM+BPF 2025 coverage.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1017844/\"\u003eBriefs\u003c/a\u003e: EU OS; RISC-V Fedora; Ubuntu 25.04; NLnet funding; Template strings; Tor Browser 14.5; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1017845/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1017842/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-04-24T00:47:45Z"
+    }
+  },
+  {
+    "hash": "9580e194c89831d0b17478b76b68e916119ea276e8f3c2970a2231756f8d3764",
+    "item": {
+      "title": "Shortest-possible walking tour to 81,998 bars in South Korea",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43778105\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.math.uwaterloo.ca/tsp/korea/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T00:20:40Z"
+    }
+  },
+  {
+    "hash": "ff463551375c161d450fe70e9f8b5c88cc3a760f4609ebac9994e9955b576e9c",
+    "item": {
+      "title": "Show HN: My from-scratch OS kernel that runs DOOM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43778081\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/UnmappedStack/TacOS"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T00:15:22Z"
+    }
+  },
+  {
+    "hash": "f47e2bf733b543d9536d81c58ac97a0a9e1ef0bd176e78661af8e1a13f2b46fe",
+    "item": {
+      "title": "The World Is Ending. Welcome to the Spooner Revolution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43752353\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aethn.com/posts/the-world-is-ending"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-21T14:23:17Z"
+    }
+  },
+  {
+    "hash": "bc8472cc3b5b4b4e62a38f58eaf5b70ae9fc07cd0e4622ee9df820e8fd4e92ef",
+    "item": {
+      "title": "Yaakov Kirschen’s other legacy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43778436\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jns.org/yaakov-kirschens-other-legacy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T01:24:22Z"
+    }
+  },
+  {
+    "hash": "d4056572222c954d92a9f7d851961e03b292eac4216fef4fcafe76cf9c829369",
+    "item": {
+      "title": "DOGE worker’s code supports NLRB whistleblower",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43776476\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-23T20:48:57Z"
+    }
+  },
+  {
+    "hash": "62d8fc09cd7ffa2ed0b8556d14ac4104e9e36df96d003af895dd18cadd160976",
+    "item": {
+      "title": "My experience of participating to a startup weekend competition in Italy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746109\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-20T19:53:44Z"
+    }
+  },
+  {
+    "hash": "410e8b8252e26bc9a492ba126e31d46af693ab50cf8d18307b8e6aa9c1317bed",
+    "item": {
+      "title": "Clinical trial: novel nutritional formula treats gut microbial overgrowth",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43778120\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-24T00:23:38Z"
+    }
   }
 ]
