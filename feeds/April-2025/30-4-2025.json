@@ -355,5 +355,328 @@
       },
       "published": "2025-04-29T21:09:29Z"
     }
+  },
+  {
+    "hash": "31d5294dfd9df18d7cb9b37d3c6e5d51e19f770c1d68248597bde2915a31066d",
+    "item": {
+      "title": "Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products",
+      "description": "Google has revealed that it observed 75 zero-day vulnerabilities exploited in the wild in 2024, down from 98 in 2023 but an increase from 63 the year before.\nOf the 75 zero-days, 44% of them targeted enterprise products. As many as 20 flaws were identified in security software and appliances.\n\"Zero-day exploitation of browsers and mobile devices fell drastically, decreasing by about a third for",
+      "links": [
+        "https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh57e-j0C3oMHDZjgIGFUjmS_0Ah9RH1vxZyDFbE7fhlb8IXOas9mjtRMkd2xURzdeAwvsKmFs7IAsGAHBaWgvUFvBfTeqzQyzLtvyikaExaw_6_fWTTyLjGSuQF31EyJdWNEgYol4CeEeFNjtsewEn4hZKMZit7dyKkvqFVqtGLaOIIcPXY-bz2-CVQuyw/s1600/google.jpg"
+      },
+      "published": "2025-04-29T10:11:00Z"
+    }
+  },
+  {
+    "hash": "da7b1851eac1bd7886a62eca94e542547b8fc2579d5ae9dbfe2925cf24e947f8",
+    "item": {
+      "title": "Comparing ‘AI’ for Basic Plant Care With Human Brown Thumbs",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"483\" src=\"https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png 905w, https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png?resize=400,241 400w, https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png?resize=800,483 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"778310\" data-permalink=\"https://hackaday.com/2025/04/29/comparing-ai-for-basic-plant-care-with-human-brown-thumbs/plantmom_llm_diagram/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png\" data-orig-size=\"905,546\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"plantmom_llm_diagram\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png?w=800\" /\u003e\u003c/div\u003eLike so many of us, [Liam] has a big problem. Whether it\u0026#8217;s the curse of Brown Thumbs or something else, those darn houseplants just keep dying despite guides always telling \u003ca href=\"https://hackaday.com/2025/04/29/comparing-ai-for-basic-plant-care-with-human-brown-thumbs/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/comparing-ai-for-basic-plant-care-with-human-brown-thumbs/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "green hacks",
+        "artificial intelligence",
+        "automated plant care",
+        "automatic plant watering",
+        "soil moisture sensor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/plantmom_llm_diagram.png"
+      },
+      "published": "2025-04-30T02:00:22Z"
+    }
+  },
+  {
+    "hash": "2d88b6ac331b26a20b1b6f59b961964a7327dbde7d3c5106b08667c64dd92c68",
+    "item": {
+      "title": "Read Motor Speed Better By Making The RP2040 PIO Do It",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"458802\" data-permalink=\"https://hackaday.com/2021/01/29/a-look-at-the-interesting-rp2040-peripheral-those-pios/rp2040-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"RP2040-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg?w=800\" /\u003e\u003c/div\u003eA quadrature encoder provides a way to let hardware read movement (and direction) of a shaft, and they can be simple, effective, and inexpensive devices. But [Paulo Marques] observed that \u003ca href=\"https://hackaday.com/2025/04/29/read-motor-speed-better-by-making-the-rp2040-pio-do-it/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/read-motor-speed-better-by-making-the-rp2040-pio-do-it/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "motor speed",
+        "PIO",
+        "quadrature encoder",
+        "rp2040"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/01/RP2040-featured.jpg"
+      },
+      "published": "2025-04-29T23:00:19Z"
+    }
+  },
+  {
+    "hash": "db46f9efad013f33102ad64e92cef9b454c897443b1ee48fb443623efd0c823a",
+    "item": {
+      "title": "Crossing Commodore Signal Cables on Purpose",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"531\" src=\"https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png 997w, https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png?resize=250,166 250w, https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png?resize=400,266 400w, https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png?resize=800,531 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"773111\" data-permalink=\"https://hackaday.com/2025/04/29/crossing-commodore-signal-cables-on-purpose/signal-carnival-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png\" data-orig-size=\"997,662\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"signal-carnival-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png?w=800\" /\u003e\u003c/div\u003eOn a Commodore 64, the computer is normally connected to a monitor with one composite video cable and to an audio device with a second, identical (although uniquely colored) cable. \u003ca href=\"https://hackaday.com/2025/04/29/crossing-commodore-signal-cables-on-purpose/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/crossing-commodore-signal-cables-on-purpose/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "analog",
+        "audio",
+        "c64",
+        "chiptune",
+        "commodore 64",
+        "filter",
+        "video"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/signal-carnival-main.png"
+      },
+      "published": "2025-04-29T20:00:00Z"
+    }
+  },
+  {
+    "hash": "5a6f229ed78b96b4ad4843e5f9cbe6c1d45269a12ec9bf52b0e0dc8198063c4b",
+    "item": {
+      "title": "There’s A Venusian Spacecraft Coming Our Way",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"778448\" data-permalink=\"https://hackaday.com/2025/04/29/theres-an-venusian-spacecraft-coming-our-way/re-entry-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"re-entry-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg?w=800\" /\u003e\u003c/div\u003eIt\u0026#8217;s not unusual for redundant satellites, rocket stages, or other spacecraft to re-enter the earth\u0026#8217;s atmosphere. Usually they pass unnoticed or generate a spectacular light show, and very rarely a \u003ca href=\"https://hackaday.com/2025/04/29/theres-an-venusian-spacecraft-coming-our-way/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/theres-an-venusian-spacecraft-coming-our-way/"
+      ],
+      "categories": [
+        "Space",
+        "cosmos-482",
+        "spacecraft",
+        "Venera"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/re-entry-featured.jpg"
+      },
+      "published": "2025-04-29T18:30:34Z"
+    }
+  },
+  {
+    "hash": "8ad714962038eed21f9332ed6958b33bdbce663d5e0372cbd7f0212043c93dbd",
+    "item": {
+      "title": "The DIY 1982 Picture Phone",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"373\" src=\"https://hackaday.com/wp-content/uploads/2025/04/vp.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/vp.png 800w, https://hackaday.com/wp-content/uploads/2025/04/vp.png?resize=250,117 250w, https://hackaday.com/wp-content/uploads/2025/04/vp.png?resize=400,187 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"773153\" data-permalink=\"https://hackaday.com/2025/04/29/the-diy-1982-picture-phone/vp/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/vp.png\" data-orig-size=\"800,373\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"vp\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/vp.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/vp.png?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;ve only been around for the Internet age, you may not realize that Hackaday is the successor of electronics magazines. In their heyday, magazines like Popular Electronics, Radio Electronics, \u003ca href=\"https://hackaday.com/2025/04/29/the-diy-1982-picture-phone/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/the-diy-1982-picture-phone/"
+      ],
+      "categories": [
+        "Featured",
+        "History",
+        "Phone Hacks",
+        "picture phone",
+        "radio electronics",
+        "SSTV"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/vp.png"
+      },
+      "published": "2025-04-29T17:00:45Z"
+    }
+  },
+  {
+    "hash": "75b23bd97917da11da0336418abd2ceb4ba5e02ae9b4cbcbb6f13c73317ed7db",
+    "item": {
+      "title": "Peeking at Poking Health Tech: the G7 and the Libre 3",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"PCBs of two continuous glucose monitors\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg 1200w, https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"773041\" data-permalink=\"https://hackaday.com/2025/04/29/peeking-at-poking-health-tech-the-g7-and-the-libre-3/glucose-monitors-1200/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg\" data-orig-size=\"1200,675\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"glucose-monitors-1200\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg?w=800\" /\u003e\u003c/div\u003eContinuous glucose meters (CGMs) aren\u0026#8217;t just widgets for the wellness crowd. For many, CGMs are real-time feedback machines for the body, offering glucose trendlines that help people rethink how they \u003ca href=\"https://hackaday.com/2025/04/29/peeking-at-poking-health-tech-the-g7-and-the-libre-3/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/peeking-at-poking-health-tech-the-g7-and-the-libre-3/"
+      ],
+      "categories": [
+        "chemistry hacks",
+        "Medical Hacks",
+        "Teardown",
+        "cgm",
+        "diabetes",
+        "diabetics",
+        "glucose",
+        "monitor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Heidi Ulrich"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/glucose-monitors-1200.jpg"
+      },
+      "published": "2025-04-29T15:30:06Z"
+    }
+  },
+  {
+    "hash": "99157f7847d277f4f44c4e1845a3eddfc2c2ac4a0dbf20e8f42348d0a05d1549",
+    "item": {
+      "title": "Keebin’ with Kristina: the One with the Protractor Keyboard",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Illustrated Kristina with an IBM Model M keyboard floating between her hands.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"488742\" data-permalink=\"https://hackaday.com/2021/07/27/keebin-with-kristina-the-one-with-the-mad-model-m/keebin/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Keebin\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg?w=800\" /\u003e\u003c/div\u003eDon\u0026#8217;t you love it when the title track is the first one on the album? I had to single out this adjustable keyboard called the Protractor, because look at it! \u003ca href=\"https://hackaday.com/2025/04/29/keebin-with-kristina-the-one-with-the-protractor-keyboard/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/04/29/keebin-with-kristina-the-one-with-the-protractor-keyboard/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Peripherals Hacks",
+        "aluminium keyboard",
+        "AR-60%",
+        "keyboard gun",
+        "Malling-Hansen Takygraph",
+        "protractor",
+        "protractor keyboard",
+        "research battlestation",
+        "Takygraf",
+        "Takygraph",
+        "the Cleaver keyboard"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Kristina Panos"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg"
+      },
+      "published": "2025-04-29T14:00:08Z"
+    }
+  },
+  {
+    "hash": "9f70628011824ba64cb8dd54ed4bcc9759b91a15165c73951b56d2b7c186c953",
+    "item": {
+      "title": "An illustrated guide to automatic sparse differentiation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43828423\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-29T03:18:52Z"
+    }
+  },
+  {
+    "hash": "74eb0ef200a8071d35336938a19eaea344d403e70b5fd0421fe8199ca4864c3a",
+    "item": {
+      "title": "WorldGen: Open-source 3D scene generator for Game/VR/XR",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43824548\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://worldgen.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-28T18:39:19Z"
+    }
+  },
+  {
+    "hash": "338580be410e30fd6ce310451ba2dc8694eff99ac9b644694fa7121fd10be894",
+    "item": {
+      "title": "Show HN: I build a Fantasy NHL app in 3 days with Claude AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43805275\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43805275"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-26T17:04:07Z"
+    }
+  },
+  {
+    "hash": "8ba9106adf2f2ae7ca23ee7145bef68f81f9aae51532a7f79f78ba7a305c022a",
+    "item": {
+      "title": "Waymo and Toyota outline partnership to advance autonomous driving deployment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43839123\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership"
+      ],
+      "source": "Hacker News",
+      "published": "2025-04-29T23:06:02Z"
+    }
+  },
+  {
+    "hash": "1d75ee59e7210e17ffe049914bccb9085a5765abbc3e51bd658fa378d2a2c09c",
+    "item": {
+      "title": "SEC Walks Away From Investigation Into PayPal’s Dollar-Pegged Stablecoin",
+      "description": "\u003cp\u003eThe SEC dropped its probe into PayPal’s PYUSD stablecoin without enforcement, adding to crypto case closures under Trump’s administration.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/paypal-cleared-as-sec-ends-pyusd-stablecoin-inquiry/\"\u003eSEC Walks Away From Investigation Into PayPal’s Dollar-Pegged Stablecoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/paypal-cleared-as-sec-ends-pyusd-stablecoin-inquiry/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "PayPal",
+        "stablecoin regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/30031701/1745983021-image-1745982998539_optimized.jpg"
+      },
+      "published": "2025-04-30T03:22:05Z"
+    }
+  },
+  {
+    "hash": "92bd362a8b288190f514c1363bc4a4bfd9df206fd9fa60d7fb778f1044bd6106",
+    "item": {
+      "title": "3 Meme Coins That Could 50x Sooner Than Anyone Expects",
+      "description": "\u003cp\u003eNew meme coins are catching fire — and for good reason. These early-stage tokens often deliver the kind of explosive returns that turn tiny bets into life-changing wins, making them the crown jewel of crypto’s high-risk, high-reward landscape.With the U.S. gearing up to roll out crypto-friendly regulations under a pro-innovation administration, the stage is set [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/meme-coins-that-could-50x-sooner-than-anyone-expects-bb-mind-fpepe/\"\u003e3 Meme Coins That Could 50x Sooner Than Anyone Expects\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/meme-coins-that-could-50x-sooner-than-anyone-expects-bb-mind-fpepe/"
+      ],
+      "categories": [
+        "Press Releases",
+        "BTCBULL",
+        "Meme Coins",
+        "MIND of Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/29112631/3-Meme-Coins-That-Could-50x-Sooner-Than-Anyone-Expects.jpg"
+      },
+      "published": "2025-04-30T01:00:00Z"
+    }
   }
 ]
