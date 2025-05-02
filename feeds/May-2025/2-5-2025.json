@@ -2827,5 +2827,748 @@
       },
       "published": "2025-05-02T12:53:11Z"
     }
+  },
+  {
+    "hash": "e7228fe0403b4fcfe93afac9e719ab6f0cb0438a760a180046a5ceed0a679dea",
+    "item": {
+      "title": "[$] Flexible data placement",
+      "description": "At \nthe 2025 Linux Storage, Filesystem, Memory\nManagement, and BPF Summit (LSFMM+BPF) Kanchan Joshi and Keith Busch led a\ncombined storage and filesystem session on data placement, which concerns\nhow the data on a storage device is actually written.  In a discussion\nthat hearkened back to previous summits, the idea is to give hints to enterprise-class\nSSDs to help them make better choices on where the data should go; hinting\nwas most recently \u003ca\nhref=\"https://lwn.net/Articles/932900/\"\u003ediscussed at the summit in 2023\u003c/a\u003e.  If SSDs can\ngroup data with similar lifetimes together, it can lead to longer life for\nthe devices, but there is a need to work out the details.",
+      "links": [
+        "https://lwn.net/Articles/1018642/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-05-02T17:51:48Z"
+    }
+  },
+  {
+    "hash": "39699a31296b7f725b8b3e08fd50248b0d7762b7d325d83aebf86ac59a794371",
+    "item": {
+      "title": "AI strategists, Formula 1, even an electric NASCAR? We talk racing with GM.",
+      "description": "Motorsports remains a great way to train good engineers.",
+      "links": [
+        "https://arstechnica.com/cars/2025/05/ai-strategists-formula-1-even-an-electric-nascar-we-talk-racing-with-gm/"
+      ],
+      "categories": [
+        "Cars",
+        "F1",
+        "General Motors",
+        "IMSA",
+        "IndyCar",
+        "Motorsport",
+        "NASCAR",
+        "Racing"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Chevrolet-Blazer-EV.R-NASCAR-Prototype-8550RT-1152x648.jpg"
+      },
+      "published": "2025-05-02T17:17:29Z"
+    }
+  },
+  {
+    "hash": "10e5bd05158acd6fe2d32527a2e666213a32f31341064a8b1d12d73a7a5343bb",
+    "item": {
+      "title": "Screwworms are coming—and they’re just as horrifying as they sound",
+      "description": "US is now scrambling to use aerial bombs of sterilized flies to halt the spread.",
+      "links": [
+        "https://arstechnica.com/health/2025/05/screwworms-are-coming-and-theyre-just-as-horrifying-as-they-sound/"
+      ],
+      "categories": [
+        "Health",
+        "flies",
+        "parasite",
+        "screwworm"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/NWS-two-whole-larvae.png"
+      },
+      "published": "2025-05-02T16:56:47Z"
+    }
+  },
+  {
+    "hash": "9ba7cbe03ca074b49322e6b9c77e2ba67fcedd1b1805334d2aaf3648e8c8ba04",
+    "item": {
+      "title": "Claude’s AI research mode now runs for up to 45 minutes before delivering reports",
+      "description": "New feature searches hundreds of sources to build a document—but is it accurate?",
+      "links": [
+        "https://arstechnica.com/ai/2025/05/claudes-ai-research-mode-now-runs-for-up-to-45-minutes-before-delivering-reports/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI agents",
+        "AI research agents",
+        "Anthropic",
+        "Anthropic Claude",
+        "ChatGPT",
+        "chatgtp",
+        "Claude",
+        "Deep Research",
+        "google",
+        "large language models",
+        "machine learning",
+        "openai"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/robot_reading_1-1152x648.jpg"
+      },
+      "published": "2025-05-02T16:39:26Z"
+    }
+  },
+  {
+    "hash": "85eac694af85f76249da419afb9a2a046bbf3a515b82944db80dcc501928de7b",
+    "item": {
+      "title": "Google teases NotebookLM app in the Play Store ahead of I/O release",
+      "description": "NotebookLM is a genuinely useful AI tool, and it's coming to your phone. ",
+      "links": [
+        "https://arstechnica.com/google/2025/05/google-finally-reveals-notebooklm-android-app-but-you-cant-use-it-yet/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "apps",
+        "google",
+        "google notebookLM"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/NotebookLM-Tips_Hero.width-2200.format-webp-copy-1152x648.jpg"
+      },
+      "published": "2025-05-02T16:24:15Z"
+    }
+  },
+  {
+    "hash": "0df9010d58a6537f6d6b19890e5de03a906181edf704f1bc27838774835c3d80",
+    "item": {
+      "title": "Cyborg cicadas play Pachelbel’s Canon",
+      "description": "Such insect-computer hybrid speakers  might one day be used to transmit warnings in emergencies.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/cyborg-cicadas-play-pachelbels-canon/"
+      ],
+      "categories": [
+        "Science",
+        "biobots",
+        "Biology",
+        "cicadas",
+        "cyborg cicadas",
+        "entomology",
+        "insects"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/cicada1-1152x648-1746194186.jpg"
+      },
+      "published": "2025-05-02T16:15:25Z"
+    }
+  },
+  {
+    "hash": "16939cf90ccf0ca66295dc296017e140dcac01c156b9ed788b9f7c78537cca0a",
+    "item": {
+      "title": "“Blatantly unlawful”: Trump slammed for trying to defund PBS, NPR",
+      "description": "Defunding PBS and NPR risks devastating rural communities, networks say.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/05/blatantly-unlawful-trump-slammed-for-trying-to-defund-pbs-npr/"
+      ],
+      "categories": [
+        "Policy",
+        "Corporation for Public Broadcasting",
+        "Donald Trump",
+        "NPR",
+        "PBS"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2206434879-1024x648.jpg"
+      },
+      "published": "2025-05-02T16:05:48Z"
+    }
+  },
+  {
+    "hash": "b9e411246ef0deac9568ca867bad4cfda0929d62642735a13f3233f58d3f27c6",
+    "item": {
+      "title": "Some flies go insomniac to ward off parasites",
+      "description": "There are negative consequences for the flies, but they avoid being eaten alive.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/some-flies-go-insomniac-to-ward-off-parasites/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "circadian rhythm",
+        "Drosophila",
+        "evolution",
+        "fruit flies",
+        "parasites"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Elizabeth Rayne"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1168455519-1152x648.jpg"
+      },
+      "published": "2025-05-02T15:49:37Z"
+    }
+  },
+  {
+    "hash": "8e1f326109e920b845626cdbf3b04b39b0b0d571ccfc813df25b2b771f30f999",
+    "item": {
+      "title": "White House budget seeks to end SLS, Orion, and Lunar Gateway programs",
+      "description": "\"SLS alone costs $4 billion per launch and is 140 percent over budget.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/05/white-house-budget-seeks-to-end-sls-orion-and-lunar-gateway-programs/"
+      ],
+      "categories": [
+        "Space",
+        "budget",
+        "Gateway",
+        "orion",
+        "sls",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/Xvmuf3hM-1152x648.jpeg"
+      },
+      "published": "2025-05-02T15:39:30Z"
+    }
+  },
+  {
+    "hash": "a5efa07815dd0687bb7e2eb9d5627c437908ed08f172558438910a311b7cde1c",
+    "item": {
+      "title": "Spotify seizes the day after Apple is forced to allow external payments",
+      "description": "Apple quickly approved updated app with payment links, prices, and promotions.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/05/spotify-jumps-on-apples-court-loss-gets-approved-for-non-app-store-payments/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple",
+        "epic",
+        "fortnite",
+        "spotify",
+        "Stripe"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kevin Purdy"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2159216206-1152x648.jpg"
+      },
+      "published": "2025-05-02T15:14:30Z"
+    }
+  },
+  {
+    "hash": "2b663417ccd099451791cbffe2275f7ee4e8deb16e22ce5aca956e628989d2d1",
+    "item": {
+      "title": "Epic Games Store completely eliminates revenue fees for smaller developers",
+      "description": "Epic takes no cut for first $1 million in annual per-game revenue under new plan.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/05/epic-games-store-completely-eliminates-revenue-fees-for-smaller-developers/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/egs-1152x648.jpg"
+      },
+      "published": "2025-05-02T14:43:01Z"
+    }
+  },
+  {
+    "hash": "6c1089a5ded856275f05532698b6a3c5a280406449e196fa74dbd0d196c354bf",
+    "item": {
+      "title": "Grand Theft Auto VI gets pushed back to May 26, 2026",
+      "description": "Rockstar: Extra time will let us \"deliver at the level of quality you expect and deserve.\"",
+      "links": [
+        "https://arstechnica.com/gaming/2025/05/gta-vi-will-miss-2025-after-all-new-target-is-may-26-2026/"
+      ],
+      "categories": [
+        "Gaming",
+        "Grand Theft Auto VI"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/gta6-1152x648.png"
+      },
+      "published": "2025-05-02T13:35:30Z"
+    }
+  },
+  {
+    "hash": "93dc94f644ce6301388f3bb18eaa8524af8f2576ebddbb27c141364c6328bbcc",
+    "item": {
+      "title": "Continued Work On Attack Vector Controls Ahead Of Linux 6.16",
+      "description": "Going back to last year an AMD engineer has been pursuing \"Attack Vecotr Controls\" to rethink CPU security mitigation handling. Attack Vector Controls aims to make it easier to manage CPU security mitigation settings by focusing on the class/scope of vulnerabilities rather than managing the mitigations at an individual level. It's looking like the initial attack vectors control code will be ready for mainlining in the upcoming Linux 6.16 cycle but stopping short of the complete implementation...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-616-Likely-Attack-Control"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-02T16:35:00Z"
+    }
+  },
+  {
+    "hash": "b5ce30e9c72e73121290993d0f9d53b0e40db0eca7823333250a162d0f0464cc",
+    "item": {
+      "title": "The language brain matters more for learning programming than the math brain",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43870969\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://massivesci.com/articles/programming-math-language-python-women-in-science/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T15:19:22Z"
+    }
+  },
+  {
+    "hash": "ead804418b053cdec9f4a2d37cc6674c1517e5083feba6a52747f65c8ae6cb4b",
+    "item": {
+      "title": "Show HN: GPT-2 implemented using graphics shaders",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43870998\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/nathan-barry/gpt2-webgl"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T15:21:49Z"
+    }
+  },
+  {
+    "hash": "f5ba3bca60948ed0568c9171b5ad6c9dfa501f2747d89c3698813a70d0d3f9ab",
+    "item": {
+      "title": "Show HN: Blast – Fast, multi-threaded serving engine for web browsing AI agents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43872761\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/stanford-mast/blast"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T17:42:28Z"
+    }
+  },
+  {
+    "hash": "f9c98afb60f94c8eee0de93b9b12471b6eddbb32d76eff73608687805b955b5f",
+    "item": {
+      "title": "Building Burstables: CPU slicing with cgroups",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43872094\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T16:45:29Z"
+    }
+  },
+  {
+    "hash": "680682119d1bf095228dce9f4e28beab657bb4829520c11fe718cd19d3038e91",
+    "item": {
+      "title": "Expanding on what we missed with sycophancy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43870819\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/expanding-on-sycophancy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T15:07:29Z"
+    }
+  },
+  {
+    "hash": "b8274577c98851975b44a55d4c05fc0ee04c483ac48ec8570e424fd32b683d7d",
+    "item": {
+      "title": "Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43872275\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/toma/jobs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T17:00:00Z"
+    }
+  },
+  {
+    "hash": "76f29e1ff999ae6ab1f3ba8c62c3dd3c9396992d286c2a76d43c0cc95a962af5",
+    "item": {
+      "title": "When Americana Doesn't Mean American",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43864827\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deeprootsmag.org/2017/09/18/over-there-when-americana-doesnt-mean-american/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T00:13:09Z"
+    }
+  },
+  {
+    "hash": "64de381878f7d8d0cd63a894f5c6ae808e3d2f68a42aedf1b60afc1e3c66ff3c",
+    "item": {
+      "title": "Show HN: Exhibit and Site on Mechanisms for Students",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43871984\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mechanical-library.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T16:37:00Z"
+    }
+  },
+  {
+    "hash": "a609fcdbc6245a6ce0ff55f6e02d8af8dbde6ff4c5b97107ed8e97b280cf2a6c",
+    "item": {
+      "title": "The History of Album Art",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43872625\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://matthewstrom.com/writing/album-art/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T17:30:08Z"
+    }
+  },
+  {
+    "hash": "23b5e39b8f75a26daa65afa2604c52dc1c94e0bcf0cda06722c6b877612c4089",
+    "item": {
+      "title": "Lessons from Harlem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43870200\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theamericanscholar.org/lessons-from-harlem/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T14:24:12Z"
+    }
+  },
+  {
+    "hash": "f89533b262dfc7f9ee7950528e24b9145c65b8f37a980bd563f02dbd12bd575c",
+    "item": {
+      "title": "Google is hurting new apps that have less users than competitors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43869794\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T13:54:27Z"
+    }
+  },
+  {
+    "hash": "7ce45f8c7f1fb3025cd81c6f091531b5bdc6807fb5c345682ff2f07478e2888b",
+    "item": {
+      "title": "Settling the File Structure Debate",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43869045\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://muhammedsari.me/settling-the-file-structure-debate"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T12:47:33Z"
+    }
+  },
+  {
+    "hash": "e236cb92b5d2c9ecb0c1fb1803da23178e97e2bc596fca0f3a66a5d590ebaf60",
+    "item": {
+      "title": "JYS Group Crashes After $180M Investment—Chairman Fled to UK",
+      "description": "\u003cp\u003eJYS Group has collected $180 m from savers in Guangdong by offering infrastructure-linked products with up to 9 % annual returns. Losses tied to crypto trading, P2P lending and stock bets have emerged, its chairman claims to have fled to Britain, and local investigators have begun tracing funds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/jys-group-collapse-crypto-fraud-chairman-uk/\"\u003eJYS Group Crashes After $180M Investment—Chairman Fled to UK\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/jys-group-collapse-crypto-fraud-chairman-uk/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "China",
+        "Fraud"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02172213/1746206532-image-1746206024836_optimized.jpg"
+      },
+      "published": "2025-05-02T17:56:03Z"
+    }
+  },
+  {
+    "hash": "e950ac152bb7240f52d09bc6b8237af7960caf6730681dcb9023372d8acb9153",
+    "item": {
+      "title": "Dogecoin Price Coiling for a Monster Move – Are Whales Betting on $5 DOGE?",
+      "description": "\u003cp\u003eDogecoin (DOGE) has climbed 6% over the past 30 days and is currently holding strong at $0.1800 – but the real story lies in what’s happening behind the scenes.On-chain data shows whales are aggressively accumulating DOGE following a bullish breakout above key EMAs, hinting at a major move in the making.Popular crypto analyst Ali Martinez, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-coiling-for-a-monster-move-are-whales-betting-on-5-doge/\"\u003eDogecoin Price Coiling for a Monster Move – Are Whales Betting on $5 DOGE?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-coiling-for-a-monster-move-are-whales-betting-on-5-doge/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DOGE Price",
+        "Dogecoin",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02133816/1746193096-dogecoin-price-coiling-for-a-monster-move-are-whales-betting-on-5-doge.jpg"
+      },
+      "published": "2025-05-02T17:37:36Z"
+    }
+  },
+  {
+    "hash": "519d936679eced698f39557e795302e7aeeca139aaac09d9f44cf17cef3b4bba",
+    "item": {
+      "title": "$MOVE Sinks 70%—Founder Suspended, Coinbase Pauses Trading. What’s Next?",
+      "description": "\u003cp\u003e$MOVE has recorded a steep 70% slide from its January peak, climaxing in a 24‑hour drop of 20%, as Movement Labs has suspended co‑founder Rushi Manche and market‑maker dealings have come under review. Coinbase has set a May 15 trading halt, while internal probes explore token allocation and price pressure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/move-token-70-crash-founder-probe-coinbase-halt/\"\u003e$MOVE Sinks 70%—Founder Suspended, Coinbase Pauses Trading. What’s Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/move-token-70-crash-founder-probe-coinbase-halt/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Market manipulation",
+        "Movement Labs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02164221/1746204140-image-1746204044267_optimized.webp"
+      },
+      "published": "2025-05-02T17:24:30Z"
+    }
+  },
+  {
+    "hash": "2e4f18ccdd80d5ef29348532efebb45487331fd0413a8670325eea43988f4ef1",
+    "item": {
+      "title": "XRP Future Price Prediction: ETF Rumors Reignite 10x Bull Case – Here’s What Traders Expect",
+      "description": "\u003cp\u003eXRP (XRP) has gone up by nearly 5% in the past month as cryptocurrencies have made a strong comeback from their yearly lows.Traders’ interest in the token has been improving as open interest has surged from $3 billion to $4 billion – a 33% increase – in the past week.Meanwhile, the pseudonymous crypto analyst The [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-future-price-prediction-etf-rumors-reignite-10x-bull-case/\"\u003eXRP Future Price Prediction: ETF Rumors Reignite 10x Bull Case – Here’s What Traders Expect\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-future-price-prediction-etf-rumors-reignite-10x-bull-case/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02122452/1746188692-xrp-price-prediction-etf-rumors-reignite-10x-bull-case-heres-what-traders-expect.jpg"
+      },
+      "published": "2025-05-02T16:19:48Z"
+    }
+  },
+  {
+    "hash": "907bba1b4baae7fdcf23e2c70f7eac3889587cca12dac355febc71acceaeceba",
+    "item": {
+      "title": "World Chain Taps Circle USDC for 25M Users—Is $2 Trillion Stablecoin Boom Next?",
+      "description": "\u003cp\u003eWorld Chain has folded USDC and Circle’s Cross-Chain Transfer Protocol into its network, permitting holders to swap bridged balances for reserve-backed tokens, send funds across chains without centralized exchanges or third-party bridges, and access new business rails for seamless fiat conversion.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/world-chain-circle-usdc-2t-stablecoin/\"\u003eWorld Chain Taps Circle USDC for 25M Users—Is $2 Trillion Stablecoin Boom Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/world-chain-circle-usdc-2t-stablecoin/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "stablecoin market",
+        "USDC Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02151202/1746198722-image-1746195237065_optimized.webp"
+      },
+      "published": "2025-05-02T16:05:48Z"
+    }
+  },
+  {
+    "hash": "14035fb2e9364593fa0c31418c3c6932f61e41c375da492cb7117d65222c4409",
+    "item": {
+      "title": "Bitcoin, Ethereum, and Solana: Q1 Results and Q2 Market Outlook",
+      "description": "\u003cp\u003eHow Bitcoin, Ethereum, and Solana closed the first quarter — and what analysts predict for Q2.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/reports/q1-2025-results-q2-outlook/\"\u003eBitcoin, Ethereum, and Solana: Q1 Results and Q2 Market Outlook\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/reports/q1-2025-results-q2-outlook/"
+      ],
+      "categories": [
+        "Cryptonews Reports",
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02145848/1746197928-copy-monthly-report-featured.jpg"
+      },
+      "published": "2025-05-02T15:34:54Z"
+    }
+  },
+  {
+    "hash": "7fd53cbf46c4238692a6e7e7f8a4301d3f54dcf26023dc042e05e41e79f79d73",
+    "item": {
+      "title": "Cardano Price Prediction: 1 Billion ADA Traded in 24 Hours – Is $100 ADA Closer Than You Think?",
+      "description": "\u003cp\u003eAs the market digests this week's US economic data, momentum has stalled, but an influx of trading volume could put Cardano back on track to a new high.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-1-billion-ada-traded-in-24-hours/\"\u003eCardano Price Prediction: 1 Billion ADA Traded in 24 Hours – Is $100 ADA Closer Than You Think? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-1-billion-ada-traded-in-24-hours/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Cardano",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02130728/1746191247-cardano-price-prediction-1-billion-ada-traded-in-24-hours-is-100-ada-closer-than-you-think-1.png"
+      },
+      "published": "2025-05-02T15:21:43Z"
+    }
+  },
+  {
+    "hash": "9cad4b21e917558525174b279abae7ef995cef5cec06c24593874bea532143af",
+    "item": {
+      "title": "SpacePay’s Low Fees Are Winning Big with Merchants",
+      "description": "\u003cp\u003eKey Takeaways: Bitcoin ended Q1 2025 down nearly 12%, but analysts remain optimistic about long-term growth, with some forecasts pointing to $120K by mid-year. Ethereum posted one of its worst Q1 performances, down 45.5%, as falling fees and shifting user behavior raise questions about ETH’s evolving role in the ecosystem. Solana outperformed Ethereum in DeFi [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/spacepay-low-fees-winning-big-with-merchants/\"\u003eSpacePay’s Low Fees Are Winning Big with Merchants\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/spacepay-low-fees-winning-big-with-merchants/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$spy",
+        "spacepay"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02150627/spacepay-low-fees-winning-big-with-merchants.jpg"
+      },
+      "published": "2025-05-02T15:07:12Z"
+    }
+  },
+  {
+    "hash": "ae7fb4b479a4ba259766cccb5a15d8e01dc85b9daa6c5e27bdb03ebe3cb92cdd",
+    "item": {
+      "title": "Nexchain Hits Major Milestone with $1M Raised in Crypto Presale",
+      "description": "\u003cp\u003eKey Takeaways: Bitcoin ended Q1 2025 down nearly 12%, but analysts remain optimistic about long-term growth, with some forecasts pointing to $120K by mid-year. Ethereum posted one of its worst Q1 performances, down 45.5%, as falling fees and shifting user behavior raise questions about ETH’s evolving role in the ecosystem. Solana outperformed Ethereum in DeFi [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/nexchain-hits-major-milestone-1m-raised-crypto-presale/\"\u003eNexchain Hits Major Milestone with $1M Raised in Crypto Presale\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/nexchain-hits-major-milestone-1m-raised-crypto-presale/"
+      ],
+      "categories": [
+        "Press Releases",
+        "nexchain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02150041/nexchain-hits-major-milestone-1m-raised-crypto-presale.png"
+      },
+      "published": "2025-05-02T15:01:16Z"
+    }
+  },
+  {
+    "hash": "a9e30ae135b8e46c29adbd447a0b87591e42f3c77a0210dafec5ea653c969433",
+    "item": {
+      "title": "$IMX Soars 24% in 4-Hour Rally – Can Immutable Lead the Next Web3 Gaming Boom?",
+      "description": "\u003cp\u003e$IMX has surged 24.5% to $0.6748, pushing market value beyond $1.1 B and sparking a 292% volume jump. The move follows rising activity in Immutable’s 440-game network, new user tools, and relief after the SEC dropped its inquiry. Technically, a falling-wedge breakout targets $1.061 and $2.033.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/imx-soars-24-in-4-hour-rally-can-immutable-lead-the-next-web3-gaming-boom/\"\u003e$IMX Soars 24% in 4-Hour Rally – Can Immutable Lead the Next Web3 Gaming Boom?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/imx-soars-24-in-4-hour-rally-can-immutable-lead-the-next-web3-gaming-boom/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "$IMX",
+        "NFT",
+        "Web3 gaming"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/02130801/1746191280-1725019247-immutable-outperforms-the-market-as-imx-is-up-12-in-7-days-1536x877_optimized.webp"
+      },
+      "published": "2025-05-02T14:27:34Z"
+    }
   }
 ]
