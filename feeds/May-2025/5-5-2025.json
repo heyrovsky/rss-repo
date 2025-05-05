@@ -3040,5 +3040,508 @@
       },
       "published": "2025-05-05T15:36:05Z"
     }
+  },
+  {
+    "hash": "17efde6b8ea0119066322b994f327bd38e518ea1e5eb83cf0f490bfa6af42349",
+    "item": {
+      "title": "Hundreds of e-commerce sites hacked in supply-chain attack",
+      "description": "Attack that started in April and remains ongoing runs malicious code on visitors' devices.",
+      "links": [
+        "https://arstechnica.com/security/2025/05/hundreds-of-e-commerce-sites-hacked-in-supply-chain-attack/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "backdoors",
+        "magento",
+        "malware",
+        "supply chain attack"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/privacy.jpg"
+      },
+      "published": "2025-05-05T19:05:13Z"
+    }
+  },
+  {
+    "hash": "beb91f5e801c2b36a5d105ffee6894e9df0a5ff3b3cd889fbe5e72361a17c233",
+    "item": {
+      "title": "Only elites used hallucinogens in ancient Andes society",
+      "description": "Snuff tubes and spoons unearthed at Chavín de Huántar in Peru had traces of vilca and nicotine.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/only-elites-used-hallucinogens-in-ancient-andes-society/"
+      ],
+      "categories": [
+        "Science",
+        "anthropology",
+        "Archeology",
+        "ethnobotany",
+        "forensic archaeology",
+        "hallucinogens",
+        "psychedelics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/andes3-1152x648-1746280524.jpg"
+      },
+      "published": "2025-05-05T19:00:04Z"
+    }
+  },
+  {
+    "hash": "5626dc00ed02e37220ede9221543bd425a007d9a1f80f8e2b59418f11abd983b",
+    "item": {
+      "title": "RIP Skype (2003–2025), survived by multiple versions of Microsoft Teams",
+      "description": "Microsoft bought Skype for $8.5 billion in 2011, and now its journey is over.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/05/microsoft-officially-shuts-down-skype-redirects-all-app-users-to-teams/"
+      ],
+      "categories": [
+        "Tech",
+        "microsoft",
+        "Microsoft Teams",
+        "skype"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/IMG_4743-1152x648.jpg"
+      },
+      "published": "2025-05-05T17:44:02Z"
+    }
+  },
+  {
+    "hash": "2dd241224cd9e2cb188d528f81eee6f97fa0707aebbaeceb0ad0954ec6ab151b",
+    "item": {
+      "title": "Why Google Gemini’s Pokémon success isn’t all it’s cracked up to be",
+      "description": "Assistance from an external \"agent harness\" was key to the model's success.",
+      "links": [
+        "https://arstechnica.com/ai/2025/05/why-google-geminis-pokemon-success-isnt-all-its-cracked-up-to-be/"
+      ],
+      "categories": [
+        "AI",
+        "Gaming",
+        "pokemon"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/geminipoke2-1152x648-1746464673.png"
+      },
+      "published": "2025-05-05T17:29:08Z"
+    }
+  },
+  {
+    "hash": "5ed1cfc9b1a0a8aa740682e01dceaf3c3b08893d396d3c2316679bc76f1761cc",
+    "item": {
+      "title": "[$] Injecting speculation barriers into BPF programs",
+      "description": "The disclosure of the \u003ca\nhref=\"https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)\"\u003eSpectre\nclass of hardware vulnerabilities\u003c/a\u003e created a lot of pain for kernel\ndevelopers (and many others).  That pain was especially acutely felt in the\nBPF community.  While an attacker might have to painfully search the kernel\ncode base for exploitable code, an attacker using BPF can simply write and\nload their own speculation gadgets, which is a much more efficient way of\noperating.  The BPF community reacted by, among other things, disallowing\nthe loading of programs that may include speculation gadgets.  Luis\nGerhorst would like to change that situation with \u003ca\nhref=\"https://lwn.net/ml/all/20250421091802.3234859-1-luis.gerhorst@fau.de\"\u003ethis patch\nseries\u003c/a\u003e that takes a more direct approach to the problem.",
+      "links": [
+        "https://lwn.net/Articles/1018494/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-05T19:04:44Z"
+    }
+  },
+  {
+    "hash": "ec759d1a257b26fda677c5416c1b8d5213b6e5e48118a235011364a8647416ac",
+    "item": {
+      "title": "The Future of Cryptocurrency Regulation Worldwide",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/The-Future-of-Cryptocurrency-Regulation-Globally.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"The Future of Cryptocurrency Regulation Globally\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/The-Future-of-Cryptocurrency-Regulation-Globally.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/The-Future-of-Cryptocurrency-Regulation-Globally-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/The-Future-of-Cryptocurrency-Regulation-Globally-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCryptocurrency has come a long way—from a fringe concept known only to tech-savvy circles to a key player in the global financial ecosystem. As digital assets gain more mainstream acceptance, governments and regulators worldwide are working to figure out how best to fold them into existing financial and legal frameworks.",
+      "links": [
+        "https://thenewscrypto.com/the-future-of-cryptocurrency-regulation-worldwide/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Blockchain",
+        "CFTC",
+        "crypto regulation",
+        "Cryptocurrency Regulations",
+        "Digital currency",
+        "SEC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/The-Future-of-Cryptocurrency-Regulation-Globally.jpg"
+      },
+      "published": "2025-05-05T15:28:57Z"
+    }
+  },
+  {
+    "hash": "01cde0deadf390b262bab43f44f0acd1f8e5a77eadf8de4ab6fda6baf30ab014",
+    "item": {
+      "title": "Will Upcoming FTX Repayments Send Solana Tumbling Under $110 as Dogecoin and This New Coin Hunt for More Gains?",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-11.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-11-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-11-768x437.jpg 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eWith FTX asset repayments finally on the horizon, the cryptocurrency landscape is on the verge of a seismic shift, and major altcoins like Solana (SOL) are left in limbo. Investors are bracing for a price dip below $110 as millions of dollars in SOL are set to flood the market.",
+      "links": [
+        "https://thenewscrypto.com/will-upcoming-ftx-repayments-send-solana-tumbling-under-110-as-dogecoin-and-this-new-coin-hunt-for-more-gains/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-11.jpg"
+      },
+      "published": "2025-05-05T14:31:00Z"
+    }
+  },
+  {
+    "hash": "5d7d961c9049a91226eaf1f671435d2d445d7b926305421a12a0eec50e623b8a",
+    "item": {
+      "title": "Tether AI Teased To Boost Bitcoin and USDT Transactions",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-05_19-18-09.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-05_19-18-09.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-05_19-18-09-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-05_19-18-09-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTether CEO Paolo Ardoino has sparked major interest in the crypto world with a teaser for Tether AI, a decentralized artificial intelligence infrastructure. Designed to supercharge Bitcoin and USDT transaction volumes, this innovation could redefine how decentralized applications operate in the blockchain space. In a recent X (formerly Twitter) post,",
+      "links": [
+        "https://thenewscrypto.com/tether-ai-teased-to-boost-bitcoin-and-usdt-transactions/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "stablecoins",
+        "USDT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-05_19-18-09.jpg"
+      },
+      "published": "2025-05-05T13:53:34Z"
+    }
+  },
+  {
+    "hash": "1faad2ffa088177e94f06475c8a79dd75b8b8b5c3250146bd40b162c15a3f220",
+    "item": {
+      "title": "ECB Selects COTI as Pioneer Partner for CBDC Digital Euro Project",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ECB Selects COTI as Pioneer Partner for CBDC Digital Euro Project\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe European Central Bank\u0026#8217;s (ECB) initiative\u0026#160;to explore\u0026#160;technologies for a potential\u0026#160;Digital Euro has selected COTI as a Pioneer Partner. In order to provide solutions for a central bank digital currency (CBDC) that is applicable across the euro, COTI will collaborate with the ECB and other partner organizations. Preparing for the launch",
+      "links": [
+        "https://thenewscrypto.com/ecb-selects-coti-as-pioneer-partner-for-cbdc-digital-euro-project/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-05-05T13:44:04Z"
+    }
+  },
+  {
+    "hash": "378d0b698b6f6bb7dac981bdf6277c7ff05341d1356ba340f5f884120d58df89",
+    "item": {
+      "title": "Solana Price Action: Are Bulls Ready to Overcome Market Uncertainty?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Solana-Price-Reach-100-Support-as-Token-Dips-Further.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana Price Action: Are Bulls Ready to Overcome Market Uncertainty?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Solana-Price-Reach-100-Support-as-Token-Dips-Further.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Solana-Price-Reach-100-Support-as-Token-Dips-Further-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Solana-Price-Reach-100-Support-as-Token-Dips-Further-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market cap’s brief pullback has pushed down to reach $2.95 trillion. With the fear and greed index value holding at around 49, the market sentiment falls under the neutral zone. The major assets fluctuate between losses and gains, while Solana (SOL) has posted a loss of over 0.65%.\u0026#160;",
+      "links": [
+        "https://thenewscrypto.com/solana-price-action-are-bulls-ready-to-overcome-market-uncertainty/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Will-Solana-Price-Reach-100-Support-as-Token-Dips-Further.jpg"
+      },
+      "published": "2025-05-05T13:36:23Z"
+    }
+  },
+  {
+    "hash": "c421576ef653bd24d87a4fed1d31ae6051201cbfdcbfe9ecdce230a517a6fc7c",
+    "item": {
+      "title": "You Missed Dogecoin (DOGE) at Its Bottom, Don’t Overlook This Under-$0.25 Crypto With 16930% Growth Potential.",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-10.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-10.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-10-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-10-768x437.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eRexas Finance (RXS) has established itself as a game-changing cryptocurrency,, providing investors who missed Dogecoin\u0026#8217;s explosive growth in 2021 with a fresh investment opportunity. RXS leads the market by offering a 16,930% growth potential that transforms tokenization and trading of real-world assets (RWA). The innovative platform unites blockchain technology with",
+      "links": [
+        "https://thenewscrypto.com/you-missed-dogecoin-doge-at-its-bottom-dont-overlook-this-under-0-25-crypto-with-16930-growth-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-10.jpg"
+      },
+      "published": "2025-05-05T13:28:54Z"
+    }
+  },
+  {
+    "hash": "5704296cd11dbadd94bc007637736fb02a3822d70bb063bfba611b695aa5839b",
+    "item": {
+      "title": "Evolving OpenAI's Structure",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897772\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/evolving-our-structure/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T18:08:02Z"
+    }
+  },
+  {
+    "hash": "b878b3a67118e824aec2869f330748db982b3d7a94b4c9c235af46bb63f37991",
+    "item": {
+      "title": "Show HN: Real-time AI Voice Chat at ~500ms Latency",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899028\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/KoljaB/RealtimeVoiceChat"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T20:17:32Z"
+    }
+  },
+  {
+    "hash": "3e00b85e4e0728dd1369a35a5f9eb14233c2869ff57e2f3f72d0b53c2ea3c210",
+    "item": {
+      "title": "Possibly a Serious Possibility",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43898380\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kucharski.substack.com/p/possibly-a-serious-possibility"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T19:11:33Z"
+    }
+  },
+  {
+    "hash": "1119f21cc61820ffe50fdd5dd6b2ed63cce0c1e724d4e73beca1483f38f1fb51",
+    "item": {
+      "title": "Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897719\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/leontrolski/tkintergalactic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T18:02:20Z"
+    }
+  },
+  {
+    "hash": "95aaf482049b7ae28375459b05ae38c1c14fb371aaa1ae03e5e948b7a989ab57",
+    "item": {
+      "title": "Kate and Python Language Server",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43875134\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://akselmo.dev/posts/kate-python-lsp/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T22:27:35Z"
+    }
+  },
+  {
+    "hash": "056bbe5ec24b311da9d48da707be41ce3a4c52f3757bea7f67c5de7fb0b3b01d",
+    "item": {
+      "title": "Flies in the evidence room: Inside Belgium's rotting Justice Palace",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43878298\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ft.com/content/0b72735a-b587-4dd3-a1ac-2805c89f5d2f"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-03T11:16:09Z"
+    }
+  },
+  {
+    "hash": "87b3cc91af1a828bd6bdaf80642f29132f42e12ff6c80d774ce1650c8688ec20",
+    "item": {
+      "title": "The Death of Daydreaming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43894305\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.afterbabel.com/p/on-the-death-of-daydreaming"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T12:22:10Z"
+    }
+  },
+  {
+    "hash": "b1e3a7fd7f015c0cae8a81f9878fd68b0b47bcf17b7f4fef78ee6866189e812c",
+    "item": {
+      "title": "The Beauty of Having a Pi-Hole (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43894175\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://den.dev/blog/pihole/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T12:06:11Z"
+    }
+  },
+  {
+    "hash": "4607088fba4e64e971b47ae99c46b0db334962a06d06135b0d1a060dc4017e7f",
+    "item": {
+      "title": "The Uncanny Mirror: AI, Self-Doubt, and the Limits of Reflection",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43866810\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lucidnonsense.net/p/the-uncanny-mirror"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T06:36:33Z"
+    }
+  },
+  {
+    "hash": "721729a2810e1c8f06e33e46b266e633e5f132bc0014b2cfe5e4347fafc857b3",
+    "item": {
+      "title": "No Instagram, no privacy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896228\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T15:37:26Z"
+    }
+  },
+  {
+    "hash": "8e903e44542457a0d092ebe8d725057bed88b21f022a60c6f5a56187368f76b5",
+    "item": {
+      "title": "Internet usage pattern during power outage in Spain and Portugal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43894363\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T12:29:21Z"
+    }
+  },
+  {
+    "hash": "d20a801dd09821e0053dbaf89666bac19b0884d766840127b3c603aac32a60f9",
+    "item": {
+      "title": "FEX 2505 Released With Many Fixes For Running x86_64 Binaries On Linux AArch64",
+      "description": "FEX 2505 is out today as the newest version of this user-space software that enables running x86_64 binaries on ARM64/AArch64 Linux hosts with great speed that a number of games and applications are enjoying much success with this emulator...",
+      "links": [
+        "https://www.phoronix.com/news/FEX-2505-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-05T20:51:12Z"
+    }
+  },
+  {
+    "hash": "4f1e4fa52eb50a7dccd9b2849a8552b6ee28d9604068678ea1ed0d9069ca6c39",
+    "item": {
+      "title": "Redox OS Seeing More Software Porting, Many Internal Improvements",
+      "description": "The open-source, Rust-based Redox OS operating system has published their April 2025 status report to outline interesting changes made over the past several weeks to this innovative project...",
+      "links": [
+        "https://www.phoronix.com/news/Redox-OS-April-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-05T18:25:42Z"
+    }
+  },
+  {
+    "hash": "ffa6eb251878e07a67600b2ebdcbfc8f445120fe789814aaed1e4b23473ab417",
+    "item": {
+      "title": "Is Donald Trump Cashing In on $TRUMP? President Denies Profit as Ethics Heat Up",
+      "description": "\u003cp\u003eDonald Trump has told NBC he has not profited from $TRUMP, the memecoin launched before his inauguration. He is set to host a gala for its 220 top holders, spurring Senators Warren and Schiff to seek an ethics inquiry, while his USD1 stablecoin venture readies its first settlement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-says-he-is-not-profiting-from-meme-coin-amid-crypto-controversy/\"\u003eIs Donald Trump Cashing In on $TRUMP? President Denies Profit as Ethics Heat Up\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-says-he-is-not-profiting-from-meme-coin-amid-crypto-controversy/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Donald Trump",
+        "Elizabeth Warren",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/12/04165715/1733331435-julia_63915_the_white_house_overlaid_with_cryptocurrencies_fe59ccd9-f3c0-408f-8ea8-b4ff34debcdf_optimized.jpg"
+      },
+      "published": "2025-05-05T20:06:17Z"
+    }
+  },
+  {
+    "hash": "6aa33f7306537e1ed93187f025c56f7f9d6153984d847df4fe0f0870633545b2",
+    "item": {
+      "title": "U.S. Treasury Crackdown Exposes Karen National Army’s $3.5B ‘Pig-Butchering’ Crypto Scam Empire",
+      "description": "\u003cp\u003eU.S. Treasury has sanctioned the Karen National Army, listing it as a transnational criminal organisation and blocking assets of commander Saw Chit Thu and his sons after probes linked the militia to “pig-butchering” crypto scams, forced labour and trafficking networks that have drained billions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-crackdown-karen-national-army-crypto-scam/\"\u003eU.S. Treasury Crackdown Exposes Karen National Army’s $3.5B ‘Pig-Butchering’ Crypto Scam Empire\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-crackdown-karen-national-army-crypto-scam/"
+      ],
+      "categories": [
+        "DeFi News",
+        "News",
+        "crypto scams",
+        "US Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/05192906/1746473346-image-1746473324017_optimized.jpg"
+      },
+      "published": "2025-05-05T19:39:33Z"
+    }
   }
 ]
