@@ -2185,5 +2185,986 @@
       },
       "published": "2025-05-06T09:09:39Z"
     }
+  },
+  {
+    "hash": "2233bd884f124ace1a3671436103622f562e638c708c5143bd5298bc454d578e",
+    "item": {
+      "title": "Data centers say Trump’s crackdown on renewables bad for business, AI",
+      "description": "Without renewables, it's nearly impossible to meet growing power demand from AI.",
+      "links": [
+        "https://arstechnica.com/information-technology/2025/05/trumps-attacks-on-green-energy-are-big-trouble-for-data-centers-ai/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "data centers",
+        "green energy",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Martha Muir, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-520301232-1152x648.jpg"
+      },
+      "published": "2025-05-06T13:26:37Z"
+    }
+  },
+  {
+    "hash": "564d65448f82d54c25c0aa52fc04c0a1ec0f3698c958b83866043783b665ed88",
+    "item": {
+      "title": "Lighter, cheaper Surface Laptop saves a little money but gives up a lot",
+      "description": "$899 laptop looks fine, but the cost savings might not be worth it.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/05/lighter-cheaper-surface-laptop-saves-a-little-money-but-gives-up-a-lot/"
+      ],
+      "categories": [
+        "Tech",
+        "ARM",
+        "copilot",
+        "microsoft",
+        "Qualcomm",
+        "snapdragon",
+        "Surface",
+        "surface laptop",
+        "windows 11",
+        "windows 11 24h2"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/surface-laptop-13-1152x648.jpg"
+      },
+      "published": "2025-05-06T13:00:16Z"
+    }
+  },
+  {
+    "hash": "21a638debee4af25bd85fd277b9039965c638b3f98505b365f5863c8e286f010",
+    "item": {
+      "title": "Microsoft’s 12-inch Surface Pro is cheaper but unfixes a decade-old design problem",
+      "description": "New Surface Pro undoes a key improvement first used in 2014's Surface Pro 3.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/05/microsofts-12-inch-surface-pro-is-cheaper-but-unfixes-a-decade-old-design-problem/"
+      ],
+      "categories": [
+        "Tech",
+        "copilot+ PC",
+        "microsoft",
+        "Microsoft Surface",
+        "Surface",
+        "surface pro"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/surface-pro-12-inch-2-1152x648.jpg"
+      },
+      "published": "2025-05-06T13:00:13Z"
+    }
+  },
+  {
+    "hash": "4d9c2c146a5254863d886616428354ec86ac747420dda1adea3c38fc68f35613",
+    "item": {
+      "title": "Tuesday Telescope: After spacewalking, an astronaut strikes lightning",
+      "description": "\"I am so amazed by the view we have up here of our Earth’s weather systems.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/05/tuesday-telescope-its-not-space-weather-but-weather-from-space/"
+      ],
+      "categories": [
+        "Space",
+        "daily telescope",
+        "space",
+        "tuesday telescope"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/space-station-lightning-1152x648.jpg"
+      },
+      "published": "2025-05-06T12:00:56Z"
+    }
+  },
+  {
+    "hash": "36b70c231dff177adeeb329c539434cc3db9d8f30cbe430485f0de9ebf488051",
+    "item": {
+      "title": "Kurchu Tool Taking Shape For Assembling Fedora / CentOS Linux Distro ISOs",
+      "description": "As an alternative to the likes of the Pungi tool, Kurchu is a newer project within the CentOS/Fedora space for assembling  content collections or ISO images of Linux distribution builds. Kurchu is already seeing use by the CentOS Hyperscale SIG for assembling their images while additional functionality continues to be worked on for those wanting to craft their own Fedora/CentOS install images...",
+      "links": [
+        "https://www.phoronix.com/news/CentOS-Kurchu"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-06T15:05:00Z"
+    }
+  },
+  {
+    "hash": "0c7d114ff84817dc2a5cb15809c2877a6014244b77a7fe74e72683c7056530d4",
+    "item": {
+      "title": "Intel's Clear Linux Demonstrates Software Optimization Benefits On AMD EPYC 9005 Series",
+      "description": "With the spring Linux distribution/OS updates upon us, in recent weeks I've looked at the Ubuntu 25.04 performance gains on AMD EPYC 9005 \"Turin\" and also the performance of Fedora Server 42. Following that I expanded the scope of the Linux operating systems (distributions) benchmarks on the latest 5th Gen AMD EPYC server hardware. Here is a look at how the performance of the new Ubuntu and Fedora Linux releases compare to AlmaLinux and Intel's in-house Clear Linux distribution that tends to be at the forefront of open-source performance optimizations.",
+      "links": [
+        "https://www.phoronix.com/review/amd-epyc-mid2025-linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-06T13:45:00Z"
+    }
+  },
+  {
+    "hash": "8c5c55c05a1d62ebefe0e268b109273e67b1e8eb682cc2525e56ecac7aa20b4f",
+    "item": {
+      "title": "Ubuntu 25.10 Plans To Use sudo-rs By Default For Memory-Safe, Rust-Based sudo",
+      "description": "With Ubuntu 25.10 Canonical is planning to make use of more Rust-written system components and so far most of that talk has been about transitioning to Rust Coreutils \"uutils\" in place of GNU Coreutils. It's also been firmed up today that Canonical is planning on using sudo-rs by default as a replacement to sudo...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.10-sudo-rs-Default"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-06T12:30:00Z"
+    }
+  },
+  {
+    "hash": "a80542682cbfa46461683464d10b1ee9908918d7b5a3d2b7ef98a2400e55df6e",
+    "item": {
+      "title": "PoCL 7.0 RC1 Released With Official OpenCL 3.0 Conformance On CPUs \u0026 Level Zero",
+      "description": "PoCL 7.0 is on approach as the newest version of this \"Portable Computing Language\" implementation that began as a CPU-based OpenCL driver implementation but with time has added support for other back-ends from Intel Level Zero to NVIDIA PTX and AMD HSA...",
+      "links": [
+        "https://www.phoronix.com/news/PoCL-7.0-RC1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-06T12:18:13Z"
+    }
+  },
+  {
+    "hash": "702e0c3784860ab8e5a6307d882b3d0c03ae310f43c79d977d6f68540446cc3f",
+    "item": {
+      "title": "Bitget Delivers VIP Ringside Experience at Karate Combat KC54 During Token2049",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-06_14-25-29_1746530890ZDnwFpj2pS.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-06_14-25-29_1746530890ZDnwFpj2pS.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-06_14-25-29_1746530890ZDnwFpj2pS-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-06_14-25-29_1746530890ZDnwFpj2pS-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-06_14-25-29_1746530890ZDnwFpj2pS-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eVictoria, Seychelles, 6th May 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bitget-delivers-vip-ringside-experience-at-karate-combat-kc54-during-token2049/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-06_14-25-29_1746530890ZDnwFpj2pS.jpg"
+      },
+      "published": "2025-05-06T11:33:02Z"
+    }
+  },
+  {
+    "hash": "0808f604b6c115d79ef9ab61b26393748e7d2e6bbb434918bee0b08b7dbea191",
+    "item": {
+      "title": "TRUMP Coin Price Stumbles Below $12, But Bull Flag Hints At Rally Toward $23",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/OFFICIAL-TRUMP-price-analysis-2-1-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"TRUMP Coin Price Stumbles Below $12, But Bull Flag Hints At Rally Toward $23\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/OFFICIAL-TRUMP-price-analysis-2-1-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/OFFICIAL-TRUMP-price-analysis-2-1-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/OFFICIAL-TRUMP-price-analysis-2-1-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDonald Trump\u0026#8217;s backed memecoin, $TRUMP has seen a sharp bearish action as it dips to $10 zone once again, although technical patterns believe a potential rebound might be nearer. Initially, TRUMP\u0026#8217;s market performance has attracted market sentiment and reactions. Now, the token\u0026#8217;s market capitalisation stands at $2.14 billion, down by",
+      "links": [
+        "https://thenewscrypto.com/trump-coin-price-stumbles-below-12-but-bull-flag-hints-at-rally-toward-23/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "TRUMP",
+        "Trump Coin",
+        "Trump meme coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/OFFICIAL-TRUMP-price-analysis-2-1-1.jpg"
+      },
+      "published": "2025-05-06T10:50:39Z"
+    }
+  },
+  {
+    "hash": "ee7cb773835b9a497de4e87ed0fcf20255a1a7f67abd47f5b2240f9b81a4d544",
+    "item": {
+      "title": "Solana Could Reach $250, But Analysts Predict Ozak AI Might Be the True 2025 Winner",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Crypto-Market-Shake-Up.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana Could Reach $250, But Analysts Predict Ozak AI Might Be the True 2025 Winner\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Crypto-Market-Shake-Up.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Crypto-Market-Shake-Up-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Crypto-Market-Shake-Up-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrypto markets are gearing up for what many believe will be a landmark year in 2025, and two names are standing out among analysts: Solana (SOL) and Ozak AI (OZ). Solana, known for its blazing transaction speeds and scalable architecture, is eyeing a return to the $250 level last seen",
+      "links": [
+        "https://thenewscrypto.com/solana-could-reach-250-but-analysts-predict-ozak-ai-might-be-the-true-2025-winner/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Crypto-Market-Shake-Up.jpg"
+      },
+      "published": "2025-05-06T10:43:44Z"
+    }
+  },
+  {
+    "hash": "ba6a8591c3af13c2489fde9cc95ae7a2db2aa69fef6f28bfe1efc827064e5a5c",
+    "item": {
+      "title": "Ethereum’s Pectra Upgrade Goes Live May 7, Will It Spark the Next ETH Rally?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum_Pectra_Upgrade_Set_to_Launch_on_May_7_–_Largest_Update.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum\u0026#039;s Pectra Upgrade Goes Live May 7, Will It Spark the Next ETH Rally?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum_Pectra_Upgrade_Set_to_Launch_on_May_7_–_Largest_Update.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum_Pectra_Upgrade_Set_to_Launch_on_May_7_–_Largest_Update-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum_Pectra_Upgrade_Set_to_Launch_on_May_7_–_Largest_Update-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEthereum is preparing for its biggest upgrade since The Merge in 2022. On May 7, 2025, the network will officially activate the Pectra upgrade, a combined initiative involving the Prague (execution layer) and Electra (consensus layer) updates. The goal: improve speed, wallet usability, and staking efficiency for millions of users",
+      "links": [
+        "https://thenewscrypto.com/ethereums-pectra-upgrade-goes-live-may-7-will-it-spark-the-next-eth-rally/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Market Updates",
+        "ETH",
+        "ETH Upgrade",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum_Pectra_Upgrade_Set_to_Launch_on_May_7_–_Largest_Update.jpg"
+      },
+      "published": "2025-05-06T10:00:47Z"
+    }
+  },
+  {
+    "hash": "f046e96d240f506a1a6753fd67d115d2816b921229c118726a2b88d5d5225948",
+    "item": {
+      "title": "US SEC’s May 12 Roundtable to Focus on Tokenization \u0026 DeFi",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/SECs_May_12_Roundtable_BlackRock_Nasdaq_and_Others_to_Discuss.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"US SEC’s May 12 Roundtable to Focus on Tokenization \u0026amp; DeFi\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/SECs_May_12_Roundtable_BlackRock_Nasdaq_and_Others_to_Discuss.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/SECs_May_12_Roundtable_BlackRock_Nasdaq_and_Others_to_Discuss-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/SECs_May_12_Roundtable_BlackRock_Nasdaq_and_Others_to_Discuss-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe U.S. Securities and Exchange Commission (SEC) is preparing for a high-profile roundtable on May 12, bringing together leaders from BlackRock, Nasdaq, Fidelity, Robinhood, and more to discuss tokenization and decentralized finance (DeFi). Hosted at the SEC’s headquarters in Washington, D.C., the event, titled “Tokenization — Moving Assets Onchain: Where",
+      "links": [
+        "https://thenewscrypto.com/us-secs-may-12-roundtable-to-focus-on-tokenization-defi/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "DeFi",
+        "SEC",
+        "tokenization"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/SECs_May_12_Roundtable_BlackRock_Nasdaq_and_Others_to_Discuss.jpg"
+      },
+      "published": "2025-05-06T09:50:25Z"
+    }
+  },
+  {
+    "hash": "54d3f45a1405033c96381482624428f91602562a26610f5728043744daa9f4b2",
+    "item": {
+      "title": "Pudgy Penguins (PENGU) Eyes $0.02 As Recovery Gains Traction After 250% Bounce",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Pudgy-Penguins-Markets-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pudgy Penguins (PENGU) Eyes $0.02 As Recovery Gains Traction After 250% Bounce\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Pudgy-Penguins-Markets-3.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Pudgy-Penguins-Markets-3-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Pudgy-Penguins-Markets-3-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePudgy Penguins (PENGU) has staged a surprising comeback, turning heads across the meme coin space with a sharp bounce from its 2025 lows.\u0026#160; Now trading around $0.01166, the coin is up 11.21% in the past 24 hours, while trading volume has jumped by over 47%. Momentum is returning, but with",
+      "links": [
+        "https://thenewscrypto.com/pudgy-penguins-pengu-eyes-0-02-as-recovery-gains-traction-after-250-bounce/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "PENGU",
+        "pudgy",
+        "Pudgy Penguins"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Pudgy-Penguins-Markets-3.jpg"
+      },
+      "published": "2025-05-06T09:39:03Z"
+    }
+  },
+  {
+    "hash": "de2bcd8cb908d5941bcb947450eaf0fe13c5f7228b70e863a4a177809395d479",
+    "item": {
+      "title": "Kenya Court Orders Worldcoin to Delete Biometric Data",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-06-at-15.05.44_8211ff84.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Kenya Court Orders Worldcoin to Delete Biometric Data\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-06-at-15.05.44_8211ff84.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-06-at-15.05.44_8211ff84-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-06-at-15.05.44_8211ff84-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe High Court of Kenya has recently ordered Sam Altman to delete the biometric data gathered by the Worldcoin project within one week. On Monday, Lady Justice Aburili ordered in an open court that Worldcoin Foundation and its officials delete the biometric data permanently collected in Kenya.\u0026#160; The counsel for",
+      "links": [
+        "https://thenewscrypto.com/kenya-court-orders-worldcoin-to-delete-biometric-data/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "AI",
+        "Kenya",
+        "Worldcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sharmistha Suman"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-06-at-15.05.44_8211ff84.jpg"
+      },
+      "published": "2025-05-06T09:38:51Z"
+    }
+  },
+  {
+    "hash": "192eb068227347fe2f76c88ca0d19d6bf45b7a09aee95507b86dba6e6dcdaaf8",
+    "item": {
+      "title": "MultiBank Group to tokenize $3 billion in real estate assets with MAG as it readies to launch $MBG",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp_Image_2025-05-02_at_161503_1746428895OlAVXPRW6X.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp_Image_2025-05-02_at_161503_1746428895OlAVXPRW6X.jpeg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp_Image_2025-05-02_at_161503_1746428895OlAVXPRW6X-300x180.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp_Image_2025-05-02_at_161503_1746428895OlAVXPRW6X-1024x614.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp_Image_2025-05-02_at_161503_1746428895OlAVXPRW6X-768x461.jpeg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eDubai, UAE, 6th May 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/multibank-group-to-tokenize-3-billion-in-real-estate-assets-with-mag-as-it-readies-to-launch-mbg/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp_Image_2025-05-02_at_161503_1746428895OlAVXPRW6X.jpeg"
+      },
+      "published": "2025-05-06T09:36:47Z"
+    }
+  },
+  {
+    "hash": "528c90085389245b45828316a2d0406673ca11cccf967d37adaa78c2e70b4d43",
+    "item": {
+      "title": "FOUR Token Price Bounced Back as Traders Bet on $3 Price Level",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Four-price-analysis2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"FOUR Token Price Bounced Back as Traders Bet on $3 Price Level\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Four-price-analysis2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Four-price-analysis2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Four-price-analysis2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe FORM cryptocurrency has achieved a major bullish breakout on the 4-hour chart, which caused prices to reach their highest levels in weeks. Form has experienced a strong upward movement in early May after spending most of April between $2.00 and $2.30 before reaching its current price of $2.37. The",
+      "links": [
+        "https://thenewscrypto.com/four-token-price-bounced-back-as-traders-bet-on-3-price-level/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Crypto Market"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Four-price-analysis2.jpg"
+      },
+      "published": "2025-05-06T09:17:30Z"
+    }
+  },
+  {
+    "hash": "6571c68871247fb1b23644a05ce69a910317a3c18b84fea26312cc290443ebc7",
+    "item": {
+      "title": "Matrixdock Featured in Tokenized Asset Coalition’s Inaugural Member Spotlight Series With Deep Dive on Tokenized Gold, XAUm",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"496\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-1.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-1-300x191.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-1-768x488.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMatrixdock, a digital assets platform that provides access to real-world assets (\u0026#8220;RWA\u0026#8221;) through tokenization and a brand wholly-owned by Matrixport,\u0026#160; is proud to announce its feature in the Tokenized Asset Coalition’s (TAC) inaugural Member Spotlight series with a comprehensive deep dive report on XAUm — Matrixdock’s flagship tokenized gold offering.",
+      "links": [
+        "https://thenewscrypto.com/matrixdock-featured-in-tokenized-asset-coalitions-inaugural-member-spotlight-series-with-deep-dive-on-tokenized-gold-xaum/"
+      ],
+      "categories": [
+        "Press Release",
+        "Matrixdock"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-1.png"
+      },
+      "published": "2025-05-06T08:45:36Z"
+    }
+  },
+  {
+    "hash": "ce69af12cb97f43fa920a42fdea76f17ec6e7cf9f8a017d9b578907b668f8c98",
+    "item": {
+      "title": "Optical Contact Bonding: Where the Macro Meets the Molecular",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg 3000w, https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?resize=2048,1239 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"779286\" data-permalink=\"https://hackaday.com/2025/05/06/optical-contact-bonding-where-the-macro-meets-the-molecular/bonding/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Bonding\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg?w=800\" /\u003e\u003c/div\u003eIf you take two objects with fairly smooth surfaces, and put these together, you would not expect them to stick together. At least not without a liberal amount of adhesive, \u003ca href=\"https://hackaday.com/2025/05/06/optical-contact-bonding-where-the-macro-meets-the-molecular/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/06/optical-contact-bonding-where-the-macro-meets-the-molecular/"
+      ],
+      "categories": [
+        "Featured",
+        "Interest",
+        "Original Art",
+        "Science",
+        "optical contact binding"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/04/Bonding.jpg"
+      },
+      "published": "2025-05-06T14:00:40Z"
+    }
+  },
+  {
+    "hash": "a401680f5a3ee9fd9dc33801d3ec0884ef6c82240ce90cb900ff6b7430237f2f",
+    "item": {
+      "title": "Improving Flying Drones By Mimicking Flying Squirrels",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"543\" src=\"https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg 862w, https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg?resize=250,170 250w, https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg?resize=400,271 400w, https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg?resize=800,543 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"779001\" data-permalink=\"https://hackaday.com/2025/05/06/improving-flying-drones-by-mimicking-flying-squirrels/flying_squirrel_drone_dohyeon_lee_et_al_2025/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg\" data-orig-size=\"862,585\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"flying_squirrel_drone_dohyeon_lee_et_al_2025\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg?w=800\" /\u003e\u003c/div\u003eWith the ability to independently adjust the thrust of each of their four motors, quadcopters are exceptionally agile compared to more traditional aircraft. But in an effort to create an \u003ca href=\"https://hackaday.com/2025/05/06/improving-flying-drones-by-mimicking-flying-squirrels/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/06/improving-flying-drones-by-mimicking-flying-squirrels/"
+      ],
+      "categories": [
+        "drone hacks",
+        "quadcopter",
+        "squirrel"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/flying_squirrel_drone_dohyeon_lee_et_al_2025.jpg"
+      },
+      "published": "2025-05-06T11:00:01Z"
+    }
+  },
+  {
+    "hash": "63ba1ecfd8e8f74aaadec357c3ca3a1d5d7259c66a63cf8645bacac7fdbbbf45",
+    "item": {
+      "title": "New Investment Scams Use Facebook Ads, RDGA Domains, and IP Checks to Filter Victims",
+      "description": "Cybersecurity researchers have lifted the lid on two threat actors that orchestrate investment scams through spoofed celebrity endorsements and conceal their activity through traffic distribution systems (TDSes).\nThe activity clusters have been codenamed Reckless Rabbit and Ruthless Rabbit by DNS threat intelligence firm Infoblox.\nThe attacks have been observed to lure victims with bogus",
+      "links": [
+        "https://thehackernews.com/2025/05/new-investment-scams-use-facebook-ads.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSsP9cLL2nqy5d-ow2xBTm3tn-0WNPg1jPMHyrVfv0FaCTG1mAe2d-OUhNyGKFwwgQNYsaZjN88V31UGCeKAFU7Iv4ejlC2Qx7WRthoD0bhXOa9-PVmLgdpQbmFOmJnxGx5bgu7DRmrDJvKDFEHkr67VW1fBZPF2HPzw4ZXGUyWN4_KnN__pwqVa_WSFW/s1600/scams.jpg"
+      },
+      "published": "2025-05-06T13:36:00Z"
+    }
+  },
+  {
+    "hash": "18e69c5aa6d20d2f764b80b5ca1d2facfdde100a01f56f79d71dc95e06b133a3",
+    "item": {
+      "title": "Nnd – a TUI debugger alternative to GDB, LLDB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43905185\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/al13n321/nnd"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T13:58:03Z"
+    }
+  },
+  {
+    "hash": "3d2148106919bda7949dbb0c5ccbde6432785bcb25c72f29bfb3fd85575794d3",
+    "item": {
+      "title": "Accents in Latent Spaces: How AI Hears Accent Strength in English",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43905299\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://accent-strength.boldvoice.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T14:07:57Z"
+    }
+  },
+  {
+    "hash": "07d1cb41ec9709a0cde2d41d64a6f7fce661470a7a9ea41262abc46e4ec669c7",
+    "item": {
+      "title": "Memory-safe sudo to become the default in Ubuntu",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43903853\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T11:22:55Z"
+    }
+  },
+  {
+    "hash": "64a36cf2d96fe147d80b31f622bf67d2910cfb97c9e46b1d0cb14be347a056f6",
+    "item": {
+      "title": "Design and evaluation of a parrot-to-parrot video-calling system (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43903728\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T11:03:28Z"
+    }
+  },
+  {
+    "hash": "ae0bbfdd647459bea3806273181c5de47218cea0ecae8f181d114fe7defd0fe8",
+    "item": {
+      "title": "Propositions as Types (2014) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43903945\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T11:36:09Z"
+    }
+  },
+  {
+    "hash": "c06ef7c3154e2ce135f6e5b06a141955318cb45ea3f21c9c1d5d780fa1bf6136",
+    "item": {
+      "title": "Taking the bite out of Lyme disease",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43903959\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T11:38:44Z"
+    }
+  },
+  {
+    "hash": "4329402024a44e85bb6ff0eeaa9fae5947ff1e6c7f79c13d36010918668a4962",
+    "item": {
+      "title": "Sneakers (1992)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43902263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T06:15:13Z"
+    }
+  },
+  {
+    "hash": "5dbdb891e36471c8dc286e4382ebddc163a60c46b5e5168c1cda3d65b4c22e41",
+    "item": {
+      "title": "MTerrain: Optimized terrain system and editor for Godot",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43904865\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/mohsenph69/Godot-MTerrain-plugin"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T13:26:21Z"
+    }
+  },
+  {
+    "hash": "c4031bb990c8e1443ce0b6a214e817e6bc6b0caf7cad6c1fca07421f738f387c",
+    "item": {
+      "title": "An appeal to Apple from Anukari",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901619\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://anukari.com/blog/devlog/an-appeal-to-apple"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T03:40:10Z"
+    }
+  },
+  {
+    "hash": "1a53f758230b9dd7a1226387e4d281646454e3a9140b18dd5794c2ae0c32d7b7",
+    "item": {
+      "title": "The Inchtuthil Nail Hoard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43893442\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T10:17:17Z"
+    }
+  },
+  {
+    "hash": "a77e29ab35890ae2344ca9a451440dc0b3113889cf99030579ecb9f1aed07c6a",
+    "item": {
+      "title": "Getting things “done” in large tech companies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43903741\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/getting-things-done/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T11:04:39Z"
+    }
+  },
+  {
+    "hash": "9057423e23dc60c5c402f01720aaf6220595dbbed751df8e0c51419829bb20c7",
+    "item": {
+      "title": "Dreariness Index (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899317\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://us-climate.blogspot.com/2015/03/dreary-weather.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T20:50:00Z"
+    }
+  },
+  {
+    "hash": "b3673f991363c333502abf00be48a7cc944de6eadffdc84da75214067640636d",
+    "item": {
+      "title": "Sea snail teeth top Kevlar, titanium as strongest material (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43871730\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.2963357/sea-snail-teeth-top-kevlar-titanium-as-world-s-strongest-material-1.2963549"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-02T16:16:52Z"
+    }
+  },
+  {
+    "hash": "e36da463f86de81f48e26a3e9a82a1300ef3dcab433528137b1099eabb4b76ea",
+    "item": {
+      "title": "Show HN: Outpost – OSS infra for outbound webhooks and event destinations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43904511\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/hookdeck/outpost"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T12:50:46Z"
+    }
+  },
+  {
+    "hash": "7f90dd4cf85a9af9693cd558736b6a5cf3d3f6a5dc34bf0317c3ff00e09ab8fa",
+    "item": {
+      "title": "Pixels in Islamic Art: Square Kufic Calligraphy (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899251\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://uwithumlaut.wordpress.com/2020/07/24/pixels-in-islamic-art-square-kufic-calligraphy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T20:42:03Z"
+    }
+  },
+  {
+    "hash": "54cf81733613d1e5f083103fc18bb7c76b50403a45b9e57a5668de69ab929f0d",
+    "item": {
+      "title": "Pectra Upgrade: What’s Happening… and Will ETH Rally?",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003ePectra has been billed as the biggest upgrade since The Merge — with benefits for ETH investors and validators alike.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/pectra-upgrade-whats-happening-and-will-eth-rally/\"\u003ePectra Upgrade: What\u0026#8217;s Happening… and Will ETH Rally?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/pectra-upgrade-whats-happening-and-will-eth-rally/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Blockchain",
+        "Cryptocurrency",
+        "Ethereum",
+        "Ethereum 2.0",
+        "Ethereum ETFs",
+        "Market",
+        "Regulation",
+        "Staking",
+        "Vitalik Buterin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06144731/1746542851-55be1b52-ef9d-4df4-b67d-d316c4651ec0_optimized.jpg"
+      },
+      "published": "2025-05-06T15:00:04Z"
+    }
+  },
+  {
+    "hash": "3d97514968f83828823478548db00484b9559ca491baff72e663e272c97d02d5",
+    "item": {
+      "title": "Top Crypto Presale to Buy? The Low-Fee Payment Platform Everyone’s Talking About",
+      "description": "\u003cp\u003eSpacePay changes how we pay with crypto through its low 0.5% fees, instant cash settlements for merchants, and compatibility with over 325 wallets.Try paying for coffee with Bitcoin, and the barista will look confused. Most people have crypto sitting in wallets but can\u0026#8217;t spend it anywhere useful. Store owners avoid digital currencies because of wild [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/top-crypto-presale-buy-low-fee-payment-platform/\"\u003eTop Crypto Presale to Buy? The Low-Fee Payment Platform Everyone\u0026#8217;s Talking About\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/top-crypto-presale-buy-low-fee-payment-platform/"
+      ],
+      "categories": [
+        "Press Releases",
+        "spacepay"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06144015/top-crypto-presale-buy-low-fee-payment-platform.jpg"
+      },
+      "published": "2025-05-06T14:41:04Z"
+    }
+  },
+  {
+    "hash": "5514ada79aa0725092c6efaf8d3fd9fc561c2f73df17c7a2c992f64adfc42580",
+    "item": {
+      "title": "Fake TradingView YouTube Channels Drain Crypto Wallets – Best Wallet Emerges as Most Secure Option, ICO Hits $12M",
+      "description": "\u003cp\u003eFacing a rise in sophisticated wallet-draining scams, crypto users have increasingly turned to Best Wallet, whose $BEST presale has surpassed $12 m. The self-custodial platform keeps keys offline, filters malicious tokens, supports cross-chain swaps and plans gasless, MEV-protected transactions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/tradingview-scam-best-ico-12m/\"\u003eFake TradingView YouTube Channels Drain Crypto Wallets – Best Wallet Emerges as Most Secure Option, ICO Hits $12M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/tradingview-scam-best-ico-12m/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Best Wallet",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06142437/1746541476-unnamed-20.jpg"
+      },
+      "published": "2025-05-06T14:40:43Z"
+    }
+  },
+  {
+    "hash": "55d710ed2b5cd56e4e4b3a6ed20465c57ee27016003ac9f253c32adc656bcea1",
+    "item": {
+      "title": "3 Trending Tokens With Quiet Accumulation Patterns – What Comes Next?",
+      "description": "\u003cp\u003e\u003c!-- wp:paragraph {\"className\":\"\"} --\u003e\u003c/p\u003e\n\u003cp\u003eRight now, a select group of ultra-cheap meme coins is flashing price targets that hint at possible 100x returns, giving early movers a rare shot at outsized profits. Here’s a look at three penny-priced meme coins that analysts say could be poised for breakout moves you won’t want to overlook.\u003c/p\u003e\n\u003cp\u003e\u003c!-- /wp:paragraph --\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-trending-tokens-with-quiet-accumulation-patterns-what-comes-next-angle-anything-is-possible-in-crypto-if-current-momentum-continues-it-could-go-to-1-and-beyond-etc-flokibbpopcat/\"\u003e3 Trending Tokens With Quiet Accumulation Patterns – What Comes Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-trending-tokens-with-quiet-accumulation-patterns-what-comes-next-angle-anything-is-possible-in-crypto-if-current-momentum-continues-it-could-go-to-1-and-beyond-etc-flokibbpopcat/"
+      ],
+      "categories": [
+        "Press Releases",
+        "BTCBULL",
+        "Meme Coins",
+        "Popcat"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06133711/3-Undervalued-Tokens-With-Insane-Price-Targets-%E2%80%93-Still-Under-0.01-pepe-mind-dogecoin_optimized-2.jpg"
+      },
+      "published": "2025-05-06T14:31:44Z"
+    }
+  },
+  {
+    "hash": "cd2be32e3458161cfd15986d3a9dd8c6a25abca370d67b29125bba3e18233d8a",
+    "item": {
+      "title": "Pi Network Price Prediction: 90-Year-Old ‘Wyckoff Accumulation Pattern’ Could Signal Huge Breakout Soon",
+      "description": "\u003cp\u003ePi Coin (PI) has gone down by another 2% today and currently sits at $0.5795 as the token’s circulating supply continues to rise.PI’s performance has been a bit disappointing for early adopters as the token has retreated by 80.6% after it touched its all-time high of $2.98 in late February.Since then, selling pressure has been [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pi-network-price-prediction-90-year-old-wyckoff-accumulation-pattern-could-signal-huge-breakout-soon/\"\u003ePi Network Price Prediction: 90-Year-Old \u0026#8216;Wyckoff Accumulation Pattern\u0026#8217; Could Signal Huge Breakout Soon\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pi-network-price-prediction-90-year-old-wyckoff-accumulation-pattern-could-signal-huge-breakout-soon/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Pi Network",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06142031/1746541230-pi-network-price-prediction-90-year-old-wyckoff-accumulation-pattern-could-signal-huge-breakout-soon.jpg"
+      },
+      "published": "2025-05-06T14:30:02Z"
+    }
+  },
+  {
+    "hash": "06d9eb027470b4ce019dbb70191c79ae41487f70bf12b76f79d288dfa23960a7",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is red today\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003eRedStone and Securitize Partner to Launch First BCAP Price Feed on ZKsync\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003eChainlink Reveals Rewards Program with Space and Time\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003eCapital Investment Holding Partners with Fasset and Zand Bank to Launch ForteXchain\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-05-06T13:55:27Z"
+    }
+  },
+  {
+    "hash": "1006e60f731bd9244ab0dd475c09f419f9a01557aea809b19e71978bf05b4f90",
+    "item": {
+      "title": "Bitcoin Price Prediction: Why the Latest Pullback Might Be the Setup for a 2025 Super Rally",
+      "description": "\u003cp\u003eBitcoin’s drop near $94K may be the calm before a breakout. Learn why this consolidation could set the stage for a record rally in 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-why-the-latest-pullback-might-be-the-setup-for-a-2025-super-rally/\"\u003eBitcoin Price Prediction: Why the Latest Pullback Might Be the Setup for a 2025 Super Rally\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-why-the-latest-pullback-might-be-the-setup-for-a-2025-super-rally/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06132618/1746537978-btc.jpg"
+      },
+      "published": "2025-05-06T13:32:50Z"
+    }
+  },
+  {
+    "hash": "43bae2c6d0478e6d3406f3993594ee794fd27f770fe973a0d935c4f0f0e35c8e",
+    "item": {
+      "title": "Worldcoin (WLD) Drops 7% Amid Renewed Legal Heat in Kenya",
+      "description": "\u003cp\u003eWorldcoin ($WLD), the crypto project co-founded by OpenAI CEO Sam Altman, tumbled 7% to $0.8745 after falling from an intraday high of $0.9441.Worldcoin is down 7.18% on the day/ Source: CoinMarketCapThe drop comes amid renewed regulatory scrutiny in Kenya, adding to the altcoin’s struggles since its all-time high of $11.82 in March 2024.Global Pushback Intensifies [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/worldcoin-wld-drops-7-amid-renewed-legal-heat-in-kenya/\"\u003eWorldcoin (WLD) Drops 7% Amid Renewed Legal Heat in Kenya\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/worldcoin-wld-drops-7-amid-renewed-legal-heat-in-kenya/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "data privacy",
+        "Kenya",
+        "WLD"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06130352/1746536632-1746185671-worldcoin-price-prediction-how-high-can-wld-go-after-coinbase-announcement_optimized.webp"
+      },
+      "published": "2025-05-06T13:05:44Z"
+    }
+  },
+  {
+    "hash": "d8a008f265683061f0ca83b20cce1642cccdeebd128ba0b70fc1b4e499334b13",
+    "item": {
+      "title": "3 Undervalued Tokens With Insane Price Targets – Still Under $1",
+      "description": "\u003cp\u003eHere’s a closer look at three of the best meme coins under $1 that could be gearing up for a major rally — and possibly chasing that long-awaited $1 landmark.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-undervalued-tokens-with-insane-price-targets-still-under-0-01-pepe-mind-dogecoin/\"\u003e3 Undervalued Tokens With Insane Price Targets – Still Under $1\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-undervalued-tokens-with-insane-price-targets-still-under-0-01-pepe-mind-dogecoin/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Dogecoin",
+        "Meme Coins",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06112827/3-Undervalued-Tokens-With-Insane-Price-Targets-%E2%80%93-Still-Under-0.01-pepe-mind-dogecoin_optimized.jpg"
+      },
+      "published": "2025-05-06T12:53:35Z"
+    }
+  },
+  {
+    "hash": "9dffd0014d43c59a9a3aaa038a472ea8040387694605e990e149bf1ffb147c02",
+    "item": {
+      "title": "XRP Price Prediction: Real-World Adoption Is Surging – Is a Breakout to $100 Next?",
+      "description": "\u003cp\u003eXRP (XRP) has been declining in the past week as the crypto market seems to have taken a breather from its late April rally.Sentiment has apparently turned bearish ahead of Wednesday’s meeting of the Federal Open Market Committee (FOMC) as there is a bit of uncertainty about how the U.S. central bank will respond to [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-real-world-adoption-is-surging-is-a-breakout-to-100-next/\"\u003eXRP Price Prediction: Real-World Adoption Is Surging – Is a Breakout to $100 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-real-world-adoption-is-surging-is-a-breakout-to-100-next/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06123830/1746535109-xrp-price-prediction-real-world-adoption-is-surging-is-a-breakout-to-100-next.jpg"
+      },
+      "published": "2025-05-06T12:44:52Z"
+    }
+  },
+  {
+    "hash": "dec7aaa4fe4c05e7445a66621c70ef0a5daee31c86f8a07782846a9f392e283d",
+    "item": {
+      "title": "Ethereum Price Prediction: Can BlackRock’s ETF Flows Ignite a Rally to $10,000",
+      "description": "\u003cp\u003eInstitutional investors are rallying behind Ethereum despite a week of market stagnation, with BlackRock’s Ethereum ETF outperforming against broader headwinds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-can-blackrock-etf-flows-push-a-10000-ethereum-price-rally/\"\u003eEthereum Price Prediction: Can BlackRock’s ETF Flows Ignite a Rally to $10,000 \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-can-blackrock-etf-flows-push-a-10000-ethereum-price-rally/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Blackrock ETF",
+        "Ethereum",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06113208/ETH-USDT-1024x460.jpg"
+      },
+      "published": "2025-05-06T11:46:08Z"
+    }
   }
 ]
