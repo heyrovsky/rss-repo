@@ -756,5 +756,253 @@
       },
       "published": "2025-05-07T04:32:47Z"
     }
+  },
+  {
+    "hash": "5a8579a624accfae92f979227bceca667c4d35043cb9d51038b834f09707dedc",
+    "item": {
+      "title": "Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times",
+      "description": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that masquerades as a seemingly harmless Discord-related utility but incorporates a remote access trojan.\nThe package in question is discordpydebug, which was uploaded to PyPI on March 21, 2022. It has been downloaded 11,574 times and continues to be available on the open-source registry.",
+      "links": [
+        "https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwRnJumQNMSoC748bMMV28jA45dFnH8fTuWo8tQZZqNGUdIDl_H6Lns8ykSOIoxap-g6CQDoQcyyrRm-_FJ4tvz9a3r3VhGGjguw22uedbrPd5PI135m1wz6FUHa4UQmyPr2JtzHbbDMUkP1OXvzeLx9qJcbEA1qUDYj6aogzyZwoYvUSZ4EDv_Vb1Htl2/s1600/package.jpg"
+      },
+      "published": "2025-05-07T07:37:00Z"
+    }
+  },
+  {
+    "hash": "235491d511fc4e3b81a724b74ac62a837e92c3fef35fdc4ae3a29ac05c7030ea",
+    "item": {
+      "title": "NSO Group Fined $168M for Targeting 1,400 WhatsApp Users With Pegasus Spyware",
+      "description": "A federal jury on Tuesday decided that NSO Group must pay Meta-owned WhatsApp WhatsApp approximately $168 million in monetary damages, more than four months after a federal judge ruled that the Israeli company violated U.S. laws by exploiting WhatsApp servers to deploy Pegasus spyware, targeting over 1,400 individuals globally.\nWhatsApp originally filed the lawsuit against NSO Group in 2019,",
+      "links": [
+        "https://thehackernews.com/2025/05/nso-group-fined-168m-for-targeting-1400.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGCwEHTeWpcmH7pcho4nVCj3nqvnjVzlDQ9rZRfKgwi3zLkb71An1vp0OBAUTsqQ8CaAh2ifs8wZ9MXNrAEqagfMeTQ_oLcy5SsDq8c1c8OEpmVfTBcHOtwxREXr670K3U0Ams6WIKQmpcDQA92vwpG3aBasaxUYOUyyFi5KiXHR3tgAW3LY0rQZNS4JV/s1600/nso-whatsapp.png"
+      },
+      "published": "2025-05-07T06:22:00Z"
+    }
+  },
+  {
+    "hash": "cb0f4b1a39552376a4e795f5923ddf1a5c90d6f61b356497236f25343bea4f8b",
+    "item": {
+      "title": "Power to the Builders: How LayerK Empowers Creators Through Decentralized Infrastructure",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Power_to_the_Builders_How_LayerK_Empowers_Creators_Through_Decentralized-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Power to the Builders: How LayerK Empowers Creators Through Decentralized Infrastructure\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Power_to_the_Builders_How_LayerK_Empowers_Creators_Through_Decentralized-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Power_to_the_Builders_How_LayerK_Empowers_Creators_Through_Decentralized-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Power_to_the_Builders_How_LayerK_Empowers_Creators_Through_Decentralized-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFor decades, creators have helped shape the internet—building communities, tools, art, and platforms that define digital culture. Yet despite their contributions, many creators have found themselves constrained by systems they don’t control. Centralized platforms set the rules, control distribution, and often stand between creators and their audiences. But that dynamic",
+      "links": [
+        "https://thenewscrypto.com/power-to-the-builders-how-layerk-empowers-creators-through-decentralized-infrastructure/"
+      ],
+      "categories": [
+        "Press Release",
+        "LayerK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Power_to_the_Builders_How_LayerK_Empowers_Creators_Through_Decentralized-1.jpg"
+      },
+      "published": "2025-05-06T13:31:54Z"
+    }
+  },
+  {
+    "hash": "8a722a31783f3a5d82c7a9dce7801375f017c7041cc90dccbdf7d595b0d9bb09",
+    "item": {
+      "title": "The state of SSL stacks",
+      "description": "Willy Tarreau and William Lallemand have posted \u003ca\nhref=\"https://www.haproxy.com/blog/state-of-ssl-stacks\"\u003ean extensive white\npaper\u003c/a\u003e examining the landscape of the available SSL implementations.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tOpenSSL 3.0 performs significantly worse than alternative SSL\n\tlibraries, forcing organizations to provision more hardware just to\n\tmaintain existing throughput. This raises important questions about\n\tperformance, energy efficiency, and operational costs.\n\u003cp\u003e\n\tExamining alternatives—BoringSSL, LibreSSL, WolfSSL, and\n\tAWS-LC—reveals a landscape of trade-offs. Each offers different\n\tapproaches to API compatibility, performance optimization, and QUIC\n\tsupport. For developers navigating the modern SSL ecosystem,\n\tunderstanding these trade-offs is crucial for optimizing\n\tperformance, maintaining compatibility, and future-proofing their\n\tinfrastructure.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1020309/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-07T08:20:37Z"
+    }
+  },
+  {
+    "hash": "775b51cd84e8f6e4bc9fbb2bb535e6c5fc8b0c0d78324524e0b4aadaefe65a31",
+    "item": {
+      "title": "The end of the USENIX Annual Technical Conference",
+      "description": "On the 50th anniversary of the USENIX organization, its flagship Annual\nTechnical Conference (ATC) is \u003ca\nhref=\"https://lwn.net/ml/all/CACY3YMGkaDL40rrQ4Pu9jSUt6eiQwQsA-MnQ4_Hp1gMV9sThfQ@mail.gmail.com\"\u003ecoming\nto an end\u003c/a\u003e.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tFor the past two decades, as more USENIX conferences have joined\n       \tthe USENIX calendar by focusing on specific topics that grew out of\n       \tATC itself, attendance at ATC has steadily decreased to the point\n       \twhere there is no longer a critical mass of researchers and\n       \tpractitioners joining us. Thus, after many years of experiments to\n       \tadapt this conference to the ever-changing tech landscape and\n       \tcommunity, the USENIX Board of Directors has made the difficult\n       \tdecision to sunset USENIX ATC.\n\u003c/blockquote\u003e\n\u003cp\u003e\nMany important technologies first saw the light of day at this event.",
+      "links": [
+        "https://lwn.net/Articles/1020306/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-07T07:37:59Z"
+    }
+  },
+  {
+    "hash": "282159b9caeb2dce31dc670a0d95894f98edea3056d767a25e065b03f12ddb8d",
+    "item": {
+      "title": "WebMonkeys: parallel GPU programming in JavaScript",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43887874\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/VictorTaelin/WebMonkeys"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-04T17:00:04Z"
+    }
+  },
+  {
+    "hash": "0d04067d4f49b4e29a9f574aa793001faca65c9cf334218432ee089a619d9c5b",
+    "item": {
+      "title": "Cuttlefish 'talk' with their arms, study reveals",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43904478\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scienceblog.com/wildscience/2025/05/06/cuttlefish-talk-with-their-arms-study-reveals/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-06T12:46:49Z"
+    }
+  },
+  {
+    "hash": "a657a904bd7f149df1c09d0ce4595d2b534be984a3ece77974efa904eb2c8470",
+    "item": {
+      "title": "Tabular (YC S24) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43912944\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-07T07:00:04Z"
+    }
+  },
+  {
+    "hash": "b7c448cf73c5b503ec9e16eea6322f426ffc2a4ff4df44f5916704356a6c2876",
+    "item": {
+      "title": "Loving 21st century gaming like an 18th century furniture expert",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896765\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-05T16:26:25Z"
+    }
+  },
+  {
+    "hash": "ced963cebc8e1a5baab26fd81549e9ef020368b19e1e77d7077256dc0633540a",
+    "item": {
+      "title": "Bitcoin Price Prediction: Can New Hampshire Crypto Law Power a 2025 Rally?",
+      "description": "\u003cp\u003eBitcoin tests $97,000 as New Hampshire adopts crypto reserves, signaling state-level digital asset growth.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-can-new-hampshire-crypto-law-power-a-2025-rally/\"\u003eBitcoin Price Prediction: Can New Hampshire Crypto Law Power a 2025 Rally?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-can-new-hampshire-crypto-law-power-a-2025-rally/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/14124115/1728886569-image-30-1.jpg"
+      },
+      "published": "2025-05-07T08:57:14Z"
+    }
+  },
+  {
+    "hash": "9325db2461cfcc39aca490205af446e5408c251be1afc20220eb3c8dcbeb836d",
+    "item": {
+      "title": "Tokenized RWAs Go Mainstream: Apex Partners With 21X for Regulated Blockchain Trading",
+      "description": "\u003cp\u003eApex Group has become the first official listing sponsor for 21X, Europe’s first licensed blockchain-based trading and settlement system.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/apex-group-21x-rwas-europe/\"\u003eTokenized RWAs Go Mainstream: Apex Partners With 21X for Regulated Blockchain Trading\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/apex-group-21x-rwas-europe/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Adoption",
+        "Blockchain",
+        "RWA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hristina Yordanova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/07081050/1746605449-image-1746605228018_optimized.jpg"
+      },
+      "published": "2025-05-07T08:19:52Z"
+    }
+  },
+  {
+    "hash": "0f77338c831346b48e1aade7fbdf90263ca5eb2a6123d17ad6b688432cf8975f",
+    "item": {
+      "title": "Metaplanet Acquires Another 555 BTC for $53M, Issues $25M in Bonds for More Purchases",
+      "description": "\u003cp\u003eJapanese investment firm Metaplanet has added 555 more Bitcoin to its growing treasury, continuing its aggressive accumulation strategy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/metaplanet-acquires-another-555-btc-for-53m/\"\u003eMetaplanet Acquires Another 555 BTC for $53M, Issues $25M in Bonds for More Purchases\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/metaplanet-acquires-another-555-btc-for-53m/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Metaplanet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/07054643/1746596803-image-1746596787272_optimized.jpg"
+      },
+      "published": "2025-05-07T06:33:21Z"
+    }
+  },
+  {
+    "hash": "2540c0490a79753c6a06f48c8dd82facdafa0d765fc650d73b8798f61975ef3c",
+    "item": {
+      "title": "Trump Family Crypto Project WLFI Proposes USD1 Test Airdrop to Token Holders",
+      "description": "\u003cp\u003eTrump family-backed WLFI is testing its on-chain airdrop feature by airdropping USD1 stablecoin to token holders.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-family-crypto-project-wlfi-proposes-usd1-test-airdrop/\"\u003eTrump Family Crypto Project WLFI Proposes USD1 Test Airdrop to Token Holders\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-family-crypto-project-wlfi-proposes-usd1-test-airdrop/"
+      ],
+      "categories": [
+        "News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/07060344/1746597824-image-1746593431545_optimized.jpg"
+      },
+      "published": "2025-05-07T06:22:00Z"
+    }
   }
 ]
