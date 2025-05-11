@@ -318,5 +318,140 @@
       },
       "published": "2025-05-10T14:24:02Z"
     }
+  },
+  {
+    "hash": "1408ef5135ab988cf10652e61cf817c272771faf8e934306b66a564892e87f01",
+    "item": {
+      "title": "GSoC 2025 Projects: AI-Powered Log Analyzer For Fedora, Better AMD ROCm On Debian",
+      "description": "This week Google announced all of the accepted projects for this year's Google Summer of Code (GSoC). There are 1,272 accepted students/projects this year for student developers working on various interesting open-source efforts over the summer...",
+      "links": [
+        "https://www.phoronix.com/news/GSoC-2025-Projects"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-11T06:00:00Z"
+    }
+  },
+  {
+    "hash": "b87032a58e53ff8f9c9d34ef943ef85ad75d440b4706225a7aef9978e3bb279f",
+    "item": {
+      "title": "The Linux Kernel Dropping Its Unused Built-In Software Echo Cancellation Code",
+      "description": "Queued up for removal in the upcoming Linux 6.16 kernel cycle is dropping \"echo\", a software-based echo cancellation code within the kernel intended for telecommunications use. But it's old, unmaintained, and likely not actively used...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Kernel-Dropping-Echo"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-11T05:00:00Z"
+    }
+  },
+  {
+    "hash": "c03a59b231227987ce3b8a9226bb2e64943910790e0979924f0ddbf730f97aef",
+    "item": {
+      "title": "Intel oneDNN 3.8 Brings More CPU \u0026 GPU Performance Optimizations",
+      "description": "Intel software engineers released oneDNN 3.8 to end out the week with various new performance optimizations and more...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-oneDNN-3.8"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-11T04:00:00Z"
+    }
+  },
+  {
+    "hash": "16ab33ccd1fb71b7b9762d7e6ced590ccfbe8d57aca8e5c7bb3776c0513dad4d",
+    "item": {
+      "title": "Fan Service",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43951368\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flak.tedunangst.com/post/fan-service"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T04:26:33Z"
+    }
+  },
+  {
+    "hash": "da08f1393d9663a303f5d1e5649a688eacdff77182c5ffe9044d8daf7ed05062",
+    "item": {
+      "title": "Engineers develop wearable heart attack detection technology",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918478\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medicalxpress.com/news/2025-04-wearable-heart-technology.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-07T17:32:14Z"
+    }
+  },
+  {
+    "hash": "82e725eea9b0b57101a23a4426c6dd217c91cb607b1dba86dce2a0a328f9952c",
+    "item": {
+      "title": "When Suno covers my song (very useful) – a study with variations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43926713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://rochus-keller.ch/?p=1350"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-08T14:58:41Z"
+    }
+  },
+  {
+    "hash": "d343d78cef868e76bb3b7083e92d5859982ea7b28a6ffa3ad1bf4829bf53e659",
+    "item": {
+      "title": "Lazarus Release 4.0",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43913414\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-07T08:36:57Z"
+    }
+  },
+  {
+    "hash": "25c44e3db7cb72379c48380c01e44560c1e66fdc02308bfac44a6d56d1fd0f8f",
+    "item": {
+      "title": "NetBSD 10.x Kernel Math_emulation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43950709\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T02:13:49Z"
+    }
+  },
+  {
+    "hash": "62d3c740e27c804d90938c89be4e568793dac68157aa213e14bb8bd2c0ebde1e",
+    "item": {
+      "title": "Address of Pope Leo XIV to the College of Cardinals",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43948130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-10T19:20:03Z"
+    }
+  },
+  {
+    "hash": "5a41c66ee915c9d0c7d27590556912352ae7af17bbaebfe5b6e071e36f23e13f",
+    "item": {
+      "title": "The AUCTUS A6: the chip enabling inexpensive DMR Radio (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43950834\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jhart99.com/auctus-a6/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T02:36:47Z"
+    }
   }
 ]
