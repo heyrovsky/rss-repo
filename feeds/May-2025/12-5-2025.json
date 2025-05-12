@@ -1,0 +1,145 @@
+[
+  {
+    "hash": "22a548485f4a8eca247ee9ec81f9bd9b8ba341ee8c3a76c6d7108c2652c63c56",
+    "item": {
+      "title": "Monitoring my Minecraft server with OpenTelemetry and Prometheus",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43925005\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-08T11:03:14Z"
+    }
+  },
+  {
+    "hash": "37e2610bf750230f8275d8abd69331fecdec83a55676e37ca49b34d4c420e7b5",
+    "item": {
+      "title": "Why Bell Labs Worked",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43957010\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://1517.substack.com/p/why-bell-labs-worked"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T20:47:20Z"
+    }
+  },
+  {
+    "hash": "1cf33a4230decbbbd43174d740bd4086bf6d3e6776e91d924180dc331a8637e7",
+    "item": {
+      "title": "I hacked my clock to control my focus",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43958082\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T23:12:42Z"
+    }
+  },
+  {
+    "hash": "181c83dc71c6ed6ae260c731f70d57a610ed52c8b62569558255711c76f9448d",
+    "item": {
+      "title": "Avoiding AI is hard – but our freedom to opt out must be protected",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43958382\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-12T00:09:48Z"
+    }
+  },
+  {
+    "hash": "2588a942716d501fb687c3621d6f64588bd7afc3ee6557d540658a979f087fbc",
+    "item": {
+      "title": "ToyDB rewritten: a distributed SQL database in Rust, for education",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43956547\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/erikgrinaker/toydb"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T19:49:09Z"
+    }
+  },
+  {
+    "hash": "200e7f97631d78b72b21c9437285a097d914b386d036e5fd8be634854371c7f9",
+    "item": {
+      "title": "SDFs and the Fast sweeping algorithm in Jax",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43924560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rohangautam.github.io/blog/fast_sweeping/fastsweeping/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-08T09:32:57Z"
+    }
+  },
+  {
+    "hash": "87c369ce39c5f867eb8aa102c0065d1f72798eeeac52830b4ac1c76432ea1b8d",
+    "item": {
+      "title": "A whippet waypoint / Nofl: A Precise Immix",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43943889\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wingolog.org/archives/2025/05/09/a-whippet-waypoint"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-10T07:36:07Z"
+    }
+  },
+  {
+    "hash": "4dd74cbd8f20f3b88f27f6fbb1edc2f4fcc8c46c57ac1d04c9493a7a9701daec",
+    "item": {
+      "title": "Linux 6.15-rc6 Released With AMD Performance Fix \u0026 Other Bugs Addressed",
+      "description": "Linus Torvalds has released Linux 6.15-rc6 today with hopes of releasing Linux 6.15 stable in two weeks...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-rc6-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-11T23:15:04Z"
+    }
+  },
+  {
+    "hash": "53e9ede13ed0da7e336602ad674e6d250a6f5c4a403ccbb148c8c1a04964f9c8",
+    "item": {
+      "title": "Linux 6.15 Fix Merged For Sizable Performance Regression On Newer AMD CPUs",
+      "description": "At the end of April I reported on a significant performance regression affecting newer AMD CPUs and was bisected to a change in the AMD SRSO mitigation handling for Zen 4/5 processors with the Linux 6.15 kernel. The fix for that significant performance regression was merged today ahead of the imminent Linux 6.15-rc6 release...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-Fixes-AMD-Perf"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-11T21:10:00Z"
+    }
+  },
+  {
+    "hash": "be185b160b6ebe956e0aebb6d84706d8720ad4f8f26aad3cf97245a65a1b6575",
+    "item": {
+      "title": "South Korean Presidential Candidates Clash in Bitter Stablecoin Row",
+      "description": "\u003cp\u003eSouth Korean presidential candidates and their supporters have clashed on the topic of stablecoins as crypto-related policies continue to dominate the political agenda.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korean-presidential-candidates-clash-in-bitter-stablecoin-row/\"\u003eSouth Korean Presidential Candidates Clash in Bitter Stablecoin Row\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korean-presidential-candidates-clash-in-bitter-stablecoin-row/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "South Korea",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/11130914/1746968954-image-1746949004859_optimized.jpg"
+      },
+      "published": "2025-05-11T23:30:00Z"
+    }
+  }
+]
