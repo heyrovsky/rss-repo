@@ -3441,5 +3441,771 @@
       },
       "published": "2025-05-13T15:10:58Z"
     }
+  },
+  {
+    "hash": "91701dc52249309335fc7de870c6bc5d18b6ee4c738ca86f8928c720636f883c",
+    "item": {
+      "title": "If Congress actually cancels the SLS rocket, what happens next?",
+      "description": "Here's what NASA's exploration plans would actually look like if the White House got its way.",
+      "links": [
+        "https://arstechnica.com/space/2025/05/if-congress-actually-cancels-the-sls-rocket-what-happens-next/"
+      ],
+      "categories": [
+        "Space",
+        "artemis",
+        "sls rocket",
+        "space",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/51821402680_ddb9b63c7a_k-1152x648.jpg"
+      },
+      "published": "2025-05-13T19:49:46Z"
+    }
+  },
+  {
+    "hash": "89a87c8119c147b7e49fee3fcfc7d161fc146058dda43b6f3e11a043682ee0dc",
+    "item": {
+      "title": "Doom: The Dark Ages is surprisingly playable on the Steam Deck",
+      "description": "\"Low\" graphics settings and 800p resolution hit 30 to 40 fps on Valve's hardy handheld.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/05/doom-the-dark-ages-is-surprisingly-playable-on-the-steam-deck/"
+      ],
+      "categories": [
+        "Gaming",
+        "Doom: The Dark Ages",
+        "steam deck"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/dtda2-1152x648.jpeg"
+      },
+      "published": "2025-05-13T19:16:20Z"
+    }
+  },
+  {
+    "hash": "0a9c4315e8030d3c83834f6c12c2760f1a2a9e4b017fd010369558cb176cae05",
+    "item": {
+      "title": "Google announces Material 3 Expressive, a colorful evolution of Android design",
+      "description": "Google's take on Android is getting brighter and bolder later this year. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/05/google-reveals-vibrant-material-3-expressive-coming-soon-to-a-pixel-near-you/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "android",
+        "google",
+        "material 3 expressive"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Material-3-Expressive-11-1152x648.jpg"
+      },
+      "published": "2025-05-13T18:57:34Z"
+    }
+  },
+  {
+    "hash": "9a347e2556d86d80e4caa7e7858eaf3dbbe2cbafb7e097672aad6d1a77bdc0b8",
+    "item": {
+      "title": "FCC threatens EchoStar licenses for spectrum that SpaceX wants to use",
+      "description": "SpaceX alleged EchoStar is barely using spectrum, said it's \"ripe for sharing.\"",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/"
+      ],
+      "categories": [
+        "Policy",
+        "DISH",
+        "EchoStar",
+        "FCC",
+        "spacex",
+        "starlink"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/brendan-carr-1152x648-1738275021.jpg"
+      },
+      "published": "2025-05-13T18:15:46Z"
+    }
+  },
+  {
+    "hash": "1655179fda943e16cba697d3dc1cfac523c3be786f9a4ae10e301e87d7572410",
+    "item": {
+      "title": "[$] A look at what's possible with BPF arenas",
+      "description": "\u003cp\u003e\n\u003ca href=\"https://lwn.net/Articles/961941/\"\u003e\nBPF arenas\u003c/a\u003e are areas of memory where the verifier can safely relax its checking of\npointers, allowing programmers to write arbitrary data structures in BPF. Emil\nTsalapatis reported on how his team has used arenas in writing\n\u003ca href=\"https://lwn.net/Articles/922405/\"\u003e\nsched_ext schedulers\u003c/a\u003e at the 2025 Linux Storage, Filesystem,\nMemory-Management, and BPF Summit. His biggest complaint was about the fact that\nkernel pointers can't be stored in BPF arenas — something that the BPF\ndevelopers hope to address, although there are some implementation problems that\nmust be sorted out first.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1019885/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-05-13T20:44:18Z"
+    }
+  },
+  {
+    "hash": "eea6105b78d469b7aadc561faf1c5c3c427a5f4acafb06218956a23f17f08dac",
+    "item": {
+      "title": "Nextcloud claims Google is being anticompetitive",
+      "description": "\u003cp\u003e\u003ca href=\"https://nextcloud.com/\"\u003eNextcloud\u003c/a\u003e provides an\nopen-source collaboration platform called \u003ca\nhref=\"https://nextcloud.com/hub/\"\u003eNextcloud Hub\u003c/a\u003e, which includes \u003ca\nhref=\"https://nextcloud.com/files/\"\u003efile-sharing and syncing\u003c/a\u003e\nfeatures. The company has \u003ca\nhref=\"https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/\"\u003ewritten\u003c/a\u003e\na blog post explaining that Google has revoked a critical permission\nfrom the Nextcloud Files app for Android that allows it to sync files\nto Nextcloud Hub.\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eGoogle is stating security concerns as a reason for revoking the\npermission. This is hard to believe for us. Nextcloud has had this\nfeature since its inception in 2016, and we have never heard about any\nsecurity concerns from Google about it. Moreover, several Big Tech\napps as well as Google's own still have this. What we think: Google\nowning the platform means they can and are giving themselves\npreferential treatment.\u003c/p\u003e\n\n\u003cp\u003eDespite multiple appeals since mid-2024, Google has refused to\nreinstate the permission, blocking automated Nextcloud file uploads\nfor millions of users.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eThe \u003ca\nhref=\"https://f-droid.org/packages/com.nextcloud.client/\"\u003eNextcloud\napp\u003c/a\u003e available via F-Droid does not have this limitation, but the\npost notes that that is not an option for many users.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1021016/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-05-13T19:55:29Z"
+    }
+  },
+  {
+    "hash": "c5ce25c8e1c5426fdc05f5dbaa7fb3457627707ad3ec9a143d2ab90a6e79746a",
+    "item": {
+      "title": "Thermal Monocular Brings the Heat at 10X",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"463\" src=\"https://hackaday.com/wp-content/uploads/2025/05/mono.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/mono.png 800w, https://hackaday.com/wp-content/uploads/2025/05/mono.png?resize=250,145 250w, https://hackaday.com/wp-content/uploads/2025/05/mono.png?resize=400,232 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"779736\" data-permalink=\"https://hackaday.com/2025/05/13/thermal-monocular-brings-the-heat-at-10x/mono-3/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/mono.png\" data-orig-size=\"800,463\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"mono\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/mono.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/mono.png?w=800\" /\u003e\u003c/div\u003e[Project 326] is following up on his thermal microscope with a thermal telescope or, more precisely, a thermal monocular. In fact, many of the components and lenses in this project \u003ca href=\"https://hackaday.com/2025/05/13/thermal-monocular-brings-the-heat-at-10x/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/thermal-monocular-brings-the-heat-at-10x/"
+      ],
+      "categories": [
+        "digital cameras hacks",
+        "ir camera",
+        "telescope"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/mono.png"
+      },
+      "published": "2025-05-13T20:00:25Z"
+    }
+  },
+  {
+    "hash": "a61751ecdf5f35f910fcbc39633f785f31957fef7f77210b03c475e68670b1c8",
+    "item": {
+      "title": "A Toolchanging Delta 3D printer",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"The frame of a delta 3D printer is shown. The toolhead of the 3D printer does not have a hotend installed, but instead has a frame with a circular hole in the middle.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png 2500w, https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?resize=2048,1153 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"779399\" data-permalink=\"https://hackaday.com/2025/05/13/a-toolchanging-delta-3d-printer/delta_toolchanger/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png\" data-orig-size=\"2500,1407\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"delta_toolchanger\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png?w=800\" /\u003e\u003c/div\u003eWe’ve seen quite a few delta 3D printers, and a good number of toolchanging printers, but not many that combine both worlds. Fortunately, [Ben Wolpert]’s project fills that gap with \u003ca href=\"https://hackaday.com/2025/05/13/a-toolchanging-delta-3d-printer/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/a-toolchanging-delta-3d-printer/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "delta 3D printer",
+        "delta printer",
+        "toolchanger",
+        "toolchanging"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/delta_toolchanger.png"
+      },
+      "published": "2025-05-13T18:30:00Z"
+    }
+  },
+  {
+    "hash": "b8dfeb504538ac6c3ec80b87a99290c5a4fb2b2e70f7ad2894656f25c85d7009",
+    "item": {
+      "title": "Remembering Memory: EMS, and TSRs",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"640351\" data-permalink=\"https://hackaday.com/2023/11/12/the-ibm-mda-should-have-been-the-cda/ibm-mda-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ibm-mda-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg?w=800\" /\u003e\u003c/div\u003eYou often hear that Bill Gates once proclaimed, \u0026#8220;640 kB is enough for anyone,\u0026#8221; but, apparently, that\u0026#8217;s a myth \u0026#8212; he never said it. On the other hand, early PCs \u003ca href=\"https://hackaday.com/2025/05/13/remembering-memory-ems-and-tsrs/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/remembering-memory-ems-and-tsrs/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Retrocomputing",
+        "8086",
+        "8088",
+        "ems",
+        "IBM PC",
+        "TSR"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2023/11/ibm-mda-featured.jpg"
+      },
+      "published": "2025-05-13T17:00:18Z"
+    }
+  },
+  {
+    "hash": "c8a5aa6c9f42c1dbf19dd66ff8645d1cc4beb8e209dd88dc72b61915ea269bfe",
+    "item": {
+      "title": "The World’s Longest Range LED Flashlight",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"305\" src=\"https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A man aims the LED flashlight into the night sky.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg 1080w, https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg?resize=250,95 250w, https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg?resize=400,153 400w, https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg?resize=800,305 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"779579\" data-permalink=\"https://hackaday.com/2025/05/13/the-worlds-longest-range-led-flashlight/worlds-longest-range-led-flashlight/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg\" data-orig-size=\"1080,412\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"worlds-longest-range-led-flashlight\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg?w=800\" /\u003e\u003c/div\u003e[ApprehensiveHawk6178] reports that they have made the world\u0026#8217;s longest range LED flashlight! While technically \u0026#8220;handheld\u0026#8221;, you\u0026#8217;re gonna need both hands for this monster. According to the creator, it draws 1.2 \u003ca href=\"https://hackaday.com/2025/05/13/the-worlds-longest-range-led-flashlight/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/the-worlds-longest-range-led-flashlight/"
+      ],
+      "categories": [
+        "LED Hacks",
+        "led flashlight",
+        "long range"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/worlds-longest-range-led-flashlight.jpg"
+      },
+      "published": "2025-05-13T15:30:34Z"
+    }
+  },
+  {
+    "hash": "abbf947d4084d5a3c9473b6cefc5ceff4e426657a7d085cdf964faa95c100d74",
+    "item": {
+      "title": "Trackside Observations Of A Rail Power Enthusiast",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg 3000w, https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"780119\" data-permalink=\"https://hackaday.com/2025/05/13/trackside-observations-of-a-rail-power-enthusiast/e_train/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"E_Train\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg?w=800\" /\u003e\u003c/div\u003eThe life of a Hackaday writer often involves hours spent at a computer searching for all the cool hacks you love, but its perks come in not being tied to \u003ca href=\"https://hackaday.com/2025/05/13/trackside-observations-of-a-rail-power-enthusiast/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/trackside-observations-of-a-rail-power-enthusiast/"
+      ],
+      "categories": [
+        "Featured",
+        "Interest",
+        "Original Art",
+        "Transportation Hacks"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/E_Train.jpg"
+      },
+      "published": "2025-05-13T14:00:35Z"
+    }
+  },
+  {
+    "hash": "1b4298f925e9695089c5ba2cc8dfb0bdeb6d25a4e322a7126e1cf71dd400c2f6",
+    "item": {
+      "title": "Studying QR Code Degradation",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"780026\" data-permalink=\"https://hackaday.com/2025/05/13/studying-qr-code-degradation/qr-degredation-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"qr-degredation-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg?w=800\" /\u003e\u003c/div\u003eIt\u0026#8217;s fair to say that QR codes are a technology that has finally come of age. A decade or more ago they were a little over-hyped and sometimes used in \u003ca href=\"https://hackaday.com/2025/05/13/studying-qr-code-degradation/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/studying-qr-code-degradation/"
+      ],
+      "categories": [
+        "Repair Hacks",
+        "cliff edge",
+        "error correction",
+        "qr code"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/qr-degredation-featured.jpg"
+      },
+      "published": "2025-05-13T11:00:03Z"
+    }
+  },
+  {
+    "hash": "c6e6706d19dd2e509f9d53840bf8586cfef975a5f6a3331d71ebb39919f908fc",
+    "item": {
+      "title": "Simulating High-Side Bootstrap Circuits With LTSpice",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png 1600w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"779354\" data-permalink=\"https://hackaday.com/2025/05/13/simulating-high-side-bootstrap-circuits-with-ltspice/screenshot-2025-05-07-112557-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png\" data-orig-size=\"1600,900\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-05-07 112557-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png?w=800\" /\u003e\u003c/div\u003eLTSpice is a tool that every electronics nerd should have at least a basic knowledge of. Those of us who work professionally in the analog and power worlds rely heavily \u003ca href=\"https://hackaday.com/2025/05/13/simulating-high-side-bootstrap-circuits-with-ltspice/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/13/simulating-high-side-bootstrap-circuits-with-ltspice/"
+      ],
+      "categories": [
+        "Software Hacks",
+        "bootstrapping",
+        "LTSpice",
+        "power supplies",
+        "simulation"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dave Rowntree"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-112557-featured.png"
+      },
+      "published": "2025-05-13T08:00:58Z"
+    }
+  },
+  {
+    "hash": "80ddab29c327584e7b5dada97459d7f7646829f72a7c31b64279c52c8c48e3e3",
+    "item": {
+      "title": "Dusk OS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43976862\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://duskos.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T19:44:47Z"
+    }
+  },
+  {
+    "hash": "df5660e395aca31605d796ca195842da531b6251498b30ca2b7583eada251ce3",
+    "item": {
+      "title": "Multiple security issues in GNU Screen",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971716\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.openwall.com/lists/oss-security/2025/05/12/1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T11:28:49Z"
+    }
+  },
+  {
+    "hash": "dccbbb5f1807f9e7063e264dd4b86ef4da3c78e6493879b9c7c3acf784f7c41f",
+    "item": {
+      "title": "Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945628\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-10T13:51:53Z"
+    }
+  },
+  {
+    "hash": "e05693b30cebde4089ea3bc3363a887842196aa9370bc1aa9f89ba04ce670b38",
+    "item": {
+      "title": "Build Real-Time Knowledge Graph for Documents with LLM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43976895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cocoindex.io/blogs/knowledge-graph-for-docs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T19:48:04Z"
+    }
+  },
+  {
+    "hash": "dd23febac5ba9971a809591e8447579b121fd35fae3969232b8a5f51ed034d71",
+    "item": {
+      "title": "OpenTelemetry protocol with Apache Arrow",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975782\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T17:57:57Z"
+    }
+  },
+  {
+    "hash": "3a166c01b2d451af06e46971f804be507bfcbe45a622dec3f116bd12f1f7b7e3",
+    "item": {
+      "title": "Google is building its own DeX: First look at Android's Desktop Mode",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43973395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.androidauthority.com/android-desktop-mode-leak-3550321/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T14:30:35Z"
+    }
+  },
+  {
+    "hash": "6edbbc52776a3fee03aba57aa2600cde91dd76d955793431673951ef84cb4119",
+    "item": {
+      "title": "Turritopsis dohrnii: Immortal jellyfish",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43940702\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-09T20:45:11Z"
+    }
+  },
+  {
+    "hash": "a5d878ea04055fdaa8c841e88aa7c5faf69e54363cab2026d971597a63a22f9d",
+    "item": {
+      "title": "The Battle to Bottle Palm Wine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945734\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.atlasobscura.com/articles/palm-wine-in-united-states"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-10T14:05:24Z"
+    }
+  },
+  {
+    "hash": "730552a2ba0ea2979f04ffb567bbb72b7701b4533e27a8f5664493f71facf1ee",
+    "item": {
+      "title": "Why are banks still getting authentication so wrong?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43976359\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T18:56:11Z"
+    }
+  },
+  {
+    "hash": "286f23727ea9d7463dffea712cd85aa21a524c2d9d6a6eafd418948bce3776e1",
+    "item": {
+      "title": "Membrane: Media Framework for Elixir",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945483\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://membrane.stream/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-10T13:33:00Z"
+    }
+  },
+  {
+    "hash": "9c6a37383ffdd3131d5b2b1d1bb6a0e1dd85244cee7ae85f340efdfe2fb347f3",
+    "item": {
+      "title": "Don't unwrap options: There are better ways (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975785\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://corrode.dev/blog/rust-option-handling-best-practices/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T17:58:27Z"
+    }
+  },
+  {
+    "hash": "1eb3a8d7ee744a44611d39368845d118205917c83275083daed292f5d10685ba",
+    "item": {
+      "title": "Mill as a direct style build tool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43943792\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mill-build.org/blog/12-direct-style-build-tool.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-10T07:10:41Z"
+    }
+  },
+  {
+    "hash": "5398660d6636afbd2d73273abf1a708cee48ddc02f8c4ac1054bedaa96a69afd",
+    "item": {
+      "title": "PyPI Organizations (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975541\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T17:37:58Z"
+    }
+  },
+  {
+    "hash": "f03ae514d57715676923cfc7c97e6b79f839087903b98f0c7e4560ae9ca925d5",
+    "item": {
+      "title": "TheForger's Win32 API Tutorial",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972927\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://winprog.org/tutorial/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T13:44:18Z"
+    }
+  },
+  {
+    "hash": "ef29a3b70a8a8a6526a27da7fa9dcaa1c87b6978d4be586c788e7e0b64abdea6",
+    "item": {
+      "title": "Odin: A programming language made for me",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43970800\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zylinski.se/posts/a-programming-language-for-me/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T08:35:11Z"
+    }
+  },
+  {
+    "hash": "db469bc16b195b9e2240d18b51a076febeef481bf83ac3eecb1dc511335222c3",
+    "item": {
+      "title": "Don’t Just Survive Altcoin Season – Dominate It With Best Wallet’s Smart Tracking Tools",
+      "description": "\u003cp\u003eBest Wallet’s $BEST presale has lifted past $12.2m as the platform’s Upcoming Tokens tracker continues to surface low-cap coins before they run, from Pepe Unchained to Meme Index. With gas-free transactions and staking tools on the way, $BEST has offered both utility and early-access advantages.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/altcoin-season-best-wallet-12m-presale/\"\u003eDon’t Just Survive Altcoin Season – Dominate It With Best Wallet’s Smart Tracking Tools\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/altcoin-season-best-wallet-12m-presale/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Best Wallet",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13183032/1747161031-unnamed-30.jpg"
+      },
+      "published": "2025-05-13T19:20:12Z"
+    }
+  },
+  {
+    "hash": "0b73db6aa78334c66648dfb638f60d9e97d1f77be2053c311472dd69c1edf7b2",
+    "item": {
+      "title": "Tether’s $770M Gold-Backed Token XAU₮ Debuts On Thai Exchange Maxbit",
+      "description": "\u003cp\u003eTether Gold has debuted on Thailand’s Maxbit after regulators cleared stablecoins, making it the country’s first tokenized, vault-backed gold pair. Each XAU₮, on Ethereum, equals one vaulted troy ounce, letting Thai traders hold physical metal via blockchain.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tether-xaut-maxbit-thailand/\"\u003eTether’s $770M Gold-Backed Token XAU₮ Debuts On Thai Exchange Maxbit\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tether-xaut-maxbit-thailand/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Gold",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13104327/1747133007-0_2-2025-05-13t113852-239_optimized-1.jpg"
+      },
+      "published": "2025-05-13T19:05:31Z"
+    }
+  },
+  {
+    "hash": "9f5a98aa01028f56cfcf13640bfd4ec84ff890a6f7172d3e314cea2c36ccb79e",
+    "item": {
+      "title": "The Mind Behind the Billion-Dollar Subscription Platform is Back – but Here’s What Creators Actually Want: SUBBD",
+      "description": "\u003cp\u003eSUBBD has collected nearly $400k since launching its token presale and has outlined an AI-powered Web3 alternative to traditional subscription platforms. By automating fan engagement and keeping fees flat at 20%, it sets itself apart from OnlyFans founder Tim Stokely’s forthcoming Subs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/subbd-onlyfans-founder-returns-creators-want-more/\"\u003eThe Mind Behind the Billion-Dollar Subscription Platform is Back – but Here’s What Creators Actually Want: SUBBD\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/subbd-onlyfans-founder-returns-creators-want-more/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "SUBBD"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13155150/1747151510-unnamed-29-1.jpg"
+      },
+      "published": "2025-05-13T18:29:12Z"
+    }
+  },
+  {
+    "hash": "80b8a8c3f6f885c1c8d5dbb18e9911a26b5b9615865da006c21f3c484b4d77cb",
+    "item": {
+      "title": "Gibraltar Partners with Peter Thiel-backed Exchange Bullish to Create Crypto Regulatory Framework",
+      "description": "\u003cp\u003eGibraltar has partnered with exchange Bullish and the GFSC to create the first regulations governing the clearing and settlement of crypto derivatives. The framework lets select tokens serve as collateral, mirrors EMIR and Dodd-Frank risk rules, and could guide policy elsewhere.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gibraltar-partners-with-peter-thiel-backed-exchange-bullish-to-create-crypto-regulatory-framework/\"\u003eGibraltar Partners with Peter Thiel-backed Exchange Bullish to Create Crypto Regulatory Framework\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gibraltar-partners-with-peter-thiel-backed-exchange-bullish-to-create-crypto-regulatory-framework/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto Exchange",
+        "Gibraltar",
+        "Peter Theil"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13165727/1747155446-image-1747155363933_optimized.webp"
+      },
+      "published": "2025-05-13T18:22:12Z"
+    }
+  },
+  {
+    "hash": "107c8682bafffc566ab1d22506ec3cb095fe410f5ed79c216cad4911d1cc5f4e",
+    "item": {
+      "title": "Cats vs Dogs Meme Coins: Do Cats Take Over? | Research",
+      "description": "\u003cp data-pm-slice=\"1 1 []\"\u003eWe analyzed all cat and dog meme coins to find out: who's really leading the pack?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/reports/research-cats-vs-dogs-meme-coins/\"\u003eCats vs Dogs Meme Coins: Do Cats Take Over? | Research\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/reports/research-cats-vs-dogs-meme-coins/"
+      ],
+      "categories": [
+        "Cryptonews Reports",
+        "Cat meme coins",
+        "Dog meme coins",
+        "Dogecoin",
+        "Meme Coins",
+        "Popcat"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13101046/1747131046-popcat-vs-doge-coins-2.jpg"
+      },
+      "published": "2025-05-13T18:19:54Z"
+    }
+  },
+  {
+    "hash": "c57c209ba19cb8f3e996f745bb283da6bcc3330558188fefc3b1bdeef864891a",
+    "item": {
+      "title": "How to Open an Online Cryptocurrency Exchange Service",
+      "description": "\u003cp\u003eKey Takeaways: Cat and dog meme coins had nearly identical lifespans and survival rates. In Q1 2025, cat coins outperformed dog coins. In early May, both camps rebounded, but cats still led in total gains. Dog-themed coins showed stronger internal price correlation. Cat coins were less coordinated. The meme coin market has really branched out [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/how-open-online-cryptocurrency-exchange-service/\"\u003eHow to Open an Online Cryptocurrency Exchange Service\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/how-open-online-cryptocurrency-exchange-service/"
+      ],
+      "categories": [
+        "Press Releases",
+        "boxexchanger"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13164248/how-open-online-cryptocurrency-exchange-service.jpg"
+      },
+      "published": "2025-05-13T16:43:38Z"
+    }
+  },
+  {
+    "hash": "c14e2fe0f6a1f6e96a4aa183252a1b27f0afc9d373f68e00b69e67c25386d931",
+    "item": {
+      "title": "ai16z Price Prediction: Is ai16z on the Road to $1 This Month?",
+      "description": "\u003cp\u003eKey Takeaways: Cat and dog meme coins had nearly identical lifespans and survival rates. In Q1 2025, cat coins outperformed dog coins. In early May, both camps rebounded, but cats still led in total gains. Dog-themed coins showed stronger internal price correlation. Cat coins were less coordinated. The meme coin market has really branched out [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ai16z-price-prediction-is-ai16z-on-the-road-to-1-this-month/\"\u003eai16z Price Prediction: Is ai16z on the Road to $1 This Month?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ai16z-price-prediction-is-ai16z-on-the-road-to-1-this-month/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "MIND of Pepe",
+        "Solana meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13131307/1747141987-ai16z-price-prediction.jpg"
+      },
+      "published": "2025-05-13T15:56:32Z"
+    }
+  },
+  {
+    "hash": "c0557ffe0eda6f5d3ec9bc35d8ac73e95686e5784b4cde0bc2f328527ca00983",
+    "item": {
+      "title": "Next to Make it Big? These 3 Tokens Are Setting the Stage for Altcoin Season 2025",
+      "description": "\u003cp\u003eKey Takeaways: Cat and dog meme coins had nearly identical lifespans and survival rates. In Q1 2025, cat coins outperformed dog coins. In early May, both camps rebounded, but cats still led in total gains. Dog-themed coins showed stronger internal price correlation. Cat coins were less coordinated. The meme coin market has really branched out [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/next-to-make-it-big-these-3-tokens-are-setting-the-stage-for-altcoin-season-2025-quai-solaxy-pengu/\"\u003eNext to Make it Big? These 3 Tokens Are Setting the Stage for Altcoin Season 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/next-to-make-it-big-these-3-tokens-are-setting-the-stage-for-altcoin-season-2025-quai-solaxy-pengu/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoins",
+        "Pudgy Penguins",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13150621/Next-to-Make-it-Big-These-3-Tokens-Are-Setting-the-Stage-for-Altcoin-Season-2025-2.jpg"
+      },
+      "published": "2025-05-13T15:48:30Z"
+    }
+  },
+  {
+    "hash": "8eb1c90073d70b5502a215f841fd209e071497d830a5d4bd14f79deee3e91bee",
+    "item": {
+      "title": "Can These 3 Coins be the Next XRP? From $0.20 to $3 In May 2025? (DOGE, BTC Bull, XLM)",
+      "description": "\u003cp\u003eKey Takeaways: Cat and dog meme coins had nearly identical lifespans and survival rates. In Q1 2025, cat coins outperformed dog coins. In early May, both camps rebounded, but cats still led in total gains. Dog-themed coins showed stronger internal price correlation. Cat coins were less coordinated. The meme coin market has really branched out [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/can-these-3-coins-be-the-next-xrp-from-0-20-to-3-in-may-2025-doge-btc-bull-xlm/\"\u003eCan These 3 Coins be the Next XRP? From $0.20 to $3 In May 2025? (DOGE, BTC Bull, XLM)\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/can-these-3-coins-be-the-next-xrp-from-0-20-to-3-in-may-2025-doge-btc-bull-xlm/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$XLM",
+        "Altcoins",
+        "Dogecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13125156/Can-These-3-Coins-be-the-Next-XRP-From-0.20-to-3-In-May-2025-2.jpg"
+      },
+      "published": "2025-05-13T15:12:51Z"
+    }
+  },
+  {
+    "hash": "448264a55e3e6c9f948c35b71151860bdd9fbb59d844087605c6939cc7a7bef9",
+    "item": {
+      "title": "Why $HYPER Is the Crypto to Watch in Blockchain Interoperability – Presale Now Live",
+      "description": "\u003cp\u003eKey Takeaways: Cat and dog meme coins had nearly identical lifespans and survival rates. In Q1 2025, cat coins outperformed dog coins. In early May, both camps rebounded, but cats still led in total gains. Dog-themed coins showed stronger internal price correlation. Cat coins were less coordinated. The meme coin market has really branched out [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/why-hyper-is-crypto-to-watch-in-blockchain-interoperability/\"\u003eWhy $HYPER Is the Crypto to Watch in Blockchain Interoperability – Presale Now Live\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/why-hyper-is-crypto-to-watch-in-blockchain-interoperability/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$hyper",
+        "bitcoin hyper"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13143010/why-hyper-is-crypto-to-watch-in-blockchain-interoperability.jpg"
+      },
+      "published": "2025-05-13T14:31:01Z"
+    }
   }
 ]
