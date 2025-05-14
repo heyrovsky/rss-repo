@@ -2813,5 +2813,703 @@
       },
       "published": "2025-05-14T08:19:03Z"
     }
+  },
+  {
+    "hash": "0049cd516d5a71e797e3b9fe10f2cbdc34dbe371d5f11b2260be61a917a2519b",
+    "item": {
+      "title": "Samsung Patches CVE-2025-4632 Used to Deploy Mirai Botnet via MagicINFO 9 Exploit",
+      "description": "Samsung has released software updates to address a critical security flaw in MagicINFO 9 Server that has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-4632 (CVSS score: 9.8), has been described as a path traversal flaw.\n\"Improper limitation of a pathname to a restricted directory vulnerability in Samsung MagicINFO 9 Server version before 21.1052 allows attackers to",
+      "links": [
+        "https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Y473_f8HQTyAdKAUz_UnUOsL-Z925rXBPVq5oWm6zKljOP2dPhWSIal4kPTtZr3hXyLGS9_MKSVQIZlDg35iKCDoI_wH4zFBq2twZENAghHtiRuUh-0g9y3EYC8oxBiDRSibXQWtut9IKsrRtM7R8sobRyDVzr7AsutGBHpCmsSe8K4p3gF7FJFqtI_B/s1600/malwaree.jpg"
+      },
+      "published": "2025-05-14T17:57:00Z"
+    }
+  },
+  {
+    "hash": "4cb62a4607cffce3a9ba17d4835d78990775ad5519dff0d30e17904306c0ad6c",
+    "item": {
+      "title": "BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan",
+      "description": "At least two different cybercrime groups BianLian and RansomExx are said to have exploited a recently disclosed security flaw in SAP NetWeaver, indicating that multiple threat actors are taking advantage of the bug.\nCybersecurity firm ReliaQuest, in a new update published today, said it uncovered evidence suggesting involvement from the BianLian data extortion crew and the RansomExx ransomware",
+      "links": [
+        "https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtuv63maGLpa00xoRc7k7gF7y0LQ8HUBfl-oxWJMEkfKTl_vqlFQVi_CxabyIlOW2ME6jrIjcUBJ8k5kHfI5Px6tIoCJt9JPxkZtBikAaDxpBSAMImLhYKrXeeRMZjCLl-0sIAcGZbDjZnmKf8bwRElasV_BggPEq3Z3qGYmbeBT89bKgl9qxFNc-b_-6n/s1600/torjan.jpg"
+      },
+      "published": "2025-05-14T17:50:00Z"
+    }
+  },
+  {
+    "hash": "4b2e163b7e662dc2f11cde8aa5d0cb36c6e2e2e7245d9d814396bad4c19cf97c",
+    "item": {
+      "title": "Xinbi Telegram Market Tied to $8.4B in Crypto Crime, Romance Scams, North Korea Laundering",
+      "description": "A Chinese-language, Telegram-based marketplace called Xinbi Guarantee has facilitated no less than $8.4 billion in transactions since 2022, making it the second major black market to be exposed after HuiOne Guarantee.\nAccording to a report published by blockchain analytics firm Elliptic, merchants on the marketplace have been found to peddle technology, personal data, and money laundering",
+      "links": [
+        "https://thehackernews.com/2025/05/xinbi-telegram-market-tied-to-84b-in.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglKvohWA-Sqx83A957Rs4C-yK9emWUusoax8krxmcHLLruUbget11dSLmul1nMO94YF7kb-2vaz3Hu9j_pVx1VqK_VzBwObEsJlQ_PkFcFV1k4lH3XbXToxA7Nhndl_zxe8Ld_nIcHh3zfC2mPIJY2tTxVUjZD1kFQ4SStf6ILnOoyJMRP_9A5fZFYDL0l/s1600/crypto.jpg"
+      },
+      "published": "2025-05-14T15:27:00Z"
+    }
+  },
+  {
+    "hash": "965f9d34e445435ecdac1af8cff72211c306ce878acd5d2698beffd90bb193a0",
+    "item": {
+      "title": "Podman 5.5.0 released",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/containers/podman/releases/tag/v5.5.0\"\u003eVersion\n5.5.0\u003c/a\u003e of the \u003ca href=\"https://podman.io/\"\u003ePodman\u003c/a\u003e container-management tool has been\nreleased. Notable features include the addition of a \u003ctt\u003epodman\u0026#160;machine\u0026#160;cp\u003c/tt\u003e command to copy files into a running \u003ca\nhref=\"https://docs.podman.io/en/v5.2.2/markdown/podman-machine.1.html\"\u003ePodman\nVM\u003c/a\u003e, a \u003ctt\u003epodman\u0026#160;artifact\u0026#160;extract\u003c/tt\u003e command to copy\ncontents of an \u003ca\nhref=\"https://blog.podman.io/2025/01/podman-introduces-support-for-oci-artifacts/\"\u003eOCI\nartifact\u003c/a\u003e to disk, and a \u003ctt\u003e--mount=artifact\u003c/tt\u003e option to mount\nOCI artifacts into containers. See the release announcement for a full\nlist of improvements and bug fixes.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1021217/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-05-14T17:37:05Z"
+    }
+  },
+  {
+    "hash": "931bd7d6a5c64932f2660150dca819badd23c41f1a023265047b2fa3645a83fa",
+    "item": {
+      "title": "[$] Faster firewalls with bpfilter",
+      "description": "\u003cp\u003e\nFrom\nservers in a data center to desktop computers, many devices\ncommunicating on a network will eventually have to filter network\ntraffic, whether it's for security or performance reasons. As a result,\nthis is a domain where a lot of work is put into improving performance:\na tiny performance improvement can have considerable gains.\n\u003ca href=\"https://bpfilter.io/\"\u003e\nBpfilter\u003c/a\u003e is a\nproject that allows for packet filtering to easily be done with BPF, which can\nbe faster than other mechanisms.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1017705/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-05-14T17:22:47Z"
+    }
+  },
+  {
+    "hash": "0874ec8424fc99e6ae581723aa28296f6fa9b70b5e1eedc33e89cf4c25997a63",
+    "item": {
+      "title": "BOME Buzz Builds After 17% Jump: Is BOOK OF MEME Gearing Up for a Major Rally?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/BOME-Buzz-Builds-After-17-Jump-Is-BOOK-OF-MEME-Gearing-Up-for-a-Major-Rally.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BOME Buzz Builds After 17% Jump: Is BOOK OF MEME Gearing Up for a Major Rally?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/BOME-Buzz-Builds-After-17-Jump-Is-BOOK-OF-MEME-Gearing-Up-for-a-Major-Rally.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/BOME-Buzz-Builds-After-17-Jump-Is-BOOK-OF-MEME-Gearing-Up-for-a-Major-Rally-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/BOME-Buzz-Builds-After-17-Jump-Is-BOOK-OF-MEME-Gearing-Up-for-a-Major-Rally-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market cap has reached $3.36 trillion after the recent recovery attempt from the bearish grip. Major assets have entered the bullish territory. Notably, the meme coin market cap is found at around $80 billion, with BOOK OF MEME (BOME) registering a solid 17.25% jump. In the early hours,",
+      "links": [
+        "https://thenewscrypto.com/bome-buzz-builds-after-17-jump-is-book-of-meme-gearing-up-for-a-major-rally/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "BOME",
+        "BOOK OF MEME",
+        "Cryptocurrency",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/BOME-Buzz-Builds-After-17-Jump-Is-BOOK-OF-MEME-Gearing-Up-for-a-Major-Rally.jpg"
+      },
+      "published": "2025-05-14T12:19:51Z"
+    }
+  },
+  {
+    "hash": "448a9c149a44a180b8d2ab33f425ab1b54715e1f1724bd5876675bea20c98b06",
+    "item": {
+      "title": "Asia’s Rich Pivot to Gold, Crypto, and China: UBS Reports",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-17.37.40_2b963540.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Asia’s Rich Pivot to Gold, Crypto, and China: UBS Reports\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-17.37.40_2b963540.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-17.37.40_2b963540-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-17.37.40_2b963540-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs per the Swiss multinational investment bank, UBS Group, the high-net-worth clients in Asia are slowly shifting away from US dollar-based investments and preferring gold, cryptocurrencies, and Chinese assets.  The co-head of wealth management for Asia of the Swiss bank, Amy Lo, stated that Gold is getting very popular in",
+      "links": [
+        "https://thenewscrypto.com/asias-rich-pivot-to-gold-crypto-and-china-ubs-reports/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto",
+        "Digital Asset",
+        "Gold"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sharmistha Suman"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-14-at-17.37.40_2b963540.jpg"
+      },
+      "published": "2025-05-14T12:13:29Z"
+    }
+  },
+  {
+    "hash": "d10e3cdcda14148075cf2b95bd876a35546d9eeab1819df7388fcc14a0616f4d",
+    "item": {
+      "title": "First Neiro On Ethereum (NEIRO) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/10/First-Neiro-On-Ethereum_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"First Neiro On Ethereum (NEIRO) Price Prediction 2024, 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/10/First-Neiro-On-Ethereum_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/10/First-Neiro-On-Ethereum_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/10/First-Neiro-On-Ethereum_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this First Neiro On Ethereum (NEIRO) price prediction 2025, 2026-2030,  we will analyze the price patterns of NEIRO by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION First Neiro On Ethereum (NEIRO) Current Market Status What is First Neiro",
+      "links": [
+        "https://thenewscrypto.com/first-neiro-on-ethereum-neiro-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "First Neiro On Ethereum",
+        "NEIRO",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/10/First-Neiro-On-Ethereum_Price-prediction.jpg"
+      },
+      "published": "2025-05-14T12:01:26Z"
+    }
+  },
+  {
+    "hash": "e4696c9fb441873041c6e5cd0fe309b1f8033c96de3a129355659a974fb85849",
+    "item": {
+      "title": "Whale.io Accelerating Towards TGE – Unveils “Wager \u0026 Earn” Campaign and Launches $WHALE Token Conversion",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Post_5_17472228507OrejGFu1a.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Post_5_17472228507OrejGFu1a.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/05/Post_5_17472228507OrejGFu1a-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Post_5_17472228507OrejGFu1a-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/Post_5_17472228507OrejGFu1a-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eWillemstad, Curaçao, 14th May 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/whale-io-accelerating-towards-tge-unveils-wager-earn-campaign-and-launches-whale-token-conversion/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Post_5_17472228507OrejGFu1a.jpg"
+      },
+      "published": "2025-05-14T11:59:54Z"
+    }
+  },
+  {
+    "hash": "9d6116701acc6eeadfab7e5aa2315a7543037e81478c0b0eff813cc409e7580b",
+    "item": {
+      "title": "New Switch 2 specs show large performance dip in undocked mode",
+      "description": "Digital Foundry also says Game Chat \"has a significant impact on system resources.\"",
+      "links": [
+        "https://arstechnica.com/gaming/2025/05/new-switch-2-specs-show-large-performance-dip-in-undocked-mode/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-9.17.48 AM-1152x648.png"
+      },
+      "published": "2025-05-14T16:40:43Z"
+    }
+  },
+  {
+    "hash": "8e445b553c968b6ab943864cd11eec0b7a555911e9bcb0116e7c6f54f6a11244",
+    "item": {
+      "title": "Max pivots back to HBO Max as WBD rethinks ability to compete with Netflix",
+      "description": "WBD is relenting on trying to get everyone to sign up for its streaming service.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/05/max-pivots-back-to-hbo-max-as-wbd-rethinks-ability-to-compete-with-netflix/"
+      ],
+      "categories": [
+        "Tech",
+        "Discovery Plus",
+        "hbo max",
+        "max",
+        "streaming",
+        "warner bros. discovery"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/hbo_max_logo-1152x648.jpg"
+      },
+      "published": "2025-05-14T16:27:42Z"
+    }
+  },
+  {
+    "hash": "0a074354700cc5d8c542a8e8f0d90fdc9432a9cb3aa0167ee9312654d14b07a0",
+    "item": {
+      "title": "Federal agencies continue terminating all funding to Harvard",
+      "description": "Agency by agency, Harvard is losing all of its federal research dollars.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/"
+      ],
+      "categories": [
+        "Science",
+        "DoD",
+        "DOE",
+        "Harvard",
+        "NIH",
+        "NSF",
+        "research funding"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-488775255-1152x648.jpg"
+      },
+      "published": "2025-05-14T16:06:33Z"
+    }
+  },
+  {
+    "hash": "f47217eb6a4a981aa8b93b71d90cafde792aed510fffae66b1ff823b89cfe429",
+    "item": {
+      "title": "Meta is making users who opted out of AI training opt out again, watchdog says",
+      "description": "EU users have less than two weeks to opt out of Meta's AI training.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/05/meta-is-making-users-who-opted-out-of-ai-training-opt-out-again-watchdog-says/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "AI training",
+        "Artificial Intelligence",
+        "Facebook",
+        "Instagram",
+        "meta",
+        "online privacy"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1936115086-1152x648.jpg"
+      },
+      "published": "2025-05-14T15:15:38Z"
+    }
+  },
+  {
+    "hash": "88982525d9e62ef4888d93614d568a6e942d7503f46d1ee19d68c5242007f26f",
+    "item": {
+      "title": "Litecoin (LTC) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/07/LTC-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Litecoin (LTC) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/07/LTC-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/07/LTC-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/07/LTC-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Litecoin (LTC) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of LTC by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Litecoin (LTC) Current Market Status What is Litecoin (LTC)? Litecoin (LTC) 24H Technicals LITECOIN (LTC) PRICE",
+      "links": [
+        "https://thenewscrypto.com/litecoin-ltc-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Litecoin",
+        "LTC",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/07/LTC-Price-prediction.jpg"
+      },
+      "published": "2025-05-14T11:53:22Z"
+    }
+  },
+  {
+    "hash": "1621bdc5aa3d6cde84454f90fa63b1f4bfc183c7746ca06a39c887404390d7d3",
+    "item": {
+      "title": "PEPE Price Prediction: Meme Coin Hype Grows, But Ozak AI’s Fundamentals Win Investor Confidence",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"445\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-42.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-42.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-42-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-42-768x438.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMeme coins like PEPE preserve to seize attention with their viral appeal and community-driven momentum. However, emerging projects which include Ozak AI (OZ) are gaining traction via presenting tangible applications and strong basics, attractive to traders in search of sustainable growth. Pepe Coin (PEPE) PEPE, inspired by the popular internet",
+      "links": [
+        "https://thenewscrypto.com/pepe-price-prediction-meme-coin-hype-grows-but-ozak-ais-fundamentals-win-investor-confidence/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-42.jpg"
+      },
+      "published": "2025-05-14T11:11:16Z"
+    }
+  },
+  {
+    "hash": "c352bcdd7b7e9220a9c3d20081483699d819bc7ed276f08664031d1251b84eec",
+    "item": {
+      "title": "AMD Ryzen 9 9900 Series Linux Performance Since Launch",
+      "description": "After recently looking at how the Intel Core Ultra 9 285K \"Arrow Lake\" Linux performance has evolved since launch, many Phoronix readers were curious how a similar launch-day vs. now comparison would look on the AMD Zen 5 side. The article today is looking at how the AMD Ryzen 9 9900X and Ryzen 9 9950X Linux performance has evolved since their launch last year. These numbers are put alongside the prior Intel Arrow Lake results for additional context.",
+      "links": [
+        "https://www.phoronix.com/review/ryzen-9900-linux-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-14T15:30:00Z"
+    }
+  },
+  {
+    "hash": "8a64395efe25da6fe99219f2ac35b728ea41cd9457b4792867c8d294071f0528",
+    "item": {
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985489\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T15:10:15Z"
+    }
+  },
+  {
+    "hash": "377652ea4710d06e4a25858b204e9e2b5608a2539a3dffa1fe5f0766f1c6cf0c",
+    "item": {
+      "title": "Our Narrative Prison",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43986424\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T16:27:48Z"
+    }
+  },
+  {
+    "hash": "9fdb7bea19b901a857894779439e5ff3219841b84ca61aecf4000ccb091cca74",
+    "item": {
+      "title": "A server that wasn't meant to exist",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985971\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T15:50:30Z"
+    }
+  },
+  {
+    "hash": "6a1e57d30ac01e4ac205bcc9b29b75215d2d356046f6d381cc5ba18c62b3d423",
+    "item": {
+      "title": "Show HN: Lumier – Run macOS VMs in a Docker",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985624\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/trycua/cua/tree/main/libs/lumier"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T15:19:41Z"
+    }
+  },
+  {
+    "hash": "0bd0443d5b2280c874422e0c25c2276e78f1ac2161ea00e33b9401609b8da884",
+    "item": {
+      "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971620\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/git-bug/git-bug"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T11:07:29Z"
+    }
+  },
+  {
+    "hash": "88726809a490bb2becb19ddfb4acb25ca34956361ea15bba5afc31b1a01a0a74",
+    "item": {
+      "title": "Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43986792\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T17:01:33Z"
+    }
+  },
+  {
+    "hash": "2da33d7b71704e1ca23726e1ae4a48dd2a348b5c4f6012e00e20191efa82deb6",
+    "item": {
+      "title": "Launch HN: Jazzberry (YC X25) – AI agent for finding bugs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985994\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43985994"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T15:52:21Z"
+    }
+  },
+  {
+    "hash": "af10cd878356328561f3b3fa6815d1e9584ede02a548b30f2a94b8ae11e7d417",
+    "item": {
+      "title": "Smalltalk-78 Xerox NoteTaker in-browser emulator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43986833\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T17:05:30Z"
+    }
+  },
+  {
+    "hash": "f8ec49a6ec89cb430b3814ccddeaf4bdc7f1a7c1cdd727b4467277e3eaf37e45",
+    "item": {
+      "title": "The overlooked masterpiece full of coded messages about World War One",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43957072\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/culture/article/20250423-the-masterpiece-full-of-coded-messages-about-ww1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T20:53:23Z"
+    }
+  },
+  {
+    "hash": "55fef6628ad4eeb82cb14dde654c6e44eae2d84ac626c9446dd19a4978e3a5e2",
+    "item": {
+      "title": "Grok answers unrelated queries with long paragraphs about \"white genocide\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43987266\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/grok/status/1922651218595439063"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T17:43:42Z"
+    }
+  },
+  {
+    "hash": "aa791bdaf135013ae432a4947cbebc247bfce3aa64b50db78f410e29538f63d8",
+    "item": {
+      "title": "U.S. nuclear base hidden under Greenland's ice for decades",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43984275\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T13:27:04Z"
+    }
+  },
+  {
+    "hash": "fa723756f0d5fa6a8f0fbd0df5593c83bfc6c387f19634982377309e4d411c5e",
+    "item": {
+      "title": "Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985527\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US\u0026gl=US"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T15:12:53Z"
+    }
+  },
+  {
+    "hash": "01c195af936109c2872af9f6560a80d778b067b043d592f9be1894b13c592387",
+    "item": {
+      "title": "Ask HN: How are you cleaning and transforming data before imports/uploads?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43986417\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43986417"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T16:27:15Z"
+    }
+  },
+  {
+    "hash": "4696bead34617238d3c5a5cdc78278bd201360de6fe3fc31cc87418258590a15",
+    "item": {
+      "title": "Crypto Exchange Luno Adds Sixth Staking Wallet, Offering Users 18% on Cosmos",
+      "description": "\u003cp\u003eLuno has added a sixth staking option, Cosmos (ATOM), for South African investors. Early participants can earn up to 18% until 16 June 2025 before rates shift to as much as 11% per year. The update lifts Luno’s supported staking assets to Ethereum, Solana, Cardano, Polkadot, Near and Cosmos.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/luno-adds-sixth-staking-wallet-offering-users-up-to-18-on-cosmos-atom/\"\u003eCrypto Exchange Luno Adds Sixth Staking Wallet, Offering Users 18% on Cosmos\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/luno-adds-sixth-staking-wallet-offering-users-up-to-18-on-cosmos-atom/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Cosmos",
+        "Luno",
+        "Staking"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23145442/1745420082-spacecoin-decentralized-satellite-network-jim-cantrell.jpg"
+      },
+      "published": "2025-05-14T17:41:26Z"
+    }
+  },
+  {
+    "hash": "b971a63cf6c6fbb47f5b07e153424b416e5801497f9deba82f434713a28783f4",
+    "item": {
+      "title": "Gary Gensler Exposed: Secret Crypto Support, Public Crackdown – McHenry Explains",
+      "description": "\u003cp\u003eGary Gensler, once viewed as a crypto-savvy regulator, has privately endorsed digital assets while publicly leading more than 100 SEC enforcement actions. Interviews and market data have shown the approach has slashed U.S. venture funding and spurred a push for consistent, collaborative oversight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gary-gensler-secretly-backed-crypto-mchenry/\"\u003eGary Gensler Exposed: Secret Crypto Support, Public Crackdown – McHenry Explains\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gary-gensler-secretly-backed-crypto-mchenry/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "Crypto Regulation",
+        "Patrick McHenry",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/14150045/1747234845-image-1747234461936_optimized.webp"
+      },
+      "published": "2025-05-14T17:11:48Z"
+    }
+  },
+  {
+    "hash": "0416486d5f2e5ede8683a4542df9f58e480aa356ca9db54540c7142a929fbce0",
+    "item": {
+      "title": "CryptoQuant: South Korea’s Three Presidential Front-Runners Embrace Crypto – Policy Shift Ahead?",
+      "description": "\u003cp\u003eSouth Korea may soon overhaul its crypto rules after all major presidential candidates have supported Bitcoin ETFs and institutional investment. Their coordinated pledges reflect expanding retail demand and parallel developments in the United States, setting up a decisive policy test on 3 June.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/three-major-south-korean-presidential-candidates-support-crypto-cryptoquant/\"\u003eCryptoQuant: South Korea’s Three Presidential Front-Runners Embrace Crypto – Policy Shift Ahead?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/three-major-south-korean-presidential-candidates-support-crypto-cryptoquant/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "CryptoQuant",
+        "Presidential Elections",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/16133855/1744810735-image-1744808298054_optimized.webp"
+      },
+      "published": "2025-05-14T16:13:13Z"
+    }
+  },
+  {
+    "hash": "df810d61d1a01992de20c64d8405459170bb95ea1fc9a191fe600e6135174c76",
+    "item": {
+      "title": "XRP Price Update: Surging Open Interest Sends XRP Toward $3 Breakout, What’s Next?",
+      "description": "\u003cp\u003eXRP is retaking March levels in what appears to be a breakout event, prompting traders to take long positions in the approach of $3.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/surging-open-interest-sends-xrp-price-toward-3-breakout/\"\u003eXRP Price Update: Surging Open Interest Sends XRP Toward $3 Breakout, What’s Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/surging-open-interest-sends-xrp-price-toward-3-breakout/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Prediction",
+        "Technical Analysis",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/14145430/1747234470-xrp-price-update-surging-open-interest-sends-xrp-toward-3-breakout-whats-next-1.jpg"
+      },
+      "published": "2025-05-14T15:34:13Z"
+    }
+  },
+  {
+    "hash": "69a7e23b54bf0a76a83dd3383622e79bde61ec0cc07c5eca85464f2b534a70f8",
+    "item": {
+      "title": "3 Crypto Tokens Set For 100x Gains This May",
+      "description": "\u003cp\u003eThe $3.5 trillion crypto market is due for a sweltering summer and several key tokens are likely to explode before the solstice comes around.The following altcoins, in some way, bring fresh innovation or address specialized problems in their respective blockchain ecosystem.With that in mind, here are three under-the-radar altcoins currently trading at attractive valuations. If [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-crypto-tokens-set-for-100x-gains-this-may-quai-solaxy-pi/\"\u003e3 Crypto Tokens Set For 100x Gains This May\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-crypto-tokens-set-for-100x-gains-this-may-quai-solaxy-pi/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Altcoins",
+        "Pi Network",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/14144621/3-Crypto-Tokens-Set-For-100x-Gains-This-May-2.jpg"
+      },
+      "published": "2025-05-14T15:33:17Z"
+    }
+  },
+  {
+    "hash": "bef42c4dc99bbce3902929b166cdfb39343a4fe22607509fbca9b909d45159b2",
+    "item": {
+      "title": "Raydium Rockets 53% Since May 8 – Can Solana’s Top DEX Hit $5 Next?",
+      "description": "\u003cp\u003eRaydium has sustained a rapid climb, advancing 18.6 % on the day to almost $3.80 and pushing year-to-date gains above 138 %. The Solana DEX now holds $2.15 billion TVL, records $3.6 billion average daily volume and has generated more than $460 million in annualised fees.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/raydium-price-surge-solana-dex-5-dollar-target/\"\u003eRaydium Rockets 53% Since May 8 – Can Solana’s Top DEX Hit $5 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/raydium-price-surge-solana-dex-5-dollar-target/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DEX",
+        "pump.fun",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/14141541/1747232141-raydium___media_library_original_1200_630_optimized.jpg"
+      },
+      "published": "2025-05-14T15:13:54Z"
+    }
   }
 ]
