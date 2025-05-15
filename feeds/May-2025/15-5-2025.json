@@ -614,5 +614,118 @@
       },
       "published": "2025-05-14T21:08:27Z"
     }
+  },
+  {
+    "hash": "895f900383905299583c9a1345c7313fd355ec30f561ab4f7f8d8c31185ca7af",
+    "item": {
+      "title": "LLMs Get Lost in Multi-Turn Conversation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43991256\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2505.06120"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T02:28:42Z"
+    }
+  },
+  {
+    "hash": "1266f4427df42d78f8a2450373a0734c768c6bd10132cc58a318f1b3af4e46c7",
+    "item": {
+      "title": "Human",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43991396\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://quarter--mile.com/Human"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T02:57:19Z"
+    }
+  },
+  {
+    "hash": "df6fd64f45d09ac766393a538ac6f4dfbc3ecf8860c9be6d1194e30d60bd1fa2",
+    "item": {
+      "title": "Python lib generates its code on-the-fly based on usage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43958846\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/cofob/autogenlib"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-12T01:36:02Z"
+    }
+  },
+  {
+    "hash": "2798aeb478636be0369a4fed22a75354d84dd72cbf89c32994c10f5eee544dc1",
+    "item": {
+      "title": "Internet Scrabble Club (2002-)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43958190\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://isc.ro/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T23:34:12Z"
+    }
+  },
+  {
+    "hash": "411907c1e809abeb9b9c319dd953536703ab899cd1cf84c5c84af72302e79c32",
+    "item": {
+      "title": "Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43990868\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=43990868"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T01:14:44Z"
+    }
+  },
+  {
+    "hash": "9111f80a97e7d3b3d2b84ce96c5dd7e7f9c4158c62d9941bd362f99d52839884",
+    "item": {
+      "title": "Databricks acquires Neon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43982777\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.databricks.com/blog/databricks-neon"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-14T10:10:00Z"
+    }
+  },
+  {
+    "hash": "3c8d257c9d675846cd858c817e1fa4e7c92291b7f668050613d00ef91a8ec540",
+    "item": {
+      "title": "Why agency and cognition are fundamentally not computational",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43990843\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T01:11:09Z"
+    }
+  },
+  {
+    "hash": "ea37d4edb076b42defd1902e69dbbd772c5c93a165e41be60d50bf09ba48b10a",
+    "item": {
+      "title": "MicroPython v1.25.0",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43991091\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/micropython/micropython/releases/tag/v1.25.0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T01:53:11Z"
+    }
+  },
+  {
+    "hash": "b64acf2bc44736ac33a6b854cc9d178f91f2c4148954a41d1a27bfcff67919f5",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for May 15, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1020448/\"\u003eFront\u003c/a\u003e: Home Assistant; YaST; bpfilter; Flatpak; More LSFMM+BPF 2025 coverage.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1020450/\"\u003eBriefs\u003c/a\u003e: Screen security; Guix on Codeberg; Postgres I/O; GNOME executive director; Nextcloud blog; Podman 5.5.0; OSL sustainability; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1020451/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1020448/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-15T00:59:14Z"
+    }
   }
 ]
