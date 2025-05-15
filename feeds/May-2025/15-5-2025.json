@@ -1324,5 +1324,517 @@
       },
       "published": "2025-05-15T06:49:33Z"
     }
+  },
+  {
+    "hash": "15bd7ebed45f3ec942db57ec486a592683b05f129ec50f4fcc3d7c438da2a250",
+    "item": {
+      "title": "Pen Testing for Compliance Only? It's Time to Change Your Approach",
+      "description": "Imagine this: Your organization completed its annual penetration test in January, earning high marks for security compliance. In February, your development team deployed a routine software update. By April, attackers had already exploited a vulnerability introduced in that February update, gaining access to customer data weeks before being finally detected.\nThis situation isn't theoretical: it",
+      "links": [
+        "https://thehackernews.com/2025/05/pen-testing-for-compliance-only-its.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgShDzP0DuAIRfk4mYhsH6zkqxshnG7nIT1kOyjvTLl0kii3nRAvOUJe6nI76ck3nObDPvSmBbRUn4tDMfGSGqiolTcHbbRiZs6GVPVtagTbKnhwaZ1h2MmvMoy3Kc5YoUNW1LKBGxdaLiqu7PnJdcQkVN-4WBTm13CaF9DmMwYWMw8kGHcNRFkWSCbT-g/s1600/PENTEST.jpg"
+      },
+      "published": "2025-05-15T11:25:00Z"
+    }
+  },
+  {
+    "hash": "b262fe57d4dcb3eeb58e4a70719d38d777320d05f587de50d77ef9a69f0d6f78",
+    "item": {
+      "title": "New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy",
+      "description": "Google on Wednesday released updates to address four security issues in its Chrome web browser, including one for which it said there exists an exploit in the wild.\nThe high-severity vulnerability, tracked as CVE-2025-4664 (CVSS score: 4.3), has been characterized as a case of insufficient policy enforcement in a component called Loader.\n\"Insufficient policy enforcement in Loader in Google",
+      "links": [
+        "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXw1xC9EO5yYpl-F2qtW0nNZRVQcddB9hrVa4G5vtW1VGE7-btdYljqxc2LmnD7C1KQCXZJcnFXEgSr5-pM8_MDspU1FizVFvULtAiXmygkRShNXvaUkn0wLocqzlBJGI0m1kg7ZNkA28tqPn1VqTEUHpoMyHwlWkZCQfSk8wy60DGsV5U-5MQfewfRA_Q/s1600/chrome-update.jpg"
+      },
+      "published": "2025-05-15T10:43:00Z"
+    }
+  },
+  {
+    "hash": "798b78ca1136be1c856103ab5a05a9f6a02a548e4960982f1bcbcc3636efff61",
+    "item": {
+      "title": "5 BCDR Essentials for Effective Ransomware Defense",
+      "description": "Ransomware has evolved into a deceptive, highly coordinated and dangerously sophisticated threat capable of crippling organizations of any size. Cybercriminals now exploit even legitimate IT tools to infiltrate networks and launch ransomware attacks. In a chilling example, Microsoft recently disclosed how threat actors misused its Quick Assist remote assistance tool to deploy the destructive",
+      "links": [
+        "https://thehackernews.com/2025/05/top-5-bcdr-capabilities-for-ransomware-defense.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvgLhz1clQCN0A5rHBzPP4cItJfKOvhHh9PkBoWrsvu8ly4NXXMLdsCz89__dcZkjU6SyMy0LYlwpJa6HMuHvfN4nKt4ov4S1HdSImSGx8we8CS197ZPLSzD20JlJH9jXS6iM78rrd2ShyRBJ1KEQXXhAFsc9K3Dyn9q3wt8NFgeLZBZgTEpqx2b920c/s1600/DAT-main.png"
+      },
+      "published": "2025-05-15T10:30:00Z"
+    }
+  },
+  {
+    "hash": "59cc46394d03f3e19addb86ea1e80b1ddea0f209f011d608bfd0719725f84946",
+    "item": {
+      "title": "Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers",
+      "description": "A Russia-linked threat actor has been attributed to a cyber espionage operation targeting webmail servers such as Roundcube, Horde, MDaemon, and Zimbra via cross-site scripting (XSS) vulnerabilities, including a then-zero-day in MDaemon, according to new findings from ESET.\nThe activity, which commenced in 2023, has been codenamed Operation RoundPress by the Slovak cybersecurity company. It has",
+      "links": [
+        "https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsySH5l53MhGg2r5G801B9rQmrFzYSkGXOsby0KXk1GWBYzWNAahBAFiYlIxAhAyDpaXb5s9psHTvd4FXGrzFTb_28by0no1Q7Hg1swbteDtd2xv2BpwTAWC9heurwiYTVWsSDkk5-R0jpqOoxIhgeVh7iWvjLM77o4ys3fLmll13z9J0ptTV8J1UTLlo/s1600/email.jpg"
+      },
+      "published": "2025-05-15T10:05:00Z"
+    }
+  },
+  {
+    "hash": "a71790edd11ba9d52434c90e328506acb2d45985a3aae7629c778a1dfb002721",
+    "item": {
+      "title": "Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper",
+      "description": "Cybersecurity researchers have discovered a malicious package named \"os-info-checker-es6\" that disguises itself as an operating system information utility to stealthily drop a next-stage payload onto compromised systems.\n\"This campaign employs clever Unicode-based steganography to hide its initial malicious code and utilizes a Google Calendar event short link as a dynamic dropper for its final",
+      "links": [
+        "https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUJ4RXtmMbXxq4NaRwal0kbQQuRdctdPUXIv70obQhzGhc7LObtaSHs8zgjG28BvtSX0Q7-16sSYPYdnsc1_kkblxArzlSW9KptLEI1Zf8l5Fr-mg6SiuFED-DoYnGeChMSj4795bZITfavy830RdQ4V8FYLOljgsRwIQZWJn05c6NWLWLOfcbYpxqVXY/s1600/npm-malware.jpg"
+      },
+      "published": "2025-05-15T10:00:00Z"
+    }
+  },
+  {
+    "hash": "b667c277df113541891f49475c669d291ba65b9a967d6889354c094fa3b92a49",
+    "item": {
+      "title": "Tradoor Unveils ‘Fastest DEX on TON’ Following $3.2m in Financing",
+      "description": "\u003cp\u003e\u003cimg width=\"754\" height=\"422\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-43.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-43.jpg 754w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-43-300x168.jpg 300w\" sizes=\"(max-width: 754px) 100vw, 754px\" /\u003e\u003c/p\u003eTradoor, the first triple Perps, Options, and SocialFi DEX on The Open Network (TON), has announced $3.2 million in total funding to bring CEX-grade trading to Telegram. The rounds were led by TON Ventures and Kenetic Capital, with participation from Sigil Fund, Protagonist, VentureSouq, T Fund, TONX, Re7 Capital, and",
+      "links": [
+        "https://thenewscrypto.com/tradoor-unveils-fastest-dex-on-ton-following-3-2m-in-financing/"
+      ],
+      "categories": [
+        "Press Release",
+        "Tradoor"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-43.jpg"
+      },
+      "published": "2025-05-15T08:43:55Z"
+    }
+  },
+  {
+    "hash": "e7df80cd5728a8f1948b782d0cf38b7160544c2dca7fb65ab45b79f505c8386c",
+    "item": {
+      "title": "Pi Coin Value Drops 33% After New $100M Fund Announcement",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Pi-Network-price-has-dropped-by-43-from-all-time-highs-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"pi coin value\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/Pi-Network-price-has-dropped-by-43-from-all-time-highs-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/Pi-Network-price-has-dropped-by-43-from-all-time-highs-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/Pi-Network-price-has-dropped-by-43-from-all-time-highs-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe price of Pi Coin drops a staggering 33% over the last 24 hours, dropping from previous highs of $1.40 to just below $0.88. This freefall comes after the Pi Network Core Team revealed a $100 million venture capital fund. One that, lit a firestorm of criticism among its massive",
+      "links": [
+        "https://thenewscrypto.com/pi-coin-value-drops-33-after-new-100m-fund-announcement/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "News",
+        "pi coin",
+        "Pi Network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sneha Murali"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/Pi-Network-price-has-dropped-by-43-from-all-time-highs-1.jpg"
+      },
+      "published": "2025-05-15T08:27:54Z"
+    }
+  },
+  {
+    "hash": "b4ed7907e31ebcda0dacd4936048f283f05062c281c31b4b8adea5b84d342aaa",
+    "item": {
+      "title": "eToro Soars on Nasdaq Debut, Signaling Revival in Crypto-Related IPOs",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/eToro-jumps-30-on-Nasdaq-debut-after-upsized-IPO.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"eToro Soars on Nasdaq Debut, Signaling Revival in Crypto-Related IPOs\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/eToro-jumps-30-on-Nasdaq-debut-after-upsized-IPO.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/eToro-jumps-30-on-Nasdaq-debut-after-upsized-IPO-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/eToro-jumps-30-on-Nasdaq-debut-after-upsized-IPO-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eeToro Group made a fantastic debut on the U.S. exchange on Wednesday, with the stock price surging almost 30% on its first day of trading. Its stock price closed at $67, above its IPO price of $52. It brings the company\u0026#8217;s market capitalization to over $5.5 billion. Upsized Offering Reflects",
+      "links": [
+        "https://thenewscrypto.com/etoro-soars-on-nasdaq-debut-signaling-revival-in-crypto-related-ipos/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto",
+        "eToro",
+        "NASDAQ"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/eToro-jumps-30-on-Nasdaq-debut-after-upsized-IPO.jpg"
+      },
+      "published": "2025-05-15T08:15:38Z"
+    }
+  },
+  {
+    "hash": "8f6c7c6ea82094d5c68e5ebfb99fadc077a8fe5682eb4c1ffbc4de46b0097cb8",
+    "item": {
+      "title": "MetaMask Token Remains a Possibility as Regulatory Landscape Shifts",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/MetaMask_co_founder_Dan_Finlay_says_token_is_still_a_maybe.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"MetaMask Token Remains a Possibility as Regulatory Landscape Shifts\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/MetaMask_co_founder_Dan_Finlay_says_token_is_still_a_maybe.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/MetaMask_co_founder_Dan_Finlay_says_token_is_still_a_maybe-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/MetaMask_co_founder_Dan_Finlay_says_token_is_still_a_maybe-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMetaMask co-founder Dan Finlay has confirmed that the team is still considering a native token for the wallet. Speaking during a podcast interview with The Block’s Tim Copeland, Finlay addressed ongoing discussions about the long-rumored MASK token. He said that any official announcement would appear only through MetaMask’s wallet interface",
+      "links": [
+        "https://thenewscrypto.com/metamask-token-remains-a-possibility-as-regulatory-landscape-shifts/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto",
+        "METAMASK",
+        "Regulations"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/MetaMask_co_founder_Dan_Finlay_says_token_is_still_a_maybe.jpg"
+      },
+      "published": "2025-05-15T07:57:30Z"
+    }
+  },
+  {
+    "hash": "da0cf2f036e4daddab7b40dd875486b943019ea17bc1d2b79c09c86add682f9f",
+    "item": {
+      "title": "Ukraine Eyes National Bitcoin Reserve in Collaboration with Binance",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ukraine_is_considering_partnering_with_Binance_to_create_a_national-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ukraine Eyes National Bitcoin Reserve in Collaboration with Binance\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ukraine_is_considering_partnering_with_Binance_to_create_a_national-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ukraine_is_considering_partnering_with_Binance_to_create_a_national-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ukraine_is_considering_partnering_with_Binance_to_create_a_national-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs global interest in cryptocurrency adoption grows, Ukraine is taking a bold step toward integrating digital assets into its national financial strategy. The Eastern European nation is reportedly drafting legislation to establish a national strategic Bitcoin reserve, with the support of Binance, one of the world\u0026#8217;s leading crypto exchanges. A",
+      "links": [
+        "https://thenewscrypto.com/ukraine-eyes-national-bitcoin-reserve-in-collaboration-with-binance/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Binance",
+        "bitcoin reserve",
+        "Ukraine"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Harshini Chakka"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Ukraine_is_considering_partnering_with_Binance_to_create_a_national-1.jpg"
+      },
+      "published": "2025-05-15T07:10:43Z"
+    }
+  },
+  {
+    "hash": "ad6028f7a26fe788f2085c906a2493cc7203866ca19ce3e53f9cedc57620beae",
+    "item": {
+      "title": "Is $0.020 Still on the Radar for Pudgy Penguins (PENGU) Despite Sluggish Movement?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Pudgy-Penguins-price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is $0.020 Still on the Radar for Pudgy Penguins (PENGU) Despite Sluggish Movement?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/Pudgy-Penguins-price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/Pudgy-Penguins-price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/Pudgy-Penguins-price-analysis-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market has opened the trading day on a bearish note, with the market cap slipping by 1.97% to $3.31 trillion. All major crypto assets are charted in red, but the overall sentiment is greed as the Fear and Greed Index reading is holding steady at 71. Notably, Helium",
+      "links": [
+        "https://thenewscrypto.com/is-0-020-still-on-the-radar-for-pudgy-penguins-pengu-despite-sluggish-movement/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "PENGU",
+        "Pudgy Penguins"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/Pudgy-Penguins-price-analysis.jpg"
+      },
+      "published": "2025-05-15T07:10:18Z"
+    }
+  },
+  {
+    "hash": "46e34752934cb488c0f5c11dcecf1d985fa0ea26b781896ad93a181f3d8bf6e4",
+    "item": {
+      "title": "Independent Audit From Hacken Confirms MEXC’s Strong Security Standards",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-3.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-3.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-3-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-3-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eAs part of a systematic approach to ensuring the security, transparency and sustainability of its platform, MEXC, a leading global cryptocurrency exchange, regularly undergoes both technical and financial audits. One of the latest steps in this direction included the successful completion of a security audit by Hacken, a leading Web3",
+      "links": [
+        "https://thenewscrypto.com/independent-audit-from-hacken-confirms-mexcs-strong-security-standards/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-3.png"
+      },
+      "published": "2025-05-15T06:36:50Z"
+    }
+  },
+  {
+    "hash": "084a0c2ac49e158b70caabe5dedc4922a3f648350eaba07899ae18377d2a535c",
+    "item": {
+      "title": "SEC Delays Solana ETF Decision to October 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/According-to-the-SEC-the-19b-4-filing-for-the-Canary.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SEC Delays Solana ETF Decision to October 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/According-to-the-SEC-the-19b-4-filing-for-the-Canary.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/According-to-the-SEC-the-19b-4-filing-for-the-Canary-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/According-to-the-SEC-the-19b-4-filing-for-the-Canary-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe U.S. Securities and Exchange Commission (SEC) has delayed its decision on Grayscale’s spot Solana (SOL) ETF. The new deadline has been pushed to October 2025, according to a filing dated May 13. The application aims to list the ETF on the New York Stock Exchange (NYSE). This move mirrors",
+      "links": [
+        "https://thenewscrypto.com/sec-delays-solana-etf-decision-to-october-2025/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETF",
+        "SEC",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sindhu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/According-to-the-SEC-the-19b-4-filing-for-the-Canary.jpg"
+      },
+      "published": "2025-05-14T19:18:26Z"
+    }
+  },
+  {
+    "hash": "2363b0261518f93e4566395071b412257d2a9f06fba30c147a7729b3e2bd3a1a",
+    "item": {
+      "title": "Binance Research Report Highlights the Rise of DeFAI: Redefining the Future of On-Chain Finance",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-28_12-02-56.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Research Report Highlights the Rise of DeFAI: Redefining the Future of On-Chain Finance\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-28_12-02-56.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-28_12-02-56-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-28_12-02-56-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn an era where artificial intelligence (AI) continues to reshape industries, its convergence with decentralized finance (DeFi) has given birth to a transformative frontier: DeFAI — Decentralized Financial Artificial Intelligence. As DeFi matures, the integration of AI agents introduces not just evolutionary improvements but a fundamental shift in how financial",
+      "links": [
+        "https://thenewscrypto.com/binance-research-report-highlights-the-rise-of-defai-redefining-the-future-of-on-chain-finance/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/photo_2025-04-28_12-02-56.jpg"
+      },
+      "published": "2025-05-14T18:50:17Z"
+    }
+  },
+  {
+    "hash": "10594fcf7630e052777e32df401d4eb11b59d40b6d3c5878c81cc356bfed2fde",
+    "item": {
+      "title": "CachyOS, Clear Linux \u0026 Debian 13 Deliver The Best Performance On Framework Laptop 13 With AMD Strix Point",
+      "description": "For those that may be upgrading to the new Framework 13 with AMD Ryzen AI 300 series \"Strix Point\" SoCs and curious about hitting the best possible Linux performance, this article is for you. Here is a look at the performance of the Framework Laptop 13 with AMD Ryzen AI 9 HX 370 across CachyOS, Clear Linux, Debian, Fedora Workstation 42, Manjaro Linux 25.0, openSUSE Tumbleweed, and Ubuntu 25.04.",
+      "links": [
+        "https://www.phoronix.com/review/framework-13-amd-linux-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-15T11:04:00Z"
+    }
+  },
+  {
+    "hash": "04dace1645622495043c690d7bc65cce310114868909a843fb5a3868155cce69",
+    "item": {
+      "title": "Linux Patches Updated For Dropping Support For Very Old x86 CPUs",
+      "description": "Posted last month were Linux patches for removing support for very old i486 and early i586 CPUs. While not yet mainlined to the Linux kernel contrary to some of the reporting elsewhere, this work for removing TSC-less and CX8-less x86 CPUs remains ongoing and out today is the second iteration of the patches...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-x86-Removing-Old-CPUs-v2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-15T10:44:17Z"
+    }
+  },
+  {
+    "hash": "cf2d6354a97c388ea0ef03fbde0d6b49bb7ab98d9d8667244261bacc839157b7",
+    "item": {
+      "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43994131\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T12:03:38Z"
+    }
+  },
+  {
+    "hash": "671e1439eb136d22aed0abfc4a4756e9ad70d077cfa9577c57c900ff473ae7b7",
+    "item": {
+      "title": "Fast machines, slow machines",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972004\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jmmv.dev/2023/06/fast-machines-slow-machines.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T12:10:23Z"
+    }
+  },
+  {
+    "hash": "c4b81d7512bb675c6eb3c61457eaafb1e6f04a8b5383bff065fbcfe67db03c46",
+    "item": {
+      "title": "GM's new turbo engine rewrites the rules of torque control-and locks out tuners",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43969985\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.carsandhorsepower.com/featured/gm-s-new-turbo-engine-patent-could-rewrite-the-rules-of-torque-control-and-lock-out-tuners-for-good"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T06:04:14Z"
+    }
+  },
+  {
+    "hash": "0cbfa1326d41eb8e69bd2d4aa4fe029f641d384c1c6a8624b9c7b4a8b1c3fd0c",
+    "item": {
+      "title": "In the US, a rotating detonation rocket engine takes flight",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43993897\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T11:29:22Z"
+    }
+  },
+  {
+    "hash": "f5ccb4ccd825bb932634459bd41b76cfe6870e85e151fe8c50e7c3b408b77466",
+    "item": {
+      "title": "Moving Forth: a series on writing Forth kernels",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43992100\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bradrodriguez.com/papers/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T05:24:43Z"
+    }
+  },
+  {
+    "hash": "9db9ae1a8f123d8041408e227f79794d80d508178e4c97036cc3e02ac4bcf6c5",
+    "item": {
+      "title": "Moo Deng Jumps 645% in May, But Traders Expect a Drop",
+      "description": "\u003cp\u003eThe meme coin jumped after its Binance Alpha listing, but not everyone is convinced the rally will last. Here's what the data shows.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/moo-deng-jumps-645-in-may-but-traders-expect-a-drop/\"\u003eMoo Deng Jumps 645% in May, But Traders Expect a Drop\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/moo-deng-jumps-645-in-may-but-traders-expect-a-drop/"
+      ],
+      "categories": [
+        "Features",
+        "Meme Coins",
+        "Moo Deng"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/15110607/1747307166-moo2_optimized-2.jpg"
+      },
+      "published": "2025-05-15T11:46:10Z"
+    }
+  },
+  {
+    "hash": "cbd1a34cb3f54a9d7460add6909d74517bb4394e47bf128310b7061ea679fe45",
+    "item": {
+      "title": "Why Bitcoin is Getting Greener: Renewables Power 52% of Mining",
+      "description": "\u003cp\u003eCambridge University released its latest report on Bitcoin mining, showing that 52% of the network is now powered by renewable energy sources\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/bitcoin-now-much-greener-as-renewables-power-52-of-mining-cambridge/\"\u003eWhy Bitcoin is Getting Greener: Renewables Power 52% of Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/bitcoin-now-much-greener-as-renewables-power-52-of-mining-cambridge/"
+      ],
+      "categories": [
+        "Features",
+        "ASIC",
+        "Bitcoin",
+        "CRYPTO",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jeffrey Gogo"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/15105057/1747306257-btcmining.jpg"
+      },
+      "published": "2025-05-15T10:59:11Z"
+    }
+  },
+  {
+    "hash": "c07b74581df6c7a9baf293a3b87a88ac408ff3367a8b3cfdc048a71e5a2585ea",
+    "item": {
+      "title": "Hong Kong Police Develop ‘CryptoTrace’ Tool to Help Track Online Crypto Crimes",
+      "description": "\u003cp\u003eHong Kong police developed the ‘CryptoTrace’ tool in collaboration with the University of Hong Kong to help in crypto crime investigations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hong-kong-police-develop-cryptotrace-tool-to-help-track-online-crypto-crimes/\"\u003eHong Kong Police Develop ‘CryptoTrace’ Tool to Help Track Online Crypto Crimes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hong-kong-police-develop-cryptotrace-tool-to-help-track-online-crypto-crimes/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Crime",
+        "crypto scams",
+        "Hong Kong"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/15103553/1747305352-image-1746430407892_optimized.jpg"
+      },
+      "published": "2025-05-15T10:44:23Z"
+    }
   }
 ]
