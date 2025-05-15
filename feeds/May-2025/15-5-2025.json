@@ -1109,5 +1109,220 @@
       },
       "published": "2025-05-14T21:44:26Z"
     }
+  },
+  {
+    "hash": "7905acf1c03f87707ca9cfe76a52f7f26631e35707f32c97c75fdf13c3cf74cc",
+    "item": {
+      "title": "Working on complex systems: What I learned working at Google",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971177\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thecoder.cafe/p/complex-systems"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T09:35:43Z"
+    }
+  },
+  {
+    "hash": "ff93093d772ea39f37481b681e1c52b77b279131a5a7a2db0a053f3911ce9c77",
+    "item": {
+      "title": "EU ruling: tracking-based advertising [...] across Europe has no legal basis",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43992444\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T06:43:03Z"
+    }
+  },
+  {
+    "hash": "e92122fee9ed35f6ad49c47a3e658b2d093de7b1ab6248dd41b634c0e40fc2c5",
+    "item": {
+      "title": "Tiptap (YC S23) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43992530\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T07:01:11Z"
+    }
+  },
+  {
+    "hash": "71310c23011658fc843bb5cf95c64834a5ed2d413cbf4e84e9b3db30edb7ec88",
+    "item": {
+      "title": "Lightweight open source reCaptcha alternative",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971068\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/altcha-org/altcha"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T09:19:07Z"
+    }
+  },
+  {
+    "hash": "2d3419dee1cf236e976b5017527e894ebdda4570e8dcee052154166991244204",
+    "item": {
+      "title": "Doom on the Oldest Digital Computer in America [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43955024\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=no0CkQk7id0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-11T16:49:10Z"
+    }
+  },
+  {
+    "hash": "afd3c50c7d8412d6487ce72b1ba771da0d79f9efb85422c6aad5cca22ed4ac7e",
+    "item": {
+      "title": "Critical Warning for External Purchases in Apple App Store",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43992420\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T06:38:13Z"
+    }
+  },
+  {
+    "hash": "ddaae0230ff3e1cb3adef5eb5c79b0beff4a1359f98d18d1fc8449fea733be05",
+    "item": {
+      "title": "Bitwarden registration flow failed – so I wrote a stand-up comedy set instead",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43992306\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/MenstaDay/bitwarden-registration-theatre"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T06:16:42Z"
+    }
+  },
+  {
+    "hash": "8011522983b70ae25f428ee1d142f8cbfc905f0890f98b1c70d4ab24066c1ffc",
+    "item": {
+      "title": "Arch Linux Installer Adds Labwc \u0026 Niri Wayland Compositor Options",
+      "description": "Archinstall 3.0.5 is now available as the latest update to this easy-to-use, text-based Arch Linux OS installer...",
+      "links": [
+        "https://www.phoronix.com/news/Archinstall-3.0.5-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-15T08:36:32Z"
+    }
+  },
+  {
+    "hash": "02f0905d508eced2165998bd25d0d323c217fcfd7304a4e5f435e117c7251de7",
+    "item": {
+      "title": "Linux Swap Table Code Shows The Potential For Huge Performance Gains",
+      "description": "Following recent discussions by Linux kernel developers around integrating swap cache and swap maps functionality with the swap allocator, Swap Table was born. With Swap Tables the hope is for lower memory use, higher performance, dynamic swap allocation and growth, greater extensibility, and other improvements over the existing swap code within the Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Swap-Table-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-15T08:00:00Z"
+    }
+  },
+  {
+    "hash": "326a1065b403ce3067ef67d68477be3163d62d28afd4c6c32a470111278e80d0",
+    "item": {
+      "title": "New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy",
+      "description": "Google on Wednesday released updates to address four security issues in its Chrome web browser, including one for which it said there exists an exploit in the wild.\nThe high-severity vulnerability, tracked as CVE-2025-4664 (CVSS score: 4.3), has been characterized as a case of insufficient policy enforcement in a component called Loader.\n\"Insufficient policy enforcement in Loader in Google",
+      "links": [
+        "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXw1xC9EO5yYpl-F2qtW0nNZRVQcddB9hrVa4G5vtW1VGE7-btdYljqxc2LmnD7C1KQCXZJcnFXEgSr5-pM8_MDspU1FizVFvULtAiXmygkRShNXvaUkn0wLocqzlBJGI0m1kg7ZNkA28tqPn1VqTEUHpoMyHwlWkZCQfSk8wy60DGsV5U-5MQfewfRA_Q/s1600/chrome-update.jpg"
+      },
+      "published": "2025-05-15T06:15:00Z"
+    }
+  },
+  {
+    "hash": "839f4bc11ec2db5272d816014fbb0fa4f080b61f63e8cb39e6479a06e98a1419",
+    "item": {
+      "title": "25 Arrested as South Korean Police Crack Down on Multiple Crypto Scam Rings",
+      "description": "\u003cp class=\"\" data-start=\"67\" data-end=\"251\"\u003eSouth Korean authorities dismantled several coordinated crypto fraud rings, arresting 25 suspects accused of duping investors through fake exchanges and false profit promises.\u003c/p\u003e\n\u003cp class=\"\" data-start=\"253\" data-end=\"338\"\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korean-police-crack-down-on-multiple-crypto-scam-rings/\"\u003e25 Arrested as South Korean Police Crack Down on Multiple Crypto Scam Rings\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korean-police-crack-down-on-multiple-crypto-scam-rings/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto crime",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/15073402/1747294441-stock-image_optimized-1.jpg"
+      },
+      "published": "2025-05-15T07:43:38Z"
+    }
+  },
+  {
+    "hash": "5ebf0a42965d14d0fce80f9e68fc3b0935f1d10d4ee869f58f3ca6c1bc015a78",
+    "item": {
+      "title": "Bitcoin Price Dips Below $102K as SEC, OCC, and CFTC Drive U.S. Crypto Policy Shift",
+      "description": "\u003cp\u003eBitcoin falls below $102K as regulators shape crypto policy. Fed, OCC, and SEC decisions may boost long-term BTC adoption and ETF demand.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-dips-below-102k-as-sec-occ-and-cftc-drive-u-s-crypto-policy-shift/\"\u003eBitcoin Price Dips Below $102K as SEC, OCC, and CFTC Drive U.S. Crypto Policy Shift\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-dips-below-102k-as-sec-occ-and-cftc-drive-u-s-crypto-policy-shift/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/14124115/1728886569-image-30-1.jpg"
+      },
+      "published": "2025-05-15T07:18:22Z"
+    }
+  },
+  {
+    "hash": "7eb15a8b43e801d663c4a7523c439710e02d07ffd9014d189cde036ac3b99bec",
+    "item": {
+      "title": "Ukraine Plans to Create Bitcoin Reserve With Binance, Bill in Progress: Report",
+      "description": "\u003cp\u003eUkraine will soon submit a draft law from the industry, allowing the creation of crypto reserves, a government official confirmed.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ukraine-plans-to-create-bitcoin-reserve-with-binance/\"\u003eUkraine Plans to Create Bitcoin Reserve With Binance, Bill in Progress: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ukraine-plans-to-create-bitcoin-reserve-with-binance/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Binance",
+        "Bitcoin Reserve",
+        "Ukraine"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/15064836/1747291716-0_0-16_optimized.jpg"
+      },
+      "published": "2025-05-15T06:49:33Z"
+    }
   }
 ]
