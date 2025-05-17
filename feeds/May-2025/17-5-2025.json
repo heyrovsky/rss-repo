@@ -2076,5 +2076,472 @@
       },
       "published": "2025-05-17T13:04:04Z"
     }
+  },
+  {
+    "hash": "68731a738354078885560ee291d9ab8edf15a4978a1ca8a180ec62869e3e62d6",
+    "item": {
+      "title": "Zen Flute is a Teensy Powered Mouth Theramin",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png 1600w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"780103\" data-permalink=\"https://hackaday.com/2025/05/17/zen-flute-is-a-teensy-powered-mouth-theramin/screenshot-2025-05-13-104002-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png\" data-orig-size=\"1600,900\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-05-13 104002-featured\" data-image-description=\"\u0026lt;p\u0026gt;https://www.youtube.com/watch?v=4GKWIpESRjg\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png?w=800\" /\u003e\u003c/div\u003eAn intriguing mouth-played instrument emerged—and won—at the 2023 Guthman Musical Instrument Contest hosted by Georgia Tech. [Keith Baxter] took notice and reproduced the idea for others to explore. The result \u003ca href=\"https://hackaday.com/2025/05/17/zen-flute-is-a-teensy-powered-mouth-theramin/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/17/zen-flute-is-a-teensy-powered-mouth-theramin/"
+      ],
+      "categories": [
+        "Musical Hacks",
+        "Helmholtz Resonator",
+        "KiCAD",
+        "midi",
+        "mpe",
+        "Teensy 4.1",
+        "Theramin"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dave Rowntree"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-104002-featured.png"
+      },
+      "published": "2025-05-17T17:00:32Z"
+    }
+  },
+  {
+    "hash": "d25618688f2f82eab87457303a227af26dae9d1ec0266fe830744cf9de177f3a",
+    "item": {
+      "title": "Open Source Hiding in Plain Sight",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2017/07/missile.jpg 3000w, https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"265383\" data-permalink=\"https://hackaday.com/missile-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2017/07/missile.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Missile\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2017/07/missile.jpg?w=800\" /\u003e\u003c/div\u003eOn the podcast, [Tom] and I were talking about the continuing saga of the libogc debacle. [Tom] has been interviewing some of the principals involved, so he’s got some first-hand \u003ca href=\"https://hackaday.com/2025/05/17/open-source-hiding-in-plain-sight/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/17/open-source-hiding-in-plain-sight/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Rants",
+        "high reliability",
+        "newsletter",
+        "software"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Elliot Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2017/07/missile.jpg"
+      },
+      "published": "2025-05-17T14:00:23Z"
+    }
+  },
+  {
+    "hash": "a9d7465d6ab790672c034c4466a93e1fc3ce57277b36a06f7004bb8e5f334e43",
+    "item": {
+      "title": "Animated Widgets On Apple Devices via a Neat Backdoor",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"779958\" data-permalink=\"https://hackaday.com/2025/05/17/animated-widgets-on-apple-devices-via-a-neat-backdoor/apples-widget-backdoor-15-1-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Apple’s Widget Backdoor 15-1 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;ve ever looked at widgets on your iPhone, you\u0026#8217;ve probably noticed they\u0026#8217;re largely static, save for a few first-party apps. By and large, third party developers are not supposed \u003ca href=\"https://hackaday.com/2025/05/17/animated-widgets-on-apple-devices-via-a-neat-backdoor/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/17/animated-widgets-on-apple-devices-via-a-neat-backdoor/"
+      ],
+      "categories": [
+        "iphone hacks",
+        "Software Hacks",
+        "apple",
+        "ios",
+        "iphone"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/Apples-Widget-Backdoor-15-1-screenshot.png"
+      },
+      "published": "2025-05-17T11:00:29Z"
+    }
+  },
+  {
+    "hash": "9d8d09c053dcedfe89c774478fc46a1b7ee486d851cdc17f3830acecd209e6c0",
+    "item": {
+      "title": "Making Sure the Basement Stays Dry with an ESP8266",
+      "description": "\u003cdiv\u003e\u003cimg width=\"715\" height=\"348\" src=\"https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg?w=715\" class=\"attachment-large size-large wp-post-image\" alt=\"A high level pictorial schematic of the basement monitor.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg 715w, https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg?resize=250,122 250w, https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg?resize=400,195 400w\" sizes=\"auto, (max-width: 715px) 100vw, 715px\" data-attachment-id=\"779689\" data-permalink=\"https://hackaday.com/2025/05/17/making-sure-the-basement-stays-dry-with-an-esp8266/basement-monitor/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg\" data-orig-size=\"715,348\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"basement-monitor\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg?w=715\" /\u003e\u003c/div\u003eThe hack we have for you today is among our most favorite types of hack: a good, honest, simple, and well documented implementation that meets a real need. Our hacker \u003ca href=\"https://hackaday.com/2025/05/17/making-sure-the-basement-stays-dry-with-an-esp8266/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/17/making-sure-the-basement-stays-dry-with-an-esp8266/"
+      ],
+      "categories": [
+        "hardware",
+        "home hacks",
+        "Microcontrollers",
+        "AHT20",
+        "Arduino IDE",
+        "BMP280",
+        "ESP8266",
+        "flooding monitor",
+        "humidity monitor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/basement-monitor.jpg"
+      },
+      "published": "2025-05-17T08:00:41Z"
+    }
+  },
+  {
+    "hash": "14d7e4396ac45de4731334fe46e806fefa9642cf4b6701814b2c95e39174d94b",
+    "item": {
+      "title": "Hack Aims for Polaroid, Hits Game Boy Camera Sweet Spot",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"331\" src=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png 3200w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?resize=250,103 250w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?resize=400,165 400w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?resize=800,331 800w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?resize=1536,635 1536w, https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?resize=2048,846 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"779910\" data-permalink=\"https://hackaday.com/2025/05/16/hack-aims-for-poloroid-hits-game-boy-camera-sweet-spot/screenshot-2025-05-11-at-18-36-51-budget-polaroid-camera-1-150-photos-youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png\" data-orig-size=\"3200,1322\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ESP32 Instant Camera\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png?w=800\" /\u003e\u003c/div\u003eThere\u0026#8217;s just some joy in an instant camera. They were never quality cameras, even in the glory days of Polaroid, but somehow the format has survived while the likes of \u003ca href=\"https://hackaday.com/2025/05/16/hack-aims-for-poloroid-hits-game-boy-camera-sweet-spot/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/05/16/hack-aims-for-poloroid-hits-game-boy-camera-sweet-spot/"
+      ],
+      "categories": [
+        "digital cameras hacks",
+        "camera",
+        "ESP32-CAM",
+        "thermal printer"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/05/Screenshot-2025-05-11-at-18-36-51-Budget-Polaroid-camera-1-150-Photos-YouTube.png"
+      },
+      "published": "2025-05-17T05:00:42Z"
+    }
+  },
+  {
+    "hash": "8758c79705440e8f7039e4b82f040d661a2ce3f7720769d9f834aca0db4cab9d",
+    "item": {
+      "title": "Do these Buddhist gods hint at the purpose of China’s super-secret satellites?",
+      "description": "Until recently, China's entries in the realm of spaceflight patches often lacked originality.",
+      "links": [
+        "https://arstechnica.com/space/2025/05/do-these-buddhist-gods-hint-at-the-purpose-of-chinas-super-secret-satellites/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "china",
+        "launch",
+        "long march 3b",
+        "long march 3c",
+        "long march rocket",
+        "military space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/east-1152x648-1747501141.jpg"
+      },
+      "published": "2025-05-17T17:00:29Z"
+    }
+  },
+  {
+    "hash": "4b804c16adaaa481f5cb16422aafc40eacf4ccad468fb2ed3f702cdec5ad938c",
+    "item": {
+      "title": "Niri 25.05 Brings New Features To This Innovative Wayland Compositor",
+      "description": "Niri 25.05 is out today as the newest major step forward for this scrollable-tiling Wayland compositor that has developed a devoted following...",
+      "links": [
+        "https://www.phoronix.com/news/Niri-25.05-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-17T15:10:00Z"
+    }
+  },
+  {
+    "hash": "f946c9af922cf37bfae223b709d6232833155c623c26640108f0035e821e3483",
+    "item": {
+      "title": "KDE Plasma 6.4 Introducing An HDR Calibration Wizard",
+      "description": "Nate Graham is out with his weekly development summary to highlight all of the interesting Plasma happenings for the past week...",
+      "links": [
+        "https://www.phoronix.com/news/KDE-Plasma-6.4-HDR-Calibrate"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-17T14:57:24Z"
+    }
+  },
+  {
+    "hash": "a425f43516154c81be101c8e2f1b9fea7664811dc7912a56fa3b2b18b475b904",
+    "item": {
+      "title": "Dead Stars Don't Radiate",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015872\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T17:54:20Z"
+    }
+  },
+  {
+    "hash": "6996ea861c358644257077737abe16d42dbf3309ab6c0ad2525f0eadbdbb1288",
+    "item": {
+      "title": "How to have the browser pick a contrasting color in CSS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015367\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://webkit.org/blog/16929/contrast-color/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T16:26:44Z"
+    }
+  },
+  {
+    "hash": "e88868e38a1e5567db7c1339a0dbc6fb5424a4388b31d957984d2c2ee8cce5e6",
+    "item": {
+      "title": "Show HN: I built a knife steel comparison tool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015649\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://new.knife.day/blog/knife-steel-comparisons/all"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T17:13:21Z"
+    }
+  },
+  {
+    "hash": "adcd0e00e712ac8b711ebc546a0d32eb56e599913052391d0410c3b85a114243",
+    "item": {
+      "title": "How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43995501\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T14:31:53Z"
+    }
+  },
+  {
+    "hash": "a09e8541c7c1740838fd6d7c4020a2ce75e4f7af97f7a0676b4c4ffcc5200e2b",
+    "item": {
+      "title": "If nothing is curated, how do we find things",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015144\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T15:51:05Z"
+    }
+  },
+  {
+    "hash": "e5f9d83586efb0ec83516f2836fa134e5a1b42928633d536afeb68acffd5a105",
+    "item": {
+      "title": "\"We would be less confidential than Google\" Proton threatens to quit Switzerland",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44014808\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T14:59:10Z"
+    }
+  },
+  {
+    "hash": "72c06152de60d9bd0c84036ff88be18d2e4ef1dd24b396360ddccb4c800c9717",
+    "item": {
+      "title": "The longest train journey is epic – but nobody's ever taken it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015657\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bigthink.com/strange-maps/portugal-to-singapore-train/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T17:14:19Z"
+    }
+  },
+  {
+    "hash": "f57e518dacd02eb16f8f7b06993226b6e572b3fa0670b33a00a1de1a83a094c8",
+    "item": {
+      "title": "Insurance for AI: Easier Said Than Done",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43977896\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://loeber.substack.com/p/24-insurance-for-ai-easier-said-than"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-13T21:25:15Z"
+    }
+  },
+  {
+    "hash": "91137ee90da6b4c53f0ac16a9d288fb644d1e7bd9327991511344446aa9fde92",
+    "item": {
+      "title": "How Cory Arcangel Recovered Late Artist Michel Majerus's Digital Legacy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43995700\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T14:52:32Z"
+    }
+  },
+  {
+    "hash": "8d57716e005a8340e78e02e52452d2d11fde7971099d55ece11c7e4e9e832547",
+    "item": {
+      "title": "After Recent Spikes, How Far Away Is CORE from the $1 Mark?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Core-Token-price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"After Recent Spikes, How Far Away Is CORE from the $1 Mark?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Core-Token-price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Core-Token-price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Core-Token-price-analysis-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA brief bearish wave has kicked off and is riding across the crypto market, with assets falling in mixed signals. A steady bullish shift could drive the prices into green territory. Among the altcoins, CORE has emerged as the top gainer, posting a spike of 3.01%.\u0026#160; CORE opened the day",
+      "links": [
+        "https://thenewscrypto.com/after-recent-spikes-how-far-away-is-core-from-the-1-mark/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "CORE",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Core-Token-price-analysis.jpg"
+      },
+      "published": "2025-05-17T12:54:46Z"
+    }
+  },
+  {
+    "hash": "672bc7f2e5ffbe8bf15dd0d1df0d070cf7ac81e5b97dd3cf69258e63b619d5da",
+    "item": {
+      "title": "Shiba Inu Battles Rising Bear Pressure: 4 Shocking Reasons SHIB Could Slip Out of the Top 20 Again",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-50.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-50.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-50-300x172.jpg 300w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eShiba Inu (SHIB), previously called the \u0026#8220;Dogecoin killer,\u0026#8221; is facing bearish pressure that may dislodge it from ranking within the top 20 in the crypto market. At approximately $0.0000125, SHIB\u0026#8217;s technical position is in a volatile no-man\u0026#8217;s land, neither bear nor bull, and this has analysts and traders sounding the",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-battles-rising-bear-pressure-4-shocking-reasons-shib-could-slip-out-of-the-top-20-again/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-50.jpg"
+      },
+      "published": "2025-05-17T12:22:00Z"
+    }
+  },
+  {
+    "hash": "8dc35813f1effe297665f2371375a713060225736bbb4d93648d7d4aee5c5285",
+    "item": {
+      "title": "SEC and Everstake Discuss Regulatory Clarity on Non-Custodial Staking",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-17.46.48_c82dc49f.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SEC and Everstake Discuss Regulatory Clarity on Non-Custodial Staking\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-17.46.48_c82dc49f.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-17.46.48_c82dc49f-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-17.46.48_c82dc49f-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe US Securities and Exchange Commission and Everstake are in discussions to explore clearer regulatory definitions revolving around taking and blockchain networks. Recently, both bodies held a meeting related to the Crypto Task Force of the SEC.  The meeting was followed by the staking of more than 193 billion dollars",
+      "links": [
+        "https://thenewscrypto.com/sec-and-everstake-discuss-regulatory-clarity-on-non-custodial-staking/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Regulations",
+        "SEC",
+        "Staking"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sharmistha Suman"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-17.46.48_c82dc49f.jpg"
+      },
+      "published": "2025-05-17T12:21:07Z"
+    }
+  },
+  {
+    "hash": "7a3ff08f5a1434f3fb8f4a30d0a7a48dc314ba2da5e1b50dcef0f7f6763ad0e4",
+    "item": {
+      "title": "Can Solana Surge to $500 Again? Ozak AI’s Growth Signals It Might Outpace SOL",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-51.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-51.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-51-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-51-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-51-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eCrypto investors are placing bold bets on high-performing altcoins and emerging tokens. Among the top contenders, Solana (SOL) is back in the spotlight with renewed price momentum, aiming for the elusive $500 mark that it once approached during the 2021 bull run.\u0026#160; However, a new challenger has entered the arena—Ozak",
+      "links": [
+        "https://thenewscrypto.com/can-solana-surge-to-500-again-ozak-ais-growth-signals-it-might-outpace-sol/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-51.jpg"
+      },
+      "published": "2025-05-17T11:55:52Z"
+    }
+  },
+  {
+    "hash": "e9807bb156393a200fc75ae8427a4896f0795b27f74845154baaa1d81ac5c4c7",
+    "item": {
+      "title": "Moody’s Downgrade Shakes US Credit Outlook as Bitcoin Remains Unshaken",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Moodys-historic-downgrade-of-US-credit-system1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Moody’s Downgrade Shakes US Credit Outlook as Bitcoin Remains Unshaken\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Moodys-historic-downgrade-of-US-credit-system1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Moodys-historic-downgrade-of-US-credit-system1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Moodys-historic-downgrade-of-US-credit-system1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe United States has lost its final top-tier credit rating following Moody’s downgrade from Aaa to Aa1 on May 16. This is the first instance since the establishment of modern credit ratings that all major agencies no longer rate the country at the top level. High debt loads and growing",
+      "links": [
+        "https://thenewscrypto.com/moodys-downgrade-shakes-us-credit-outlook-as-bitcoin-remains-unshaken/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Crypto"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Moodys-historic-downgrade-of-US-credit-system1.jpg"
+      },
+      "published": "2025-05-17T11:36:29Z"
+    }
+  },
+  {
+    "hash": "c06117bb2b63c002c1f6132b92db24d03db18e3e9c370f6cc67bb066478bfa49",
+    "item": {
+      "title": "WLFI Integrates Chainlink’s CCIP to Scale USD1, Targets DeFi’s Cross-Chain Pain Point",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Chainlink_Partners_with_World_Liberty_Financial_for_USD1_Cross_Chain1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"WLFI Integrates Chainlink’s CCIP to Scale USD1, Targets DeFi’s Cross-Chain Pain Point\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Chainlink_Partners_with_World_Liberty_Financial_for_USD1_Cross_Chain1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Chainlink_Partners_with_World_Liberty_Financial_for_USD1_Cross_Chain1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Chainlink_Partners_with_World_Liberty_Financial_for_USD1_Cross_Chain1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWorld Liberty Financial (WFLI), the DeFi startup co-founded by Zak Folkman and Eric Trump, has integrated Chainlink\u0026#8217;s Cross-Chain Interoperability Protocol (CCIP) to extend its flagship stablecoin, USD1, across major blockchains. USD1, launched just months ago, has soared to a $2 billion market cap, ranking among the top five stablecoins. Initially",
+      "links": [
+        "https://thenewscrypto.com/wlfi-integrates-chainlinks-ccip-to-scale-usd1-targets-defis-cross-chain-pain-point/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Chainlink",
+        "DeFi",
+        "WLFI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Chainlink_Partners_with_World_Liberty_Financial_for_USD1_Cross_Chain1.jpg"
+      },
+      "published": "2025-05-17T11:31:42Z"
+    }
   }
 ]
