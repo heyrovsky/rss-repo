@@ -857,5 +857,277 @@
       },
       "published": "2025-05-19T05:50:38Z"
     }
+  },
+  {
+    "hash": "2c27513e429a8fa95a11616eccbf00ed1b6f46b11c9075e800435d61ebbf4ff5",
+    "item": {
+      "title": "PowerVR Rogue BXS-4-64 GPU Firmware Uploaded To linux-firmware.git",
+      "description": "For going along with kernel DRM driver changes expected for the Linux 6.16 kernel, the Imagination PowerVR BXS-4-64 GPU firmware has now been upstreamed to linux-firmware.git for readying that open-source driver support for this PowerVR Rogue GPU...",
+      "links": [
+        "https://www.phoronix.com/news/PVR-BXS-4-64-Firmware"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-19T08:57:40Z"
+    }
+  },
+  {
+    "hash": "b88a32e3e21fb2c7e3721a038a24fadba5e749adc3e73003f1650ea911392434",
+    "item": {
+      "title": "FUSE To Enjoy A Performance Improvement With Linux 6.16",
+      "description": "Queued up via the FUSE \"for-next\" Git branch ahead of the upcoming Linux 6.16 merge window is a change to increase the read directory buffer size to in turn enhance the performance...",
+      "links": [
+        "https://www.phoronix.com/news/FUSE-Better-Perf-Linux-6.16"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-19T08:47:24Z"
+    }
+  },
+  {
+    "hash": "cc1ad0a0341306c66d0338cc50b5249f88396f88c1397057e4fd1c33b9e54cf1",
+    "item": {
+      "title": "InventWood is about to mass-produce wood that's stronger than steel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44020832\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-18T12:22:39Z"
+    }
+  },
+  {
+    "hash": "4763d94faeee0e326f836de0817eb8eab851ec24ea73adf026310c4fe56909f6",
+    "item": {
+      "title": "Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44023634\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Blackmamoth/sshsync"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-18T19:10:29Z"
+    }
+  },
+  {
+    "hash": "f2d792447af3881442896e735a6fecfb9af46d872c49ffc211225624560c1371",
+    "item": {
+      "title": "`This Printer company served you malware for months, called them false positives",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012283\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T05:44:50Z"
+    }
+  },
+  {
+    "hash": "06b7ca3aae2d7e37a9133ff87a444dc02c655474191181d01ee5a5c147dd4796",
+    "item": {
+      "title": "What does the end of mathematics look like?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T07:40:24Z"
+    }
+  },
+  {
+    "hash": "645ecf3a71931d33d447777285f7cb059df95b54d2ba9254a8e7cdf7fb4ecc92",
+    "item": {
+      "title": "Llama from scratch (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43993311\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.briankitano.com/llama-from-scratch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T09:34:28Z"
+    }
+  },
+  {
+    "hash": "deadf6282c08f64342addc555b8994bbe428dc6068c690d61a482e30ab6820aa",
+    "item": {
+      "title": "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012418\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cse.chalmers.se/research/group/logic/book/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-17T06:30:59Z"
+    }
+  },
+  {
+    "hash": "82b8177dfbf4fdc0dccc5f833beddcae7f476014a5eb7a37f4ddcb33e195c65b",
+    "item": {
+      "title": "Show HN: I reinvented PHP in TypeScript (demo)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996422\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/vseplet/morph"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-15T16:04:06Z"
+    }
+  },
+  {
+    "hash": "ff1b8a9e4d35c71a6881c55f5a91e55eabf82cc348c20506d3ed6c2330cf8d3d",
+    "item": {
+      "title": "Ripple Expands in UAE With Two New Payment Partners",
+      "description": "\u003cp\u003eRipple has added two new partners in the United Arab Emirates as the crypto firm continues to expand its presence in the region’s financial sector.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-expands-in-uae-with-two-new-payment-partners/\"\u003eRipple Expands in UAE With Two New Payment Partners\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-expands-in-uae-with-two-new-payment-partners/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Ripple",
+        "UAE"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19075034/1747641034-image-1747640949050_optimized.jpg"
+      },
+      "published": "2025-05-19T08:36:40Z"
+    }
+  },
+  {
+    "hash": "d6ad3436c1c1a70053812e55adb1d2570e1d9828c85579e644a843dde1308c7f",
+    "item": {
+      "title": "EU Fintech Trade Republic Secures Full MiCA License From Germany’s BaFin",
+      "description": "\u003cp\u003eThe full Markets in Crypto Assets (MiCA) license enables Trade Republic to execute or transmit client orders and offer transfer services.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eu-fintech-trade-republic-secures-full-mica-license-from-germanys-bafin/\"\u003eEU Fintech Trade Republic Secures Full MiCA License From Germany’s BaFin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eu-fintech-trade-republic-secures-full-mica-license-from-germanys-bafin/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Crypto License",
+        "European Union",
+        "MiCA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19081816/1747642691-image-1741843610194_optimized.jpg"
+      },
+      "published": "2025-05-19T08:29:14Z"
+    }
+  },
+  {
+    "hash": "d7fe1291377bbb551fe669484a94eaaa8a7540265576a52cf79af24ad05be944",
+    "item": {
+      "title": "EOS Price Prediction: Is EOS Set For A Revival After $3 Million World Liberty Purchase?",
+      "description": "\u003cp\u003eEOS (EOS), now known as Vaulta, has surged by 31.8% in the past month as a strong bullish tide has lifted most boats in the crypto market.However, the price is rising strongly today, somehow counterintuitively to the market’s overall tone.In the past 24 hours, EOS has gained 6.2% after World Liberty Financial, the Trump-backed decentralized [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eos-price-prediction-is-eos-set-for-a-revival-after-3-million-world-liberty-purchase/\"\u003eEOS Price Prediction: Is EOS Set For A Revival After $3 Million World Liberty Purchase?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eos-price-prediction-is-eos-set-for-a-revival-after-3-million-world-liberty-purchase/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DeFi",
+        "EOS",
+        "World Liberty Financial"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/16195434/1747425274-eos-price-prediction-is-eos-set-for-a-revival-after-3-million-world-liberty-purchase.jpg"
+      },
+      "published": "2025-05-19T07:10:52Z"
+    }
+  },
+  {
+    "hash": "461e3f4321f08fc5f5bf61ad9b4266a0e0a13fbd869760bf2b6a76ad1dcaad63",
+    "item": {
+      "title": "Bitcoin Price Nears $102.7K Amid Golden Cross Signal and U.S. Debt Fears",
+      "description": "\u003cp\u003eBitcoin dips to $102.7K but eyes a golden cross. U.S. debt worries and regulatory moves fuel BTC’s safe-haven appeal.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-nears-102-7k-amid-golden-cross-signal-and-u-s-debt-fears/\"\u003eBitcoin Price Nears $102.7K Amid Golden Cross Signal and U.S. Debt Fears\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-nears-102-7k-amid-golden-cross-signal-and-u-s-debt-fears/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/14124115/1728886569-image-30-1.jpg"
+      },
+      "published": "2025-05-19T07:10:25Z"
+    }
+  },
+  {
+    "hash": "25bc4b5e88e8382ff29fa3d8efa68b41d9ecd0743ef8f4c8d6ae119962c4855a",
+    "item": {
+      "title": "LIBRA Case Judge Unseals Bank Records, While Milei Fails to Attend Civil Hearing",
+      "description": "\u003cp\u003eA federal judge has ordered the unsealing of bank records for President Javier Milei and his sister as part of the LIBRA investigation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/libra-case-judge-unseals-bank-records-milei-skips-civil-hearing/\"\u003eLIBRA Case Judge Unseals Bank Records, While Milei Fails to Attend Civil Hearing\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/libra-case-judge-unseals-bank-records-milei-skips-civil-hearing/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Argentina",
+        "Libra"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19063133/1747636292-image-1747635824739_optimized.jpg"
+      },
+      "published": "2025-05-19T06:45:41Z"
+    }
+  },
+  {
+    "hash": "cf77b0e08173bf77a8158eb02b76071e156faea4b5ea04cdb8953f69717ffb7a",
+    "item": {
+      "title": "Crypto Executives Hire Bodyguards Amid Surge in Kidnapping Threats",
+      "description": "\u003cp\u003eA growing number of cryptocurrency executives are turning to personal security services as targeted kidnappings and ransom attempts continue to escalate.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-executives-hire-bodyguards-amid-surge-in-kidnappings-threats/\"\u003eCrypto Executives Hire Bodyguards Amid Surge in Kidnapping Threats\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-executives-hire-bodyguards-amid-surge-in-kidnappings-threats/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "CRYPTO",
+        "France",
+        "Security"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19062223/1747635743-image-1747634127900_optimized.jpg"
+      },
+      "published": "2025-05-19T06:36:47Z"
+    }
   }
 ]
