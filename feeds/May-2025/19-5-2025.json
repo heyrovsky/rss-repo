@@ -2241,5 +2241,1172 @@
       },
       "published": "2025-05-19T12:34:00Z"
     }
+  },
+  {
+    "hash": "1def12d8d1ae3f9ba53bc671d2f84844672101e0f216738c39b3ae69f7232c9b",
+    "item": {
+      "title": "Go cryptography security audit (The Go Blog)",
+      "description": "\u003cp\u003eRoland Shoemaker has published a \u003ca\nhref=\"https://go.dev/blog/tob-crypto-audit\"\u003eblog post\u003c/a\u003e about a\nrecent security audit of the cryptography packages shipped as part of\nthe Go standard library. The audit, performed by the \u003ca\nhref=\"https://www.trailofbits.com/\"\u003eTrail of Bits\u003c/a\u003e security firm,\nuncovered one low-severity vulnerability in the legacy \u003ca\nhref=\"https://go.dev/doc/security/fips140#goboringcrypto\"\u003eGo+BoringCrypto\u003c/a\u003e\nintegration, as well as a handful of informational findings.\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eDuring the review, there were a number of questions about our\ncgo-based Go+BoringCrypto integration, which provides a FIPS 140-2\ncompliant cryptography mode for internal usage at Google. The\nGo+BoringCrypto code is not supported by the Go team for external use,\nbut has been critical for Google's internal usage of Go.\u003c/p\u003e\n\n\u003cp\u003eThe Trail of Bits team found one vulnerability and \u003ca\nhref=\"https://go.dev/cl/644120\"\u003eone non-security relevant bug\u003c/a\u003e,\nboth of which were results of the manual memory management required to\ninteract with a C library. Since the Go team does not support usage of\nthis code outside of Google, we have chosen not to issue a CVE or Go\nvulnerability database entry for this issue, but we \u003ca\nhref=\"https://go.dev/cl/644119\"\u003efixed it in the Go 1.25 development\ntree\u003c/a\u003e.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eThe entire report is \u003ca\nhref=\"https://github.com/trailofbits/publications/blob/d47e8fafa7e3323e5620d228f2f3f3bf58ed5978/reviews/2025-03-google-gocryptographiclibraries-securityreview.pdf\"\u003eavailable\u003c/a\u003e\nas a PDF for those who enjoy a little light security reading.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1021745/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-05-19T17:48:44Z"
+    }
+  },
+  {
+    "hash": "986f435e08bdc91b6fe9df4b2d481d509227f6def916cb49ff0a7f6a60e908fa",
+    "item": {
+      "title": "[$] Reports from OSPM 2025, day one",
+      "description": "The seventh edition of the \u003ca\nhref=\"https://retis.sssup.it/ospm-summit/\"\u003ePower Management and Scheduling\nin the Linux Kernel\u003c/a\u003e (known as \"OSPM\") Summit took place on March 18-20,\n2025.  It was organized by Juri Lelli, Frauke Jäger, Tommaso Cucinotta, and\nLorenzo Pieralisi, and was hosted by Linutronix at Alte Fabrik,\nUhldingen-Mühlhofen, Germany. The event was sponsored by Linutronix, Arm,\nand the Scuola Superiore Sant'Anna in Pisa.",
+      "links": [
+        "https://lwn.net/Articles/1020596/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-19T16:26:18Z"
+    }
+  },
+  {
+    "hash": "af0ba563d31557868fedae230bd9aed46272178b66dbe5a0ab7673050ead3438",
+    "item": {
+      "title": "Security updates for Monday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (dropbear, firefox-esr, intel-microcode, net-tools, openafs, thunderbird, and xrdp), \u003cb\u003eFedora\u003c/b\u003e (chromium, micropython, syslog-ng, webkitgtk, and xen), \u003cb\u003eMageia\u003c/b\u003e (dropbear and openssh), \u003cb\u003eOracle\u003c/b\u003e (.NET 9.0, kernel, libjpeg-turbo, and yelp and yelp-xsl), \u003cb\u003eRed Hat\u003c/b\u003e (compat-openssl11, git-lfs, grafana, kernel, and osbuild and osbuild-composer), \u003cb\u003eSlackware\u003c/b\u003e (mozilla), \u003cb\u003eSUSE\u003c/b\u003e (cargo-c, gimp, iputils-20240905, kernel, libraw, microcode_ctl, openssh, pnpm, python311-cramjam, python311-httptools, python311-jwcrypto, python311-loguru, python311-mechanize, python311-nltk, python311-oauthlib, python311-py7zr, python311-pycapnp, python311-pyspnego, python311-pywayland, python311-suds, python311-treq, python311-ujson, python311-waitress, ruby3.4-rubygem-actionmailer, ruby3.4-rubygem-actiontext, ruby3.4-rubygem-activerecord, ruby3.4-rubygem-activestorage, ruby3.4-rubygem-fluentd, ruby3.4-rubygem-globalid, ruby3.4-rubygem-jquery-rails, ruby3.4-rubygem-kramdown, ruby3.4-rubygem-loofah, ruby3.4-rubygem-multi_xml, ruby3.4-rubygem-puma, ruby3.4-rubygem-rails, ruby3.4-rubygem-rails-html-sanitizer, ruby3.4-rubygem-sprockets, ruby3.4-rubygem-web-console, ruby3.4-rubygem-websocket-extensions, ucode-intel-20250512, and valkey), and \u003cb\u003eUbuntu\u003c/b\u003e (dotnet8, dotnet9, linux, linux-aws, linux-aws-6.8, linux-ibm, linux-lowlatency,\n linux-lowlatency-hwe-6.8, linux-oracle, linux, linux-azure-5.4, linux-gcp, linux-gcp-5.4, linux-oracle, linux, linux-gkeop, linux-ibm, linux-ibm-5.15, linux-intel-iotg,\n linux-kvm, linux-lowlatency, linux-lowlatency-hwe-5.15, linux-nvidia,\n linux-oracle, linux-oracle-5.15, linux-fips, linux-gcp, linux-gcp-5.15, linux-gcp-fips, linux-gke, linux-nvidia, linux-nvidia-6.8, linux-nvidia-lowlatency, linux-realtime, and linux-xilinx-zynqmp).",
+      "links": [
+        "https://lwn.net/Articles/1021740/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-19T16:24:22Z"
+    }
+  },
+  {
+    "hash": "b788b596c4e4e2b773ed6a00bbf1540e2926f79282e26e73ed2651405e410326",
+    "item": {
+      "title": "F1 in Imola reminds us it’s about strategy as much as a fast car",
+      "description": "Who went home happy from Imola and why? F1's title race heats up.",
+      "links": [
+        "https://arstechnica.com/cars/2025/05/f1-in-imola-reminds-us-its-about-strategy-as-much-as-a-fast-car/"
+      ],
+      "categories": [
+        "Cars",
+        "F1",
+        "Formula 1"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2215587536-1152x648-1747670054.jpg"
+      },
+      "published": "2025-05-19T17:03:06Z"
+    }
+  },
+  {
+    "hash": "f76967609570725c211b72b4c2a3c87727b63fe114d44861a20f5ddc856ce5df",
+    "item": {
+      "title": "The making of Apple TV’s Murderbot",
+      "description": "Ars chats with series creators Paul and Chris Weitz about adapting Martha Wells' book series for TV.",
+      "links": [
+        "https://arstechnica.com/culture/2025/05/the-making-of-apple-tvs-murderbot/"
+      ],
+      "categories": [
+        "Culture",
+        "Apple TV Plus",
+        "entertainment",
+        "Murderbot",
+        "streaming television"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/murderbot1-1152x648-1744212564.jpg"
+      },
+      "published": "2025-05-19T16:35:12Z"
+    }
+  },
+  {
+    "hash": "c1e011e2b49c1157693af59d284a12ab47713a854355613fee3abb4fcbc8b4e4",
+    "item": {
+      "title": "CERN gears up to ship antimatter across Europe",
+      "description": "A portable containment device that can be dropped on a truck.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/"
+      ],
+      "categories": [
+        "Science",
+        "antimatter",
+        "CERN",
+        "Physics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1844724927-1152x648.jpg"
+      },
+      "published": "2025-05-19T16:13:42Z"
+    }
+  },
+  {
+    "hash": "1d9b866801d224810d1d23d70296ff15a1013c1c4f3c63a3094126e3e352ceab",
+    "item": {
+      "title": "Removing the weakest link in electrified, autonomous transport: humans",
+      "description": "Hands-off charging could open the door to a revolution in autonomous freight.",
+      "links": [
+        "https://arstechnica.com/cars/2025/05/removing-the-weakest-link-in-electrified-autonomous-transport-humans/"
+      ],
+      "categories": [
+        "Cars",
+        "Features",
+        "Autonomous Driving",
+        "trucking"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Tim Stevens"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Einride_Rocsys_1-1152x648-1747424683.jpg"
+      },
+      "published": "2025-05-19T16:00:50Z"
+    }
+  },
+  {
+    "hash": "efb5614aa814996137996bb5fb8d392731128096357ea781cb92cfd89b84f019",
+    "item": {
+      "title": "Anno 117 Pax Romana hands-on: Gorgeous, deep, and tricky to learn",
+      "description": "After a return to form in \u003cem\u003eAnno 1800\u003c/em\u003e, \u003cem\u003e117\u003c/em\u003e aims to seize an even bigger audience.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/05/anno-117-pax-romana-hands-on-deep-city-building-in-a-gorgeous-ancient-rome/"
+      ],
+      "categories": [
+        "Gaming",
+        "Anno 117",
+        "Anno 117: Pax Romana",
+        "Blue Byte",
+        "Builder",
+        "city-builder",
+        "Rome",
+        "strategy",
+        "Ubisoft",
+        "Ubisoft Mainz"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Anno-117-farms-1152x648-1747428860.jpg"
+      },
+      "published": "2025-05-19T16:00:18Z"
+    }
+  },
+  {
+    "hash": "13104206cbc9bf4fa65e1629efa3f846ccdf5da787d6435f211f076ec89280cd",
+    "item": {
+      "title": "New Orleans called out for sketchiest use of facial recognition yet in the US",
+      "description": "Facial recognition cameras ping cops when suspects appear, sparking backlash.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/05/cops-pause-use-of-flawed-ai-cameras-secretly-monitoring-streets-for-suspects/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "Artificial Intelligence",
+        "facial recognition",
+        "Fourth Amendment",
+        "New Orleans",
+        "police surveillance"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1998634827-1152x648.jpg"
+      },
+      "published": "2025-05-19T15:56:40Z"
+    }
+  },
+  {
+    "hash": "456c6e0de376eeaa51b750fd971fdcce2170d122ecdf008e746dacda2d6c17bd",
+    "item": {
+      "title": "Epic goes to court to force Fortnite back on US iOS",
+      "description": "Game has been pulled offline in Europe amid legal tussling.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/05/epic-goes-to-court-to-force-fortnite-back-on-us-ios/"
+      ],
+      "categories": [
+        "Gaming",
+        "apple",
+        "court",
+        "epic",
+        "Epic Games",
+        "fortnite",
+        "iOS",
+        "legal"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-957063528-1152x648.jpg"
+      },
+      "published": "2025-05-19T15:40:40Z"
+    }
+  },
+  {
+    "hash": "99eec1c4e987be7ac71a656f0a5f563f8defc405501b110d2e8d5cf1c26f2ac2",
+    "item": {
+      "title": "Experts alarmed over Trump’s promotion of deep-sea mining in international waters",
+      "description": "Critics call for an industry moratorium until more scientific data can be obtained.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/experts-alarmed-over-trumps-promotion-of-deep-sea-mining-in-international-waters/"
+      ],
+      "categories": [
+        "Science",
+        "deep sea mining",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Teresa Tomassoni, Inside Climate News"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2147874314-1152x648.jpg"
+      },
+      "published": "2025-05-19T15:09:34Z"
+    }
+  },
+  {
+    "hash": "fa9ac6592da9541f66f84284558ded5074c518d30807f3f3157e234e69e6f39a",
+    "item": {
+      "title": "RVTools Official Site Hacked to Deliver Bumblebee Malware via Trojanized Installer",
+      "description": "The official site for RVTools has been hacked to serve a compromised installer for the popular VMware environment reporting utility.\n\"Robware.net and RVTools.com are currently offline. We are working expeditiously to restore service and appreciate your patience,\" the company said in a statement posted on its website.\n\"Robware.net and RVTools.com are the only authorized and supported websites for",
+      "links": [
+        "https://thehackernews.com/2025/05/rvtools-official-site-hacked-to-deliver.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqwSRRvndYEfYUh806L-fRrWP18sXtzw10WRKFvK_ZTyLCiM7pj8L5fAv-i8HrImfoGVl1z4vi1I6rDoJkiawJ_MZudJfjENhv7TbxjBMvknHhafsUzg1MVbxuO51im4BkIIGA0ETFxhyphenhyphenwzr7oK2wgBnD9P3SN_f_eRsRfzTWrBOZSoIlGB4-YPGjq36Xc/s1600/malware-software.jpg"
+      },
+      "published": "2025-05-19T15:48:00Z"
+    }
+  },
+  {
+    "hash": "6260fe565d87bed4547614037bd40cab4e2ce15d9270d4540395bd96bcc6672d",
+    "item": {
+      "title": "Ransomware Gangs Use Skitnet Malware for Stealthy Data Theft and Remote Access",
+      "description": "Several ransomware actors are using a malware called Skitnet as part of their post-exploitation efforts to steal sensitive data and establish remote control over compromised hosts.\n\"Skitnet has been sold on underground forums like RAMP since April 2024,\" Swiss cybersecurity company PRODAFT told The Hacker News. \"However, since early 2025, we have observed multiple ransomware operators using it",
+      "links": [
+        "https://thehackernews.com/2025/05/ransomware-gangs-use-skitnet-malware.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr_GLw2-nzf4KvasK-MmAwPwy1JWOaryLs6ANTGsHDQbKmy8jA_bRWzmh2xO2cQLgVV57mFbWSD9pOp9XfjvuEcugFX57JF0Ude0www-GOEJ10JmohBe8PEV3G_4mnzSAqgQjnyx6WDt_FTF_f4GjqMfLQ7Is-xw3CsRN1ZpTcBQgBX66yLspOqdYDnC6w/s1600/ransomware.jpg"
+      },
+      "published": "2025-05-19T14:38:00Z"
+    }
+  },
+  {
+    "hash": "02311f1724a5a23967c291c0df9e2cafd1101c02c143a230997189716fda1042",
+    "item": {
+      "title": "Paris Saint-Germain and Matchain Launch PlayerID: Smarter Athlete Data Through PSG Labs and Joint Innovation Studio",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-53.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-53.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-53-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-53-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-53-376x212.jpg 376w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eParis Saint-Germain, in collaboration with Matchain, proudly unveils PlayerID, an innovative data platform developed through PSG Labs and the Joint Innovation Studio (JIS) . This cutting-edge initiative redefines how professional athlete data is captured, managed, shared, and safeguarded. PlayerID provides each athlete with a secure, unified Player Identity and Data",
+      "links": [
+        "https://thenewscrypto.com/paris-saint-germain-and-matchain-launch-playerid-smarter-athlete-data-through-psg-labs-and-joint-innovation-studio/"
+      ],
+      "categories": [
+        "Press Release",
+        "Matchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-53.jpg"
+      },
+      "published": "2025-05-19T12:26:14Z"
+    }
+  },
+  {
+    "hash": "7054f4df12886dfa6f6398eb6ddd7be64d80aad7e45ec0f3e8979458408d3d4a",
+    "item": {
+      "title": "Dubai VARA Sets June 19 Deadline for Crypto Firms to Comply with New Rules",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-17.50.34_cf5cbe6d.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dubai VARA Sets June 19 Deadline for Crypto Firms to Comply with New Rules\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-17.50.34_cf5cbe6d.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-17.50.34_cf5cbe6d-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-17.50.34_cf5cbe6d-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto regulator of Dubai has given a deadline of June 19 to various digital assets companies to comply with its updated activity-based rulebooks to boost market integrity as well as risk oversight.  Dubai’s Virtual Assets Regulatory Authority (VARA) publicized on May 19 that it had launched Version 2.0 of",
+      "links": [
+        "https://thenewscrypto.com/dubai-vara-sets-june-19-deadline-for-crypto-firms-to-comply-with-new-rules/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Dubai",
+        "VARA",
+        "VASP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sharmistha Suman"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-19-at-17.50.34_cf5cbe6d.jpg"
+      },
+      "published": "2025-05-19T12:21:54Z"
+    }
+  },
+  {
+    "hash": "5012f590677906696dd3676ed1bc2c518a9d1637efd3961f2a1a6344b3920e6b",
+    "item": {
+      "title": "Bear Pressure Mounts on Solana, Will $160 Hold?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Solana-SOL-Tumbles-5-Will-the-Downtrend-Deepen-Further.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bear Pressure Mounts on Solana, Will $160 Hold?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/Solana-SOL-Tumbles-5-Will-the-Downtrend-Deepen-Further.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/Solana-SOL-Tumbles-5-Will-the-Downtrend-Deepen-Further-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/Solana-SOL-Tumbles-5-Will-the-Downtrend-Deepen-Further-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe brief bearish shift within the crypto market triggers the assets to retrace to their recent lows. With the fear and greed index value holding around 71, the overall sentiment is greed. Bitcoin trades near $103K, while Ethereum hovers around $2.4K. Meanwhile, Solana (SOL) has registered a solid loss of",
+      "links": [
+        "https://thenewscrypto.com/bear-pressure-mounts-on-solana-will-160-hold/"
+      ],
+      "categories": [
+        "Editors News",
+        "Altcoin",
+        "Cryptocurrency",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/Solana-SOL-Tumbles-5-Will-the-Downtrend-Deepen-Further.jpg"
+      },
+      "published": "2025-05-19T12:11:36Z"
+    }
+  },
+  {
+    "hash": "bb683b6cababf57308f49144f9f86fe7313c732331d6b050c3fe67c6bd7e1f23",
+    "item": {
+      "title": "XRP Awaits Breakout as CME Futures Launch Looms",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/XRP_sideways_structure_holds_as_traders_eye_May_19_CME_futures_launch.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Awaits Breakout as CME Futures Launch Looms\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/XRP_sideways_structure_holds_as_traders_eye_May_19_CME_futures_launch.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/XRP_sideways_structure_holds_as_traders_eye_May_19_CME_futures_launch-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/XRP_sideways_structure_holds_as_traders_eye_May_19_CME_futures_launch-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eXRP is trading sideways as the cryptocurrency market turns its focus to an anticipated catalyst: the launch of regulated XRP futures on the Chicago Mercantile Exchange (CME) on Monday, May 19, 2025. While the token’s price has remained relatively flat, hovering around $2.37, market activity tells a different story. Volume",
+      "links": [
+        "https://thenewscrypto.com/xrp-awaits-breakout-as-cme-futures-launch-looms/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "CME",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Harshini Chakka"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/XRP_sideways_structure_holds_as_traders_eye_May_19_CME_futures_launch.jpg"
+      },
+      "published": "2025-05-19T11:47:59Z"
+    }
+  },
+  {
+    "hash": "2e918a59d0471d53cfdacbd5f8b8e16dbcf02cbc41c373ae31146e719edb275a",
+    "item": {
+      "title": "Vitalik Buterin Proposes Ethereum L1 Scaling With Lighter Nodes",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Vitalik-Buterin-Proposes-Ethereum-L1-Scaling1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Vitalik Buterin Proposes Ethereum L1 Scaling With Lighter Nodes\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Vitalik-Buterin-Proposes-Ethereum-L1-Scaling1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Vitalik-Buterin-Proposes-Ethereum-L1-Scaling1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Vitalik-Buterin-Proposes-Ethereum-L1-Scaling1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Ethereum network and its Ether token have been lagging behind for the past few months as strong contenders emerged in the market. Scalability is one of the major issues for this, and to address this, Ethereum co-founder Vitalik Buterin proposed a new concept in his latest blog post.\u0026#160; Vitalik",
+      "links": [
+        "https://thenewscrypto.com/vitalik-buterin-proposes-ethereum-l1-scaling-with-lighter-nodes/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETHEREUM",
+        "vitalik Buterin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Vitalik-Buterin-Proposes-Ethereum-L1-Scaling1.jpg"
+      },
+      "published": "2025-05-19T11:13:52Z"
+    }
+  },
+  {
+    "hash": "15cec4c157b2d9024ce7b860d277f620f5421df0c50bebf2872292e4d3c1617d",
+    "item": {
+      "title": "Microsoft Makes \"Edit\" Command Line Editor Open-Source, WSL Going Open-Source Too",
+      "description": "Microsoft kicked off its Build 2025 developer conference today with some open-source announcements...",
+      "links": [
+        "https://www.phoronix.com/news/Microsoft-Edit-Open-Source"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-19T16:50:52Z"
+    }
+  },
+  {
+    "hash": "f00eb7ddccd74db9edd38e36f682410426cafd819524c5b8f08fb3aaeb619fed",
+    "item": {
+      "title": "The Windows Subsystem for Linux is now open source",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031385\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T16:14:15Z"
+    }
+  },
+  {
+    "hash": "c926b52a861067cc396ea35c3bb6b2cd3ce662f7fa01688baf8d75f045be2343",
+    "item": {
+      "title": "Zod 4",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030850\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zod.dev/v4"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T15:24:58Z"
+    }
+  },
+  {
+    "hash": "111710ea6309fb1ca48276eb424cf18c91f4d86c62e32384e5c671dbcf9455b9",
+    "item": {
+      "title": "Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030492\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44030492"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T14:48:03Z"
+    }
+  },
+  {
+    "hash": "efc8c4796bef57b6d8b050df20c909c07519c741f8a6ef1d34343e8932bf3fae",
+    "item": {
+      "title": "Too Much Go Misdirection",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031009\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flak.tedunangst.com/post/too-much-go-misdirection"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T15:40:32Z"
+    }
+  },
+  {
+    "hash": "80abec71239872adcfbc0ac59253a6232d915263dacb5b645392ce33bc7aeb75",
+    "item": {
+      "title": "European Investment Bank to inject €70B in European tech",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031297\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T16:05:52Z"
+    }
+  },
+  {
+    "hash": "2bb6b3693a7dce20fdeb05c0a4d5278a48ea9a847ad7407c32d87fe2c57719ed",
+    "item": {
+      "title": "Show HN: Windows 98 themed website in 1 HTML file for my post punk band",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44032470\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://corp.band"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T17:39:59Z"
+    }
+  },
+  {
+    "hash": "a7de909f846109a513581f41737cead308dcf46c239bc77747ac4a91100d7e87",
+    "item": {
+      "title": "Wikipedia's Most Translated Articles",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031144\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T15:53:14Z"
+    }
+  },
+  {
+    "hash": "5929ebceebc11bfca9112677225027789558fc16aeb4a14b99f316802473a352",
+    "item": {
+      "title": "Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031912\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T17:00:10Z"
+    }
+  },
+  {
+    "hash": "a0d9caf2fc5449af75d001a91de7b265f82b468934238c8779da1751a0fa70ff",
+    "item": {
+      "title": "Remarks on AI from NZ",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44001696\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nealstephenson.substack.com/p/remarks-on-ai-from-nz"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-16T03:54:02Z"
+    }
+  },
+  {
+    "hash": "4492e74675d1ffbae217ae4a26ae23733b8ec5ecdadaf06268029ccefa9e3b7d",
+    "item": {
+      "title": "Kelp – simple replacement for homebrew on macOS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/crhuber/kelp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T14:55:53Z"
+    }
+  },
+  {
+    "hash": "ae05451e38bf2dc600e7ca205ebfbc9e9053635377249f9db7497591ff35010a",
+    "item": {
+      "title": "23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030873\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T15:27:22Z"
+    }
+  },
+  {
+    "hash": "5c978afddd2ce9240c70898479c57e5343e4344b296638895a37ca57f649d494",
+    "item": {
+      "title": "GitHub Copilot Coding Agent",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031432\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T16:17:56Z"
+    }
+  },
+  {
+    "hash": "164d1faf84d54b629ead9c1516be13b52e60c7ab516f2e0a72c8482f8d154a8a",
+    "item": {
+      "title": "Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031917\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T17:00:43Z"
+    }
+  },
+  {
+    "hash": "d3cf7cfe64f404d7e060aaa7f7cabf7aa62acbdee457cdc2fcd6c1b6a5d99e34",
+    "item": {
+      "title": "Edit is now open source",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031529\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://devblogs.microsoft.com/commandline/edit-is-now-open-source/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T16:27:42Z"
+    }
+  },
+  {
+    "hash": "9f68488a250fef61e8283201d60d769b7e0a7b996105f465112e2d25fc823f1b",
+    "item": {
+      "title": "xAI's Grok 3 comes to Microsoft Azure",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031387\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T16:14:35Z"
+    }
+  },
+  {
+    "hash": "2cfd8b5c9bd680f9fb0aec335930d9d73cb6804482f2f2b6ec32e93f12f283cf",
+    "item": {
+      "title": "Rivers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44005157\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.futilitycloset.com/2025/05/15/rivers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-16T13:19:20Z"
+    }
+  },
+  {
+    "hash": "f496f1c1293a3f92d8b3501de3cea4c58a9b6b311c31f863d90ef46628475872",
+    "item": {
+      "title": "Visualizing 100k Years of Earth in WebGL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44029619\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T13:24:14Z"
+    }
+  },
+  {
+    "hash": "137c9d0c963d8d14c9e9366d8df1e7dc33897ebef0b3d91afe007c1ad38c4d22",
+    "item": {
+      "title": "SDB Scans the Ruby Stack Without the GVL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030696\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T15:10:12Z"
+    }
+  },
+  {
+    "hash": "46870955acebd2fa76f6d4507bfd96c9591af1b0f2edfcc689232765b6b420e0",
+    "item": {
+      "title": "Game theory illustrated by an animated cartoon game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031535\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ncase.me/trust/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T16:28:18Z"
+    }
+  },
+  {
+    "hash": "91e1740bd27016cc655154014617d32b4b29227ba777712af74cc206aed0cb54",
+    "item": {
+      "title": "Ethereum Price Prediction: $2,400 Bounce Triggers Bullish Pattern With $3,700 Target",
+      "description": "\u003cp\u003eThe latest Ethereum price prediction is turning heads, as $ETH has surged over 50% since this time last month – and some analysts believe the rally is just getting started.Yesterday, Ethereum climbed more than 2.5% in 24 hours to trade around $2,536. The recovery has reignited hopes that ETH could hit the $3,000 mark this [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-2400-bounce-triggers-bullish-pattern-with-3700-target/\"\u003eEthereum Price Prediction: $2,400 Bounce Triggers Bullish Pattern With $3,700 Target\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-2400-bounce-triggers-bullish-pattern-with-3700-target/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Ethereum",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19155325/Ethereum-Price-Prediction-2400-Bounce-Triggers-Bullish-Pattern-With-3700-Target-2.jpg"
+      },
+      "published": "2025-05-19T17:39:02Z"
+    }
+  },
+  {
+    "hash": "082e4080548761051893b7f7fe59300349e0736261b7a36ae3e6660f7efbfb7d",
+    "item": {
+      "title": "FINRA Panel Sounds Alarm on AI-Powered Crypto Scams Targeting Retail Investors",
+      "description": "\u003cp\u003eAt the 2025 FINRA Annual Conference, regulators have examined a $5.7 billion jump in investment fraud, noting AI-generated phishing, deepfakes and fake support calls have accelerated crypto scams; they have urged real-time checks, Rule 2165 holds and telecom number blocking.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/finra-panel-sounds-alarm-on-ai-powered-crypto-scams-targeting-retail-investors/\"\u003eFINRA Panel Sounds Alarm on AI-Powered Crypto Scams Targeting Retail Investors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/finra-panel-sounds-alarm-on-ai-powered-crypto-scams-targeting-retail-investors/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "finra",
+        "Fraud",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19160026/1747670426-image-1747670398025_optimized.jpg"
+      },
+      "published": "2025-05-19T17:32:11Z"
+    }
+  },
+  {
+    "hash": "941b8409f3cd7635c75393310d45ccd73c124344377cb32d3da3c69b9ecacb83",
+    "item": {
+      "title": "3 Projects Showing Signs of a Major Move – Are You Positioned?",
+      "description": "\u003cp\u003eMajor meme coin projects now boast a collective valuation of $71 billion as the space gears up for what might be its most significant rally ever.See, when crypto gains momentum, major meme coins don’t just follow — they frequently lead the charge. Here are three of the most exciting meme coins with the kind of [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-projects-showing-signs-of-a-major-move-are-you-positioned-pepe-mind-bonk/\"\u003e3 Projects Showing Signs of a Major Move – Are You Positioned?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-projects-showing-signs-of-a-major-move-are-you-positioned-pepe-mind-bonk/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bonk",
+        "Meme Coins",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19133127/3-Projects-Showing-Signs-of-a-Major-Move-%E2%80%93-Are-You-Positioned-2.jpg"
+      },
+      "published": "2025-05-19T17:30:27Z"
+    }
+  },
+  {
+    "hash": "b128e13fff94b0f4d5e34ad8152e5841d7b0a12cb09cb815a2f6c2a2a60407d8",
+    "item": {
+      "title": "Solana Outpaces Ethereum Layer-2s – Solaxy’s $38M Presale Could Flip Them Next, Announces Last 28 Days",
+      "description": "\u003cp\u003eSolaxy has raised close to $38 million ahead of a presale deadline set for 28 days from now. The first Solana layer-2 has demonstrated live bridging via Hyperlane and has been designed to absorb traffic spikes as Solana’s on-chain fees, TVL and staking activity have accelerated.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/solaxy-38m-presale-28-days-left/\"\u003eSolana Outpaces Ethereum Layer-2s – Solaxy’s $38M Presale Could Flip Them Next, Announces Last 28 Days\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/solaxy-38m-presale-28-days-left/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19154206/1747669326-unnamed-36-1.jpg"
+      },
+      "published": "2025-05-19T17:26:00Z"
+    }
+  },
+  {
+    "hash": "6f5ebb953f053c71ecb20d2628b78e968fa071abb72791ebc4dbcb6efe12393f",
+    "item": {
+      "title": "Could These 3 Tokens Be the Next to Hit $1? Early Signs Say Yes",
+      "description": "\u003cp\u003eSome of the biggest gains in crypto history have come from meme tokens priced under $1 — often just fractions of a cent — with the potential to deliver 100x returns seemingly overnight.Now sitting at a $71 billion market cap after a 1.2% overnight rise, the meme coin sector is gearing up for what could [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/trump-coin-crashing-bad-these-3-coins-pop-up-on-analysts-radar-as-top-alternatives-pepe-solaxy-doge/\"\u003eCould These 3 Tokens Be the Next to Hit $1? Early Signs Say Yes \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/trump-coin-crashing-bad-these-3-coins-pop-up-on-analysts-radar-as-top-alternatives-pepe-solaxy-doge/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Meme Coins",
+        "Popcat",
+        "Pudgy Penguins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19120948/Could-These-3-Tokens-Be-the-Next-to-Hit-1-Early-Signs-Say-Yes-2.jpg"
+      },
+      "published": "2025-05-19T17:24:36Z"
+    }
+  },
+  {
+    "hash": "aa5c9642cf3a180f9459926b18b2651664d61666f249676abe612167aecab004",
+    "item": {
+      "title": "Cardano Teeters at $0.72 – Will Whales Ignite a 50% Rally or Crash?",
+      "description": "\u003cp\u003eCardano has traded around $0.72, giving back part of its recent 25 % gain. Analysts note that whales have accumulated more than 80 M ADA and funding rates across major exchanges have stayed positive, factors that could propel a price move toward the $0.85–$0.90 region if support holds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-72-whales-rally-or-crash/\"\u003eCardano Teeters at $0.72 – Will Whales Ignite a 50% Rally or Crash?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-72-whales-rally-or-crash/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "$ADA",
+        "Cardano",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/06030645/1746500805-cardano-analysis-2.jpg"
+      },
+      "published": "2025-05-19T17:06:56Z"
+    }
+  },
+  {
+    "hash": "dcba38e9fd42bbfca77ae8efc9e9ff8bda2843b1d3296a0a8358a8863881e67a",
+    "item": {
+      "title": "Can XRP Hit $3 This Week? Bulls Step In as $2.30 Holds Strong (XRP Price Prediction)",
+      "description": "\u003cp\u003eXRP has dipped 4.5% over the past week as its recent rally cools off, taking a breather after gaining strong momentum since last Wednesday.Does this pullback invalidate a bullish XRP price prediction?The token is currently trading at $2.31, having faced heavy resistance at $2.66. Despite the dip, trading volume has surged 72% in the past [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/can-xrp-hit-3-this-week-bulls-step-in-as-2-30-holds-strong-xrp-price-prediction/\"\u003eCan XRP Hit $3 This Week? Bulls Step In as $2.30 Holds Strong (XRP Price Prediction)\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/can-xrp-hit-3-this-week-bulls-step-in-as-2-30-holds-strong-xrp-price-prediction/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19115907/1747655947-can-xrp-hit-3-this-week-bulls-step-in-as-2-30-holds-strong.jpg"
+      },
+      "published": "2025-05-19T16:45:06Z"
+    }
+  },
+  {
+    "hash": "457905b3bea4c686fe5e785d1b50f2c16e22618c9f7802937484ba350d0e6834",
+    "item": {
+      "title": "Tether’s $120B U.S. T-Bill Haul Tops Germany – Is a New Debt Whale Rising?",
+      "description": "\u003cp\u003eTether has secured 19th place among Treasury holders with $120B in short-dated U.S. bills, outpacing Germany. Q1 reserves of T-bills, repos, cash and gold have delivered $1B profit, steadied USDT during market turmoil and emphasized stablecoins’ support for U.S. debt.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tether-120b-us-treasuries-surpasses-germany/\"\u003eTether’s $120B U.S. T-Bill Haul Tops Germany – Is a New Debt Whale Rising?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tether-120b-us-treasuries-surpasses-germany/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto Regulation",
+        "Stablecoins",
+        "U.S Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19152824/1747668504-image-1747668256898_optimized.webp"
+      },
+      "published": "2025-05-19T16:43:16Z"
+    }
+  },
+  {
+    "hash": "9a09481a509bcb327468019220e3ca43f60729aabff550d11f1f82ec8fc86b37",
+    "item": {
+      "title": "Trump Crypto Dinner Looms — With Heavy Losses for Top Meme Coin Holders",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIt's been revealed that one man has racked up $66 million in losses trying to attend the Trump crypto dinner.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/trump-crypto-dinner-looms-with-heavy-losses-for-top-meme-coin-holders/\"\u003eTrump Crypto Dinner Looms — With Heavy Losses for Top Meme Coin Holders\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/trump-crypto-dinner-looms-with-heavy-losses-for-top-meme-coin-holders/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Altcoins",
+        "Cryptocurrency",
+        "Donald Trump",
+        "Market",
+        "Meme coin",
+        "Regulation",
+        "stable",
+        "Stablecoin",
+        "stablecoin market",
+        "stablecoin regulation",
+        "Trump",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19151211/1747667530-11191699-b6f3-4e64-a809-a1a8e1b45c33_optimized.jpg"
+      },
+      "published": "2025-05-19T16:22:31Z"
+    }
+  },
+  {
+    "hash": "cf25d4d5280c0adef1bd6b9183120b93cadd21c1a0204bf70a899765e4503654",
+    "item": {
+      "title": "Bitcoin Hyper: Crypto Presale for Blockchain Interoperability",
+      "description": "\u003cp\u003eHave you ever tried sending Bitcoin, only to wait forever and pay exorbitant fees? You’re not alone. However, a new solution could be a game-changer.That’s precisely the mission of Bitcoin Hyper. This project aims to improve Bitcoin’s performance by addressing its longstanding weaknesses. Its Layer-2 architecture is designed to streamline transactions, speed up execution, and [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-hyper-crypto-presale-for-blockchain-interoperability/\"\u003eBitcoin Hyper: Crypto Presale for Blockchain Interoperability\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-hyper-crypto-presale-for-blockchain-interoperability/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$hyper",
+        "bitcoin hyper"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19161744/bitcoin-hyper-crypto-presale-for-blockchain-interoperability.jpg"
+      },
+      "published": "2025-05-19T16:18:36Z"
+    }
+  },
+  {
+    "hash": "ba5b7eb540a4cd05f87834245755a0dbf3d21762f0410a82435aa8ea19213d23",
+    "item": {
+      "title": "YouTube Axes Roxom TV, Sparking Fresh Fears of Bitcoin Content Crackdown",
+      "description": "\u003cp\u003eYouTube has removed Roxom TV’s live Bitcoin news channel without warning, stating a breach of its harmful and dangerous content policy. Roxom TV says automated moderation has misread its scam-exposure segments as promotion, reviving concerns over how crypto and gambling material are policed online.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/youtube-axes-roxom-tv-bitcoin-crackdown/\"\u003eYouTube Axes Roxom TV, Sparking Fresh Fears of Bitcoin Content Crackdown\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/youtube-axes-roxom-tv-bitcoin-crackdown/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Decentralization",
+        "Social media"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19154612/1747669572-image-1747435535809_optimized-1.png"
+      },
+      "published": "2025-05-19T16:05:40Z"
+    }
+  },
+  {
+    "hash": "0ede7e760b55ade3d2b48c181ee3f20e22dd22254cacb7dd8c8e11e8d4178c8d",
+    "item": {
+      "title": "Is PEPE the Next 10x Meme Coin? Explosive 2-Week Rally Has Traders Watching Closely",
+      "description": "\u003cp\u003eMarket leaders have taken a hit as profit-taking dictated last weeks market moves, but this could be the setup Pepe needs for its next upswing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/explosive-2-week-pepe-price-rally-has-traders-eying-next/\"\u003eIs PEPE the Next 10x Meme Coin? Explosive 2-Week Rally Has Traders Watching Closely\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/explosive-2-week-pepe-price-rally-has-traders-eying-next/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Pepe",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19113807/1747654687-is-pepe-the-next-10x-meme-coin-explosive-2-week-rally-has-traders-watching-closely-1.png"
+      },
+      "published": "2025-05-19T16:04:59Z"
+    }
+  },
+  {
+    "hash": "06d8fd029e91db00800159de6d78f9033fac503c736477b7eeb3df6378031dfb",
+    "item": {
+      "title": "EthCC[8] Gathers Ethereum Community in Cannes amid Pectra Upgrade",
+      "description": "\u003cp\u003eEthCC[8] heads to Cannes from June 30-July 3, 2025, uniting Ethereum developers, founders, and institutions to explore the network’s post-Pectra growth and evolving role in global finance.The Ethereum Community Conference (EthCC[8]) is set to convene in Cannes, France, from June 30 to July 3, 2025. This marks the first time the event will be held [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ethcc8-gathers-ethereum-community-in-cannes-amid-pectra-upgrade/\"\u003eEthCC[8] Gathers Ethereum Community in Cannes amid Pectra Upgrade\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ethcc8-gathers-ethereum-community-in-cannes-amid-pectra-upgrade/"
+      ],
+      "categories": [
+        "Press Releases",
+        "ethcc[8]",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19154717/ethcc8-gathers-ethereum-community-in-cannes-amid-pectra-upgrade.jpg"
+      },
+      "published": "2025-05-19T15:48:03Z"
+    }
+  },
+  {
+    "hash": "af5e42acb6d7f9221b7c60fb274cc3560ba46a56a2a8807723283cda5c03ac12",
+    "item": {
+      "title": "Strategy Bets $764.9M on 7,390 BTC, Doubling Down on Corporate Crypto Crown",
+      "description": "\u003cp\u003eStrategy has deepened its Bitcoin bet, buying 7,390 BTC for $764.9 m during the week of 12–18 May at an average $103,498. With 576,230 BTC now on its balance sheet, the NASDAQ-listed firm has reported a 16.3 % YTD return as Bitcoin trades above $106,000.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strategy-7390-btc-purchase-top-corporate-holder/\"\u003eStrategy Bets $764.9M on 7,390 BTC, Doubling Down on Corporate Crypto Crown\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strategy-7390-btc-purchase-top-corporate-holder/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/17184351/1744915430-julia_63915_a_pile_of_bitcoins_41b8ce3e-f237-4e5e-96a2-cfc140e9352f_optimized.jpg"
+      },
+      "published": "2025-05-19T15:34:37Z"
+    }
+  },
+  {
+    "hash": "67f95b48e0b3e11ee53747a41bbb80a9993348230e33642a5ba248cbcb53ee0b",
+    "item": {
+      "title": "Bitcoin Price Prediction: Ark Invest’s $1.5M Target Sends Shockwaves Through Crypto Markets",
+      "description": "\u003cp\u003eBitcoin hits $107K before retreating to $103K as Ark Invest’s $1.5M forecast stirs bulls. Liquidations top $600M amid rising volatility and mixed sentiment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-ark-invests-1-5m-target-sends-shockwaves-through-crypto-markets/\"\u003eBitcoin Price Prediction: Ark Invest’s $1.5M Target Sends Shockwaves Through Crypto Markets\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-ark-invests-1-5m-target-sends-shockwaves-through-crypto-markets/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19151223/1747667542-screenshot_30.jpg"
+      },
+      "published": "2025-05-19T15:17:21Z"
+    }
+  },
+  {
+    "hash": "83720bb66ae188c7c6fa408f00ff14cfae46a728382d8601552672eef06b3b4c",
+    "item": {
+      "title": "Blum Co-Founder and Ex-Binance Exec Vladimir Smerkis Arrested for Alleged Large-Scale Fraud",
+      "description": "\u003cp\u003eRussian authorities have detained Vladimir Smerkis, ex-Binance CIS chief and co-founder of crypto game Blum, over allegations of large-scale financial fraud tied to 2017-era crypto ventures.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/blum-co-founder-and-ex-binance-exec-vladimir-smerkis-arrested-for-alleged-large-scale-fraud/\"\u003eBlum Co-Founder and Ex-Binance Exec Vladimir Smerkis Arrested for Alleged Large-Scale Fraud\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/blum-co-founder-and-ex-binance-exec-vladimir-smerkis-arrested-for-alleged-large-scale-fraud/"
+      ],
+      "categories": [
+        "DeFi News",
+        "Blum",
+        "Russia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19140016/1747663215-img_4581_optimized.jpg"
+      },
+      "published": "2025-05-19T15:12:30Z"
+    }
+  },
+  {
+    "hash": "88092290e84a19932384b0a5f20b5e04394dbce60d7ea01beaabe5b60d20c80f",
+    "item": {
+      "title": "DigitalX Turbocharges Solana Strategy with Strategic Board Shake-Up",
+      "description": "\u003cp\u003eThe Aussie-listed blockchain firm brings in major Web3 players to deepen its Solana validator footprint, now holding over 83,000 SOL.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aussie-listed-blockchain-investment-firm-digitalx-limited-has-reinforced-its-solana-acquisition-strategy-with-a-board-overhaul-adding-industry-heavyweights-to-support-its-rapid-expansion-into-solana-s/\"\u003eDigitalX Turbocharges Solana Strategy with Strategic Board Shake-Up\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aussie-listed-blockchain-investment-firm-digitalx-limited-has-reinforced-its-solana-acquisition-strategy-with-a-board-overhaul-adding-industry-heavyweights-to-support-its-rapid-expansion-into-solana-s/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "DigitalX",
+        "Sol Strategies",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19141253/1747663973-img_4582_optimized.jpg"
+      },
+      "published": "2025-05-19T15:11:24Z"
+    }
+  },
+  {
+    "hash": "3cd62786206844b9057e06bd234a27f6079f92314d22ef558b977c9a7dcd31b1",
+    "item": {
+      "title": "Grass Slides 8% After Weekend Pump – Could $4 Return Soon?",
+      "description": "\u003cp\u003eGrass has fallen 8% in 24 h amid a wider pullback but keeps a 13% two-week gain. Launched October 2024, the Solana DePIN token pays users for bandwidth that trains AI and now counts 3 m users. Around $1.88, Grass hovers above moving-average support; traders watch the $2.24–$2.34 ceiling.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grass-slides-8-after-weekend-pump-could-4-return-soon/\"\u003eGrass Slides 8% After Weekend Pump – Could $4 Return Soon?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grass-slides-8-after-weekend-pump-could-4-return-soon/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "AI",
+        "DePIN",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/19141142/1747663902-1747223205-grass-price-spikes-above-2-is-a-new-all-time-high-coming-1-1.jpg"
+      },
+      "published": "2025-05-19T15:03:50Z"
+    }
   }
 ]
