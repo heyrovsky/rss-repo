@@ -3260,5 +3260,973 @@
       },
       "published": "2025-05-22T12:12:32Z"
     }
+  },
+  {
+    "hash": "c9eb711c7047a7a4d624e6e6e44e213a5374fd8c1e0567b130b79b2da770a3fa",
+    "item": {
+      "title": "Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks",
+      "description": "A Chinese-speaking threat actor tracked as UAT-6382 has been linked to the exploitation of a now-patched remote-code-execution vulnerability in Trimble Cityworks to deliver Cobalt Strike and VShell.\n\"UAT-6382 successfully exploited CVE-2025-0944, conducted reconnaissance, and rapidly deployed a variety of web shells and custom-made malware to maintain long-term access,\" Cisco Talos researchers",
+      "links": [
+        "https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVgEFVfpOSg0NCq-gdPZae9Ko-dhaKczlQltFIxpHJ3eXsftwOCZjeOCFi1BQOdQX47py-8fAQx2U-L27tdtsZ8I_YEtUiZetZ-sAMdV1b1nDvLXXuPPWn7ZEzzCxOgHXkpDqeUCuXBjq7xJTzcJleY1xk7o9KXgYEaMuI-BLA0Sc6SUyj-MkZ49qJPLGz/s1600/chinese-hackers-attacking.jpg"
+      },
+      "published": "2025-05-22T15:06:00Z"
+    }
+  },
+  {
+    "hash": "e90b8b5d8feb0ba373089de371d289946cde2b227990205972bbbe6c337e61e9",
+    "item": {
+      "title": "VMware cloud partners demand “firm regulatory action” on Broadcom",
+      "description": "\"Broadcom is unlikely to make any voluntary changes to its new commercial terms.\"",
+      "links": [
+        "https://arstechnica.com/information-technology/2025/05/vmware-cloud-partners-demand-firm-regulatory-action-on-broadcom/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Broadcom",
+        "europe",
+        "vmware"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2191796691-1152x648-1747932495.jpg"
+      },
+      "published": "2025-05-22T17:19:21Z"
+    }
+  },
+  {
+    "hash": "0c6faaf96c86e947d619016673af8c9e1d7c7c924ca80d2fe9ba06f4f0d048be",
+    "item": {
+      "title": "Glass redux: Google aims to avoid past mistakes as it brings Gemini to your face",
+      "description": "Google didn't get it right with Glass, but Android XR is ready for the AI era, even if you aren't.",
+      "links": [
+        "https://arstechnica.com/google/2025/05/glass-redux-google-aims-to-avoid-past-mistakes-as-it-brings-gemini-to-your-face/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "android xr",
+        "google",
+        "smart glasses"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Brin-XR1-1152x648.jpg"
+      },
+      "published": "2025-05-22T17:07:59Z"
+    }
+  },
+  {
+    "hash": "f81dbdc19b2229880140545f03cfeea57ff505f523aa3eac9b805eb95abfdf38",
+    "item": {
+      "title": "New Claude 4 AI model refactored code for 7 hours straight",
+      "description": "Anthropic says Claude 4 beats Gemini on coding benchmarks; works autonomously for hours.",
+      "links": [
+        "https://arstechnica.com/ai/2025/05/anthropic-calls-new-claude-4-worlds-best-ai-coding-model/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "agentic AI",
+        "AI assistants",
+        "Alex Albert",
+        "Anthropic",
+        "Anthropic Claude",
+        "ChatGPT",
+        "chatgtp",
+        "Claude",
+        "Claude 4",
+        "Claude 4 Opus",
+        "Claude 4 Sonnet",
+        "large language models",
+        "machine learning",
+        "openai"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Claude-4-hero-1152x648.jpg"
+      },
+      "published": "2025-05-22T16:45:45Z"
+    }
+  },
+  {
+    "hash": "43fd231bb13e3b04cfd357732bbfe8ef641849fe502bca0e3729be408c1d9c5f",
+    "item": {
+      "title": "Authorities carry out global takedown of infostealer used by cybercriminals",
+      "description": "Authorities, along with tech companies including Microsoft and Cloudflare, say they’ve disrupted Lumma.",
+      "links": [
+        "https://arstechnica.com/security/2025/05/authorities-carry-out-global-takedown-of-infostealer-used-by-cybercriminals/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "CISA",
+        "infostealer",
+        "infostealers",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Lily Hay Newman and Matt Burgess, WIRED.com"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/security-lock-computer-cyber-1152x648.jpg"
+      },
+      "published": "2025-05-22T16:00:03Z"
+    }
+  },
+  {
+    "hash": "8213e11f7a41f88c9d29bcb099e4fcb7a9e0d148816629dd100cd67c1b810998",
+    "item": {
+      "title": "Infrared contact lenses let you see in the dark",
+      "description": "Mice and humans were able to detect infrared light, even with their eyes closed, with limited resolution.",
+      "links": [
+        "https://arstechnica.com/science/2025/05/infrared-contact-lenses-let-you-see-in-the-dark/"
+      ],
+      "categories": [
+        "Science",
+        "Color blindness",
+        "infrared",
+        "materials science",
+        "nanoparticles",
+        "Neuroscience",
+        "optics",
+        "vision",
+        "visual perception"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/contact1-1152x648-1747688080.jpg"
+      },
+      "published": "2025-05-22T15:00:20Z"
+    }
+  },
+  {
+    "hash": "352e85b5b5e3cd7c22feb0ee6533b618f915e29b69af5a2d1909d689b6642530",
+    "item": {
+      "title": "Sonic Unveils Validator Program To Decentralize Its Solana SVM Chain Extension",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"441\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-71.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-71.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-71-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-71-768x434.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-71-376x212.jpg 376w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eSVM chain extension Sonic has announced the creation of a validator program that will play a vital role in decentralizing the network. In the process, it will incentivize validators by rewarding them for their performance in helping to strengthen the first-of-its-kind Solana chain extension. To bootstrap its new validator program,",
+      "links": [
+        "https://thenewscrypto.com/sonic-unveils-validator-program-to-decentralize-its-solana-svm-chain-extension/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Solana",
+        "SVM Chain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-71.jpg"
+      },
+      "published": "2025-05-22T14:26:27Z"
+    }
+  },
+  {
+    "hash": "b228880c0fc1a72c468cd7594316267398e798f0a4694402ed8a504c5c39b7c7",
+    "item": {
+      "title": "Mantle and Republic Technologies Forge Strategic Partnership to Pioneer Institutional mETH Integration",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Mantle_and_Republic_Technologies_Announcement_Imag_17478956848w36qlVQh5.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Mantle_and_Republic_Technologies_Announcement_Imag_17478956848w36qlVQh5.jpeg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/05/Mantle_and_Republic_Technologies_Announcement_Imag_17478956848w36qlVQh5-300x180.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Mantle_and_Republic_Technologies_Announcement_Imag_17478956848w36qlVQh5-1024x614.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/Mantle_and_Republic_Technologies_Announcement_Imag_17478956848w36qlVQh5-768x461.jpeg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eSingapore, Singapore, 22nd May 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/mantle-and-republic-technologies-forge-strategic-partnership-to-pioneer-institutional-meth-integration/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Mantle_and_Republic_Technologies_Announcement_Imag_17478956848w36qlVQh5.jpeg"
+      },
+      "published": "2025-05-22T14:00:13Z"
+    }
+  },
+  {
+    "hash": "84b0ae477fc4dbefe4b89328083980b9af068385a4461dfe307e04633aed8b63",
+    "item": {
+      "title": "SUI Faces Decline: Is a Test of Previous Lows Inevitable?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Sui-Struggles-to-Hold-Price-Dip-at-4-Amid-Recent-Market-Crash.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SUI Faces Decline: Is a Test of Previous Lows Inevitable?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Sui-Struggles-to-Hold-Price-Dip-at-4-Amid-Recent-Market-Crash.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Sui-Struggles-to-Hold-Price-Dip-at-4-Amid-Recent-Market-Crash-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Sui-Struggles-to-Hold-Price-Dip-at-4-Amid-Recent-Market-Crash-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe broader crypto market kicked off the day on a recovery note, with the market cap reaching $3.51 trillion. It exhibits greedy sentiment in the market, as the Fear and Greed Index value holds firmly at 73. All the major assets have reclaimed the lost momentum. Reportedly, the DEX Cetus",
+      "links": [
+        "https://thenewscrypto.com/sui-faces-decline-is-a-test-of-previous-lows-inevitable/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "SUI",
+        "SUI price"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Sui-Struggles-to-Hold-Price-Dip-at-4-Amid-Recent-Market-Crash.jpg"
+      },
+      "published": "2025-05-22T13:58:20Z"
+    }
+  },
+  {
+    "hash": "8390190ed45c7b70a1afccf3bfd2a3ddd2e0f8477df89a0ecacd5d20fcf36b1d",
+    "item": {
+      "title": "MicroStrategy Sees Over $25 Billion Unrealized Profit as Bitcoin Hits All-Time High",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/MicroStrategy-Records-15-Billion-Profit-as-Bitcoin1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/MicroStrategy-Records-15-Billion-Profit-as-Bitcoin1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/MicroStrategy-Records-15-Billion-Profit-as-Bitcoin1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/MicroStrategy-Records-15-Billion-Profit-as-Bitcoin1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eStrategy, formerly MicroStrategy, the software company turned crypto giant, is making waves again. With Bitcoin (BTC) reaching an all-time high of $111,861, the company is set to post a massive $22.7 billion gain in Q2 2025, the largest quarterly profit in its history. This explosive growth could position MicroStrategy for",
+      "links": [
+        "https://thenewscrypto.com/microstrategy-sees-over-25-billion-unrealized-profit-as-bitcoin-hits-all-time-high/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin (BTC",
+        "Microstrategy"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Harshini Chakka"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/MicroStrategy-Records-15-Billion-Profit-as-Bitcoin1.jpg"
+      },
+      "published": "2025-05-22T13:36:44Z"
+    }
+  },
+  {
+    "hash": "843ad3d798961a191a88ed4fb30d62de51833f051e5910266b82076d3358797f",
+    "item": {
+      "title": "Cardano Hits $0.80 as Volume Jumps 65% and Bullish Setup Holds",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Will_Cardano_Bears_Succeed_in_Reaching_the_0_4_Support_as_Token.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Will_Cardano_Bears_Succeed_in_Reaching_the_0_4_Support_as_Token.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Will_Cardano_Bears_Succeed_in_Reaching_the_0_4_Support_as_Token-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Will_Cardano_Bears_Succeed_in_Reaching_the_0_4_Support_as_Token-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano (ADA) is exhibiting strong signs of a technical breakout after rebounding from key liquidity levels. The asset remains within a higher time frame uptrend, maintaining consistent bullish structure over recent sessions. Still, over the past month, ADA is facing multiple rejections at the level of $0.80 and $0.85.\u0026#160; Tracking",
+      "links": [
+        "https://thenewscrypto.com/cardano-hits-0-80-as-volume-jumps-65-and-bullish-setup-holds/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "ADA",
+        "Cardano"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Will_Cardano_Bears_Succeed_in_Reaching_the_0_4_Support_as_Token.jpg"
+      },
+      "published": "2025-05-22T12:26:35Z"
+    }
+  },
+  {
+    "hash": "8cb7649205db2585dd8ff550216c33ee823717292ee4c1ad8bee2551011db3b7",
+    "item": {
+      "title": "HUMA Token to Debut on Binance Alpha with Airdrop on May 26",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-17.32.01_de104d33.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"HUMA Token to Debut on Binance Alpha with Airdrop on May 26\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-17.32.01_de104d33.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-17.32.01_de104d33-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-17.32.01_de104d33-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe native token of Huma Finance, HUMA, is going to have its official debut on Binance Alpha on May 26. On May 26, Binance confirmed through an announcement that HUMA will be registered on Binance Alpha. Binance Alpha is an early access section of the platform that demonstrates trending and",
+      "links": [
+        "https://thenewscrypto.com/huma-token-to-debut-on-binance-alpha-with-airdrop-on-may-26/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Binance",
+        "Launch",
+        "TOKEN"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sharmistha Suman"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-17.32.01_de104d33.jpg"
+      },
+      "published": "2025-05-22T12:14:22Z"
+    }
+  },
+  {
+    "hash": "01aee0bda62f60672c997f622392e3b252eb512d74d8ef9e19541c0202f22b26",
+    "item": {
+      "title": "Litecoin Price Prediction: $300 Possible, But Can Ozak AI’s 300x Plan Beat It?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-5.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Litecoin Price Prediction: $300 Possible, But Can Ozak AI’s 300x Plan Beat It?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-5.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-5-300x171.png 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eCrypto market braces for a bullish revival in 2025, investors are increasingly comparing legacy cryptocurrencies with newer, high-upside projects. One such comparison pits Litecoin (LTC)—a veteran crypto often dubbed the “silver to Bitcoin’s gold”—against Ozak AI (OZ), an emerging token in the AI-crypto niche that’s gaining attention for its massive",
+      "links": [
+        "https://thenewscrypto.com/litecoin-price-prediction-300-possible-but-can-ozak-ais-300x-plan-beat-it/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-5.png"
+      },
+      "published": "2025-05-22T12:08:37Z"
+    }
+  },
+  {
+    "hash": "d5d89f4d6665209b048763a016594ab76d7e25376027fab5a1229a687a1444f3",
+    "item": {
+      "title": "PEPE Targets $0.000025 After Breakout as Bullish Momentum Builds Above $0.000014",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Pepe-price-analysis1-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Pepe-price-analysis1-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Pepe-price-analysis1-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Pepe-price-analysis1-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePEPE has decisively broken out of a multi-week symmetrical triangle, closing several daily candles above the critical resistance level of $0.000014. The price navigation is a confirmation to an upcoming bullish structure and could lead ways for future gains. Pepe currently trades at $0.0000141, and as shown increased investors\u0026#8217; activities",
+      "links": [
+        "https://thenewscrypto.com/pepe-targets-0-000025-after-breakout-as-bullish-momentum-builds-above-0-000014/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "PEPE",
+        "PEPE Price"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Pepe-price-analysis1-1.jpg"
+      },
+      "published": "2025-05-22T12:02:28Z"
+    }
+  },
+  {
+    "hash": "9f915314a2b22dbbb25dd60b3e3e8430fb220c3ade721da02fd6dc563e570701",
+    "item": {
+      "title": "Crypto Expo Dubai 2025: A Power-Packed Gathering of Global CryptoVisionaries",
+      "description": "\u003cp\u003e\u003cimg width=\"1024\" height=\"576\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-22_09-55-50.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Expo Dubai 2025: A Power-Packed Gathering of Global CryptoVisionaries\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-22_09-55-50.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-22_09-55-50-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-22_09-55-50-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-22_09-55-50-376x212.jpg 376w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /\u003e\u003c/p\u003eCrypto Expo Dubai 2025 has continued to energize the global blockchain and crypto community, drawing thousands of passionate attendees, industry leaders, and cutting-edge companies under one iconic roof. Hosted at the prestigious Dubai World Trade Centre, the event has transformed into a buzzing hub of innovation, collaboration, and real-time market",
+      "links": [
+        "https://thenewscrypto.com/crypto-expo-dubai-2025-a-power-packed-gathering-of-global-cryptovisionaries/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Crypto",
+        "Dubai"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-22_09-55-50.jpg"
+      },
+      "published": "2025-05-22T11:59:23Z"
+    }
+  },
+  {
+    "hash": "1f8f8bb2d12c0f4ea4029aee2308201e900b5f93924022a7f05c9f4244cd26b3",
+    "item": {
+      "title": "CORE Heats Up With Bullish Action, What’s Behind the 11% Price Gain and 216% Volume Spike?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/CORE-Heats-Up-With-Bullish-Action-Whats-Behind-the-11-Price-Gain-and-216-Volume-Spike.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"CORE Heats Up With Bullish Action, What’s Behind the 11% Price Gain and 216% Volume Spike?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/CORE-Heats-Up-With-Bullish-Action-Whats-Behind-the-11-Price-Gain-and-216-Volume-Spike.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/CORE-Heats-Up-With-Bullish-Action-Whats-Behind-the-11-Price-Gain-and-216-Volume-Spike-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/CORE-Heats-Up-With-Bullish-Action-Whats-Behind-the-11-Price-Gain-and-216-Volume-Spike-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA bullish wave has pushed the crypto market cap to reach $3.5 trillion following a 4.51% gain. Major assets are riding on the green wheels, reclaiming the recent highs, with Bitcoin hitting a new all-time high at $111,861 for the first time. Among the crypto assets, CORE has emerged as",
+      "links": [
+        "https://thenewscrypto.com/core-heats-up-with-bullish-action-whats-behind-the-11-price-gain-and-216-volume-spike/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "CORE",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/CORE-Heats-Up-With-Bullish-Action-Whats-Behind-the-11-Price-Gain-and-216-Volume-Spike.jpg"
+      },
+      "published": "2025-05-22T11:54:35Z"
+    }
+  },
+  {
+    "hash": "b2ee288e1c02cb99cce0b5366276c8ee2f05e7641ba8a057b7f2bd384498521d",
+    "item": {
+      "title": "Home Assistant deprecates the \"core\" and \"supervised\" installation modes",
+      "description": "\u003ca href=\"https://lwn.net/Articles/1017720/\"\u003eOur recent article on Home Assistant\u003c/a\u003e\nobserved that the project emphasizes installations using its own Linux\ndistribution or within containers.  The project has now made that emphasis\nrather stronger with \u003ca\nhref=\"https://www.home-assistant.io/blog/2025/05/22/deprecating-core-and-supervised-installation-methods-and-32-bit-systems/\"\u003ethis\nannouncement\u003c/a\u003e of the deprecation of the \"core\" and \"supervised\"\ninstallation modes, which allowed Home Assistant to be installed as an\nordinary application on a Linux system.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tThese are advanced installation methods, with only a small\n\tpercentage of the community opting to use them. If you are using\n\tthese methods, you can continue to do so (you can even continue to\n\tupdate your system), but in six months time, you will no longer be\n\tsupported, which I'll explain the impacts of in the next\n\tsection. References to these installation methods will be removed\n\tfrom our documentation after our next release (2025.6).\n\u003c/blockquote\u003e\n\u003cp\u003e\nSupport for 32-bit Arm and x86 architectures has also been deprecated.",
+      "links": [
+        "https://lwn.net/Articles/1022252/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-22T17:07:13Z"
+    }
+  },
+  {
+    "hash": "527c4edc297e13d412ce786d89d0489aef552de2c86edc3a51dba6f4ae2fdfbb",
+    "item": {
+      "title": "Fedora Council overturns FESCo provenpackager decision",
+      "description": "\u003cp\u003eThe Fedora Council has ruled on the Fedora Engineering Steering\nCouncil's (FESCo) decision last year to revoke Peter Robinson's\nprovenpackager status. In a \u003ca\nhref=\"https://lwn.net/ml/all/20250522151512.GA10870%40mattdm.org/\"\u003estatement\u003c/a\u003e\npublished to the fedora-devel-announce mailing list, the council has\nannounced that it has overturned FESCo's decision:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nFESCo didn't have a specific policy for dealing with a request to remove\nProven Packager rights. In addition, the FESCo process was handled entirely\nin private. The contributor didn't receive a formal notification or warning\nfrom FESCo, and felt blindsided by the official decision when and how it was\nannounced. The Fedora Council would like to extend our sincerest apology on\nbehalf of the Fedora Project to them.\n\u003c/blockquote\u003e\n\n\u003cp\u003eLWN \u003ca href=\"https://lwn.net/Articles/1002450/\"\u003ecovered\u003c/a\u003e the\nstory in December 2024.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1022243/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-05-22T15:45:50Z"
+    }
+  },
+  {
+    "hash": "9c2f6867f9279aea9e45989c7bb46239064a386b6913df7607e6744709bcf2a6",
+    "item": {
+      "title": "Mozilla Is Shutting Down Pocket",
+      "description": "Mozilla announced today it's going to be shutting down its Pocket read-it-later bookmarking service this summer...",
+      "links": [
+        "https://www.phoronix.com/news/Mozilla-Pocket-Ending"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-22T17:25:00Z"
+    }
+  },
+  {
+    "hash": "4399148112c032ac4a71484675fa2e083f12085e0474fc7871c9596801e88176",
+    "item": {
+      "title": "Canonical Planning For Linux 6.17 To Power Ubuntu 25.10",
+      "description": "The Canonical Kernel Team confirmed their plans today that with the Ubuntu 25.10 release in October they are planning to employ the Linux 6.17 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.10-With-Linux-6.17"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-22T15:20:30Z"
+    }
+  },
+  {
+    "hash": "8cd8b4f5857b21849e6cab8133d822bfd84cc00bfbeaa504283f86648b5e3462",
+    "item": {
+      "title": "Claude 4",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063703\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/claude-4"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T16:34:42Z"
+    }
+  },
+  {
+    "hash": "f5488a5a09bff10cbe7cf98692674d28fefe57a7b1e4e2d3610ede4e1d48b43a",
+    "item": {
+      "title": "That fractal that's been up on my wall for 12 years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063248\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chriskw.xyz/2025/05/21/Fractal/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T15:50:16Z"
+    }
+  },
+  {
+    "hash": "8164957c213276a94188ee4857a9e9477fbfb01835cdd212e813a3490cbf4cbe",
+    "item": {
+      "title": "Mozilla to shut down Pocket on July 8",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063662\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.mozilla.org/en-US/kb/future-of-pocket"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T16:30:18Z"
+    }
+  },
+  {
+    "hash": "19d743fcacbd1a24fc23d2e8db2642e43c8664fa2564375aa7b16f4e51a8381d",
+    "item": {
+      "title": "The \"AI 2027\" Scenario: How realistic is it?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44064504\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T17:37:50Z"
+    }
+  },
+  {
+    "hash": "248360f5f483fc67948b5151bf497cbc14e0fd05745bad84438aa7b6fc2cc115",
+    "item": {
+      "title": "Improving performance of rav1d video decoder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44061160\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ohadravid.github.io/posts/2025-05-rav1d-faster/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T11:59:03Z"
+    }
+  },
+  {
+    "hash": "7705e89c3521825877e15baa20f5fff05e7ca331c4bef7a3c0448dc24d6141ab",
+    "item": {
+      "title": "Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063000\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44063000"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T15:23:40Z"
+    }
+  },
+  {
+    "hash": "5ca1646f922eca8794ddcbc46d155bbb1839937a5784f96b97009a046fa7c767",
+    "item": {
+      "title": "Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44064057\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dockflow.appitstudio.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T17:00:32Z"
+    }
+  },
+  {
+    "hash": "b214e27b65a76e9b7e35aa82ea8796a76e47116da59e7a403e17639ce6db905b",
+    "item": {
+      "title": "A South Korean grand master on the art of the perfect soy sauce",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050269\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/world/2025/may/21/without-time-there-is-no-flavour-a-south-korean-grand-master-on-the-art-of-the-perfect-soy-sauce"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-21T11:19:59Z"
+    }
+  },
+  {
+    "hash": "5f907ab22b094582e927a88989be81ae6e5e8db71555397221d743a3d5dbb73d",
+    "item": {
+      "title": "Show HN: SQLite JavaScript - extend your database with JavaScript",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44061836\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/sqliteai/sqlite-js"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T13:25:33Z"
+    }
+  },
+  {
+    "hash": "25a1b6bb48e7b157439d850635babe32ba182cec3c8ee6986c661c02988400bd",
+    "item": {
+      "title": "I Built My Own Audio Player",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44062227\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T14:09:25Z"
+    }
+  },
+  {
+    "hash": "901511ead55244cb8239aa3dd18c08cfb8ac52bafa7312e0444a6ce045579e0b",
+    "item": {
+      "title": "Show HN: Pi Co-pilot – Evaluation of AI apps made easy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44061414\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://withpi.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T12:31:48Z"
+    }
+  },
+  {
+    "hash": "d4473792da18d353fc2ca9b741763ba153ab91d186cf6c040a553b4bc630a12f",
+    "item": {
+      "title": "Show HN: Whenish – Plan Group Events in iMessages",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44062919\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apps.apple.com/us/app/whenish/id6745035749"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T15:15:27Z"
+    }
+  },
+  {
+    "hash": "bb569209104bd9461dda824cba41c38fc18e5915098214b7902da55de00a9d81",
+    "item": {
+      "title": "Near-infrared spatiotemporal color vision enabled by upconversion contact lenses",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063051\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T15:30:24Z"
+    }
+  },
+  {
+    "hash": "5395a99a22a612f87c0bb9c010cf36e526f07a5b0a539c361644fa973797d8f6",
+    "item": {
+      "title": "Ice Theft in Antarctica",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nautil.us/ice-theft-in-antarctica-1210083/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T16:02:09Z"
+    }
+  },
+  {
+    "hash": "0223785d3f72a325e770212dd0cd3b5cf6693fe2330e7a0fdba2003774595372",
+    "item": {
+      "title": "Benchmarking Crimes Meet Formal Verification",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025283\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://microkerneldude.org/2025/04/27/benchmarking-crimes-meet-formal-verification/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T00:04:22Z"
+    }
+  },
+  {
+    "hash": "51a1b67649a2840e3a71f0993264b997f62dfb46c5cf64e757da38b0f220266b",
+    "item": {
+      "title": "Traditional and Neural Order-Independent Transparency",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027701\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tobias-franke.eu/publications/tsopouridis25tnoit/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-19T08:41:49Z"
+    }
+  },
+  {
+    "hash": "d916a5fcd9c664375a899c9fb0a00bb88fb887b48958e6a466cfb4ca50aaf221",
+    "item": {
+      "title": "MCP explained without hype or fluff",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44063141\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T15:39:49Z"
+    }
+  },
+  {
+    "hash": "e2a573031adc1486b426a585c1c1e79efbe49ae29f830a46fe5539bc4adb04a7",
+    "item": {
+      "title": "Free-Threaded Python Library Compatibility Checker",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44061604\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ft-checker.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T12:57:55Z"
+    }
+  },
+  {
+    "hash": "f9ca51771e3835a00506e582123983a1e7da75de0fd92b788698da75a58263ac",
+    "item": {
+      "title": "U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44062586\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-22T14:43:21Z"
+    }
+  },
+  {
+    "hash": "20b9e3a0dcd69b79725ed9ca5c3f7e033987accddd42f1e697be9caf595ec8ab",
+    "item": {
+      "title": "Bitwise and 21Shares Solana ETF Reviews Delayed as SEC Extends Decision Timeline",
+      "description": "\u003cp\u003eThe SEC has postponed its decision on Bitwise’s and 21Shares Solana ETF staking proposal now due July 6, 2025, reflecting an approach to staking within regulated funds. More than 70 crypto ETFs—including SOL, XRP and DOGE products—have been queued as regulators scrutinize market risks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitwise-21shares-solana-etf-sec-delay/\"\u003eBitwise and 21Shares Solana ETF Reviews Delayed as SEC Extends Decision Timeline\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitwise-21shares-solana-etf-sec-delay/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "ETFs",
+        "securities and exchange commision",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/05174836/1746467316-sec-05-05optimized-1.jpg"
+      },
+      "published": "2025-05-22T18:10:41Z"
+    }
+  },
+  {
+    "hash": "ef6986367b969b555317eb927364b02894ab6cd03e6ec59f90d36231878536ec",
+    "item": {
+      "title": "Texas Bitcoin Reserve Wins 105-23 Vote – Could a $2.7T State Ignite Crypto Arms Race?",
+      "description": "\u003cp\u003eTexas bitcoin reserve: After decisive House votes, SB 21 has advanced to Gov. Greg Abbott. The measure lets the comptroller hold Bitcoin and any crypto with a $500 bn market cap, positioning Texas to become the second U.S. state, after New Hampshire, to add BTC to its treasury.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/texas-bitcoin-reserve-sb21-house-approval/\"\u003eTexas Bitcoin Reserve Wins 105-23 Vote – Could a $2.7T State Ignite Crypto Arms Race?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/texas-bitcoin-reserve-sb21-house-approval/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin Reserve",
+        "crypto adoption",
+        "Senate Bill 21"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/22145350/1747925630-1734028397-image-1734028372224_optimized.jpg"
+      },
+      "published": "2025-05-22T17:37:53Z"
+    }
+  },
+  {
+    "hash": "37bc048fef26116ba6037288e6167ccea50601373c36ad503aa918b95f18d941",
+    "item": {
+      "title": "Worldcoin Surges as Sam Altman Teams With Apple Icon Jony Ive — Is This the Start of the AI Coin Supercycle?",
+      "description": "\u003cp\u003eThe price of Worldcoin has surged by 15% today, but could recent funding news and the news of Jony Ive's partnership with OpenAI send it even higher?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/worldcoin-surges-as-sam-altman-teams-with-apple-icon-jony-ive-is-this-the-start-of-the-ai-coin-supercycle/\"\u003eWorldcoin Surges as Sam Altman Teams With Apple Icon Jony Ive — Is This the Start of the AI Coin Supercycle?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/worldcoin-surges-as-sam-altman-teams-with-apple-icon-jony-ive-is-this-the-start-of-the-ai-coin-supercycle/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "OpenAI",
+        "Price Prediction",
+        "Worldcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/22152615/1747927574-worldcoin-surges-as-sam-altman-teams-with-apple-icon-jony-ive-is-this-the-start-of-the-ai-coin-supercycle.jpg"
+      },
+      "published": "2025-05-22T17:15:30Z"
+    }
+  },
+  {
+    "hash": "906f15169bdb953be0b8256eb7e215bed1a287905edd84412faba28d8f965ee7",
+    "item": {
+      "title": "3 Affordable Cryptos With Massive Upside Potential This Cycle",
+      "description": "\u003cp\u003eThe most promising meme coins today aren’t just riding waves of internet virality — they’re positioned for explosive upside potential when market sentiment flips bullish.A select group of ultra-affordable meme tokens currently shows 100x breakout potential, offering early backers a rare window to capture life-changing gains as adoption spreads across the crypto space.Below are three [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/3-affordable-cryptos-with-massive-upside-potential-this-cycle-floki-pepe-mind/\"\u003e3 Affordable Cryptos With Massive Upside Potential This Cycle\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/3-affordable-cryptos-with-massive-upside-potential-this-cycle-floki-pepe-mind/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/22141147/3-Affordable-Cryptos-With-Massive-Upside-Potential-This-Cycle-2.jpg"
+      },
+      "published": "2025-05-22T17:11:47Z"
+    }
+  },
+  {
+    "hash": "f6a2d60e262d1fcffce99cfd2aa136f0067b4aa7d1b7f26edaf42ba5e8927deb",
+    "item": {
+      "title": "Dogecoin Price Prediction: After a 44% Rally, Is DOGE Winding Up for a Move to $1?",
+      "description": "\u003cp\u003eSpeculative interest in Dogecoin is holding at pre-tariff war levels, making its position 50% below its all-time high a potential reference point for further gains.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/after-a-44-dogecoin-price-rally-is-doge-ready-to-hit-1/\"\u003eDogecoin Price Prediction: After a 44% Rally, Is DOGE Winding Up for a Move to $1?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/after-a-44-dogecoin-price-rally-is-doge-ready-to-hit-1/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "DOGE",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/22154919/1747928958-dogecoin-price-prediction-after-a-44-rally-is-doge-winding-up-for-a-move-to-1.jpg"
+      },
+      "published": "2025-05-22T17:01:29Z"
+    }
+  },
+  {
+    "hash": "e1066c05989681956c835dcf8c7eb2ffd65902815f2b26dfe05eb708b9acd532",
+    "item": {
+      "title": "OKX Unleashes xBTC on Aptos – 1:1 Wrapped Bitcoin Flows Fee-Free Into DeFi",
+      "description": "\u003cp\u003eOKX has launched xBTC, a fully collateralized 1:1 wrapped Bitcoin, on the Aptos blockchain. The token lets holders deploy BTC across Aptos-based DeFi trading, lending and Web3 applications without minting or redemption fees, supported by public proof-of-reserves for transparency.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/okx-xbtc-fee-free-bitcoin-aptos-defi/\"\u003eOKX Unleashes xBTC on Aptos – 1:1 Wrapped Bitcoin Flows Fee-Free Into DeFi\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/okx-xbtc-fee-free-bitcoin-aptos-defi/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi News",
+        "News",
+        "Aptos",
+        "DeFi",
+        "OKX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/02/12120737/1739362057-okx-wallet-okx-sui.jpg"
+      },
+      "published": "2025-05-22T16:16:44Z"
+    }
+  },
+  {
+    "hash": "10262ca4d00565275af72c8b2154b9c65344b39ae7544ee3df3b726d8c7f9f2c",
+    "item": {
+      "title": "Sir Patrick Stewart and DeLorean Team Up to Reveal On-Chain Auto Reservation Marketplace",
+      "description": "\u003cp\u003eHollywood superstar Sir Patrick Stewart has joined hands with the DeLorean Motor Company (DMC) and DeLorean Labs as the brand prepares to launch its novel on-chain vehicle reservation system and Web3 marketplace.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sir-patrick-stewart-and-delorean-team-up-to-reveal-on-chain-auto-reservation-marketplace/\"\u003eSir Patrick Stewart and DeLorean Team Up to Reveal On-Chain Auto Reservation Marketplace\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sir-patrick-stewart-and-delorean-team-up-to-reveal-on-chain-auto-reservation-marketplace/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Blockchain",
+        "SUI",
+        "Sui Network"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/22152800/1747927680-sir-patrick-stewart-delorean-on-chain-reservation-tech-auto-industry.jpg"
+      },
+      "published": "2025-05-22T16:04:58Z"
+    }
+  },
+  {
+    "hash": "1d1d4a144f1a6fb53439f43d263f5bfd717cb3f38b8c598eb84fc9a14383f993",
+    "item": {
+      "title": "Sonic Labs GSR Alliance to Turbocharge S Token – Will Liquidity Surge Next?",
+      "description": "\u003cp\u003eSonic Labs GSR collaboration has confirmed the trading firm as market maker for the S token. GSR has committed to injecting liquidity across Sonic’s DeFi stack, mentoring early projects, sponsoring Sonic Summit 2025, and supporting court-approved Multichain liquidation following the 2023 hack.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sonic-labs-names-gsr-as-official-market-makers-for-s-token/\"\u003eSonic Labs GSR Alliance to Turbocharge S Token – Will Liquidity Surge Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sonic-labs-names-gsr-as-official-market-makers-for-s-token/"
+      ],
+      "categories": [
+        "DeFi News",
+        "Finance News",
+        "News",
+        "GSR",
+        "Sonic Labs",
+        "Tokens"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/18114058/1744976458-eliza-labs-auto-fun-no-code-ai-agent-platform.jpg"
+      },
+      "published": "2025-05-22T15:38:27Z"
+    }
+  },
+  {
+    "hash": "3565db9a6ed31b257e11ecfb67c45c77993ef310a51f1f3fc8fc807d09b436c7",
+    "item": {
+      "title": "XRP Price Prediction: After 50% Gains, Could This Be the Start of a Long-Awaited Supercycle?",
+      "description": "\u003cp\u003eXRP has risen by 3% in the past 24 hours, with market momentum and its chart pointing to the start of a cycle that could bring new record highs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-breakout-watch-after-50-gains-could-this-be-the-start-of-a-long-awaited-supercycle/\"\u003eXRP Price Prediction: After 50% Gains, Could This Be the Start of a Long-Awaited Supercycle?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-breakout-watch-after-50-gains-could-this-be-the-start-of-a-long-awaited-supercycle/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Ripple",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/22131226/1747919545-xrp-breakout-watch-after-50-gains-could-this-be-the-start-of-a-long-awaited-supercycle.jpg"
+      },
+      "published": "2025-05-22T15:17:38Z"
+    }
   }
 ]
