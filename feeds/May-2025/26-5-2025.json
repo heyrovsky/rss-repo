@@ -2978,5 +2978,528 @@
       },
       "published": "2025-05-26T15:12:17Z"
     }
+  },
+  {
+    "hash": "773af62c6ba4f2ef1e15b927d15facbb520f69f27def6e86060165b1cb59f46f",
+    "item": {
+      "title": "Lossless video compression using Bloom filters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44100179\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T18:32:02Z"
+    }
+  },
+  {
+    "hash": "b288252170a65791d2db3b36ec019992573630d7ac0c2805ca3179ad5e86c64a",
+    "item": {
+      "title": "TSMC bets on unorthodox optical tech",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44099407\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/microled-optical-chiplet"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T17:15:19Z"
+    }
+  },
+  {
+    "hash": "7250252cd109a2b206c1cab52ff68ad8cce8edf757b97deb027db3a20954df43",
+    "item": {
+      "title": "CSS Minecraft",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44100148\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://benjaminaster.com/css-minecraft/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T18:28:43Z"
+    }
+  },
+  {
+    "hash": "e3e2a3bd72e708800aa47c9073fa71a13371ee8377f0514180caf82d716cd8ed",
+    "item": {
+      "title": "Trying to teach in the age of the AI homework machine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44100677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T19:20:19Z"
+    }
+  },
+  {
+    "hash": "1b590c2a72d14eb4b765d9638d0325c8a77dbe4836965ba2c24ebb906e486d99",
+    "item": {
+      "title": "The Difference Between Downloading and Streaming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101072\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://danq.me/2025/05/26/downloading-vs-streaming/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T19:56:02Z"
+    }
+  },
+  {
+    "hash": "368a83e6f95f5f3348df93de762b4b1285ccfb6e802b9eb660f86bddd2a8b33f",
+    "item": {
+      "title": "Claude 4 and GitHub MCP will leak your private GitHub repositories",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44100082\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/lbeurerkellner/status/1926991491735429514"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T18:20:18Z"
+    }
+  },
+  {
+    "hash": "b992bc1a9cae76384cbeacdb1167f4c663d94b0c79b830d94959932ce53c21e3",
+    "item": {
+      "title": "TeleMessage Explorer: a new open source research tool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44097986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T14:50:48Z"
+    }
+  },
+  {
+    "hash": "b05dd1ee3f373f8d2c80154af951f4902a66d0453e260c874f962d499ccb0f9d",
+    "item": {
+      "title": "Duolingo CEO tries to walk back AI-first comments, fails",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44100035\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T18:14:09Z"
+    }
+  },
+  {
+    "hash": "aabd41d05b067db4e6adffcf94675c4de820f67615a94d8541a20b4a13c87d05",
+    "item": {
+      "title": "Changelog: Lazy trees (faster Nix builds)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086803\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://determinate.systems/posts/changelog-determinate-nix-352/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-25T10:14:30Z"
+    }
+  },
+  {
+    "hash": "3300d1ac5a1abe77992fa392249e3a9ac4f5868eb7f5f5d417974a4c3017158f",
+    "item": {
+      "title": "Having your compile-time cake and eating it too",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086935\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://0x44.xyz/blog/comptime-1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-25T10:54:10Z"
+    }
+  },
+  {
+    "hash": "5cb17b4741ba5763a1b71e4b26a0361e618f38c78cee51761f8c707047bc3b59",
+    "item": {
+      "title": "Data breach exposes 184M passwords, likely captured by malware",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44099008\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T16:37:14Z"
+    }
+  },
+  {
+    "hash": "5e329c798a42d819180f3b8feed72c3c5366d172ebd2e8a1e56a528bb0ac1103",
+    "item": {
+      "title": "Mutmut – Python Mutation Tester",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087757\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/boxed/mutmut"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-25T13:38:46Z"
+    }
+  },
+  {
+    "hash": "d5ccca8922e622a9dfe72b4b620f45f23882d0227bd9120d32ccff842c4d6806",
+    "item": {
+      "title": "Cloudflare CEO: Football piracy blocks will claim lives",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44098273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T15:15:58Z"
+    }
+  },
+  {
+    "hash": "82f3eeacf3480fbed9742d583941cf49ae1ff4ce65521dd1c98adf29d73201c8",
+    "item": {
+      "title": "I think it's time to give Nix a chance",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44098605\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://maych.in/blog/its-time-to-give-nix-a-chance/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T15:56:15Z"
+    }
+  },
+  {
+    "hash": "abe7a335e334056340bc37ed3b189c3efa62da053f76a328371653b2fd6b96cf",
+    "item": {
+      "title": "Linux 6.16 Adds Ability For Power Code To Freeze The File-System For Suspend \u0026 Hibernate",
+      "description": "Among the many VFS pull requests merged today by Linus Torvalds for the now-open Linux 6.16 merge window is support by the power subsystem for being able to initiate file-system freeze/thaw events as part of the system suspend and resume cycle...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-Filesystem-Freezing"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-26T19:05:00Z"
+    }
+  },
+  {
+    "hash": "950c104499b69df4e5f3732f433ece0d48e2ea6de012e5db818e68b26fe8ad92",
+    "item": {
+      "title": "Dogecoin \u0026 Mantix Tipped To SkyRocket As Bitcoin’s $110K Price Seems Very Fragile To Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-9.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogecoin \u0026amp; Mantix Tipped To SkyRocket As Bitcoin\u0026#039;s $110K Price Seems Very Fragile To Investors\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-9.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-9-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-9-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eBitcoin (BTC) has taken a dive following a decline in investor interest, and many investors are looking for better opportunities. Even though there are many options in the market, experts have tipped Dogecoin (DOGE) and Mantix (MTX) as the next projects to skyrocket this quarter. Mantix is the presale token",
+      "links": [
+        "https://thenewscrypto.com/dogecoin-mantix-tipped-to-skyrocket-as-bitcoins-110k-price-seems-very-fragile-to-investors/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "Dogecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-2-9.jpg"
+      },
+      "published": "2025-05-26T15:00:00Z"
+    }
+  },
+  {
+    "hash": "52658d305edb05e7e8f7841bd0ae46afeb7fd9735f6f88c9552e5fed55aa4485",
+    "item": {
+      "title": "Raydium (RAY) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Raydium (RAY) Price Prediction 2025, 2026-2030\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Raydium (RAY) price prediction 2025, 2026-2030, we will analyze the price patterns of RAY by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Raydium (RAY) Current Market Status What is Raydium (RAY)? Raydium (RAY) 24H Technicals RAYDIUM (RAY)",
+      "links": [
+        "https://thenewscrypto.com/raydium-ray-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "price prediction",
+        "RAY",
+        "Raydium"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/Price-prediction-design-RAY.jpg"
+      },
+      "published": "2025-05-26T14:57:36Z"
+    }
+  },
+  {
+    "hash": "f94ac62aebae8432df4f30c8f45c9e6ff81b64c271322e00b9c33f38dfbce422",
+    "item": {
+      "title": "Tokenization of Real-World Assets: Opportunities and Challenges",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Tokenization-of-Real-World-Assets-Opportunities-and-Challenges-.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Tokenization of Real-World Assets: Opportunities and Challenges  \" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Tokenization-of-Real-World-Assets-Opportunities-and-Challenges-.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Tokenization-of-Real-World-Assets-Opportunities-and-Challenges--300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Tokenization-of-Real-World-Assets-Opportunities-and-Challenges--376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTokenization is perhaps the most interesting application of blockchain technology, with the potential to disrupt the way we own, transfer, and exchange real-world assets (RWAs). From property to art, stocks, and commodities, pretty much any asset can be tokenized on a blockchain. This transformation has the potential to free up",
+      "links": [
+        "https://thenewscrypto.com/tokenization-of-real-world-assets-opportunities-and-challenges/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Blockchain",
+        "Digital Asset",
+        "NFT",
+        "RWA",
+        "tokenization"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Tokenization-of-Real-World-Assets-Opportunities-and-Challenges-.jpg"
+      },
+      "published": "2025-05-26T14:53:19Z"
+    }
+  },
+  {
+    "hash": "139db677c0595fbfbc37831c6e1e4f1332ee8f719de87dd3c71d7ee3a4d12908",
+    "item": {
+      "title": "Worldcoin (WLD) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Worldcoin Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM-376x212.jpeg 376w, https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM-150x84.jpeg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Worldcoin (WLD) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of WLD by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Worldcoin (WLD) Current Market Status What is Worldcoin (WLD)? Worldcoin (WLD) 24H Technicals WORLDCOIN (WLD)",
+      "links": [
+        "https://thenewscrypto.com/worldcoin-wld-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrecncy",
+        "Price preddiction",
+        "WLD",
+        "Worldcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM.jpeg"
+      },
+      "published": "2025-05-26T14:45:20Z"
+    }
+  },
+  {
+    "hash": "99fc745e8e1f9089b3f5a367f903912e24cbbe76f0252cfc275efdd88e767e6a",
+    "item": {
+      "title": "Ethereum to $5000? Analysis Suggests 2x Rally for ETH",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-95.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-95.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-95-300x172.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eEthereum, trading at about $2,552, has shown impressive speed, jumping over 55% in the past 30 days.\u0026#160; This increase suggests that Ethereum is about to surge significantly, tripling its price and approaching the $5,000 milestone by year-end. But one under-the-radar crypto, Rexas Finance (RXS), is taking the stage with forecasts",
+      "links": [
+        "https://thenewscrypto.com/ethereum-to-5000-analysis-suggests-2x-rally-for-eth/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-95.jpg"
+      },
+      "published": "2025-05-26T14:29:00Z"
+    }
+  },
+  {
+    "hash": "c8f3f6d3e270ca5174bc007317031213ac1d39c21f55ecad08cfc13f37ff738e",
+    "item": {
+      "title": "Gomble Games Launches GOMBLE BUILDERS: A Web3 Game Creation Platform Built by Communities, Made for the Masses",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-21_10-23-29_1747812314VIJS1qRhBb.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-21_10-23-29_1747812314VIJS1qRhBb.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-21_10-23-29_1747812314VIJS1qRhBb-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-21_10-23-29_1747812314VIJS1qRhBb-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-21_10-23-29_1747812314VIJS1qRhBb-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eSingapore, Singapore, 26th May 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gomble-games-launches-gomble-builders-a-web3-game-creation-platform-built-by-communities-made-for-the-masses/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/photo_2025-05-21_10-23-29_1747812314VIJS1qRhBb.jpg"
+      },
+      "published": "2025-05-26T13:55:49Z"
+    }
+  },
+  {
+    "hash": "451a00c915de93d731312f303185e727242f9ace82ef6f1f456528063d0e1f06",
+    "item": {
+      "title": "What to Expect From the Upcoming Bitcoin 2025 Conference?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/The-Bitcoin-2025-Conference-in-Las-Vegas-has-announced1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"What to Expect From the Upcoming Bitcoin 2025 Conference?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/The-Bitcoin-2025-Conference-in-Las-Vegas-has-announced1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/The-Bitcoin-2025-Conference-in-Las-Vegas-has-announced1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/The-Bitcoin-2025-Conference-in-Las-Vegas-has-announced1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrypto events are knowledge hubs for investors, beginners, experts, and startup founders alike. This year’s Bitcoin Conference is going to take place from tomorrow, May 27, to May 29, at the Venetian Convention Center in Las Vegas. The 3-day event expects to receive more than 30K attendees, along with top",
+      "links": [
+        "https://thenewscrypto.com/what-to-expect-from-the-upcoming-bitcoin-2025-conference/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Conference"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/The-Bitcoin-2025-Conference-in-Las-Vegas-has-announced1.jpg"
+      },
+      "published": "2025-05-26T13:52:15Z"
+    }
+  },
+  {
+    "hash": "d86aa37d6b0f2f02730ecde7bfff198bad7d505e32e7877187f684209e0e74e6",
+    "item": {
+      "title": "4 Cryptos To Buy as Michael Saylor’s Strategy Tightens the Bitcoin (BTC) Supply",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-94.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/image001-94.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/05/image001-94-300x172.jpg 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eMichael Saylor’s company — now simply called Strategy — is reshaping the market. By acquiring up to 50% of all newly mined BTC every month, Strategy is essentially engineering a “synthetic halving,” thereby tightening the supply far beyond what Bitcoin’s scheduled halvings achieve.\u0026#160; This aggressive accumulation is pushing Bitcoin into",
+      "links": [
+        "https://thenewscrypto.com/4-cryptos-to-buy-as-michael-saylors-strategy-tightens-the-bitcoin-btc-supply/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/image001-94.jpg"
+      },
+      "published": "2025-05-26T13:28:31Z"
+    }
+  },
+  {
+    "hash": "69749da8b41f22b4d69f1a6dd178fca6f84a347900d292a2bf12688581173365",
+    "item": {
+      "title": "Binance Launches Live Trading on Binance Square, Merging Livestreams with Real-Time Crypto Trades",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"900\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer-376x212.jpg 376w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eThe launch of Live Trading on its global social platform Binance Square has been announced by Binance, the global blockchain ecosystem that powers the biggest cryptocurrency exchange in the world in terms of both trading volume and users. This new feature enables users to conduct real Spot or Futures trades directly within",
+      "links": [
+        "https://thenewscrypto.com/binance-launches-live-trading-on-binance-square-merging-livestreams-with-real-time-crypto-trades/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/disclaimer.jpg"
+      },
+      "published": "2025-05-26T13:00:00Z"
+    }
+  },
+  {
+    "hash": "2a88ea8423fd76bd68dd2711c35fe7dc178420fbfacc2487b89faa8c9c5b7be6",
+    "item": {
+      "title": "Ethereum (ETH) Backers Buy Into AI-Driven Mantix (MTX) As New Crypto Platform Impresses In ICO",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-18.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Backers Buy Into AI-Driven Mantix (MTX) As New Crypto Platform Impresses In ICO\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-18.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-18-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-18-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eEthereum is walking on a tightrope! Trump\u0026#8217;s tariff threat against the EU and Apple has rattled the crypto market. The US President said he\u0026#8217;s \u0026#8220;not looking for a deal,\u0026#8221; which resulted in a $560M liquidation in the crypto market. Ethereum wasn\u0026#8217;t spared. The altcoin fell below $2,500. However, while many",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-backers-buy-into-ai-driven-mantix-mtx-as-new-crypto-platform-impresses-in-ico/"
+      ],
+      "categories": [
+        "Press Release",
+        "Crypto",
+        "ETHEREUM",
+        "Mantix"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-18.jpg"
+      },
+      "published": "2025-05-26T13:00:00Z"
+    }
+  },
+  {
+    "hash": "2d17990b9e8a291bf8a092eb224dc78fb8136a54b58d9bc8fa77a12c4dd3c330",
+    "item": {
+      "title": "Cambodia’s Officials Tied to $19B Crypto Scam Network Fueled by Forced Labor, Report Finds",
+      "description": "\u003cp\u003eA Cambodia crypto scam has been detailed by Humanity Research Consultancy as a $19 billion operation worth nearly 60 percent of Cambodia’s GDP. The report says Huione platforms and a state-linked stablecoin have processed billions while trafficked workers drive growing fraud compounds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cambodia-crypto-scam-officials-19b-network/\"\u003eCambodia’s Officials Tied to $19B Crypto Scam Network Fueled by Forced Labor, Report Finds\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cambodia-crypto-scam-officials-19b-network/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Cambodia",
+        "crypto scam"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/26195635/1748289394-img_4755_optimized.jpg"
+      },
+      "published": "2025-05-26T20:49:55Z"
+    }
+  },
+  {
+    "hash": "d7c71992b3c1eecc9e175b1baba5e049bf68c9093aa3c21eb78cb2333d0320b7",
+    "item": {
+      "title": "U.S. Banking Groups Urge SEC to Scrap Cyber Disclosure Rule, Citing National Security Risks",
+      "description": "\u003cp\u003eLeading U.S. banking groups have formally asked the SEC to rescind its cyber breach disclosure rule, arguing it puts companies and national security at risk. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/u-s-banking-groups-urge-sec-to-scrap-cyber-disclosure-rule-citing-national-security-risks/\"\u003eU.S. Banking Groups Urge SEC to Scrap Cyber Disclosure Rule, Citing National Security Risks\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/u-s-banking-groups-urge-sec-to-scrap-cyber-disclosure-rule-citing-national-security-risks/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "Banking",
+        "Cybersecurity",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/26183807/1748284686-img_4754_optimized.jpg"
+      },
+      "published": "2025-05-26T18:42:10Z"
+    }
+  },
+  {
+    "hash": "05fb0af96e0d8ad9e52f236abae1d91b150a62397cd8bf243390bd71621da1ce",
+    "item": {
+      "title": "Trump Media Plans $3B Raise to Buy Bitcoin and Crypto Assets as Ethics Firestorm Looms",
+      "description": "\u003cp\u003eTrump Media has planned a $3 billion fundraising—$2 billion in stock, $1 billion in convertible bonds—to purchase Bitcoin. Analysts note the move could sway crypto liquidity, while legal scholars question how revocable family trusts fit within ethics and disclosure laws for a sitting president.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-media-plans-3b-raise-to-buy-bitcoin-and-crypto-assets-as-ethics-firestorm-looms/\"\u003eTrump Media Plans $3B Raise to Buy Bitcoin and Crypto Assets as Ethics Firestorm Looms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-media-plans-3b-raise-to-buy-bitcoin-and-crypto-assets-as-ethics-firestorm-looms/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "Trump",
+        "United States"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/26174214/1748281333-screenshot-2025-05-26-at-13-41-12-1_optimized.jpg"
+      },
+      "published": "2025-05-26T18:16:00Z"
+    }
   }
 ]
