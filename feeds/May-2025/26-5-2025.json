@@ -369,5 +369,192 @@
       "source": "Hacker News",
       "published": "2025-05-23T01:31:40Z"
     }
+  },
+  {
+    "hash": "e4bbebcf4978d97bede34b529349aa404caf3822ba9aa9dd80f547c3524a86e0",
+    "item": {
+      "title": "The 6.15 kernel has been released",
+      "description": "Linus has \u003ca href=\"https://lwn.net/Articles/1022493/\"\u003ereleased\u003c/a\u003e the 6.15 kernel, as\nexpected.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tSo this was delayed by a couple of hours because of a last-minute\n\tbug report resulting in one new feature being disabled at the\n\televenth hour, but 6.15 is out there now.\n\u003c/blockquote\u003e\n\u003cp\u003e\n  Significant changes in 6.15 include \u003ca\nhref=\"https://lwn.net/Articles/1012490/\"\u003esmarter timer-ID assignment\u003c/a\u003e to make\ncheckpoint/restore operations more reliable, the \u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6092c5016005\"\u003eability\u003c/a\u003e\nto read status information from a pidfd after the process in question has\nbeen reaped, the \u003ca href=\"https://lwn.net/Articles/992991/\"\u003e\u003ctt\u003ePIDFD_SELF\u003c/tt\u003e\u003c/a\u003e\nspecial pidfd value, \u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=7a54947e727b\"\u003enested\nID-mapped mounts\u003c/a\u003e, zero-copy network-data reception via io_uring, The \u003ca\nhref=\"https://web.git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6df9d086ffcb\"\u003eability\nto read epoll events\u003c/a\u003e via io_uring, \u003ca\nhref=\"https://web.git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6ffb9017e932\"\u003eresilient\nqueued spinlocks\u003c/a\u003e for BPF programs, \u003ca\nhref=\"https://lwn.net/Articles/1011366/\"\u003eguard-page enhancements\u003c/a\u003e allowing them to be\nplaced in file-backed memory areas and for user space to detect their\npresence, the once-controversial \u003ca href=\"https://lwn.net/Articles/969383/\"\u003efwctl\nsubsystem\u003c/a\u003e, the optional \u003ca href=\"https://lwn.net/Articles/1006375/\"\u003esealing of some\nsystem mappings\u003c/a\u003e, and much more.\n\u003cp\u003e\nSee the LWN merge-window summaries (\u003ca\nhref=\"https://lwn.net/Articles/1015414/\"\u003epart\u0026#160;1\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1016119/\"\u003epart\u0026#160;2\u003c/a\u003e) and the in-progress \u003ca\nhref=\"https://kernelnewbies.org/Linux_6.15\"\u003eKernelNewbies 6.15 page\u003c/a\u003e for\nmore information.",
+      "links": [
+        "https://lwn.net/Articles/1022457/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-05-26T03:44:19Z"
+    }
+  },
+  {
+    "hash": "769abe505912b085601d885a93b384afd3a1c7764b91c6d17b25e04d8bd3d998",
+    "item": {
+      "title": "Ethereum (ETH) Delivers 44.2% Monthly Returns, While Ruvi AI (RUVI) Could Offer an Astonishing 12,700% ROI by End of 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum-ETH-Delivers-44.2-Monthly-Returns.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Delivers 44.2% Monthly Returns, While Ruvi AI (RUVI) Could Offer an Astonishing 12,700% ROI by End of 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum-ETH-Delivers-44.2-Monthly-Returns.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum-ETH-Delivers-44.2-Monthly-Returns-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum-ETH-Delivers-44.2-Monthly-Returns-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEthereum (ETH), currently the second-largest cryptocurrency by market capitalization, is trading at $2,556 amidst recent fluctuations in price. After facing a 30% drop over the past year, analysts suggest that Ethereum may be on the verge of a price recovery, with predictions hinting at significant short-term gains.\u0026#160; Its integral role",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-delivers-44-2-monthly-returns-while-ruvi-ai-ruvi-could-offer-an-astonishing-12700-roi-by-end-of-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ruvi AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Ethereum-ETH-Delivers-44.2-Monthly-Returns.jpg"
+      },
+      "published": "2025-05-25T17:00:00Z"
+    }
+  },
+  {
+    "hash": "6794d0899a1660796df47e1c11fd8a13f83e353ebed2daf86c989215610f261b",
+    "item": {
+      "title": "Ripple (XRP) Could Reach $5.44 as Early as June, Will the Bullish Trend Hold?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ripple-XRP-Could-Reach-5.44-as-Early.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ripple (XRP) Could Reach $5.44 as Early as June, Will the Bullish Trend Hold?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Ripple-XRP-Could-Reach-5.44-as-Early.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ripple-XRP-Could-Reach-5.44-as-Early-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Ripple-XRP-Could-Reach-5.44-as-Early-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eRipple (XRP) continues to dominate headlines as institutional interest and a potential ETF approval make it a top candidate for a breakout rally. Analysts are bullish, suggesting high targets in the coming months. However, can XRP reach $5.44 by June?  While XRP captures institutional interest and technical momentum, a newer,",
+      "links": [
+        "https://thenewscrypto.com/ripple-xrp-could-reach-5-44-as-early-as-june-will-the-bullish-trend-hold/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rexas Finance (RXS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Ripple-XRP-Could-Reach-5.44-as-Early.jpg"
+      },
+      "published": "2025-05-25T16:40:00Z"
+    }
+  },
+  {
+    "hash": "6b7af73c8d0bcc31018c9983b9024569044fe42b36b6792ed99d1f34afe4af9f",
+    "item": {
+      "title": "BitLemons ($BLEM) vs. BTC Bull ($BTCBULL) and Lightchain AI (LCAI): Which Presale Token Delivers Real Revenue While Others Chase Promises?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/BitLemons-BLEM-vs.-BTC-Bull-BTCBULL.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BitLemons ($BLEM) vs. BTC Bull ($BTCBULL) and Lightchain AI (LCAI): Which Presale Token Delivers Real Revenue While Others Chase Promises?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/BitLemons-BLEM-vs.-BTC-Bull-BTCBULL.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/BitLemons-BLEM-vs.-BTC-Bull-BTCBULL-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/BitLemons-BLEM-vs.-BTC-Bull-BTCBULL-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto presale arena is experiencing unprecedented activity, with investors frantically searching for the next breakthrough opportunity. While most projects promise revolutionary technology and astronomical returns, only one presale token is currently generating actual revenue: BitLemons ($BLEM). As BTC Bull ($BTCBULL) ties its fate to Bitcoin\u0026#8217;s price movements and Lightchain",
+      "links": [
+        "https://thenewscrypto.com/bitlemons-blem-vs-btc-bull-btcbull-and-lightchain-ai-lcai-which-presale-token-delivers-real-revenue-while-others-chase-promises/"
+      ],
+      "categories": [
+        "Press Release",
+        "BitLemons ($BLEM)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/BitLemons-BLEM-vs.-BTC-Bull-BTCBULL.jpg"
+      },
+      "published": "2025-05-25T16:00:00Z"
+    }
+  },
+  {
+    "hash": "d5b6205e489f53373410e4ccfee06cef47ebbc5924a299c93ce8a7907fdf5840",
+    "item": {
+      "title": "Ten years of JSON Web Token and preparing for the future",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44092102\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://self-issued.info/?p=2708"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-25T23:05:36Z"
+    }
+  },
+  {
+    "hash": "b5a07e4959cd73af735b3613e3560e2ac1d091b4e113cc48709a83c3ffa358f4",
+    "item": {
+      "title": "Claude Code does our releases now",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093675\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.aluxian.com/claude-code-does-our-releases-now/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T03:22:14Z"
+    }
+  },
+  {
+    "hash": "b13bf290ec092564a43c7671eea9c64ccb22e4d9054e43fbf04905a5c36f4e18",
+    "item": {
+      "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44070626\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-23T07:12:33Z"
+    }
+  },
+  {
+    "hash": "eb60911e509bd6971724f15b30cb2b1645488f746ff8ada45b01e5b471570ebc",
+    "item": {
+      "title": "jjui – A Nice TUI for Jujutsu",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093334\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/idursun/jjui"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T02:16:20Z"
+    }
+  },
+  {
+    "hash": "68192cf5097f38f085c94f0276efb454278573f26907da9ce320dfa620cf7ffd",
+    "item": {
+      "title": "Music, teeth, and AI but not all at once",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44075653\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://erikheintare.substack.com/p/1-music-teeth-and-ai-but-not-all"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-23T19:11:46Z"
+    }
+  },
+  {
+    "hash": "2ca18cd3582f10a5a33a482e8e96732baa5c24f783680d5b8d1f345f9e9d8905",
+    "item": {
+      "title": "The Source of \"Water\" (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44076790\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jamesgill.net/waterword/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-23T21:29:04Z"
+    }
+  },
+  {
+    "hash": "8c87c5b646fbf3c3931ad74fe879c15e160367853bef388390d70d456f39911e",
+    "item": {
+      "title": "Bitcoin Tops $109K as Trump Extends EU Tariff Deadline",
+      "description": "\u003cp\u003eBitcoin rose 1.4% Monday to over $109,000 after Trump delayed steep EU tariffs, easing market fears and boosting risk appetite.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-pushes-back-eu-tariffs-bitcoin-breaks-109k/\"\u003eBitcoin Tops $109K as Trump Extends EU Tariff Deadline\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-pushes-back-eu-tariffs-bitcoin-breaks-109k/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "tariffs",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/26043757/1748234277-image-1748234252934_optimized.jpg"
+      },
+      "published": "2025-05-26T04:56:40Z"
+    }
   }
 ]
