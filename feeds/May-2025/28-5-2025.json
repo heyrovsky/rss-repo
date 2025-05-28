@@ -339,5 +339,135 @@
       },
       "published": "2025-05-27T21:55:54Z"
     }
+  },
+  {
+    "hash": "395e235b7c49dd4e3dfba2308b10ffc12b5084543f6ceb140bf63a935cfe2988",
+    "item": {
+      "title": "Theory of Stupidity [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112265\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-28T02:25:28Z"
+    }
+  },
+  {
+    "hash": "a6c89d01848ef3658f2b13ce29fd8d6aecb26e42703c8311de91a1eb43b313de",
+    "item": {
+      "title": "Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112326\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44112326"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-28T02:39:11Z"
+    }
+  },
+  {
+    "hash": "9acb43b46415766e2d22ef505f4512f8193f801d06f7a5eb2bf7be69ead9e543",
+    "item": {
+      "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111673\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-28T00:01:20Z"
+    }
+  },
+  {
+    "hash": "8b2451d17884e59ddb9d56bde466831797f2ca4ae662627c4aa08f54bc9df0ef",
+    "item": {
+      "title": "Using Postgres pg_test_fsync tool for testing low latency writes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112218\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-28T02:15:15Z"
+    }
+  },
+  {
+    "hash": "ffb76d5f5f2bd9d9e4e5aa10743a2af162cbac374698e642728995e83602659e",
+    "item": {
+      "title": "A privilege escalation from Chrome extensions (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111898\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://0x44.xyz/blog/cve-2023-4369/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-28T00:48:45Z"
+    }
+  },
+  {
+    "hash": "77dca47bfe873b19d2f6da589009b5e7a273718a596bd6e7b46729c7897b9aeb",
+    "item": {
+      "title": "Nanoparticle-cell link enables EM wireless programming of transgene expression",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093193\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-26T01:52:18Z"
+    }
+  },
+  {
+    "hash": "4908c05c85b9cea49931ef872b07b2d17c40187f47dee1dfb236ca568ac339da",
+    "item": {
+      "title": "Why the original Macintosh had a screen resolution of 512×324",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44110219\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://512pixels.net/2025/05/original-macintosh-resolution/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-27T20:02:50Z"
+    }
+  },
+  {
+    "hash": "0fd8f527925770bd4eb083fedb9d652e91278c7a08426faf4224f8f6a0d04032",
+    "item": {
+      "title": "Direct Preference Optimization vs. RLHF",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089045\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.together.ai/blog/direct-preference-optimization"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-25T16:50:36Z"
+    }
+  },
+  {
+    "hash": "d767adc8d7adbc88bd61f6545205a4053599ab4346f7bdfcd656f817c118b546",
+    "item": {
+      "title": "EXT4 For Linux 6.16 Brings A Change Yielding \"Really Stupendous Performance\"",
+      "description": "Ted Ts'o sent out the EXT4 file-system changes today for the Linux 6.16 kernel. While EXT4 may not see as much code churn these days given its mature state compared to say Btrfs and Bcachefs, with Linux 6.16 are some tantalizing performance improvements...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-EXT4-Performance"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-28T00:57:00Z"
+    }
+  },
+  {
+    "hash": "3f6a736f2ef6c34b3eeb91e45445e835c4fccb7d6acc61737d164bf12675c3e2",
+    "item": {
+      "title": "ROCm GPU Compute Performance With AMD Ryzen AI MAX+ \"Strix Halo\"",
+      "description": "This month I have been running many Linux benchmarks of the HP ZBook Ultra G1a with the very exciting Ryzen AI MAX+ PRO 395 Strix Halo SoC featuring the powerful Radeon 8060S graphics. While there were the very promising OpenGL and Vulkan benchmarks shown so far from AMD Strix Halo on Linux -- including the very compelling performance compared to Microsoft Windows 11 -- many are interested in the ROCm compute aspects for Strix Halo. Here are some of the first benchmarks of the GPU compute performance for the Ryzen AI MAX+ PRO with the new ROCm 6.4.1 release compared to Strix Point as well as Intel Xe2 Lunar Lake on their Compute Runtime stack.",
+      "links": [
+        "https://www.phoronix.com/review/amd-strix-halo-rocm-benchmarks"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-05-27T21:00:00Z"
+    }
   }
 ]
