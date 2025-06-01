@@ -1018,5 +1018,241 @@
       },
       "published": "2025-06-01T09:06:00Z"
     }
+  },
+  {
+    "hash": "3c8bc49140fdca53ce5938552ca50bf14d87539ddfd83b5399ffd4978a1dd2d4",
+    "item": {
+      "title": "Atari Means Business with the Mega ST",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44150002\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.goto10retro.com/p/atari-means-business-with-the-mega"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T11:01:31Z"
+    }
+  },
+  {
+    "hash": "611ccaf761615792d52f6389e51a129ccc8fbebe66f3a8cb02f9213062d6ec93",
+    "item": {
+      "title": "Why DeepSeek is cheap at scale but expensive to run locally",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44149238\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/inference-batching-and-deepseek/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T07:31:07Z"
+    }
+  },
+  {
+    "hash": "5f597661ea4d0a6fcba57b297d6263ab0073191a3184ea489454f39a497e3adf",
+    "item": {
+      "title": "A Pokémon battle simulation engine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44125964\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pkmn/engine"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-29T13:33:14Z"
+    }
+  },
+  {
+    "hash": "85c404083d3c84032f352ab88017302aecc62b548a2fbfa6cbfdc47e200acccb",
+    "item": {
+      "title": "A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44124443\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-29T09:40:36Z"
+    }
+  },
+  {
+    "hash": "29d77b2a1d949483ff5756c522d43fdfe8e8672400c20a1244aab1894e11772f",
+    "item": {
+      "title": "An optimizing compiler doesn't help much with long instruction dependencies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44149185\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T07:17:10Z"
+    }
+  },
+  {
+    "hash": "065ac619746cb144e00b47b85965191642ae70402d4c4bc55c582cc36188fa81",
+    "item": {
+      "title": "The Future of Comments Is Lies, I Guess",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44130743\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aphyr.com/posts/388-the-future-of-comments-is-lies-i-guess"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-29T21:52:00Z"
+    }
+  },
+  {
+    "hash": "a2c9ffabaed8de162eda6de59d88a59d0414f8a4e262e774235fa8195e747ebf",
+    "item": {
+      "title": "Google AI Edge – on-device cross-platform AI deployment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44149019\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ai.google.dev/edge"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T06:32:20Z"
+    }
+  },
+  {
+    "hash": "c032ec9662119ebe178260fa60416bbe151ffadb1fece14aa3c1b84081a2279a",
+    "item": {
+      "title": "Cinematography of \"Andor\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44149718\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T09:44:04Z"
+    }
+  },
+  {
+    "hash": "f85d9f5fd8c62bf5c9c1741bf9163b51956cd3bab17e4a1a08d5f81dc2be64a0",
+    "item": {
+      "title": "Why Use Structured Errors in Rust Applications?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44148708\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T04:48:19Z"
+    }
+  },
+  {
+    "hash": "4bf20404b9b0f944b8c2f1794e5d2752bebd638e500a383ad487b50b7c57fd39",
+    "item": {
+      "title": "Linux 6.16 Enables Support For Arm Scalable Matrix Extension \"SME\"",
+      "description": "The Linux kernel had not enabled support for Arm Scalable Matrix Extension (SME) due to bugs, but with the in-development Linux 6.16 kernel those issues have been resolved and so SME can now be enabled for the rare SoCs having said hardware support...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-Restores-Arm-SME"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-01T10:39:00Z"
+    }
+  },
+  {
+    "hash": "67d6b2a0aca271612295a3029073204fcce6fccae00a45fb4cefa013e42d82f1",
+    "item": {
+      "title": "Apparent Git Scripting Issue Raised Concerns Of Possible Malicious Linux Kernel Activity",
+      "description": "The Linux 6.16 merge window this weekend suffered an unexpected twist this weekend when Linus Torvalds noticed some unusual Git activity by a longtime Linux kernel developer. The issue is still being sorted through but it would appear that the possible malicious activity came down to some scripting issues around Git...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-Git-Gone-Wrong"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-01T10:22:30Z"
+    }
+  },
+  {
+    "hash": "fe566ceee5fcaa9eef778ba3eaa45e55c6b10b60c7fd9580aa0ba645c8abfaac",
+    "item": {
+      "title": "FreeBSD 14.3 RC1 Brings OCI Images To Docker \u0026 GitHub",
+      "description": "The release candidate of FreeBSD 14.3 is now available for testing ahead of the official operating system release this month...",
+      "links": [
+        "https://www.phoronix.com/news/FreeBSD-14.3-RC1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-01T10:00:47Z"
+    }
+  },
+  {
+    "hash": "7f64c92dae0c432029a5380e4da7c033937b77c26d9892105215d9ea3a4f56da",
+    "item": {
+      "title": "HABE Launches Ethereum-Based Platform for Creative Project Funding",
+      "description": "\u003cp\u003eA new blockchain initiative, HABE, is entering the cryptocurrency space with a platform designed to support idea development and creative project funding through community-driven investment.Built on the Ethereum network, the HABE platform offers users access to early-stage project participation, staking rewards, and trading via a dedicated marketplace.Platform Overview HABE positions itself as a tool for [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/habe-launches-ethereum-based-platform-creative-project-funding/\"\u003eHABE Launches Ethereum-Based Platform for Creative Project Funding\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/habe-launches-ethereum-based-platform-creative-project-funding/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Ethereum",
+        "habe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/31191017/habe-launches-ethereum-based-platform-creative-project-funding.jpg"
+      },
+      "published": "2025-06-01T11:00:00Z"
+    }
+  },
+  {
+    "hash": "3fae1da74e7a54a244f52d859c27f47ad5fc0438dba3394c984282836141b84a",
+    "item": {
+      "title": "IMF Warns Against Pakistan’s Power Push for Bitcoin Mining, AI Data Centers",
+      "description": "\u003cp\u003eThe IMF is pushing back on Pakistan’s plan to allocate 2,000 megawatts of electricity for Bitcoin mining and AI data centers.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/imf-warns-against-pakistans-power-push-for-bitcoin-mining-ai-data-centers/\"\u003eIMF Warns Against Pakistan’s Power Push for Bitcoin Mining, AI Data Centers\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/imf-warns-against-pakistans-power-push-for-bitcoin-mining-ai-data-centers/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin Mining",
+        "IMF",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/01075656/1748764616-image-1748763888208_optimized.jpg"
+      },
+      "published": "2025-06-01T10:55:30Z"
+    }
+  },
+  {
+    "hash": "0f34d9f8ca17f49303f8dd795d060ecb77fbe872550040e506bac7df6275ae15",
+    "item": {
+      "title": "SEC Challenges ETF Status of Proposed Staked Solana and Ether Funds",
+      "description": "\u003cp\u003eThe SEC has raised concerns about the structure of proposed Solana (SOL) and Ether (ETH) staked exchange-traded funds (ETFs).\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-challenges-etf-status-of-proposed-staked-solana-and-ether-funds/\"\u003eSEC Challenges ETF Status of Proposed Staked Solana and Ether Funds\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-challenges-etf-status-of-proposed-staked-solana-and-ether-funds/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Crypto ETFs",
+        "ETFs",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/01080434/1748765074-image-1748763914015_optimized.jpg"
+      },
+      "published": "2025-06-01T10:10:35Z"
+    }
   }
 ]
