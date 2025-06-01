@@ -1254,5 +1254,355 @@
       },
       "published": "2025-06-01T10:10:35Z"
     }
+  },
+  {
+    "hash": "6bafbaf014395797211733bb9fda890e3d20f78fb0149e073423bddf92a5b6cb",
+    "item": {
+      "title": "Breaking down why Apple TVs are privacy advocates’ go-to streaming device",
+      "description": "Using the Apple TV app or an Apple account means giving Apple more data, though.\n",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/all-the-ways-apple-tv-boxes-do-and-mostly-dont-track-you/"
+      ],
+      "categories": [
+        "Apple",
+        "Features",
+        "Tech",
+        "ads",
+        "apple",
+        "Apple TV",
+        "Apple TV Plus",
+        "privacy",
+        "streaming",
+        "TVs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/examining-the-apple-tv-1152x648-1747771489.jpg"
+      },
+      "published": "2025-06-01T11:35:43Z"
+    }
+  },
+  {
+    "hash": "b001db2b7b80b042d2a810dde693f00fb8148d3d3b57659baa92312d1c3bf256",
+    "item": {
+      "title": "Research roundup: 7 stories we almost missed",
+      "description": "Ping-pong bots, drumming chimps, picking styles of two jazz greats, and an ancient underground city's soundscape ",
+      "links": [
+        "https://arstechnica.com/science/2025/05/research-roundup-ping-pong-bots-the-genetic-key-for-ginger-cats-and-more/"
+      ],
+      "categories": [
+        "Science",
+        "acoustics",
+        "Archaeology",
+        "architecture",
+        "Biology",
+        "Physics",
+        "primates",
+        "Robotics",
+        "science"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/pingpong1-1152x648-1748366739.jpg"
+      },
+      "published": "2025-05-31T21:37:45Z"
+    }
+  },
+  {
+    "hash": "5f75e21ae7898d6c06e7901b8f3f67ae30a5c386cd1148c89dcde1d01213acc1",
+    "item": {
+      "title": "How I got a Root Shell on a Credit Card Terminal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44150803\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stefan-gloor.ch/yomani-hack"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T13:42:49Z"
+    }
+  },
+  {
+    "hash": "f601d6576e539ec4a23e6090d3137c8b2288b4eb244952070765a65932b9caf8",
+    "item": {
+      "title": "I like Svelte more than React (it's store management)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44149890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://river.berlin/blog/why-i-like-svelte-more-than-react/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T10:35:55Z"
+    }
+  },
+  {
+    "hash": "645896b57fbb98f0142017df46ba41439f88ffb9a10d6586bbac31ffcfebc170",
+    "item": {
+      "title": "Learning from the Amiga API/ABI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44151086\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://asm-basic-coder.neocities.org/rants/amigaapilearn"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T14:21:29Z"
+    }
+  },
+  {
+    "hash": "fc0cccd98a304ad5882d625ebc6aa81b594c7b5059b6e41cad6140c8ed6a153c",
+    "item": {
+      "title": "When Fine-Tuning Makes Sense: A Developer's Guide",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44129495\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-29T19:39:36Z"
+    }
+  },
+  {
+    "hash": "cdd914a43f1f9bb492171973b29f9c48e38ea898e2c9e884b7f68219048b9422",
+    "item": {
+      "title": "A new generation of Tailscale access controls",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44128751\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tailscale.com/blog/grants-ga"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-29T18:23:04Z"
+    }
+  },
+  {
+    "hash": "17da1006d7c08380fcf6544a23b878f5c6bd6d0ad8518d730e78d4f523ee3e54",
+    "item": {
+      "title": "RSC for Lisp Developers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44150081\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://overreacted.io/rsc-for-lisp-developers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T11:19:28Z"
+    }
+  },
+  {
+    "hash": "ab10639c5a9100529727f7f7d52fffe606b30d92bb9ea7605da49030bab7f4d8",
+    "item": {
+      "title": "How I like to install NixOS (declaratively)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44148997\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T06:23:50Z"
+    }
+  },
+  {
+    "hash": "a240aacd3c8c1c9a34835af77ab41d7b9795c71249986ff746e2ae00ddff5cff",
+    "item": {
+      "title": "Structured Errors in Go (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44148734\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://southcla.ws/structured-errors-in-go"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T04:54:24Z"
+    }
+  },
+  {
+    "hash": "2563073da71a2ed5b7c672274f1b80e6ef64d9624d3a09173a622f0281f5fb59",
+    "item": {
+      "title": "YouTube Is Swallowing TV Whole, and It's Coming for the Sitcom",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44151139\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/features/2025-05-28/youtube-creators-compete-with-hollywood-studio-sitcoms"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-01T14:29:53Z"
+    }
+  },
+  {
+    "hash": "1b2f01a7d14c83f6599a0276ac0ca236fb9255d93798f0ae477e62d930b8ce88",
+    "item": {
+      "title": "The Guide to Cloudflare's Durable Objects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44143669\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flaredup.substack.com/p/the-ultimate-guide-to-cloudflares"
+      ],
+      "source": "Hacker News",
+      "published": "2025-05-31T12:00:34Z"
+    }
+  },
+  {
+    "hash": "3ce8231b5d4b39348440a0608a3d70d649ab4331a1c541505a822c1854449803",
+    "item": {
+      "title": "Linux 6.15 Shipped With A Nasty Power Regression For Some Systems",
+      "description": "The Linux 6.15 kernel that shipped as stable last week mistakenly shipped with a nasty CPU power regression for some systems. The issue is now fixed in Linux 6.16 Git and will be fixed shortly in the Linux 6.15 point releases...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.15-nosmt-Power-Regress"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-01T12:11:33Z"
+    }
+  },
+  {
+    "hash": "04306f95b141fd7b958cc1c3cd8e76e384b587695dd28d06b423ed631a5b36a5",
+    "item": {
+      "title": "Solana Price Prediction: With SOL at $154.00 and Pressure Building, Is a Breakout Past Key Resistance Levels on the Horizon?",
+      "description": "\u003cp\u003eSolana price prediction: SOL at $154 faces selling pressure and key resistance at $160+. Will ecosystem growth and technical strength fuel a breakout?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-with-sol-at-154-00-and-pressure-building-is-a-breakout-past-key-resistance-levels-on-the-horizon/\"\u003eSolana Price Prediction: With SOL at $154.00 and Pressure Building, Is a Breakout Past Key Resistance Levels on the Horizon?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-with-sol-at-154-00-and-pressure-building-is-a-breakout-past-key-resistance-levels-on-the-horizon/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/27160555/1748361954-solanas-next-leg-up-one-analyst-thinks-420-is-just-the-beginning-1.jpg"
+      },
+      "published": "2025-06-01T15:01:17Z"
+    }
+  },
+  {
+    "hash": "4d2013c89b6272d33c6a6c692e2c84852a41d59d7517c03cfa321aa4b7cbe0f7",
+    "item": {
+      "title": "XRP Price Prediction: Price Hovering Around $2.16 – Is XRP Building the Strength Needed to Break $3?",
+      "description": "\u003cp\u003eXRP holds at $2.16 amid real estate partnerships and growing CBDC interest. Can it break $3? Key levels, technical trends, and market outlook revealed.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-price-hovering-around-2-16-is-xrp-building-the-strength-needed-to-break-3/\"\u003eXRP Price Prediction: Price Hovering Around $2.16 – Is XRP Building the Strength Needed to Break $3?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-price-hovering-around-2-16-is-xrp-building-the-strength-needed-to-break-3/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/26142342/1748269422-xrp-price-prediction-16b-real-estate-project-goes-live-on-xrp-ledger-500-xrp-coming-soon.jpg"
+      },
+      "published": "2025-06-01T14:45:19Z"
+    }
+  },
+  {
+    "hash": "295e5c45339b526857eeb2c9fc4f666fcf9141af7bd053cb008d318d0fe5ac7f",
+    "item": {
+      "title": "Bitcoin Price Prediction: $104K – BTC Price Correction or Breakout Reloading?",
+      "description": "\u003cp\u003eBitcoin hovers at $104K amid new IRS tax rules and Texas SBR law. Will BTC break out or face deeper correction? Key levels and macro insights.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-104k-btc-price-correction-or-breakout-reloading/\"\u003eBitcoin Price Prediction: $104K – BTC Price Correction or Breakout Reloading?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-104k-btc-price-correction-or-breakout-reloading/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13150120/1747148479-btc.jpg"
+      },
+      "published": "2025-06-01T13:49:54Z"
+    }
+  },
+  {
+    "hash": "bd30684412952a900ef32cff93f51723dd71bce404becb3d1fcbe9205d3f55a4",
+    "item": {
+      "title": "Coinamex Launches to Public with Competitive Rates and Seamless Crypto Lending Experience",
+      "description": "\u003cp\u003e\u003cimg width=\"1395\" height=\"690\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image_2025-05-31_17-27-32.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Coinamex Launches to Public with Competitive Rates and Seamless Crypto Lending Experience\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image_2025-05-31_17-27-32.png 1395w, https://thenewscrypto.com/wp-content/uploads/2025/06/image_2025-05-31_17-27-32-300x148.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image_2025-05-31_17-27-32-1024x506.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/06/image_2025-05-31_17-27-32-768x380.png 768w\" sizes=\"(max-width: 1395px) 100vw, 1395px\" /\u003e\u003c/p\u003eA new player has officially entered the crypto arena. Coinamex, a next-generation digital asset platform, has launched with a bold promise: make crypto lending simple, secure, and rewarding—right from day one. Focused on combining usability with advanced DeFi infrastructure, Coinamex offers users an intuitive way to earn passive income through",
+      "links": [
+        "https://thenewscrypto.com/coinamex-launches-to-public-with-competitive-rates-and-seamless-crypto-lending-experience/"
+      ],
+      "categories": [
+        "Press Release",
+        "Coinamex",
+        "Crypto"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image_2025-05-31_17-27-32.png"
+      },
+      "published": "2025-06-01T06:18:03Z"
+    }
+  },
+  {
+    "hash": "e9472b6f6ff8aedef36b284fdceeb8079b73990176696b865f01c728280b4645",
+    "item": {
+      "title": "The Ultimate 2025 Portfolio: 5 Cryptocurrencies with 10x–50x Potential You Shouldn’t Ignore",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"914\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"The Ultimate 2025 Portfolio: 5 Cryptocurrencies with 10x–50x Potential You Shouldn’t Ignore\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24-1024x585.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24-768x439.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24-1536x877.jpg 1536w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eBuilding a high-performance crypto portfolio in 2025 isn’t about chasing hype—it’s about identifying projects that blend momentum, market relevance, and long-term utility. As the market matures and institutional capital continues pouring in, the next generation of breakout tokens emerges from established giants and under-the-radar disruptors.\u0026#160; With Bitcoin pushing toward new",
+      "links": [
+        "https://thenewscrypto.com/the-ultimate-2025-portfolio-5-cryptocurrencies-with-10x-50x-potential-you-shouldnt-ignore/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-1-24.jpg"
+      },
+      "published": "2025-05-31T18:47:15Z"
+    }
+  },
+  {
+    "hash": "8e75820e745997bfbc58862cee66964244b89e8edf26ea0902bd6d02b87645f3",
+    "item": {
+      "title": "2 Altcoins Under $0.50 Well Positioned to Beat Ripple’s XRP and Ethereum With a 2000% Rally This Summer",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"914\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"2 Altcoins Under $0.50 Well Positioned to Beat Ripple\u0026#039;s XRP and Ethereum With a 2000% Rally This Summer\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37-1024x585.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37-768x439.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37-1536x877.jpg 1536w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eAs Ripple (XRP) and Ethereum (ETH) continue to reign over the cryptocurrency domain, other investors are shifting their strategies towards alternative altcoins. Rexas Finance (RXS) and PEPE are notable tokens expected to achieve a massive spike this summer, both currently under the $0.50 mark.\u0026#160; While XRP and ETH derive value",
+      "links": [
+        "https://thenewscrypto.com/2-altcoins-under-0-50-well-positioned-to-beat-ripples-xrp-and-ethereum-with-a-2000-rally-this-summer/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/unnamed-37.jpg"
+      },
+      "published": "2025-05-31T18:43:46Z"
+    }
   }
 ]
