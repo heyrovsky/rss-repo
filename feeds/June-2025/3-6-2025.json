@@ -2943,5 +2943,891 @@
       },
       "published": "2025-06-03T13:40:52Z"
     }
+  },
+  {
+    "hash": "ec36fa54374d0c6874ed6c1f0295a94441bade0535e18566420efaa44571bb1d",
+    "item": {
+      "title": "The Small World of English",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44170968\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.inotherwords.app/linguabase/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T15:14:52Z"
+    }
+  },
+  {
+    "hash": "ea2bb66a27a8630ac837aed35a42cc20a81daaa0b83799b8a2007090a6ece2a9",
+    "item": {
+      "title": "(On | No) Syntactic Support for Error Handling",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44171677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://go.dev/blog/error-syntax"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T16:18:45Z"
+    }
+  },
+  {
+    "hash": "10ae596ce9746018c6696c1d891a0ba86d7792462f4596436f6b80a378f317fb",
+    "item": {
+      "title": "Show HN: Translate React apps without rewriting code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44172428\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/lingodotdev/lingo.dev"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T17:27:32Z"
+    }
+  },
+  {
+    "hash": "788a47a3d8adb553f15a159c151976077dfebe88ec6b20fd7ae8acb246a07400",
+    "item": {
+      "title": "Swift at Apple: Migrating the Password Monitoring Service from Java",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44172166\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T17:03:13Z"
+    }
+  },
+  {
+    "hash": "611912a70194c107e9559e59e3d418979b94f9481708eb1c44577cd898224d22",
+    "item": {
+      "title": "Morph (YC S23) Is Hiring a ML Engineer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44172144\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44172144"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T17:00:58Z"
+    }
+  },
+  {
+    "hash": "962b0e597d1d0636661c601371c368b2a64648d7c8ec510c7d4bffd4d1c06282",
+    "item": {
+      "title": "The Shape of the Essay Field",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44168201\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://paulgraham.com/field.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T09:55:55Z"
+    }
+  },
+  {
+    "hash": "80080f1659e35e24be9668bbb5b34131ff1da1cf70a71658bdb5b5788c618fb4",
+    "item": {
+      "title": "Show HN: PinSend – Share text between devices using a PIN(P2P, no login)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44170657\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pinsend.app"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T14:41:47Z"
+    }
+  },
+  {
+    "hash": "05550ca61554c18fa297e2f30023e1dfc9944a4913117694da647b98f6c62738",
+    "item": {
+      "title": "Vision Language Models Are Biased",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44169413\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vlmsarebiased.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T12:47:30Z"
+    }
+  },
+  {
+    "hash": "a8c28cfca6c9bb6f10c28f51ab5bd5e750054efa6736694216a07b779e2a47f0",
+    "item": {
+      "title": "Show HN: Ultra-lightweight chunker library with emoji support",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44172017\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ushakov-igor/chonkify"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T16:50:29Z"
+    }
+  },
+  {
+    "hash": "5ff3a547172fe32a69d49219b2d6f73eb92a629f9a163f87ad0c536ea2c9db31",
+    "item": {
+      "title": "The initial version of the /etc./magic file used by the file(1) command",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44171581\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://retrocomputing.stackexchange.com/questions/31722/where-can-i-find-the-initial-version-of-the-etc-magic-file-used-by-the-file1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-03T16:10:35Z"
+    }
+  },
+  {
+    "hash": "79a77e96609bc6dd0d721514f0529be64310cfcabd8217592f63a5885a8da307",
+    "item": {
+      "title": "Linux 6.16 Brings Many Laptop Driver Improvements, New Dasharo ACPI Driver",
+      "description": "The wide assortment of x86 platform driver updates have been merged for the Linux 6.16 kernel due out as stable in July. As is usually the case, there are a number of Intel and AMD platform updates along with a wide assortment of driver improvements primarily for laptops from the major OEMs/ODMs...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-Platform-Drivers-x86"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-03T16:09:35Z"
+    }
+  },
+  {
+    "hash": "f57c37e4089f1caefe94c582eaef4c5de27b16a73a4dc037191b4a4026e4ed4d",
+    "item": {
+      "title": "Can Mubarak Continue Its Upward Trend After Rallying 19% In Recent Sessions?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Mubarak-price-analysis-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Mubarak Continue Its Upward Trend After Rallying 19% In Recent Sessions?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Mubarak-price-analysis-3.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Mubarak-price-analysis-3-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Mubarak-price-analysis-3-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA moderate bullish momentum is spreading across the crypto market, pushing the market cap to the range of $3.32 trillion. Persistent buying pressure has the potential to lift prices to new highs. Among the altcoins, MUBARAK has followed suit, registering a solid surge of over 19.24% within the last 24",
+      "links": [
+        "https://thenewscrypto.com/can-mubarak-continue-its-upward-trend-after-rallying-19-in-recent-sessions/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Meme Coin",
+        "Mubarak"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Mubarak-price-analysis-3.jpg"
+      },
+      "published": "2025-06-03T13:48:14Z"
+    }
+  },
+  {
+    "hash": "d67edb7bf01dbe0a8e94efe01f55b7cebee149355d1aebd0bb27a290b518be30",
+    "item": {
+      "title": "Binance Continues to Lead Crypto Market With 59% Stablecoin Reserve",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Binance-Holds-59-of-Stablecoin-Reserve.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Continues to Lead Crypto Market With 59% Stablecoin Reserve\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Binance-Holds-59-of-Stablecoin-Reserve.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Binance-Holds-59-of-Stablecoin-Reserve-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Binance-Holds-59-of-Stablecoin-Reserve-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBinance continues to deepen its roots in the crypto market with each passing year. A recent statistics report by an on-chain data and analytics provider, CryptoQuant, further confirms Binance’s unbeatable role in the crypto market. User-friendly trading services, high liquidity, and transparency are the major highlights driving Binance adoption.\u0026#160; CryptoQuant",
+      "links": [
+        "https://thenewscrypto.com/binance-continues-to-lead-crypto-market-with-59-stablecoin-reserve/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Market Updates",
+        "Binance",
+        "CryptoQuant",
+        "Stablecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Binance-Holds-59-of-Stablecoin-Reserve.jpg"
+      },
+      "published": "2025-06-03T13:47:43Z"
+    }
+  },
+  {
+    "hash": "690bf370e6e28022f38dc2949024e85b658814595afac50f225f60f7e51b5b17",
+    "item": {
+      "title": "Paris-Based Blockchain Group Accumulates 1,471 BTC as Institutional Demand Surges",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Blockchain_Group_adds_68M_in_Bitcoin_to_corporate_treasury.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Blockchain Group\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Blockchain_Group_adds_68M_in_Bitcoin_to_corporate_treasury.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Blockchain_Group_adds_68M_in_Bitcoin_to_corporate_treasury-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Blockchain_Group_adds_68M_in_Bitcoin_to_corporate_treasury-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eParis-based Blockchain Group has purchased $68.7 million worth of Bitcoin, bringing its total holdings to 1,471 BTC. The acquisition reflects the growing interest among European institutions in adopting crypto as a strategic treasury asset. The firm’s recent purchase of 624 BTC was made for €60.2 million ($68.7 million). Announced via",
+      "links": [
+        "https://thenewscrypto.com/paris-based-blockchain-group-accumulates-1471-btc-as-institutional-demand-surges/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Harshini Chakka"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Blockchain_Group_adds_68M_in_Bitcoin_to_corporate_treasury.jpg"
+      },
+      "published": "2025-06-03T13:18:54Z"
+    }
+  },
+  {
+    "hash": "2e4c8244aefc7c5c5873f149c56306bd4432b3d243d9bf847ee8c9e7eab6b18e",
+    "item": {
+      "title": "Massive Bitcoin Transfer by Tether and Bitfinex Raises Eyebrows",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Tether_and_Bitfinex_Move_25812_Bitcoin_to_Twenty_One_Capital.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Massive Bitcoin Transfer by Tether and Bitfinex Raises Eyebrows\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Tether_and_Bitfinex_Move_25812_Bitcoin_to_Twenty_One_Capital.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Tether_and_Bitfinex_Move_25812_Bitcoin_to_Twenty_One_Capital-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Tether_and_Bitfinex_Move_25812_Bitcoin_to_Twenty_One_Capital-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTether and Bitfinex have made their appearance in a huge transfer of 25,812 Bitcoins to Twenty One Capital. The total value is nearly $1.5 billion. This transaction is seen as one of the largest BTC transfers in recent history, raising eyebrows and questions about it.  This transfer is definitely turning",
+      "links": [
+        "https://thenewscrypto.com/massive-bitcoin-transfer-by-tether-and-bitfinex-raises-eyebrows/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Bitfinex",
+        "Tether"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Tether_and_Bitfinex_Move_25812_Bitcoin_to_Twenty_One_Capital.jpg"
+      },
+      "published": "2025-06-03T13:13:07Z"
+    }
+  },
+  {
+    "hash": "455a3e4fcdf91dd1048ea2cb1ab1a14e72e218cb61dd9215a1951c302c61fcad",
+    "item": {
+      "title": "QuantHive.AI Officially Debuts with Real-Time AI Trading Signals from Profitable Wallets",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"QuantHive.AI Officially Debuts with Real-Time AI Trading Signals from Profitable Wallets\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith its official launch, QuantHive.AI, a multi-chain DEX aggregator, provides real-time, AI-driven trading recommendations derived from the real-time actions of reliably profitable wallets on many major blockchains. QuantHive.AI prioritizes repeatable signal creation above speculative token patterns in order to provide traders with improved trading techniques. Operating across\u0026#160;SUI, Ethereum, Arbitrum, Base, BNB",
+      "links": [
+        "https://thenewscrypto.com/quanthive-ai-officially-debuts-with-real-time-ai-trading-signals-from-profitable-wallets/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-06-03T13:00:00Z"
+    }
+  },
+  {
+    "hash": "123e57001e8862872977bcc56f99437ba4100ead2f8f895929fa94e354997c71",
+    "item": {
+      "title": "Hot Cryptos: 4 Tokens That May Give Returns Between 1200-3500% in 100 Days",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-7.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-7.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-7-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-7-768x437.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eIt’s almost time for another exciting breakthrough in crypto! Salamanca (DON) is bringing a lot of excitement to the Binance Smart Chain (BSC) as a bold new meme coin. Unlike most other tokens, $DON offers exciting rewards, thanks to an active community and a speedy roadmap. DON could offer up",
+      "links": [
+        "https://thenewscrypto.com/hot-cryptos-4-tokens-that-may-give-returns-between-1200-3500-in-100-days/"
+      ],
+      "categories": [
+        "Press Release",
+        "Salamanca (DON)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-7.jpg"
+      },
+      "published": "2025-06-03T12:50:00Z"
+    }
+  },
+  {
+    "hash": "86c975e5339c7169304067e99da90764b1804808e07303767fc4b84f553c365f",
+    "item": {
+      "title": "Qubetics Presale Explodes Past $17.6M—Is This the Best Crypto To Invest in June 2025 Alongside BNB and Bitcoin?",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-1.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-1-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-1-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eBitcoin\u0026#8217;s recent market movements have drawn the attention of analysts and digital finance participants alike. After closing below the crucial $106,406 support level, BTC declined by 1.50%, later stabilizing around $105,000. Technical indicators now reveal fading bullish momentum, with RSI drifting toward neutral at 53 and MACD flashing a bearish",
+      "links": [
+        "https://thenewscrypto.com/qubetics-presale-explodes-past-17-6m-is-this-the-best-crypto-to-invest-in-june-2025-alongside-bnb-and-bitcoin/"
+      ],
+      "categories": [
+        "Press Release",
+        "Qubetics ($TICS)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-1.png"
+      },
+      "published": "2025-06-03T12:45:00Z"
+    }
+  },
+  {
+    "hash": "f4287d50181f6072932b9124045d9271bf6d7c440a0aa85b241a9f1a0757b0ee",
+    "item": {
+      "title": "The $114 Billion Lie: Bots Broke the Internet and Gaming Might Be the One to Save It",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"284\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-4.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"The $114 Billion Lie: Bots Broke the Internet and Gaming Might Be the One to Save It\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-4.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-4-300x166.png 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eIn 2025, much of what we see online may not be real. That includes followers, likes, comments, and views. According to Juniper Research, more than $114 billion in digital ad spend is expected to be lost this year to fake engagement. Bots and AI agents now drive over half of",
+      "links": [
+        "https://thenewscrypto.com/the-114-billion-lie-bots-broke-the-internet-and-gaming-might-be-the-one-to-save-it/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Gaming"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-4.png"
+      },
+      "published": "2025-06-03T12:29:22Z"
+    }
+  },
+  {
+    "hash": "1443f04873c7bf5b94407306f4f0ba57fb3c60e9a866e68d86c516004814c477",
+    "item": {
+      "title": "Ripple’s RLUSD Approved by Dubai Regulator as Recognized Crypto Token",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/RLUSD_Approved_by_the_Dubai_Financial_Services_Authority_as_Recognised.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ripple’s RLUSD Approved by Dubai Regulator as Recognized Crypto Token\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/RLUSD_Approved_by_the_Dubai_Financial_Services_Authority_as_Recognised.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/RLUSD_Approved_by_the_Dubai_Financial_Services_Authority_as_Recognised-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/RLUSD_Approved_by_the_Dubai_Financial_Services_Authority_as_Recognised-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eRipple is gradually strengthening its position in the crypto market by focusing on global expansion. Its 4-year-long lawsuit with the SEC came to an end after Trump’s presidency, and the project is witnessing growth and expansion across countries. Today marked a big milestone for Ripple as its native stablecoin, RLUSD,",
+      "links": [
+        "https://thenewscrypto.com/ripples-rlusd-approved-by-dubai-regulator-as-recognized-crypto-token/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Dubai",
+        "Ripple",
+        "RLUSD",
+        "Stablecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Manisha Ailneni"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/RLUSD_Approved_by_the_Dubai_Financial_Services_Authority_as_Recognised.jpg"
+      },
+      "published": "2025-06-03T12:19:46Z"
+    }
+  },
+  {
+    "hash": "ee66406c516504bbf89f78d1a28c4621e7b711d8d5a162969c667307f3d2bb88",
+    "item": {
+      "title": "Ethereum Price Forecast: ETH Rally Could Hit a Pause Soon, While AI Forecasts 3x Move for This Coin in 3 Days",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-6.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-6-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-6-768x437.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eAs some Ethereum bulls face resistance, another cryptocurrency is rising rapidly — Salamanca (DON). While benefiting from the meme trend, this token on the BSC is helping to lead a revolution fueled by its community. Since the DON price per unit is $0.001314 and trading volume hovers at $4.86 million",
+      "links": [
+        "https://thenewscrypto.com/ethereum-price-forecast-eth-rally-could-hit-a-pause-soon-while-ai-forecasts-3x-move-for-this-coin-in-3-days/"
+      ],
+      "categories": [
+        "Press Release",
+        "Salamanca (DON)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-6.jpg"
+      },
+      "published": "2025-06-03T11:44:00Z"
+    }
+  },
+  {
+    "hash": "0aa3dddfc3a3736aa4f1fbf3f994bb219bb0c4f2820b255aaff3de46f2b2ac6d",
+    "item": {
+      "title": "Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack",
+      "description": "Threat hunters are alerting to a new campaign that employs deceptive websites to trick unsuspecting users into executing malicious PowerShell scripts on their machines and infect them with the NetSupport RAT malware.\nThe DomainTools Investigations (DTI) team said it identified \"malicious multi-stage downloader Powershell scripts\" hosted on lure websites that masquerade as Gitcode and DocuSign.\n\"",
+      "links": [
+        "https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLNENpdsB0Pqp0I5iQ4s5zrozDrgByxfk-yDFOxmin2fclguJsn69wAWQONtUhmISdg7jRUl3qbe1GUexK4oCgYLswA9D29DPhnGNRf5JTeusPsnG0qoguazIjK2YpfLROoDyYpbR8DEKvaRBqIN8O9joqY3zC_yTJz4q2ZGW7mZW4fW-kheuCGsQrKizo/s1600/power.jpg"
+      },
+      "published": "2025-06-03T15:00:00Z"
+    }
+  },
+  {
+    "hash": "97d3bfe648131a5f9f7d512ff1b3a843bb12e1a2b57959fbfc6fa4213eebf402",
+    "item": {
+      "title": "Shopper denied $51 refund for 20TB HDD that’s mostly a weighted plastic box",
+      "description": "Customer told Ars that the website wouldn't offer a full refund.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/man-buys-20tb-portable-hdd-for-51-son-breaks-the-news-that-its-a-fake/"
+      ],
+      "categories": [
+        "Tech",
+        "hard drive",
+        "hdd",
+        "Storage",
+        "toshiba"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Toshiba-USB-3.0-Mobile-Hrad-drive_IMG_1589-1152x648-1748968271.jpeg"
+      },
+      "published": "2025-06-03T17:33:18Z"
+    }
+  },
+  {
+    "hash": "3ac847427f12db95fd6f4c80eeaf296f18073141bcc5773a8533de92b96f432d",
+    "item": {
+      "title": "Adobe finally releases Photoshop for Android, and it’s free (for now)",
+      "description": "After releasing Photoshop for iPhone in February, the promised Android version is here.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/adobe-finally-releases-photoshop-for-android-and-its-free-for-now/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "Adobe",
+        "Adobe Photoshop",
+        "android",
+        "apps",
+        "smartphones"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Photoshop-android-1-1152x648.jpg"
+      },
+      "published": "2025-06-03T16:36:23Z"
+    }
+  },
+  {
+    "hash": "cf455dddd7e6d9505e1fcf45665be3e076c0102ae5fc31ab09b44a915b9d1f23",
+    "item": {
+      "title": "Some parts of Trump’s proposed budget for NASA are literally draconian",
+      "description": "\"That's exactly the kind of thing that NASA should be concentrating its resources on.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/06/some-parts-of-trumps-proposed-budget-for-nasa-are-literally-draconian/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "darpa",
+        "DRACO",
+        "NASA",
+        "nasa budget",
+        "nuclear thermal propulsion",
+        "White House"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/lm_draco-1152x648-1748962882.jpg"
+      },
+      "published": "2025-06-03T16:25:17Z"
+    }
+  },
+  {
+    "hash": "3e5ee45a196469a768d18896546815edef452315469d925ff31603143b11399d",
+    "item": {
+      "title": "11 things you probably didn’t know the Switch 2 can do",
+      "description": "Our first quick dive into the system-level settings and the new GameChat multiplayer.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/06/11-things-you-probably-didnt-know-the-switch-2-can-do/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/s2-5-1152x648.jpg"
+      },
+      "published": "2025-06-03T14:48:37Z"
+    }
+  },
+  {
+    "hash": "1550b03811ac1d159731c3e35eded0f75d21c1e225c09bc4deeba67fd7370854",
+    "item": {
+      "title": "“Godfather” of AI calls out latest models for lying to users",
+      "description": "Turing Award-winner Yoshua Bengio warns recent models display dangerous characteristics.",
+      "links": [
+        "https://arstechnica.com/ai/2025/06/godfather-of-ai-calls-out-latest-models-for-lying-to-users/"
+      ],
+      "categories": [
+        "AI",
+        "ChatGPT",
+        "gemini",
+        "LLMs",
+        "syndication",
+        "Turing award",
+        "Yoshua Bengio"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Cristina Criddle, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/bengio-1152x648.jpg"
+      },
+      "published": "2025-06-03T14:35:01Z"
+    }
+  },
+  {
+    "hash": "0bf44d86e22c754c787447de5908747d4f96d4f280beabaf49bbc061cec5fbaf",
+    "item": {
+      "title": "“Free Roam” mode is Mario Kart World’s killer app",
+      "description": "Equal parts \u003cem\u003eForza Horizon\u003c/em\u003e, \u003cem\u003eDiddy Kong Racing\u003c/em\u003e, and \u003cem\u003eTony Hawk's Pro Skater\u003c/em\u003e.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/06/free-roam-mode-is-mario-kart-worlds-killer-app/"
+      ],
+      "categories": [
+        "Gaming",
+        "Mario Kart",
+        "mario kart world"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/mkw2-1152x648.jpg"
+      },
+      "published": "2025-06-03T14:00:28Z"
+    }
+  },
+  {
+    "hash": "25087272d3a976dde107c5b2fc9451211a4debcf4593b826d5636773f47f41ac",
+    "item": {
+      "title": "325+ Wallets, One Checkout: How SpacePay Simplifies Crypto Spending",
+      "description": "\u003cp\u003eSpacePay simplifies crypto payments by supporting over 325 wallets with a single checkout system, offering 0.5% fees and instant fiat settlements for merchants worldwide.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/how-spacepay-simplifies-crypto-spending/\"\u003e325+ Wallets, One Checkout: How SpacePay Simplifies Crypto Spending\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/how-spacepay-simplifies-crypto-spending/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$spy",
+        "spacepay"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03180516/how-spacepay-simplifies-crypto-spending.jpg"
+      },
+      "published": "2025-06-03T18:06:33Z"
+    }
+  },
+  {
+    "hash": "269bb173835595fca7acdc86494920ca2a309e65ee82e11c4b617eef068e163b",
+    "item": {
+      "title": "HashFly Cloud Mining 2025: Trusted AI Mining Platform for Bitcoin and Dogecoin",
+      "description": "\u003cp\u003eFor crypto investors seeking a smarter, safer, and simpler way to earn Bitcoin and Dogecoin in 2025, HashFly offers an advanced AI-driven cloud mining platform.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/hashfly-cloud-mining-2025-trusted-ai-mining-platform-bitcoin-dogecoin/\"\u003eHashFly Cloud Mining 2025: Trusted AI Mining Platform for Bitcoin and Dogecoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/hashfly-cloud-mining-2025-trusted-ai-mining-platform-bitcoin-dogecoin/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin",
+        "Dogecoin",
+        "hashfly"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03174324/hashfly-cloud-mining-2025-trusted-ai-mining-platform-bitcoin-dogecoin.jpg"
+      },
+      "published": "2025-06-03T17:43:54Z"
+    }
+  },
+  {
+    "hash": "f097e1b5446e395aa00c38e6a448a4b3bf4f18d8acbf2a26e6239ea719d8a579",
+    "item": {
+      "title": "Moonpig Crypto Blasts Up 8% as New Early Access Solana Bot Prepares to Launch",
+      "description": "\u003cp\u003eMeme coin speculators are labelling month-old Moonpig the next one to watch, and citing its position 70% below all-time highs as a reference point for a reversal.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/moonpig-crypto-blasts-up-8-as-new-early-access-solana-bot-prepares-to-launch/\"\u003eMoonpig Crypto Blasts Up 8% as New Early Access Solana Bot Prepares to Launch \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/moonpig-crypto-blasts-up-8-as-new-early-access-solana-bot-prepares-to-launch/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme coin",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03170602/1748970361-moonpig-crypto-blasts-up-8-as-new-early-access-solana-bot-prepares-to-launch.jpg"
+      },
+      "published": "2025-06-03T17:27:15Z"
+    }
+  },
+  {
+    "hash": "52330794a8bdcd38b9163107bf71a655edf3343604deb246a7450afa00b90d61",
+    "item": {
+      "title": "MIND of Pepe Lists at 2pm UTC – Next AI Crypto Token to Explode Like VIRTUAL for 250x Profits",
+      "description": "\u003cp\u003eMIND of Pepe has begun trading today at 2 pm UTC, pricing tokens at $0.0037515 after a $12.5 million presale. The project has launched its autonomous AI agent on X and opened staking that yields up to 195% annually, with audit reports from Coinsult and SolidProof published.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/mind-of-pepe-lists-ai-meme-coin-250x-returns/\"\u003eMIND of Pepe Lists at 2pm UTC – Next AI Crypto Token to Explode Like VIRTUAL for 250x Profits \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/mind-of-pepe-lists-ai-meme-coin-250x-returns/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "MIND of Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03171352/1748970831-unnamed-60-1.jpg"
+      },
+      "published": "2025-06-03T17:23:01Z"
+    }
+  },
+  {
+    "hash": "2f38e53d1bebea6f3cd5d4a4f88efb9ecd777da1657d79647625e4e2d629ff57",
+    "item": {
+      "title": "Can SHIB Still 10x in 2025? Token Burn and ShibOS May Be the Catalyst",
+      "description": "\u003cp\u003eSHIB has jumped by 2.5% today, but could a rumored token burn and the upcoming ShibOS send it flying very soon?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/can-shib-still-10x-in-2025-token-burn-and-shibos-may-be-the-catalyst/\"\u003eCan SHIB Still 10x in 2025? Token Burn and ShibOS May Be the Catalyst\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/can-shib-still-10x-in-2025-token-burn-and-shibos-may-be-the-catalyst/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "Price Prediction",
+        "SHIB"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03143416/1748961255-can-shib-still-10x-in-2025-token-burn-and-shibos-may-be-the-catalyst.jpg"
+      },
+      "published": "2025-06-03T17:15:45Z"
+    }
+  },
+  {
+    "hash": "0e32a00b788645fea2c768a3a41f5bfc993b85a19ccc9bb1d601820970bb3b6f",
+    "item": {
+      "title": "Snorter Token Turns Telegram into the Fastest Crypto Trading Terminal on Solana, Zooms Past $350,000 in Presale",
+      "description": "\u003cp\u003eSnorter token presale across Solana and Ethereum has exceeded $350k, showing interest in its Telegram trading bot. Custom RPCs deliver sub-second swaps at 0.85% fees while contract scans flag honeypots; automation covers snipes, stop-losses, and plans extend to BNB Chain, Polygon, Base.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/snorter-token-telegram-solana-bot-350k-presale/\"\u003eSnorter Token Turns Telegram into the Fastest Crypto Trading Terminal on Solana, Zooms Past $350,000 in Presale \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/snorter-token-telegram-solana-bot-350k-presale/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03165902/1748969942-unnamed-59-1.png"
+      },
+      "published": "2025-06-03T17:08:48Z"
+    }
+  },
+  {
+    "hash": "206d451f3fd34f98fafde04d1f6a57950a71820066c9466eb9d62b9cdcf7a0a7",
+    "item": {
+      "title": "Trump Price Prediction as Symmetrical Triangle Breaks Down – How Quickly Can TRUMP Crash?",
+      "description": "\u003cp\u003eThe TRUMP price has crept up to $11.24 today, but does the break down of a triangle pattern mean that the coin is about to crash?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-price-prediction-as-symmetrical-triangle-breaksdown-how-quickly-can-trump-crash/\"\u003eTrump Price Prediction as Symmetrical Triangle Breaks Down – How Quickly Can TRUMP Crash?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-price-prediction-as-symmetrical-triangle-breaksdown-how-quickly-can-trump-crash/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Donald Trump",
+        "Price Prediction",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/24120357/1745496237-1742795658-trump-memecoin_optimized.jpg"
+      },
+      "published": "2025-06-03T17:05:47Z"
+    }
+  },
+  {
+    "hash": "a6e7cf4b27a1e6b030d0047d082c11ea75531a489b774cb78c98669f5442740f",
+    "item": {
+      "title": "Fartcoin Price Prediction: Breakdown From Bear Pattern Could Trigger Steeper Crash",
+      "description": "\u003cp\u003eFartcoin is losing its position as the meme coin of choice among speculative traders, with a long-brewing bear signal hinting at steeper losses.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fartcoin-price-crash-could-steepen-with-bear-pattern-breakdown/\"\u003eFartcoin Price Prediction: Breakdown From Bear Pattern Could Trigger Steeper Crash\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fartcoin-price-crash-could-steepen-with-bear-pattern-breakdown/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Fartcoin",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03140810/1748959689-fartcoin-1.jpg"
+      },
+      "published": "2025-06-03T16:59:36Z"
+    }
+  },
+  {
+    "hash": "b5422275c98e651b5aae912bd95f2ac49d65a89c4e2635939c57d297f2b45c1d",
+    "item": {
+      "title": "$POPCAT Explodes Past $400M Market Cap – Analysts Say $1 Is Back on the Table",
+      "description": "\u003cp\u003ePopcat has added 15%, trading near $0.42 after reclaiming its 100-day moving average and lifting its value above $2 billion, narrowing the gap with DogWifHat. Analysts say a move beyond $0.53 could extend toward $0.64, and possibly $1, provided support around $0.25 stays intact.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/popcat-explodes-past-400m-market-cap-analysts-say-1-is-back-on-the-table/\"\u003e$POPCAT Explodes Past $400M Market Cap – Analysts Say $1 Is Back on the Table\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/popcat-explodes-past-400m-market-cap-analysts-say-1-is-back-on-the-table/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme coin",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03152459/1748964298-1745500187-popcat.jpg"
+      },
+      "published": "2025-06-03T16:51:23Z"
+    }
+  },
+  {
+    "hash": "d4d246c22ee8514298d9e32e26106a810af645ac808335ffd08f3d77ed35d393",
+    "item": {
+      "title": "Binance Dominates Crypto Liquidity with Largest Stablecoin Reserves: CryptoQuant",
+      "description": "\u003cp\u003eBinance has dominated stablecoin liquidity in 2025, holding $31 billion in USDT and USDC—59% of exchange reserves. CryptoQuant says it has drawn $180 billion in stablecoin inflows and the largest average Bitcoin deposits, while publicly verified Proof-of-Reserves has reinforced user confidence.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-dominates-crypto-liquidity-with-largest-stablecoin-reserves-cryptoquant/\"\u003eBinance Dominates Crypto Liquidity with Largest Stablecoin Reserves: CryptoQuant\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-dominates-crypto-liquidity-with-largest-stablecoin-reserves-cryptoquant/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Binance",
+        "CryptoQuant",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/09070523/1746462408-1744041753-binance-logo___media_library_original_6000_4000_optimized-1536x1024-1-1.webp"
+      },
+      "published": "2025-06-03T16:20:14Z"
+    }
+  },
+  {
+    "hash": "810166525cbf1d78a77f824b976b50b504333a6f9fa1cbb59874be0e4df3fc6d",
+    "item": {
+      "title": "Ripple Scores Key Regulatory Win in the Middle East – Here’s What It Means for RLUSD",
+      "description": "\u003cp\u003eRLUSD stablecoin has won simultaneous clearance from Dubai’s DFSA and New York’s NYDFS, giving Ripple a regulatory edge in the $160 billion stablecoin sector. The approval has allowed 7,000 DIFC firms to route low-cost cross-border payments, while growing UAE demand challenges Tether’s dominance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-scores-key-regulatory-win-in-the-middle-east-heres-what-it-means-for-rlusd/\"\u003eRipple Scores Key Regulatory Win in the Middle East – Here\u0026#8217;s What It Means for RLUSD\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-scores-key-regulatory-win-in-the-middle-east-heres-what-it-means-for-rlusd/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Ripple",
+        "UAE"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03143359/1748961238-image-1748958389408_optimized-1.webp"
+      },
+      "published": "2025-06-03T15:29:35Z"
+    }
+  },
+  {
+    "hash": "0f72e14651162d305d97a36fe3c5e2a8b1616daa8faa6bd7f061724c9e832f02",
+    "item": {
+      "title": "Proof of Talk 2025 Reveals Star-Studded Speaker Lineup Ahead of Paris Event",
+      "description": "\u003cp\u003eBarry Silbert, Cathie Wood, and Stani Kulechov Join High-Profile Speakers at Web3’s Flagship Gathering.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/proof-of-talk-2025-reveals-star-studded-speaker-lineup/\"\u003eProof of Talk 2025 Reveals Star-Studded Speaker Lineup Ahead of Paris Event\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/proof-of-talk-2025-reveals-star-studded-speaker-lineup/"
+      ],
+      "categories": [
+        "Press Releases",
+        "proof of talk"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/03151445/proof-of-talk-2025-reveals-star-studded-speaker-lineup.jpg"
+      },
+      "published": "2025-06-03T15:15:33Z"
+    }
   }
 ]
