@@ -1,0 +1,371 @@
+[
+  {
+    "hash": "531298741f0f470c10ea0b3b59a11e65c6e680e296551e75fcaf73928b1f4b34",
+    "item": {
+      "title": "Senate response to White House budget for NASA: Keep SLS, nix science",
+      "description": "Gateway is back, baby.",
+      "links": [
+        "https://arstechnica.com/space/2025/06/senate-response-to-white-house-budget-for-nasa-keep-sls-nix-science/"
+      ],
+      "categories": [
+        "Space",
+        "budget",
+        "NASA",
+        "Senate",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg"
+      },
+      "published": "2025-06-05T23:55:32Z"
+    }
+  },
+  {
+    "hash": "ff8f2410ffdc8360d9899a0c0b3903a569ef064adca85306939e118c6a7d47ca",
+    "item": {
+      "title": "[$] Zero-copy for FUSE",
+      "description": "In a combined storage and filesystem session at the 2025 Linux Storage,\nFilesystem, Memory Management, and BPF Summit (LSFMM+BPF), Keith Busch led\na discussion about zero-copy operations for the \u003ca\nhref=\"https://github.com/libfuse/libfuse?tab=readme-ov-file#libfuse\"\u003eFilesystem\nin Userspace\u003c/a\u003e (FUSE) subsystem.  The session was \u003ca\nhref=\"https://lwn.net/ml/all/dc3a5c7d-b254-48ea-9749-2c464bfd3931@davidwei.uk/\"\u003eproposed\u003c/a\u003e\nby his colleague, David Wei, who could not make it to the summit, so Busch\nfilled in, though he noted that \"\u003cq\u003eI do not really know FUSE so\nwell\u003c/q\u003e\".  The idea is to eliminate data copies in the data path to and\nfrom the FUSE server in user space.",
+      "links": [
+        "https://lwn.net/Articles/1023689/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-06-05T22:12:29Z"
+    }
+  },
+  {
+    "hash": "f9528e573741236ae0d01254909a19dca4e68f3e3e9f70fea1aef381f7927392",
+    "item": {
+      "title": "Tokasaurus: An LLM Inference Engine for High-Throughput Workloads",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44195961\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scalingintelligence.stanford.edu/blogs/tokasaurus/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T21:27:07Z"
+    }
+  },
+  {
+    "hash": "4acdf534f9a60c51aba40ee51c28f6bee3860aa5eff07d9191535fee61b45da6",
+    "item": {
+      "title": "Show HN: Claude Composer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196417\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/possibilities/claude-composer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T22:53:21Z"
+    }
+  },
+  {
+    "hash": "735598bdd7ebc5ac08ff57bb14d3bba278623a74bd1a3dc6e445fe0999515930",
+    "item": {
+      "title": "APL Interpreter – An implementation of APL, written in Haskell (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44195931\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scharenbroch.dev/projects/apl-interpreter/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T21:22:24Z"
+    }
+  },
+  {
+    "hash": "e4993f09e32594bc76d1f3a19de462ceb81d0cdc10506302b5f1104b68560cae",
+    "item": {
+      "title": "Machine Learning: The Native Language of Biology",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196410\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://decodingbiology.substack.com/p/machine-learning-the-native-language"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T22:51:52Z"
+    }
+  },
+  {
+    "hash": "8ca0440e3ce46b30fdb1c8fadfc6c2437e7922396cd954f1137b704c60bdb37f",
+    "item": {
+      "title": "Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196433\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://masonyarbrough.com/blog/ask-human"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T22:57:16Z"
+    }
+  },
+  {
+    "hash": "2df172e40b24c338b173373d2f8230af50310d9e468eede06eca1a3414dc0614",
+    "item": {
+      "title": "What a developer needs to know about SCIM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196393\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T22:48:21Z"
+    }
+  },
+  {
+    "hash": "a1eabab07cdd01bd73e587e7551cee72c4f2616b88ad63a68de37d4602e109a2",
+    "item": {
+      "title": "SkyRoof: New Ham Satellite Tracking and SDR Receiver Software",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44194859\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T19:15:41Z"
+    }
+  },
+  {
+    "hash": "671de47cad970aa2dc0cfb0d3fe62d6ad96ba4342acf98398851ac2faec0b62c",
+    "item": {
+      "title": "I Do Not Remember My Life and It's Fine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196576\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T23:26:19Z"
+    }
+  },
+  {
+    "hash": "519b2e65da56a92c2c42fc8ad33c0ad901c898ca43e23678a80c2f8007c83a81",
+    "item": {
+      "title": "Show HN: Lambduck, a Functional Programming Brainfuck",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196589\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://imjakingit.github.io/lambduck/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T23:29:35Z"
+    }
+  },
+  {
+    "hash": "8ca3ffda6fe9444a8d77fcc1ad89478bf3060a3860885a7533a0ea6f3106f4ba",
+    "item": {
+      "title": "ICANN fee price hike by 11% [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44194014\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T17:54:07Z"
+    }
+  },
+  {
+    "hash": "f66d652ed13c2795353388ef0031945a6489c4166cccb58f00e4402d6b3191f5",
+    "item": {
+      "title": "Anthropic co-founder on cutting access to Windsurf",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196807\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-06T00:24:43Z"
+    }
+  },
+  {
+    "hash": "e6b8c3dbaf78d01123a6ed2bb082d5a73590a6072ac6ffd5b210da2dc6a09bf9",
+    "item": {
+      "title": "How Common Is Multiple Invention?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44195783\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.construction-physics.com/p/how-often-do-inventions-have-multiple"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T21:06:39Z"
+    }
+  },
+  {
+    "hash": "3c32d778df471806d9548d4ebc2820ef47faefd325602fcb2ee2316bb692fa54",
+    "item": {
+      "title": "Show HN: String Flux – Simplify everyday string transformations for developers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44196211\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stringflux.io"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T22:05:43Z"
+    }
+  },
+  {
+    "hash": "8a2b1a9e428511f59d52e176b3c1d596333ce2c7a38c1b08e94e643641b6539c",
+    "item": {
+      "title": "Mesa's Rusticl Lands OpenCL FP16 Half-Float Support",
+      "description": "Mesa's modern Rust-written OpenCL driver for Gallium3D \"Rusticl\" has closed one of the few remaining gaps with the former Clover OpenCL state tracker. Merged today for Mesa 25.2 is native FP16 support...",
+      "links": [
+        "https://www.phoronix.com/news/Rusticl-Mesa-25.2-FP16"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-06T00:11:16Z"
+    }
+  },
+  {
+    "hash": "9cb2690e3d32feb763adcf735497119eaadebee39f5057c43a11e520361fe7ec",
+    "item": {
+      "title": "Crypto Is ‘The Future,’ House Financial Services Oversight Subcommittee Chair Says",
+      "description": "\u003cp\u003eCongressman Bill Huizenga (R-MI) said digital assets are “the future” while discussing potential crypto policy during a key House Financial Services Committee hearing on Wednesday.HFSC Holds Critical Crypto Hearing Amid Policy Talks Titled “American Innovation and the Future of Digital Assets: From Blueprint to a Functional Framework,” the June 4 hearing widely focused on concerns [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-is-the-future-house-financial-services-oversight-subcommittee-chair-says/\"\u003eCrypto Is \u0026#8216;The Future,\u0026#8217; House Financial Services Oversight Subcommittee Chair Says\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-is-the-future-house-financial-services-oversight-subcommittee-chair-says/"
+      ],
+      "categories": [
+        "News",
+        "Election",
+        "Regulation",
+        "U.S. Congress"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/05234558/1749167158-julia_63915_house_financial_services_committee_cryptocurrencies_63f00af7-c3ff-484a-8132-0b5137eadc8b-2_optimized-2.jpg"
+      },
+      "published": "2025-06-05T23:47:01Z"
+    }
+  },
+  {
+    "hash": "e56ea9f7e81c7386d758e417b22cfe1cc05a87bc1386c426c1effa7ff625f965",
+    "item": {
+      "title": "South Korean Parliament ‘Poised to Approve Tokenized Securities Bill’",
+      "description": "\u003cp\u003eThe South Korean parliament could soon approve a draft tokenized securities bill, finally giving domestic firms the right to launch blockchain technology-powered coins tied to real estate, raw materials, livestock, and copyrighted works.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korean-parliament-poised-to-approve-tokenized-securities-bill/\"\u003eSouth Korean Parliament ‘Poised to Approve Tokenized Securities Bill’\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korean-parliament-poised-to-approve-tokenized-securities-bill/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "South Korea",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/05132223/1749129742-image-1749106480146_optimized.jpg"
+      },
+      "published": "2025-06-05T23:30:00Z"
+    }
+  },
+  {
+    "hash": "acfbc7a48d7fe306f4b6a286852ddce12e346e56d04ea207e3588ddc34296160",
+    "item": {
+      "title": "Bitcoin Price Prediction: $831M Liquidated as Musk vs Trump Shakes Markets",
+      "description": "\u003cp\u003eBitcoin tumbles below $102K after Musk-Trump fallout triggers $831M liquidations and ETF outflows. Will institutional exits spark a deeper selloff?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-btc-slides-to-101k-as-jpmorgan-embraces-etfs/\"\u003eBitcoin Price Prediction: $831M Liquidated as Musk vs Trump Shakes Markets\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-btc-slides-to-101k-as-jpmorgan-embraces-etfs/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/13150120/1747148479-btc.jpg"
+      },
+      "published": "2025-06-05T23:12:00Z"
+    }
+  },
+  {
+    "hash": "dd5f55594a4e32f7625c135a3c10bcb8223670533dbb752ab4d8b1d457593853",
+    "item": {
+      "title": "Solana Price Prediction: Will Pump.fun’s Token Replace SOL?",
+      "description": "\u003cp\u003eWith the Solana price falling by 3% in 24 hours, could the arrival of Pump.fun's native token spell more declines for the altcoin?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-will-pump-funs-token-replace-sol/\"\u003eSolana Price Prediction: Will Pump.fun’s Token Replace SOL?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-will-pump-funs-token-replace-sol/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "SOL",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/05115438/1749124478-solana-price-prediction-will-pump-funs-token-replace-sol.jpg"
+      },
+      "published": "2025-06-05T21:59:00Z"
+    }
+  },
+  {
+    "hash": "4873f054f5d5efb33b160c8b8cfb36879de3b2ad53e4ed8fc0d53dd8c29f4a2b",
+    "item": {
+      "title": "Best Online Poker Site For Real Money Opens Rake Free Games To Decide World Champion – CoinPoker",
+      "description": "\u003cp\u003eCoinPoker has extended its High Stakes success with a Mid Stakes Cash Game World Championship, running June 1–28 on rake-free 500NL tables. All registered players can chase daily EV leaderboard points toward a $15,000 Rolex, $10,000 in cash and five weekly VIP seats worth $1,000 each.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/coinpoker-rake-free-tables-world-champion/\"\u003eBest Online Poker Site For Real Money Opens Rake Free Games To Decide World Champion \u0026#8211; CoinPoker\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/coinpoker-rake-free-tables-world-champion/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/05213847/1749159527-unnamed-67.jpg"
+      },
+      "published": "2025-06-05T21:51:41Z"
+    }
+  },
+  {
+    "hash": "1ec9d438e031a47a8aafe79666ed0d6fbfb43a9ca2021d62299a726536d003a4",
+    "item": {
+      "title": "Crypto Policy Heavyweights Back BRCA – Could Safe Harbor Spark a New Onchain Build-Out?",
+      "description": "\u003cp\u003eEight crypto policy groups, including Blockchain Association, Crypto Council for Innovation and DeFi Education Fund, have supported the BRCA and asked Congress to weave it into market-structure legislation, arguing blockchain software developers should not be regulated as money transmitters.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/policy-heavyweights-back-brca-safe-harbor-onchain-boom/\"\u003eCrypto Policy Heavyweights Back BRCA – Could Safe Harbor Spark a New Onchain Build-Out?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/policy-heavyweights-back-brca-safe-harbor-onchain-boom/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Blockchain",
+        "Regulation",
+        "U.S. Congress"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/05202648/1749155208-julia_63915_the_capitol_building_in_washington_d-c-_overlaid_wi_1e5625f8-4257-444a-80f0-69cac14aea49_optimized.jpg"
+      },
+      "published": "2025-06-05T21:35:29Z"
+    }
+  }
+]
