@@ -1898,5 +1898,221 @@
       },
       "published": "2025-06-07T15:12:00Z"
     }
+  },
+  {
+    "hash": "d20e7f0dd13c476b9e32371f2ccd36ab663bfc6f01e11a74caef18573d7ce572",
+    "item": {
+      "title": "NumPy 2.3 Introduces OpenMP Parallelization Support",
+      "description": "NumPy 2.3 is out today as the latest release of this widely-used library for scientific computing. Notable with NumPy 2.3 is finally adding some parallelization support via OpenMP...",
+      "links": [
+        "https://www.phoronix.com/news/NumPy-2.3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-07T21:00:00Z"
+    }
+  },
+  {
+    "hash": "ca05441356a535073dcba930f843f422da528291b5462f57dd5f446a2d541754",
+    "item": {
+      "title": "Linux 6.16 Preps For RISC-V's SBI Firmware Features Extension",
+      "description": "The RISC-V architecture feature updates were merged on Friday for the Linux 6.16 merge window that is set to end on Sunday with the Linux 6.16-rc1 release...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-RISC-V"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-07T19:04:37Z"
+    }
+  },
+  {
+    "hash": "5116fb6cc82255a8d922bebebf46b1767f7c3c7cefde639358fa93ca497b1809",
+    "item": {
+      "title": "Convert Photos to Atkinson Dithering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44212446\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gazs.github.io/canvas-atkinson-dither/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T20:33:18Z"
+    }
+  },
+  {
+    "hash": "78a6c2ee0bd9c5f4b3953472cdeae1f1381210a3e386c679fdd4dcd59b994bad",
+    "item": {
+      "title": "Bill Atkinson has died",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44210606\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T16:19:58Z"
+    }
+  },
+  {
+    "hash": "90a4e607dc211e97d54a9ca4772ad3ab20a66ca6459dd9ca7d6320e918e09274",
+    "item": {
+      "title": "BorgBackup 2 has no server-side append-only anymore",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44211612\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/borgbackup/borg/pull/8798"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T18:39:21Z"
+    }
+  },
+  {
+    "hash": "b51b2783bb1a7fbf6e34a6e50d6e18e087131751e2b7c319a146514becf8b38f",
+    "item": {
+      "title": "Updates to Advanced Voice Mode for paid users",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44212413\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T20:27:38Z"
+    }
+  },
+  {
+    "hash": "c44f383506c0069ac5fcef3e06bc5bf408aafc01154bfa9a10b0f8690827fca7",
+    "item": {
+      "title": "Self-Host and Tech Independence: The Joy of Building Your Own",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44211273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ssp.sh/blog/self-host-self-independence/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T17:51:51Z"
+    }
+  },
+  {
+    "hash": "ec319834ffcf78398c87bd28d612e12923c45a425efca13924d46766f29096b8",
+    "item": {
+      "title": "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44211779\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aoli.al/blogs/jdk-bug/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T19:01:17Z"
+    }
+  },
+  {
+    "hash": "9b93ab98197b68aefc711923de566daa3f465911737ad1257d6c71e8dc0370eb",
+    "item": {
+      "title": "Hollywood Is Already Using AI (and Hiding It)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44211882\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T19:14:05Z"
+    }
+  },
+  {
+    "hash": "fed104b00cef7252b15c35462c37c241af70e170dc4d55dc685ce3be8d114c04",
+    "item": {
+      "title": "PyOpticL – Code-to-CAD optical system engineering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44210582\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/UMassIonTrappers/PyOpticL"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T16:16:17Z"
+    }
+  },
+  {
+    "hash": "5495d80c0e054bc16eac566483eca221b6e29ebd4d1dd31351a0a2e9e8293212",
+    "item": {
+      "title": "I read all of Cloudflare's Claude-generated commits",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44205697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-06T22:35:01Z"
+    }
+  },
+  {
+    "hash": "2433c4a734b299a7ab08e9c43fc3b32159dfb1e6f11a27c2db13f5d47173c130",
+    "item": {
+      "title": "Musk-Trump dispute includes threats to SpaceX contracts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44209515\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T13:25:15Z"
+    }
+  },
+  {
+    "hash": "fb071a60fe3a926c8eb056d67c87a674118b17dd7c4fbd33aab3b39e76749d7a",
+    "item": {
+      "title": "Log-Linear Attention",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44210502\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2506.04761"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T16:01:20Z"
+    }
+  },
+  {
+    "hash": "316af4781599fd8e200b0590f15e391dbfd8e65243c66495798c1c1e7a781ca3",
+    "item": {
+      "title": "Hate Radio (2011)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44209833\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rwandanstories.org/genocide/hate_radio.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T14:22:05Z"
+    }
+  },
+  {
+    "hash": "3f7eddb525f10d4076bbc6316f81acfee99e0050f9cf96de422d0562209c4466",
+    "item": {
+      "title": "I'm Wirecutter's water-quality expert. I don't filter my water",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44211130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-07T17:32:46Z"
+    }
+  },
+  {
+    "hash": "18804c41f2dcae99d27e665b6f89d2fd6e2bb83e455a677102c08bd0cb119fc2",
+    "item": {
+      "title": "China’s DeepSeek AI Predicts the Price of XRP, Dogecoin and Pepe by the End of 2025",
+      "description": "\u003cp\u003eChina’s top AI powerhouse, DeepSeek AI, predicts a bullish outlook for a selection of altcoins as the crypto market gains renewed strength.This positive sentiment echoes across the digital asset landscape, especially after Bitcoin ($BTC) shattered previous records by reaching $111,814 last month. The historic milestone has invigorated optimism, signaling what could be the early phase [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/chinas-deepseek-ai-predicts-the-price-of-xrp-dogecoin-and-pepe-by-the-end-of-2025/\"\u003eChina\u0026#8217;s DeepSeek AI Predicts the Price of XRP, Dogecoin and Pepe by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/chinas-deepseek-ai-predicts-the-price-of-xrp-dogecoin-and-pepe-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Dogecoin",
+        "Pepe",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/06153614/Chinas-DeepSeek-AI-Predicts-the-Price-of-XRP-Dogecoin-and-Pepe-by-the-End-of-2025.jpg"
+      },
+      "published": "2025-06-07T21:00:00Z"
+    }
   }
 ]
