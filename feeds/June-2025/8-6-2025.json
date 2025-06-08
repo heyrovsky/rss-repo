@@ -833,5 +833,206 @@
       },
       "published": "2025-06-08T07:41:58Z"
     }
+  },
+  {
+    "hash": "0031c910adbbd45f43466a3587f99c815c143ecf064335eee876dcb1732fe760",
+    "item": {
+      "title": "Cybercriminals turn to “residential proxy” services to hide malicious traffic",
+      "description": "\"You cannot technically distinguish which traffic in a node is bad and which traffic is good.\"",
+      "links": [
+        "https://arstechnica.com/security/2025/06/cybercriminals-turn-to-residential-proxy-services-to-hide-malicious-traffic/"
+      ],
+      "categories": [
+        "Security",
+        "Bulletproof hosting",
+        "cybercriminals",
+        "proxies",
+        "syndication",
+        "vpns"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Lily Hay Newman"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/cybercrime-1152x648.jpg"
+      },
+      "published": "2025-06-08T11:15:51Z"
+    }
+  },
+  {
+    "hash": "38cf9afa091a41a85701d76d09881b4ac6593eedc8d776e75d06fd5338933214",
+    "item": {
+      "title": "Malicious Browser Extensions Infect 722 Users Across Latin America Since Early 2025",
+      "description": "Cybersecurity researchers have shed light on a new campaign targeting Brazilian users since the start of 2025 to infect users with a malicious extension for Chromium-based web browsers and siphon user authentication data.\n\"Some of the phishing emails were sent from the servers of compromised companies, increasing the chances of a successful attack,\" Positive Technologies security researcher",
+      "links": [
+        "https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUAQHGfPwsMGi_VlhnfYhfS44xBQLg8SRFOHPc6hkuog7awdUP7oXpgRsbN8Wvlr10p6VEiVOH2HgQgvqJnjFGIkTSggI0cvGu8IzuOB1O6eWfzJHSCnuXtWVK7OjmWN56ATj3oweBnFzoyRSrqp7vaoR-OGCoTspfShKxe6FDa2CgLWG4P3h8rHipe7QQ/s1600/chain-1.jpg"
+      },
+      "published": "2025-06-08T08:01:00Z"
+    }
+  },
+  {
+    "hash": "0a53e355503985f5c6b84a30327e65ba1af7eed7130b84f7b3da192f08bfbb37",
+    "item": {
+      "title": "GNOME 49 Alpha 0 Releases Begin As GNOME 49 Preps For X11 Disabled-By-Default",
+      "description": "The GNOME 49 Alpha release isn't expected until the end of June but for facilitating additional testing and a number of prominent changes this cycle, a number of GNOME packages have begun releasing \"GNOME 49 Alpha 0\" tags as part of plans to issue multiple alpha releases this cycle. Notable for GNOME 49 are plans moving forward for disabling X11 session support by default with that code then likely to be removed entirely with GNOME 50 for a Wayland-only desktop...",
+      "links": [
+        "https://www.phoronix.com/news/GNOME-49-Alpha-0-Packages"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-08T10:41:10Z"
+    }
+  },
+  {
+    "hash": "03f3065b43a330ebafc03e74722140cc1804a10897665ee0ec0a90844734bf73",
+    "item": {
+      "title": "Last Call On The Phoronix 21st Birthday Premium Special",
+      "description": "This week in marking Phoronix.com turning 21 years old there was a Phoronix Premium special for those wanting to enjoy the site ad-free, multi-page articles on a single page, and other benefits. That special deal is ending at end of day Monday (9 June) as your last chance to hop on this special...",
+      "links": [
+        "https://www.phoronix.com/news/Phoronix-21-Last-Call-Premium"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-08T10:30:43Z"
+    }
+  },
+  {
+    "hash": "861fa1a442054c73c5a4c522029797704f047b60486d34043f4b7b7296f4f881",
+    "item": {
+      "title": "LoongArch Enables Multi-Core Scheduler Support In Linux 6.16",
+      "description": "All of the LoongArch CPU architecture changes have been merged for the Linux 6.16 kernel with the merge window set to wrap up later today...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-LoongArch"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-08T10:18:54Z"
+    }
+  },
+  {
+    "hash": "993dea4f95655b056f8c14b2d4f4bce1ff2d66e8493451dbdf5c4b403ae7040f",
+    "item": {
+      "title": "Linux Mint Continues Working On Its libAdwaita Fork, Fingerprint Authentication",
+      "description": "The Linux Mint project published its newest monthly status report to outline various interesting development activities around this Linux desktop distribution project building off Ubuntu and Debian bases...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Mint-May-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-08T10:06:29Z"
+    }
+  },
+  {
+    "hash": "7e8c9a0655dd0d439f0eeb3ed4392b175a6f5fed865b46f59af934fe10e7732a",
+    "item": {
+      "title": "A look at Cloudflare's AI-coded OAuth library",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215667\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T08:50:16Z"
+    }
+  },
+  {
+    "hash": "275169f838f4c63970897d62939fdadd858aef34ef070b1fe79d66d3a8bdcefa",
+    "item": {
+      "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215352\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Jun/6/six-months-in-llms/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T07:38:37Z"
+    }
+  },
+  {
+    "hash": "363dc5da69f4a77999b6c025fe2dca5a6e6794ecf3de5e43b9bf0cf1c0a6ac5c",
+    "item": {
+      "title": "Ask HN: How to learn CUDA to professional level",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44216123\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44216123"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T10:52:35Z"
+    }
+  },
+  {
+    "hash": "925f26d2065a4f10a7d52aa5cc8e9dbf0b5bb541ad8cb9340a3632c60ff8c166",
+    "item": {
+      "title": "Gaussian Integration Is Cool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215603\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rohangautam.github.io/blog/chebyshev_gauss/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T08:35:54Z"
+    }
+  },
+  {
+    "hash": "23e8bd22ecfef8b41864d1e0e5fe5b4de8c1e9089ff16eb32dd50a72af43e596",
+    "item": {
+      "title": "The Illusion of Thinking: Strengths and Limitations of Reasoning Models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://machinelearning.apple.com/research/illusion-of-thinking"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T07:24:59Z"
+    }
+  },
+  {
+    "hash": "6b997f26df15a1b79b9e2a63d71fce779cc75110ef740297975b7737c59f4efe",
+    "item": {
+      "title": "Apple Is on Defense at WWDC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44216113\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T10:48:53Z"
+    }
+  },
+  {
+    "hash": "eece535235bb7ab59e48a9f2b05db2d97502e010d44cf2edaabe4db0569d6ec9",
+    "item": {
+      "title": "Focus and Context and LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215726\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://taras.glek.net/posts/focus-and-context-and-llms/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T09:09:19Z"
+    }
   }
 ]
