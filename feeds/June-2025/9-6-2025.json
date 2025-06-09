@@ -213,5 +213,339 @@
       },
       "published": "2025-06-08T23:30:00Z"
     }
+  },
+  {
+    "hash": "9efa8e2fe9f1b19437b9077dd45e4156f24882e7f439885ab423e2493bf3d56a",
+    "item": {
+      "title": "Kernel prepatch 6.16-rc1",
+      "description": "Linus has released \u003ca href=\"https://lwn.net/Articles/1024493/\"\u003e6.16-rc1\u003c/a\u003e and closed the\nmerge window for this release.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tI think we had a fairly normal merge window, although I did get the\n\tfeeling that there were a few more \"late straggler\" pull requests\n\tthan usual.  Not to a huge degree, but there was definitely an\n\tupward bump at the end of the second week.\n\t\u003cp\u003e\n\tBut on the whole, all the stats look pretty normal.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1024494/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-06-09T00:47:27Z"
+    }
+  },
+  {
+    "hash": "ffacc25ca3d443ec1b931df1980e1aa9ac7c1acf62da028736f77fbf46865deb",
+    "item": {
+      "title": "Wireless Power Makes For Cable-Free Desk",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png 1440w, https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"784826\" data-permalink=\"https://hackaday.com/2025/06/08/wireless-power-makes-for-cable-free-desk/screenshot-2025-06-04-at-09-32-35-true-wireless-power-is-finally-here-building-a-truly-wire-free-setup-youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png\" data-orig-size=\"1440,810\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-06-04 at 09-32-35 True Wireless Power is FINALLY here (building a TRULY wire-free setup) \u0026#8211; YouTube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png?w=800\" /\u003e\u003c/div\u003eSome people hate cables with a passion; others are agnostic and prefer cabled peripherals to having to stop and charge their mouse. [Matt] from DIYPerks has the best of both \u003ca href=\"https://hackaday.com/2025/06/08/wireless-power-makes-for-cable-free-desk/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/wireless-power-makes-for-cable-free-desk/"
+      ],
+      "categories": [
+        "computer hacks",
+        "Wireless Hacks",
+        "diy perks",
+        "frameworks",
+        "power over wireless",
+        "Wireless power"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-09-32-35-True-Wireless-Power-is-FINALLY-here-building-a-TRULY-wire-free-setup-YouTube.png"
+      },
+      "published": "2025-06-09T02:00:34Z"
+    }
+  },
+  {
+    "hash": "9d774ab5a338497f872eae670cf70a9c39c778ccc700b1297869c052951ff0f3",
+    "item": {
+      "title": "Hackaday Links: June 8, 2025",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Hackaday Links Column Banner\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg 800w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=250,134 250w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=400,215 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"137037\" data-permalink=\"https://hackaday.com/2014/11/09/hackaday-links-november-9-2014/had-links-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg\" data-orig-size=\"800,430\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Hackaday Links\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" /\u003e\u003c/div\u003eWhen purchasing high-end gear, it\u0026#8217;s not uncommon for manufacturers to include a little swag in the box. It makes the customer feel a bit better about the amount of money \u003ca href=\"https://hackaday.com/2025/06/08/hackaday-links-june-8-2025/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/hackaday-links-june-8-2025/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Hackaday links",
+        "5090 RTX",
+        "Andromeda",
+        "counterfeit",
+        "D2W",
+        "dip",
+        "dog",
+        "emergent AI",
+        "Galaxy",
+        "hackaday links",
+        "milky way",
+        "NVIDIA",
+        "packaging",
+        "qfn",
+        "QFP",
+        "robot dog",
+        "robotics",
+        "supply chain",
+        "Temu",
+        "unitree",
+        "W2W"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+      },
+      "published": "2025-06-08T23:00:58Z"
+    }
+  },
+  {
+    "hash": "49a5988ce230904b9d556bb7d7c80c33c88862aa0ee8d6090b2d8848c36396d6",
+    "item": {
+      "title": "Bringing a Father Ted Joke to Life",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Talking Tape dispenser\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png 2311w, https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?resize=2048,1152 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"784873\" data-permalink=\"https://hackaday.com/2025/06/08/bringing-a-father-ted-joke-to-life/kilnettle4-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png\" data-orig-size=\"2311,1300\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"kilnettle4-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png?w=800\" /\u003e\u003c/div\u003eInspired by a gag from a mid-90s sitcom Father Ted, [Stephen] decided to create his own talking tape dispenser. This project is a actually a follow-up to the first version \u003ca href=\"https://hackaday.com/2025/06/08/bringing-a-father-ted-joke-to-life/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/bringing-a-father-ted-joke-to-life/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "adhesive tape",
+        "ESP8266",
+        "props"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Matt Varian"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/kilnettle4-banner.png"
+      },
+      "published": "2025-06-08T20:00:56Z"
+    }
+  },
+  {
+    "hash": "aefdc7d8cdae71d85d652412d4ea4436389ba71c118648f4402c3217d985c242",
+    "item": {
+      "title": "Simple Triggering for Saleae Logic Analyzers",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"The Saleae logic analyzer software is shown. One PWM channel is active, with values of 0x0001 displayed above the individual waveforms. On the right panel of the app, a trigger mode configuration panel is open for the simple parallel analyzer.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png 2186w, https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?resize=800,451 800w, https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?resize=1536,865 1536w, https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?resize=2048,1153 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"784818\" data-permalink=\"https://hackaday.com/2025/06/08/simple-triggering-for-saleae-logic-analyzers/saleae_trigger_mode/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png\" data-orig-size=\"2186,1231\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"saleae_trigger_mode\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png?w=800\" /\u003e\u003c/div\u003eSaleae logic analyzers seem to have it all: good sampling rates, convenient protocol decoding, and plenty of channels – but not a good way to set rising or falling-edge triggering. \u003ca href=\"https://hackaday.com/2025/06/08/simple-triggering-for-saleae-logic-analyzers/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/simple-triggering-for-saleae-logic-analyzers/"
+      ],
+      "categories": [
+        "Software Hacks",
+        "Tool Hacks",
+        "logic analyser",
+        "saleae",
+        "saleae logic",
+        "triggering"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/saleae_trigger_mode.png"
+      },
+      "published": "2025-06-08T17:00:29Z"
+    }
+  },
+  {
+    "hash": "4d5412234154352cae1090ad05f3baa721e31edfc922d4e7610ab15b759372ee",
+    "item": {
+      "title": "Piano Doorbell Adds Music To Your Home",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"784641\" data-permalink=\"https://hackaday.com/2025/06/08/piano-doorbell-adds-music-to-your-home/i-replaced-my-boring-doorbell-with-this-you-have-to-hear-it-_-diy-13-52-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"I Replaced My BORING Doorbell with THIS (You Have To Hear It!) _ DIY 13-52 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png?w=800\" /\u003e\u003c/div\u003eRegular ding-dong doorbells are fun and all, but it can be nice to put something a little more special by your front door. To that end, [Arpan Mondal] built this \u003ca href=\"https://hackaday.com/2025/06/08/piano-doorbell-adds-music-to-your-home/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/piano-doorbell-adds-music-to-your-home/"
+      ],
+      "categories": [
+        "home hacks",
+        "Musical Hacks",
+        "doorbell",
+        "ESP32",
+        "piano"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/I-Replaced-My-BORING-Doorbell-with-THIS-You-Have-To-Hear-It-_-DIY-13-52-screenshot.png"
+      },
+      "published": "2025-06-08T14:00:46Z"
+    }
+  },
+  {
+    "hash": "0fa4aa0c4263e2e27315600e3b6223e987c5e366c8a3a1c1d36cc2e2f6d35fe2",
+    "item": {
+      "title": "A Close Look at the Mitxela Precision Clock Mk IV",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"403\" src=\"https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg 1305w, https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg?resize=250,126 250w, https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg?resize=400,201 400w, https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg?resize=800,403 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"786533\" data-permalink=\"https://hackaday.com/2025/06/08/a-close-look-at-the-mitxela-precision-clock-mk-iv/mitxclock_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg\" data-orig-size=\"1305,657\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"mitxclock_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg?w=800\" /\u003e\u003c/div\u003eOver on his secondary YouTube channel, [Jeff Geerling] recently demoed the new Mitxela Precision Clock Mk IV. This clock uses GPS to get the current time, but also your location \u003ca href=\"https://hackaday.com/2025/06/08/a-close-look-at-the-mitxela-precision-clock-mk-iv/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/a-close-look-at-the-mitxela-precision-clock-mk-iv/"
+      ],
+      "categories": [
+        "clock hacks",
+        "gps hacks",
+        "LED Hacks",
+        "clock",
+        "gps",
+        "precision clock",
+        "precision time-keeping"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/mitxclock_feat.jpg"
+      },
+      "published": "2025-06-08T11:00:55Z"
+    }
+  },
+  {
+    "hash": "f84d0ef4aac55a689a4ec0327d1b2483922819e8cc5fef9efb30f82bb39bc527",
+    "item": {
+      "title": "Wave Drive Made With 3D Printed Parts",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"784635\" data-permalink=\"https://hackaday.com/2025/06/08/wave-drive-made-with-3d-printed-parts/wave-drive-with-rolling-elements-cycloidal-gear-alternative-3-9-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Wave Drive with Rolling Elements — Cycloidal Gear Alternative! 3-9 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png?w=800\" /\u003e\u003c/div\u003eYou can get just about any gear reduction you want using conventional gears. But when you need to get a certain reduction in a very small space with minimal to \u003ca href=\"https://hackaday.com/2025/06/08/wave-drive-made-with-3d-printed-parts/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/08/wave-drive-made-with-3d-printed-parts/"
+      ],
+      "categories": [
+        "Parts",
+        "gear drive",
+        "gearbox",
+        "wave drive"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/Wave-Drive-with-Rolling-Elements-—-Cycloidal-Gear-Alternative-3-9-screenshot.png"
+      },
+      "published": "2025-06-08T08:00:28Z"
+    }
+  },
+  {
+    "hash": "7c7654b3511361373af3d7185bce4a241e005cba55a75c208b0ae1e35297684c",
+    "item": {
+      "title": "FSE meets the FBI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220860\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.freespeechextremist.com/blog/fse-vs-fbi.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-09T01:59:27Z"
+    }
+  },
+  {
+    "hash": "c8de7c1927110bfb708f552008cfb41ba67ace01c3ac850091134f38ee857167",
+    "item": {
+      "title": "Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219857\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ziglang.org/devlog/2025/#2025-06-08"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T22:24:14Z"
+    }
+  },
+  {
+    "hash": "40a30fb5a5fe72176bbf80205dc5c49868616b8e9f95de9a973c9e34cf642df4",
+    "item": {
+      "title": "Analyzing IPv4 Trades with Gnuplot",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220583\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ipv4a-5539ad.gitlab.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-09T01:08:00Z"
+    }
+  },
+  {
+    "hash": "cd483b251eaa52e973bf198ad56eadf132f6ecdb126a014fd89aba254242f359",
+    "item": {
+      "title": "The wire that transforms much of Manhattan into one big, symbolic home (2017)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219270\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T20:22:33Z"
+    }
+  },
+  {
+    "hash": "6b0b2cde788be851ef52701366a48475bc3e430b8f1d251f516e5d4150051aff",
+    "item": {
+      "title": "How to get started with writing tech video essays",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189391\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44189391"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-05T07:53:14Z"
+    }
+  },
+  {
+    "hash": "74d515e572764b0bff659b94ba70c1b6de9672a15aaab0ec1eb04081be380ee3",
+    "item": {
+      "title": "Software Is About Promises",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220287\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bramadams.dev/software-is-about-promises/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-09T00:04:28Z"
+    }
+  },
+  {
+    "hash": "6860c553619fde13a965a4680617877f059caf9235fa48653d2bef6cec76f2d2",
+    "item": {
+      "title": "I used AI-powered calorie counting apps, and they were even worse than expected",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220135\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-08T23:25:41Z"
+    }
+  },
+  {
+    "hash": "2634c37184a899b16d4c4672dc5763cecf306303601d86c3275874ddb33154db",
+    "item": {
+      "title": "Japanese Senate Approves Crypto Brokerages Reform Bill",
+      "description": "\u003cp\u003eThe Japanese Senate, the House of Councilors, has approved a legal amendment that will give crypto brokerage firms new freedoms to operate in the country\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/japanese-senate-approves-crypto-brokerage-reform-bill/\"\u003eJapanese Senate Approves Crypto Brokerages Reform Bill\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/japanese-senate-approves-crypto-brokerage-reform-bill/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Japan",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/08134939/1749390579-image-1749390270277_optimized.jpg"
+      },
+      "published": "2025-06-08T23:30:00Z"
+    }
   }
 ]
