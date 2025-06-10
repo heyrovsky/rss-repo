@@ -2256,5 +2256,779 @@
       },
       "published": "2025-06-10T09:35:33Z"
     }
+  },
+  {
+    "hash": "b1e69c0a6e51ce9815413cb3d34a26301f371f5a5149079789dfa87c575b7679",
+    "item": {
+      "title": "Ocean acidification crosses “planetary boundaries”",
+      "description": "Crisis facing the world's marine ecosystems is getting worse.",
+      "links": [
+        "https://arstechnica.com/science/2025/06/ocean-acidification-crosses-planetary-boundaries/"
+      ],
+      "categories": [
+        "Science",
+        "climate",
+        "climate change",
+        "ocean acidification",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Georgiana Gustin, Inside Climate News"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ocean-mussels-1152x648.jpg"
+      },
+      "published": "2025-06-10T13:54:32Z"
+    }
+  },
+  {
+    "hash": "d0135c8909bfc4eafe1d2a788c38d394530a80435a8d760c4f911fc368792fd4",
+    "item": {
+      "title": "IBM is now detailing what its first quantum compute system will look like",
+      "description": "Company is moving past focus on qubits, shifting to functional compute units.",
+      "links": [
+        "https://arstechnica.com/science/2025/06/ibm-is-now-detailing-what-its-first-quantum-compute-system-will-look-like/"
+      ],
+      "categories": [
+        "Science",
+        "Computer science",
+        "computing",
+        "ibm",
+        "logical qubits",
+        "Physics",
+        "quantum computing",
+        "quantum mechanics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/IBM-Quantum-Starling-Render-1-1152x648.jpg"
+      },
+      "published": "2025-06-10T12:51:03Z"
+    }
+  },
+  {
+    "hash": "9b3fde0d60ffd921c72e85493c971d85330570accd84fefc4158ad1cc18cd54c",
+    "item": {
+      "title": "Rust-based Myth Stealer Malware Spread via Fake Gaming Sites Targets Chrome, Firefox Users",
+      "description": "Cybersecurity researchers have shed light on a previously undocumented Rust-based information stealer called Myth Stealer that's being propagated via fraudulent gaming websites.\n\"Upon execution, the malware displays a fake window to appear legitimate while simultaneously decrypting and executing malicious code in the background,\" Trellix security researchers Niranjan Hegde, Vasantha Lakshmanan",
+      "links": [
+        "https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRKwiZnsYHGtJp-sleouvb1dStV2oqwiIJaaOFg40y3Cqk-yer3dAXAe83OxeAZc0H6PuwlB7diwhxgzU4cklYeRlr_IL9yM2Gpuj7UxMfHoNCo4vPAkUEXNOcfSJBajXM7hAP4O0U9paQrd82xcaX3mTr69I3CjwoiVaZ_jDC8W7DluC27WO_SC0CkVmW/s1600/gaming.jpg"
+      },
+      "published": "2025-06-10T14:20:00Z"
+    }
+  },
+  {
+    "hash": "df6deae89c385049c9f0b82b29b980a3ca919b80e2fcd99641d8ac6aaa304410",
+    "item": {
+      "title": "[$] An end to uniprocessor configurations",
+      "description": "The Linux kernel famously scales from the smallest of systems to massive\nservers with thousands of CPUs.  It was not always that way, though; the\ninitial version of the kernel could only manage a single processor.  That\nlimitation was lifted, obviously, but single-processor machines have always\nbeen treated specially in the scheduler.  That longstanding situation may\nsoon come to an end, though, if \u003ca\nhref=\"https://lwn.net/ml/all/20250528080924.2273858-1-mingo@kernel.org\"\u003ethis patch\nseries\u003c/a\u003e from Ingo Molnar makes it upstream.",
+      "links": [
+        "https://lwn.net/Articles/1023575/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-06-10T14:29:55Z"
+    }
+  },
+  {
+    "hash": "9fd7ff21352ba0db67cc12185025a898f29dc8c9efeda9714d70bd0590905f48",
+    "item": {
+      "title": "20 Years of the Open Invention Network",
+      "description": "The Open Invention Network (OIN) is \u003ca\nhref=\"https://openinventionnetwork.com/open-invention-network-celebrates-20-years/\"\u003ecelebrating\u003c/a\u003e\nits 20th anniversary.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tThe central feature of the OIN community is a patent cross-license\n\tthat covers core Open Source functionality and expands in parallel\n\twith the growth of Open Source technology. As growth in Open Source\n\thas accelerated, OIN has proactively expanded the scope of the OIN\n\tlicense's benefit by including more than 4,500 software components\n\tand platforms in its Linux System definition, which comprises the\n\tlist of Open Source code and associated functionality in OIN's\n\tpatent cross-license. \n\u003c/blockquote\u003e\n\u003cp\u003e\nLWN's first look at OIN was \u003ca href=\"https://lwn.net/Articles/163038/\"\u003ethis article by\nPamela Jones\u003c/a\u003e in late 2005.",
+      "links": [
+        "https://lwn.net/Articles/1024718/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-06-10T13:16:53Z"
+    }
+  },
+  {
+    "hash": "fdb03d4bb346219b3c2b458ce846bd07d756e30bade817a0fec82d94af837e06",
+    "item": {
+      "title": "Three stable kernel updates",
+      "description": "The\n\u003ca href=\"https://lwn.net/Articles/1024715/\"\u003e6.15.2\u003c/a\u003e,\n\u003ca href=\"https://lwn.net/Articles/1024716/\"\u003e6.14.11\u003c/a\u003e, and\n\u003ca href=\"https://lwn.net/Articles/1024717/\"\u003e6.12.33\u003c/a\u003e\nstable kernel updates have been released; each contains a relatively small\nset of important fixes.\n\u003cp\u003e\nNote that this is the end of the line for the 6.14.x updates; Greg\nKroah-Hartman explains the timing of this move:\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tIf you notice, this has happened a bit more \"early\" than previous\n\tend-of-life announcements.  Normally, after -rc1 is out there is a\n\tTON of stable patches happening due to the changes that come into\n\tthe merge-window that were marked for stable backports but didn't\n\tget into Linus's release before -final.  As some people have\n\tobjected to this large influx being added to a stable kernel that\n\tis just about to go end-of-life, let's try marking this end-of-life\n\ta bit earlier to see how it goes.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1024714/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-06-10T13:10:45Z"
+    }
+  },
+  {
+    "hash": "24338a4e20213f2463a25e73ea63ed359db17e478e054595870a39089d4ed892",
+    "item": {
+      "title": "Security updates for Tuesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (python-django), \u003cb\u003eFedora\u003c/b\u003e (krb5), \u003cb\u003eMageia\u003c/b\u003e (cockpit, golang, kernel, and kernel-linus), \u003cb\u003eSUSE\u003c/b\u003e (augeas, go1.23, go1.24, iputils, libwebp, transfig, and xen), and \u003cb\u003eUbuntu\u003c/b\u003e (amd64-microcode, apport, linux-azure, linux-azure, linux-azure-4.15, linux-azure-fips, linux-raspi, systemd, and tomcat).",
+      "links": [
+        "https://lwn.net/Articles/1024713/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-06-10T13:07:23Z"
+    }
+  },
+  {
+    "hash": "98aa40647e8efe602845044e96e48a4a867ccf9a0e2aebdd5445a00d0ef4c738",
+    "item": {
+      "title": "DXVK 2.6.2 Released For Direct3D On Vulkan",
+      "description": "DXVK 2.6.2 was released this morning as the newest update to this Direct3D 8 / 9 / 10 / 11 over Vulkan API implementation. DXVK continues to be most notably used by Valve's Steam Play (Proton) for running countless Windows games well on Linux...",
+      "links": [
+        "https://www.phoronix.com/news/DXVK-2.6.2-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-10T14:25:29Z"
+    }
+  },
+  {
+    "hash": "a070d8f390f6167f4d83d5f716695bd21e1953b0a3c7e7dcfe6801a80a323ac0",
+    "item": {
+      "title": "Magistral — the first reasoning model by Mistral AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236997\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mistral.ai/news/magistral"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T14:08:01Z"
+    }
+  },
+  {
+    "hash": "797f1ca9bb70b061b37cd8fa31e8663e50253c464bc450e27c22ac3bd20880c8",
+    "item": {
+      "title": "Faster, easier 2D vector rendering [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236423\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=_sv8K190Zps"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T13:17:01Z"
+    }
+  },
+  {
+    "hash": "5dd3d03440fc5f0a256592028aecf2e22bc4e7ad8a12f0913189537197943668",
+    "item": {
+      "title": "Show HN: High End Color Quantizer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44235628\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/big-nacho/patolette"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T11:50:15Z"
+    }
+  },
+  {
+    "hash": "dafb22093b9f288310041958002b5b1f4a9c939f1ed1f92c9eb4138a7696f01f",
+    "item": {
+      "title": "Spoofing OpenPGP.js signature verification",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236891\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T13:58:30Z"
+    }
+  },
+  {
+    "hash": "84aad130f63c4603b6f31555d42d19a3f6201dba5009ebb987a1f806cba9eeec",
+    "item": {
+      "title": "Show HN: PyDoll – Async Python scraping engine with native CAPTCHA bypass",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236926\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/autoscrape-labs/pydoll"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T14:01:35Z"
+    }
+  },
+  {
+    "hash": "cd20e11b0a0943b0b9a143835a04b57901c454af750138caab36ad0b42cbc29c",
+    "item": {
+      "title": "Denuvo Analysis",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44226406\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-09T16:50:37Z"
+    }
+  },
+  {
+    "hash": "13ceacbab833e1f12220e1a6cc5b31b80db8e93fdaacdc0f4235b458bc756b58",
+    "item": {
+      "title": "The curious case of shell commands, or how \"this bug is required by POSIX\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236241\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://notes.volution.ro/v1/2021/01/notes/502e747f/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T12:56:36Z"
+    }
+  },
+  {
+    "hash": "9d9c275271abf1f2f333a0569b1bdf84f1473b9a79acfac5c168c4f0565d82cc",
+    "item": {
+      "title": "WWDC25: macOS Tahoe Breaks Decades of Finder History",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44235177\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://512pixels.net/2025/06/wwdc25-macos-tahoe-breaks-decades-of-finder-history/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T10:52:29Z"
+    }
+  },
+  {
+    "hash": "b4d8dc6586807e046181e721e38d8c056d3d3a4ebb2bc498f545188dea720d31",
+    "item": {
+      "title": "A Primer on Molecular Dynamics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44204249\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.owlposting.com/p/a-primer-on-molecular-dynamics"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-06T19:39:36Z"
+    }
+  },
+  {
+    "hash": "3f8ebb67b66196c7cd17c829881ca43e8cdc861f357ea6ffd7dd2e65166a5cdc",
+    "item": {
+      "title": "Onlook (YC W25) Is Hiring an engineer in SF",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44235716\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44235716"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T12:00:39Z"
+    }
+  },
+  {
+    "hash": "f9597e972c7e49c60d906d0845323fe8bc0ef50db1e434b28cc5dc6e67ce8669",
+    "item": {
+      "title": "Plato got virtually everything wrong (2018)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236970\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.prospectmagazine.co.uk/opinions/41672/plato-got-virtually-everything-wrong"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T14:05:25Z"
+    }
+  },
+  {
+    "hash": "5c8d0ffd27ce0a351ad7356d6de5753cd625b38ebffd9d6d1a2800ff5db26c7e",
+    "item": {
+      "title": "Finding Atari Games in Randomly Generated Data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236900\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bbenchoff.github.io/pages/FiniteAtari.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T13:58:50Z"
+    }
+  },
+  {
+    "hash": "2c752764cc038caf3d646eeb314d496cb0f570e7eb0c79a839f6cb492f27683b",
+    "item": {
+      "title": "CompactLog – Solving CT Scalability with LSM-Trees",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44235117\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Barre/compact_log"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T10:45:49Z"
+    }
+  },
+  {
+    "hash": "08d6b3f84ff91d2cb8ee2306518742fb6c5127346d1a1297f27d656d4bbf5610",
+    "item": {
+      "title": "Always On, Always Connected, Always Searching, Always Distracted",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44237229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://leejo.github.io/2025/06/10/always_on/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T14:29:29Z"
+    }
+  },
+  {
+    "hash": "fdf17299d956c3e421da5fafc83ee5b34ddf571e592c86b7008a893523c01f99",
+    "item": {
+      "title": "Apple Fails to Clear a Low Bar on AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44235701\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/tech/ai/apple-ai-strategy-wwdc-challenges-bdae4fb5"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T11:58:22Z"
+    }
+  },
+  {
+    "hash": "2247da6e767d9d62eade7087616666c96e1309a4b623676299cf20df5090e43b",
+    "item": {
+      "title": "Drone shows: Will they overtake firework displays?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44236526\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c79ewz7qej4o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-10T13:27:00Z"
+    }
+  },
+  {
+    "hash": "85985073de6f1514a0071eb76c23cde60d6f0a46be14663d60a0c730ae488b80",
+    "item": {
+      "title": "Solaxy Blows Past $46M as Weekend FOMO Heats Up – 6 Days Left to Go",
+      "description": "\u003cp class=\"\" data-start=\"361\" data-end=\"648\"\u003e\u003cem data-start=\"385\" data-end=\"648\"\u003eSolaxy has cleared $46.2 million in its ongoing $SOLX presale while testing a live Layer-2 roll-up to ease Solana congestion. The token price rises every two days, and only six presale days remain before exchange debut and mainnet launch planned for this month.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/solx-surpasses-46m-weekend-fomo-6-days-left/\"\u003eSolaxy Blows Past $46M as Weekend FOMO Heats Up – 6 Days Left to Go\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/solx-surpasses-46m-weekend-fomo-6-days-left/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10150044/1749567644-unnamed-71-1.jpg"
+      },
+      "published": "2025-06-10T15:06:52Z"
+    }
+  },
+  {
+    "hash": "accc8ee79e1ad049c56346228af37cdf4a95fbb97a21e1d34adab2136b9dc097",
+    "item": {
+      "title": "What’s Happening in Crypto Today? Daily Crypto News Digest",
+      "description": "\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn crypto news today:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eCrypto market is green today\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003e1inch Launches Pathfinder Core Algorithm\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003eCompass Mining Launches New Brand Identity\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003eBinance Worked with US and Taiwan Law Enforcement to Take Down ‘Incognito Market’\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/\"\u003eWhat’s Happening in Crypto Today? Daily Crypto News Digest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/whats-happening-in-crypto-today-daily-crypto-news-digest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Best Crypto",
+        "Bitcoin",
+        "Crypto News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/11/04171421/1730740460-daily-crypto-news_v2.jpg"
+      },
+      "published": "2025-06-10T15:00:00Z"
+    }
+  },
+  {
+    "hash": "9718f97b371ea5fc2e5e233da2988a82ea8bfa39c26840decf063950b74a08c9",
+    "item": {
+      "title": "Sustainable Web3 Needs Sustainable Revenue, Not Endless Grants",
+      "description": "\u003cp\u003eWeb3 can’t rely on grants forever. This op-ed makes the case for sustainable revenue models to drive long-term ecosystem growth.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/sustainable-web3-needs-sustainable-revenue-not-endless-grants/\"\u003eSustainable Web3 Needs Sustainable Revenue, Not Endless Grants\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/sustainable-web3-needs-sustainable-revenue-not-endless-grants/"
+      ],
+      "categories": [
+        "Opinions",
+        "funding",
+        "Starknet",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "James Strudwick"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10092918/1749547757-funding_optimized.jpg"
+      },
+      "published": "2025-06-10T14:59:54Z"
+    }
+  },
+  {
+    "hash": "07f96aaeb9c5ff52cf970b61392550b011a7d9388429961a18aae94ea1e18940",
+    "item": {
+      "title": "Bitcoin Price Prediction: Ark CEO Cathie Wood Sees $1.5M BTC Within 5 Years — Is She Right?",
+      "description": "\u003cp\u003eBitcoin nears $110K as Cathie Wood predicts a $1.5M surge. Can institutional demand, scarcity, and tech strength drive BTC’s next major breakout?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-ark-ceo-cathie-wood-sees-1-5m-btc-within-5-years-is-she-right/\"\u003eBitcoin Price Prediction: Ark CEO Cathie Wood Sees $1.5M BTC Within 5 Years — Is She Right?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-ark-ceo-cathie-wood-sees-1-5m-btc-within-5-years-is-she-right/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10130056/1749560455-bitcoin-price-prediction-ark-ceo-cathie-wood-sees-1-5m-btc-within-5-years.jpg"
+      },
+      "published": "2025-06-10T13:07:40Z"
+    }
+  },
+  {
+    "hash": "93f7e1118ad134ee736eaf12511f12d8c37e7a648d3baa83db931c324408cd11",
+    "item": {
+      "title": "Publicly Traded UK Firm Buys 45 BTC Amid Peak Market Greed at 71",
+      "description": "\u003cp\u003eCorporate Bitcoin adoption is accelerating as UK-listed technology firm The Smarter Web Company announces its latest acquisition of 45.32 Bitcoin worth $4.7 million, boosting its total holdings by 55% as part of its 10-year digital asset strategy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/publicly-traded-uk-firm-buys-45-btc-amid-peak-market-greed-at-71/\"\u003ePublicly Traded UK Firm Buys 45 BTC Amid Peak Market Greed at 71\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/publicly-traded-uk-firm-buys-45-btc-amid-peak-market-greed-at-71/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "UK Crypto"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10114616/1749555976-image-1749555904768_optimized.jpg"
+      },
+      "published": "2025-06-10T12:51:53Z"
+    }
+  },
+  {
+    "hash": "09ba08b55942f397356a92f8b7718826e68c5c140b825526dead1ff35067f8f0",
+    "item": {
+      "title": "Why Is Crypto Up Today? – June 10, 2025",
+      "description": "\u003cp\u003eThe crypto market has finally turned green again thanks to the institutional inflows and easing concerns around US regulations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-up-today-june-10-2025/\"\u003eWhy Is Crypto Up Today? – June 10, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-up-today-june-10-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10102545/1749551144-why-is-crypto-up-today.jpg"
+      },
+      "published": "2025-06-10T12:49:53Z"
+    }
+  },
+  {
+    "hash": "c969538763522ca63f7fdea476e5495951be017f29ddef8fa00e3efa6366b333",
+    "item": {
+      "title": "Traders Flee Dollar for BTC, but Technicals Warn of Pullback to $92K: Analyst",
+      "description": "\u003cp\u003eBitcoin’s recent volatility has left traders torn between optimism and caution, as shifting global capital flows collide with conflicting technical signals.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/traders-flee-dollar-for-btc-but-technicals-warn-of-pullback-to-92k-analyst/\"\u003eTraders Flee Dollar for BTC, but Technicals Warn of Pullback to $92K: Analyst\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/traders-flee-dollar-for-btc-but-technicals-warn-of-pullback-to-92k-analyst/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10114619/1749555979-image-1749554913860_optimized.jpg"
+      },
+      "published": "2025-06-10T12:47:55Z"
+    }
+  },
+  {
+    "hash": "a7e26f55c1fcff28aaf1faf85231e86e5bb287877baa2d6600c8159dd2ab2c24",
+    "item": {
+      "title": "Canary Capital Spins Up Delaware Trust for Staked Injective ETF",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Canary_Capital_spins_up_Delaware_trust_for_staked_Injective_ETF.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Canary Capital Spins Up Delaware Trust for Staked Injective ETF\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Canary_Capital_spins_up_Delaware_trust_for_staked_Injective_ETF.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Canary_Capital_spins_up_Delaware_trust_for_staked_Injective_ETF-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Canary_Capital_spins_up_Delaware_trust_for_staked_Injective_ETF-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCanary Capital just got one step closer to launching a staking-based crypto ETF in the United States by setting up a Delaware trust called the Canary Staked INJ ETF, according to its official recent corporate filings. It’s the exciting first big move toward a US-listed exchange-traded fund for the Injective",
+      "links": [
+        "https://thenewscrypto.com/canary-capital-spins-up-delaware-trust-for-staked-injective-etf/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Canary Capital",
+        "Crypto news",
+        "ETF",
+        "Injective"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Canary_Capital_spins_up_Delaware_trust_for_staked_Injective_ETF.jpg"
+      },
+      "published": "2025-06-10T12:04:47Z"
+    }
+  },
+  {
+    "hash": "d98028f756a491625a48845ba4c8bafca7297dc00d9a3dad273fab67385dd425",
+    "item": {
+      "title": "HTX Crypto Gem Hunt #6: Identify 7 Premium Assets With Strong Market Potential",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-11.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-11.png 781w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-11-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-11-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-11-376x212.png 376w\" sizes=\"(max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eHTX, a leading global cryptocurrency exchange, has announced the launch of the sixth phase of its Crypto Gem Hunt program. Amidst a crypto market characterized by persistent volatility, with Bitcoin fluctuating between $100,000 and $110,000, market sentiment remains largely influenced by macroeconomic policies, regulatory developments, and speculative behavior. Against this",
+      "links": [
+        "https://thenewscrypto.com/htx-crypto-gem-hunt-6-identify-7-premium-assets-with-strong-market-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "HTX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-11.png"
+      },
+      "published": "2025-06-10T12:03:53Z"
+    }
+  },
+  {
+    "hash": "7105184bc47845bc18edabf2ebd5c9e1ff0e34f46683673cecbab36f26d1145f",
+    "item": {
+      "title": "PEPE Croaks Louder with an 8% Surge, Are More Gains Ahead?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/PEPE-Eyes-0.0000094-as-Bullish-Momentum-Builds.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PEPE Croaks Louder with an 8% Surge, Are More Gains Ahead?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/PEPE-Eyes-0.0000094-as-Bullish-Momentum-Builds.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/PEPE-Eyes-0.0000094-as-Bullish-Momentum-Builds-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/PEPE-Eyes-0.0000094-as-Bullish-Momentum-Builds-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the 3.31% spike, the crypto market cap has reached $3.42 trillion. Major assets have entered the green zone, and the greed sentiment lingers within the market. Notably, the meme coin market cap has jumped by over 6% to $66.8 billion. The frog-themed PEPE has recorded a gain of over",
+      "links": [
+        "https://thenewscrypto.com/pepe-croaks-louder-with-an-8-surge-are-more-gains-ahead/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Meme Coin",
+        "PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/PEPE-Eyes-0.0000094-as-Bullish-Momentum-Builds.jpg"
+      },
+      "published": "2025-06-10T11:43:25Z"
+    }
+  },
+  {
+    "hash": "54d5bd38b7bd7d99b8ee7428e01e1ac571c7ab1ec05a5999b339ecc8f1959295",
+    "item": {
+      "title": "South Korea Proposes Licensing Regime for Stablecoin Issuers",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/South-Korean-lawmaker-proposes1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Licensing Regime for Stablecoin\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/South-Korean-lawmaker-proposes1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/South-Korean-lawmaker-proposes1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/South-Korean-lawmaker-proposes1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn a major effort to legalise cryptocurrency regulation, South Korean representative Min Byeong-deok proposed a sweeping new bill on Tuesday that would transform the country\u0026#8217;s digital asset ecosystem. The Digital Asset Basic Act bill, as it is called, creates a new licensing system for stablecoin issuers and establishes general rules",
+      "links": [
+        "https://thenewscrypto.com/south-korea-proposes-licensing-regime-for-stablecoin-issuers/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto",
+        "Digital Asset",
+        "South Korea",
+        "Stablecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Harshini Chakka"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/South-Korean-lawmaker-proposes1.jpg"
+      },
+      "published": "2025-06-10T11:28:42Z"
+    }
+  },
+  {
+    "hash": "ca7bedbd7e8b4cb432801cfe6224cc0f709c76cfbe7d5eb807f992cee8234712",
+    "item": {
+      "title": "MEXC Launches Alpha Trading Zone, Ushering in New Era of Seamless On-Chain Asset Trading",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-35.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-35.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-35-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-35-768x448.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, has officially launched its Alpha Trading Zone, an innovative feature that seamlessly bridges centralized exchanges (CEX) with on-chain asset trading, offering users a convenient and efficient Web3 trading experience. To celebrate the launch, MEXC is introducing a special rewards event with exclusive benefits for",
+      "links": [
+        "https://thenewscrypto.com/mexc-launches-alpha-trading-zone-ushering-in-new-era-of-seamless-on-chain-asset-trading/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-35.jpg"
+      },
+      "published": "2025-06-10T10:00:00Z"
+    }
+  },
+  {
+    "hash": "6d06c38424bdb4e85ec8f72dd3e892c7fb9115cda40f98f2287de02da48ba12f",
+    "item": {
+      "title": "US Lawmakers Push Crypto Bill Amendments Ahead of House Vote",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/US-lawmakers-propose-amendment-to1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Bill Amendments\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/US-lawmakers-propose-amendment-to1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/US-lawmakers-propose-amendment-to1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/US-lawmakers-propose-amendment-to1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eU.S. lawmakers are moving closer to passing significant cryptocurrency legislation as members of the House Financial Services Committee prepare to mark up the Digital Asset Market Clarity Act of 2025 (CLARITY Act). A critical amendment introduced ahead of the hearing proposes exemptions for certain blockchain developers, marking a step forward",
+      "links": [
+        "https://thenewscrypto.com/us-lawmakers-push-crypto-bill-amendments-ahead-of-house-vote/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Blockchain",
+        "Crypto Bill",
+        "Crypto Legalization"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Harshini Chakka"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/US-lawmakers-propose-amendment-to1.jpg"
+      },
+      "published": "2025-06-10T09:43:15Z"
+    }
+  },
+  {
+    "hash": "030d1808e654c7f346f44660d6375fda0e6fd3955be5d6a84a0103b43b9719cf",
+    "item": {
+      "title": "Mog Coin (MOG) Targets $0.00000140 as Bullish Momentum Builds",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Mog-Coin-price-analysis-4.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mog Coin (MOG) Targets $0.00000140 as Bullish Momentum Builds\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Mog-Coin-price-analysis-4.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Mog-Coin-price-analysis-4-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Mog-Coin-price-analysis-4-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMog Coin (MOG) has carved a notable path in the meme coin market with recent explosive price action, surging 133% in the last month and gaining 27% over the past 24 hours. Despite a measured 9.68% correction, the token maintains a structurally bullish trend as it navigates a tight price",
+      "links": [
+        "https://thenewscrypto.com/mog-coin-mog-targets-0-00000140-as-bullish-momentum-builds/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "MOG",
+        "Mog coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Mog-Coin-price-analysis-4.jpg"
+      },
+      "published": "2025-06-10T09:32:25Z"
+    }
+  },
+  {
+    "hash": "47d6f9582955a061d981353d264b2e80c2263b0f67d4eeb7983d4dff82ed70c2",
+    "item": {
+      "title": "Cardinal Protocol Ignites a New Era for Bitcoin DeFi on Cardano",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Charles_Hoskinson_Launches_First_Bitcoin_DeFi_Protocol_on_Cardano.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardinal Protocol Ignites a New Era for Bitcoin DeFi on Cardano\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Charles_Hoskinson_Launches_First_Bitcoin_DeFi_Protocol_on_Cardano.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Charles_Hoskinson_Launches_First_Bitcoin_DeFi_Protocol_on_Cardano-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Charles_Hoskinson_Launches_First_Bitcoin_DeFi_Protocol_on_Cardano-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn a major leap forward for Bitcoin and DeFi, Cardano founder Charles Hoskinson has introduced the Cardinal Protocol, the first truly decentralized Bitcoin DeFi platform to launch on Cardano. Built by Input Output HK (IOHK), this new system lets Bitcoin holders wrap their UTXOs and jump into DeFi activities like",
+      "links": [
+        "https://thenewscrypto.com/cardinal-protocol-ignites-a-new-era-for-bitcoin-defi-on-cardano/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Cardano",
+        "Cardinal Protocol",
+        "DeFi"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Charles_Hoskinson_Launches_First_Bitcoin_DeFi_Protocol_on_Cardano.jpg"
+      },
+      "published": "2025-06-10T07:46:57Z"
+    }
+  },
+  {
+    "hash": "68c858709e949d0070dd038a251e66e9470c8117b20f6cffcab9000a2b36f63b",
+    "item": {
+      "title": "Fartcoin Price Surges 20%, Eyeing on the $1.65 Mark",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Fartcoin-price-today-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Fartcoin Price Surges 20%, Eyeing on the $1.65 Mark\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Fartcoin-price-today-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Fartcoin-price-today-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Fartcoin-price-today-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFartcoin technical analysis indicates that the meme coin is in a crucial stage where it shows a bullish rally in upcoming sessions. The daily chart points out that $1.66 is a strong resistance level, as it has prevented further upward movement after the token’s big rally earlier in 2025. Fartcoin’s",
+      "links": [
+        "https://thenewscrypto.com/fartcoin-price-surges-20-eyeing-on-the-1-65-mark/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "FARTCOIN",
+        "price surge"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Fartcoin-price-today-1.jpg"
+      },
+      "published": "2025-06-10T07:29:19Z"
+    }
   }
 ]
