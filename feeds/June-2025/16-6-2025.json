@@ -849,5 +849,219 @@
       },
       "published": "2025-06-16T03:59:27Z"
     }
+  },
+  {
+    "hash": "841c8048fb885faa455f831191dc0c00be016cd9877201ca5b1d4b76675881ad",
+    "item": {
+      "title": "Start your own Internet Resiliency Club",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44287395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bowshock.nl/irc/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-16T07:38:17Z"
+    }
+  },
+  {
+    "hash": "459a951725fb3efb3da0f84a35511285e79f6524cb7825a4f8d6163b38ce5cf4",
+    "item": {
+      "title": "Occurences of swearing in the Linux kernel source code over time",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275014\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-14T08:15:31Z"
+    }
+  },
+  {
+    "hash": "4abcf67f904528f91e3d070d7e476a2f0f8045fcd96b8e1ce7e5b82760b36fbc",
+    "item": {
+      "title": "NesDev.org – A community of homebrew game devs for NES and other retro consoles",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44286748\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nesdev.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-16T05:03:58Z"
+    }
+  },
+  {
+    "hash": "2d1eb67886eafe6f1c578192d679620f140ac925720d824d51199ce38e1a7df2",
+    "item": {
+      "title": "Solving LinkedIn Queens with APL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275900\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pitr.ca/2025-06-14-queens"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-14T12:09:51Z"
+    }
+  },
+  {
+    "hash": "c50b54789eca6906675c2ceeaeb13e1b52ff7cb82e8e3c344b82756473e28769",
+    "item": {
+      "title": "Foundations of Computer Vision (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44281506\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://visionbook.mit.edu"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-15T10:11:41Z"
+    }
+  },
+  {
+    "hash": "a7fadc4e5883e67e99ce92585a5b061de4bb0361c490341c8f6da06ce25f6584",
+    "item": {
+      "title": "Unprecedented optical clock network lays groundwork for redefining the second",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44264481\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-06-unprecedented-optical-clock-network-lays.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-13T00:03:13Z"
+    }
+  },
+  {
+    "hash": "53591c22f5b1ec3c1a8626e1faa384e6baea4bb1abc1ec3f6b6f43d556f86abf",
+    "item": {
+      "title": "Random Walk: A Modern Introduction (2010) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44258199\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.math.uchicago.edu/~lawler/srwbook.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-12T14:25:14Z"
+    }
+  },
+  {
+    "hash": "856a1bb7e2e0f19de4486cad00edca7eefc9199956f319ff28d9b206cbf6fccf",
+    "item": {
+      "title": "Why Claude's Comment Paper Is a Poor Rebuttal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44286086\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://victoramartinez.com/posts/why-claudes-comment-paper-is-a-poor-rebuttal/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-16T01:46:42Z"
+    }
+  },
+  {
+    "hash": "4273c88226d903109ff51f9165b2e23ac53e2f9cbc926945b4b86c64faf382cd",
+    "item": {
+      "title": "Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD, and macOS Data",
+      "description": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that's capable of harvesting sensitive developer-related information, such as credentials, configuration data, and environment variables, among others.\nThe package, named chimera-sandbox-extensions, attracted 143 downloads and likely targets users of a service called Chimera Sandbox,",
+      "links": [
+        "https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNc41dNXCFqRA6QIJwW9K-9v1jhn59mLsWCygiFr2T3G9z0tG5zX5zfQH6I2ep8QRIKdeW3EIUF4tSQREmjT1WNWI0yEDr81HoSfb-rCGLuLzsvM9IGHMGFVB2YK3-y0h8zdSa2jdS9TdZHqJ_X2iBaqsuCLxAjAZ3Jf-OI_-nV_PqnDuqtwm8zfUYp4UX/s1600/python.jpg"
+      },
+      "published": "2025-06-16T06:45:00Z"
+    }
+  },
+  {
+    "hash": "43f8649cccd717890aa995f60ad448d12f977e2442ca92ffe90b394237a61989",
+    "item": {
+      "title": "Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month",
+      "description": "Cybersecurity researchers are calling attention to a \"large-scale campaign\" that has been observed compromising legitimate websites with malicious JavaScript injections.\nAccording to Palo Alto Networks Unit 42, these malicious injects are obfuscated using JSFuck, which refers to an \"esoteric and educational programming style\" that uses only a limited set of characters to write and execute",
+      "links": [
+        "https://thehackernews.com/2025/06/over-269000-websites-infected-with.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcGJ7CNgzKBe-408tMQe49G2JnZar2WjkzXlKMW-3n32sVHKIw5-Z8Chfgya7rgeQyXZoxsVmDE_ANY4a_4NdevFiCIta-FrNo970e6V0whbM_o2EjtiFp6HEvQopYLwX7z72oxfpk5FfdQoFAoMFsZYSXb7Ky6qE7bP1zLw_oFLAMyVl_htERz1PNDjdi/s1600/javascript.jpg"
+      },
+      "published": "2025-06-13T14:12:00Z"
+    }
+  },
+  {
+    "hash": "5c031da62f5b62aef5021071c7c46df04051175383b87ba3d28bd983d925fcfc",
+    "item": {
+      "title": "Liverpool Named UK’s Crypto Capital as Residents Lead in Bitcoin and Stock Investing",
+      "description": "\u003cp\u003eLiverpool has been crowned the UK’s new crypto capital, topping the charts for digital asset engagement in a nationwide study of online habits.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/liverpool-named-uks-crypto-capital-as-residents-lead-in-bitcoin-and-stock-investing/\"\u003eLiverpool Named UK’s Crypto Capital as Residents Lead in Bitcoin and Stock Investing\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/liverpool-named-uks-crypto-capital-as-residents-lead-in-bitcoin-and-stock-investing/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "UK",
+        "UK Crypto"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/16073304/1750059183-image-1750059069284_optimized.jpg"
+      },
+      "published": "2025-06-16T07:34:54Z"
+    }
+  },
+  {
+    "hash": "a765058809e3bf41cd23c6ea08ba567e5d08efec5256f483f7952ee9bb8ab206",
+    "item": {
+      "title": "Ethereum Whales Add $3.8B in ETH as Retail Sells Into Sideways Chop – What is Next for ETH Price?",
+      "description": "\u003cp\u003eMajor Ethereum holders have significantly increased their exposure to ETH over the past month, while smaller investors have been offloading during a period of price stagnation. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-whales-add-3-8b-in-eth-as-retail-sells-into-sideways-chop-what-is-next-for-eth-price/\"\u003eEthereum Whales Add $3.8B in ETH as Retail Sells Into Sideways Chop \u0026#8211; What is Next for ETH Price?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-whales-add-3-8b-in-eth-as-retail-sells-into-sideways-chop-what-is-next-for-eth-price/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "ETH",
+        "Ethereum",
+        "Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/16071346/1750058025-image-1750057781817_optimized.jpg"
+      },
+      "published": "2025-06-16T07:15:29Z"
+    }
+  },
+  {
+    "hash": "0c7e3cbcba0de13e8eca3ff236d5aa908fb20a4ac43591ed8bbda28b1b459298",
+    "item": {
+      "title": "VanEck Flags Emerging Risk for Bitcoin-Holding Firms — Can Companies Avoid Value Erosion?",
+      "description": "\u003cp\u003eVanEck warns that Bitcoin treasury strategies may backfire as some firms near a tipping point where further accumulation could erode shareholder value.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/vaneck-flags-emerging-risks-for-bitcoin-holding-firms/\"\u003eVanEck Flags Emerging Risk for Bitcoin-Holding Firms — Can Companies Avoid Value Erosion?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/vaneck-flags-emerging-risks-for-bitcoin-holding-firms/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "VanEck"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/16070714/1750057634-image-1750057610614_optimized.jpg"
+      },
+      "published": "2025-06-16T07:15:29Z"
+    }
   }
 ]
