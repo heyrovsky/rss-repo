@@ -2666,5 +2666,637 @@
       },
       "published": "2025-06-20T13:02:49Z"
     }
+  },
+  {
+    "hash": "b3294ef96ea4b47a954acc736c66ddec6d9e4a38098e6104d89d9f5bb645b311",
+    "item": {
+      "title": "Intel Continues Working On Linear Address Space Separation \"LASS\" For Linux",
+      "description": "Going back to January of 2023 there were the initial Intel patches for the Linux kernel introducing Linear Address Space Separation (LASS). Two and a half years later, these Intel LASS patches remain in-development with today the sixth iteration of these patches having been posted...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-LASS-For-Linux-Mid-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-20T17:59:18Z"
+    }
+  },
+  {
+    "hash": "13a6048e19562924576e9021ea9ee3e19adcca5b9af3d1c45d43a21558101341",
+    "item": {
+      "title": "Apple x86 Touch Bar Input \u0026 Apple Magic Keyboard USB-C Support In Linux 6.17",
+      "description": "Over the past week a number of Apple device support additions have been queued up into the HID subsystem's \"for-next\" branch ahead of the Linux 6.17 kernel cycle...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-Apple-HID"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-20T17:10:02Z"
+    }
+  },
+  {
+    "hash": "9ee4a3cfd31d6c70c538e8b5a3572f3fd51a289981f1c8d36d2f7086f739d0d6",
+    "item": {
+      "title": "[$] A distributed filesystem for archival systems: ngnfs",
+      "description": "A new filesystem was the topic of a session led by Zach Brown at\nthe 2025 Linux Storage, Filesystem, Memory Management, and BPF Summit\n(LSFMM+BPF).  The \u003ca\nhref=\"https://git.infradead.org/?p=users/zab/ngnfs-progs.git\"\u003engnfs\u003c/a\u003e\nfilesystem is not a \"next generation\" NFS, as might be guessed from the\nname; Brown said that he did not think about that linkage\n(\"\u003cq\u003eI hate naming so much\u003c/q\u003e\") until it was pointed out to him by Chuck\nLever in an email.  It is, instead, a filesystem for enormous data sets\nthat are mostly stored offline.",
+      "links": [
+        "https://lwn.net/Articles/1025650/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-06-20T17:15:46Z"
+    }
+  },
+  {
+    "hash": "a79fff9ab710aca0c158a748f8bf8c60fd4b02e35eb7226e5c907b16b8e1227d",
+    "item": {
+      "title": "Qilin Ransomware Adds \"Call Lawyer\" Feature to Pressure Victims for Larger Ransoms",
+      "description": "The threat actors behind the Qilin ransomware-as-a-service (RaaS) scheme are now offering legal counsel for affiliates to put more pressure on victims to pay up, as the cybercrime group intensifies its activity and tries to fill the void left by its rivals.\nThe new feature takes the form of a \"Call Lawyer\" feature on the affiliate panel, per Israeli cybersecurity company Cybereason.\nThe",
+      "links": [
+        "https://thehackernews.com/2025/06/qilin-ransomware-adds-call-lawyer.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVeDt4FlPRuiDkl5hFPPzMUv2Pa4F6gJMBe1o0aWT27oUOY5KY70E0Xnv6YH1ldZkhOBWbIK7IWnIqU8w5ynOhQFl8RsZTP5zE2_TyHQguodGipOgtKC0RMFz-20DWDmr8haHsKtj5czP85KYBRb_vG-ObWZhH0ZRmbheavD_3paQIfmVAffJ8cVvVfIRA/s1600/ransomware-attack.jpg"
+      },
+      "published": "2025-06-20T16:35:00Z"
+    }
+  },
+  {
+    "hash": "d9c29716fbd0760cdce9c7a3acdf298270d95992d5b87c10f5a845ea6a7e688f",
+    "item": {
+      "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328598\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T15:23:29Z"
+    }
+  },
+  {
+    "hash": "4386cd3663fbbf547cdc4d53c785bcba76c4ccdee28d59e3411f3e51f75962bc",
+    "item": {
+      "title": "Show HN: Nxtscape – an open-source agentic browser",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44329457\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/nxtscape/nxtscape"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T16:35:55Z"
+    }
+  },
+  {
+    "hash": "1ea4c866977400b33d15e288fed3abd6d41cd02ae761969e6b5b82ee8f509ef5",
+    "item": {
+      "title": "YouTube's new anti-adblock measures",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44329712\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iter.ca/post/yt-adblock/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T17:01:35Z"
+    }
+  },
+  {
+    "hash": "00dffd316503ba0ecb18a65b6b9baa43615d1425c36a1c023b3b0ff31f021e3b",
+    "item": {
+      "title": "Phoenix.new – Remote AI Runtime for Phoenix",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328326\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T14:57:04Z"
+    }
+  },
+  {
+    "hash": "7089cc0ef7e03eb282d67d88d56c3c9112aaa0f8ef940cb5711814818a377060",
+    "item": {
+      "title": "Cracovians: The Twisted Twins of Matrices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44329449\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T16:35:05Z"
+    }
+  },
+  {
+    "hash": "5b25c3d824b1410fc5700e9898d6ffb6bc65ab2f2e7a0c50e8f5b59fa0c206a2",
+    "item": {
+      "title": "Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44326145\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T09:52:50Z"
+    }
+  },
+  {
+    "hash": "7d975fca6fe016c0faea49be80d8ac4084fb4d69fa37e4bc6fa24ac211dadca0",
+    "item": {
+      "title": "Rolling the ladder up behind us",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328894\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://xeiaso.net/blog/2025/rolling-ladder-behind-us/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T15:51:02Z"
+    }
+  },
+  {
+    "hash": "c33c5dec107bd70b5723011bb0fdbe27ad1d43b4e7e506eecfe22db01fbaea82",
+    "item": {
+      "title": "Klong: A Simple Array Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327173\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://t3x.org/klong/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T12:44:09Z"
+    }
+  },
+  {
+    "hash": "96a8afd917aec50228a2f93143ea23c01d328bd016970a24641eaa3bd3ef2aa3",
+    "item": {
+      "title": "How to Design Programs 2nd Ed (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328904\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://htdp.org"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T15:51:59Z"
+    }
+  },
+  {
+    "hash": "1fcf44aac80650e3eeca66925a34fd1bff534d6703cdb81f6823f07bdc5d9063",
+    "item": {
+      "title": "A Python-first data lakehouse",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44304607\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bauplanlabs.com/blog/everything-as-python"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-17T22:22:03Z"
+    }
+  },
+  {
+    "hash": "9ca1a5f814dfbb0841bcf94668fdff18e5befabd1ec7311aa7ef5703d2e41a54",
+    "item": {
+      "title": "Minimal auto-differentiation engine in Rust (for educational purposes)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327759\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/e3ntity/nanograd"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T13:53:34Z"
+    }
+  },
+  {
+    "hash": "eb41069fc43441257e60bb49423b3f73b23fad6bae779f759964f6f81d183033",
+    "item": {
+      "title": "A deep-dive explainer on Ink and Switch's BeeKEM protocol",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44297141\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-17T09:13:20Z"
+    }
+  },
+  {
+    "hash": "183ec6dce8111f24c96689aeffa9aec925eb20f1d90b5adb36c25c71555f3c04",
+    "item": {
+      "title": "HCP Vault Secrets End of Life",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328855\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.hashicorp.com/hc/en-us/articles/41802449287955-HCP-Vault-Secrets-End-Of-Life"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T15:47:21Z"
+    }
+  },
+  {
+    "hash": "0cf80efb1cdbd7749e3228f06228f9bec248e0bf545a1b77631a21560402a15f",
+    "item": {
+      "title": "An analysis of recent multithreading improvements for a smoother game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44303246\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dev.arma3.com/post/oprep-performance-optimizations-in-220"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-17T19:56:40Z"
+    }
+  },
+  {
+    "hash": "dc5d8b9b2e1a643517acd4ec47789966f637214baef4b8910f4b52fc88868b06",
+    "item": {
+      "title": "Congestion pricing in Manhattan is a predictable success",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328032\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T14:26:49Z"
+    }
+  },
+  {
+    "hash": "2edbdc9f70a696f68506c3a6df2fa107ca65e42c2a716da8e7f6080f65a18bf0",
+    "item": {
+      "title": "Show HN: SecureBuild – Zero-CVE Images That Pay OSS Projects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328405\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://securebuild.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T15:04:31Z"
+    }
+  },
+  {
+    "hash": "ae956d357dc28fbf4c5c23ba68d4503393ebb75cfaee67c42c2cb1ca35f01614",
+    "item": {
+      "title": "Emergence of Diffusion Models from Associative Memory",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328838\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2505.21777"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T15:45:48Z"
+    }
+  },
+  {
+    "hash": "88afc1c09fe899939027ba077f803bcb15d871d39567576abd25af68635216fe",
+    "item": {
+      "title": "BAYC and Pudgy Penguins Launch on TON, Making it the #1 NFT Blockchain – Is $5 Toncoin Coming?",
+      "description": "\u003cp class=\"\" data-start=\"406\" data-end=\"716\"\u003eTON has held the $3 threshold amid accelerating NFT growth, with BAYC bringing an official sticker pack to Telegram and Plush Pepe fetching $73,000 transactions. The blockchain has processed over 2 million NFT sales worth $300 million, outperforming Ethereum and Solana on its busiest day.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bayc-and-pudgy-penguins-launch-on-ton-making-it-the-1-nft-blockchain-is-5-toncoin-coming/\"\u003eBAYC and Pudgy Penguins Launch on TON, Making it the #1 NFT Blockchain – Is $5 Toncoin Coming?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bayc-and-pudgy-penguins-launch-on-ton-making-it-the-1-nft-blockchain-is-5-toncoin-coming/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "NFT",
+        "TON Blockchain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20162110/1750436469-image-1750436444264_optimized.jpg"
+      },
+      "published": "2025-06-20T18:07:32Z"
+    }
+  },
+  {
+    "hash": "e9d148d5bf5081a42af794a47c2b94eceb9855c4b7b5b9967b2b0678a569936d",
+    "item": {
+      "title": "Ignite the Crypto Revolution with ETHRANSACTION Dogecoin Cloud Mining",
+      "description": "\u003cp\u003eETHRANSACTION, the world's leading compliant cloud mining platform, is redefining the path to wealth creation in digital assets with disruptive technical strength and ultra-high return model!\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ignite-crypto-revolution-with-ethransaction-dogecoin-cloud-mining/\"\u003eIgnite the Crypto Revolution with ETHRANSACTION Dogecoin Cloud Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ignite-crypto-revolution-with-ethransaction-dogecoin-cloud-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "ethransaction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20164545/ignite-crypto-revolution-with-ethransaction-dogecoin-cloud-mining.jpg"
+      },
+      "published": "2025-06-20T16:48:10Z"
+    }
+  },
+  {
+    "hash": "531115e56003fc30a255c254fe91891ce84a9d85e13417eeb2e55f0b5d4a42f0",
+    "item": {
+      "title": "Ethereum Price Prediction: Is ETH Repeating Its 2017 Breakout Pattern – But Bigger?",
+      "description": "\u003cp\u003eThe historic breakout that propelled the Ethereum price to $1000 in 2017 may be setting up for a repeat, this time targeting $10,000.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-could-repeat-its-2017-breakout-but-bigger/\"\u003eEthereum Price Prediction: Is ETH Repeating Its 2017 Breakout Pattern – But Bigger? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-could-repeat-its-2017-breakout-but-bigger/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Ethereum",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20143300/1750429979-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-06-20T16:48:06Z"
+    }
+  },
+  {
+    "hash": "b29e1379fcde2e4fa470231ea9cbe3cdb839c02c4b0e19bfe9af113ea65f397a",
+    "item": {
+      "title": "Dogecoin Price Prediction: The Same Chart Pattern That Preceded DOGE’s 2021 Pump Is Flashing Again",
+      "description": "\u003cp\u003eA historic breakout setup and stacking fundamental catalysts are “All Lining Up” to make Dogecoin's current position 190% below its early 2025 high a reference point for a reversal.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-the-same-chart-pattern-that-preceded-doges-2021-pump-is-flashing-again/\"\u003eDogecoin Price Prediction: The Same Chart Pattern That Preceded DOGE’s 2021 Pump Is Flashing Again \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-the-same-chart-pattern-that-preceded-doges-2021-pump-is-flashing-again/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "DOGE",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20111629/1750418188-dogecoin-price-predictoin.jpg"
+      },
+      "published": "2025-06-20T16:42:18Z"
+    }
+  },
+  {
+    "hash": "8b9566f195d22d2a16396c54566b4cf47e73d591357ca0294870db37ebf91513",
+    "item": {
+      "title": "ALL4 Mining: Best Free Bitcoin (BTC) Dogecoin (DOGE) Cloud Mining Platform Regulated in the UK",
+      "description": "\u003cp\u003eALL4 Mining, a UK-regulated free cloud mining platform offering mining services for Bitcoin, Ripple, Dogecoin and many more, is pleased to announce the launch of its new mobile app. This timely launch enables users to access and manage their cloud mining investments anytime, anywhere, further democratizing cryptocurrency mining.Key highlights of the mobile app launch:Seamless mobile [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/all4-mining-best-free-bitcoin-dogecoin-cloud-mining-platform/\"\u003eALL4 Mining: Best Free Bitcoin (BTC) Dogecoin (DOGE) Cloud Mining Platform Regulated in the UK\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/all4-mining-best-free-bitcoin-dogecoin-cloud-mining-platform/"
+      ],
+      "categories": [
+        "Press Releases",
+        "all4 mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20163951/all4-mining-best-free-bitcoin-dogecoin-cloud-mining-platform.jpg"
+      },
+      "published": "2025-06-20T16:40:52Z"
+    }
+  },
+  {
+    "hash": "a213ff895ae0ffb94d634f2a2239611f9db3426c621f6406d871e0abf429b0ae",
+    "item": {
+      "title": "Markets Shaken But This Frog Stays Green as Wall Street Pepe (WEPE) Pumps 84%",
+      "description": "\u003cp class=\"\" data-start=\"429\" data-end=\"761\"\u003eAmid market losses linked to Middle East tension, WEPE has risen 84% in seven days, supported by an 80k-strong community that reports compounded gains of over 1,500%. Bitfinex has amplified the project on X, prompting speculation that the vetting process for a spot listing could be underway.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/wepe-pumps-84-percent-markets-shaken-pepe-stays-green/\"\u003eMarkets Shaken But This Frog Stays Green as Wall Street Pepe (WEPE) Pumps 84%\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/wepe-pumps-84-percent-markets-shaken-pepe-stays-green/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Wall Street Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20155024/1750434623-unnamed-86-1.jpg"
+      },
+      "published": "2025-06-20T16:00:19Z"
+    }
+  },
+  {
+    "hash": "57772b1327a6e9bd900da115ed5b40cf737e377842d3b59d883ede3c555f18cc",
+    "item": {
+      "title": "Countdown to Launch: 72 Hours Left to Grab $SOLX Below Listing Price as 35B SOLX Burn Confirmed, Over $55M in Funding",
+      "description": "\u003cp\u003eSolaxy has removed 55 billion SOLX from circulation in a final burn before its 23 June milestone, when token claims and a tri-chain bridge go live. The cut deepens scarcity as observers expect the first exchange listing, buoyed by $55 million backing and a Solana-aligned roadmap.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/solaxy-72-hours-buy-below-listing-price-35b-burn/\"\u003eCountdown to Launch: 72 Hours Left to Grab $SOLX Below Listing Price as 35B SOLX Burn Confirmed, Over $55M in Funding\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/solaxy-72-hours-buy-below-listing-price-35b-burn/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/20151147/1750432306-unnamed-85-1.jpg"
+      },
+      "published": "2025-06-20T15:12:42Z"
+    }
+  },
+  {
+    "hash": "de76379d5f23f3d68352dd01cac1e60d6ccf3f12a5efb5c9d299eaf0bfbfbe34",
+    "item": {
+      "title": "MIT student prints AI polymer masks to restore paintings in hours",
+      "description": "Removable transparent films apply digital restorations directly to damaged artwork.",
+      "links": [
+        "https://arstechnica.com/ai/2025/06/mit-student-prints-ai-polymer-masks-to-restore-paintings-in-hours/"
+      ],
+      "categories": [
+        "AI",
+        "Science",
+        "AI image generators",
+        "art restoration",
+        "computer vision",
+        "conservation technology",
+        "cultural preservation",
+        "digital art tools",
+        "image synthesis",
+        "machine learning",
+        "MIT",
+        "museums",
+        "polymer technology"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/MIT-Restoring-Paintings-01-press_0.jpg"
+      },
+      "published": "2025-06-20T17:32:33Z"
+    }
+  },
+  {
+    "hash": "c2294f07d933824b77c93f76ef8dc09d83737c58c7f2c2645e10c3a0f2b3a593",
+    "item": {
+      "title": "Man’s health crashes after getting donated kidney—it was riddled with worms",
+      "description": "Rare cases like this have led to changes in organ screening protocols.",
+      "links": [
+        "https://arstechnica.com/health/2025/06/mans-health-crashes-after-getting-donated-kidney-it-was-riddled-with-worms/"
+      ],
+      "categories": [
+        "Health",
+        "infection",
+        "Massachusetts General Hospital",
+        "NEJM",
+        "parasitic worms",
+        "strongyloides",
+        "Strongyloides stercoralis"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-179793196-1152x648.jpeg"
+      },
+      "published": "2025-06-20T17:17:02Z"
+    }
+  },
+  {
+    "hash": "e695829b8085b75a842dc0aa848f7dbbb4465d3e40cdcea75ba1e39583500d60",
+    "item": {
+      "title": "YouTube is hiding an excellent, official high-speed Pac-Man mod in plain sight",
+      "description": "\u003cem\u003ePac-Man Superfast\u003c/em\u003e turns the arcade classic into a high-octane reflex test.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/06/one-of-the-best-pac-man-games-in-years-is-playable-on-youtube-of-all-places/"
+      ],
+      "categories": [
+        "Gaming",
+        "Google",
+        "arcade",
+        "Classic",
+        "gaming",
+        "google",
+        "Namco",
+        "Pac-Man",
+        "YouTube"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/pmsf.png"
+      },
+      "published": "2025-06-20T17:01:24Z"
+    }
+  },
+  {
+    "hash": "616a34d25d08e07598af487db2bcc2a66cc0771e23037871fb7bcec7da2193ac",
+    "item": {
+      "title": "Rocket Report: Two big Asian reuse milestones, Vandenberg becomes SpaceX west",
+      "description": "\"This is potentially going to be a problem.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/06/rocket-report-two-big-asian-reuse-milestones-vandenberg-becomes-spacex-west/"
+      ],
+      "categories": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/landspace-1071x648.jpg"
+      },
+      "published": "2025-06-20T16:02:28Z"
+    }
+  },
+  {
+    "hash": "153d2becb6d644bdb084ee8c3020489d0d4a9bb24ab308b588649275c38aac72",
+    "item": {
+      "title": "Longer commercial breaks lower the value of ad-based streaming subscriptions",
+      "description": "WBD also started showing ads during HBO programming. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/maxs-longer-commercial-breaks-bring-ad-load-to-6-minutes-per-hour/"
+      ],
+      "categories": [
+        "Tech",
+        "ads",
+        "max",
+        "streaming",
+        "warner bros. discovery"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-26-at-12.00.56 PM-1152x648.png"
+      },
+      "published": "2025-06-20T15:46:19Z"
+    }
+  },
+  {
+    "hash": "f72b99e5748d65d6c7fb247a36e36cfe54e79837fb196b8306c80d01e3c5c3af",
+    "item": {
+      "title": "To avoid admitting ignorance, Meta AI says man’s number is a company helpline",
+      "description": "AI may compound the burden of having a similar phone number to a popular business.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/06/to-avoid-admitting-ignorance-meta-ai-says-mans-number-is-a-company-helpline/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "AI hallucination",
+        "Artificial Intelligence",
+        "chatbots",
+        "meta",
+        "Meta AI",
+        "online privacy",
+        "whatsapp"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-1997666795-1152x648.jpg"
+      },
+      "published": "2025-06-20T15:12:11Z"
+    }
   }
 ]
