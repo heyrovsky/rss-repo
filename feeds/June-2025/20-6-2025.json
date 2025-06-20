@@ -585,5 +585,118 @@
       },
       "published": "2025-06-19T19:33:46Z"
     }
+  },
+  {
+    "hash": "98bf11bb5ce098dee0bc289f4664441bd1a4a94b3c51560569cacc91fe180ae8",
+    "item": {
+      "title": "Intel Cleans Up LLVM/Clang For Misreporting CLDEMOTE On Arrow Lake \u0026 Future Hybrid CPUs",
+      "description": "Code compilers like the prominent GCC and LLVM/Clang have been advertising support for the Cache Line Demote \"CLDEMOTE\" instruction on Arrow Lake processors as well as Lunar Lake and upcoming Panther Lake hybrid processors. Intel engineers added that compiler plumbing but was inaccurate and inadvertently missed until now with this prominent instruction not being supported there...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Compilers-No-CLDEMOTE"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-20T01:37:49Z"
+    }
+  },
+  {
+    "hash": "09a0a2c07a85271aafdeda50807c1431ea1ae71fb7cdfe4929034cbddb0a2a42",
+    "item": {
+      "title": "Open source can't coordinate",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323904\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T01:06:12Z"
+    }
+  },
+  {
+    "hash": "ebf9be69dfe41b96a5d92ae9962e011750d69e46f2caefbc0f7559e65672e003",
+    "item": {
+      "title": "FedFlix — Public Domain Stock Footage Library",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323914\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://public.resource.org/ntis.gov/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T01:07:43Z"
+    }
+  },
+  {
+    "hash": "096975139504840308d3f8c5a06a16c35f07a12d6001247cb317cb9e2360d448",
+    "item": {
+      "title": "Infinite Mac OS X",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323719\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.persistent.info/2025/03/infinite-mac-os-x.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T00:16:57Z"
+    }
+  },
+  {
+    "hash": "9faec1a78a8c4d08edfb5225a32ae222b5e5a5d878e97a1c0b53c9b81a263c95",
+    "item": {
+      "title": "Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323389\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-19T23:17:39Z"
+    }
+  },
+  {
+    "hash": "b7eab90f282e1f4abbdb3f4546666e0fdd507451559949558ed0f2feeec785ab",
+    "item": {
+      "title": "Octobass",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44288595\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.atlasobscura.com/places/octobass"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-16T11:33:45Z"
+    }
+  },
+  {
+    "hash": "8b658b5dcc93d8cfcd59bce9891543b98cee16d948b7ba0257f6cbaef8fe852e",
+    "item": {
+      "title": "Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323411\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mastodon.gamedev.place/@pikuma/114711138512697712"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-19T23:21:40Z"
+    }
+  },
+  {
+    "hash": "cabaa2ed76e1e6ec7858a0575134e0a4238ddb73287c9c78e4fa96291e0b76f3",
+    "item": {
+      "title": "Show HN: ATAC, an event verification platform evidence based",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323982\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://atac.seraum.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T01:27:16Z"
+    }
+  },
+  {
+    "hash": "b6dbaba4dc114d858191e8723d11febd6e629210403655c289bebb204b60bf10",
+    "item": {
+      "title": "RaptorCast: Designing a Messaging Layer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44311968\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-18T17:57:44Z"
+    }
   }
 ]
