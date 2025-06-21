@@ -459,5 +459,481 @@
       },
       "published": "2025-06-21T01:19:43Z"
     }
+  },
+  {
+    "hash": "734e5a7b7ab613855eda10a83b0113969fced749125880cdfe361aa2d99d8c32",
+    "item": {
+      "title": "The Most Satisfying Way To Commit",
+      "description": "\u003cdiv\u003e\u003cimg width=\"768\" height=\"433\" src=\"https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png?w=768\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png 768w, https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png?resize=400,226 400w\" sizes=\"(max-width: 768px) 100vw, 768px\" data-attachment-id=\"787983\" data-permalink=\"https://hackaday.com/2025/06/20/the-most-satisfying-way-to-commit/git-push-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png\" data-orig-size=\"768,433\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"git-push-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png?w=768\" /\u003e\u003c/div\u003eHave you ever finished up a bit of code and thought that typing \u0026#8220;git push\u0026#8221; in a terminal is just not a satisfying finish? So did [penumbriel], so he built \u003ca href=\"https://hackaday.com/2025/06/20/the-most-satisfying-way-to-commit/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/the-most-satisfying-way-to-commit/"
+      ],
+      "categories": [
+        "Arduino Hacks",
+        "classic hacks",
+        "front panel",
+        "Git",
+        "macro pad",
+        "silicone"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/git-push-feat-e1750425261833.png"
+      },
+      "published": "2025-06-21T05:00:56Z"
+    }
+  },
+  {
+    "hash": "0b7638e3dd36b49952b7b3a4920eefb99138565ca15fc4b00a79e26a3d726727",
+    "item": {
+      "title": "ELIZA Reanimated",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"788035\" data-permalink=\"https://hackaday.com/2025/06/20/eliza-reanimated/eliza-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"eliza-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg?w=800\" /\u003e\u003c/div\u003eThe last time we checked in with the ELIZA archeology project, they had unearthed the earliest known copy of the code for the infamous computer psychiatrist written in MAD-SLIP. After \u003ca href=\"https://hackaday.com/2025/06/20/eliza-reanimated/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/eliza-reanimated/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Retrocomputing",
+        "chatbot",
+        "eliza"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/eliza-featured.jpg"
+      },
+      "published": "2025-06-21T02:00:17Z"
+    }
+  },
+  {
+    "hash": "d7f712f382e3d92b5b4332daef9863ccda01f5bdf2cfa1e7d7b1d0eee5e13c7b",
+    "item": {
+      "title": "PVA Filament: Not Always What it Seems",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"369\" src=\"https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg 1377w, https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg?resize=250,115 250w, https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg?resize=400,184 400w, https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg?resize=800,369 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"787967\" data-permalink=\"https://hackaday.com/2025/06/20/pva-filament-not-always-what-it-seems/pva_filament_dissolving_lost_in_tech_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg\" data-orig-size=\"1377,635\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"PVA_filament_dissolving_lost_in_tech_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg?w=800\" /\u003e\u003c/div\u003ePVA filament is an interesting filament type, for the reason that while it can be printed with any FDM printer, it supposedly readily dissolves in water, which is also the \u003ca href=\"https://hackaday.com/2025/06/20/pva-filament-not-always-what-it-seems/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/pva-filament-not-always-what-it-seems/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "PVA",
+        "PVA glue"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/PVA_filament_dissolving_lost_in_tech_youtube.jpg"
+      },
+      "published": "2025-06-20T23:00:15Z"
+    }
+  },
+  {
+    "hash": "47cff184f65a1192ade3f9f6ee01a61743c3b90bcf8e2db9d43c2bef627321ba",
+    "item": {
+      "title": "Building Diode and Diode-Transistor Logic Gates",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"487\" src=\"https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg 1264w, https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg?resize=250,152 250w, https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg?resize=400,244 400w, https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg?resize=800,487 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"787988\" data-permalink=\"https://hackaday.com/2025/06/20/building-diode-and-diode-transistor-logic-gates/diode-transistor_logic_gates_anthony_francis-jones_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg\" data-orig-size=\"1264,770\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"diode-transistor_logic_gates_anthony_francis-jones_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg?w=800\" /\u003e\u003c/div\u003eThe fun part about logic gates is that there are so many ways to make them, with each approach having its own advantages and disadvantages. Although these days transistor-transistor logic \u003ca href=\"https://hackaday.com/2025/06/20/building-diode-and-diode-transistor-logic-gates/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/building-diode-and-diode-transistor-logic-gates/"
+      ],
+      "categories": [
+        "how-to",
+        "diode-transistor logic",
+        "DTL",
+        "logic gates"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/diode-transistor_logic_gates_anthony_francis-jones_youtube.jpg"
+      },
+      "published": "2025-06-20T20:00:34Z"
+    }
+  },
+  {
+    "hash": "2360a23e12fe10a9e36ff294c98058dc81afede9e5c7fdbbfd4144adc5330560",
+    "item": {
+      "title": "All You Need To Know About Photographic Lenses",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"787973\" data-permalink=\"https://hackaday.com/2025/06/20/all-you-need-to-know-about-photographic-lenses/lens-primer-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"lens-primer-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg?w=800\" /\u003e\u003c/div\u003eIf you have ever played around with lenses, you\u0026#8217;ll know that a convex lens can focus an image onto a target. It can be as simple as focusing the sun \u003ca href=\"https://hackaday.com/2025/06/20/all-you-need-to-know-about-photographic-lenses/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/all-you-need-to-know-about-photographic-lenses/"
+      ],
+      "categories": [
+        "digital cameras hacks",
+        "camera design",
+        "lens",
+        "lens design"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/lens-primer-featured.jpg"
+      },
+      "published": "2025-06-20T18:30:38Z"
+    }
+  },
+  {
+    "hash": "de3a3a166d2f023a4af07c6a08b81e01ad33a1727c655c18c98257b503a72c2f",
+    "item": {
+      "title": "Hackaday Podcast Episode 325: The Laugh Track Machine, DIY USB-C Power Cables, and Plastic Punches",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg 3000w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"202654\" data-permalink=\"https://hackaday.com/2016/05/02/blue-ribbon-microphone/microphone/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Microphone\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" /\u003e\u003c/div\u003eThis week, Hackaday\u0026#8217;s Elliot Williams and Al Williams caught up after a week-long hiatus. There was a lot to talk about, including clocks, DIY USB cables, and more. In Hackaday \u003ca href=\"https://hackaday.com/2025/06/20/hackaday-podcast-episode-325-the-laugh-track-machine-diy-usb-c-power-cables-and-plastic-punches/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/hackaday-podcast-episode-325-the-laugh-track-machine-diy-usb-c-power-cables-and-plastic-punches/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "Hackaday Podcast"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg"
+      },
+      "published": "2025-06-20T16:00:51Z"
+    }
+  },
+  {
+    "hash": "e439db391fd4a6ddafb5a5ca893c951d84c4e823736fa006b5faffb43c559f6f",
+    "item": {
+      "title": "Pi Pico Powers Parts-Bin Audio Interface",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp 926w, https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp?resize=800,451 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"787917\" data-permalink=\"https://hackaday.com/2025/06/20/pi-pico-powers-parts-bin-audio-interface/pico-sound-interface/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp\" data-orig-size=\"926,522\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pico-sound-interface\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp?w=800\" /\u003e\u003c/div\u003eUSB audio is great, but what if you needed to use it and had no budget? Well, depending on the contents of your parts bin, you might be able to \u003ca href=\"https://hackaday.com/2025/06/20/pi-pico-powers-parts-bin-audio-interface/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/06/20/pi-pico-powers-parts-bin-audio-interface/"
+      ],
+      "categories": [
+        "digital audio hacks",
+        "Microcontrollers",
+        "adc",
+        "Paspberry Pi Pico",
+        "usb audio"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/pico-sound-interface-e1750364467744.webp"
+      },
+      "published": "2025-06-20T15:30:14Z"
+    }
+  },
+  {
+    "hash": "ce0112ebfa8084e36c6786a2605f040419b021490ab9e9c3002a69c5fff51646",
+    "item": {
+      "title": "Signal – An Ethical Replacement for WhatsApp",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44334743\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://greenstarsproject.org/2025/06/15/signal-an-ethical-replacement-for-whatsapp/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-21T05:21:49Z"
+    }
+  },
+  {
+    "hash": "b2018b57fa170e1834d22b93ab9d571d830230c55e261e76ac2d8bafec0017a5",
+    "item": {
+      "title": "Tiny Undervalued Hardware Companions (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333960\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-21T02:19:47Z"
+    }
+  },
+  {
+    "hash": "8d2a53b9baccf7d7573b0fda839b5bea8316ad86e2d56bbee3518e62a5fcc0cc",
+    "item": {
+      "title": "Mathematicians Hunting Prime Numbers Discover Infinite New Pattern",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44315188\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-19T03:28:29Z"
+    }
+  },
+  {
+    "hash": "007c76db79520c3d5b0caf985b1f7ba098e2a8d671d5add5dc68bf3f5b3bc5e1",
+    "item": {
+      "title": "Chromium Switching from Ninja to Siso",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44307972\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-18T08:49:42Z"
+    }
+  },
+  {
+    "hash": "d7c8561f05eaa0afbd37d01381704673b24561989251a98e1f68aa292fba69b4",
+    "item": {
+      "title": "The Cult of Personality and Its Consequences",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44334472\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-21T04:19:56Z"
+    }
+  },
+  {
+    "hash": "31111ddd2f9055750eb5bcb87ab558e99ae06c607e9644640d8298637dd013b7",
+    "item": {
+      "title": "Binance Unveils Locked Addresses and Concentration Indicator to Boost Token Transparency",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Unveils Locked Addresses and Concentration Indicator to Boost Token Transparency\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eNew Locked Addresses and Concentration Indicator were introduced today by Binance, the leading global blockchain ecosystem that is behind the world\u0026#8217;s biggest cryptocurrency exchange, which is trusted by more than 275 million customers. In addition to being the first launch of its sort by a major cryptocurrency exchange, it is also a",
+      "links": [
+        "https://thenewscrypto.com/binance-unveils-locked-addresses-and-concentration-indicator-to-boost-token-transparency/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg"
+      },
+      "published": "2025-06-20T20:48:20Z"
+    }
+  },
+  {
+    "hash": "3b400473f0e8deeb426535db17d79c4d674e39789f7171524b8b42b9338b5198",
+    "item": {
+      "title": "Cartesi Launches Upgraded Version of Honeypot dApp with Fraud-Proof System",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Cartesi_Launches_Upgraded_Version_of_Honeypot_dApp_with_Fraud_Proof.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cartesi Launches Upgraded Version of Honeypot dApp with Fraud-Proof System\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Cartesi_Launches_Upgraded_Version_of_Honeypot_dApp_with_Fraud_Proof.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Cartesi_Launches_Upgraded_Version_of_Honeypot_dApp_with_Fraud_Proof-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Cartesi_Launches_Upgraded_Version_of_Honeypot_dApp_with_Fraud_Proof-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAn upgraded version of Cartesi\u0026#8217;s Honeypot decentralized application (dApp) has been launched, which raises the bar for rollup security standards. Cartesi is a modular blockchain system that first pioneered application-specific rollups. Cartesi is one of 26 projects that have managed to maintain their Ethereum L2 status in accordance with the new standards established",
+      "links": [
+        "https://thenewscrypto.com/cartesi-launches-upgraded-version-of-honeypot-dapp-with-fraud-proof-system/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Cartesi_Launches_Upgraded_Version_of_Honeypot_dApp_with_Fraud_Proof.jpg"
+      },
+      "published": "2025-06-20T20:26:01Z"
+    }
+  },
+  {
+    "hash": "f929160b5a92040a895e78637284cf009131b012c15e8b1c441cd7ecdb1e4732",
+    "item": {
+      "title": "Bitcoin Cash Price Momentum Builds, Will Continued Buying Pressure Push BCH to New Highs?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin-Cash-Price-Momentum-Builds-Will-Continued-Buying-Pressure-Push-BCH-to-New-Highs.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Cash Price Momentum Builds, Will Continued Buying Pressure Push BCH to New Highs?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin-Cash-Price-Momentum-Builds-Will-Continued-Buying-Pressure-Push-BCH-to-New-Highs.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin-Cash-Price-Momentum-Builds-Will-Continued-Buying-Pressure-Push-BCH-to-New-Highs-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin-Cash-Price-Momentum-Builds-Will-Continued-Buying-Pressure-Push-BCH-to-New-Highs-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe broader crypto market is swinging within red and green charts over the past few days. Major asset’s price charts are printed in red, with Bitcoin and Ethereum hovers at around $104K and $2.5K. Notably the overall fear and greed index value is sitting at 48, displaying neutral sentiment.\u0026#160; Meanwhile,",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-cash-price-momentum-builds-will-continued-buying-pressure-push-bch-to-new-highs/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "BCH",
+        "Bitcoin Cash",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin-Cash-Price-Momentum-Builds-Will-Continued-Buying-Pressure-Push-BCH-to-New-Highs.jpg"
+      },
+      "published": "2025-06-20T18:27:57Z"
+    }
+  },
+  {
+    "hash": "1fb38028aa9b87e5535bf836574f1e2ac123c4fcc001a4be9f6e98b7bfdf7127",
+    "item": {
+      "title": "Mantle (MNT) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mantle (MNT) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Mantle (MNT) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of MNT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Mantle (MNT) Current Market Status What is Mantle (MNT)? Mantle (MNT) 24H Technicals MANTLE (MNT)",
+      "links": [
+        "https://thenewscrypto.com/mantle-mnt-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Mantle",
+        "MNT",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg"
+      },
+      "published": "2025-06-20T18:24:12Z"
+    }
+  },
+  {
+    "hash": "dd0c5716eb9262042bc46cbe4efe52393b54822d357863ee93357e82aa1fdb46",
+    "item": {
+      "title": "Bitcoin Cash (BCH) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/07/Bitcoin-Cash-BCH_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Cash (BCH) Price Prediction 2023\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/07/Bitcoin-Cash-BCH_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/07/Bitcoin-Cash-BCH_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/07/Bitcoin-Cash-BCH_Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/07/Bitcoin-Cash-BCH_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Bitcoin Cash (BCH) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of BCH by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Bitcoin Cash (BCH) Current Market Status What is Bitcoin Cash (BCH)? Bitcoin Cash (BCH)",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-cash-bch-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "BCH",
+        "Bitcoin Cash",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/07/Bitcoin-Cash-BCH_Price-prediction.jpg"
+      },
+      "published": "2025-06-20T18:11:09Z"
+    }
+  },
+  {
+    "hash": "8de897dafde67de8c9ea113c0c0303279e2ddbd1bc9bf4bdcdc06e9e6cd33e43",
+    "item": {
+      "title": "DWF Ventures Publishes Analysis of Pump.fun Token Sale",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/DWF-Ventures-Publishes-Analysis-of-Pump.fun-Token-Sale.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"DWF Ventures Publishes Analysis of Pump.fun Token Sale\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/DWF-Ventures-Publishes-Analysis-of-Pump.fun-Token-Sale.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/DWF-Ventures-Publishes-Analysis-of-Pump.fun-Token-Sale-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/DWF-Ventures-Publishes-Analysis-of-Pump.fun-Token-Sale-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDubai, UAE, 20th June 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/dwf-ventures-publishes-analysis-of-pump-fun-token-sale/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/DWF-Ventures-Publishes-Analysis-of-Pump.fun-Token-Sale.jpg"
+      },
+      "published": "2025-06-20T14:52:37Z"
+    }
+  },
+  {
+    "hash": "ed44e1d679fee63bbe4ca6882fe8a1d5c1b2554cea5b767453990f742491e0e3",
+    "item": {
+      "title": "GateToken (GT) Rockets Past 10% Gains, Will It Break Barriers or Burn Out?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/GateToken-GT-Rockets-Past-10-Gains-Will-It-Break-Barriers-or-Burn-Out.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"GateToken (GT) Rockets Past 10% Gains, Will It Break Barriers or Burn Out?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/GateToken-GT-Rockets-Past-10-Gains-Will-It-Break-Barriers-or-Burn-Out.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/GateToken-GT-Rockets-Past-10-Gains-Will-It-Break-Barriers-or-Burn-Out-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/GateToken-GT-Rockets-Past-10-Gains-Will-It-Break-Barriers-or-Burn-Out-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith a brief 1.10% bullish correction, the crypto assets have stepped into the green zone, reclaiming their recent highs. The largest assets, like Bitcoin (BTC) and Ethereum (ETH), are hovering at $106.1K and $2.5K. Among the altcoins, GateToken (GT) has emerged as one of the top gainers, gaining by over",
+      "links": [
+        "https://thenewscrypto.com/gatetoken-gt-rockets-past-10-gains-will-it-break-barriers-or-burn-out/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "GateToken",
+        "GT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/GateToken-GT-Rockets-Past-10-Gains-Will-It-Break-Barriers-or-Burn-Out.jpg"
+      },
+      "published": "2025-06-20T14:02:44Z"
+    }
+  },
+  {
+    "hash": "b9adc1c2754eee6d78b8088c09448c427ff19fcaefc0f922aed6d37b4a08b35a",
+    "item": {
+      "title": "Ethereum Bulls Eye $10K in 2025—But Can Ozak AI Rally From $0.005 to $1 for a 200x Move?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Ethereum_Bulls_Eye_10K_in_2025—But_Can_Ozak_AI_Rally_From_0_005.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Bulls Eye $10K in 2025—But Can Ozak AI Rally From $0.005 to $1 for a 200x Move?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Ethereum_Bulls_Eye_10K_in_2025—But_Can_Ozak_AI_Rally_From_0_005.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Ethereum_Bulls_Eye_10K_in_2025—But_Can_Ozak_AI_Rally_From_0_005-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Ethereum_Bulls_Eye_10K_in_2025—But_Can_Ozak_AI_Rally_From_0_005-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEthereum (ETH) and emerging AI-powered projects like Ozak AI are capturing serious investor attention. Ethereum’s developing dominance in smart contracts and DeFi suggests a sturdy course towards a $10,000 price target in 2025. But whilst ETH offers solid growth potential, it’s Ozak AI, with a present presale price of simply",
+      "links": [
+        "https://thenewscrypto.com/ethereum-bulls-eye-10k-in-2025-but-can-ozak-ai-rally-from-0-005-to-1-for-a-200x-move/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Ethereum_Bulls_Eye_10K_in_2025—But_Can_Ozak_AI_Rally_From_0_005.jpg"
+      },
+      "published": "2025-06-20T12:26:00Z"
+    }
+  },
+  {
+    "hash": "9d43f25a1e976f14225ea4e9ae156af27b6a6e358991135d860b22ea256ece09",
+    "item": {
+      "title": "Bitcoin to $250K or Ozak AI to $1 First? 2025 Price Forecasts Reveal Which Crypto Could 100x Faster",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin_to_250K_or_Ozak_AI_to_1_First_2025_Price_Forecasts_Reveal.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Could Double by 2025, but Ozak AI’s $1 Forecast Means 200x Returns Are on the Table\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin_to_250K_or_Ozak_AI_to_1_First_2025_Price_Forecasts_Reveal.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin_to_250K_or_Ozak_AI_to_1_First_2025_Price_Forecasts_Reveal-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin_to_250K_or_Ozak_AI_to_1_First_2025_Price_Forecasts_Reveal-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrypto market gears up for another explosive bull cycle in 2025, investors are asking one key question: Will Bitcoin reach $250,000 first, or will Ozak AI surge from $0.005 to $1 before that happens? Both assets are gaining traction in their own right, but their growth trajectories and risk-reward profiles",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-to-250k-or-ozak-ai-to-1-first-2025-price-forecasts-reveal-which-crypto-could-100x-faster/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoin_to_250K_or_Ozak_AI_to_1_First_2025_Price_Forecasts_Reveal.jpg"
+      },
+      "published": "2025-06-20T11:24:45Z"
+    }
   }
 ]
