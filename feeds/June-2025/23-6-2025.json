@@ -2774,5 +2774,666 @@
       },
       "published": "2025-06-23T12:40:05Z"
     }
+  },
+  {
+    "hash": "b5864a97f910cf5cc226f68bda7f8d43907278151670575bee50d2b610036728",
+    "item": {
+      "title": "Judge denies creating “mass surveillance program” harming all ChatGPT users",
+      "description": "OpenAI will fight order to keep all ChatGPT logs after users fail to sway court.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "Artificial Intelligence",
+        "chatbots",
+        "ChatGPT",
+        "copyright",
+        "copyright infringement",
+        "Fourth Amendment",
+        "new york times",
+        "online privacy",
+        "openai",
+        "user privacy"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2185905668-1152x648.jpg"
+      },
+      "published": "2025-06-23T17:33:11Z"
+    }
+  },
+  {
+    "hash": "8a74416ba540072a25c051b8a6f27cfd736da100c008a04077b87c0951801331",
+    "item": {
+      "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux",
+      "description": "It's funny how useful a 34-year-old software design can still be.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/microsoft-surprises-ms-dos-fans-with-remake-of-ancient-text-editor-that-works-on-linux/"
+      ],
+      "categories": [
+        "Tech",
+        "command line",
+        "GitHub",
+        "Linux",
+        "microsoft",
+        "MS-DOS",
+        "open source",
+        "Programming",
+        "retrocomputing",
+        "retrotech",
+        "rust",
+        "Simon Willison",
+        "software development",
+        "text editors",
+        "Ubuntu",
+        "Vintage computing",
+        "Windows"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ms-dos_2x-1152x648.png"
+      },
+      "published": "2025-06-23T17:23:35Z"
+    }
+  },
+  {
+    "hash": "1fe26807be636f8a97acff306350341387266a0a5fe2b415b6a73955fdd084f3",
+    "item": {
+      "title": "Crunch time—we’ll soon find out if Amazon’s launch providers are up to the job",
+      "description": "ULA has been waiting on Amazon's satellites for years, but Amazon will soon be waiting on rockets.",
+      "links": [
+        "https://arstechnica.com/space/2025/06/crunch-time-well-soon-find-out-if-amazons-launch-providers-are-up-to-the-job/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "Amazon",
+        "atlas v",
+        "broadband",
+        "kuiper",
+        "launch",
+        "megaconstellation",
+        "united launch alliance"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/54608561804_3cc30b4382_o-1152x648-1750697361.jpg"
+      },
+      "published": "2025-06-23T17:13:27Z"
+    }
+  },
+  {
+    "hash": "86b3bef52a61983d65b970b97adfda18288b9ffbba9082a71c93048a8dad9aa8",
+    "item": {
+      "title": "Google brings new Gemini features to Chromebooks, debuts first on-device AI",
+      "description": "Google is bringing its AI obsession to Chrome OS.",
+      "links": [
+        "https://arstechnica.com/google/2025/06/google-brings-new-gemini-features-to-chromebooks-debuts-first-on-device-ai/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "chromebooks",
+        "google"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg"
+      },
+      "published": "2025-06-23T16:56:24Z"
+    }
+  },
+  {
+    "hash": "2fc44db04cbe18cdd4f3ba6e770ef9aab60773ad94841a88041396a46036f424",
+    "item": {
+      "title": "Tesla launches robotaxi service in Austin",
+      "description": "Self-driving technology on which Elon Musk has staked future of his company debuts in Texas.",
+      "links": [
+        "https://arstechnica.com/cars/2025/06/tesla-launches-robotaxi-service-in-austin/"
+      ],
+      "categories": [
+        "Cars",
+        "austin",
+        "Elon Musk",
+        "robotaxi",
+        "robotaxis",
+        "syndication",
+        "Tesla"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Rafe Uddin, Stephen Morris, and Kana Inagaki, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2220743970-1152x648.jpg"
+      },
+      "published": "2025-06-23T16:52:05Z"
+    }
+  },
+  {
+    "hash": "4996672a68989abd435bd3a5ef17cbc92c59d013d0fc89e15eb5d59b125d30bc",
+    "item": {
+      "title": "Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content",
+      "description": "Cybersecurity researchers are calling attention to a new jailbreaking method called Echo Chamber that could be leveraged to trick popular large language models (LLMs) into generating undesirable responses, irrespective of the safeguards put in place.\n\"Unlike traditional jailbreaks that rely on adversarial phrasing or character obfuscation, Echo Chamber weaponizes indirect references, semantic",
+      "links": [
+        "https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJJ6nMvSneK5ERpvUgdlIeeGVJh1HzwJ9HdDlZJCtSmsTAlSJTOSXxv5G2dUqpOQbcaysZo2GFo5KTMyWzVxD7COvvMuTd8dsk2u3ioPalSRmrKS3a1-DCs_2JGVY-f1nuVXZ-C19JWqQoWGu-An5_aPRTuaXqI443Jcrdldd9yGcG0KKtiSnbjrojZAiE/s1600/chatgpt.jpg"
+      },
+      "published": "2025-06-23T15:58:00Z"
+    }
+  },
+  {
+    "hash": "e413d1a91d12668bf46f9f68f971ead77f2646172349c49fb6beb8cd0594c8a6",
+    "item": {
+      "title": "DHS Warns Pro-Iranian Hackers Likely to Target U.S. Networks After Iranian Nuclear Strikes",
+      "description": "The United States government has warned of cyber attacks mounted by pro-Iranian groups after it launched airstrikes on Iranian nuclear sites as part of the Iran–Israel war that commenced on June 13, 2025.\nStating that the ongoing conflict has created a \"heightened threat environment\" in the country, the Department of Homeland Security (DHS) said in a bulletin that cyber actors are likely to",
+      "links": [
+        "https://thehackernews.com/2025/06/dhs-warns-pro-iranian-hackers-likely-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX95e2Q5m0BEh8axXtneCEbnZORGcEWa9-R7mZCDrIgL3dMX0sPgdo2zwrLLM3BZOtcHl-RvoRzoERw7ie41-RLrwsUQA6qhbwRtHUNP6uS5jHSog7vocIVnKiDGCIwIJsZBHk9cZNtUig3rMykaP-yj7Ra0TgcQCGxA5MSAvP018jUiE78A4H4dYhdOSr/s1600/cyberwar.jpg"
+      },
+      "published": "2025-06-23T15:14:00Z"
+    }
+  },
+  {
+    "hash": "2842a56233223a7198e441abfcccf6df714ce409082c7fe8c33c72dc0dbb57c1",
+    "item": {
+      "title": "PostmarketOS 25.06: \"the one with systemd\"",
+      "description": "\u003cp\u003eThe \u003ca href=\"https://postmarketos.org/\"\u003epostmarketOS\u003c/a\u003e project,\nwhich creates a Linux distribution for mobile devices, \u003ca\nhref=\"https://postmarketos.org/blog/2024/03/05/adding-systemd/\"\u003eannounced\u003c/a\u003e\nit was working on adding a version with systemd last March. That day\nhas arrived with the \u003ca\nhref=\"https://postmarketos.org/blog/2025/06/22/v25.06-release/\"\u003eannouncement\nof version 25.06\u003c/a\u003e:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nWe considered supporting an upgrade from OpenRC to systemd in our\nupgrade script, but then decided against it as such an upgrade path\nmight introduce its own bugs and we would rather spend the time\nimproving other parts of postmarketOS. So for this one-time scenario\nwe ask you to please reinstall postmarketOS to get from OpenRC to\nsystemd. Thank you for your understanding!\n\u003c/blockquote\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1026531/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-06-23T15:32:45Z"
+    }
+  },
+  {
+    "hash": "b057f32b06fdb59b609761f6d3c901d718205628c724e3de833d394df01702a9",
+    "item": {
+      "title": "Intel Xeon 6300 vs. AMD EPYC 4005 SMT/HT Performance",
+      "description": "While the latest Intel Core Ultra processors have done away with Hyper Threading (HT), Intel Xeon CPUs continue supporting HT/SMT, including with their latest Xeon 6300 series budget server processors. As the new AMD EPYC 4005 \"Grado\" processors also support Simultaneous Multi-Threading (SMT) and can be found at the same core/thread count count as the flagship Xeon 6369P processor, it makes for an interesting look at comparing the SMT/HT performance impact and power efficiency. Here are some benchmarks showing the Xeon 6300 against the AMD EPYC 4005 in SMT performance.",
+      "links": [
+        "https://www.phoronix.com/review/intel-xeon-6300-amd-epyc-4005-smt"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-23T16:00:00Z"
+    }
+  },
+  {
+    "hash": "3548e5a4fd26b1fef1b00a356aa961a3adbf157a3bc458bb49fab598e032f24f",
+    "item": {
+      "title": "Robert Kiyosaki Warns of Bitcoin Crash Amid War Tensions, Bets Big on Silver",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Robert Kiyosaki Warns of Bitcoin Crash Amid War Tensions, Bets Big on Silver\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs tensions between Iran and Israel rise, Rich Dad Poor Dad author Robert Kiyosaki—who predicts an impending \u0026#8220;Global Monetary Collapse\u0026#8221;—predicts a Bitcoin meltdown. With a risk-off attitude on the rise due to increasing global tensions, Kiyosaki thinks silver is the ideal investment right now. Not only that, but the billionaire",
+      "links": [
+        "https://thenewscrypto.com/robert-kiyosaki-warns-of-bitcoin-crash-amid-war-tensions-bets-big-on-silver/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM.jpeg"
+      },
+      "published": "2025-06-23T14:16:09Z"
+    }
+  },
+  {
+    "hash": "c6e763387297759c9c3094b2fdcee7b27ae75d15fd1331c9f07423a59aa90818",
+    "item": {
+      "title": "XRP (XRP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Prediction\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-150x84.jpg 150w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this XRP (XRP) price prediction for 2025, 2026-2030,\u0026#160;we will analyze the price patterns of XRP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION XRP (XRP) Current Market Status What is XRP (XRP)? XRP (XRP) 24H Technicals XRP (XRP)",
+      "links": [
+        "https://thenewscrypto.com/ripple-xrp-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Monisha"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg"
+      },
+      "published": "2025-06-23T14:03:11Z"
+    }
+  },
+  {
+    "hash": "7a2bd94c7f0a4847848947534d1ac33a8276c3d573c22888763fab50658bcee4",
+    "item": {
+      "title": "Solana (SOL) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/05/Solana-SOL-_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana (SOL)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/05/Solana-SOL-_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/05/Solana-SOL-_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/05/Solana-SOL-_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Solana (SOL) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of SOL by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Solana (SOL) Current Market Status What is Solana (SOL)? Solana (SOL) 24H Technicals SOLANA (SOL) PRICE",
+      "links": [
+        "https://thenewscrypto.com/solana-sol-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "SOL",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/05/Solana-SOL-_Price-prediction.jpg"
+      },
+      "published": "2025-06-23T13:55:14Z"
+    }
+  },
+  {
+    "hash": "92c9ce0a715bf36eda909fe16a38d4d3868982305647a63e507e8467e0ecc9ac",
+    "item": {
+      "title": "Four (FORM) Fires Up 11%, Will the Momentum Fuel Bigger Gains?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Four-FORM-Fires-Up-11-Will-the-Momentum-Fuel-Bigger-Gains.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Four (FORM) Fires Up 11%, Will the Momentum Fuel Bigger Gains?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Four-FORM-Fires-Up-11-Will-the-Momentum-Fuel-Bigger-Gains.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Four-FORM-Fires-Up-11-Will-the-Momentum-Fuel-Bigger-Gains-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Four-FORM-Fires-Up-11-Will-the-Momentum-Fuel-Bigger-Gains-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe overall crypto market cap has slipped by 1.04%, settled at $3.11 trillion. Notably, the fear sentiment is hovering across the assets, with the fear and greed index value holding at 37. Among the altcoins, Four (FORM) has jumped by over 11.61% in the last 24 hours, emerging as the",
+      "links": [
+        "https://thenewscrypto.com/four-form-fires-up-11-will-the-momentum-fuel-bigger-gains/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Four-FORM-Fires-Up-11-Will-the-Momentum-Fuel-Bigger-Gains.jpg"
+      },
+      "published": "2025-06-23T13:38:50Z"
+    }
+  },
+  {
+    "hash": "161dc9e529af7544f6121c67eef24a9d16ac37849dd469070bcf8a7c98cda2b5",
+    "item": {
+      "title": "R0AR Lists on BitMart: $1R0R Makes CEX Debut",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y-376x212.jpg 376w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eSheridan, wyoming, 23rd June 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/r0ar-lists-on-bitmart-1r0r-makes-cex-debut/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/5153b86c-e9d9-42cc-93c8-32a12513bae0_1750175817vQiXzHTT4y.jpg"
+      },
+      "published": "2025-06-23T13:15:20Z"
+    }
+  },
+  {
+    "hash": "7866c00535508d8a2932c6165850f4eb40307cc643396017620a45062cbadf20",
+    "item": {
+      "title": "GAP 3 Partners FZCO Becomes Dubai’s First Regulated Virtual Asset Investment Advisor with Operational License from VARA",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Gap3_Partners_4_1750244260MkDolbmhwZ.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Gap3_Partners_4_1750244260MkDolbmhwZ.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/06/Gap3_Partners_4_1750244260MkDolbmhwZ-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Gap3_Partners_4_1750244260MkDolbmhwZ-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/06/Gap3_Partners_4_1750244260MkDolbmhwZ-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eDubai, UAE, 23rd June 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gap-3-partners-fzco-becomes-dubais-first-regulated-virtual-asset-investment-advisor-with-operational-license-from-vara/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Gap3_Partners_4_1750244260MkDolbmhwZ.jpg"
+      },
+      "published": "2025-06-23T13:05:18Z"
+    }
+  },
+  {
+    "hash": "479b48e3107fd19dd988f98273e756e4997c4072ad3cb73b0062492a88baedca",
+    "item": {
+      "title": "DRIL Brings a Unique SocialFi Experience to Solana, Making Web3 Interaction More Creative",
+      "description": "\u003cp\u003e\u003cimg width=\"831\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-91.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-91.jpg 831w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-91-300x160.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-91-768x410.jpg 768w\" sizes=\"auto, (max-width: 831px) 100vw, 831px\" /\u003e\u003c/p\u003eDril (DrilDotFun) Dril Brings Unique SocialFi to Solana, Inspired by 4chan and Reddit Blockchain projects appear frequently, but only a few genuinely reshape community engagement. Dril, launched recently on Solana via the PumpFun platform, has quickly stood out, inspired by the bold anonymity of 4chan and the rewarding interactions of",
+      "links": [
+        "https://thenewscrypto.com/dril-brings-a-unique-socialfi-experience-to-solana-making-web3-interaction-more-creative/"
+      ],
+      "categories": [
+        "Press Release",
+        "Dril"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-91.jpg"
+      },
+      "published": "2025-06-23T11:10:39Z"
+    }
+  },
+  {
+    "hash": "ec404502ade0e74f5550f89eb42d4a54cd3284577aba820eca2160dd4a18a9f0",
+    "item": {
+      "title": "Grok 3.5 AI Will Delete “Garbage” From Human Knowledge, Musk Declares",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Elon_Musk_plans_to_rewrite_human_knowledge_with_Grok_says_current.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Grok 3.5 AI Will Delete \u0026quot;Garbage\u0026quot; From Human Knowledge, Musk Declares\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Elon_Musk_plans_to_rewrite_human_knowledge_with_Grok_says_current.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Elon_Musk_plans_to_rewrite_human_knowledge_with_Grok_says_current-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Elon_Musk_plans_to_rewrite_human_knowledge_with_Grok_says_current-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eElon Musk declared his intentions to rewrite the databases of human historical knowledge using his Grok AI system. The billionaire was not satisfied with the existing training data and said that it is filled with too much biased and erroneous information in general.  The new Grok 3.5 model by Musk",
+      "links": [
+        "https://thenewscrypto.com/grok-3-5-ai-will-delete-garbage-from-human-knowledge-musk-declares/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Elon Musk",
+        "GROK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Elon_Musk_plans_to_rewrite_human_knowledge_with_Grok_says_current.jpg"
+      },
+      "published": "2025-06-23T11:02:59Z"
+    }
+  },
+  {
+    "hash": "47e5845e4e34a993a6971c56ffdcaf7253ee2555d5560e38393e07cb61d9c6ec",
+    "item": {
+      "title": "Backyard Coffee and Jazz in Kyoto",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356248\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T14:37:05Z"
+    }
+  },
+  {
+    "hash": "e9e32a190ef557f9f22c1674e20957b6c574c80034c7d9b384df8d59e8ad2036",
+    "item": {
+      "title": "Making TRAMP go Brrrr",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356346\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T14:46:03Z"
+    }
+  },
+  {
+    "hash": "3f5e456d78f509e5618461baa0d1281b0e0419db50d18385675445e6158e8e8d",
+    "item": {
+      "title": "I Use My Terminal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jyn.dev/how-i-use-my-terminal/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:14:29Z"
+    }
+  },
+  {
+    "hash": "0febde19f9411ef8098607687526a26386ef64cdbf0ae9efbc7dcf16d7d29a52",
+    "item": {
+      "title": "Minimal Boolean Formulas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327756\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.swtch.com/boolean"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T13:53:25Z"
+    }
+  },
+  {
+    "hash": "1e21e4c412e46e26f3c21adddbcb1e0d298d04c05b7ed0f2f96d2e91e765ca8f",
+    "item": {
+      "title": "Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356799\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44356799"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:30:33Z"
+    }
+  },
+  {
+    "hash": "4ed9b198adc3ee8d0fbb7cba5f95905585384af9ea569e43436c3326ae566243",
+    "item": {
+      "title": "uv: An extremely fast Python package and project manager, written in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357411\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/astral-sh/uv"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T16:27:25Z"
+    }
+  },
+  {
+    "hash": "6a8803ac197b82de1afbd9a553e1fe009206236df6e7c41fb0d4b00e6d326199",
+    "item": {
+      "title": "NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357378\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T16:24:05Z"
+    }
+  },
+  {
+    "hash": "6ef8834a043c4bbbf1a84c2a99e7a23d3e0fd28e688b68c4290d798c1b7cd823",
+    "item": {
+      "title": "Interesting Bits of Postgres Grammar",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356597\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:09:21Z"
+    }
+  },
+  {
+    "hash": "be9924ba1161e0a924884b26b6c2ec2021817b3c8dd019049d0725792bdaafd3",
+    "item": {
+      "title": "Transparent Ambition: on translucent user interfaces",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44341515\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://take.surf/2025/06/19/transparent-ambition"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-21T23:32:47Z"
+    }
+  },
+  {
+    "hash": "173c98a35d5e57ece9212d6b50ee0011412ce143f293f7d825baea7d205301e4",
+    "item": {
+      "title": "WhatsApp banned on House staffers' devices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356676\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:16:56Z"
+    }
+  },
+  {
+    "hash": "78899e297111e0ae7c5188be99219477e4eb19db8d57d05dc1710f24a77f2565",
+    "item": {
+      "title": "Rivulet: An esolang inspired by calligraphy \u0026\u0026 code [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323528\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://media.ccc.de/v/gpn23-35-rivulet-an-esolang-inspired-by-calligraphy-and-other-experiments-in-natural-language-code"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-19T23:40:36Z"
+    }
+  },
+  {
+    "hash": "a58a22c67e9e195ac8a5079a226549a688405b633af52a0a40390d54ff6ff055",
+    "item": {
+      "title": "Backlash to artificial dye grows as Kraft ditches coloring for Kool-Aid, Jell-O",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44355539\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T13:18:21Z"
+    }
+  },
+  {
+    "hash": "11ad9c2272623e2eef7970151c2e6f542378b3f8c63a7421970d991971555e14",
+    "item": {
+      "title": "Solaxy (SOLX) Price Set to Heat Up as Solana Layer 2 Lists on DEXs, Major Exchanges to Follow",
+      "description": "\u003cp class=\"\" data-start=\"412\" data-end=\"728\"\u003eSolaxy has launched on Uniswap and Raydium as a Solana–Ethereum layer-2 token, after raising $58 m. Early trading delivered $2m volume, a $60m cap and an 85/99 Dextools score. Locked $1.2 m liquidity, 74% staking and a 39.8% supply burn have bolstered confidence ahead of the July mainnet.\u003c/p\u003e\n\u003ch3 class=\"\" data-start=\"731\" data-end=\"753\"\u003e\u003c/h3\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/solaxy-solx-price-heats-up-dex-listing/\"\u003eSolaxy (SOLX) Price Set to Heat Up as Solana Layer 2 Lists on DEXs, Major Exchanges to Follow \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/solaxy-solx-price-heats-up-dex-listing/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Solaxy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23174540/1750700740-unnamed-10-1.jpg"
+      },
+      "published": "2025-06-23T17:51:23Z"
+    }
+  },
+  {
+    "hash": "6e2d7aab8848c29d2787cadee7f57cc97692f3f2c93cd4fe5a84f9a118df2352",
+    "item": {
+      "title": "Hong Kong Sets High Bar for Stablecoin Issuers Ahead of August Regime Launch",
+      "description": "\u003cp class=\"\" data-start=\"389\" data-end=\"662\"\u003eHong Kong has introduced a high-bar licensing regime for stablecoin issuers from August 1, mandating controls on reserves, price stability, asset security and AML, aligning oversight with FSB standards, and signaling only a few licences initially.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hong-kong-stablecoin-license-regime-high-bar/\"\u003eHong Kong Sets High Bar for Stablecoin Issuers Ahead of August Regime Launch\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hong-kong-stablecoin-license-regime-high-bar/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Hong Kong",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23163334/1750696413-image-1750687134091_optimized.jpg"
+      },
+      "published": "2025-06-23T17:42:27Z"
+    }
+  },
+  {
+    "hash": "f62adf9757a8e8ec467b7f600faa0f42c0719a5a189aa2e2b21533a071ca4848",
+    "item": {
+      "title": "Official Trump Price Prediction As Whale Moves $32.8 Million in $TRUMP to Binance",
+      "description": "\u003cp class=\"\" data-start=\"416\" data-end=\"743\"\u003eOfficial Trump price prediction: the meme coin has recovered 3% to $8.75 after a whale moved $32.8 m to Binance, though it has plunged 32% over 30 days. Analysts have noted oversold readings but warn Iran-US friction could trigger fresh dips before a potential climb to $15 by August and $25 by year-end.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/official-trump-price-prediction-as-whale-moves-32-8-million-in-trump-to-binance/\"\u003eOfficial Trump Price Prediction As Whale Moves $32.8 Million in $TRUMP to Binance\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/official-trump-price-prediction-as-whale-moves-32-8-million-in-trump-to-binance/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Donald Trump",
+        "Price Prediction",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23153055/1750692654-trump-price-prediction.jpg"
+      },
+      "published": "2025-06-23T15:59:20Z"
+    }
   }
 ]
