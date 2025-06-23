@@ -3435,5 +3435,513 @@
       },
       "published": "2025-06-23T15:59:20Z"
     }
+  },
+  {
+    "hash": "b6f702fe8d3308e0fdc41d8da65f156446e6750e9d7262fd3902164b9405c607",
+    "item": {
+      "title": "Apple releases new beta builds of all its flashy new Liquid Glass-ified OS updates",
+      "description": "No \"public beta\" yet, but these are usually more usable than the first betas.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/apple-releases-new-beta-builds-of-all-its-flashy-new-liquid-glass-ified-os-updates/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple",
+        "beta",
+        "iOS",
+        "iPadOS",
+        "MacOS",
+        "macos developer beta"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg"
+      },
+      "published": "2025-06-23T19:38:44Z"
+    }
+  },
+  {
+    "hash": "e2cf26d229eb7b047ea3ce0f3804cb8c2d276b3e5388381833bcd17dab3fda7e",
+    "item": {
+      "title": "Canadian telecom hacked by suspected China state group",
+      "description": "Maximum-security Cisco vulnerability was patched Oct. 2023 and exploited Feb. 2025.",
+      "links": [
+        "https://arstechnica.com/security/2025/06/suspected-china-state-hackers-exploited-patched-flaw-to-breach-canadian-telecom/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "salt",
+        "telecommunications",
+        "Typhoon",
+        "vulnerabilities patches"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/china-inside-1152x648.jpg"
+      },
+      "published": "2025-06-23T19:21:42Z"
+    }
+  },
+  {
+    "hash": "65c3cedf1f2b6d58acbea186dfe694feea2386ae49c7cc96355d821e01028cdc",
+    "item": {
+      "title": "Graham: about Plasma’s X11 session",
+      "description": "\u003cp\u003eKDE contributor Nate Graham recently \u003ca\nhref=\"https://pointieststick.com/2025/06/21/about-plasmas-x11-session/\"\u003ewrote\u003c/a\u003e\nabout the KDE Project's plans for Plasma's X11 session. He notes that\nthe project will continue to ensure that Plasma \"\u003cq\u003econtinues to\ncompile and deploy on X11\u003c/q\u003e\" and isn't horribly broken. Major\nregressions will probably be fixed, eventually, but the writing is on\nthe wall:\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eX11's upstream development has dropped off significantly in recent\nyears, and X11 isn't able to perform up to the standards of what\npeople expect today with respect to HDR, 10 bits-per-color monitors,\nother fancy monitor features, multi-monitor setups (especially with\nmixed DPIs or refresh rates), multi-GPU setups, screen tearing,\nsecurity, crash robustness, input handling, and more.\u003c/p\u003e\n\n\u003cp\u003eAs for when Plasma will drop support for X11? There's currently no\nfirm timeline for this, and I certainly don't expect it to happen in\nthe next year, or even the next two years. But that's just a guess; it\ndepends on how quickly we implement everything on\n\u003ca href=\"https://community.kde.org/Plasma/Wayland_Known_Significant_Issues\"\u003ehttps://community.kde.org/Plasma/Wayland_Known_Significant_Issues\u003c/a\u003e. Our\nplan is to handle everything on that page such that even the most\nhardcore X11 user doesn't notice anything missing when they move to\nWayland.\u003c/p\u003e\n\u003c/Blockquote\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1026552/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-06-23T18:35:54Z"
+    }
+  },
+  {
+    "hash": "cfbe54674c3f24e3e29c28da5fc006b31864ddc27d0a48e2d58ba4601025d602",
+    "item": {
+      "title": "Japanese Firm Metaplanet Acquires 1,111 Bitcoin Worth $118M",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-8.45.23-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Japanese Firm Metaplanet Acquires 1,111 Bitcoin Worth $118M\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-8.45.23-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-8.45.23-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-8.45.23-PM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMetaplanet surpassed Hut8 to become the eighth-largest firm in terms of Bitcoin holdings on Monday, June 23, adding 1,111 Bitcoins to its total holdings and elevating it to 11,111 BTC. The company\u0026#8217;s 2025 year-to-date (YTD) Bitcoin yield is 306.7%, which is rather excellent. Due to the rising confrontation between Iran",
+      "links": [
+        "https://thenewscrypto.com/japanese-firm-metaplanet-acquires-1111-bitcoin-worth-118m/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Altcoin",
+        "Bitcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-8.45.23-PM.jpeg"
+      },
+      "published": "2025-06-23T15:18:12Z"
+    }
+  },
+  {
+    "hash": "54adbac0d944918dad5f5bfa7b0090223f5a12fea4eec56501510fccc0c8b1f4",
+    "item": {
+      "title": "Robert Kiyosaki Warns of Bitcoin Crash Amid War Tensions, Bets Big on Silver",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Robert Kiyosaki Warns of Bitcoin Crash Amid War Tensions, Bets Big on Silver\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs tensions between Iran and Israel rise, Rich Dad Poor Dad author Robert Kiyosaki—who predicts an impending \u0026#8220;Global Monetary Collapse\u0026#8221;—predicts a Bitcoin meltdown. With a risk-off attitude on the rise due to increasing global tensions, Kiyosaki thinks silver is the ideal investment right now. Not only that, but the billionaire",
+      "links": [
+        "https://thenewscrypto.com/robert-kiyosaki-warns-of-bitcoin-crash-amid-war-tensions-bets-big-on-silver/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-23-at-7.45.28-PM.jpeg"
+      },
+      "published": "2025-06-23T14:16:09Z"
+    }
+  },
+  {
+    "hash": "5471a725b8c7dbb6d1c02de5f91121a5307928233bc33a212fe0c9da5021790d",
+    "item": {
+      "title": "XRP (XRP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this XRP (XRP) price prediction for 2025, 2026-2030,\u0026#160;we will analyze the price patterns of XRP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION XRP (XRP) Current Market Status What is XRP (XRP)? XRP (XRP) 24H Technicals XRP (XRP)",
+      "links": [
+        "https://thenewscrypto.com/ripple-xrp-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Monisha"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg"
+      },
+      "published": "2025-06-23T14:03:11Z"
+    }
+  },
+  {
+    "hash": "35308bd11b5e4cf248845b42de7052a58227e593be1c52d2348acddd99ce1956",
+    "item": {
+      "title": "Discord Is Threatening to Shutdown BotGhost",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44359619\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://update.botghost.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T20:16:33Z"
+    }
+  },
+  {
+    "hash": "b1f64e01bf1b72e909c03c16dd5a3c7a24857e34eea9a0bf5121f44c539a89ec",
+    "item": {
+      "title": "Vera C. Rubin Observatory first images",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:41:00Z"
+    }
+  },
+  {
+    "hash": "5a8445dd768bca9e76adcd0c46a6a0af9057fae7debb83c081729e153d84ca7b",
+    "item": {
+      "title": "Resurrecting flip phone typing as a Linux driver",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358944\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/FoxMoss/libt9"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T19:02:17Z"
+    }
+  },
+  {
+    "hash": "2b01e4a7af4940271cb501ef9686945393a410b1f1c451800157d19d66824d64",
+    "item": {
+      "title": "2025 Iberia Blackout Report",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358668\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000\u0026v=beta\u0026t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T18:34:36Z"
+    }
+  },
+  {
+    "hash": "cb47abea551bfa14bd6ddad1fa8f9478936cfcc74e7be7055f80b42e2e88b8b4",
+    "item": {
+      "title": "Environmental Impacts of Artificial Intelligence",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44359229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T19:34:22Z"
+    }
+  },
+  {
+    "hash": "4dd5a8f845b60f3d852775fccb2ef455f75975f94652c033178a61276c5f2ac3",
+    "item": {
+      "title": "How I use my terminal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jyn.dev/how-i-use-my-terminal/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:14:29Z"
+    }
+  },
+  {
+    "hash": "e2ea19d6dbfe2bf274f3d39c5377781782868316f2f71ca1a0d0f929c49f5b09",
+    "item": {
+      "title": "Ocarina of Time Randomizer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44334419\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ootrandomizer.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-21T04:08:34Z"
+    }
+  },
+  {
+    "hash": "9ea9e920e14e3269a7923193272152155ee4678d73ded4e9b38b77c4a71f3b8b",
+    "item": {
+      "title": "I ported pigz from Unix to Windows",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327204\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-20T12:47:53Z"
+    }
+  },
+  {
+    "hash": "30e2b2937b3b4383bdf422574a60ca25e35c8a0c8f14b0f10705c5968b7a2908",
+    "item": {
+      "title": "First methane-powered sea spiders found crawling on the ocean floor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44338309\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-21T15:29:35Z"
+    }
+  },
+  {
+    "hash": "9b97908f4d794778691d3abc0c79037b8c89c61b4f8ac57e37c7469eacf143d6",
+    "item": {
+      "title": "Judge denies creating \"mass surveillance program\" harming all ChatGPT users",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358524\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T18:18:11Z"
+    }
+  },
+  {
+    "hash": "7e106f02d91f32e46c331cbd7120d06f8d95d2bce00c1474dbb843f8ae39703e",
+    "item": {
+      "title": "\"The Last of Us Part II\" Seattle Locations Tour",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356888\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:40:51Z"
+    }
+  },
+  {
+    "hash": "6f106757b21b3a8a3ecc182b8ef7be3407f085fc744e55818649c5b529fb2564",
+    "item": {
+      "title": "Fairphone 6 is switching to a new design that's even more sustainable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356788\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T15:29:51Z"
+    }
+  },
+  {
+    "hash": "e5862c577aebbfa3ea04c54268d988f91be9e05a9525301545d325f89353040f",
+    "item": {
+      "title": "GitHub CEO: manual coding remains key despite AI boom",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44359938\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T20:50:32Z"
+    }
+  },
+  {
+    "hash": "b19f42740feb6930696cd0cd27040a3712feff217f6563e901cd4fdce35d41c4",
+    "item": {
+      "title": "A deep critique of AI 2027's bad timeline models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358829\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T18:51:51Z"
+    }
+  },
+  {
+    "hash": "d672ea4312d2b88754c37c53b4b0c4c03def2cb26113ef24219feb320a452489",
+    "item": {
+      "title": "Officials Concede They Don't Know the Fate of Iran's Uranium Stockpile",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357779\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/06/22/us/politics/iran-uranium-stockpile-whereabouts.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T17:04:43Z"
+    }
+  },
+  {
+    "hash": "e0e55c44ba826343919095f0c1942c9d68f55a4f5cf147fd0e02e89397cebb4e",
+    "item": {
+      "title": "IBM Already Working On What Is Likely Power12 Support For The GCC Compiler",
+      "description": "While we await the formal IBM Power11 launch in 2025, IBM engineers are already working on compiler support for \"future\" post-Power11 processors with the GNU Compiler Collection (GCC)...",
+      "links": [
+        "https://www.phoronix.com/news/IBM-Power12-GCC-Future-Start"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-23T19:15:08Z"
+    }
+  },
+  {
+    "hash": "22c9c333d36d1c132c70dee52aee77639370c7d4efaee05f565550a10ca117e5",
+    "item": {
+      "title": "Michael Saylor’s Strategy Snaps Up 245 Bitcoin for $26 Million as Geopolitical Tensions Lift BTC 3.5%",
+      "description": "\u003cp class=\"\" data-start=\"392\" data-end=\"679\"\u003eStrategy has continued its Bitcoin accumulation, buying 245 BTC for $26 M at an average $105,856 and boosting its hoard to 592,345 BTC worth $41.87 B. The purchase has come amid Operation Midnight Hammer and retaliatory strikes that have heightened market volatility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/michael-saylors-strategy-acquires-26-million-more-of-bitcoin/\"\u003eMichael Saylor\u0026#8217;s Strategy Snaps Up 245 Bitcoin for $26 Million as Geopolitical Tensions Lift BTC 3.5%\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/michael-saylors-strategy-acquires-26-million-more-of-bitcoin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23190944/1750705783-julia_63915_the_white_house_overlaid_with_cryptocurrencies_f423d53f-03a7-4df5-875f-30c5acb9c0d8_optimized.jpg"
+      },
+      "published": "2025-06-23T21:01:24Z"
+    }
+  },
+  {
+    "hash": "fee96936acdfb5c2ec4e2b518472873acfdcc045eee6ad2110f74354918193ae",
+    "item": {
+      "title": "Trezor Issues ‘Urgent Alert’ After Support-Form Exploit Sends Phishing Emails – What Users Must Know",
+      "description": "\u003cp class=\"\" data-start=\"416\" data-end=\"724\"\u003eTrezor has issued a security warning after attackers abused its support contact form. Fake requests using user emails triggered automated replies seeking wallet backups. Trezor says no internal systems were breached and it has contained the exploit while studying extra safeguards.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trezor-issues-urgent-alert-after-hackers-exploit-support-form-to-send-phishing-emails-to-users/\"\u003eTrezor Issues ‘Urgent Alert’ After Support-Form Exploit Sends Phishing Emails – What Users Must Know\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trezor-issues-urgent-alert-after-hackers-exploit-support-form-to-send-phishing-emails-to-users/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Hardware wallet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23183123/1750703483-stock-image_optimized-3.jpg"
+      },
+      "published": "2025-06-23T20:30:08Z"
+    }
+  },
+  {
+    "hash": "10b78d5e05ce277d618f0c2e41b8e5a6feea7abab6dea60a0404dca2c8b6d380",
+    "item": {
+      "title": "JUP Holders Panic Sell After 80% Crash – Dead or Buying Opportunity?",
+      "description": "\u003cp class=\"\" data-start=\"410\" data-end=\"730\"\u003eJUP has fallen to $0.36, extending an 83% decline since February, as Jupiter has suspended its DAO voting system amid complaints about token utility. Despite bearish sentiment, the Solana-based DEX aggregator has surpassed $1 trillion in volume and analysts point to oversold signals near $0.34.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/jup-holders-panic-sell-after-80-crash-dead-or-buying-opportunity/\"\u003eJUP Holders Panic Sell After 80% Crash – Dead or Buying Opportunity?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/jup-holders-panic-sell-after-80-crash-dead-or-buying-opportunity/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Solana",
+        "Solana DEX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23153403/1750692842-stock-image_optimized-2.jpg"
+      },
+      "published": "2025-06-23T20:13:21Z"
+    }
+  },
+  {
+    "hash": "ca24e31ce16567514907bd4b9fc9fa01a0445bb2500d288f46789017bc5e2922",
+    "item": {
+      "title": "$100 Million BNB Bet: Nasdaq Company Mirrors MicroStrategy’s Playbook in Bold Treasury Move",
+      "description": "\u003cp class=\"\" data-start=\"428\" data-end=\"764\"\u003eA group led by ex-Coral Capital executives has outlined plans to rebrand a Nasdaq-listed shell as Build \u0026amp; Build Corporation, raise $100 million and allocate the funds to \u003cstrong data-start=\"631\" data-end=\"638\"\u003eBNB\u003c/strong\u003e, making it the first public firm to adopt Binance’s exchange token as a treasury asset amid rising interest in utility coins.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/100m-bnb-bet-nasdaq-firm-microstrategy-playbook/\"\u003e$100 Million BNB Bet: Nasdaq Company Mirrors MicroStrategy’s Playbook in Bold Treasury Move\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/100m-bnb-bet-nasdaq-firm-microstrategy-playbook/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Binance",
+        "BNB",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23192011/1750706410-image-1750692223601_optimized.jpg"
+      },
+      "published": "2025-06-23T19:41:37Z"
+    }
+  },
+  {
+    "hash": "39190045e341036fb8b2db7db7e2d381545e1095b1eb14b179f869cd9d55e9c3",
+    "item": {
+      "title": "Bitcoin ASIC Manufacturer Canaan Drops AI Chips, Bets Big on U.S. Bitcoin Mining – Here’s Why",
+      "description": "\u003cp class=\"\" data-start=\"387\" data-end=\"679\"\u003eCanaan has exited the AI chip market after costly misalignment with its goals, freeing resources for core Bitcoin-mining hardware. It has completed a US pilot production run of rigs to serve North American clients faster while monitoring tariffs and costs for future scaling.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/canaan-dumps-ai-expands-us-bitcoin-mining/\"\u003eBitcoin ASIC Manufacturer Canaan Drops AI Chips, Bets Big on U.S. Bitcoin Mining – Here’s Why\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/canaan-dumps-ai-expands-us-bitcoin-mining/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "AI",
+        "Bitcoin",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23185004/1750704604-img_6676_optimized.jpg"
+      },
+      "published": "2025-06-23T19:36:18Z"
+    }
+  },
+  {
+    "hash": "47bfa73f09aab403bdfb6e8b10ec4e46e0cff90ce8673038ba17ab8a3efe79e8",
+    "item": {
+      "title": "Strait of Hormuz Risk Escalates – BTC Bull Token Offers Amplified Play on Bitcoin’s Safe Haven Appeal, Final Week of Presale",
+      "description": "\u003cp class=\"\" data-start=\"389\" data-end=\"707\"\u003eGeopolitical strains around the Strait of Hormuz have lifted oil risk and pushed investors toward assets. Bitcoin has held above six figures, and BTC Bull Token has offered an amplified route to BTC exposure through milestone airdrops, token burns, and 55 % APY staking as its presale counts down.\u003c/p\u003e\n\u003cp class=\"\" data-start=\"710\" data-end=\"719\"\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/hormuz-crisis-bitcoin-btc-bull-token-presale/\"\u003eStrait of Hormuz Risk Escalates – BTC Bull Token Offers Amplified Play on Bitcoin’s Safe Haven Appeal, Final Week of Presale\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/hormuz-crisis-bitcoin-btc-bull-token-presale/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "BTC bull token",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/23175325/1750701204-unnamed-88-1.jpg"
+      },
+      "published": "2025-06-23T18:26:17Z"
+    }
   }
 ]
