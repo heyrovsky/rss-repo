@@ -2982,5 +2982,628 @@
       },
       "published": "2025-06-26T12:42:23Z"
     }
+  },
+  {
+    "hash": "8d34125b0aa4556421f9709902349d15d98a0085217ac71e4f82194789bbb1f8",
+    "item": {
+      "title": "Google begins rolling out AI search in YouTube",
+      "description": "The feature is only available as a test for Premium members for now.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/06/google-begins-rolling-out-ai-search-in-youtube/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "ai search",
+        "Artificial Intelligence",
+        "google",
+        "YouTube"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/YouTube-AI-1152x648.jpg"
+      },
+      "published": "2025-06-26T16:43:05Z"
+    }
+  },
+  {
+    "hash": "09a71b8249014ecc0669e01314fce13c1cd96fb021bc75297a0f0c03992fc50d",
+    "item": {
+      "title": "Researchers develop a battery cathode material that does it all",
+      "description": "A mix of iron, chlorine, and lithium is conductive, stores lithium, and self-heals.",
+      "links": [
+        "https://arstechnica.com/science/2025/06/researchers-develop-a-battery-cathode-material-that-does-it-all/"
+      ],
+      "categories": [
+        "Science",
+        "batteries",
+        "chemistry",
+        "lithium",
+        "materials science"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2150496772-1152x648.jpg"
+      },
+      "published": "2025-06-26T15:08:01Z"
+    }
+  },
+  {
+    "hash": "d40eeebd2ab1143bd666e1d7215fcc9eddf98d575e46d3325ca8c8ffc87e2c18",
+    "item": {
+      "title": "Today! Ars Live: What’s up with the sudden surge in temperatures?",
+      "description": "Zeke Hausfather of the Berkeley Earth project joins us to talk climate science.",
+      "links": [
+        "https://arstechnica.com/science/2025/06/ars-live-climate-science-in-an-increasingly-hot-world/"
+      ],
+      "categories": [
+        "Science",
+        "ars live",
+        "Berkeley Earth",
+        "Climate science",
+        "global temperatures"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Unknown-1152x648.jpeg"
+      },
+      "published": "2025-06-26T14:51:21Z"
+    }
+  },
+  {
+    "hash": "58a3e975ce41c5c86af90c702ab724120df57b53c2411078f938e9a0295189f0",
+    "item": {
+      "title": "Oracle Linux 10 released",
+      "description": "\u003ca\nhref=\"https://blogs.oracle.com/linux/post/oracle-linux-10-now-generally-available\"\u003eVersion\n10\u003c/a\u003e of the Oracle Linux distribution has been released.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tOracle Linux 10 is now generally available for 64-bit Intel and AMD\n\t(x86_64) and 64-bit Arm (aarch64) platforms. Oracle Linux 10\n\tdelivers robust security and exceptional performance for business\n\tagility and demanding workloads at cloud scale. Key features\n\tinclude modernized cryptographic capabilities, advancements in\n\tdeveloper tooling, and innovations for resilient infrastructure. \n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1027112/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-06-26T17:42:41Z"
+    }
+  },
+  {
+    "hash": "f8ff63fa8ee7589b07b15a9cf220b0f6af8352bc7ddb07edf0cf3818e212d982",
+    "item": {
+      "title": "Coccinelle for Rust progress report (Collabora blog)",
+      "description": "Over on the Collabora blog, Tathagata Roy has an \u003ca\nhref=\"https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/\"\u003eupdate\u003c/a\u003e\non the progress of targeting the \u003ca\nhref=\"https://coccinelle.gitlabpages.inria.fr/website/\"\u003eCoccinelle\u003c/a\u003e tool\nfor matching and transforming source code to Rust.  The \u003ca\nhref=\"https://rust-for-linux.com/coccinelle-for-rust\"\u003eCoccinelle for Rust\nproject\u003c/a\u003e, which we \u003ca href=\"https://lwn.net/Articles/991399/\"\u003ecovered\u003c/a\u003e in a 2024\ntalk by Roy at \u003ca href=\"https://kangrejos.com/\"\u003eKangrejos\u003c/a\u003e, is adding\nthe ability to transform Rust programs and the goal is \"\u003cq\u003eto bring\nCoccinelle For Rust at par with Coccinelle For C in terms of basic\nfunctionalities\u003c/q\u003e\".  There is still work to be done to get there, but\nprogress is being made in various areas.\n\n\n\u003cblockquote class=\"bq\"\u003e\nComputational Tree Logic (CTL) is the heart of Coccinelle, which takes semantic patches and generalizes them over Rust files. Prior to using this engine, CfR used an ad-hoc method for matching patterns of code. This engine is the same as the one used for Coccinelle for C, with a few minor changes. Most of the changes were idiomatic but to the same effect. More information on the engine and its language (CTL-VW) can be found in the \u003ca href=\"https://coccinelle.gitlabpages.inria.fr/website/papers/popl09.pdf\"\u003ePOPL Paper\u003c/a\u003e. With a standard engine, each step of the matching process can be logged, allowing us to learn and reuse the same design patterns from Coccinelle for C, including critical test cases.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1027087/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-06-26T15:11:51Z"
+    }
+  },
+  {
+    "hash": "d75ad85826c058e4e7cfaaa0fa927252271ec9864cf8cf2d96657e93139dd9bb",
+    "item": {
+      "title": "Ethereum vs. Neo Pepe Coin— 2025’s Crypto Clash Shaking Investor Confidence",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-3-6.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum vs. Neo Pepe Coin— 2025’s Crypto Clash Shaking Investor Confidence\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-3-6.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-3-6-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-3-6-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eEthereum has long been a crypto powerhouse, dominating headlines with its robust smart contract capabilities and pioneering innovations in decentralized finance (DeFi). Yet recent proposals and upgrades have ignited intense debates within the crypto community. One such controversial proposal, EIP-7782, aims to halve Ethereum\u0026#8217;s block times from 12 seconds to",
+      "links": [
+        "https://thenewscrypto.com/ethereum-vs-neo-pepe-coin-2025s-crypto-clash-shaking-investor-confidence/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "ETHEREUM",
+        "Neo pepe"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-3-6.png"
+      },
+      "published": "2025-06-26T14:41:23Z"
+    }
+  },
+  {
+    "hash": "10f45a96f57a70e2c197a740f7af2e3441fc898179487807e709b0a9fdd3ada7",
+    "item": {
+      "title": "GBM Launches Auction Festival with The Sandbox, Aavegotchi, Unstoppable Domains, and More",
+      "description": "\u003cp\u003e\u003cimg width=\"1800\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU.jpg 1800w, https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU-768x461.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU-1536x922.jpg 1536w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" /\u003e\u003c/p\u003eLondon, UK, 26th June 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gbm-launches-auction-festival-with-the-sandbox-aavegotchi-unstoppable-domains-and-more/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/GBM_-_PR_Header_-_June5_-_Op02_1200x720_1750864412Y3Tz3nNxVU.jpg"
+      },
+      "published": "2025-06-26T14:31:05Z"
+    }
+  },
+  {
+    "hash": "d56ad697abf13c34d642d26ff19167c1ee6d60447580a059d015500bfd0bfa01",
+    "item": {
+      "title": "Why Pepe Dollar Is Better Than Pepecoin; Pepe Dollar Unites Degens, Devs, and Designers—Pepecoin Was Just for Traders",
+      "description": "\u003cp\u003e\u003cimg width=\"783\" height=\"459\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-36.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-36.png 783w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-36-300x176.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-36-768x450.png 768w\" sizes=\"auto, (max-width: 783px) 100vw, 783px\" /\u003e\u003c/p\u003eWhile Pepecoin (PEPE) made waves with its viral price action and trader-fueled frenzy, the meme coin sector is moving beyond mere speculation. Pepe Dollar (PEPD) is leading this new era, building a truly inclusive ecosystem that unites degens, developers, and designers—elevating meme culture into a functional financial infrastructure on Ethereum",
+      "links": [
+        "https://thenewscrypto.com/why-pepe-dollar-is-better-than-pepecoin-pepe-dollar-unites-degens-devs-and-designers-pepecoin-was-just-for-traders/"
+      ],
+      "categories": [
+        "Press Release",
+        "Pepe Dollar (PEPD)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-36.png"
+      },
+      "published": "2025-06-26T14:00:00Z"
+    }
+  },
+  {
+    "hash": "50536436e4d3e1f77c3e2d058b8999c287165b199b6fbe0c9beec7337e1f227a",
+    "item": {
+      "title": "Is Movement (MOVE) Gearing Up for a Bullish Climb or a Bearish Turn?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Movement-MOVE-Breaks-Through-Whats-Next-After-a-9-Gain.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is Movement (MOVE) Gearing Up for a Bullish Climb or a Bearish Turn?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/Movement-MOVE-Breaks-Through-Whats-Next-After-a-9-Gain.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/05/Movement-MOVE-Breaks-Through-Whats-Next-After-a-9-Gain-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/05/Movement-MOVE-Breaks-Through-Whats-Next-After-a-9-Gain-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe largest asset, Bitcoin (BTC), is trading at $107.2K, and the largest altcoin, Ethereum (ETH), hovers around the $2.4K mark. With a brief spike in market cap, the mixed signals have unfolded, displaying both green and red candlesticks across the crypto assets. Among them, Movement (MOVE) has posted a brief",
+      "links": [
+        "https://thenewscrypto.com/is-movement-move-gearing-up-for-a-bullish-climb-or-a-bearish-turn/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "MOVE",
+        "Movement"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/Movement-MOVE-Breaks-Through-Whats-Next-After-a-9-Gain.jpg"
+      },
+      "published": "2025-06-26T13:38:07Z"
+    }
+  },
+  {
+    "hash": "3aa719ef2748aa01cf6d078e19aaa7086d820e477b8bb166a4ab2da7ff64bd36",
+    "item": {
+      "title": "PEPE Coin Price Analysis: $0.00001 in Sight, but Ozak AI’s $0.005 to $1 Prediction Dominates",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-1-11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PEPE Coin Price Analysis: $0.00001 in Sight, but Ozak AI’s $0.005 to $1 Prediction Dominates\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-1-11.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-1-11-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003ePEPE Coin has been at the center of meme coin mania, catching the attention of retail traders hunting for high-risk, high-reward opportunities. Yet, while PEPE Coin eyes the $0.00001 mark, a new contender—Ozak AI—is gaining traction with its AI-powered fundamentals and a bold presale price of just $0.005. The question",
+      "links": [
+        "https://thenewscrypto.com/pepe-coin-price-analysis-0-00001-in-sight-but-ozak-ais-0-005-to-1-prediction-dominates/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI",
+        "PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-1-11.jpg"
+      },
+      "published": "2025-06-26T13:00:00Z"
+    }
+  },
+  {
+    "hash": "a9f58dc96ec935afb7d5df56859871caec3e808b2df150c9ba77d39e77fc398a",
+    "item": {
+      "title": "Pepecoin and Pepe Dollar Revive Memecoins on Ethereum With ETH Whales Entering $PEPD Presale",
+      "description": "\u003cp\u003e\u003cimg width=\"784\" height=\"461\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-102.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-102.jpg 784w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-102-300x176.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-102-768x452.jpg 768w\" sizes=\"auto, (max-width: 784px) 100vw, 784px\" /\u003e\u003c/p\u003eEthereum’s (ETH) meme coin scene is experiencing a renaissance, with major ETH whales taking notice. As high-profile Ethereum investors seek the next narrative for outsized gains, two projects are leading the revival: Pepecoin (PEPE), the cultural OG, and Pepe Dollar (PEPD), the new meme-powered financial layer. The latest twist? The",
+      "links": [
+        "https://thenewscrypto.com/pepecoin-and-pepe-dollar-revive-memecoins-on-ethereum-with-eth-whales-entering-pepd-presale/"
+      ],
+      "categories": [
+        "Press Release",
+        "Pepe Dollar (PEPD)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-102.jpg"
+      },
+      "published": "2025-06-26T13:00:00Z"
+    }
+  },
+  {
+    "hash": "e8e7a535586e3127b0e42572ef3d5e8f93e8a5387467dd2530d56f9cdc036e91",
+    "item": {
+      "title": "Dogecoin Price Prediction: Can DOGE Finally Hit $1 or Will Ozak AI Outperform It in 2025?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-38.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogecoin Price Prediction: Can DOGE Finally Hit $1 or Will Ozak AI Outperform It in 2025?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-38.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-38-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eDogecoin (DOGE) remains one of the most well-known meme coins, buoyed by its vibrant community and high-profile endorsements. Still, questions persist: can DOGE reach the elusive $1 mark, or will newcomers like Ozak AI—with its AI and decentralized data infrastructure—outpace it in terms of growth by 2025? Dogecoin Price Forecast",
+      "links": [
+        "https://thenewscrypto.com/dogecoin-price-prediction-can-doge-finally-hit-1-or-will-ozak-ai-outperform-it-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Dogecoin",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/unnamed-38.jpg"
+      },
+      "published": "2025-06-26T12:14:00Z"
+    }
+  },
+  {
+    "hash": "8336f4ae34452763f965eec23dd520dbe5b3880ada07826241a56f54a7906c33",
+    "item": {
+      "title": "Can Pepe Dollar ($PEPD) Outperform Pepecoin in 2025? Comparing Supply, Utility, and Community Growth Potential",
+      "description": "\u003cp\u003e\u003cimg width=\"785\" height=\"401\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-101.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-101.jpg 785w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-101-300x153.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-101-768x392.jpg 768w\" sizes=\"auto, (max-width: 785px) 100vw, 785px\" /\u003e\u003c/p\u003eAs meme coins continue to capture the imagination of crypto traders, two names stand out: Pepecoin (PEPE) and Pepe Dollar (PEPD). Both have strong communities and viral reach, but 2025 could be the year a new standard is set. Let’s explore the core factors—token supply, utility, and community growth—that could",
+      "links": [
+        "https://thenewscrypto.com/can-pepe-dollar-pepd-outperform-pepecoin-in-2025-comparing-supply-utility-and-community-growth-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "Pepe Dollar ($PEPD)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-101.jpg"
+      },
+      "published": "2025-06-26T12:00:00Z"
+    }
+  },
+  {
+    "hash": "5fb41fbc48a7e5bc11a22536f868e7dd2fbc134cd22293d4944a6aeeaa37b35d",
+    "item": {
+      "title": "Jumper Exchange Integrates Etherlink, Unlocking Cross-Chain Access to Tezos L2",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/kl.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Jumper Exchange Integrates Etherlink, Unlocking Cross-Chain Access to Tezos L2\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/kl.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/06/kl-300x180.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/kl-1024x614.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/06/kl-768x461.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eThe high-performance Tezos Layer 2 blockchain now offers cross-chain accessibility thanks to Jumper Exchange\u0026#8217;s integrated support for Etherlink. Beginning with Ethereum Mainnet, Arbitrum, and Base, the integration will let users to bridge assets to and from Etherlink to over 50 networks. Jumper Exchange is a one-stop platform\u0026#160;that facilitates bridging and swapping\u0026#160;between",
+      "links": [
+        "https://thenewscrypto.com/jumper-exchange-integrates-etherlink-unlocking-cross-chain-access-to-tezos-l2/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/kl.png"
+      },
+      "published": "2025-06-26T12:00:00Z"
+    }
+  },
+  {
+    "hash": "1db70137ec6d0c7ba924f35800910c0bfed5d250681a45379b698811d7c8f6a8",
+    "item": {
+      "title": "Japanese Firm Metaplanet Acquires 1,234 Bitcoin for Whopping $132 Million",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-26-at-5.15.06-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-26-at-5.15.06-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-26-at-5.15.06-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-26-at-5.15.06-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAfter purchasing an additional 1,234 BTC on the open market, the Japanese public-listed business Metaplanet (MTPLF) surpassed even Elon Musk\u0026#8217;s Tesla Holdings in Bitcoin ownership. With this most recent acquisition, Metaplanet jumps up the rankings to number seven, overtaking industry heavyweights like Block Inc., Bitcoin miner Hut 8, Tesla, and Coinbase,",
+      "links": [
+        "https://thenewscrypto.com/japanese-firm-metaplanet-acquires-1234-bitcoin-for-whopping-132-million/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Altcoin",
+        "Bitcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-26-at-5.15.06-PM.jpeg"
+      },
+      "published": "2025-06-26T11:47:11Z"
+    }
+  },
+  {
+    "hash": "d639ec30a8a4aa171c44a22a7ebd723f9e691be5db457d5236356408d94de7e9",
+    "item": {
+      "title": "Mesa 25.2 RADV Driver Merges Support For AV1 Vulkan Video Encode",
+      "description": "Published last November as part of Vulkan 1.3.302 was the VK_KHR_video_encode_av1 extension for adding AV1 video encoding to the Vulkan Video API. Ahead of next quarter's Mesa 25.2 release, the open-source Radeon Vulkan driver \"RADV\" has merged its AV1 encode support...",
+      "links": [
+        "https://www.phoronix.com/news/RADV-Merges-AV1-Encode"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-26T17:01:07Z"
+    }
+  },
+  {
+    "hash": "9886dca74d5cb959450c9da93db9659c20c2f31bc5103eb52dc22c365fc9adba",
+    "item": {
+      "title": "Mir 2.21 Released With Cursor Scaling \u0026 Mouse Keys Support",
+      "description": "Mir 2.21 is out today for this Ubuntu/Canonical project to serve as a set of libraries used to simplify the development of Wayland-based shells/environments...",
+      "links": [
+        "https://www.phoronix.com/news/Mir-2.21-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-26T15:18:12Z"
+    }
+  },
+  {
+    "hash": "70cc71f9b93e39e70e79d08563f4515dee54bac0caa9eadd0c1bce351c8af754",
+    "item": {
+      "title": "Launch HN: Issen (YC F24) – Personal AI language tutor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387828\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44387828"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T14:32:28Z"
+    }
+  },
+  {
+    "hash": "79fe58b6e8d250ce5b1e62944b1809257a30082e78c13eb653372320cdb23bbb",
+    "item": {
+      "title": "Google DeepMind Releases AlphaGenome",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387659\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T14:16:00Z"
+    }
+  },
+  {
+    "hash": "be8fb62450bf481e5c68abfff25067fe511bfefd83e13228054f82d9ab264931",
+    "item": {
+      "title": "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44388395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.mdpi.com/2226-4310/12/6/519"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T15:33:10Z"
+    }
+  },
+  {
+    "hash": "ff24bc9afb6f7992ddb90bba5710a6e35c408e97bdb0e4d125f889495b5a8b84",
+    "item": {
+      "title": "Introducing Gemma 3n",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44389202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T17:03:43Z"
+    }
+  },
+  {
+    "hash": "ffc4e7a7c1c56f3157a15a22ace25c6e4812e5d6205816ae679c9406f77c3af5",
+    "item": {
+      "title": "Show HN: I built an AI dataset generator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44388093\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/metabase/dataset-generator"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T14:58:32Z"
+    }
+  },
+  {
+    "hash": "407887dc9f57eeb26e543e5068488c87ddcf8b26ac00c89699eaaaab969ec2ee",
+    "item": {
+      "title": "Some bits on malloc(0) in C being allowed to return NULL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44374114\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://utcc.utoronto.ca/~cks/space/blog/programming/CZeroSizeMallocSomeNotes"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-25T06:15:11Z"
+    }
+  },
+  {
+    "hash": "974776c6b84f941efebc493647e6337b1465f1dcc1a621bd904ed6ef664de09f",
+    "item": {
+      "title": "FLUX.1 Kontext [Dev] – Open Weights for Image Editing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44388387\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bfl.ai/announcements/flux-1-kontext-dev"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T15:31:58Z"
+    }
+  },
+  {
+    "hash": "8a1d0fab96a64d6883955a4c60db362d1f0bf9e1b29260c0e0058e6ac171b9c1",
+    "item": {
+      "title": "Access BMC UART on Supermicro X11SSH",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387904\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/zarhus/zarhusbmc/discussions/3"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T14:40:00Z"
+    }
+  },
+  {
+    "hash": "0df3010930b33d9861a9c234df3dcca6ea9fc8750293621e1e7e5c92d252e7a9",
+    "item": {
+      "title": "What Happens When Hertz's AI Scanner Finds Damage on Your Rental",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44355923\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thedrive.com/news/this-is-what-happens-when-hertzs-ai-scanner-finds-damage-on-your-rental"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T14:03:44Z"
+    }
+  },
+  {
+    "hash": "d3bae83dda64e99588a93522d45ede827ee00042fd59410be6d102c96c5427df",
+    "item": {
+      "title": "As AI kills search traffic, Google launches Offerwall to boost publisher revenue",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44389337\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T17:19:46Z"
+    }
+  },
+  {
+    "hash": "b8f015cf8a1469e7f41d9307bc884657bc8ab66db0f20dd560f6067ef98b8777",
+    "item": {
+      "title": "The Business of Betting on Catastrophe",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44355409\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-23T13:04:26Z"
+    }
+  },
+  {
+    "hash": "4bb82df6354896a79513c230d42242048b57df6121ec2b4c90681bde499f2799",
+    "item": {
+      "title": "I built an ADHD app with interactive coping tools, noise mixer and self-test",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387563\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.adhdhelp.app/en"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-26T14:05:44Z"
+    }
+  },
+  {
+    "hash": "7fd5830f2a255745e96ee48857ddeef1e6955f6f11f6daff06c201ba6e3584ab",
+    "item": {
+      "title": "Nigerian Man Pleads Guilty to Laundering $2.5M in Crypto from US Victims",
+      "description": "\u003cp\u003eKey Takeaways: Charles Uchenna Nwadavid pleaded guilty in Boston to mail fraud and money laundering. He laundered funds from six U.S. victims using cryptocurrency between 2016 and 2019. Transactions were processed through LocalBitcoins, accessed remotely by Nwadavid overseas. A Nigerian national pleaded guilty in Boston federal court on June 25 to charges related to laundering [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nigerian-man-pleads-guilty-to-laundering-2-5m-in-crypto-from-us-victims/\"\u003eNigerian Man Pleads Guilty to Laundering $2.5M in Crypto from US Victims\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nigerian-man-pleads-guilty-to-laundering-2-5m-in-crypto-from-us-victims/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "AML",
+        "Fraud",
+        "Scam"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/26172729/1750958848-image-1750958614944_optimized.jpg"
+      },
+      "published": "2025-06-26T17:28:42Z"
+    }
+  },
+  {
+    "hash": "fd3afc8d1a5e601320d68261345e76f651945bb5e2c3e74e6bec6da5115897cd",
+    "item": {
+      "title": "Ripple Settlement Denied as Judge Torres Rejects $50M Deal, XRP Institutional Sales Remain Limited",
+      "description": "\u003cp\u003eJudge Torres rejected Ripple's $50 million SEC settlement deal, maintaining a permanent injunction that indefinitely blocks XRP institutional sales despite an agreed-upon penalty reduction.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-settlement-denied-as-judge-torres-rejects-50m-deal-xrp-institutional-sales-remain-limited/\"\u003eRipple Settlement Denied as Judge Torres Rejects $50M Deal, XRP Institutional Sales Remain Limited\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-settlement-denied-as-judge-torres-rejects-50m-deal-xrp-institutional-sales-remain-limited/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Ripple",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/26165130/1750956690-stock-image_optimized-4.jpg"
+      },
+      "published": "2025-06-26T16:56:22Z"
+    }
+  },
+  {
+    "hash": "0a88c513eca38c4651e4b85bd82bf42cc0dce1e8b323c5b6bec459c50d745c21",
+    "item": {
+      "title": "[LIVE] Crypto Presales to Watch Right Now: Latest News and Updates – June 26",
+      "description": "\u003cp\u003eAs crypto traders grapple with rising uncertainty, savvy investors are looking beyond the usual heavyweights like Bitcoin, XRP, and Ethereum toward crypto presales.In their crosshairs are several high-potential projects that could deliver outsized returns in the near future.With inflation readings often looking hot, geopolitical tensions flaring, and traditional markets turning volatile, presales offer one of [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/live-crypto-presales-to-watch-right-now-latest-news-and-updates-june-26/\"\u003e[LIVE] Crypto Presales to Watch Right Now: Latest News and Updates – June 26\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/live-crypto-presales-to-watch-right-now-latest-news-and-updates-june-26/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Blockchain",
+        "crypto adoption",
+        "presales"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/26150840/1750950520-live_optimized-1_optimized.jpg"
+      },
+      "published": "2025-06-26T15:12:40Z"
+    }
   }
 ]
