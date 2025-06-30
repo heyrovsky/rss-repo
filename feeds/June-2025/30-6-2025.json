@@ -2605,5 +2605,671 @@
       },
       "published": "2025-06-30T08:30:56Z"
     }
+  },
+  {
+    "hash": "d292c50c68e9b0901bde86cfac579ba4ba0004f50f4f7963cb6fea87bdb36ab3",
+    "item": {
+      "title": "[$] Fedora's i686 support gets a reprieve",
+      "description": "\u003cp\u003eA \u003ca\nhref=\"https://fedoraproject.org/wiki/Changes/Drop_i686_support\"\u003echange\nproposal\u003c/a\u003e to end support for 32-bit x86 (i686) applications on the\nx86_64 architecture with the Fedora\u0026#160;44 release has been withdrawn\nafter significant pushback. As proposed, the change could have\nhad a significant impact on gamers, compiler development, and the \u003ca\nhref=\"https://bazzite.gg/\"\u003eBazzite\u003c/a\u003e project, which uses Fedora as a\nbase for a gaming-focused distribution. While i686 gets a reprieve for\nnow, the question still lingers: who is going to keep the necessary\ni686 packages in working order when few upstream maintainers or\nvolunteer packagers care about the architecture?\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1026917/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-06-30T16:41:33Z"
+    }
+  },
+  {
+    "hash": "f193d8f12c0f107aef3286e53147f0c090aa122a1d9bfe71649d426b81c00571",
+    "item": {
+      "title": "Project Hail Mary trailer looks like a winner for Andy Weir fans",
+      "description": "\"If we do nothing, everything on this planet will go extinct.\" ",
+      "links": [
+        "https://arstechnica.com/culture/2025/06/ryan-gosling-is-a-reluctant-astronaut-in-project-hail-mary-trailer/"
+      ],
+      "categories": [
+        "Culture",
+        "amazon mgm studios",
+        "andy weir",
+        "film trailers",
+        "project hail mary",
+        "Trailers"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/hail1-1152x648.jpg"
+      },
+      "published": "2025-06-30T17:05:50Z"
+    }
+  },
+  {
+    "hash": "2f88f4e308cc1328ff98139e53870c986300e0e73ab9ae1dcecf542ca55cc920",
+    "item": {
+      "title": "Meta, TikTok can’t toss wrongful death suit from mom of “subway surfing” teen",
+      "description": "Companies may be forced to show how they targeted videos to teen who died.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/06/meta-tiktok-cant-toss-wrongful-death-suit-from-mom-of-subway-surfing-teen/"
+      ],
+      "categories": [
+        "Policy",
+        "algorithm",
+        "bytedance",
+        "meta",
+        "recommended content",
+        "Section 230",
+        "tiktok",
+        "wrongful death"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2212661255.jpg"
+      },
+      "published": "2025-06-30T16:53:53Z"
+    }
+  },
+  {
+    "hash": "b339d87798a6dd8727fd6b94ece72c78f7a9fbc70db3fc3078dc7b5db35059ad",
+    "item": {
+      "title": "Supreme Court to decide whether ISPs must disconnect users accused of piracy",
+      "description": "Sony victory in Cox piracy case could be overturned by Supreme Court.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/06/supreme-court-to-decide-whether-isps-must-disconnect-users-accused-of-piracy/"
+      ],
+      "categories": [
+        "Policy",
+        "Cox",
+        "piracy",
+        "Supreme Court"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-pirate-website-1152x648-1748459387.jpg"
+      },
+      "published": "2025-06-30T16:36:00Z"
+    }
+  },
+  {
+    "hash": "6860bcf48aec098aff9dcb2053dc22194b81c33982e9f566fc87869e85404267",
+    "item": {
+      "title": "Trump’s tariff threat pushes Canada to scrap digital services tax",
+      "description": "US tech companies escape Canada digital services tax due to Trump tariffs.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/06/trumps-tariff-threat-pushes-canada-to-scrap-digital-services-tax/"
+      ],
+      "categories": [
+        "Policy",
+        "Canada",
+        "digital services tax",
+        "Donald Trump",
+        "DST",
+        "tariffs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2198835420-1152x648.jpg"
+      },
+      "published": "2025-06-30T15:15:47Z"
+    }
+  },
+  {
+    "hash": "b61f5e3e34940ad13d6263e0d68df64b1469809fdc1a4623b3a9c6d1f452a07c",
+    "item": {
+      "title": "NIH budget cuts affect research funding beyond US borders",
+      "description": "European leaders say they will fill the funding void. Is that realistic?",
+      "links": [
+        "https://arstechnica.com/science/2025/06/nih-budget-cuts-affect-research-funding-beyond-us-borders/"
+      ],
+      "categories": [
+        "Health",
+        "Science",
+        "budget cuts",
+        "NIH",
+        "syndication",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Frieda Klotz, Undark Magazine"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/globe-testtube-1152x648.jpg"
+      },
+      "published": "2025-06-30T15:07:50Z"
+    }
+  },
+  {
+    "hash": "54a9430088690e73de619dceb97b0d78a89ccce271e9dec62cfbf573cd006fa9",
+    "item": {
+      "title": "Is PEPE Gearing Up for More Gains After Volume Spikes 137%?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Is-PEPE-Gearing-Up-for-More-Gains-After-Volume-Spikes-137.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Is PEPE Gearing Up for More Gains After Volume Spikes 137%?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Is-PEPE-Gearing-Up-for-More-Gains-After-Volume-Spikes-137.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Is-PEPE-Gearing-Up-for-More-Gains-After-Volume-Spikes-137-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Is-PEPE-Gearing-Up-for-More-Gains-After-Volume-Spikes-137-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto assets are riding the rollercoaster, lighting both the red and green candles. Major assets like Bitcoin (BTC), Ethereum (ETH), and other meme coins have marked their recent upside and downside price trajectory. Meanwhile, after a 2.45% spike, the frog-themed meme coin, PEPE, has chosen to trade on the",
+      "links": [
+        "https://thenewscrypto.com/is-pepe-gearing-up-for-more-gains-after-volume-spikes-137/"
+      ],
+      "categories": [
+        "Editors News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Meme Coin",
+        "PEPE",
+        "PEPE Price"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Is-PEPE-Gearing-Up-for-More-Gains-After-Volume-Spikes-137.jpg"
+      },
+      "published": "2025-06-30T13:13:43Z"
+    }
+  },
+  {
+    "hash": "d5c10e6fc311f10d30610927b7e463daa500aa4e40d9d0dd9e94b0acc7162788",
+    "item": {
+      "title": "BitMEX Study Reveals 90% Drop in Extreme Bitcoin Perpetual Futures Funding Rates Since 2016, Signalling Market Maturation",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921-376x212.jpg 376w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eMahe, Seychelles, 30th June 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bitmex-study-reveals-90-drop-in-extreme-bitcoin-perpetual-futures-funding-rates-since-2016-signalling-market-maturation/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Q2_Derivs_Social_Vis_1751277853rMgxxND921.jpg"
+      },
+      "published": "2025-06-30T12:00:04Z"
+    }
+  },
+  {
+    "hash": "c6d9d194b14d75238e849fc89ad469adbb923e00ec813584920d5d4d108d36b4",
+    "item": {
+      "title": "Degen Lab Surpasses $1 Million in Presale Funding — Set To Disrupt a Billion-Dollar Meme Coin Industry",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-114.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/image001-114.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-114-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-114-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/06/image001-114-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e Degen Lab, the high-octane meme-tech hybrid project that’s rapidly gaining traction across the crypto ecosystem, has officially crossed $1 million in presale funding—putting it firmly on the radar of retail investors and whales alike. With ambitions to become the go-to launchpad and ecosystem for viral, community-driven crypto projects, Degen Lab",
+      "links": [
+        "https://thenewscrypto.com/degen-lab-surpasses-1-million-in-presale-funding-set-to-disrupt-a-billion-dollar-meme-coin-industry/"
+      ],
+      "categories": [
+        "Press Release",
+        "Degen Lab"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/image001-114.jpg"
+      },
+      "published": "2025-06-30T11:38:44Z"
+    }
+  },
+  {
+    "hash": "2e1324db964444ee1c079829f58386067663dd9dbd8136982a33b9a4d4882bef",
+    "item": {
+      "title": "U.S. Agencies Warn of Rising Iranian Cyberattacks on Defense, OT Networks, and Critical Infrastructure",
+      "description": "U.S. cybersecurity and intelligence agencies have issued a joint advisory warning of potential cyber-attacks from Iranian state-sponsored or affiliated threat actors.\u0026nbsp;\n\"Over the past several months, there has been increasing activity from hacktivists and Iranian government-affiliated actors, which is expected to escalate due to recent events,\" the agencies said.\n\"These cyber actors often",
+      "links": [
+        "https://thehackernews.com/2025/06/us-agencies-warn-of-rising-iranian.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn0gTn-N9fKYl5T4kz7yKqOf7xIyoXAD4P-688Cya-4B1NOYzK95rqdAJSjCCQ7gYJfMBejRK-EQQ5zkbTG2ieQmf6kthkV6aAakthZ63jECjxBpHWhqBv6BOtjJU1YSV4vvNPvjBF0YgFTWAtCiIhAHKRas0J_qR_uHrYsgpH7mcri0FHbIqQF7ZrBEJh/s1600/cyber.jpg"
+      },
+      "published": "2025-06-30T16:29:00Z"
+    }
+  },
+  {
+    "hash": "07dacdf58292739faf875cacc3a83410bbf347bd3e78d262fe5814964ee8b6c7",
+    "item": {
+      "title": "Europol Dismantles $540 Million Cryptocurrency Fraud Network, Arrests Five Suspects",
+      "description": "Europol on Monday announced the takedown of a cryptocurrency investment fraud ring that laundered €460 million ($540 million) from more than 5,000 victims across the world.\nThe operation, the agency said, was carried out by the Spanish Guardia Civil, along with support from law enforcement authorities from Estonia, France, and the United States. Europol said the investigation into the syndicate",
+      "links": [
+        "https://thehackernews.com/2025/06/europol-dismantles-540-million.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Wo9koGjLjfUnycfDZgNphLRZCAr3efq_E0_kDueRYtr_7VmpHksBZCgTZxocyk2pptFw_1XJa2aBwXSqkxtKP8oaKMBm1xKGO862ygPs87YMjYkfxaLx_RCdSjsOaNqSak0dwRPZEbUSp8Yl5yHAiS2WnPFYVdcKpxIMJH8y8jo4naqYBIqZAbyVff05/s1600/europol.jpg"
+      },
+      "published": "2025-06-30T15:17:00Z"
+    }
+  },
+  {
+    "hash": "bfdd433d1481f1999466fe537e6af9d6a0afff9b817c8a3fb5d04da6d51d0398",
+    "item": {
+      "title": "I Write Type Safe Generic Data Structures in C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44425461\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T16:55:20Z"
+    }
+  },
+  {
+    "hash": "94e27c44873f8b38ce556d72878aeace0db7188c4cc2bfa96c9863e8f0c74a6b",
+    "item": {
+      "title": "A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44425253\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/carmax-used-pcs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T16:38:43Z"
+    }
+  },
+  {
+    "hash": "b7754517a3feb22b37d65a4139c7350ad4cd2074a7e8d37af8a8bea6bbbefdfe",
+    "item": {
+      "title": "There Are No New Ideas in AI Only New Datasets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44423983\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T14:43:46Z"
+    }
+  },
+  {
+    "hash": "e09177f962f5d38384ee3d744d78eea116b49b64233ff49f24d99894b3c70242",
+    "item": {
+      "title": "14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44425537\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://14.ai/careers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T17:00:57Z"
+    }
+  },
+  {
+    "hash": "b31f1e45bb471860a2744c61c0331e7919845dbb7a4ac27b856ce1f2b36a339a",
+    "item": {
+      "title": "Therapy dogs: stop crafting loopholes to fair, reasonable laws",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44426027\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T17:47:25Z"
+    }
+  },
+  {
+    "hash": "90fd24007b57b80871a0a42e0501f5685c677a3661bc4d94ad2401bcaddbe8f3",
+    "item": {
+      "title": "Auth for B2B SaaS: it's not like auth for consumer software",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44424256\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T15:06:14Z"
+    }
+  },
+  {
+    "hash": "43ba1ae03667656f546bbb3216ad3336311cb976fb301d2c61fed3c2fbe719ba",
+    "item": {
+      "title": "Scribble-based forecasting and AI 2027",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44424996\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynomight.net/scribbles/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T16:15:29Z"
+    }
+  },
+  {
+    "hash": "9beeefb314bb8899b1db8e68c52a2106c6ac261122a2987950494899e186afab",
+    "item": {
+      "title": "Asynchronous Error Handling Is Hard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416221\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-29T20:35:17Z"
+    }
+  },
+  {
+    "hash": "39d940d9e5433bb20b6d9ff466a38c16be6f745607a2f991752c0e0981266404",
+    "item": {
+      "title": "Cloud-forming isoprene \u0026 terpenes from crops may drastically improve climate",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44423263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/science-nature/scientists-are-just-beginning-to-understand-how-life-makes-clouds-and-their-discoveries-may-drastically-improve-climate-science-180986872/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T13:51:17Z"
+    }
+  },
+  {
+    "hash": "b6261d2d117f46032f760f7e841be81c1ced9e940c52c6952bf6d5108084e3cf",
+    "item": {
+      "title": "Helix: A Modern, High-Performance Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44422836\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/helixlang/helix-lang"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T13:08:24Z"
+    }
+  },
+  {
+    "hash": "060821a145bae3a659eec895993ce43f992d8405605c97187856252a4b73f630",
+    "item": {
+      "title": "Data Centers, Temperature, and Power",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44398743\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.backblaze.com/blog/data-centers-temperature-and-power/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-27T17:42:10Z"
+    }
+  },
+  {
+    "hash": "cafd192c25c5ae5bb389a528caaac768d3c953418d2df1a5013a09c0d2214e4f",
+    "item": {
+      "title": "Ubuntu: Introducing Debcrafters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44423965\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://discourse.ubuntu.com/t/introducing-debcrafters/63674"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T14:42:43Z"
+    }
+  },
+  {
+    "hash": "1d19ee6a5471d474c0bb57abd262964b0bfaa86346f309a15c69530768c76dc4",
+    "item": {
+      "title": "Operation Gold Rush, largest health care fraud bust in U.S. history",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44426124\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/health/2025/06/30/health-care-fraud-bust-largest-in-us-history/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-30T17:58:17Z"
+    }
+  },
+  {
+    "hash": "9c03675729236f2baf021efd2ca525e762d8b9aeb9aaa8aaf360a1db938ff8e9",
+    "item": {
+      "title": "Shadow of a Doubt",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44400646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://harpers.org/archive/2025/07/shadow-of-a-doubt-ocd-andrew-kay/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-06-27T22:00:49Z"
+    }
+  },
+  {
+    "hash": "087d3591fc09ac296f8cee933c4345637e30e12489be567dede6d9c83cd1520f",
+    "item": {
+      "title": "Ubuntu Debcrafters Team Formed To Help Ensure The Health Of The Ubuntu Archive",
+      "description": "Jon Seager as the VP of Engineering at Canonical today publicly announced the formation of their \"Debcrafters\" global team to help ensure the health of the Ubuntu Archive...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-Debcrafters"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-06-30T15:56:42Z"
+    }
+  },
+  {
+    "hash": "86cf51386d780e1cdf5f2aa62dedd30c744ea9f687d736d69485954e1d50c5be",
+    "item": {
+      "title": "Presale Ends: BTC Bull Token Opens Final 7 Days to Buy at Listing Price",
+      "description": "\u003cp class=\"\" data-start=\"402\" data-end=\"698\"\u003eBTC Bull Token has raised about $7.8 million in its presale and, for the next seven days, offers one last chance to join before exchange listing. Holders will later earn Bitcoin airdrops every $50 000 move above $150 000 and see token supply reduced through successive burns.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/btc-bull-token-presale-ends-final-7-days-list-price/\"\u003ePresale Ends: BTC Bull Token Opens Final 7 Days to Buy at Listing Price\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/btc-bull-token-presale-ends-final-7-days-list-price/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Best Crypto",
+        "BTC bull token",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30171036/1751303435-unnamed-93-1.jpg"
+      },
+      "published": "2025-06-30T17:11:09Z"
+    }
+  },
+  {
+    "hash": "26b442cb91deb381dc31a1f22c3c2d60e6b563a4199b34516735f9ddebbadc4e",
+    "item": {
+      "title": "XRP Price Prediction – RLUSD Becomes the Fastest-Growing Stablecoin: XRP to $10 Next?",
+      "description": "\u003cp\u003eThe XRP price (XRP) has gone up by 9.1% in the past 7 days as cryptos continue recovering from last week’s sharp pullback triggered by rising Middle East tensions.Once again, the native asset of the Ripple network has returned to positive year-to-date gains, now up 4.8% since January.Ripple has also doubled down on ecosystem expansion, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-rlusd-becomes-the-fastest-growing-stablecoin-xrp-to-10-next/\"\u003eXRP Price Prediction – RLUSD Becomes the Fastest-Growing Stablecoin: XRP to $10 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-rlusd-becomes-the-fastest-growing-stablecoin-xrp-to-10-next/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30113600/1751283360-xrp-price-prediction-1.jpg"
+      },
+      "published": "2025-06-30T16:49:21Z"
+    }
+  },
+  {
+    "hash": "109276487b27b3a7a544bbdd545abc8a73367eaa4107049f030babac9be0938c",
+    "item": {
+      "title": "Solana Price Prediction – This Chart Pattern Often Means Trouble… Will SOL Break Below $146?",
+      "description": "\u003cp\u003eThe Solana price (SOL) has gone up in the past week as market sentiment has stabilized following a cease-fire between Israel and Iran.The Fear and Greed Index has improved from a low of 37 (Fear) to 50 at the time of writing as investors have adopted a Neutral attitude in expectation of the next big [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-this-chart-pattern-often-means-trouble-will-sol-break-below-146/\"\u003eSolana Price Prediction – This Chart Pattern Often Means Trouble… Will SOL Break Below $146?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-this-chart-pattern-often-means-trouble-will-sol-break-below-146/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Sol Strategies",
+        "Solana News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30123414/1751286853-solana-price-prediction-1.jpg"
+      },
+      "published": "2025-06-30T16:43:04Z"
+    }
+  },
+  {
+    "hash": "2644ec654783549172dbb2c5b526f9466c6f3af63000f63d5e47f57c1c629247",
+    "item": {
+      "title": "Pi Coin Price Prediction – Pi Network Quietly Just Got a Whole Lot More Powerful: Here’s Why It Matters",
+      "description": "\u003cp\u003eThe Pi Coin price has dropped by 4% in the past 24 hours, but could two new updates be about to send its price flying again?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pi-coin-price-prediction-pi-network-quietly-just-got-a-whole-lot-more-powerful-heres-why-it-matters/\"\u003ePi Coin Price Prediction – Pi Network Quietly Just Got a Whole Lot More Powerful: Here’s Why It Matters\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pi-coin-price-prediction-pi-network-quietly-just-got-a-whole-lot-more-powerful-heres-why-it-matters/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Pi Network",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30113432/1751283271-pi-coin-price-prediction.jpg"
+      },
+      "published": "2025-06-30T16:33:36Z"
+    }
+  },
+  {
+    "hash": "6b0f5e4b1adbdd2bafcdd18e8c8442f0f14d0a8e5b4d3079e21edb33957d2048",
+    "item": {
+      "title": "Litecoin Price Prediction – Experts Say Golden Cross Could Hit This Month – $1,000 LTC Soon?",
+      "description": "\u003cp\u003eThe Litecoin price has dipped to $85.73 this morning, but one expert is predicting that it could form a golden cross and break out soon.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/litecoin-price-prediction-experts-say-golden-cross-could-hit-this-month-1000-ltc-soon/\"\u003eLitecoin Price Prediction – Experts Say Golden Cross Could Hit This Month – $1,000 LTC Soon?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/litecoin-price-prediction-experts-say-golden-cross-could-hit-this-month-1000-ltc-soon/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "$LTC",
+        "Litecoin",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30113252/1751283171-litecoin-price-prediction.jpg"
+      },
+      "published": "2025-06-30T16:32:10Z"
+    }
+  },
+  {
+    "hash": "e4b25f1355493ff109191f84b7ea100d747709ce33ff0463389584bfdb6c9c6c",
+    "item": {
+      "title": "Dogecoin Price Prediction – Technical Reversal Pattern Could Trigger DOGE’s ‘Biggest’ Move of 2025",
+      "description": "\u003cp\u003ePeople are quietly stacking Dogecoin ($DOGE) in what could be the start of a new accumulation phase that could send the price skyward by late summer. According to analyst Crypto Man MAB in a recent X post, a prominent double-bottom formation is developing on Dogecoin\u0026#8217;s weekly chart, a pattern often linked to powerful trend reversals, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-technical-reversal-pattern-could-trigger-doges-biggest-move-of-2025/\"\u003eDogecoin Price Prediction – Technical Reversal Pattern Could Trigger DOGE\u0026#8217;s \u0026#8216;Biggest\u0026#8217; Move of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-technical-reversal-pattern-could-trigger-doges-biggest-move-of-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "DOGE",
+        "Dogecoin",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30133227/Dogecoin-Price-Prediction.jpg"
+      },
+      "published": "2025-06-30T16:25:22Z"
+    }
+  },
+  {
+    "hash": "f761a09c8f6cb6c4ee84dc82c0f82172686f1f9326425d22cc9dbdf00251b4c0",
+    "item": {
+      "title": "Bitcoin Hyper Nears $1.8M in Presale with Massive 442% Staking Yields – Only 6 Hours Left to Beat Price Rise",
+      "description": "\u003cp class=\"\" data-start=\"399\" data-end=\"711\"\u003eBitcoin Hyper has raised close to $1.8 million weeks after launch, presenting a Solana Virtual Machine-based Layer-2 that processes near-instant Bitcoin transactions and offers a 442 % APY staking pool, rewarding early participants while drawing attention to performance upgrades for the network.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-hyper-presale-1-8m-442-percent-yields-6-hours/\"\u003eBitcoin Hyper Nears $1.8M in Presale with Massive 442% Staking Yields – Only 6 Hours Left to Beat Price Rise\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-hyper-presale-1-8m-442-percent-yields-6-hours/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "bitcoin hyper",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30155911/1751299150-unnamed-92-1.jpg"
+      },
+      "published": "2025-06-30T16:13:56Z"
+    }
+  },
+  {
+    "hash": "f6962537daa28b4a009fe24366bacbb6f768117025e91c577619b0209ab2423c",
+    "item": {
+      "title": "Essential Website Features Every Broker Needs in 2025",
+      "description": "\u003cp\u003eA well-designed user experience can deliver a return on investment of up to 9,900%, according to Forrester Research. For a modern brokerage, this data confirms that the company website is a primary driver of financial performance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/essential-website-features-every-broker-needs/\"\u003eEssential Website Features Every Broker Needs in 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/essential-website-features-every-broker-needs/"
+      ],
+      "categories": [
+        "Press Releases",
+        "website studio agency",
+        "wsa"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30151557/1751296556-essential-website-features-every-broker-needs.jpg"
+      },
+      "published": "2025-06-30T15:16:26Z"
+    }
   }
 ]
