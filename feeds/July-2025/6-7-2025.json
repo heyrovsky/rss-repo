@@ -195,5 +195,272 @@
       ],
       "published": "2025-07-06T00:31:58Z"
     }
+  },
+  {
+    "hash": "b507a6531c9be9aeb219a1563213111d5a535a4d326cb2dec2b19d1ab345adca",
+    "item": {
+      "title": "Shadow Clock Shows The Time On The Wall",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"790002\" data-permalink=\"https://hackaday.com/2025/07/05/shadow-clock-shows-the-time-on-the-wall/how-i-made-this-amazing-projecting-hollow-clock-diy-project-guide-0-15-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"How I made this amazing PROJECTING HOLLOW CLOCK! \u0026#8211; DIY Project Guide 0-15 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png?w=800\" /\u003e\u003c/div\u003eWhat if you build a clock that displayed the time not just on its own, but in its shadows as well? [Lewis] from [DIY Machines] has done just that, with \u003ca href=\"https://hackaday.com/2025/07/05/shadow-clock-shows-the-time-on-the-wall/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/05/shadow-clock-shows-the-time-on-the-wall/"
+      ],
+      "categories": [
+        "clock hacks",
+        "clock",
+        "ESP8266"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/How-I-made-this-amazing-PROJECTING-HOLLOW-CLOCK-DIY-Project-Guide-0-15-screenshot.png"
+      },
+      "published": "2025-07-06T02:00:00Z"
+    }
+  },
+  {
+    "hash": "0c604b1efe1a6238425725d37ced18c38a20f56e7493fa35a99811a405da55dd",
+    "item": {
+      "title": "Daisy chain of hacks lets new Arm board run Doom",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"295\" src=\"https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp 1886w, https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?resize=250,92 250w, https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?resize=400,148 400w, https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?resize=800,295 800w, https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?resize=1536,567 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"790045\" data-permalink=\"https://hackaday.com/2025/07/05/daisy-chain-of-hacks-lets-new-arm-board-run-doom/still-2025-06-21-180007_1-5-18/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp\" data-orig-size=\"1886,696\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Doom 2016 on ARM featured\" data-image-description=\"\" data-image-caption=\"\u0026lt;p\u0026gt;Image [Interfacing Linux]\u0026lt;/p\u0026gt;\n\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp?w=800\" /\u003e\u003c/div\u003eRunning DOOM on ARM? Old hat. Running Doom (2016) on an ARM SBC? Well, that\u0026#8217;s a bit more interesting, and [Interfacing Linux] shows us how with this handy guide, and \u003ca href=\"https://hackaday.com/2025/07/05/daisy-chain-of-hacks-lets-new-arm-board-run-doom/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/05/daisy-chain-of-hacks-lets-new-arm-board-run-doom/"
+      ],
+      "categories": [
+        "ARM",
+        "ARMv9",
+        "Gaming Computer",
+        "radxa"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/Still-2025-06-21-180007_1.5.18.webp"
+      },
+      "published": "2025-07-05T23:00:00Z"
+    }
+  },
+  {
+    "hash": "aaec20272f07a400d66f647ee60e3335a6f6c6905018810dfff274dfcb233a55",
+    "item": {
+      "title": "Mapping Tool Helps Identify Usable Land For Building",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg 826w, https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg?resize=800,449 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"790004\" data-permalink=\"https://hackaday.com/2025/07/05/mapping-tool-helps-identify-usable-land-for-building/test_area2-1/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg\" data-orig-size=\"826,464\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"test_area2 (1)\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg?w=800\" /\u003e\u003c/div\u003eHow would you go about identifying usable land that suits your building tastes? [Scott Sexton] was specifically, looking for land that\u0026#8217;s not to steep to build on, and realized that \u003ca href=\"https://hackaday.com/2025/07/05/mapping-tool-helps-identify-usable-land-for-building/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/05/mapping-tool-helps-identify-usable-land-for-building/"
+      ],
+      "categories": [
+        "Misc Hacks",
+        "geospatial data",
+        "gis",
+        "maps"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/06/test_area2-1-e1751271675664.jpg"
+      },
+      "published": "2025-07-05T20:00:00Z"
+    }
+  },
+  {
+    "hash": "534defe8cacb76efc9a874ca1a3696ed21a46c06a21f0b102ca435a4fc9f20b6",
+    "item": {
+      "title": "AI Is Only Coming For Fun Jobs",
+      "description": "\u003cdiv\u003e\u003cimg width=\"620\" height=\"264\" src=\"https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg?w=620\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg 620w, https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg?resize=250,106 250w, https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg?resize=400,170 400w\" sizes=\"auto, (max-width: 620px) 100vw, 620px\" data-attachment-id=\"100399\" data-permalink=\"https://hackaday.com/2013/07/28/turning-kerbal-space-program-into-a-proper-space-simulator/kerbal-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg\" data-orig-size=\"620,264\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;}\" data-image-title=\"Kerbal\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg?w=620\" /\u003e\u003c/div\u003eIn the past few years, what marketers and venture capital firms term \u0026#8220;artificial intelligence\u0026#8221; but is more often an advanced predictive text model of some sort has started taking people\u0026#8217;s \u003ca href=\"https://hackaday.com/2025/07/05/ai-is-only-coming-for-fun-jobs/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/05/ai-is-only-coming-for-fun-jobs/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "ai",
+        "artificial intelligence",
+        "astronaut",
+        "ChatGPT",
+        "control",
+        "kerbal space program",
+        "large language models",
+        "spacecraft"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2013/07/kerbal.jpg"
+      },
+      "published": "2025-07-05T17:00:00Z"
+    }
+  },
+  {
+    "hash": "1db8ef2fdba0d7d0ab686540b7f9f33b8fa6f634ea3019bdcea05f9e52c226e2",
+    "item": {
+      "title": "Software Defined Retro ROM Makes 8-bit Easy",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png 1920w, https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"790289\" data-permalink=\"https://hackaday.com/2025/07/05/software-defined-retro-rom-makes-8-bit-easy/ssdr-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ssdr-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png?w=800\" /\u003e\u003c/div\u003eLike the rest of us, 8-bit hardware is not getting any newer, and failed ROMs are just a fact of life. Of course you can\u0026#8217;t call up Commadore corporation for \u003ca href=\"https://hackaday.com/2025/07/05/software-defined-retro-rom-makes-8-bit-easy/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/05/software-defined-retro-rom-makes-8-bit-easy/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "commodore",
+        "drop-in replacement",
+        "rom",
+        "STM32F"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/ssdr-feat.png"
+      },
+      "published": "2025-07-05T14:00:42Z"
+    }
+  },
+  {
+    "hash": "a98972c3faa9ef68f0efd74aca5df93e72b2bdf13caca0710a1108f280055336",
+    "item": {
+      "title": "Injection Rejection (2006)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44477500\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thedailywtf.com/articles/Injection_Rejection"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T03:07:39Z"
+    }
+  },
+  {
+    "hash": "91d8b58a241b3bb5e64233256b31703cd9fa6415115cab3419bbf49aa8a748d4",
+    "item": {
+      "title": "Serving 200M requests per day with a CGI-bin",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44476716\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T00:32:18Z"
+    }
+  },
+  {
+    "hash": "432fa177b145b18f781b5f90fa219726e8de7ed9b04ba6b610fecf54818bfea5",
+    "item": {
+      "title": "Eastern Baltic cod grow much smaller than they did due to overfishing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44474759\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-05T19:00:34Z"
+    }
+  },
+  {
+    "hash": "1f78ce821bf0f3e87495f95c10e98eb981aa273a20ee6574ed06488ec627cf4e",
+    "item": {
+      "title": "Fast Code Is Easy. Measuring It Is Hard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44445462\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.architect.co/posts/how-fast-is-it-really"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-02T16:10:59Z"
+    }
+  },
+  {
+    "hash": "9782cc6f0521901664aaa8b2c14c1fc33164dd099c83ec7c773f09b3d098698e",
+    "item": {
+      "title": "ClojureScript from First Principles – David Nolen [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44448802\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=An-ImWVppNQ"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-02T21:03:13Z"
+    }
+  },
+  {
+    "hash": "07c0a02c912a718a00708d516227c3e014d9155f337bc5364d94bba720126ac5",
+    "item": {
+      "title": "Colombia seizes first unmanned narco-submarine with Starlink antenna",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44477601\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T03:31:21Z"
+    }
+  },
+  {
+    "hash": "ead75c993820a81ee5ad575ae79ef3202614c9d2ef58982e116ca04d002c740f",
+    "item": {
+      "title": "Volunteer finds Holy Grail of abolitionist-era Baptist documents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44477235\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bostonherald.com/2025/07/03/baptist-anti-slavery-scroll/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T02:11:48Z"
+    }
+  },
+  {
+    "hash": "83886477f79da2fe73903b2aa97a7c3f6642178578ddaf4d056e97e0529d2cd4",
+    "item": {
+      "title": "The Right Way to Embed an LLM in a Group Chat",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44476084\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.tripjam.app/the-right-way-to-embed-an-llm-in-a-group-chat/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-05T22:25:22Z"
+    }
+  },
+  {
+    "hash": "ea5698fc3400f33dc7150a9430194010df822fd1b640dcf9c9cecf19e8323584",
+    "item": {
+      "title": "A Canadian's AI hoax duped the media and propelled a 'band' to success",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44477151\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cbc.ca/news/entertainment/ai-band-hoax-velvet-sundown-1.7575874"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T01:56:56Z"
+    }
+  },
+  {
+    "hash": "999b7344716a051fccf343e6dd69477ffee09d7221cc5b400e0dea759c515d9d",
+    "item": {
+      "title": "Hugging Your Cactus",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456500\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hugyourcactus.com/2023/01/11/intro-to-hugging-your-cactus/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-03T16:08:54Z"
+    }
+  },
+  {
+    "hash": "c36899755ce4b2d9a63f79cf064190c26ca3bc52cc32bd8c3f77cd155f1bec63",
+    "item": {
+      "title": "Ask HN: Advice for Starting a Hacker Space?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44476822\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44476822"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T00:53:12Z"
+    }
   }
 ]
