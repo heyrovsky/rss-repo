@@ -2776,5 +2776,699 @@
       },
       "published": "2025-07-07T15:50:59Z"
     }
+  },
+  {
+    "hash": "e6119f2b89065ff3d4d0fc36a195b9fadeadf48dd952d23367f5683cf3c210be",
+    "item": {
+      "title": "U-Boot v2025.07 released",
+      "description": "The \u003ca href=\"https://u-boot.org/\"\u003eU-Boot\u003c/a\u003e universal bootloader project\nhas announced the release of version 2025.07.  It has multiple new features\nincluding \"uthreads\" (inspired by the \"bthreads\" coroutines in the \u003ca\nhref=\"https://www.barebox.org/\"\u003ebarebox\u003c/a\u003e bootloader), exFAT support,\nnew architecture and SoC support and improvements to existing platforms,\ncleanups, better testing, and more.  Project leader Tom Rini took the\nopportunity to mention his \u003ca\nhref=\"https://lore.kernel.org/u-boot/20250602222738.GC100073@bill-the-cat/\"\u003eefforts\u003c/a\u003e\ntoward getting some help with the project and more formal governance:\n\n\u003cblockquote class=\"bq\"\u003e\nAs this is a full release, and not just a release candidate I'm hoping\nfor a few more people to read this and then read what I'm linking to as\nwell. For the overall health of the project, and the community, I'm\nhoping to find a few people within the community that can help with\noverall organization and management. I would like to long term be able\nto move us to being under the Software Freedom Conservancy umbrella and\nthat in turn means having a organizational structure that's not just a\nsingle person.\n\u003c/blockquote\u003e\n\u003cp\u003e\nHe also noted that there is a community meeting on July 8th, 2025 at 9am (GMT -06:00) on\nGoogle Meet.",
+      "links": [
+        "https://lwn.net/Articles/1029092/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-07-07T21:04:08Z"
+    }
+  },
+  {
+    "hash": "9fa4f47cdd8c6b9949b8182c318909cc2bbf7901b6a6e02aaf26368352733695",
+    "item": {
+      "title": "Samsung and Epic Games call a truce in app store lawsuit",
+      "description": "Epic's Tim Sweeney says Samsung will make changes, but no one has specifics.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/07/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit/"
+      ],
+      "categories": [
+        "Gaming",
+        "Tech",
+        "android",
+        "Epic Games"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Samsung-back-1-1152x648.jpg"
+      },
+      "published": "2025-07-07T20:10:14Z"
+    }
+  },
+  {
+    "hash": "fa90151248ebe47f7215057048017a7b4d82eea1e2e8f0020f69b9fb3bed70f1",
+    "item": {
+      "title": "Ancient skull may have been half human, half Neanderthal child",
+      "description": "CT scans hint at hybridization, but it will take extracting and analyzing a DNA sample to be certain.",
+      "links": [
+        "https://arstechnica.com/science/2025/07/ancient-skull-may-have-been-half-human-half-neanderthal-child/"
+      ],
+      "categories": [
+        "Science",
+        "anthropology",
+        "Archaeology"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/hybrid1-1152x648.jpg"
+      },
+      "published": "2025-07-07T20:00:30Z"
+    }
+  },
+  {
+    "hash": "eb37569b0ebffd6d7c381cdd7aaab8eaa1a2565ee72aca5e2a7195da3580fe7b",
+    "item": {
+      "title": "Measles cases reach 33-year high as RFK Jr. pursues anti-vaccine agenda",
+      "description": "There have been at least 1,281 cases since the start of the year.",
+      "links": [
+        "https://arstechnica.com/health/2025/07/measles-cases-reach-33-year-high-as-rfk-jr-pursues-anti-vaccine-agenda/"
+      ],
+      "categories": [
+        "Health",
+        "measles"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg"
+      },
+      "published": "2025-07-07T19:17:34Z"
+    }
+  },
+  {
+    "hash": "5b9d1ee47431ba80f57289af076db73f46569f1ba342fb1252b6e33bdaf04c0f",
+    "item": {
+      "title": "Trump and Congress finalize law that could hurt your Wi-Fi",
+      "description": "FCC to auction spectrum that could include 6 GHz band used for next-gen Wi-Fi.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/trump-and-congress-finalize-law-that-could-hurt-your-wi-fi/"
+      ],
+      "categories": [
+        "Policy",
+        "Spectrum Auction",
+        "wi-fi"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/wi-fi-data-1152x648-1751912403.jpg"
+      },
+      "published": "2025-07-07T18:33:28Z"
+    }
+  },
+  {
+    "hash": "b475468eec9208aa45832ce4a36cc260b82a3f2ed6216da2387962d4d87dc1c2",
+    "item": {
+      "title": "Fubo pays $3.4M to settle claims it illegally shared user data with advertisers",
+      "description": "Fubo was accused of giving advertisers customers' PII without their consent. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/07/fubo-pays-3-4m-to-settle-claims-it-illegally-shared-user-data-with-advertisers/"
+      ],
+      "categories": [
+        "Tech",
+        "class action",
+        "Fubo",
+        "privacy",
+        "sports",
+        "streaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2022925606-1152x648-1751910061.jpg"
+      },
+      "published": "2025-07-07T18:21:11Z"
+    }
+  },
+  {
+    "hash": "daca9def4388a875de1105983b235da343144efc9c6351f045cb68b9412d4f58",
+    "item": {
+      "title": "“No honor among thieves”: M\u0026S hacking group starts turf war",
+      "description": "A clash between criminal ransomware groups could result in victims being extorted twice.",
+      "links": [
+        "https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "cybercrime",
+        "cybercriminals",
+        "extortion",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kieran Smith, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-758313915-1152x648.jpg"
+      },
+      "published": "2025-07-07T18:12:10Z"
+    }
+  },
+  {
+    "hash": "a5b9626a36786ca67e9e966af15eff8345ac0c256fa1a806abbcf9b92d4dbf74",
+    "item": {
+      "title": "The curious rise of giant tablets on wheels",
+      "description": "Hands-on with KTC's 32-inch Android tablet on a rolling pedestal, the A32Q7 Pro. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/"
+      ],
+      "categories": [
+        "Features",
+        "Reviews",
+        "Tech",
+        "android",
+        "LG",
+        "Monitors",
+        "reviews",
+        "tablet",
+        "TVs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/20250626_163545-1152x648-1751912015.jpg"
+      },
+      "published": "2025-07-05T11:00:23Z"
+    }
+  },
+  {
+    "hash": "52e20bb822a9aa5df1f3b1fe9d45ad9ff673226970331f77cba74cab811370d2",
+    "item": {
+      "title": "GUNZ Announces $GUN Token Expansion to Solana",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/PR_Image_1751894929luEfTLcOWV.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/PR_Image_1751894929luEfTLcOWV.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/07/PR_Image_1751894929luEfTLcOWV-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/PR_Image_1751894929luEfTLcOWV-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/07/PR_Image_1751894929luEfTLcOWV-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eRobinson Point, Singapore, 7th July 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gunz-announces-gun-token-expansion-to-solana/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/PR_Image_1751894929luEfTLcOWV.jpg"
+      },
+      "published": "2025-07-07T13:37:18Z"
+    }
+  },
+  {
+    "hash": "33a8e4f83077edcac1546ebab8b1bab7aa36ec061b5adf6e745e2fc3f512c762",
+    "item": {
+      "title": "Quant (QNT) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/03/Quant-QNT_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Quant (QNT)\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/03/Quant-QNT_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/03/Quant-QNT_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/03/Quant-QNT_Price-prediction-150x84.jpg 150w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Quant (QNT) price prediction 2025, 2026-2030, we will analyze the price patterns of QNT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Quant (QNT) Current Market Status What is Quant (QNT)? Quant (QNT) 24H Technicals QUANT (QNT)",
+      "links": [
+        "https://thenewscrypto.com/quant-qnt-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "QNT",
+        "Quant"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/03/Quant-QNT_Price-prediction.jpg"
+      },
+      "published": "2025-07-07T13:35:15Z"
+    }
+  },
+  {
+    "hash": "2107fd09dc28af4de17e0d8fc50ff82d6c48c9c9fe4c59c10c3192eaf550ea3c",
+    "item": {
+      "title": "PEPE vs. Ozak AI Price Forecast: Meme Surge or AI Strength—Where Will Gains Come From?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PEPE vs. Ozak AI Price Forecast: Meme Surge or AI Strength—Where Will Gains Come From?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-6.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-6-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eCrypto marketplace gears up for a potential 2025 bull cycle, investors are weighing the explosive strength of meme coins like PEPE against the rising momentum of utility-driven tokens which include Ozak AI. Both initiatives goal excessive returns but come from very one of a kind foundations—one is riding on a",
+      "links": [
+        "https://thenewscrypto.com/pepe-vs-ozak-ai-price-forecast-meme-surge-or-ai-strength-where-will-gains-come-from/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-6.jpg"
+      },
+      "published": "2025-07-07T13:30:00Z"
+    }
+  },
+  {
+    "hash": "a81d9face1ceec1d6b688e1a367009d7a29b00fba020c08439b5bb6c6b4ca56c",
+    "item": {
+      "title": "XDC Network (XDC) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XDC Network (XDC) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this XDC Network (XDC) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of XDC by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION XDC Network (XDC) Current Market Status What is XDC Network (XDC)? XDC Network (XDC) 24H",
+      "links": [
+        "https://thenewscrypto.com/xdc-network-xdc-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "price prediction",
+        "XDC",
+        "XDC Network",
+        "XinFin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/XDC-Price-prediction.jpg"
+      },
+      "published": "2025-07-07T13:14:43Z"
+    }
+  },
+  {
+    "hash": "62f5fbfe6bcf95e3672e121bf6c091b6c8c1269c5ccf4a1ba1a136075743dd4d",
+    "item": {
+      "title": "Top 5 Low-Cap Coins to Buy Before They Blow Up—Little Pepe Still Under $0.002",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Top_5_Low_Cap_Coins_to_Buy_Before_They_Blow_Up—Little_Pepe_Still.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Top 5 Low-Cap Coins to Buy Before They Blow Up—Little Pepe Still Under $0.002\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Top_5_Low_Cap_Coins_to_Buy_Before_They_Blow_Up—Little_Pepe_Still.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Top_5_Low_Cap_Coins_to_Buy_Before_They_Blow_Up—Little_Pepe_Still-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Top_5_Low_Cap_Coins_to_Buy_Before_They_Blow_Up—Little_Pepe_Still-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eLow-cap cryptocurrencies are gaining attention as investors search for the next breakout tokens ahead of the anticipated 2025 bull run. These digital assets, which currently trade at modest valuations offer strong upside potential for early investors willing to take calculated risks. Below are five promising low-cap coins—led by Little Pepe—that",
+      "links": [
+        "https://thenewscrypto.com/top-5-low-cap-coins-to-buy-before-they-blow-up-little-pepe-still-under-0-002/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Little PEPE",
+        "Little Pepe ($LILPEPE)",
+        "Little Pepe (LILPEPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Top_5_Low_Cap_Coins_to_Buy_Before_They_Blow_Up—Little_Pepe_Still.jpg"
+      },
+      "published": "2025-07-07T12:54:05Z"
+    }
+  },
+  {
+    "hash": "b9d63f26c48dd933be9bb97ee4d2c35232bad4f3451ec3d83cf1103de8565e4b",
+    "item": {
+      "title": "UAE Authorities Denies TON-Golden Visa Link, Toncoin Drops 10% Amid Backlash",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-07-at-6.17.31-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"UAE Authorities Denies TON-Golden Visa Link, Toncoin Drops 10% Amid Backlash\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-07-at-6.17.31-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-07-at-6.17.31-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-07-at-6.17.31-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA public rebuttal by UAE officials of suggestions that staking Toncoin may qualify investors for a Golden Visa caused a precipitous 10% drop in price. The Toncoin price saw a short spike earlier when the project\u0026#8217;s official website ran a promotion. Giving a UAE Golden Visa to those who staked",
+      "links": [
+        "https://thenewscrypto.com/uae-authorities-denies-ton-golden-visa-link-toncoin-drops-10-amid-backlash/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "Toncoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-07-at-6.17.31-PM.jpeg"
+      },
+      "published": "2025-07-07T12:50:02Z"
+    }
+  },
+  {
+    "hash": "61e18ae2a99aec8659f79206a12f8a25b0e0ce167c618d472f53bb3389b6a494",
+    "item": {
+      "title": "Can Solana (SOL) Ride the Wave Toward a New Peak?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Solana-SOL-Ride-the-Wave-Toward-a-New-Peak.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Solana (SOL) Ride the Wave Toward a New Peak?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Solana-SOL-Ride-the-Wave-Toward-a-New-Peak.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Solana-SOL-Ride-the-Wave-Toward-a-New-Peak-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Solana-SOL-Ride-the-Wave-Toward-a-New-Peak-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market has been swinging between red and green candlesticks for the last few days. Currently, the market cap is resting at $3.36 trillion after a brief spike. Major assets are attempting to recover, and are moderately charted in green.\u0026#160; Particularly, Solana (SOL) has gained by over 3.46%, breaking",
+      "links": [
+        "https://thenewscrypto.com/can-solana-sol-ride-the-wave-toward-a-new-peak/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "SOL",
+        "SOL Price",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Solana-SOL-Ride-the-Wave-Toward-a-New-Peak.jpg"
+      },
+      "published": "2025-07-07T12:32:06Z"
+    }
+  },
+  {
+    "hash": "b28845f37eea738ed68f97b6d8a299515ed627391539ba05df317b1533292f19",
+    "item": {
+      "title": "Dogecoin Price Forecast: Can DOGE Finally Hit $1 or Will Ozak AI Reach That Level First?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-8.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogecoin Price Forecast: Can DOGE Finally Hit $1 or Will Ozak AI Reach That Level First?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-8.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-8-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe next crypto bull market is heating up, and investors are eyeing two radically different contenders: Dogecoin, the original meme coin that thrives on internet culture, and Ozak AI, an emerging AI-powered crypto aiming to transform data analytics in Web3. With both targeting ambitious milestones—$1 for DOGE and $1 from",
+      "links": [
+        "https://thenewscrypto.com/dogecoin-price-forecast-can-doge-finally-hit-1-or-will-ozak-ai-reach-that-level-first/"
+      ],
+      "categories": [
+        "Press Release",
+        "DOGE",
+        "Dogecoin",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-8.jpg"
+      },
+      "published": "2025-07-07T12:25:18Z"
+    }
+  },
+  {
+    "hash": "c003e3216aa59e8c370c83928594479e6b9a5701608383af90c97eb0a9be9cea",
+    "item": {
+      "title": "NEXST Launches Web3 VR Entertainment Platform with K-Pop Group UNIS as First Global Partner",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/press_title_1751872843UloPqCfbyD.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/press_title_1751872843UloPqCfbyD.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/07/press_title_1751872843UloPqCfbyD-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/press_title_1751872843UloPqCfbyD-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/07/press_title_1751872843UloPqCfbyD-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eDubai, UAE, 7th July 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/nexst-launches-web3-vr-entertainment-platform-with-k-pop-group-unis-as-first-global-partner/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/press_title_1751872843UloPqCfbyD.jpg"
+      },
+      "published": "2025-07-07T11:01:11Z"
+    }
+  },
+  {
+    "hash": "7421f61479229dd41a0df8fb8d744ff914213f831816ef659972601e6aa2e51c",
+    "item": {
+      "title": "With Volume Up 302%, Is DOGE Ready for a Bigger Run?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/With-Volume-Up-302-Is-DOGE-Ready-for-a-Bigger-Run.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"With Volume Up 302%, Is DOGE Ready for a Bigger Run?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/With-Volume-Up-302-Is-DOGE-Ready-for-a-Bigger-Run.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/With-Volume-Up-302-Is-DOGE-Ready-for-a-Bigger-Run-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/With-Volume-Up-302-Is-DOGE-Ready-for-a-Bigger-Run-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Meme coin market cap has jumped by over 4.5%, reaching $59.9 billion. This brief bullish correction has caused the major assets to enter the green zone. Meanwhile, the dog-themed meme coin, Dogecoin (DOGE), has shifted its momentum toward an ascending pattern.\u0026#160; If DOGE could hold its ground at a",
+      "links": [
+        "https://thenewscrypto.com/with-volume-up-302-is-doge-ready-for-a-bigger-run/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Cryptocurrency",
+        "DOGE",
+        "Dogecoin",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/With-Volume-Up-302-Is-DOGE-Ready-for-a-Bigger-Run.jpg"
+      },
+      "published": "2025-07-07T10:36:32Z"
+    }
+  },
+  {
+    "hash": "9850ef0fd031ae90759164be67b9c3750536edbea0b599a5f564d03bab1b32a6",
+    "item": {
+      "title": "New sphere-packing record stems from an unexpected source",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44493196\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T18:19:13Z"
+    }
+  },
+  {
+    "hash": "ff1ef6f8a446a0ffb212550283f6818a059755b87dde73b816a9b1c84c7d91ac",
+    "item": {
+      "title": "My first verified imperative program",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44492986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://markushimmel.de/blog/my-first-verified-imperative-program/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T17:58:04Z"
+    }
+  },
+  {
+    "hash": "013f95ed97de949ab497b1e6a55afc621aa8e6c3e75408316777e9f26fc5a573",
+    "item": {
+      "title": "Mercury: Ultra-fast language models based on diffusion",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44489690\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2506.17298"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T12:31:08Z"
+    }
+  },
+  {
+    "hash": "576b77135e24806141bd6420d322f170888f7dcdba69065ae5bf2a418cad0b3e",
+    "item": {
+      "title": "The Miyawaki Method of micro-forestry",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44470942\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.futureecologies.net/listen/fe-6-5-the-method"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-05T08:02:56Z"
+    }
+  },
+  {
+    "hash": "64f69eccaca17ae8c60c4885f93c4484e3f4a68395d78ade7e2e4f0fa4190dca",
+    "item": {
+      "title": "The chemical secrets that help keep honey fresh for so long",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44463429\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-04T11:04:41Z"
+    }
+  },
+  {
+    "hash": "f466db09fc7197cdd55dc1b28297dcac4e03fd50806fa72e6e1640b966ea9c95",
+    "item": {
+      "title": "You Should Run a Certificate Transparency Log",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44494430\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://words.filippo.io/run-sunlight/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T20:36:54Z"
+    }
+  },
+  {
+    "hash": "5e17e0f17cbd742993174deb0a12b91cc59d06d13af78feb9cecc4a19c96a458",
+    "item": {
+      "title": "Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44493640\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T19:07:13Z"
+    }
+  },
+  {
+    "hash": "b58c3e9742a07853d38a605d0e4a8701da7ff6be5f08af8d0897cde9889c4ef3",
+    "item": {
+      "title": "How did X-Rays gain mass adoption?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44494255\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.aditharun.com/p/how-did-x-rays-gain-mass-adoption"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T20:18:30Z"
+    }
+  },
+  {
+    "hash": "cc7aa4d80e1a504fb6f0d4dc120c3254b084db039b1ecfc50f98cd6e8128382c",
+    "item": {
+      "title": "Why are there no good dinosaur films?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44467379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-04T19:55:27Z"
+    }
+  },
+  {
+    "hash": "9b88e83a9aa5d98a6cd1fafac27c824b2a0a603bc98e9a5dc6e942f31589f214",
+    "item": {
+      "title": "Thunderbird 140 Mail Client Debuts As Newest ESR Release",
+      "description": "The Thunderbird mail client developers today formally announced Thunderbird 140 as the newest Extended Support Release (ESR) for this cross-platform alternative to Microsoft Outlook...",
+      "links": [
+        "https://www.phoronix.com/news/Thunderbird-140-ESR-Release"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-07T20:22:58Z"
+    }
+  },
+  {
+    "hash": "0c382efe2843822010411e9761f1d372be0870cfe6d319763c7477941198ce81",
+    "item": {
+      "title": "Robinhood Stock Tokens Face EU Regulator Probe After OpenAI Warns: “Not Our Equity”",
+      "description": "\u003cp\u003eRobinhood Stock Tokens have drawn EU regulator scrutiny as OpenAI and SpaceX disavowed ties.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/robinhood-stock-tokens-face-eu-regulator-probe-after-openai-warns-not-our-equity/\"\u003eRobinhood Stock Tokens Face EU Regulator Probe After OpenAI Warns: “Not Our Equity”\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/robinhood-stock-tokens-face-eu-regulator-probe-after-openai-warns-not-our-equity/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Finance News",
+        "News",
+        "OpenAI",
+        "Robinhood",
+        "Stocks"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07210104/1751922064-image-1751922008967_optimized.jpg"
+      },
+      "published": "2025-07-07T21:02:43Z"
+    }
+  },
+  {
+    "hash": "edae97c531d42fe54268f467cd02374e2adcc914bd32631566bc4bf57e5677e5",
+    "item": {
+      "title": "Pi Coin Price Prediction: Daily Volume Collapses Below $100M – Are Whales Dumping and Vanishing for Good?",
+      "description": "\u003cp\u003eThe Pi Coin price and trading activity have dwindled in the days following “Pi Day,” an event where the Core Team unveiled several ecosystem updates.According to CoinMarketCap, Pi\u0026#8217;s 8-day trading volume has fallen below $100 million — with just $46 million exchanged on Sunday alone.This steady decline in interest suggests weakening momentum, supporting a bearish [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pi-coin-price-prediction-daily-volume-collapses-below-100m-are-whales-dumping-and-vanishing-for-good/\"\u003ePi Coin Price Prediction: Daily Volume Collapses Below $100M – Are Whales Dumping and Vanishing for Good?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pi-coin-price-prediction-daily-volume-collapses-below-100m-are-whales-dumping-and-vanishing-for-good/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrencies",
+        "Pi Network",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07142340/1751898219-pi-coin-price-prediction-5.jpg"
+      },
+      "published": "2025-07-07T20:00:00Z"
+    }
+  },
+  {
+    "hash": "48060b75956ccd5574ecc853efe6f0ccd71c614aaf5aa68d1229883fa4e4e780",
+    "item": {
+      "title": "The Smartest Way to Make Money in 2025: Earn One Bitcoin Income per Day with Just a Mobile Phone or Computer",
+      "description": "\u003cp\u003eStill unsure how to start investing or make your salary work harder for you? Heard about crypto but never knew where to begin?Good news: 2025 is quickly becoming the year of a new wealth-building opportunity \u0026#8211; cryptocurrency cloud mining.With minimal upfront cost and no technical skills required, it\u0026#8217;s the easiest way to start earning crypto [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/smartest-way-make-money-2025-cloudmining/\"\u003eThe Smartest Way to Make Money in 2025: Earn One Bitcoin Income per Day with Just a Mobile Phone or Computer\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/smartest-way-make-money-2025-cloudmining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07183011/1751913010-smartest-way-make-money-2025-cloudmining.jpg"
+      },
+      "published": "2025-07-07T18:31:40Z"
+    }
+  },
+  {
+    "hash": "d090386fbdd960433088a001b28f930fc47538106f2a74d5c597e6850fd45582",
+    "item": {
+      "title": "Use XRP to Start Bitcoin Mining Machine, UK Certified FIND MINING Helps You Easily Achieve Your Wealth Goals in 2025",
+      "description": "\u003cp\u003eFIND MINING has become a new choice for many investors with its advanced technology, legal and compliant operations, and user-friendly platform.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/use-xrp-to-start-bitcoin-mining-machine-uk-certified-find-mining/\"\u003eUse XRP to Start Bitcoin Mining Machine, UK Certified FIND MINING Helps You Easily Achieve Your Wealth Goals in 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/use-xrp-to-start-bitcoin-mining-machine-uk-certified-find-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07180241/1751911361-use-xrp-to-start-bitcoin-mining-machine-uk-certified-find-mining.jpg"
+      },
+      "published": "2025-07-07T18:17:23Z"
+    }
   }
 ]
