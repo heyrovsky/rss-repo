@@ -2220,5 +2220,561 @@
       },
       "published": "2025-07-07T12:27:43Z"
     }
+  },
+  {
+    "hash": "a1ebb8f4db0eb73158688085ee020d7af66bb84073ebc83bd2ef90998b56ab11",
+    "item": {
+      "title": "Bash-5.3-release available",
+      "description": "The GNU project's \u003ca href=\"https://www.gnu.org/software/bash/\"\u003eBourne Again\nSHell\u003c/a\u003e (Bash) has released version 5.3, with some significant new\nfeatures, including some from the associated \n\u003ca href=\"https://lwn.net/Articles/1029080/\"\u003eReadline 8.3 release\u003c/a\u003e, which provides\ncommand-line editing and other features for Bash and lots of other\nprograms.  Bash 5.3 has a \"\u003cq\u003enew form of command substitution that executes the command in\nthe current shell execution context\u003c/q\u003e\", pathname-completion sorting\nwill be handled based on the \u003ctt\u003eGLOBSORT\u003c/tt\u003e shell variable, generated\ncompletions can go to a shell variable instead of to stdout, the source\ncode has been updated to C23, and more.  Meanwhile:\n\n\u003cblockquote class=\"bq\"\u003e\nReadline has new features as well.  There is a new option that allows\ncase-insensitive searching, a new command that executes a named readline\ncommand, and a new command that exports possible word completions in a\nspecified format for consumption by another process. \n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1029079/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-07-07T17:26:49Z"
+    }
+  },
+  {
+    "hash": "91f0485855411611cbb092de745b879b8b61a6eb2060213484121d1187e22b34",
+    "item": {
+      "title": "[$] A tour of the niri scrolling-tiling Wayland compositor",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/YaLTeR/niri?tab=readme-ov-file#abouttm\"\u003eNiri\u003c/a\u003e\nis a relatively new Rust-based \u003ca\nhref=\"https://en.wikipedia.org/wiki/Compositing_manager\"\u003ecompositor\u003c/a\u003e\nfor Wayland with a different take on \u003ca href=\"https://en.wikipedia.org/wiki/Tiling_window_manager\"\u003etiling window management\u003c/a\u003e: windows\nare placed onscreen in an \"infinite\" row that can expand beyond the\nbounds of the visible workspace. It is not a full-blown desktop\nenvironment, but niri may be a suitable option for Linux users who\nwant tiling features and the minimalism of a window manager for\nWayland.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1025866/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-07-07T16:04:11Z"
+    }
+  },
+  {
+    "hash": "e7d978a2e67b3b8cbd60fa28e6098a571203988d97da716fa5b8c8c9ec6866b0",
+    "item": {
+      "title": "SEO Poisoning Campaign Targets 8,500+ SMB Users with Malware Disguised as AI Tools",
+      "description": "Cybersecurity researchers have disclosed a malicious campaign that leverages search engine optimization (SEO) poisoning techniques to deliver a known malware loader called Oyster (aka Broomstick or CleanUpLoader).\nThe malvertising activity, per Arctic Wolf, promotes fake websites hosting trojanized versions of legitimate tools like PuTTY and WinSCP, aiming to trick software professionals",
+      "links": [
+        "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjneeyVlD829OAzcDkiccXyWRgD56EKptjy5KuJcH9iZkGUjr3AfY9qBxMwNqixB1QbWxREbvDsljPViOjpWW1EX9PmAewGi8bUMxZ6odGX-0Q8jTPNfHrfZEmbDwVYlVARVQBNUnR1gvUPAOypKFgnGTvnn9HYLXVDWUMEF5Eq4b8-Kdsd2xc5TOd4nFZ_/s1600/google.jpg"
+      },
+      "published": "2025-07-07T17:26:00Z"
+    }
+  },
+  {
+    "hash": "857eb5df4c7f206620713ec5b168182048c0107a323bbb61d97b2a3fcc38794a",
+    "item": {
+      "title": "U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware",
+      "description": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has levied sanctions against Russia-based bulletproof hosting (BPH) service provider Aeza Group for assisting threat actors in their malicious activities and targeting victims in the country and across the world.\nThe sanctions also extend to its subsidiaries Aeza International Ltd., the U.K. branch of Aeza Group, as",
+      "links": [
+        "https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOw4eBme7AG11gBPRXKW65QmaZNpHUgo6nhwVMMXex_1Tv_Bs884S2mHGZYQWmaq7TiGMkNTp7DSEKl9Lqn9Rhmz-mcPemtLwuDsW9LHFdpNpc2Q94PjXk4z_ZuQz0W2C4f3r4d_4ftxfY4Shi9MxnhS7lTTpsj3JrjYCxqtI30sqMClFJVuyGdYYOY4D/s1600/russian-ransomware-hosting.jpg"
+      },
+      "published": "2025-07-02T08:56:00Z"
+    }
+  },
+  {
+    "hash": "3d2741ad30f0a673cdadf7e673bb458e65aeaf61058cb6445710be372145ab96",
+    "item": {
+      "title": "Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update",
+      "description": "Google has released security updates to address a vulnerability in its Chrome browser for which an exploit exists in the wild.\nThe zero-day vulnerability, tracked as CVE-2025-6554 (CVSS score: N/A), has been described as a type confusion flaw in the V8 JavaScript and WebAssembly engine.\n\"Type confusion in V8 in Google Chrome prior to 138.0.7204.96 allowed a remote attacker to perform arbitrary",
+      "links": [
+        "https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9cjUIgsu7YJnLqfQXOmuJKaSC3r8Cjsgv76IxFAPIIP18SYUxY-e5EvTKWbps95jNM_s8VwtriNO6ouqJm1aOekCBcu9CdL6Df8JB9pfHOI7HNtatSVSBqN11MBuO_GRjwNSyssly0ZFH2Q7AYfRE_qqHJMdIURMxrfRNFRMas_GY0jYRFgWUNsRLrkFu/s1600/chrome.jpg"
+      },
+      "published": "2025-07-01T08:55:00Z"
+    }
+  },
+  {
+    "hash": "3e5cd9c0a53354aebe72d9b13a4ca9961dbb57d868d4356d4b2d6710780c3a62",
+    "item": {
+      "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44491071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.holovaty.com/writing/chatgpt-fake-feature/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T14:58:09Z"
+    }
+  },
+  {
+    "hash": "b6334873a862a82696699c336fc930869a71a2f025c39e4cd551c6938d369bd1",
+    "item": {
+      "title": "Show HN: Ossia score – a sequencer for audio-visual artists",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44492405\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ossia/score"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T17:07:05Z"
+    }
+  },
+  {
+    "hash": "c0e8a63181a2ce00dfad22f4b3d678393b6ea158866b08d7f9763f9bd0cfd7a5",
+    "item": {
+      "title": "Show HN: Unlearning Comparator, a visual tool to compare machine unlearning",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44491855\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gnueaj.github.io/Machine-Unlearning-Comparator/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T16:15:52Z"
+    }
+  },
+  {
+    "hash": "39de26eb23d23c028a2fae61c46cb87e60549bc79bf416105249b203a5daaaa4",
+    "item": {
+      "title": "My first verified (imperative) program",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44492986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://markushimmel.de/blog/my-first-verified-imperative-program/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T17:58:04Z"
+    }
+  },
+  {
+    "hash": "791f25ec592d89ab5c9c38a06273f25aa2768277666ce085b26b11bc0d065d52",
+    "item": {
+      "title": "The Era of Exploration",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44491333\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://yidingjiang.github.io/blog/post/exploration/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T15:23:57Z"
+    }
+  },
+  {
+    "hash": "f615c46e7ef03192bbb742dadc7413b5e492f427c85b60bb7529762f10f73147",
+    "item": {
+      "title": "So you wanna build an aging company",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44469150\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.librariesforthefuture.bio/p/is-this-aging"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-05T00:30:30Z"
+    }
+  },
+  {
+    "hash": "cfbfd9ea9bf55fc8db5146024055221ac1c7e9c02cf7c6e25685df4906ec49fa",
+    "item": {
+      "title": "SUS Lang: The SUS Hardware Description Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44491860\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sus-lang.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T16:16:49Z"
+    }
+  },
+  {
+    "hash": "466dc9d3e3745e7eda3bfb3b0822237f267b27d6d7797b3e7ae4c8d4eac1e7ca",
+    "item": {
+      "title": "Dyson, techno-centric design and social consumption",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44490911\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://2earth.github.io/website/20250707.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T14:45:15Z"
+    }
+  },
+  {
+    "hash": "eca6f7cf0713237f3bed31017a24ed7e96d7e026685021b11935e76544164180",
+    "item": {
+      "title": "Show HN: From Photos to Positions: Prototyping VLM-Based Indoor Maps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44476339\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arjo129.github.io/blog/5-7-2025-From-Photos-To-Positions-Prototyping.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-05T23:19:28Z"
+    }
+  },
+  {
+    "hash": "09848fb413b78bc33dd11b0d258f17595710693c197d09afd5554f3cdce09ba1",
+    "item": {
+      "title": "CPU-X: CPU-Z for Linux",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44490386\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thetumultuousunicornofdarkness.github.io/CPU-X/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T13:52:51Z"
+    }
+  },
+  {
+    "hash": "7e20f9939bb6b15ef244363b7e55ed67181dcaf9394459976c3c571840e52c16",
+    "item": {
+      "title": "tinymcp: Let LLMs control embedded devices via the Model Context Protocol",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44491460\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/golioth/tinymcp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T15:37:28Z"
+    }
+  },
+  {
+    "hash": "e179d3d21375c45d68a348077742af05ab48c051296565803b4031634b1c9614",
+    "item": {
+      "title": "The Harvey Edwards Archive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44491697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.harveyedwards-archive.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T16:00:05Z"
+    }
+  },
+  {
+    "hash": "56e0c97a3108470ac4ccf399cc2f00f034e3234b3461a50185631c5c1023360d",
+    "item": {
+      "title": "US may get its own glitchy version of TikTok if Trump’s deal works out",
+      "description": "Here’s why Trump is “not confident” he can sell China on his TikTok deal.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/trumps-shaky-plan-to-save-tiktok-may-push-users-to-buggy-version-of-app/"
+      ],
+      "categories": [
+        "Policy",
+        "bytedance",
+        "Donald Trump",
+        "tariffs",
+        "tiktok",
+        "TikTok ban",
+        "us-china trade war"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2208643167-1024x648.jpg"
+      },
+      "published": "2025-07-07T16:35:10Z"
+    }
+  },
+  {
+    "hash": "658c01e8c283714927a092de9eb8b2364632afefc21788da5e90ae3d65e81c6d",
+    "item": {
+      "title": "Oldest wooden tools in East Asia may have come from any of three species",
+      "description": "The find may require rethinking the so-called \"Bamboo Hypothesis.\"",
+      "links": [
+        "https://arstechnica.com/science/2025/07/did-denisovans-or-homo-erectus-make-the-oldest-wooden-tools-in-east-asia/"
+      ],
+      "categories": [
+        "Science",
+        "ancient people did stuff",
+        "Archaeology",
+        "Denisovans",
+        "hominins",
+        "homo erectus",
+        "Homo heidelbergensis",
+        "science",
+        "wooden tools"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kiona N. Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/topphoto-1152x648.png"
+      },
+      "published": "2025-07-07T16:05:05Z"
+    }
+  },
+  {
+    "hash": "9075608b576bae4fe7d20e4b8d061d3a50238e677fb75f2c205bb2e2f322a1fc",
+    "item": {
+      "title": "F1 in Britain: Terrible English summer weather equals entertaining race",
+      "description": "Maybe Bernie Ecclestone was right about fitting racetracks with sprinklers.",
+      "links": [
+        "https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/"
+      ],
+      "categories": [
+        "Cars",
+        "F1",
+        "Formula 1"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223835103-1152x648.jpg"
+      },
+      "published": "2025-07-07T15:04:56Z"
+    }
+  },
+  {
+    "hash": "b53c71bf34b73eaa0282d492b6f8697838d727d961d8ad1f7fb762ec7dd3b989",
+    "item": {
+      "title": "BONK’s SOL Buying Spree Counters Pump.Fun $741M Sell-off – Can LetsBONK Trigger 70% Pump?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eThe BONK-powered memecoin launchpad LetsBONK continues its SOL accumulation strategy, purchasing 34.5K SOL ($5.5M) for BONK burns over two months, contrasting sharply with competitor PumpFun's $741M SOL sell-off as LetsBONK captures 54.7% market share.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonks-sol-buying-spree-challenges-pump-fun-741m-sell-off-narrative-can-letsbonk-mindshare-trigger-a-70-pump/\"\u003eBONK\u0026#8217;s SOL Buying Spree Counters Pump.Fun $741M Sell-off \u0026#8211; Can LetsBONK Trigger 70% Pump?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonks-sol-buying-spree-challenges-pump-fun-741m-sell-off-narrative-can-letsbonk-mindshare-trigger-a-70-pump/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bonk",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07180520/1751911520-stock-image_optimized-24.jpg"
+      },
+      "published": "2025-07-07T18:07:07Z"
+    }
+  },
+  {
+    "hash": "226390e40dcac810a60cd8ed5b59e0d619b9767efcb4a15b579432c6244f2799",
+    "item": {
+      "title": "More and More XRP and ETH Holders Are Quietly Choosing a Safer Path: APT Miner",
+      "description": "\u003cp\u003eAPT Miner provides a worry-free solution: you don’t need a mining machine, a technical background, or market conditions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-eth-holders-choosing-apt-miner/\"\u003eMore and More XRP and ETH Holders Are Quietly Choosing a Safer Path: APT Miner\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-eth-holders-choosing-apt-miner/"
+      ],
+      "categories": [
+        "Press Releases",
+        "ETH",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07175224/1751910743-xrp-eth-holders-choosing-apt-miner.jpg"
+      },
+      "published": "2025-07-07T17:53:10Z"
+    }
+  },
+  {
+    "hash": "7bde0ebb64bf5def5f2101fb2cf33d5436b852db38d55cae356143a64562b780",
+    "item": {
+      "title": "Trump Meme Coin Expands to Tron with USD1 Stablecoin – Can This Push TRUMP Above $12?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eThe official Trump meme coin has expanded to the Tron network alongside USD1 stablecoin trading pairs, marking a strategic move as the token trades at $8.61, down 85% from its $73 all-time high amid systematic sell-offs by project insiders and an imminent $520 million token unlock.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-meme-coin-expands-to-tron-with-usd1-stablecoin-can-this-push-trump-above-12/\"\u003eTrump Meme Coin Expands to Tron with USD1 Stablecoin \u0026#8211; Can This Push TRUMP Above $12?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-meme-coin-expands-to-tron-with-usd1-stablecoin-can-this-push-trump-above-12/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Donald Trump",
+        "Justin Sun",
+        "Tron",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07171740/1751908660-stock-image_optimized-23.jpg"
+      },
+      "published": "2025-07-07T17:19:06Z"
+    }
+  },
+  {
+    "hash": "80c4b770a1a97e52ef5588e42a1fc8acc8a8df964713c46b221ecba16da4e9b9",
+    "item": {
+      "title": "FTX Claims Total $11B, With $1.4B Still Unresolved",
+      "description": "\u003cp\u003eKey Takeaways: FTX claims now total $11 billion, with $1.4 billion under dispute. Restricted claims include $470 million tied to sanctions or jurisdictional limits, led by Chinese creditors. Shaquille O’Neal agreed to a $1.8 million settlement, the first among FTX celebrity endorsers. FTX creditor claims have reached an estimated $11 billion, with $1.4 billion currently [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ftx-claims-total-11b-with-1-4b-still-unresolved/\"\u003eFTX Claims Total $11B, With $1.4B Still Unresolved\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ftx-claims-total-11b-with-1-4b-still-unresolved/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Fraud",
+        "FTX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07165721/1751907440-image-1751906435668_optimized.jpg"
+      },
+      "published": "2025-07-07T16:58:18Z"
+    }
+  },
+  {
+    "hash": "927a4d36681492d916f1dbd85d60cff83398f838451be1969aa609723b28517d",
+    "item": {
+      "title": "Dogecoin Price Prediction: Whale Activity Surges 112% – DOGE Could Explode 345%",
+      "description": "\u003cp\u003eWhales are scooping up Dogecoin in heaps and droves ahead of an imminent breakout 4 years in the making.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-whale-activity-surges-112/\"\u003eDogecoin Price Prediction: Whale Activity Surges 112% – DOGE Could Explode 345% \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-whale-activity-surges-112/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07155635/1751903794-dogecoin-price-prediction-1.jpg"
+      },
+      "published": "2025-07-07T16:23:39Z"
+    }
+  },
+  {
+    "hash": "5f6abd89a2d4bffc8557ae02bdfa714649c23a95db1472b76c86a8dbe38014c9",
+    "item": {
+      "title": "Pepe Price Prediction: PEPE Explodes Out of Falling Wedge Pattern – $1 PEPE Next Target?",
+      "description": "\u003cp\u003eThe Pepe price has risen by 3.5% in the past 24 hours, but does a falling wedge pattern indicate that the meme token is about to rise even higher?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-price-prediction-pepe-explodes-out-of-falling-wedge-pattern-1-pepe-next-target/\"\u003ePepe Price Prediction: PEPE Explodes Out of Falling Wedge Pattern – $1 PEPE Next Target?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-price-prediction-pepe-explodes-out-of-falling-wedge-pattern-1-pepe-next-target/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Meme Coins",
+        "Pepe",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07110847/1751886527-pepe-price-prediction.jpg"
+      },
+      "published": "2025-07-07T16:10:34Z"
+    }
+  },
+  {
+    "hash": "833475a757671c8ca0b15a3646676efffeb0a2022648e72d3a531c7520160b38",
+    "item": {
+      "title": "Bonk Price Prediction: BONK Soars 25% in 24 Hours, Flips Pump.fun in Volume – $1 BONK Incoming?",
+      "description": "\u003cp\u003eBonk appears to be not only the speculative play of choice among meme coin traders but also the platform for trading them, eying the coveted $1 valuation with increased adoption.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonk-price-prediction-bonk-soars-25-in-24-hours-flips-pump-fun-in-volume/\"\u003eBonk Price Prediction: BONK Soars 25% in 24 Hours, Flips Pump.fun in Volume – $1 BONK Incoming? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonk-price-prediction-bonk-soars-25-in-24-hours-flips-pump-fun-in-volume/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bonk",
+        "Price Prediction",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07125441/1751892880-bonk-price-prediction.jpg"
+      },
+      "published": "2025-07-07T16:09:40Z"
+    }
+  },
+  {
+    "hash": "f41e983be1d52bf8c63b0633ad0d2f035a76a0c6f46c29ab4b3b1acc871f8aeb",
+    "item": {
+      "title": "Toncoin Plunges 9% After $3 Rally—Can Telegram’s 800M Users Save It?",
+      "description": "\u003cp\u003eToncoin (TON) plunged 9% to $2.78 after a sharp rally to $3.06 reversed, as bearish pressure overwhelmed buyers despite $148M in DeFi growth. The pullback follows a brief surge driven by Telegram\u0026#8217;s adoption and institutional interest. Now, with the MACD and RSI turning bearish, traders are eyeing $2.70 as the next key support level.Telegram’s 800M [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/toncoin-plunges-9-after-3-rally-can-telegrams-800m-users-save-it/\"\u003eToncoin Plunges 9% After $3 Rally—Can Telegram’s 800M Users Save It?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/toncoin-plunges-9-after-3-rally-can-telegrams-800m-users-save-it/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Telegram",
+        "TON"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/02180438/1748887478-1743691309-image-1743690990836_optimized.webp"
+      },
+      "published": "2025-07-07T16:00:35Z"
+    }
+  },
+  {
+    "hash": "d1855eb488c6ac6c8c68eae7778cda3980a98fd8e6cad35d990d73777e0c4740",
+    "item": {
+      "title": "Aave Leads DeFi for 3 Months with $7.5B Flash Loan Volume – Is $300 Breakout Imminent?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eAave has dominated the decentralized finance sector for three consecutive months, processing over $7.5 billion in flash loan volume throughout 2025 while commanding $24 billion of the total $110 billion secured across DeFi protocols, representing over 20% of the sector's TVL.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aave-leads-defi-for-3-months-with-7-5b-flash-loan-volume-is-300-breakout-imminent/\"\u003eAave Leads DeFi for 3 Months with $7.5B Flash Loan Volume \u0026#8211; Is $300 Breakout Imminent?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aave-leads-defi-for-3-months-with-7-5b-flash-loan-volume-is-300-breakout-imminent/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Aave",
+        "Lending protocol"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/07154930/1751903370-stock-image_optimized-22.jpg"
+      },
+      "published": "2025-07-07T15:50:59Z"
+    }
   }
 ]
