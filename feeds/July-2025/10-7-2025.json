@@ -1,0 +1,513 @@
+[
+  {
+    "hash": "85bd541be3e6af62b59f48c951f373230e29dd12e2eb7e658eb56955867e6d94",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for July 10, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1028368/\"\u003eFront\u003c/a\u003e: Python packaging; Kernel API specification; Kselftests and KUnit; niri; pedalboard.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1028370/\"\u003eBriefs\u003c/a\u003e: Git security fixes; Amarok 3.3; Bash 5.3; Thunderbird 140; tmux-rs; U-Boot 2025.07; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1028371/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1028368/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-10T00:16:55Z"
+    }
+  },
+  {
+    "hash": "e3cbb8668d308d309aa5bf45cf97991964d41c3219e58e70a93cd8f2504fabbf",
+    "item": {
+      "title": "ChatGPT made up a product feature out of thin air, so this company created it",
+      "description": "Soundslice caught OpenAI's bot telling users about a fake music notation feature—then built it.",
+      "links": [
+        "https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI confabulation",
+        "AI hallucination",
+        "AI misinformation",
+        "ChatGPT",
+        "generative ai",
+        "large language models",
+        "machine learning",
+        "music",
+        "openai",
+        "product development",
+        "Soundslice",
+        "web development"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprise_music_2-1152x648.jpg"
+      },
+      "published": "2025-07-09T21:59:25Z"
+    }
+  },
+  {
+    "hash": "e4db838d147374fe9867836cb95d9f163ff9ed8851656e47a461ebf0fe4dcfef",
+    "item": {
+      "title": "Cloudflare wants Google to change its AI search crawling. Google likely won’t.",
+      "description": "Cloudflare pushes Google to separate bots for AI Overviews and search indexing.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Policy",
+        "ai crawler",
+        "ai scraping",
+        "AI training",
+        "Artificial Intelligence",
+        "cloudflare",
+        "google",
+        "google ai overviews",
+        "google search",
+        "googlebot"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1186369127-1152x648.jpg"
+      },
+      "published": "2025-07-09T21:00:00Z"
+    }
+  },
+  {
+    "hash": "34a53b1078e7a2a087e39bd81305ff1335920ea179135cccd484656508cf9bff",
+    "item": {
+      "title": "Report: Apple M4, more comfortable strap will headline first major Vision Pro update",
+      "description": "Iterative update will supposedly be a bridge to a later, more extensive redesign.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/07/report-apple-m4-more-comfortable-strap-will-headline-first-major-vision-pro-update/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple",
+        "Apple M2",
+        "apple m4",
+        "vision pro",
+        "visionOS"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/IMG_4028-1152x648.jpeg"
+      },
+      "published": "2025-07-09T20:45:19Z"
+    }
+  },
+  {
+    "hash": "bf64885d2643fcf1ed7932ffc8229201372954a2ad12975a57590b71d356002b",
+    "item": {
+      "title": "Browser extensions turn nearly 1 million browsers into website-scraping bots",
+      "description": "Extensions load unknown sites into invisible Windows. What could go wrong?",
+      "links": [
+        "https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "browsers",
+        "extensions",
+        "privacy",
+        "security"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/web-browser-threat-1152x648.jpg"
+      },
+      "published": "2025-07-09T20:08:27Z"
+    }
+  },
+  {
+    "hash": "936ebff1e10fd3f7fcc8e66edc8f2865b25f1dc3d184b83783a6eb55b300da15",
+    "item": {
+      "title": "“Things we’ll never know” science fair highlights US’s canceled research",
+      "description": "Congressional Democrats host scientists whose grants have been canceled.",
+      "links": [
+        "https://arstechnica.com/science/2025/07/things-well-never-know-science-fair-highlights-us-canceled-research/"
+      ],
+      "categories": [
+        "Science",
+        "dei",
+        "diversity",
+        "misinformation",
+        "pandemic",
+        "research",
+        "science",
+        "science funding"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_1732-Large-1152x648.jpeg"
+      },
+      "published": "2025-07-09T19:55:56Z"
+    }
+  },
+  {
+    "hash": "832e9e546073bc1407d1b254b7ba4cae2358b1434bf2f3c57c181e777bf0a42f",
+    "item": {
+      "title": "Verizon’s request to lock phones supported by police, opposed by users",
+      "description": "FCC considering Verizon request to end 60-day handset unlocking requirement.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/verizons-request-to-lock-phones-supported-by-police-opposed-by-users/"
+      ],
+      "categories": [
+        "Policy",
+        "locked phones",
+        "verizon"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg"
+      },
+      "published": "2025-07-09T19:30:50Z"
+    }
+  },
+  {
+    "hash": "e1fe1d3d9d7b3c002e26f947d14f232c5ac39d4507f801ecd2ce31e3771b283f",
+    "item": {
+      "title": "Wayback Is Now Hosted On FreeDesktop.org",
+      "description": "Wayback began recently as an experimental X11 compatibility layer for non-Wayland desktop environments to leverage Wayland components. While still in early form, the project has already taken off from being a personal GitHub project to now being hosted on FreeDesktop.org alongside other projects such as Wayland and the X.Org Server itself plus other prominent software like Mesa and GStreamer and much more...",
+      "links": [
+        "https://www.phoronix.com/news/Wayback-FreeDesktop.org"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-10T00:29:10Z"
+    }
+  },
+  {
+    "hash": "bf856af8d0e9a463b4810fee90b8a8e17e4f35a42f518dfd77dc47cf531bd543",
+    "item": {
+      "title": "MCP-B: A Protocol for AI Browser Automation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515403\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mcp-b.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T22:37:17Z"
+    }
+  },
+  {
+    "hash": "0d2f79379a33d7ce61361414cb66bed37314a95042d3612639894a2569748372",
+    "item": {
+      "title": "A Typology of Canadianisms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515101\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dchp.arts.ubc.ca/how-to-use"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T21:54:53Z"
+    }
+  },
+  {
+    "hash": "be908fafaa6c8bf8df86428e307b63cdcf7e666a81ac40e7d9ff007c6d5e0f0b",
+    "item": {
+      "title": "Show HN: MCP server for searching and downloading documents from Anna's Archive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44514753\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/iosifache/annas-mcp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T21:06:38Z"
+    }
+  },
+  {
+    "hash": "e11ea1ecfa4f50b4e9aa57a7155224a1ae05c317d942109230aeb27d19c15d58",
+    "item": {
+      "title": "Show HN: Petrichor – a free, open-source, offline music player for macOS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515266\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/kushalpandya/Petrichor"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T22:17:31Z"
+    }
+  },
+  {
+    "hash": "94ddee202e922a73e2a85a5cd90e9ec8704f29b183f8e0b9b2074d60540fbd1d",
+    "item": {
+      "title": "Multi-Region Row Level Security in CockroachDB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515087\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T21:53:19Z"
+    }
+  },
+  {
+    "hash": "9715f06ff515f505a8f85341b1a8d2f26cea870ec686ae719ebd9051ad4ee802",
+    "item": {
+      "title": "HyAB k-means for color quantization",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44514946\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://30fps.net/pages/hyab-kmeans/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T21:34:30Z"
+    }
+  },
+  {
+    "hash": "a1f665d36adb1140cf7dcd120760d6361bdd0cbc6bf2a8c424b9c1aeafef24e7",
+    "item": {
+      "title": "Understand CPU Branch Instructions Better",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44481627\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T15:34:04Z"
+    }
+  },
+  {
+    "hash": "c409daa5993a5c9188e3848638a7a4f7c1f67cef1c0d4b037ecf714f48f5f811",
+    "item": {
+      "title": "Linda Yaccarino is leaving X",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44510731\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T14:52:04Z"
+    }
+  },
+  {
+    "hash": "df2161334bd92769b8528b419e0abc85639f45bfc033034e8eacbea73b2693c8",
+    "item": {
+      "title": "Making Explainable Minesweeper",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44480852\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sublevelgames.github.io/blogs/2025-07-06-making-explainable-minesweeper/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-06T13:56:04Z"
+    }
+  },
+  {
+    "hash": "6786172ded10bce910a173f0341b012091cb6dd1b4ed6ca24da1e41f94da97b2",
+    "item": {
+      "title": "Would You Like an IDOR With That? Leaking 64m McDonald's Job Applications",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44513940\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ian.sh/mcdonalds"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T19:31:46Z"
+    }
+  },
+  {
+    "hash": "bf134bd337c3dee8c8db182015d637e15d9af7a8856eb9eb58e89d6e127bf60f",
+    "item": {
+      "title": "White Noise – secure and private messenger",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515023\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.whitenoise.chat/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T21:44:22Z"
+    }
+  },
+  {
+    "hash": "362449afeee09ae80d5d460535551e4867c96cdd6193b83a2481c455f3fc36ee",
+    "item": {
+      "title": "Ask HN: How is the tech scene in LA?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44485428\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44485428"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T00:21:42Z"
+    }
+  },
+  {
+    "hash": "accc11740c021c20aa216ed64e1a4be30da27de88579aafb7dbe49b5e98beabe",
+    "item": {
+      "title": "Memory-Level Parallelism: Apple M2 vs. Apple M4",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44514877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lemire.me/blog/2025/07/09/memory-level-parallelism-apple-m2-vs-apple-m4/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T21:24:28Z"
+    }
+  },
+  {
+    "hash": "c90ac00d16b84eb1cf536f213aaf74c98a0d4ca742416d012bfbcb054ef17022",
+    "item": {
+      "title": "An ambitious vision of a city built from lava",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44492695\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnn.com/2025/07/03/style/lava-material-architecture-venice-biennale"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-07T17:33:03Z"
+    }
+  },
+  {
+    "hash": "912067fcc20de51287611049768752b3ee6b2e645c14543ee47e2b2329b2502c",
+    "item": {
+      "title": "Hong Kong Draws Stablecoin Applications from Over 40 Major Firms",
+      "description": "\u003cp\u003eHong Kong is processing license inquiries from more than 40 companies ahead of its new stablecoin regulation, according to a report published by Yicai. The regulation, under the Stablecoin Bill, will come into effect on August 1, when the Hong Kong Monetary Authority (HKMA) begins accepting formal applications.Major Firms Line Up for Stablecoin Licenses Firms [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hong-kong-draws-stablecoin-applications-from-over-40-major-firms/\"\u003eHong Kong Draws Stablecoin Applications from Over 40 Major Firms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hong-kong-draws-stablecoin-applications-from-over-40-major-firms/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Hong Kong",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-07-10T00:23:26Z"
+    }
+  },
+  {
+    "hash": "ffd16595e91595d1e8327de838a9e52dbcd7b871cad4c6ff739f0f90bc6e36b3",
+    "item": {
+      "title": "USDT Prices Surge in Argentina as Dollar Demand Spikes",
+      "description": "\u003cp\u003eUSDT prices have reportedly risen in Argentina as demand for US dollars rises in the Latin American nation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/usdt-prices-surge-in-argentina-as-dollar-demand-spikes/\"\u003eUSDT Prices Surge in Argentina as Dollar Demand Spikes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/usdt-prices-surge-in-argentina-as-dollar-demand-spikes/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Argentina",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/09152509/1752074709-0_0_optimized.jpg"
+      },
+      "published": "2025-07-09T23:30:00Z"
+    }
+  },
+  {
+    "hash": "e7ff79688558e4da04e8a005b61aa36617b2f78f4972d334121e005387bcec61",
+    "item": {
+      "title": "Leading AI Claude Predicts the Price of XRP, Bitcoin Cash and Shiba Inu by the End of 2025",
+      "description": "\u003cp\u003eAnthropic’s cutting-edge AI language model, Claude, predicts moderate yet promising gains for leading altcoins by Christmas.Bitcoin ($BTC), with a staggering $2 trillion market cap, has inched up by 1% in the past 24 hours, currently trading at $109,308 – merely 2.2% shy of its all-time high (ATH) of $111,814 achieved on May 22.Escalating geopolitical strife [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/leading-ai-claude-predicts-the-price-of-xrp-bitcoin-cash-and-shiba-inu-by-the-end-of-2025/\"\u003eLeading AI Claude Predicts the Price of XRP, Bitcoin Cash and Shiba Inu by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/leading-ai-claude-predicts-the-price-of-xrp-bitcoin-cash-and-shiba-inu-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin Cash",
+        "Shiba inu",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/09133657/AI-Claude-Predicts-the-Price-1.jpg"
+      },
+      "published": "2025-07-09T22:30:00Z"
+    }
+  },
+  {
+    "hash": "263f72987c3b1de2034ff01f8688e18877cb5ce57a9b81e55f7e69c6db32bbd9",
+    "item": {
+      "title": "Crypto Price Prediction Today 9 July – XRP, Solana, Dogecoin",
+      "description": "\u003cp\u003eWith Bitcoin ($BTC) – the largest crypto by market cap – hovering at a price of $109,244, less than 2.4% away from its record high, investors remain on high alert.In May, Bitcoin climbed to an unprecedented $111,814. However, lingering geopolitical instability has stalled momentum in risk-on assets, preventing further surges.Meanwhile, several leading altcoins and top [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/crypto-price-prediction-today-9-july-xrp-solana-dogecoin/\"\u003eCrypto Price Prediction Today 9 July – XRP, Solana, Dogecoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/crypto-price-prediction-today-9-july-xrp-solana-dogecoin/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Dogecoin",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/09121701/Crypto-Price-Prediction-20.jpg"
+      },
+      "published": "2025-07-09T22:30:00Z"
+    }
+  },
+  {
+    "hash": "abb76a604fb7113892635b798a7c155a725d4de8cb75e6be1575fe42785d114b",
+    "item": {
+      "title": "Bitcoin Price Prediction: Fed Flags Tariff Inflation as BTC Hits $112K",
+      "description": "\u003cp\u003eJune Fed minutes warn tariffs may fuel inflation. Bitcoin surged to $112K—clean breakout. Here’s what traders should watch in macro and crypto markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-fed-flags-tariff-inflation-as-btc-hits-112k/\"\u003eBitcoin Price Prediction: Fed Flags Tariff Inflation as BTC Hits $112K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-fed-flags-tariff-inflation-as-btc-hits-112k/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/16113221/1750073540-bitcoin-price-prediction-2.jpg"
+      },
+      "published": "2025-07-09T21:57:01Z"
+    }
+  }
+]
