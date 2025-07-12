@@ -2217,5 +2217,135 @@
       },
       "published": "2025-07-12T16:12:00Z"
     }
+  },
+  {
+    "hash": "c02d8b50d35b9529680ebd85806366aa5fc7c06838bd4722d35fef24468e14ae",
+    "item": {
+      "title": "Bypassing Google's big anti-adblock update",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44544266\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://0x44.xyz/blog/web-request-blocking/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T19:06:09Z"
+    }
+  },
+  {
+    "hash": "c277d999519d8cbb9219ea84ccd5ef18956ec505fba0172cd07a1e696ff4c33d",
+    "item": {
+      "title": "Kimi k2 largest open source SOTA model?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543508\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/MoonshotAI/Kimi-K2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T17:26:24Z"
+    }
+  },
+  {
+    "hash": "282b2ff1abddaddda76649cb06e7ecb65490179aa92088f70318f50b6ac7c0ad",
+    "item": {
+      "title": "Exposing a web service with Cloudflare Tunnel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507799\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T09:08:34Z"
+    }
+  },
+  {
+    "hash": "0af8164ca291f063c1c4be2f319a5af49622db760eae2ede05bd131ceaef476b",
+    "item": {
+      "title": "A better Ghidra MCP server – GhidrAssistMCP",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543913\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/jtang613/GhidrAssistMCP"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T18:21:33Z"
+    }
+  },
+  {
+    "hash": "a419e89a5be6121c53226452541d70e6d9cd1d180b974887c3bd5c1d3ee29d40",
+    "item": {
+      "title": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543240\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://inventwithpython.com/blog/lost-av-chapter.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T16:45:45Z"
+    }
+  },
+  {
+    "hash": "94bad10a601582502c8c4861beecfbfa769cd779b8e25937ba4a305a301fdb22",
+    "item": {
+      "title": "Supreme Court's Ruling Practically Wipes Out Free Speech for Sex Writing Online",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543865\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ellsberg.substack.com/p/free-speech"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T18:14:37Z"
+    }
+  },
+  {
+    "hash": "98d9b2bb8113a72f4cc804276000c8cdb90c719eeb68e8ae7f82ff7cd8991d08",
+    "item": {
+      "title": "'Starter packs' have played a central role in Bluesky's rapid growth",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44544388\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_512064.en.jsp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T19:22:40Z"
+    }
+  },
+  {
+    "hash": "25ee2d76d9aac6eec0a3be8c173a694d0b8ee81965d985f1516727d5da403629",
+    "item": {
+      "title": "I Messed Up My Google PM Vibe Coding Interview",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44544367\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://old.reddit.com/r/ProductManagement/comments/1lw9r9h/i_messed_up_my_google_pm_vibe_coding_interview/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-12T19:20:31Z"
+    }
+  },
+  {
+    "hash": "d8fb59de06191aff79f3da698c639aaefb8abfccee5213fe5679a570f5035ec7",
+    "item": {
+      "title": "Bcachefs Lands Fixes In Linux 6.16 For Some \"High Severity\" Regressions",
+      "description": "Ahead of tomorrow's Linux 6.16-rc6 kernel release a number of Bcachefs file-system fixes were merged...",
+      "links": [
+        "https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc6"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-12T19:21:00Z"
+    }
+  },
+  {
+    "hash": "087de9085ef7efb6321c7c84b412b011ca99571580247e38f9cb25bb4d135162",
+    "item": {
+      "title": "Wine-Staging 10.12 Release Brings Patch For 11 Year Old Bug",
+      "description": "It's been a while since there have been any new patches in the Wine-Staging experimental area to note. More patches though have continued working their way from Wine-Staging to upstream/mainline Wine while this weekend Wine-Staging 10.12 is out at 292 patches atop upstream Wine and containing two new patches...",
+      "links": [
+        "https://www.phoronix.com/news/Wine-Staging-10.2-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-12T13:55:26Z"
+    }
   }
 ]
