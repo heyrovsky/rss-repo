@@ -94,5 +94,77 @@
       "source": "Hacker News",
       "published": "2025-07-09T11:14:14Z"
     }
+  },
+  {
+    "hash": "b7dc915602332f9fc104d939aafea5a11bd6493ed40ebce1e83b34a4393a9b8b",
+    "item": {
+      "title": "Hacking Coroutines into C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546640\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T01:12:37Z"
+    }
+  },
+  {
+    "hash": "2014bf756ebeb53b187ec787b74f7aa9a3bb1cd83617ab135cbf19e79a31ea9c",
+    "item": {
+      "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44527739\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/dsekz/chrome-x-browser-validation-header"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T02:00:10Z"
+    }
+  },
+  {
+    "hash": "22219c23d7b8115e91d6584d2e125fb930ce9ae8f64124f0ee9114fa94441f73",
+    "item": {
+      "title": "Switching to Claude Code and VSCode Inside Docker",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44533044\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://timsh.org/claude-inside-docker/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T15:11:24Z"
+    }
+  },
+  {
+    "hash": "08ecc3140676fff66ecb7c1b458a88284a80d884b9ef129ef647151acb1145d2",
+    "item": {
+      "title": "A.I. Is Making Sure You Pay for That Ding on Your Rental Car",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546707\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T01:25:53Z"
+    }
+  },
+  {
+    "hash": "9bf6c70095796af3fe487b6bb9726161aa5f625beb7998b125eb9e235730deac",
+    "item": {
+      "title": "HNSW as abstract data structure: video intro to Redis vector sets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44520000\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=kVApsFUeuEA"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-10T11:59:35Z"
+    }
+  },
+  {
+    "hash": "86d7c8fda68099716c430f82b63cdd70347a3c8c09b713f63056e35dfc7869cf",
+    "item": {
+      "title": "MoonPay executives may have sent $250k to Nigerian scammer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546422\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T00:29:21Z"
+    }
   }
 ]
