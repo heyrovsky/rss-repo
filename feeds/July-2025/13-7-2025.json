@@ -423,5 +423,293 @@
       "source": "Hacker News",
       "published": "2025-07-13T08:19:04Z"
     }
+  },
+  {
+    "hash": "c874cd5346e13071411ba57597bf4be76df831c621ee50482dc67eb6ab2b8306",
+    "item": {
+      "title": "A new Martian climate model suggest a mostly cold, harsh environment",
+      "description": "A model built using data from the Curiosity rover suggests wet periods were rare.",
+      "links": [
+        "https://arstechnica.com/science/2025/07/a-new-martian-climate-model-suggest-a-mostly-cold-harsh-environment/"
+      ],
+      "categories": [
+        "Science",
+        "carbonates",
+        "climate model",
+        "Climate science",
+        "Curiosity rover",
+        "Mars",
+        "planetary science",
+        "rover"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/image-1-907x648.jpeg"
+      },
+      "published": "2025-07-13T11:13:05Z"
+    }
+  },
+  {
+    "hash": "f96456f24fa419eec65d53a39860f658fb095fcf7ff9ce48c7c0a7df7dfe9398",
+    "item": {
+      "title": "AMD NGG Improvements Make It Into Mesa 25.2 Ahead Of Next Week's Code Branching",
+      "description": "Last week I wrote about a number of patches coming out of AMD for Next-Gen Geometry \"NGG\" improvements to the AMD OpenGL and Vulkan drivers for Linux. Some of that code hadn't been merged as of writing but fortunately this week the remainder of the NGG improvements were successfully merged to Mesa Git for this quarter's Mesa 25.2 release...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Better-NGG-Mesa-25.2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-13T11:19:01Z"
+    }
+  },
+  {
+    "hash": "fe0bddaa502ba2bfba8b8bd88e6633c757476e282ef18c3c1c37583ed2963b2f",
+    "item": {
+      "title": "Another Longtime Intel Linux Engineer Leaves The Company",
+      "description": "Amid Intel's ongoing financial difficulties and multiple rounds of layoffs some Linux engineers at Intel left last year and there's been at least one prominent departure this week amid the latest round of challenges at the company...",
+      "links": [
+        "https://www.phoronix.com/news/Shutemov-Intel-Linux-Leaving"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-13T11:07:07Z"
+    }
+  },
+  {
+    "hash": "07895704577591f7e3e4832ca2e615b03980dba844384be943192ca2b610b836",
+    "item": {
+      "title": "Linux Patches Updated For The New Fairphone 6 Smartphone",
+      "description": "Last month when the Fairphone 6 smartphone was announced, same-day Linux support patches were posted for this modular and repair-friendly smartphone. That Linux support code with the Device Tree (DT) files have been under review and out today is the second iteration of those enablement patches...",
+      "links": [
+        "https://www.phoronix.com/news/Fairphone-6-Linux-v2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-13T11:00:28Z"
+    }
+  },
+  {
+    "hash": "d83efbdc6249a1da47ecac16ceb556448e5ff72827c4d24aabeec65e1d92e91f",
+    "item": {
+      "title": "Haiku OS Sees Work On Better App HiDPI Scaling, Better Intel WiFI Driver From OpenBSD",
+      "description": "The Haiku open-source operating system project inspired by BeOS had a busy month of June with a number of enhancements made to this OS. Haiku just published their convenient monthly recap that highlights all of the interesting changes made the past month to this open-source OS...",
+      "links": [
+        "https://www.phoronix.com/news/Haiku-OS-June-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-13T10:35:44Z"
+    }
+  },
+  {
+    "hash": "97a41eac88a45552ce75b5cc0e28a38a4dc2419822a48d862a7f93629c06a346",
+    "item": {
+      "title": "GStreamer 1.27.1 Release Brings AMD HIP Plugin \u0026 Better Vulkan Video",
+      "description": "GStreamer 1.27.1 released this week as the first development version toward the GStreamer 1.28 release coming later in the year. GStreamer 1.27/1.28 is bringing a lot of modern feature enhancements for this widely-used multimedia library...",
+      "links": [
+        "https://www.phoronix.com/news/GStreamer-1.27.1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-13T10:28:01Z"
+    }
+  },
+  {
+    "hash": "b9cc56d13c6e9b0e14a2ec9cb9443b5fcf91c90959c70d02c4554e7d3ac1f14b",
+    "item": {
+      "title": "Gaming Cancer: How Citizen Science Games Could Help Cure Disease",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44549134\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T10:23:38Z"
+    }
+  },
+  {
+    "hash": "93905774d07cf09fa47bd0903a58626ddabbd99601adff00fde48f978db09711",
+    "item": {
+      "title": "Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44549209\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://prismharmony.com/chat"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T10:36:28Z"
+    }
+  },
+  {
+    "hash": "4368b82488f33e5c62eb67ef6192d38df424a52c05ef2e2857c315ebe9bd7b6a",
+    "item": {
+      "title": "Let Me Pay for Firefox",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548610\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T08:38:52Z"
+    }
+  },
+  {
+    "hash": "7d8a348f075eeca517b93390dd82b2a830966b9026e5a1a0e3607b720184aeca",
+    "item": {
+      "title": "Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44527172\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T00:21:16Z"
+    }
+  },
+  {
+    "hash": "abc1245faf87f4f38ca9c044b43d7a98f11fdcac929aedfa6af11bcb56f4d4db",
+    "item": {
+      "title": "The upcoming GPT-3 moment for RL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44512350\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T16:59:30Z"
+    }
+  },
+  {
+    "hash": "7c5100efe492b69541fefa568a9c7cdc19e2bcf09e0a0fcae157025ae97bf0ab",
+    "item": {
+      "title": "Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44549411\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T11:07:32Z"
+    }
+  },
+  {
+    "hash": "1a8ce1392f4f5760482a0531d5f039e563636e125ad77fa78e49df86b87250ee",
+    "item": {
+      "title": "Capturing the International Space Station (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-09T22:32:41Z"
+    }
+  },
+  {
+    "hash": "44aeb3b328d9231fa7799937a969d289ac4b48384886e6bc94ebfba620406642",
+    "item": {
+      "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44533403\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T15:38:58Z"
+    }
+  },
+  {
+    "hash": "8197415b7d94e7b49137156155e92fb1e948e157cc0bf97c26d88dcd854baaa2",
+    "item": {
+      "title": "Animoca Brands Partners with DayDayCook to Manage $100M Bitcoin Treasury",
+      "description": "\u003cp\u003eAnimoca Brands has entered a strategic partnership with DayDayCook (DDC) to oversee Animoca’s Bitcoin holdings and generate yield from its reserves.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/animoca-brands-partners-with-daydaycook-to-manage-100m-bitcoin-treasury/\"\u003eAnimoca Brands Partners with DayDayCook to Manage $100M Bitcoin Treasury\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/animoca-brands-partners-with-daydaycook-to-manage-100m-bitcoin-treasury/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Bitcoin Reserve"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/13090417/1752397456-image-1752394087417_optimized.jpg"
+      },
+      "published": "2025-07-13T11:45:00Z"
+    }
+  },
+  {
+    "hash": "a2082999736d78a2dde2131c9da81e540fae79d101ead54a4d9d0fca6bd22ff2",
+    "item": {
+      "title": "Bitcoin Price Prediction: Bank of America Names BTC Best Currency – Is Institutional Accumulation Accelerating?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eBank of America has officially crowned Bitcoin as the best-performing currency of 2025 with an impressive 18.2% year-to-date gain, as the $1.6 trillion banking giant's endorsement arrives amid Bitcoin surging past $118,856 and US-based ETFs recording over $1 billion in daily inflows.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-bank-of-america-names-btc-best-currency-is-institutional-accumulation-accelerating/\"\u003eBitcoin Price Prediction: Bank of America Names BTC Best Currency – Is Institutional Accumulation Accelerating?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-bank-of-america-names-btc-best-currency-is-institutional-accumulation-accelerating/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Institutional Investors"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/30142707/1751293626-bitcoin-price-prediction-9.jpg"
+      },
+      "published": "2025-07-13T11:00:22Z"
+    }
+  },
+  {
+    "hash": "9cda054edc2cb2afe73a037de774ed9ddd175bb822a7afed4a26fb9ad915dfbe",
+    "item": {
+      "title": "Meme Coin Mania: Pump.fun Raises $600 Million in Just 12 Minutes",
+      "description": "\u003cp\u003ePump.fun, a platform enabling users to create meme coins, managed to raise $600 million within a mere 12 minutes on Saturday. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/meme-coin-mania-pump-fun-raises-600-million-in-just-12-minutes/\"\u003eMeme Coin Mania: Pump.fun Raises $600 Million in Just 12 Minutes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/meme-coin-mania-pump-fun-raises-600-million-in-just-12-minutes/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Meme coin",
+        "Meme Coins",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/13091047/1752397846-image-1752394078057_optimized.jpg"
+      },
+      "published": "2025-07-13T09:25:51Z"
+    }
   }
 ]
