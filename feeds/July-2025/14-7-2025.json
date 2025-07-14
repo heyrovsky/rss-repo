@@ -1,0 +1,307 @@
+[
+  {
+    "hash": "ecb3f5d6479f12b85bf7fa0a88d3ad1115a19a11ceb897967f9f12f376886351",
+    "item": {
+      "title": "Kernel prepatch 6.16-rc6",
+      "description": "Linus has released \u003ca href=\"https://lwn.net/Articles/1029715/\"\u003e6.16-rc6\u003c/a\u003e for testing;\nit includes a fix for a somewhat scary regression that came up over the\nweek.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tSo I was flailing around blaming everybody and their pet hamster,\n\tbecause for a while it looked like a drm issue and then a netlink\n\tproblem (it superficially coincided with separate issues with both\n\tof those subsystems).\n\u003cp\u003e\n\tBut I did eventually figure out how to trigger it reliably and then\n\tit bisected nicely, and a couple of days have passed, and I'm\n\tfeeling much better about the release again. We're back on track,\n\tand despite that little scare, I think we're in good shape.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1029716/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-14T00:35:13Z"
+    }
+  },
+  {
+    "hash": "a4297f0e1de1bb1d6a41e5396b65b8022b2b7c44b0a855dcd11b7167ebb47e1d",
+    "item": {
+      "title": "Hackaday Links: July 13, 2025",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Hackaday Links Column Banner\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg 800w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=250,134 250w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=400,215 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"137037\" data-permalink=\"https://hackaday.com/2014/11/09/hackaday-links-november-9-2014/had-links-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg\" data-orig-size=\"800,430\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Hackaday Links\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" /\u003e\u003c/div\u003eThere\u0026#8217;s interesting news out of Wyoming, where a coal mine was opened this week. But the fact that it\u0026#8217;s the first new coal mine in 50 years isn\u0026#8217;t the big \u003ca href=\"https://hackaday.com/2025/07/13/hackaday-links-july-13-2025/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/13/hackaday-links-july-13-2025/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Hackaday links",
+        "45rpm",
+        "adapter",
+        "coal",
+        "cubesat",
+        "factyory tour",
+        "hackaday links",
+        "heathkit",
+        "hydrocarbons",
+        "kit",
+        "linesman",
+        "lp",
+        "mining",
+        "pcb",
+        "pole",
+        "quick-turn",
+        "rare-earth",
+        "record",
+        "REEs",
+        "stem",
+        "utility",
+        "vinyl",
+        "Wyoming"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+      },
+      "published": "2025-07-13T23:00:49Z"
+    }
+  },
+  {
+    "hash": "f44006bcb65a74d491633cb16530604439b6f3fb20b52173c6b190d05286307e",
+    "item": {
+      "title": "2025 One Hertz Challenge: Ham Radio Foxhunt Transmitter",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A hand holding the foxhunt transmitter\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png 2300w, https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?resize=1536,863 1536w, https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?resize=2048,1151 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"791665\" data-permalink=\"https://hackaday.com/2025/07/13/2025-one-hertz-challenge-ham-radio-foxhunt-transmitter/foxhunt-transmitter-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png\" data-orig-size=\"2300,1293\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"foxhunt-transmitter-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png?w=800\" /\u003e\u003c/div\u003e[Jim Matthews] submitted their Ham Radio foxhunt transmitter project for the 2025 One Hertz Challenge. This is a clever Spartan build. In order to create a radio beacon for use \u003ca href=\"https://hackaday.com/2025/07/13/2025-one-hertz-challenge-ham-radio-foxhunt-transmitter/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/13/2025-one-hertz-challenge-ham-radio-foxhunt-transmitter/"
+      ],
+      "categories": [
+        "contests",
+        "Radio Hacks",
+        "2025 One Hertz Contest",
+        "foxhunting",
+        "ham radio"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/foxhunt-transmitter-banner.png"
+      },
+      "published": "2025-07-13T20:00:52Z"
+    }
+  },
+  {
+    "hash": "ea15c8cd61fe0b3747032ba4d7a7694ba4a07018a00496d03141a9e23d2ce030",
+    "item": {
+      "title": "Hurdy-posting Continues with the Balfolk Boombox, a Synth Gurdy",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png 1920w, https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"791693\" data-permalink=\"https://hackaday.com/2025/07/13/hurdy-posting-continues-with-the-balfolk-boombox-a-synth-gurdy/balfolk-boombox-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"balfolk-boombox-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png?w=800\" /\u003e\u003c/div\u003eThe Hurdy-Gurdy continues to worm its way into pole position as the hacker\u0026#8217;s instrument. How else could you explain a medieval wheel fiddle being turned into a synthesizer? Move over, \u003ca href=\"https://hackaday.com/2025/07/13/hurdy-posting-continues-with-the-balfolk-boombox-a-synth-gurdy/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/13/hurdy-posting-continues-with-the-balfolk-boombox-a-synth-gurdy/"
+      ],
+      "categories": [
+        "Musical Hacks",
+        "analog synthesizer",
+        "audio synth",
+        "eurorack",
+        "hurdy gurdy"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/balfolk-boombox-feat.png"
+      },
+      "published": "2025-07-13T17:00:59Z"
+    }
+  },
+  {
+    "hash": "e1edf8ae8f3db13745c05b9618ef5dc64fa032ea8bd81d2ad1ef13d9790c6d55",
+    "item": {
+      "title": "From Leash to Locomotion: CARA the Robotic Dog",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Cara robot dog\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png 963w, https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png?resize=800,449 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"791619\" data-permalink=\"https://hackaday.com/2025/07/13/from-leash-to-locomotion-cara-the-robotic-dog/snag-0844-16-9/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png\" data-orig-size=\"963,541\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"SNAG-0844-16-9\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png?w=800\" /\u003e\u003c/div\u003eNormally when you hear the words \u0026#8220;rope\u0026#8221; and \u0026#8220;dog\u0026#8221; in the same sentence, you think about a dog on a leash, but in this robot dog, the rope is what \u003ca href=\"https://hackaday.com/2025/07/13/from-leash-to-locomotion-cara-the-robotic-dog/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/13/from-leash-to-locomotion-cara-the-robotic-dog/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "capstan drive",
+        "inverse kinematics",
+        "robot dog",
+        "robotics"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Matt Varian"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/SNAG-0844-16-9.png"
+      },
+      "published": "2025-07-13T14:00:50Z"
+    }
+  },
+  {
+    "hash": "ca9cb69ed9606d9b163cb9970dc65265c38027e27418ae7c2c8a3f9903430137",
+    "item": {
+      "title": "Let's Learn x86-64 Assembly Part 0 – Setup and First Steps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44554307\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gpfault.net/posts/asm-tut-0.txt.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T22:22:15Z"
+    }
+  },
+  {
+    "hash": "bd31e3f351542deeae97ef659400181d4d53fe69b9bbf51b23feb8a5a0bbcec4",
+    "item": {
+      "title": "OpenCut: The open-source CapCut alternative",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44553752\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/OpenCut-app/OpenCut"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T21:08:47Z"
+    }
+  },
+  {
+    "hash": "58c93b017e933dff51ceabf814e0e90d9d0a22bed39c5a9646d29b702e089c81",
+    "item": {
+      "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44554865\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2502.17424"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T23:46:12Z"
+    }
+  },
+  {
+    "hash": "44746b62f41d058952d2852a271447175cd233433d12f7362e19fc57a6557b05",
+    "item": {
+      "title": "The underground cathedral protecting Tokyo from floods (2018)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44519395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-10T10:30:42Z"
+    }
+  },
+  {
+    "hash": "38a119dd4f051b86730a0ddc047daa675b64bb8fe2bd1dd27cb41fe1581a42ff",
+    "item": {
+      "title": "APKLab: Android Reverse-Engineering Workbench for VS Code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44553747\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/APKLab/APKLab"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T21:08:14Z"
+    }
+  },
+  {
+    "hash": "0219de8c1d288ce777aff68b6725f10f38b29177de7281f386ec3c09c64c5daa",
+    "item": {
+      "title": "Show HN: Ten years of running every day, visualized",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44522683\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nodaysoff.run"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-10T16:21:13Z"
+    }
+  },
+  {
+    "hash": "2a6914edbb179aa042ba3a3a8433eaf6e5e8ffca031350fc7808100a1db813ce",
+    "item": {
+      "title": "Investors bought 27% of US homes in Q1, as traditional buyers struggle to afford",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44554713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://abcnews.go.com/Business/wireStory/investors-snap-growing-share-us-homes-traditional-buyers-123560969"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T23:21:21Z"
+    }
+  },
+  {
+    "hash": "d09980f44a9c440817b73998f42330d9cc6ff18970adaa14817ae166f68c793d",
+    "item": {
+      "title": "Traditional Chinese Medicine Has Not Been Vindicated by Science",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44553949\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T21:35:32Z"
+    }
+  },
+  {
+    "hash": "d4ed139505c490b6eec8ef4208e8ef7ad18e6421071b35a50d4bcad923120e40",
+    "item": {
+      "title": "Hypercapitalism and the AI Talent Wars",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44553257\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T20:09:34Z"
+    }
+  },
+  {
+    "hash": "d0151f33fa1683088109ed60251dfb2b345674cca07c34498aa2c818ee04e272",
+    "item": {
+      "title": "Astronomers Detect a Black Hole Merger That's So It Shouldn't Exist",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44555220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T00:38:20Z"
+    }
+  },
+  {
+    "hash": "93317de99481c6ea19e867881f7fe0e1acc6201742a209693d66f87211ec819e",
+    "item": {
+      "title": "Ask HN: How much of OpenAI code is written by AI?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44553379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44553379"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T20:22:00Z"
+    }
+  },
+  {
+    "hash": "c10ba2e14b91cab6033d6405d78689d6852ca5c75bad77e8169755dddb5b0878",
+    "item": {
+      "title": "Zig's new I/O: function coloring is inevitable?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44551318\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.ivnj.org/post/function-coloring-is-inevitable"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T15:57:34Z"
+    }
+  },
+  {
+    "hash": "c100d14483f51e641bfd311f8579ed09ed889b62379d32d69879e6e04c9ea928",
+    "item": {
+      "title": "Linux 6.16-rc6 Released With Transient Scheduler Attacks Mitigations, AMD Zen 2 Fixes",
+      "description": "As we approach the stable Linux 6.16 kernel release later this month, Linux 6.16-rc6 is out today as the newest weekly test candidate...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16-rc6-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-13T21:37:21Z"
+    }
+  }
+]
