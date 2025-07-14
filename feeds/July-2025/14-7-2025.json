@@ -3029,5 +3029,504 @@
       },
       "published": "2025-07-14T15:20:01Z"
     }
+  },
+  {
+    "hash": "0e68e1a3274fce95c342e0d742d88ad73555d74330066eb894622fe40db50a22",
+    "item": {
+      "title": "Intel Xe3 Panther Lake OpenGL \u0026 Vulkan Support Now Enabled By Default On Linux",
+      "description": "With the upcoming Linux 6.17 kernel the Intel Xe kernel graphics driver is enabling Panther Lake graphics out-of-the-box. Now going along with that Linux 6.17+ support out-of-the-box, the Mesa OpenGL and Vulkan user-space drivers are also ready to declare their Xe3 Panther Lake graphics support by default...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Panther-Lake-Mesa-Default"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-14T19:48:30Z"
+    }
+  },
+  {
+    "hash": "5446a48ecf9c71d937fbe6d8772253e84edfa0710c4dfc14a89aada702a7098c",
+    "item": {
+      "title": "New Linux Patches Enable Support For The Snapdragon X1 Powered Microsoft Surface Pro 11",
+      "description": "Posted today to the Linux kernel mailing list are a set of nine patches for bringing up support for the Qualcomm Snapdragon X Elite/Plus powered Microsoft Surface Pro 11 2-in-1 laptop...",
+      "links": [
+        "https://www.phoronix.com/news/MS-Surface-Pro-11-Linux-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-14T18:45:22Z"
+    }
+  },
+  {
+    "hash": "4604b1d18c48aaf58f2d218ecae856911554d6b11d7a5250afb180a939f8d3fb",
+    "item": {
+      "title": "Study finds AI tools made open source software developers 19 percent slower",
+      "description": "Coders spent more time prompting and reviewing AI generations than they saved on coding.",
+      "links": [
+        "https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/"
+      ],
+      "categories": [
+        "AI",
+        "AI coding",
+        "AI coding tools",
+        "AI tools"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1409587524-1152x648.jpg"
+      },
+      "published": "2025-07-14T20:02:41Z"
+    }
+  },
+  {
+    "hash": "96e87ed011aeb1e81715bc9395544b329e4c19b2c303b67fc4f2335d31778639",
+    "item": {
+      "title": "Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks",
+      "description": "GPUhammer is the first to flip bits in onboard GPU memory. It likely won't be the last.",
+      "links": [
+        "https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "bitfl",
+        "bitflips",
+        "GPUs",
+        "NVIDIA",
+        "rowhammer"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/nvidia-rtx-a6000-1152x648.jpeg"
+      },
+      "published": "2025-07-14T18:25:36Z"
+    }
+  },
+  {
+    "hash": "7fb113e9c9215d4fb19da976e7b54720773c23b603c5e86c4cba191cb27f501f",
+    "item": {
+      "title": "Plastic surgeon off the hook for alleged COVID fraud, injecting kids with saline",
+      "description": "Trump administration says dismissal is \"in the interests of justice.\"",
+      "links": [
+        "https://arstechnica.com/health/2025/07/bondi-drops-case-on-doc-accused-of-giving-kids-saline-shots-instead-of-vaccines/"
+      ],
+      "categories": [
+        "Health",
+        "anti-vaccine",
+        "BONDI",
+        "COVID-19",
+        "mRNA",
+        "Robert F Kenned Jr."
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223519247-1152x648.jpg"
+      },
+      "published": "2025-07-14T18:08:31Z"
+    }
+  },
+  {
+    "hash": "dec99c2ccd6e26d4c77964c95f6d3b58e9510ddd1d4cd55b6188037e5f7093db",
+    "item": {
+      "title": "Anthropic signs a $200mm deal with the Department of Defense",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44564963\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T20:38:19Z"
+    }
+  },
+  {
+    "hash": "944d3e28cb90350144e4ab742c2fe5edcb5e7d6d6b88f5824522eeac1a3269f5",
+    "item": {
+      "title": "LIGO Detects Most Massive Black Hole Merger to Date",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44564656\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T20:06:51Z"
+    }
+  },
+  {
+    "hash": "0485b3f9de40ac1b50fd23abb77f23548b2fb6ad62d3ef5658dba3aa2f18b9c8",
+    "item": {
+      "title": "Kiro: A new agentic IDE",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44560662\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kiro.dev/blog/introducing-kiro/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T14:24:40Z"
+    }
+  },
+  {
+    "hash": "26ec622ee3778ec5caf6d8b044a8663f13d3f024826c08172c2a5ff6acab525a",
+    "item": {
+      "title": "Cognition (Devin AI) to Acquire Windsurf",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44563324\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cognition.ai/blog/windsurf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T18:07:15Z"
+    }
+  },
+  {
+    "hash": "dcccd5a5a4c24386eb5dc10b254c597a0278e1534b867f2b4bd7bee481f33ce1",
+    "item": {
+      "title": "NeuralOS: An Operating System Powered by Neural Networks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44564531\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://neural-os.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T19:54:26Z"
+    }
+  },
+  {
+    "hash": "30af7e25e54e8e30d5aeb22de57119c7525abf288b887e364eff1bac82fa52ca",
+    "item": {
+      "title": "Replicube: 3D shader puzzle game, online demo",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44535202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://replicube.xyz/staging/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T18:00:01Z"
+    }
+  },
+  {
+    "hash": "a5fe07fa9e9e8d6800088b11ddd15bdabf1a55e9dbf431adf73f1a0b0362e51a",
+    "item": {
+      "title": "Embedding user-defined indexes in Apache Parquet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44562036\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T16:29:02Z"
+    }
+  },
+  {
+    "hash": "0de8e198337b98117939a06000e1329c1179422263195ae9d8e1c2dd207c0491",
+    "item": {
+      "title": "Cidco MailStation as a Z80 Development Platform (2019)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44563364\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jcs.org/2019/05/03/mailstation"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T18:11:25Z"
+    }
+  },
+  {
+    "hash": "26def963cc5332d3eb6d1864518df08c97692c9272c0ff5b2f76cc3cddc1dcbd",
+    "item": {
+      "title": "Ralph Wiggum as a \"Software Engineer\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44565028\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ghuntley.com/ralph/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T20:44:52Z"
+    }
+  },
+  {
+    "hash": "057204ba6b8dc99c3b1ef8e20cf8d23921735f09e7e9c4c8649d4ad6f1cd7f67",
+    "item": {
+      "title": "Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44561818\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mymodernmet.com/totoro-sculpture-bus-stop/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T16:09:14Z"
+    }
+  },
+  {
+    "hash": "7c3c71e0a70dcb4b0bee2958464825fa21d950b77d5a8f50d3edc731fac9d1dd",
+    "item": {
+      "title": "SQLite async connection pool for high-performance",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44530518\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/slaily/aiosqlitepool"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T10:26:32Z"
+    }
+  },
+  {
+    "hash": "9b4fb65a7869292505d2ad4c9a06a4f8bad01c85ca5fbf77d800871452c9ed68",
+    "item": {
+      "title": "Meticulous (YC S21) is hiring in UK to redefine software dev",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44562488\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tinyurl.com/join-meticulous"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T17:01:54Z"
+    }
+  },
+  {
+    "hash": "6b23998090514b80880bf8a481b0eeee571f8ea98ac42c860436065223d57c10",
+    "item": {
+      "title": "Data brokers are selling flight information to CBP and ICE",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44561736\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T16:02:36Z"
+    }
+  },
+  {
+    "hash": "5c2bfe80161d155b5dd669ee676ddbff89ea1e6949b10db8e101846b45f3a67c",
+    "item": {
+      "title": "The Corset X-Rays of Dr Ludovic O'Followell (1908)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44532718\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://publicdomainreview.org/collection/the-corset-x-rays-of-dr-ludovic-o-followell-1908/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-11T14:44:54Z"
+    }
+  },
+  {
+    "hash": "48154689dc72643b9fc78c38050f45a2e9d3133ddefaca95816466982b71b79b",
+    "item": {
+      "title": "East Asian aerosol cleanup has likely contributed to global warming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44558034\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/s43247-025-02527-3"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T09:30:37Z"
+    }
+  },
+  {
+    "hash": "1f4deead448ba288346aee45bea4d90cbf0b5c3b99ca10c6e96fd26f285aff12",
+    "item": {
+      "title": "M.2 SSD Can Self-Destruct by Giving Itself a Burst of Voltage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44564844\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://uk.pcmag.com/storage/159074/this-m2-ssd-can-self-destruct-by-giving-itself-a-burst-of-voltage"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T20:24:03Z"
+    }
+  },
+  {
+    "hash": "d939484254367d2fc12d728bb5a46fe6c348c183bd60765f6c1d8c8ba223765c",
+    "item": {
+      "title": "The Unusual Suspect: Git Repos",
+      "description": "While phishing and ransomware dominate headlines, another critical risk quietly persists across most enterprises: exposed Git repositories leaking sensitive data. A risk that silently creates shadow access into core systems\nGit is the backbone of modern software development, hosting millions of repositories and serving thousands of organizations worldwide. Yet, amid the daily hustle of shipping",
+      "links": [
+        "https://thehackernews.com/2025/07/the-unusual-suspect-git-repos.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGj0AO5G5xXDmJRnzgDshtbedgMplrFuhvqeYi5y59rp62PqSM7TCuLnMMVOWkkL5Ru_-TCNOwRHNP7_KCFtBsJJNxb8u18On7I0AZziRi7gFrZh9EuACz3PG9CWrKw6x254ALJkxXiG9iYmcBwkZgQBJZApiYbO-8Qpd_r8FIIbcJ43k21stg1VpoOlw4/s1600/git-leak.jpg"
+      },
+      "published": "2025-07-14T17:06:00Z"
+    }
+  },
+  {
+    "hash": "985e27599ee789a426312518fb25521b8934c58cd55add0d017aff16434ac363",
+    "item": {
+      "title": "New PHP-Based Interlock RAT Variant Uses FileFix Delivery Mechanism to Target Multiple Industries",
+      "description": "Threat actors behind the Interlock ransomware group have unleashed a new PHP variant of its bespoke remote access trojan (RAT) as part of a widespread campaign using a variant of ClickFix called FileFix.\n\"Since May 2025, activity related to the Interlock RAT has been observed in connection with the LandUpdate808 (aka KongTuke) web-inject threat clusters,\" The DFIR Report said in a technical",
+      "links": [
+        "https://thehackernews.com/2025/07/new-php-based-interlock-rat-variant.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibmDtZ91P5aTWYCmIs7_zyT_PqNJlpFhQ1sB5DrkGg8o6i1N9qOrRsYtNwhyphenhyphen4n3n3NAWsosune4VioGVm-Ana81idhFQXqwwFRHKu0jiR_9pod1_z9Iw-xY8G58Wdo0bKDBWJ32mpw42ryE5_r9nKJYKdzs4VsKH7rUWPuUd8BXhpCrXqHn8_iqF5F_GxA/s1600/click.jpg"
+      },
+      "published": "2025-07-14T16:52:00Z"
+    }
+  },
+  {
+    "hash": "66b7b47f7a68c00a5690dcf083d9541572fa6a26f77b33242bcd893278d576b4",
+    "item": {
+      "title": "Parrot 6.4 released",
+      "description": "\u003ca href=\"https://www.parrotsec.org/\"\u003eParrot\u003c/a\u003e is a Debian-based\ndistribution with an emphasis on security improvement and tools; the \u003ca\nhref=\"https://www.parrotsec.org/blog/2025-07-07-parrot-6.4-release-notes\"\u003e6.4\nrelease\u003c/a\u003e is now available.  \"\u003cq\u003eMany tools, like Metasploit, Sliver,\nCaido and Empire received important updates, the Linux kernel was updated\nto a more recent version, and the latest LTS version of Firefox was\nprovided with all our privacy oriented patches.\u003c/q\u003e\".",
+      "links": [
+        "https://lwn.net/Articles/1029857/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-14T20:29:12Z"
+    }
+  },
+  {
+    "hash": "18d35f32f777857ca2333d74c3e85a95b611a025e053544a6ca1d85d4571572f",
+    "item": {
+      "title": "The Contrarian AI Flags 3 Meme Coins Set for Late-2025 Breakouts – Here’s Why",
+      "description": "\u003cp class=\"\" data-start=\"426\" data-end=\"750\"\u003eThe Contrarian AI has assessed active wallets, treasury transparency, and reflexive burns to spotlight three Meme Coins—Fartcoin, Bonk, and Popcat. Each pair's community ownership with clear token structures, traits the AI views as structural strengths that may attract renewed attention into late 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/meme-coins-ai-fartcoin-bonk-popcat-2025-boom/\"\u003eThe Contrarian AI Flags 3 Meme Coins Set for Late-2025 Breakouts – Here’s Why\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/meme-coins-ai-fartcoin-bonk-popcat-2025-boom/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "AI",
+        "Meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/14205108/1752526267-chatgpt-image-jul-14-2025-03_50_10-pm_optimized.jpg"
+      },
+      "published": "2025-07-14T20:51:48Z"
+    }
+  },
+  {
+    "hash": "e7a902722c3046aafc5e10f8f8c56dacecca479f7d97c87f33b6a9e0c14a23a7",
+    "item": {
+      "title": "XRP Price Reclaims $3 Level Again – Is $4 Coming in Next 24 Hours?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eXRP surged past the $3 threshold for the first time since March 2025, reaching $2.99 amid growing institutional adoption as the Federal Reserve's official transition to ISO 20022 for FedWire puts Ripple's blockchain payment solutions at the center of modernized U.S. payment infrastructure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-reclaims-3-eyes-4-next-24-hours/\"\u003eXRP Price Reclaims $3 Level Again – Is $4 Coming in Next 24 Hours?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-reclaims-3-eyes-4-next-24-hours/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "XRP",
+        "XRP ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/14184052/1752518451-stock-image_optimized-12.jpg"
+      },
+      "published": "2025-07-14T20:27:07Z"
+    }
+  },
+  {
+    "hash": "362a95d2b2430a578adb79ee9867f61802809f85cfd1ebc7b1d77eefdbe582ff",
+    "item": {
+      "title": "Crypto Week in US Congress: What to Expect From the Biggest Push Yet",
+      "description": "\u003cp class=\"\" data-start=\"404\" data-end=\"716\"\u003eCrypto Week has become a defining stretch as House Republicans have scheduled votes on the GENIUS Act governing stablecoins, the CLARITY Act refining crypto market oversight, and the Anti-CBDC Surveillance Act, while Democrats have argued for stronger governance safeguards and broader review.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-week-us-congress-what-to-expect/\"\u003eCrypto Week in US Congress: What to Expect From the Biggest Push Yet\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-week-us-congress-what-to-expect/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Regulation",
+        "Stablecoin",
+        "United States"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/14160709/1752509228-image-1752505813763_optimized.jpg"
+      },
+      "published": "2025-07-14T18:40:00Z"
+    }
+  },
+  {
+    "hash": "998515ffa29efd897e0029d7033c464386e99a6b3cc50ad48616263d9d616b8f",
+    "item": {
+      "title": "Bitcoin at $123K Makes Satoshi the 11th Richest Person – Will This Layer-2 Build the Next Round of BTC Wealth?",
+      "description": "\u003cp class=\"\" data-start=\"404\" data-end=\"714\"\u003eBitcoin Hyper has presented itself as the first Layer-2 to pair Bitcoin’s base-layer defence with near-instant Solana execution. Early backers have provided more than $2.7M while Bitcoin has climbed past $123K, a milestone that has turned Satoshi Nakamoto into the 11th richest person alive.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-hyper-btc-123k-satoshi-11th-richest/\"\u003eBitcoin at $123K Makes Satoshi the 11th Richest Person – Will This Layer-2 Build the Next Round of BTC Wealth?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-hyper-btc-123k-satoshi-11th-richest/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "bitcoin hyper",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/14182620/1752517579-unnamed-2025-07-14t131744-303-1.jpg"
+      },
+      "published": "2025-07-14T18:26:52Z"
+    }
+  },
+  {
+    "hash": "f3b9b1530e9999cf7254efa16b00aa73f18077ccbf6ee22ae9428bb462472b60",
+    "item": {
+      "title": "Crypto Week Sparks Bitcoin and Altcoin Season Goldrush – TOKEN6900 is Booming",
+      "description": "\u003cp\u003eUS lawmakers have used Crypto Week to move the Genius, Anti-CBDC, and Clarity Acts forward, giving clearer rules as Bitcoin has eyed $125K and altcoins have rallied. Meanwhile, meme coin TOKEN6900 has raised $492K of a $5M cap, reflecting heightened speculative appetite in presales.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/crypto-week-bitcoin-altcoins-token6900-booms/\"\u003eCrypto Week Sparks Bitcoin and Altcoin Season Goldrush – TOKEN6900 is Booming\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/crypto-week-bitcoin-altcoins-token6900-booms/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/14181038/1752516638-unnamed-2025-07-14t130937-590-1.jpg"
+      },
+      "published": "2025-07-14T18:16:59Z"
+    }
   }
 ]
