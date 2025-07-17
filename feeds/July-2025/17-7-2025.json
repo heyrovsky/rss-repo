@@ -2157,5 +2157,634 @@
       },
       "published": "2025-07-17T09:18:36Z"
     }
+  },
+  {
+    "hash": "22a206e77eb6fafea41c24d2c0f9872b22c19b9823fbb96e489b744db03ed735",
+    "item": {
+      "title": "[$] Scheduler medley: time-slice extension, sched_ext deadline servers, and LRU batching.",
+      "description": "Decades after its creation, the Linux CPU scheduler remains an area\nof active development; it is difficult to find a time slice to cover every\ninteresting scheduler change.  In an attempt to catch up, the time has come\nto round-robin through a few patches that have been circulating recently.\nThe work at hand focuses on a new attempt at time-slice extension, the\ncreation of a deadline server for sched_ext tasks, and keeping tasks on\nisolated CPUs from being surprised by LRU batching.",
+      "links": [
+        "https://lwn.net/Articles/1029093/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-17T14:11:12Z"
+    }
+  },
+  {
+    "hash": "30dceb2ae3d8a0be0efe4187e0ced75889290e96b05375320f236c2f3a8f6708",
+    "item": {
+      "title": "Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner",
+      "description": "Cybersecurity researchers have discovered a new campaign that exploits a known security flaw impacting Apache HTTP Server to deliver a cryptocurrency miner called Linuxsys.\nThe vulnerability in question is CVE-2021-41773 (CVSS score: 7.5), a high-severity path traversal vulnerability in Apache HTTP Server version 2.4.49 that could result in remote code execution.\n\"The attacker leverages",
+      "links": [
+        "https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYD4bn__w-a8fsFGLjlA_wHwx971qmnDKkZ3fhwbK16LSPktNrsHv5GDlUh_Yp1yTXo4P_wNfqaNX3rGnxf8yrpgEILl0FCA65MAu-Zczsb-i5Md_aijQU20ReUx6GuQDP35jdXC2qfHeNdr8nHtWvcgvRTWzeDvTcE9Y7pUQclSzpaPc_OwT-wdPK05zt/s1600/miner.jpg"
+      },
+      "published": "2025-07-17T14:11:00Z"
+    }
+  },
+  {
+    "hash": "e5cd8fcbf3f1a489c7e3baf8adaa5e5b66e99baa6059261ca145f411eb30d6aa",
+    "item": {
+      "title": "Feds tell automakers to forget about paying fuel economy fines",
+      "description": "Trump's tax bill means no penalties from model year 2022 onwards.",
+      "links": [
+        "https://arstechnica.com/cars/2025/07/feds-let-automakers-off-the-hook-for-fuel-economy-violations/"
+      ],
+      "categories": [
+        "Cars",
+        "corporate average fuel efficiency"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2215816697-1152x648.jpg"
+      },
+      "published": "2025-07-17T13:27:16Z"
+    }
+  },
+  {
+    "hash": "bbe45b26de65acae7551547e96ceb4eb0c8274ae7c6bcfaa9547608b1a379045",
+    "item": {
+      "title": "EU presses pause on probe of X as US trade talks heat up",
+      "description": "EU will miss self-imposed deadline to wrap up investigation.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/eu-presses-pause-on-probe-of-x-as-us-trade-talks-heat-up/"
+      ],
+      "categories": [
+        "Policy",
+        "content moderation",
+        "Elon Musk",
+        "EU",
+        "syndication",
+        "X",
+        "xAI"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Barbara Moens and Henry Foy, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg"
+      },
+      "published": "2025-07-17T13:19:05Z"
+    }
+  },
+  {
+    "hash": "de5f871f8631d1c74163527cadc7fc94f91a9f9c1e3478e1e875df2be6b4b616",
+    "item": {
+      "title": "Everything we learned from a week with Apple CarPlay Ultra",
+      "description": "CarPlay Ultra takes over the main instrument display as well as the infotainment.",
+      "links": [
+        "https://arstechnica.com/cars/2025/07/everything-we-learned-from-a-week-with-apple-carplay-ultra/"
+      ],
+      "categories": [
+        "Apple",
+        "Cars",
+        "Features",
+        "CarPlay",
+        "CarPlay Ultra"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Michael Teo Van Runkle"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Ars-Technica-Apple-CarPlay-Ultra-42-1152x648-1752533499.jpg"
+      },
+      "published": "2025-07-17T11:00:39Z"
+    }
+  },
+  {
+    "hash": "e4d4100d8f26e312267fe12ebd5b466877e5b53be8fe8c04f6766a8c27a3f45b",
+    "item": {
+      "title": "Bitcoin Bulls Are Charging—But Ozak AI Might Be the Best Buy Before the Next Leg Up",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoins-Path-to-250K.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Bulls Are Charging—But Ozak AI Might Be the Best Buy Before the Next Leg Up\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoins-Path-to-250K.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoins-Path-to-250K-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoins-Path-to-250K-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn the timeframe given by the 1-second candlestick, Bitcoin (BTC) is in a new bullish standing with the USDT on Binance. The price is currently at $120,206.09, but there was a sudden plunge to $120,160 and then a swift recovery. The price charted a V-shaped recovery, signifying that short-term buyers",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-bulls-are-charging-but-ozak-ai-might-be-the-best-buy-before-the-next-leg-up/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/06/Bitcoins-Path-to-250K.jpg"
+      },
+      "published": "2025-07-17T11:29:13Z"
+    }
+  },
+  {
+    "hash": "3dd1595f5b6b35ed7c16f7cbca5e244e3eba6e35dcb6f1c0aead97bbba18fc88",
+    "item": {
+      "title": "Rewardy Wallet Becomes Korea’s Largest Digital Asset Wallet Just 10 Months After Launch",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"511\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-6.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-6.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-6-300x197.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-6-768x503.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eRewardy Wallet, a digital asset wallet service, has emerged as South Korea’s largest Web3 wallet platform just 10 months after its launch. Notably, the platform has seen massive adoption from general Web2 users with no prior experience in digital assets, signaling a major shift in the local Web3 landscape. Since",
+      "links": [
+        "https://thenewscrypto.com/rewardy-wallet-becomes-koreas-largest-digital-asset-wallet-just-10-months-after-launch/"
+      ],
+      "categories": [
+        "Press Release",
+        "Rewardy Wallet"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-6.png"
+      },
+      "published": "2025-07-17T11:05:25Z"
+    }
+  },
+  {
+    "hash": "e36cda31eb4724833ba2ef0f63a7087a7ef5cc74d06054ddae9c2082d8b69815",
+    "item": {
+      "title": "XRP Price Prediction Points to $10 in 2025 and Flipping Ethereum by 2028, While Viral Crypto Under $1 Wows Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-16.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Prediction Points to $10 in 2025 and Flipping Ethereum by 2028, While Viral Crypto Under $1 Wows Investors\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-16.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-16-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-16-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eCurrently trading at around $2.79, XRP has gained nearly 8% in the past week and tested highs near $2.91. This has pushed bullish sentiment into overdrive. Analysts are now predicting a $10 XRP price by the end of 2025, and some even believe the Ripple-backed token could flip Ethereum in",
+      "links": [
+        "https://thenewscrypto.com/xrp-price-prediction-points-to-10-in-2025-and-flipping-ethereum-by-2028-while-viral-crypto-under-1-wows-investors/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Little PEPE",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-16.jpg"
+      },
+      "published": "2025-07-17T11:00:00Z"
+    }
+  },
+  {
+    "hash": "3af7dc73418f467b2288364e78afd9bae7069ca71700c244caf6aa9cb154e616",
+    "item": {
+      "title": "Shiba Inu Price Prediction: SHIB Will Crush Dogecoin During the Next Bull Run, But It Looks Weak Against This ETH Meme Coin",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-25.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Shiba Inu Price Prediction: SHIB Will Crush Dogecoin During the Next Bull Run, But It Looks Weak Against This ETH Meme Coin\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-25.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-25-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-25-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eRegarding the upcoming bull run, the Shiba Inu (SHIB) is expected to surpass Dogecoin (DOGE) due to its large community and viral marketing efforts. Nevertheless, although SHIB has already shown impressive development over the last several years, a strong rival has recently entered the market: Little Pepe (LILPEPE). This new",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-price-prediction-shib-will-crush-dogecoin-during-the-next-bull-run-but-it-looks-weak-against-this-eth-meme-coin/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little PEPE",
+        "SHIB",
+        "Shiba Inu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-25.jpg"
+      },
+      "published": "2025-07-17T10:05:42Z"
+    }
+  },
+  {
+    "hash": "875c11e9a4ca2049ddd7d7aa838d157f009b718f8cc9eee385987fbcb9c7de75",
+    "item": {
+      "title": "Can Dogecoin (DOGE) Eye the $0.30–$0.35 Zone After Its Recent 6% Uptick?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Dogecoin-DOGE-Eye-the-0.30–0.35-Zone-After-Its-Recent-6-Uptick.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Dogecoin (DOGE) Eye the $0.30–$0.35 Zone After Its Recent 6% Uptick?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Dogecoin-DOGE-Eye-the-0.30–0.35-Zone-After-Its-Recent-6-Uptick.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Dogecoin-DOGE-Eye-the-0.30–0.35-Zone-After-Its-Recent-6-Uptick-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Dogecoin-DOGE-Eye-the-0.30–0.35-Zone-After-Its-Recent-6-Uptick-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the overall crypto market sentiment being greedy, the assets continue to trade sideways, displaying both upward and downward pressure. Meme coins are briefly following the bullish wave, with the market cap rising over 5.9%, reaching $78.8 billion. Notably, Dogecoin (DOGE), the prominent dog-themed meme coin, has posted a 6.87%",
+      "links": [
+        "https://thenewscrypto.com/can-dogecoin-doge-eye-the-0-30-0-35-zone-after-its-recent-6-uptick/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "DOGE",
+        "Dogecoin",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Dogecoin-DOGE-Eye-the-0.30–0.35-Zone-After-Its-Recent-6-Uptick.jpg"
+      },
+      "published": "2025-07-17T09:00:03Z"
+    }
+  },
+  {
+    "hash": "56ecad889527bf2612480e3bc30ba91113e7aa2bfc3869230280ec66ab3723b6",
+    "item": {
+      "title": "Orbs Launches Perpetual Hub Ultra: Whitelabel Solution for DEXs to Offer Perps Trading",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"640\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/kj-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Orbs Launches Perpetual Hub Ultra: Whitelabel Solution for DEXs to Offer Perps Trading\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/kj-1.png 1280w, https://thenewscrypto.com/wp-content/uploads/2025/07/kj-1-300x150.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/kj-1-1024x512.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/07/kj-1-768x384.png 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eA whitelabel solution for decentralized exchanges, Perpetual Hub Ultra was introduced by Orbs, the leading Layer-3 infrastructure provider. Any DEX may use Perpetual Hub Ultra, which opens up new marketplaces for perps trading and comes with a completely customizable user interface. Perpetual Hub Ultra\u0026#8217;s release satisfies onchain users\u0026#8217; increasing need for",
+      "links": [
+        "https://thenewscrypto.com/orbs-launches-perpetual-hub-ultra-whitelabel-solution-for-dexs-to-offer-perps-trading/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/kj-1.png"
+      },
+      "published": "2025-07-17T09:00:00Z"
+    }
+  },
+  {
+    "hash": "9c2719a293ef5be9fa14c9b15464e5e8227db52c37617a92c5201f2b775e8c88",
+    "item": {
+      "title": "Shiba Inu Fades as Bitcoin Swift Gains Traction With Real Utility and Programmable Mining",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"420\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-5.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-5.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-5-300x168.png 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eBitcoin is evolving not just in value, but in design. While meme coins like Shiba Inu captured headlines through social virality and short-term speculation, a different kind of project is rising to the surface. Bitcoin Swift (BTC3) is gaining serious traction by offering something meme coins never could: real infrastructure.",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-fades-as-bitcoin-swift-gains-traction-with-real-utility-and-programmable-mining/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin Swift (BTC3)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-5.png"
+      },
+      "published": "2025-07-17T06:35:24Z"
+    }
+  },
+  {
+    "hash": "08db7e650811ca6a6828d242e9c994bd94b843cbf4d257ec253a96f6fc9c2257",
+    "item": {
+      "title": "FLOKI Takes Off with a 30% Price Surge and Eyes the $0.00020 Target",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/FLOKI-Takes-Off-with-a-30-Price-Surge-and-Eyes-the-0.00020-Target.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"FLOKI Takes Off with a 30% Price Surge and Eyes the $0.00020 Target\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/FLOKI-Takes-Off-with-a-30-Price-Surge-and-Eyes-the-0.00020-Target.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/FLOKI-Takes-Off-with-a-30-Price-Surge-and-Eyes-the-0.00020-Target-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/FLOKI-Takes-Off-with-a-30-Price-Surge-and-Eyes-the-0.00020-Target-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe push for a sturdy recovery in the crypto space has brought in a mixed trend, displaying both green and red flags. The largest assets like Bitcoin (BTC) and Ethereum (ETH) are hovering at around $118.3K and $3.3K, respectively. Notably, the meme coin market cap has reached $77.7 billion, followed",
+      "links": [
+        "https://thenewscrypto.com/floki-takes-off-with-a-30-price-surge-and-eyes-the-0-00020-target/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Floki",
+        "Floki Price",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/FLOKI-Takes-Off-with-a-30-Price-Surge-and-Eyes-the-0.00020-Target.jpg"
+      },
+      "published": "2025-07-17T06:25:05Z"
+    }
+  },
+  {
+    "hash": "45457fb6f72fd05719b95108743b4b1665852882685e203351abddeeee201435",
+    "item": {
+      "title": "Google Continues Working On \"Magma\" For Mesa Cross-Platform System Call Interface",
+      "description": "Mesa 25.2 entered its feature freeze yesterday with many exciting driver improvements with new features and performance optimizations while one feature that wasn't ready for merging in this quarter's release is Magma, which is a recent effort by Google engineers working on a cross-platform system call interface for Mesa. And it's written in Rust...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-Magma-Cross-Platform"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-17T14:27:14Z"
+    }
+  },
+  {
+    "hash": "08dcdb1d05a1360e08ff254c7b90098dc2e48c184e052a54df8391af3142f23f",
+    "item": {
+      "title": "Hand: open-source Robot Hand",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44592413\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pollen-robotics/AmazingHand"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T12:08:38Z"
+    }
+  },
+  {
+    "hash": "ab5d52eb2f9ab64057599032cd1807ee9289a9849f98d7fe34049c9660d499c9",
+    "item": {
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44555924\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-14T02:36:19Z"
+    }
+  },
+  {
+    "hash": "27eb8450f905f42eedb022f87e427973695183f3be0432e8e848443e425d49b9",
+    "item": {
+      "title": "My bank keeps on undermining anti-phishing education",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44592377\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T12:04:53Z"
+    }
+  },
+  {
+    "hash": "5c1d909a10703479807cf6fa1aadcdcc8c1346bf7c30255298a3fbd94c851aec",
+    "item": {
+      "title": "The rise of AI as a threat to the S\u0026P 500 [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44592866\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T12:58:37Z"
+    }
+  },
+  {
+    "hash": "49d5a7bce8215ba15e17abe4f145cf49f24082d5fb36a2afb62c35d7bc7df120",
+    "item": {
+      "title": "BB(6) Is Hard (Antihydra) (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44551990\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sligocki.com//2024/07/06/bb-6-2-is-hard.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-13T17:30:38Z"
+    }
+  },
+  {
+    "hash": "bf0f573665ad8243462a1e99e7b12f35d4584c5fa8d21c2705810ef04b45c240",
+    "item": {
+      "title": "FOSS4G Europe 2025 live streaming [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591445\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://2025.europe.foss4g.org/livestream/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T09:36:58Z"
+    }
+  },
+  {
+    "hash": "77f6d1b17160218d8fb148021228d0cd8f9f13c9d31bde49896482da4f0830b7",
+    "item": {
+      "title": "Retro gaming YouTuber Once Were Nerd sued and raided by the Italian government",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591988\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T11:17:08Z"
+    }
+  },
+  {
+    "hash": "c2491aac3519bab5d281abbd0365fbd50721a6c3901ffee557b1742e8d7a1aff",
+    "item": {
+      "title": "Opinion: What Institutional DeFi Really Looks Like in 2025",
+      "description": "\u003cp\u003eInstitutions have entered DeFi — and they’re rewriting the rules. What’s working, what’s not, and what’s next? This op-ed breaks it all down.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/opinion-what-institutional-defi-really-looks-like-in-2025/\"\u003eOpinion: What Institutional DeFi Really Looks Like in 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/opinion-what-institutional-defi-really-looks-like-in-2025/"
+      ],
+      "categories": [
+        "Opinions",
+        "Adoption",
+        "Blackrock",
+        "DeFi",
+        "TON"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Vlad Kamyshov"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17145932/1752764372-defi_optimized.jpg"
+      },
+      "published": "2025-07-17T15:07:28Z"
+    }
+  },
+  {
+    "hash": "9e7df4f0e199716c20e99cc56a951046e0671e7f145c99a5e24aab75763eef13",
+    "item": {
+      "title": "$895M Stablecoin Surge Hits Binance as Whale Retreat Signals Massive Sell-Offs",
+      "description": "\u003cp\u003eAs institutions stack stablecoins on Binance and Tether prints billions, whales quietly pull Bitcoin off the table amid Fed uncertainty.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/895m-stablecoin-surge-hits-binance-as-bitcoin-whales-retreat/\"\u003e$895M Stablecoin Surge Hits Binance as Whale Retreat Signals Massive Sell-Offs\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/895m-stablecoin-surge-hits-binance-as-bitcoin-whales-retreat/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17133556/1752759356-81062cb7-af04-479d-9db4-f98c9a78e31c_optimized.jpg"
+      },
+      "published": "2025-07-17T14:46:16Z"
+    }
+  },
+  {
+    "hash": "9a869792c0c698856e4b285b92c2391623c1bf4987be5e56157c34d8e1dab978",
+    "item": {
+      "title": "68% of Tokenized Property Investors in Dubai Are First-Time Buyers: Dubai Land Department",
+      "description": "\u003cp\u003eDubai’s real estate market is witnessing a surge in new investors thanks to its new tokenization initiative, with 685 engaging in real estate investment for the first time.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/68-of-tokenized-property-investors-in-dubai-are-first-time-buyers-dubai-land-department/\"\u003e68% of Tokenized Property Investors in Dubai Are First-Time Buyers: Dubai Land Department\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/68-of-tokenized-property-investors-in-dubai-are-first-time-buyers-dubai-land-department/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Dubai",
+        "Tokenization",
+        "Tokenized Funds"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17104756/1752749275-image-1752748834304_optimized.jpg"
+      },
+      "published": "2025-07-17T14:37:46Z"
+    }
+  },
+  {
+    "hash": "945eaae09e3cbbee8a72ef6127ae9b8bcd130ebbc066500c51573a0ccaebd930",
+    "item": {
+      "title": "Why Is Crypto Up Today? – July 17, 2025",
+      "description": "\u003cp\u003eThe crypto market is up today and has entered into a near-term overheated condition. There is still potential for another leg higher.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-up-today-july-17-2025/\"\u003eWhy Is Crypto Up Today? – July 17, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-up-today-july-17-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17111337/1752750816-whyis-crypto-up-today.jpg"
+      },
+      "published": "2025-07-17T14:35:09Z"
+    }
+  },
+  {
+    "hash": "0462b6d34287fa50cf00536bef7074791fd201c3f9d84b874922ea3c85cad0a5",
+    "item": {
+      "title": "Cardano Price Prediction: Is ADA Going To Follow XRP And Hit $3 In July 2025?",
+      "description": "\u003cp\u003eThe Cardano price has jumped by 10% in the past 24 hours, but does its chart today signal further gains or a correction?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-is-ada-going-to-follow-xrp-and-hit-3-in-july-2025/\"\u003eCardano Price Prediction: Is ADA Going To Follow XRP And Hit $3 In July 2025?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-is-ada-going-to-follow-xrp-and-hit-3-in-july-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ADA",
+        "Cardano",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17115919/1752753558-cardano-price-prediction.jpg"
+      },
+      "published": "2025-07-17T14:34:08Z"
+    }
+  },
+  {
+    "hash": "8311635822b39342ccc362d15c8fbaf18cefb0c85b10096083460b96bec05233",
+    "item": {
+      "title": "XRP 2025: Will Ripple Reach $6 with ETFs and Whale Activity Rising?",
+      "description": "\u003cp\u003eRipple (XRP) surged 25.8% this week, surpassing $170 billion in market cap, once again becoming the third-largest cryptocurrency by market cap.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-2025-will-reach-6-with-etfs-and-whale-activity-rising/\"\u003eXRP 2025: Will Ripple Reach $6 with ETFs and Whale Activity Rising?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-2025-will-reach-6-with-etfs-and-whale-activity-rising/"
+      ],
+      "categories": [
+        "Press Releases",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17124812/1752756492-xrp-2025-will-reach-6-with-etfs-and-whale-activity-rising.jpg"
+      },
+      "published": "2025-07-17T12:48:57Z"
+    }
+  },
+  {
+    "hash": "e0a69a4703c422cdf5260e433b10ceab1cd008b349c6c97964229ca7344e95ad",
+    "item": {
+      "title": "Joining BTC Miner Cloud Mining Could Be Equivalent to Owning Your Own Money-Printing Machine",
+      "description": "\u003cp\u003eGolden Finance reported that Trump \"will pay close attention to the price of BTC during his presidency\" and he \"hopes\" that the price of Bitcoin can reach $150,000. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/joining-btc-miner-cloud-mining-equivalent-owning-money-printing-machine/\"\u003eJoining BTC Miner Cloud Mining Could Be Equivalent to Owning Your Own Money-Printing Machine\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/joining-btc-miner-cloud-mining-equivalent-owning-money-printing-machine/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17123935/1752755974-joining-btc-miner-cloud-mining-equivalent-owning-money-printing-machine.jpg"
+      },
+      "published": "2025-07-17T12:40:22Z"
+    }
+  },
+  {
+    "hash": "5a2d4735095846dc650154d076852a1704c022f4567fd943d0ba09c41318b73c",
+    "item": {
+      "title": "Bonk Price Prediction: Can BONK Shed A Zero And Hit a New ATH In July 2025?",
+      "description": "\u003cp\u003eInstitutional recognition and continued adoption have positioned BONK as the speculative play of choice, breaking into the meme coin top 5 amid a fresh wave of retail liquidity.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonk-price-prediction-can-bonk-shed-a-zero-and-hit-a-new-ath-in-july-2025/\"\u003eBonk Price Prediction: Can BONK Shed A Zero And Hit a New ATH In July 2025?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonk-price-prediction-can-bonk-shed-a-zero-and-hit-a-new-ath-in-july-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bonk",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17121910/1752754749-bonk-price-prediction.jpg"
+      },
+      "published": "2025-07-17T12:33:33Z"
+    }
   }
 ]
