@@ -99,5 +99,82 @@
       "source": "Hacker News",
       "published": "2025-07-19T14:23:23Z"
     }
+  },
+  {
+    "hash": "6a649c0790a6dd95420c8a14e5f7294a185f5c26362f5b45fcb821ebcfa172a0",
+    "item": {
+      "title": "Hungary's oldest library is fighting to save books from a beetle infestation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44583316\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-16T15:25:30Z"
+    }
+  },
+  {
+    "hash": "bfa3f6d1192f02bb96c7f3f43b07beb69e4750ea8a41b6d561ee832650d80a91",
+    "item": {
+      "title": "I tried Vibe coding in BASIC and it didn't go well",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44580567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.goto10retro.com/p/vibe-coding-in-basic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-16T10:14:42Z"
+    }
+  },
+  {
+    "hash": "ac4e6bb7f3369b7f983a80bb1bd6a00147c20664a87a19db7fd383d559ef1c0e",
+    "item": {
+      "title": "\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44590671\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://oakchris1955.eu/posts/bypassing_specialization/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T07:26:22Z"
+    }
+  },
+  {
+    "hash": "c57ff29cd51fd211ad60e08c3a4eeebe040d1a92baea381bbb71b2f7e1eeb1f1",
+    "item": {
+      "title": "Erythritol linked to brain cell damage and stroke risk",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44621268\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sciencedaily.com/releases/2025/07/250718035156.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T02:02:44Z"
+    }
+  },
+  {
+    "hash": "81046e7e54b4da9256d124e017be36509cc59f1ab6a45d33b3d1411520510232",
+    "item": {
+      "title": "Bill Banning One-Person Train Operation Would Lock NY Transit in the Past",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44621119\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.etany.org/statements/impeding-progress-costing-riders-opto"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T01:33:47Z"
+    }
+  },
+  {
+    "hash": "d3f7347d3198b1dce15ca1183858ecd9174cb121a23caab45d0cc3e940535a03",
+    "item": {
+      "title": "Radeon Vulkan Driver's Emulated Ray-Tracing Scores A ~40% Improvement For Quake II RTX",
+      "description": "In addition to Mesa's open-source Radeon Vulkan driver \"RADV\" making some nice performance improvements for modern AMD GPUs with hardware ray-tracing, the emulated ray-tracing code path in RADV for primarily older GPUs has seen some improvements merged this weekend. In fact, so significant that from one merge request is around 40% faster performance for the Quake II RTX game with the emulated RT handling...",
+      "links": [
+        "https://www.phoronix.com/news/RADV-Emulated-RT-Tightness"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-20T00:49:00Z"
+    }
   }
 ]
