@@ -284,5 +284,194 @@
       "source": "Hacker News",
       "published": "2025-07-19T23:58:18Z"
     }
+  },
+  {
+    "hash": "39b099209d823f21552d5681b7356e57d3d9421cbb31194d31ff2ea7187d4f6a",
+    "item": {
+      "title": "Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers",
+      "description": "A newly disclosed critical security flaw in CrushFTP has come under active exploitation in the wild. Assigned the CVE identifier CVE-2025-54309, the vulnerability carries a CVSS score of 9.0.\n\"CrushFTP 10 before 10.8.5 and 11 before 11.3.4_23, when the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS,\" according to",
+      "links": [
+        "https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD__PhSU4itvZmgY79eBkPPev7TF5wkVqKOahUvAPoN3BKF0xo8vwJq87L1U55zc4mU22vV58IbngZJDei4fg2N-sKMIpb8DvUwMWQPzkfuV7VnQFHXoayYM5BmjXvjSM-yw9VGhnvFjQoU8OPiEqKe4qJX7c2pBR2DHc7itY1nEYoSW0D-2OiCkt3L6gM/s1600/crushftp.jpg"
+      },
+      "published": "2025-07-20T07:35:00Z"
+    }
+  },
+  {
+    "hash": "10ca99f0ad7aebfebbc59a574b11cbc376d6960690e89f2029ee6452b152a0f5",
+    "item": {
+      "title": "Async I/O on Linux in databases",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622454\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.canoozie.net/async-i-o-on-linux-and-durability/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T06:20:02Z"
+    }
+  },
+  {
+    "hash": "3b869bfa3d4d57e5d28393ffe3586a3182481c1856bbe4799a7141f34f5e7cfa",
+    "item": {
+      "title": "Bot: \"I noticed a violation of our guidelines for pull request comments\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44623036\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/antiwork/flexile/pull/427"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T08:26:20Z"
+    }
+  },
+  {
+    "hash": "4c254252ae17d2b7d95bac2c18d22c3eec417400925a6233e22bc80c3c3fc4cb",
+    "item": {
+      "title": "The Big LLM Architecture Comparison",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622608\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T06:56:01Z"
+    }
+  },
+  {
+    "hash": "e9f85345ae04996bd62cda261fedb5b0f4c5501340683cf9499d6f2eafb47e20",
+    "item": {
+      "title": "I tried vibe coding in BASIC and it didn't go well",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44580567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.goto10retro.com/p/vibe-coding-in-basic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-16T10:14:42Z"
+    }
+  },
+  {
+    "hash": "461cd4f60ae7eaef04b94cf9a7acdf72acdc929d8b46f0e4edf4ec34be9477f7",
+    "item": {
+      "title": "Show HN: MCP server for Blender that builds 3D scenes via natural language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622374\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blender-mcp-psi.vercel.app/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T06:01:45Z"
+    }
+  },
+  {
+    "hash": "e0e4b6b2f202fc556fc3e8270028ff13160f62ee2c5795b791056a552ca672f1",
+    "item": {
+      "title": "Borg – Deduplicating archiver with compression and encryption",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44621487\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.borgbackup.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T02:36:53Z"
+    }
+  },
+  {
+    "hash": "3d2425f8eb93a37ca883f9b219d0fe859c59ad8e67136c77087add94d730b14a",
+    "item": {
+      "title": "How to Run an Arduino for Years on a Battery (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44590391\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://makecademy.com/arduino-battery"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T06:39:17Z"
+    }
+  },
+  {
+    "hash": "fda18ca0b4f94bcf178cc69f14f9b855862bbfb8e38d86fbc866203569cc58cb",
+    "item": {
+      "title": "Beyond Meat fights for survival",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44620606\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://foodinstitute.com/focus/beyond-meat-fights-for-survival/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T23:54:40Z"
+    }
+  },
+  {
+    "hash": "6afb6ad58d485868b002733fa765857474554e701215f6f737da4764c1be2388",
+    "item": {
+      "title": "What were the earliest laws like?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577210\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-15T23:55:55Z"
+    }
+  },
+  {
+    "hash": "f6d49db890993b04a2379e52aa1e9339ac72b09da3ca72267b6ca631d9b56576",
+    "item": {
+      "title": "First electronic-photonic quantum chip manufactured in commercial foundry",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44586283\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-16T20:08:41Z"
+    }
+  },
+  {
+    "hash": "2a0c05f594182ae590f7bc6b64a9da621070d5f6e05c5a962d55f2a4700223a5",
+    "item": {
+      "title": "“Bypassing” specialization in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44590671\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://oakchris1955.eu/posts/bypassing_specialization/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T07:26:22Z"
+    }
+  },
+  {
+    "hash": "de77c64ba68fc5592aaf00a0dffe60879aaef5e7a0093bd75d9a2f6086cb8941",
+    "item": {
+      "title": "The AGI Final Frontier: The CLJ-AGI Benchmark",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44621088\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://raspasov.posthaven.com/the-agi-final-frontier-the-clj-agi-benchmark"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T01:28:35Z"
+    }
+  },
+  {
+    "hash": "eff5739296c0cf4a56a194648fd9d45c2c369f1574498c8388d9c6379ff2aa5c",
+    "item": {
+      "title": "A Treatise for One Network – Anonymous National Deliberation [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44582694\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simurgh-beau.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-16T14:21:20Z"
+    }
+  },
+  {
+    "hash": "f1d7a9c897ad7322795adb74fdd797c93f797af60b7d347d9a36af1b2359a9e7",
+    "item": {
+      "title": "Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44587486\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.preprints.org/manuscript/202507.1198/v1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-16T22:25:42Z"
+    }
   }
 ]
