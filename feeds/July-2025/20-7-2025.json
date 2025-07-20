@@ -1,0 +1,103 @@
+[
+  {
+    "hash": "15d82594dae4bd19d5cd7cf6b8424ce0b46aa4ac8c53194d50d4179da677ce16",
+    "item": {
+      "title": "Malicious packages uploaded to the Arch Linux AUR",
+      "description": "The Arch Linux project has sent out \u003ca\nhref=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/\"\u003ean\nadvisory\u003c/a\u003e warning that a set of malicious packages, containing a remote\naccess trojan, were uploaded to the Arch User Repository (AUR).  The\naffected packages were librewolf-fix-bin, firefox-patch-bin, and\nzen-browser-patched-bin.  \"\u003cq\u003eWe strongly encourage users that may have\ninstalled one of these packages to remove them from their system and to\ntake the necessary measures in order to ensure they were not\ncompromised.\u003c/q\u003e\"",
+      "links": [
+        "https://lwn.net/Articles/1030603/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-19T21:36:25Z"
+    }
+  },
+  {
+    "hash": "edb7b70385eef2ddd6263926b36c8ccec8132dc571d7c27c86a5a0b7b1a5aa58",
+    "item": {
+      "title": "Local LLMs versus offline Wikipedia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44617078\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://evanhahn.com/local-llms-versus-offline-wikipedia/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T16:49:02Z"
+    }
+  },
+  {
+    "hash": "719adb1732b211c23c1030e0155c25eae02be30925f4877a133908f190e92c84",
+    "item": {
+      "title": "Ring introducing new feature to allow police to live-stream access to cameras",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44620002\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T22:25:09Z"
+    }
+  },
+  {
+    "hash": "a4fd65bfbc859e8036179c5fea0712d2f8deaf880fb623fdac7b2f6597f2d322",
+    "item": {
+      "title": "The curious case of the Unix workstation layout",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44616760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thejpster.org.uk/blog/blog-2025-07-19/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T16:15:17Z"
+    }
+  },
+  {
+    "hash": "24684f722fc286ed0e5b4349cee1478fdf6bfb0e4ce020d764077443413e2db5",
+    "item": {
+      "title": "Mushroom learns to crawl after being given robot body (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591775\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T10:43:05Z"
+    }
+  },
+  {
+    "hash": "4791a3e743cea060c20c558960e547287067642aef0cdea526f4fbdcdac3be75",
+    "item": {
+      "title": "What Were the Earliest Laws Like?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577210\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-15T23:55:55Z"
+    }
+  },
+  {
+    "hash": "ca4653e02b635a82286e97163a1fe964e92858b762b2f2d1ccf6aa3e7ad1a6eb",
+    "item": {
+      "title": "Intel to boost gross margins – new products must deliver 50% gross profit",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44620774\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T00:25:47Z"
+    }
+  },
+  {
+    "hash": "084642faecad997fe3640587c0dc29d85800a5c8a3c44c36502f41e88b918f63",
+    "item": {
+      "title": "Evaluating publicly available LLMs on IMO 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44615695\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://matharena.ai/imo/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T14:23:23Z"
+    }
+  }
+]
