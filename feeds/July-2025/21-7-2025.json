@@ -547,5 +547,429 @@
       },
       "published": "2025-07-20T14:56:21Z"
     }
+  },
+  {
+    "hash": "a878e5e948c04195f5c663c0f3009530f5230d1b586cd22870317b5e19215b36",
+    "item": {
+      "title": "Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks",
+      "description": "Microsoft on Sunday released security patches for an actively exploited security flaw in SharePoint and also released details of another vulnerability that it said has been addressed with \"more robust protections.\"\nThe tech giant acknowledged it's \"aware of active attacks targeting on-premises SharePoint Server customers by exploiting vulnerabilities partially addressed by the July Security",
+      "links": [
+        "https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrc9BdoQciIw4S9i6xYbq8ZSd5iGcC2IyrZ2UGLnDH6MRMaPP7TKRhkk2alt2VJJ1Wry2cLlbWO9RXoS4H7EdaaKWuAeppASXwRADUESiNThunIFf7bRdrmYyNVYZstLHA6KwxxZNd2YcU6RGhrVPP1fC5T-riUQ6QPYLO_sjTCZrJVzE8DppTteHk62U/s1600/sharepoint-security-patch.jpg"
+      },
+      "published": "2025-07-21T03:30:00Z"
+    }
+  },
+  {
+    "hash": "a3de793d8b94ddd94ac7c7b30b96383d2ab4f6f5734d4b14b3225a493bd45c3b",
+    "item": {
+      "title": "Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access",
+      "description": "Hewlett-Packard Enterprise (HPE) has released security updates to address a critical security flaw affecting Instant On Access Points that could allow an attacker to bypass authentication and gain administrative access to susceptible systems.\nThe vulnerability, tracked as CVE-2025-37103, carries a CVSS score of 9.8 out of a maximum of 10.0.\n\"Hard-coded login credentials were found in HPE",
+      "links": [
+        "https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhDfgud3sLNqAcWRkknA6fxFQa2g4fbjl_GlInA-ocsp_rYbruyoJn_m_84kHKKJv5uCPbY3vJysrRdcBV__KY8IIMRiDU8oQ678aBslwfp4_OpN0EVwAvjZBd3sG1axmkmP-GK-dW47Okw5DETEXhZfwUDksOqYWgPt-XVH8HtwPqJszSVRb85xklmz6/s1600/hpe.jpg"
+      },
+      "published": "2025-07-21T03:25:00Z"
+    }
+  },
+  {
+    "hash": "e45399df836cb4310ced978c0a825c1e4a20279f7cc9ba06bd8f95954f76dfc4",
+    "item": {
+      "title": "3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",
+      "description": "A new attack campaign has compromised more than 3,500 websites worldwide with JavaScript cryptocurrency miners, marking the return of browser-based cryptojacking attacks once popularized by the likes of CoinHive.\u0026nbsp;\nAlthough the service has since shuttered after browser makers took steps to ban miner-related apps and add-ons, researchers from the c/side said they found evidence of a stealthy",
+      "links": [
+        "https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxP95NN1kBjfUMblpJmjAZQib7WECogHzGu2ds6_NHBi4IfexewVLmKOkpDmx1XCvkFoXrNfQqIjxwC9NddPsFjDFPhn-QHckUOiZwzzVWXXDBej4Iow-kdXofY0mLYKfmuy_MTr6rIYoqf68nirtw-nQ_R1wGyHaVgY6ylY-d95m6UZQX03zc8odYCHN6/s1600/code.jpg"
+      },
+      "published": "2025-07-21T03:00:00Z"
+    }
+  },
+  {
+    "hash": "59c8b61f5397b8495eb16addc2d2152ceca31128157efaca803bb70d98eb6ad5",
+    "item": {
+      "title": "Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers",
+      "description": "A critical security vulnerability in Microsoft SharePoint Server has been weaponized as part of an \"active, large-scale\" exploitation campaign.\nThe zero-day flaw, tracked as CVE-2025-53770 (CVSS score: 9.8), has been described as a variant of CVE-2025-49704 (CVSS score: 8.8), a code injection and remote code execution bug in Microsoft SharePoint Server that was addressed by the tech giant as",
+      "links": [
+        "https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq7KCURd-bG6PNjTR6XG9CF2aG2qjDleMRmF62dzzRxz_u54gIyfykp0nT5OaGXAyH13ppzFyHs-r2ujbSu1VNyfa3WAeFjLU0vfpFxO43koxmq4-GMqoVG1DAEqTNjlnRxRYXJz3S7XFU-LBrWt5D_rKOTc0aYV0BDgMKurR89lj4rhMk1-4kgmD2Ymie/s1600/sharepoint-hack.jpg"
+      },
+      "published": "2025-07-20T09:52:00Z"
+    }
+  },
+  {
+    "hash": "0e4b20339192f17f4f77b1ceb47669cc1621902033d5cb810420aa4e52ea5fec",
+    "item": {
+      "title": "Cardano (ADA) May Soar, But It Won’t Return to Its Former Glory. Consider This 77x Potential Gem Instead",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Cardano-ADA-May-Soar.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano (ADA) May Soar, But It Won’t Return to Its Former Glory. Consider This 77x Potential Gem Instead\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Cardano-ADA-May-Soar.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Cardano-ADA-May-Soar-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Cardano-ADA-May-Soar-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano (ADA) was formerly Ethereum\u0026#8217;s strongest competitor, based on academic rigor, peer-reviewed protocols, and methodical development. In 2021, it established a vast community and achieved a market valuation exceeding $90 billion. ADA may see minor gains in the next cycle, but many seasoned investors believe its 100x growth days are",
+      "links": [
+        "https://thenewscrypto.com/cardano-ada-may-soar-but-it-wont-return-to-its-former-glory-consider-this-77x-potential-gem-instead/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little Pepe (LILPEPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Cardano-ADA-May-Soar.jpg"
+      },
+      "published": "2025-07-20T15:57:00Z"
+    }
+  },
+  {
+    "hash": "fb0029567b59eedd9d9d536afc1d9e2ad39ac663228f73f8c085ea25db69a9d7",
+    "item": {
+      "title": "Ripple (XRP) Could Rise 500% by September, but Analysts See Better Returns Coming From New Crypto Under $0.0018",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Ripple-XRP-Could-Rise-500.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ripple (XRP) Could Rise 500% by September, but Analysts See Better Returns Coming From New Crypto Under $0.0018\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Ripple-XRP-Could-Rise-500.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Ripple-XRP-Could-Rise-500-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Ripple-XRP-Could-Rise-500-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eRipple (XRP) is back in the headlines after a decisive breakout, exciting traders and fueling price targets no one imagined possible just months ago. While some analysts now believe XRP could rally by up to 500% by September, a new under-the-radar crypto, priced under $0.0018, is stealing the spotlight: Little",
+      "links": [
+        "https://thenewscrypto.com/ripple-xrp-could-rise-500-by-september-but-analysts-see-better-returns-coming-from-new-crypto-under-0-0018/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little Pepe (LILPEPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Ripple-XRP-Could-Rise-500.jpg"
+      },
+      "published": "2025-07-20T14:56:21Z"
+    }
+  },
+  {
+    "hash": "753754b0cfa47390e4a57117dd992752da8f699dd153ebb01d72707b8bdefbf6",
+    "item": {
+      "title": "Solana Surges Past $180—Could Ozak AI Do the Same From Pennies?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Solana-Surges-Past-180.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana Surges Past $180—Could Ozak AI Do the Same From Pennies?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Solana-Surges-Past-180.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Solana-Surges-Past-180-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Solana-Surges-Past-180-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSolana is rallying above $180, making Ozak AI an extremely hot topic among traders as they speculate on what coin might be going up next. As Solana advances, Ozak AI is still below $0.01 in its presale and exhibits a strong foundation. The platform integrates predictive analytics with decentralized finance",
+      "links": [
+        "https://thenewscrypto.com/solana-surges-past-180-could-ozak-ai-do-the-same-from-pennies/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Solana-Surges-Past-180.jpg"
+      },
+      "published": "2025-07-20T14:19:19Z"
+    }
+  },
+  {
+    "hash": "3265c4fc443e44f0f928f168ac71aabbb81cf20a66bb5f5ba4fba992bb3e3538",
+    "item": {
+      "title": "“Dynamic Programming” is not referring to “computer programming”",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44603349\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.vidarholen.net/contents/blog/?p=1172"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-18T11:09:07Z"
+    }
+  },
+  {
+    "hash": "bc14d74e1d25543eea669b47f69d5a02f2b0e813ace8afbf589d71fc9167a425",
+    "item": {
+      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44631594\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/revk/ESP32-Faikin"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T03:41:23Z"
+    }
+  },
+  {
+    "hash": "87d044dd89e9fd8e4ca00114d16f473ad6bc5bfc3670297711f0f5abdbc161ea",
+    "item": {
+      "title": "The Daily Life of a Medieval King",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598090\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.medievalists.net/2025/07/medieval-king-daily-life/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T20:54:02Z"
+    }
+  },
+  {
+    "hash": "c06e1ef055e289212b22588a31cf6c5f5ba38617f21064f27e30c5f5d5c501b8",
+    "item": {
+      "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44604311\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-18T13:13:33Z"
+    }
+  },
+  {
+    "hash": "09c12fa1e8c1ba24cc2935a0dfda5400b833e1b19d91536837b51441b49338fe",
+    "item": {
+      "title": "Simulating hand-drawn motion with SVG filters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591305\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T09:12:26Z"
+    }
+  },
+  {
+    "hash": "42f7f207d89603c1075a871ecf7afe7b1663019ef5bfee4c0072a4e52e541a71",
+    "item": {
+      "title": "Stdio(3) change: FILE is now opaque",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627793\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://undeadly.org/cgi?action=article;sid=20250717103345"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T18:18:40Z"
+    }
+  },
+  {
+    "hash": "e38354adccbe7ff6feded87c29222b207bd9ddae336282b2173ce0a11c4970ae",
+    "item": {
+      "title": "How slow motion became cinema’s dominant special effect",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44594486\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T15:34:29Z"
+    }
+  },
+  {
+    "hash": "7fbfff62b6cc8784c5d6efbdc7b0dea1350ec55261ada9a6cddb44b30f7a0a78",
+    "item": {
+      "title": "Peep Show is the most realistic portrayal of evil I have seen (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629299\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T21:05:19Z"
+    }
+  },
+  {
+    "hash": "1207ccb81263f0145f054f0ed71c13f468a825c2a8fc408b8b33f419797860bb",
+    "item": {
+      "title": "What my mother didn’t talk about (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598578\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T21:43:23Z"
+    }
+  },
+  {
+    "hash": "f91c691ed124d7f769b2659f8e812df128327bfedb427476dd71ef36a2c6efd3",
+    "item": {
+      "title": "Subreply – An open source text-only social network",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44628082\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/lucianmarin/subreply"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T18:46:14Z"
+    }
+  },
+  {
+    "hash": "3eba0c8d00949c308fda12c83fd15e5cce060a1934139ff6f554330c7e5fb3bd",
+    "item": {
+      "title": "Digital vassals? French Government ‘exposes citizens’ data to US'",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44624114\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T11:26:09Z"
+    }
+  },
+  {
+    "hash": "a4cf9d6fbd794e927547a69da98b0feb93c231b35ebfa481a2b0d5810d0b55b2",
+    "item": {
+      "title": "JOVE – Jonathan’s Own Version of Emacs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591439\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/jonmacs/jove/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T09:35:37Z"
+    }
+  },
+  {
+    "hash": "6379b2f371bb9ea50d1059a0cc25e682341052cf6490de0f684c8382da2b373e",
+    "item": {
+      "title": "Insights on Teufel’s first open-source speaker",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627158\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T17:11:43Z"
+    }
+  },
+  {
+    "hash": "cebc06b3bef2f6384ebdc28bbf5b22f2213985c6b5b964a3c3c3742cc8a42a91",
+    "item": {
+      "title": "Tell me again about neurons now",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600899\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-18T03:26:36Z"
+    }
+  },
+  {
+    "hash": "f4cc40bec2a670e7879937b90e6f86bacbebdb361c4e051436f637e997797a39",
+    "item": {
+      "title": "Crypto Exchange Tokenize Pulls Out of Singapore Over Licensing Roadblock",
+      "description": "\u003cp\u003eTokenize Xchange will exit Singapore by Sept 30 after failing to secure a digital payment token licence from the MAS, a year after raising $11.5m.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tokenize-crypto-exchange-pulls-out-singapore-license-roadblock/\"\u003eCrypto Exchange Tokenize Pulls Out of Singapore Over Licensing Roadblock\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tokenize-crypto-exchange-pulls-out-singapore-license-roadblock/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Singapore"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21045322/1753073602-image-1753073577239_optimized.jpg"
+      },
+      "published": "2025-07-21T05:06:42Z"
+    }
+  },
+  {
+    "hash": "53f45bf5d98c36e8b6bb498498d7b102152deea061671ca31a48f824280c7dcf",
+    "item": {
+      "title": "Bitcoin’s Minor Pullback from $123K ATH, Bullish Pennant Indicates $137K Target in Line",
+      "description": "\u003cp\u003eBitcoin (BTC) has displayed a bullish pennant pattern following a strong vertical rally to $123K.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/btc-bullish-pennant-indicates-137k-target-in-line/\"\u003eBitcoin’s Minor Pullback from $123K ATH, Bullish Pennant Indicates $137K Target in Line\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/btc-bullish-pennant-indicates-137k-target-in-line/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin ATH",
+        "Bitcoin market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21045258/1753073578-stock-image_optimized-14.jpg"
+      },
+      "published": "2025-07-21T04:54:21Z"
+    }
+  },
+  {
+    "hash": "b7beeeeffdd774d20b152d190b72c703da67bc981d6ac08b4681fb206a6cc8e6",
+    "item": {
+      "title": "[LIVE] Crypto News Today: Latest Updates for July 21, 2025 – Bitcoin Holds $118.5K, ETH Tops $3.7K as Bullish Momentum Spills into Altcoins",
+      "description": "\u003cp\u003eFollow up to the hour updates on what is happening in crypto today, July 21. Market movements, crypto news, and more!\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-21-2025/\"\u003e[LIVE] Crypto News Today: Latest Updates for July 21, 2025 – Bitcoin Holds $118.5K, ETH Tops $3.7K as Bullish Momentum Spills into Altcoins\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-21-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21041216/1753071135-july-21.jpg"
+      },
+      "published": "2025-07-21T04:22:54Z"
+    }
+  },
+  {
+    "hash": "4173aa47571b4dc931b7beec1dab3122fc899b87fffb39bfd3c2e06bced042b8",
+    "item": {
+      "title": "Japanese Would Buy More BTC if Gov’t Made Crypto Tax Reforms – Survey",
+      "description": "\u003cp\u003eMost Japanese say they would buy more Bitcoin (BTC), Ethereum (ETH), and altcoins if the government agrees to reform the nation’s strict crypto tax rules.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/japanese-would-buy-more-btc-if-govt-made-crypto-tax-reforms-survey/\"\u003eJapanese Would Buy More BTC if Gov’t Made Crypto Tax Reforms – Survey\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/japanese-would-buy-more-btc-if-govt-made-crypto-tax-reforms-survey/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "crypto tax",
+        "Japan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/20150459/1753023898-image-1752995951937.jpg"
+      },
+      "published": "2025-07-20T23:30:00Z"
+    }
   }
 ]
