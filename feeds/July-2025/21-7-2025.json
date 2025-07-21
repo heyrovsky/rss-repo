@@ -1774,5 +1774,832 @@
       },
       "published": "2025-07-21T09:22:17Z"
     }
+  },
+  {
+    "hash": "d28de98e18688976b7b135df47fdad523c36fdc0fd970f3cf54d46331ac2f3ca",
+    "item": {
+      "title": "[$] When free-software communities unite for privacy",
+      "description": "\u003cp\u003eAt \u003ca href=\"https://debconf25.debconf.org/\"\u003eDebConf25\u003c/a\u003e in Brest,\nFrance, \u003ca\nhref=\"https://debconf25.debconf.org/talks/142-when-free-software-communities-unite-tails-tor-and-the-fight-for-privacy/\"\u003ethe\ntalk\u003c/a\u003e \"When Free Software Communities Unite: Tails, Tor, and the\nFight for Privacy\" was delivered by a man who introduced himself only\nas intrigeri. He delivered an overview of the \u003ca\nhref=\"https://www.torproject.org/\"\u003eTor Project\u003c/a\u003e, its mission, and\nthe projects under the umbrella. He also spoke about how the\norganization depends on Debian, and plans for the software it\ndelivers.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1029769/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-07-21T14:42:42Z"
+    }
+  },
+  {
+    "hash": "4251bff28adae952bb88dc38943516e7e94bc15bbb1f0146a2caf63f64b4cc03",
+    "item": {
+      "title": "Security updates for Monday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (java-1.8.0-openjdk), \u003cb\u003eDebian\u003c/b\u003e (angular.js and batik), \u003cb\u003eFedora\u003c/b\u003e (chromium, pypy, screen, unbound, wine, and wine-mono), \u003cb\u003eMageia\u003c/b\u003e (djvulibre, quictls, and redis), \u003cb\u003eRed Hat\u003c/b\u003e (avahi, gnome-remote-desktop, java-1.8.0-openjdk, java-11-openjdk with Extended Lifecycle Support, java-21-openjdk, kernel, kernel-rt, python-setuptools, redis, and valkey), \u003cb\u003eSUSE\u003c/b\u003e (chromedriver, coreutils, cosign, docker, FastCGI, ffmpeg-4, fractal, gimp, glib2, ImageMagick, iputils, java-17-openjdk, java-24-openjdk, jq, kubelogin, kubernetes1.23, kubernetes1.24, kubernetes1.26, python-requests, python3, rmt-server, rustup, and thunderbird), and \u003cb\u003eUbuntu\u003c/b\u003e (apache2).",
+      "links": [
+        "https://lwn.net/Articles/1030774/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-07-21T13:54:36Z"
+    }
+  },
+  {
+    "hash": "5336fe3e753ed594a5e3a112108875fa4eb2bf8444b6d4f2d76af2618876d444",
+    "item": {
+      "title": "UK backing down on Apple encryption backdoor after pressure from US",
+      "description": "UK officials fear their insistence on backdoor endangers tech deals with US.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/"
+      ],
+      "categories": [
+        "Apple",
+        "Policy",
+        "apple backdoor",
+        "encryption",
+        "syndication",
+        "uk",
+        "UK Investigatory Powers Act"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Anna Gross, Tim Bradshaw, and Lauren Fedor, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/apple-encryption-1152x648-1741119084.jpg"
+      },
+      "published": "2025-07-21T13:30:09Z"
+    }
+  },
+  {
+    "hash": "d05baa456674b3de6be6c1243ddb5a0697c6666af3f7b1f954a4cd88ed83f6e9",
+    "item": {
+      "title": "Thailand Proposes Relaxed ICO Knowledge Testing Rules for Crypto Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-4.36.40-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Thailand Proposes Relaxed ICO Knowledge Testing Rules for Crypto Investors\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-4.36.40-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-4.36.40-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-4.36.40-PM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWhile requiring thorough comprehensive suitability, the Thai securities regulator is looking for public feedback on proposed new regulations that would make knowledge testing easier for cryptocurrency investors. Investors who have already passed the proposed initial coin offering laws will be able to skip the recurrent knowledge test. This is according",
+      "links": [
+        "https://thenewscrypto.com/thailand-proposes-relaxed-ico-knowledge-testing-rules-for-crypto-investors/"
+      ],
+      "categories": [
+        "Market News",
+        "Bitcoin",
+        "Thailand"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-4.36.40-PM.jpeg"
+      },
+      "published": "2025-07-21T11:10:28Z"
+    }
+  },
+  {
+    "hash": "ea1fe19f55b9deae3a778f5afe0236644aa68aa9953c76587c93aa96a07aaed1",
+    "item": {
+      "title": "Cardano (ADA) Hit an ATH of $3.10 After Rising from $0.18 in 2021; These 2 Coins Will Hit That Price Next",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-17.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano (ADA) Hit an ATH of $3.10 After Rising from $0.18 in 2021; These 2 Coins Will Hit That Price Next\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-17.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-17-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-17-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eExciting strong momentum recently made ADA reach new highs, and it has previously soared up to $3.10, having rallied from a mere low of $0.18 in 2021. The renewed energy arrived amid parallel developments in DeFi activity, staking demand, and technology upgrades inside the Cardano ecosystem. Banking on ADA\u0026#8217;s attractive",
+      "links": [
+        "https://thenewscrypto.com/cardano-ada-hit-an-ath-of-3-10-after-rising-from-0-18-in-2021-these-2-coins-will-hit-that-price-next/"
+      ],
+      "categories": [
+        "Press Release",
+        "ADA",
+        "Cardano",
+        "Little PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-1-17.jpg"
+      },
+      "published": "2025-07-21T10:50:00Z"
+    }
+  },
+  {
+    "hash": "6cd7fc9a5036c32d1014b4eeea47a5605919244e15365c738055318f16f2909a",
+    "item": {
+      "title": "14% Bullish Wave: Can JASMY Flip Resistance Into Support?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/14-Bullish-Wave-Can-JASMY-Flip-Resistance-Into-Support.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"14% Bullish Wave: Can JASMY Flip Resistance Into Support?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/14-Bullish-Wave-Can-JASMY-Flip-Resistance-Into-Support.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/14-Bullish-Wave-Can-JASMY-Flip-Resistance-Into-Support-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/14-Bullish-Wave-Can-JASMY-Flip-Resistance-Into-Support-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe recovery attempts of the overall crypto market have brought mixed signals across the assets. Notably, Bitcoin and Ethereum have bounced back to their recent highs, while other altcoins are swinging on the green and red ropes. Within the altcoin pack, JasmyCoin (JASMY) secured a spot among the top three",
+      "links": [
+        "https://thenewscrypto.com/14-bullish-wave-can-jasmy-flip-resistance-into-support/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "JASMY",
+        "JasmyCoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/14-Bullish-Wave-Can-JASMY-Flip-Resistance-Into-Support.jpg"
+      },
+      "published": "2025-07-21T10:30:23Z"
+    }
+  },
+  {
+    "hash": "aa91b75d8e562bdff78ba4e6cb5853bbd47360492fe1db0b744b0c6086a33cd7",
+    "item": {
+      "title": "MEXC Partners With Solana to Launch Eco Month Event Featuring a $1 Million Prize Pool",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-52.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-52.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-52-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-52-768x448.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, has announced a strategic partnership with Solana to launch the month-long Solana Eco Month campaign. Scheduled to run from July 21, 2025, 10:00 (UTC) to August 20, 2025, 10:00 (UTC), the campaign will feature a generous $1 million prize pool, including 0-fee trading, staking",
+      "links": [
+        "https://thenewscrypto.com/mexc-partners-with-solana-to-launch-eco-month-event-featuring-a-1-million-prize-pool/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-52.jpg"
+      },
+      "published": "2025-07-21T10:00:00Z"
+    }
+  },
+  {
+    "hash": "356f2e02d39f795d135a519d6082532b072a0af73b3f806f5cadedae3eacf3e9",
+    "item": {
+      "title": "4 Tokens Cheaper Than Ripple (XRP) Poised to Soar 1500% Faster",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-27.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"4 Tokens Cheaper Than Ripple (XRP) Poised to Soar 1500% Faster\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-27.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-27-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-27-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eWhile Ripple (XRP) trades above $2, many investors are turning their attention to more affordable tokens with far greater upside potential. Here are four tokens cheaper than XRP and poised to grow 1,500% faster, starting with the meme legend in the making: Little Pepe (LILPEPE).  Little Pepe (LILPEPE): The Meme",
+      "links": [
+        "https://thenewscrypto.com/4-tokens-cheaper-than-ripple-xrp-poised-to-soar-1500-faster/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little Pepe ($LILPEPE)",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-27.jpg"
+      },
+      "published": "2025-07-21T09:42:49Z"
+    }
+  },
+  {
+    "hash": "809bf5fe35bc0bc72ee970f11bc7e093ace18bea61d9a6d6c1f99b7d803b16b0",
+    "item": {
+      "title": "Ethereum Validators Call for 45M Gas Cap Amid Push for Higher Throughput",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.51.42-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Validators Call for 45M Gas Cap Amid Push for Higher Throughput\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.51.42-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.51.42-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.51.42-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOn Sunday, additional Ethereum validators voiced their support for raising the gas cap to 45 million units, which would lower transaction fees and allow for better network scalability, leading to a tick rise in Ethereum\u0026#8217;s throughput. Etherscan reports that Ethereum\u0026#8217;s gas limit increased to more than 37.3 million units on",
+      "links": [
+        "https://thenewscrypto.com/ethereum-validators-call-for-45m-gas-cap-amid-push-for-higher-throughput/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.51.42-PM.jpeg"
+      },
+      "published": "2025-07-21T09:35:00Z"
+    }
+  },
+  {
+    "hash": "7d7b198a392569c663c2defbba526679606fb8e711d062c67f89521b2d5f41e6",
+    "item": {
+      "title": "NFT Market Witnesses Massive Surge as Ethereum Collections Lead the Comeback",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/04/How-to-Profit-From-the-NFT-Resurgence-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"NFT Market Witnesses Massive Surge as Ethereum Collections Lead the Comeback\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/04/How-to-Profit-From-the-NFT-Resurgence-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/04/How-to-Profit-From-the-NFT-Resurgence-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/04/How-to-Profit-From-the-NFT-Resurgence-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe NFT market roared to life on Monday, jumping more than 20% in a single day, with total market cap rising from $5.1b to $6.3b. After months of stagnation, renewed interest in Ethereum-based collections appears to be driving the sudden revival. CryptoPunks Sweep Triggers Ethereum NFT Rally A major catalyst",
+      "links": [
+        "https://thenewscrypto.com/nft-market-witnesses-massive-surge-as-ethereum-collections-lead-the-comeback/"
+      ],
+      "categories": [
+        "NFT News",
+        "ETHEREUM",
+        "NFT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/04/How-to-Profit-From-the-NFT-Resurgence-1.jpg"
+      },
+      "published": "2025-07-21T09:26:18Z"
+    }
+  },
+  {
+    "hash": "0520ea8082d4151c6e709131bb30a9de9b93b45d9d4cd47f327df5cd28584e1b",
+    "item": {
+      "title": "UK Eyeing $6.7B Bitcoin Sell-Off to Address Budget Deficit",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.35.54-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"UK Eyeing $6.7B Bitcoin Sell-Off to Address Budget Deficit\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.35.54-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.35.54-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.35.54-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe UK is reportedly eyeing the sale of over 5 billion British pounds ($6.7 billion) worth of seized Bitcoin. In order to help fill a deficit in the country’s budget. The Home Office and the head of the country’s Treasury, Rachel Reeves, are working with law enforcement to sell off",
+      "links": [
+        "https://thenewscrypto.com/uk-eyeing-6-7b-bitcoin-sell-off-to-address-budget-deficit/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Altcoin",
+        "Bitcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-21-at-2.35.54-PM.jpeg"
+      },
+      "published": "2025-07-21T09:20:59Z"
+    }
+  },
+  {
+    "hash": "3753a08891d58c557a9be64281d1f24fb917df8065486e8233170b0b79afe82b",
+    "item": {
+      "title": "WIF Rockets 13%, Is a Massive Bull Run Brewing?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WIF-Rockets-13-Is-a-Massive-Bull-Run-Brewing.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"WIF Rockets 13%, Is a Massive Bull Run Brewing?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/WIF-Rockets-13-Is-a-Massive-Bull-Run-Brewing.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/WIF-Rockets-13-Is-a-Massive-Bull-Run-Brewing-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/WIF-Rockets-13-Is-a-Massive-Bull-Run-Brewing-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the brief spike in the crypto market, the assets have exhibited mixed sentiment. The assets, like Bitcoin (BTC) and Ethereum (ETH), are trading at $118.3K and $3.7K, respectively. Meanwhile, the meme coin market cap has surged by over 8.6%, settling at $89.8 billion. The assets opened the day on",
+      "links": [
+        "https://thenewscrypto.com/wif-rockets-13-is-a-massive-bull-run-brewing/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Dogwifhat",
+        "Meme Coin",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/WIF-Rockets-13-Is-a-Massive-Bull-Run-Brewing.jpg"
+      },
+      "published": "2025-07-21T06:10:04Z"
+    }
+  },
+  {
+    "hash": "a9fbe5d603514bd771bada27f44f228e39d7ce04bc9b2ab477fc363b858bfd65",
+    "item": {
+      "title": "BlockDAG’s $346M Presale Skyrockets With Seattle Seawolves Deal As ETH Gains And MNT Targets $0.88",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/BlockDAGs-346M-Presale-Skyrockets.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlockDAG’s $346M Presale Skyrockets With Seattle Seawolves Deal As ETH Gains And MNT Targets $0.88\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/BlockDAGs-346M-Presale-Skyrockets.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/BlockDAGs-346M-Presale-Skyrockets-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/BlockDAGs-346M-Presale-Skyrockets-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market finally seems to be entering its long-expected bull phase, and a few names are standing out. Mantle (MNT) is showing bullish signals after bouncing off major technical zones, setting its sights on a breakout that could take it even higher. At the same time, Ethereum (ETH) is",
+      "links": [
+        "https://thenewscrypto.com/blockdags-346m-presale-skyrockets-with-seattle-seawolves-deal-as-eth-gains-and-mnt-targets-0-88/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/BlockDAGs-346M-Presale-Skyrockets.jpg"
+      },
+      "published": "2025-07-21T03:26:40Z"
+    }
+  },
+  {
+    "hash": "50aca9c2ad2fb401d8e70beddf520664960e434f181450324d468b0b6eb62223",
+    "item": {
+      "title": "AMD Strix Halo Radeon 8060S Enjoys Improved Ray-Tracing With Mesa 25.2",
+      "description": "With the Mesa 25.2 open-source OpenGL and Vulkan graphics driver code having been branched last week ahead of its stable release in August, I carried out some fresh benchmarks on AMD's exciting Strix Halo platform using the Ryzen AI Max+ PRO 395 with Radeon 8060S Graphics to see where the Linux performance is now at for the RDNA 3.5 integrated graphics.",
+      "links": [
+        "https://www.phoronix.com/review/mesa-252-strix-halo"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-21T14:30:00Z"
+    }
+  },
+  {
+    "hash": "c7dadff9301304c9628cb5a2a3fc20490ecbadabf5fd7034c498b01a06b7e630",
+    "item": {
+      "title": "EROFS Implementing Metadata Compression For Even Smaller Image Sizes",
+      "description": "The EROFS read-only file-system ahead of the upcoming Linux 6.17 merge window has been working on metadata compression support to allow for even smaller container image sizes but at the cost of higher I/O latency...",
+      "links": [
+        "https://www.phoronix.com/news/EROFS-Metadata-Compression"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-21T12:46:00Z"
+    }
+  },
+  {
+    "hash": "e4a098e7c18b7684237db56954c44f339fd51f600660726319cd8b2cf3d31635",
+    "item": {
+      "title": "HarfBuzz 11.3 Delivers Significant Performance Improvements",
+      "description": "HarfBuzz 11.3 released on Sunday as the newest release of this open-source text shaping engine. HarfBuzz 11.3 brings some nice performance improvements for this text shaping engine that is used by many prominent software programs and toolkits like Google Chrome, Firefox, GNOME / GTK, KDE / Qt, LibreOffice, OpenJDK, Godot, and many closed-source programs too like Adobe Photoshop and others...",
+      "links": [
+        "https://www.phoronix.com/news/HarfBuzz-11.3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-21T10:00:04Z"
+    }
+  },
+  {
+    "hash": "2c7a980ba14a01126c8004748de6d6dd45ccb1dcdeda19dbf8fc266fd5151530",
+    "item": {
+      "title": "Occasionally USPS sends me pictures of other people's mail",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635867\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://the418.substack.com/p/a-bug-in-the-mail"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:54:41Z"
+    }
+  },
+  {
+    "hash": "9d92717f9c79542be5916243e769a1a81922f111915a7d18d85c8b96ba5ddf8f",
+    "item": {
+      "title": "Using MacBook's trackpad as digital weighing scale",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635808\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/KrishKrosh/TrackWeight"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:51:13Z"
+    }
+  },
+  {
+    "hash": "5011c25e05a74c09530b49a910391a41b06a3617a9bf55fce2f39e2a83250c23",
+    "item": {
+      "title": "UK backing down on Apple encryption backdoor after pressure from US",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635745\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:46:40Z"
+    }
+  },
+  {
+    "hash": "1a79de170164661cff48d3508427444e0c9b09624e9fe373068a347b899750fc",
+    "item": {
+      "title": "Quadratic forms beyond arithmetic",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600070\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ams.org/journals/notices/202507/noti3192/noti3192.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-18T00:59:21Z"
+    }
+  },
+  {
+    "hash": "546103da6829cde68b7f4fe4bd86d8abd445afd48d8fc91434f65300e05072a5",
+    "item": {
+      "title": "“Dynamic programming” is not referring to “computer programming”",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44603349\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.vidarholen.net/contents/blog/?p=1172"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-18T11:09:07Z"
+    }
+  },
+  {
+    "hash": "c421d263c2e8ac49ffbae0860e75b7a8e042d4902c62fad5e88943e8eaca5a09",
+    "item": {
+      "title": "The daily life of a medieval king",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598090\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.medievalists.net/2025/07/medieval-king-daily-life/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-17T20:54:02Z"
+    }
+  },
+  {
+    "hash": "368fe6e18016ff1de860cf36386ff33434b98092df4f8ef143383c832ed75f12",
+    "item": {
+      "title": "The Gentoo Perl versioning scheme",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44619709\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T21:44:30Z"
+    }
+  },
+  {
+    "hash": "57aac3124d5c9196ebcdfe0c54977cbccbd104df18e54f9f8ae404870786b451",
+    "item": {
+      "title": "We made Postgres writes faster, but it broke replication",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633933\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.paradedb.com/blog/lsm_trees_in_postgres"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T11:26:04Z"
+    }
+  },
+  {
+    "hash": "391f581f21b3c9c3e11562466f5fd2dce2beeb6c50bbfaed8912afca3ef000e5",
+    "item": {
+      "title": "Spanish police arrest five over $542M crypto investment scheme",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635403\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:19:31Z"
+    }
+  },
+  {
+    "hash": "15805a3642105e56b4601b15040da32ebda611a68404e069644ebf1d94d29bff",
+    "item": {
+      "title": "The Sumerian Game: The ancestor of modern city builders",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44614372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-19T10:52:43Z"
+    }
+  },
+  {
+    "hash": "e597f5181745b8b2333468bb1fa5b067e19feb635ea5942f85bd60960d195c31",
+    "item": {
+      "title": "Please, FOSS world, we need something like ChromeOS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635640\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/07/21/foss_chromeos_please/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:39:23Z"
+    }
+  },
+  {
+    "hash": "8c0a3b5041de7dc0b63115e2a72e1764c58834b85651f9a7fb3629dea97b2553",
+    "item": {
+      "title": "I've launched 37 products in 5 years and not doing that again",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634340\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T12:27:24Z"
+    }
+  },
+  {
+    "hash": "1242287e146d16aa864d7b3c52672837cbdfe6bb3182ade8bab77109f9bb88f3",
+    "item": {
+      "title": "Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635919\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:58:07Z"
+    }
+  },
+  {
+    "hash": "69eb9d79368f42572ec04b1172ddea65be25aa25a7a45499d80668b5289caf43",
+    "item": {
+      "title": "Cryptocurrency exchanges begin offering tokenized securities",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634734\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T13:15:24Z"
+    }
+  },
+  {
+    "hash": "3c9593319b197da949eccc959fd8019f82e0c18c0d4de18e671ed12d879951e2",
+    "item": {
+      "title": "You can now buy eggs from in-ovo sexed hens",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44635363\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://optimistsbarn.substack.com/p/you-can-now-buy-eggs-from-in-ovo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T14:15:08Z"
+    }
+  },
+  {
+    "hash": "59a37b3fe2ed477f4688a7ee8014813f5d005b45ce0b60b0eb79c3e4b64836f9",
+    "item": {
+      "title": "What happens when housing prices go down?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634266\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://clmarohn.substack.com/p/what-happens-when-housing-prices"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T12:16:42Z"
+    }
+  },
+  {
+    "hash": "f61c197e9d77615d7847ead61983121684e8f7791e010178fd3e10d2f732306d",
+    "item": {
+      "title": "Man wearing metallic necklace dies after being sucked into MRI machine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/cx2n39dvp0po"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T00:40:43Z"
+    }
+  },
+  {
+    "hash": "9f65ce6b07ffeff6a2a06216c28f80bca349f151c8868ce973426c192e69d0ca",
+    "item": {
+      "title": "XSLT: A Precision Tool for the Future of Structured Transformation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633384\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.xml.com/articles/2025/07/19/xslt-precision-tool-future-structured-transformation/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T09:48:05Z"
+    }
+  },
+  {
+    "hash": "b83f82ad8707fdba33c155f99253911fa27f1afed1098ecb46bbe879c83014c6",
+    "item": {
+      "title": "A circle and a hyperbola living in one plot",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44604149\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tobylam.xyz/2024/05/24/circle-hyperbola"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-18T12:51:39Z"
+    }
+  },
+  {
+    "hash": "3e33d0d455a3ef46441625c638ec7f9d21c4e05fc9c6e4d0f55a5cecb4ffcb69",
+    "item": {
+      "title": "XRP News: Savvy Investors Turn to IOTA Miner Cloud Mining to Add a Steady Income Every Day",
+      "description": "\u003cp\u003eThe convenient, multi-currency cloud mining service provided by IOTA Miner caters to this demand, allowing investors to use existing crypto assets (including XRP) to open up new stable passive income positions in volatile markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-news-savvy-investors-turn-to-iota-miner-cloud-mining/\"\u003eXRP News: Savvy Investors Turn to IOTA Miner Cloud Mining to Add a Steady Income Every Day\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-news-savvy-investors-turn-to-iota-miner-cloud-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21140108/1753106467-xrp-news-savvy-investors-turn-to-iota-miner-cloud-mining.jpg"
+      },
+      "published": "2025-07-21T14:01:46Z"
+    }
+  },
+  {
+    "hash": "cb2d150a88216b91ab433e0cf684a2e09379beaf87f5583fac449e2dcc6ab429",
+    "item": {
+      "title": "Canada’s NextGen Digital Launches Crypto Treasury Strategy with $1M Bitcoin Acquisition",
+      "description": "\u003cp\u003eNextGen Digital Platforms Inc. has officially entered the world of corporate crypto treasury strategies with the acquisition of $1 million worth of Bitcoin. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/canadas-nextgen-digital-launches-crypto-treasury-strategy-with-1m-bitcoin-acquisition/\"\u003eCanada\u0026#8217;s NextGen Digital Launches Crypto Treasury Strategy with $1M Bitcoin Acquisition\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/canadas-nextgen-digital-launches-crypto-treasury-strategy-with-1m-bitcoin-acquisition/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Canada",
+        "NextGen Digital"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/29213824/1730237903-canadians-reluctant-to-adopt-digital-dollar-bank-of-canada-reports.jpg"
+      },
+      "published": "2025-07-21T13:35:20Z"
+    }
+  },
+  {
+    "hash": "09cb6b094a805863ec11803377e379cb1913896c43a0b05eec5551335507b08d",
+    "item": {
+      "title": "The US House of Representatives Passed the ‘GENIUS Act’ and OurCryptoMiner Platform Helped XRP Users Earn $4,300",
+      "description": "\u003cp\u003eWith the support of Trump, the U.S. House of Representatives passed the 'GENIUS Act', triggering a full-scale outbreak in the crypto market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/us-house-of-representatives-passed-genius-act-ourcryptominer-helped-xrp-users-earn-4300/\"\u003eThe US House of Representatives Passed the \u0026#8216;GENIUS Act\u0026#8217; and OurCryptoMiner Platform Helped XRP Users Earn $4,300\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/us-house-of-representatives-passed-genius-act-ourcryptominer-helped-xrp-users-earn-4300/"
+      ],
+      "categories": [
+        "Press Releases",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21133352/1753104832-us-house-of-representatives-passed-genius-act-ourcryptominer-helped-xrp-users-earn-4300.jpg"
+      },
+      "published": "2025-07-21T13:34:56Z"
+    }
+  },
+  {
+    "hash": "437683a2065ef62d0f398446522fcaa0187cae06a076e8fd59764a8eb903e754",
+    "item": {
+      "title": "TRON Generates $2M Daily With over $600B Stablecoin Volume – Can TRX Explode to $1?",
+      "description": "\u003cp\u003eThe TRON (TRX) blockchain has quietly emerged as a revenue juggernaut, generating a daily average of $2 million in transaction fees while hosting more than half of all circulating USDT and facilitating over $600 billion in monthly transaction volume.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tron-generates-2m-daily-with-over-600b-stablecoin-volume-can-trx-explode-to-1/\"\u003eTRON Generates $2M Daily With over $600B Stablecoin Volume – Can TRX Explode to $1?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tron-generates-2m-daily-with-over-600b-stablecoin-volume-can-trx-explode-to-1/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "$TRX",
+        "Tron"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21132140/1753104099-stock-image_optimized-17.jpg"
+      },
+      "published": "2025-07-21T13:28:39Z"
+    }
+  },
+  {
+    "hash": "a1a4368e090a3f29f367aa444307d2d6745444ff1c8dd55739af9f857e3b736f",
+    "item": {
+      "title": "XRP News Prediction: XRP Breaks through the Historical High of $3.60, with a Short-term Target of $4",
+      "description": "\u003cp\u003eThe market generally expects XRP to hit the $4.00 mark in the short term, and may test the $4.50-4.70 range in the medium term.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-news-prediction-breaks-historical-high/\"\u003eXRP News Prediction: XRP Breaks through the Historical High of $3.60, with a Short-term Target of $4\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-news-prediction-breaks-historical-high/"
+      ],
+      "categories": [
+        "Press Releases",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21131258/1753103577-xrp-news-prediction-breaks-historical-high.jpg"
+      },
+      "published": "2025-07-21T13:14:00Z"
+    }
+  },
+  {
+    "hash": "0d091079d850d8e94ccea57f5eda1c1e930c7c0aa40e6c3e13786e9eed3c1659",
+    "item": {
+      "title": "NYSE-Listed Sequans Buys 1,264 Bitcoin for $150M – Institutional Investors Coming?",
+      "description": "\u003cp\u003eNYSE-listed Sequans Communications has purchased an additional 1,264 Bitcoin for approximately $150 million at an average price of $118,659 per coin, bringing the French semiconductor company's total holdings to 2,317 Bitcoin.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nyse-listed-sequans-buys-1264-bitcoin-for-150m-institutional-investors-coming/\"\u003eNYSE-Listed Sequans Buys 1,264 Bitcoin for $150M – Institutional Investors Coming?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nyse-listed-sequans-buys-1264-bitcoin-for-150m-institutional-investors-coming/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21130959/1753103399-stock-image_optimized-44.jpg"
+      },
+      "published": "2025-07-21T13:12:17Z"
+    }
+  },
+  {
+    "hash": "0423ac8e07faa34bcc36e63691a7266bce3b267fa67946b6d158105e30aff35c",
+    "item": {
+      "title": "Trump Media Reveals Bitcoin Treasury Holdings Have Reached $2B",
+      "description": "\u003cp\u003eTrump Media and Technology Group Corp, the company behind Truth Social, Truth+, and the fintech platform Truth.Fi, announced it now holds approximately $2 billion in bitcoin and bitcoin-related securities.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-media-reveals-bitcoin-treasury-holdings-have-reached-2b/\"\u003eTrump Media Reveals Bitcoin Treasury Holdings Have Reached $2B\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-media-reveals-bitcoin-treasury-holdings-have-reached-2b/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Bitcoin Treasury",
+        "Trump Media"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/25135351/1750859631-xrp-btc-holders-joining-apt-miners-earning-passive-income-every-day.jpg"
+      },
+      "published": "2025-07-21T13:10:13Z"
+    }
+  },
+  {
+    "hash": "2dbaa200f51f3bbabcd6380a6402bb22dfc7462b4d0a9cbd8ab70d8b2bddc4d1",
+    "item": {
+      "title": "Bitcoin and XRP Prices Have Risen Sharply, and Cloud Mining Has Become a New Investment Trend",
+      "description": "\u003cp\u003eAgainst the backdrop of the continued surge in the global cryptocurrency market, the prices of Bitcoin (BTC) and Ripple (XRP) have broken new highs one after another, and investors are enthusiastic.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-xrp-prices-have-risen-cloud-mining-new-investment-trend/\"\u003eBitcoin and XRP Prices Have Risen Sharply, and Cloud Mining Has Become a New Investment Trend\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-xrp-prices-have-risen-cloud-mining-new-investment-trend/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21130451/1753103090-bitcoin-xrp-prices-have-risen-cloud-mining-new-investment-trend.jpg"
+      },
+      "published": "2025-07-21T13:06:56Z"
+    }
+  },
+  {
+    "hash": "71de9c5fb38bd693580cc2475f9d9ffad4f671a118c33ee815ba6fc357b3f828",
+    "item": {
+      "title": "Billionaire Michael Saylor Boosts Bitcoin Holdings with New 6,220 BTC Purchase",
+      "description": "\u003cp data-start=\"431\" data-end=\"733\"\u003eMichael Saylor has boosted Strategy’s Bitcoin reserves again, funding a 6,220-BTC purchase worth $739.8 million through four at-the-market equity offerings. The move raises corporate holdings to 607,770 BTC acquired for $43.61 billion and extends a 20.8 percent year-to-date gain.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/billionaire-michael-saylor-boosts-bitcoin-holdings-with-new-6220-btc-purchase/\"\u003eBillionaire Michael Saylor Boosts Bitcoin Holdings with New 6,220 BTC Purchase\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/billionaire-michael-saylor-boosts-bitcoin-holdings-with-new-6220-btc-purchase/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/10042547/stock-image_optimized-13.jpg"
+      },
+      "published": "2025-07-21T12:37:57Z"
+    }
   }
 ]
