@@ -1287,5 +1287,219 @@
       },
       "published": "2025-07-23T03:48:34Z"
     }
+  },
+  {
+    "hash": "485e7af9d5eeeb9d41ee63193607140733025e71deae56b5ee1740e3605fa77b",
+    "item": {
+      "title": "CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on July 22, 2025, added two Microsoft SharePoint flaws, CVE-2025-49704 and CVE-2025-49706, to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nTo that end, Federal Civilian Executive Branch (FCEB) agencies are required to remediate identified vulnerabilities by July 23, 2025.\n\"CISA is",
+      "links": [
+        "https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgAamceB4QBCVvWaAoL2Llw4ZrQ_zfqREWwtwEdLIQfyE_l-8yQFe1JlxJXyDT-_9Md27yHLoXRtYk9cA09e6J8JqJqdI-Mb4PT7fv8_y5fDjQyfNWZD3_g5muRCtsO0IPG1tb5QQSFbThZu_bcRRJtj5XgQu4Fnr5q8qHKjsGHo2OAqtCV2m-2V7JTf8/s1600/cisa.jpg"
+      },
+      "published": "2025-07-23T06:24:00Z"
+    }
+  },
+  {
+    "hash": "189743ef47d3fcfd6bc5fa27dab6e7d6a6bc9da63e7eeeef98f3ee684412a396",
+    "item": {
+      "title": "CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added two security flaws impacting SysAid IT support software to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-2775 (CVSS score: 9.3) - An improper restriction of XML external entity (XXE) reference vulnerability in the",
+      "links": [
+        "https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFEwQgrE7qAtgq6C1g6hUPYJ3hP_GfXMu8oycJUGPxE8nGAT5nPcoOHXqTk31Oznhh4kkNt0J1diP_RmOXynKOjIub0ZoNOS0DiQ7hB4UE7RWhR4BxBUT57DfLELkc9Tv656RCY4uG9hqc8ZUckT0Rbc2-pgTr7Nh0rCbIrs1F9HRxSOhRrBwHmf6T-moe/s1600/sysaid.jpg"
+      },
+      "published": "2025-07-23T06:23:00Z"
+    }
+  },
+  {
+    "hash": "e733b1b46b44d6626ce88a47c12bae61d5a5dcf7c98c00eac8a8a25473f08a32",
+    "item": {
+      "title": "Extending Emacs with Fennel (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656073\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-23T05:54:21Z"
+    }
+  },
+  {
+    "hash": "03e196babab20070650fedfe62e1d4709db9c33ad661c82e1ec7d175a8a4e28b",
+    "item": {
+      "title": "Rescuing two PDP-11s from a former British Telecom underground shelter (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656105\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-23T06:02:40Z"
+    }
+  },
+  {
+    "hash": "08c50fd1328e6b893315a238d1faa94de57c7b7a15c04254e0df8c27ce07b537",
+    "item": {
+      "title": "When Is WebAssembly Going to Get DOM Support?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655921\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://queue.acm.org/detail.cfm?id=3746174"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-23T05:16:24Z"
+    }
+  },
+  {
+    "hash": "11eae6d2e1aa84396595a79f91caaf00ff8ed83b814dd983ff51e6c665c04123",
+    "item": {
+      "title": "Show HN: WTFfmpeg – Natural Language to FFmpeg Translator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655632\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/scottvr/wtffmpeg"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-23T04:03:53Z"
+    }
+  },
+  {
+    "hash": "c0fe037e9e53118a8edd6aa36dddec9e3db2ebc56f02432539b14a77bf8b062e",
+    "item": {
+      "title": "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622637\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T07:02:03Z"
+    }
+  },
+  {
+    "hash": "fee980fb4003473a70949ef250d2fd7f331775f0ec22fc89bf05412b016de653",
+    "item": {
+      "title": "Depot (YC W23) Is Hiring a Technical Content Writer (Remote)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656654\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-23T07:34:30Z"
+    }
+  },
+  {
+    "hash": "c5bfef6a897df479a6a57c4e3f3264d39e4c345250c4bf71f7fdb4fcbf53f9b3",
+    "item": {
+      "title": "SubTropolis and KC's Limestone Caves",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632218\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kcyesterday.com/articles/subtropolis"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T06:10:57Z"
+    }
+  },
+  {
+    "hash": "f6f3512509a9a063fc8c5664789f26bd3cb7eb2cfadae5546469fe9f1bca216e",
+    "item": {
+      "title": "Fourier lightfield multiview stereoscope for large field-of-view 3D imaging",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626807\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-04/046008/Fourier-lightfield-multiview-stereoscope-for-large-field-of-view-3D/10.1117/1.APN.4.4.046008.full"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-20T16:35:57Z"
+    }
+  },
+  {
+    "hash": "3b30c20eb9d90fde674d77e07ca6bd702d6e6a7eb790b35525f9415653d762a6",
+    "item": {
+      "title": "PENGU Hits Record Volume, Token up Over 20% – How Far Will it Go?",
+      "description": "\u003cp\u003ePudgy Penguins (PENGU) has overtaken BONK and TRUMP to claim the top spot as the number 1 memecoin on Solana by market cap.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pengu-hits-record-volume-token-up-over-20-how-far-will-it-go/\"\u003ePENGU Hits Record Volume, Token up Over 20% – How Far Will it Go?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pengu-hits-record-volume-token-up-over-20-how-far-will-it-go/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Meme Coins",
+        "PENGU",
+        "Pudgy Penguins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/23082414/1753259054-image-1753259026069_optimized.jpg"
+      },
+      "published": "2025-07-23T08:28:06Z"
+    }
+  },
+  {
+    "hash": "8664ebd9b252e82b7fd46ea5a619e6ac7d22e34ec85869d3e901b5c5afb536c6",
+    "item": {
+      "title": "ASX-Listed DigitalX Adds Another $8.8M in Bitcoin, Boosts Holdings to Nearly 500 BTC",
+      "description": "\u003cp\u003eASX-listed cryptocurrency fund manager, DigitalX, has increased its Bitcoin holdings with the purchase of 74.7 BTC for approximately $8.8 million.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/asx-listed-digitalx-adds-another-8-8m-in-bitcoin/\"\u003eASX-Listed DigitalX Adds Another $8.8M in Bitcoin, Boosts Holdings to Nearly 500 BTC\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/asx-listed-digitalx-adds-another-8-8m-in-bitcoin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Australia",
+        "Bitcoin",
+        "Bitcoin Reserve"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/23072438/1753255478-image-1753255372934_optimized.jpg"
+      },
+      "published": "2025-07-23T07:30:24Z"
+    }
+  },
+  {
+    "hash": "0cb480d05fe443cb07b5d15b757c417048b6e3cfbefc5cdf28e2ea979f934160",
+    "item": {
+      "title": "Consensys Cuts 7% of Staff in Latest Crypto Industry Shake-Up: Report",
+      "description": "\u003cp\u003eConsensys is laying off 7% of its workforce, or 49 employees, as it restructures to boost profitability after acquiring Web3Auth.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/consensys-layoffs-cuts-7-pct-staff/\"\u003eConsensys Cuts 7% of Staff in Latest Crypto Industry Shake-Up: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/consensys-layoffs-cuts-7-pct-staff/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "ConsenSys"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/23070028/1753254027-image-1753253957553_optimized.jpg"
+      },
+      "published": "2025-07-23T07:06:18Z"
+    }
   }
 ]
