@@ -1673,5 +1673,582 @@
       },
       "published": "2025-07-24T09:17:46Z"
     }
+  },
+  {
+    "hash": "663c7762a05bb35a9ea0369cd6929f418f57990b7bf8accfd3f03be64fec83b4",
+    "item": {
+      "title": "SpaceX launches a pair of NASA satellites to probe the origins of space weather",
+      "description": "\"This is going to really help us understand how to predict space weather in the magnetosphere.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/07/spacex-launches-a-pair-of-nasa-satellites-to-probe-the-origins-of-space-weather/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "falcon 9",
+        "launch",
+        "NASA",
+        "space weather",
+        "spacex",
+        "TRACERS",
+        "Vandenberg space force base"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/solarwind_magneto-1152x648.jpg"
+      },
+      "published": "2025-07-24T12:12:09Z"
+    }
+  },
+  {
+    "hash": "3fb0df90b01f2388b2d42681607115680c58f274fd75324e10e88f630247b80a",
+    "item": {
+      "title": "Sophos and SonicWall Patch Critical RCE Flaws Affecting Firewalls and SMA 100 Devices",
+      "description": "Sophos and SonicWall have alerted users of critical security flaws in Sophos Firewall and Secure Mobile Access (SMA) 100 Series appliances that could be exploited to achieve remote code execution.\u0026nbsp;\nThe two vulnerabilities impacting Sophos Firewall are listed below -\n\nCVE-2025-6704 (CVSS score: 9.8) - An arbitrary file writing vulnerability in the Secure PDF eXchange (SPX) feature can lead",
+      "links": [
+        "https://thehackernews.com/2025/07/sophos-and-sonicwall-patch-critical-rce.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ6hZCXeBcj81MW3OHzDhkqd234YOI1mbUXoo7p5VgWM_cayVWYUG2C5APO-ueCyCRgm5MUjzlVA0d96qone2Pqhv32-mdnCH3LAcXBMvqBUcjBSj230tWRst064Mjtm4eBpnzPyvyiFHnaYTVrjn2EOpex0GZFoNpB8xpszAJ8TXWFdHB8qTvQJdH2xQH/s1600/sonic.jpg"
+      },
+      "published": "2025-07-24T14:14:00Z"
+    }
+  },
+  {
+    "hash": "0b300f13cf0432639f8353eb5fc38d33825a3c0a00e1edcd8fce86add16e2f9f",
+    "item": {
+      "title": "Wayback 0.1 released",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/\"\u003eVersion\n0.1\u003c/a\u003e of the \u003ca href=\"https://wayback.freedesktop.org/\"\u003eWayback\u003c/a\u003e\nproject has been released:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eWayback is an X11 compatibility layer that allows for running full\nX11-only desktop environments using Wayland. It is essentially an X11\nserver backed by Wayland, leveraging \u003ca href=\"https://gitlab.freedesktop.org/wlroots\"\u003ewlroots\u003c/a\u003e and \u003ctt\u003eXwayland\u003c/tt\u003e. Our goal is\nfor Wayback to eventually be a completely drop-in replacement to the\n\u003ctt\u003eXorg\u003c/tt\u003e binary, thus reducing maintenance burden for distro\nmaintainers.\u003c/p\u003e\n\n\u003cp\u003eEver since Wayback was announced on \u003ca href=\"https://social.treehouse.systems/@ariadne/114763023239748529\"\u003eJune\u0026#160;28\u003c/a\u003e, we have been making lots\nof progress to get it as stable and functional as possible, and while\nthis is a preview release it is already daily-driveable by users with\nsimple requirements, as long as they don't mind bugs.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eThe release is considered alpha-quality and is missing a number of\nfeatures, including \u003ca\nhref=\"https://gitlab.freedesktop.org/wayback/wayback/-/issues/8\"\u003emulti-monitor\nsupport\u003c/a\u003e and \u003ca\nhref=\"https://gitlab.freedesktop.org/wayback/wayback/-/issues/55\"\u003eDPMS\u003c/a\u003e,\nbut adventurous users can find the code \u003ca\nhref=\"https://gitlab.freedesktop.org/wayback/wayback/-/releases/0.1\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1031287/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-07-24T14:19:41Z"
+    }
+  },
+  {
+    "hash": "9b66ee88636ed5e6acf9eb9ef077f12a50312f67d665891b9b85f0fcf8f88449",
+    "item": {
+      "title": "Four new stable kernels",
+      "description": "The \u003ca href=\"https://lwn.net/Articles/1031281/\"\u003e6.15.8\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1031282/\"\u003e6.12.40\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1031284/\"\u003e6.6.100\u003c/a\u003e, and \u003ca\nhref=\"https://lwn.net/Articles/1031285/\"\u003e6.1.147\u003c/a\u003e stable kernels have been released.\nEach contains important fixes throughout the kernel tree, as usual.",
+      "links": [
+        "https://lwn.net/Articles/1031280/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-07-24T13:43:10Z"
+    }
+  },
+  {
+    "hash": "eb330d2aab9019517e392d62ad580193f171900cb1667787454be8f3853e1e4f",
+    "item": {
+      "title": "[$] Graphene OS: a security-enhanced Android build",
+      "description": "People tend to put a lot of trust into their phones.  Those devices have\naccess to no end of sensitive data about our lives — our movements,\nfinances, communications, and more — so phones belonging to even relatively\nlow-profile people can be high-value targets.  Android devices run free\nsoftware, at least at some levels, so it should be possible to ensure that\nthey are working in their owners' interests.  Off-the-shelf Android\ninstallations tend to fall short of that goal.  The \u003ca\nhref=\"https://grapheneos.org/\"\u003eGrapheneOS\u003c/a\u003e Android rebuild is an attempt\nto improve on that situation.",
+      "links": [
+        "https://lwn.net/Articles/1030004/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-24T13:38:08Z"
+    }
+  },
+  {
+    "hash": "df0679db5d1cefe5b352ba73f3c22d5b06421f84eeb63fd5a6872b585a2b4015",
+    "item": {
+      "title": "Security updates for Thursday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (chromium, firefox-esr, and mediawiki), \u003cb\u003eFedora\u003c/b\u003e (firefox), \u003cb\u003eOracle\u003c/b\u003e (git, kernel, redis, and sudo), \u003cb\u003eRed Hat\u003c/b\u003e (aardvark-dns, firefox, kernel, and thunderbird), \u003cb\u003eSlackware\u003c/b\u003e (httpd), \u003cb\u003eSUSE\u003c/b\u003e (php7, php8, and salt), and \u003cb\u003eUbuntu\u003c/b\u003e (linux-raspi-realtime and ruby-rack).",
+      "links": [
+        "https://lwn.net/Articles/1031274/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-07-24T13:35:13Z"
+    }
+  },
+  {
+    "hash": "e36f4a3eea62c9e110c22a5e767a40b7086e888e783d9036a33e79041de274ef",
+    "item": {
+      "title": "MEXC Celebrates StablR Euro (EURR) Listing With Exclusive Launchpool Event Featuring 85,000 USDT",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-64.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-64.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-64-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-64-768x448.jpg 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, today announced it will launch a special Launchpool event to mark the listing of StablR Euro (EURR), a Euro-backed stablecoin. The event will run from July 24, 11:00 to July 28, 11:00 (UTC) and offers users the opportunity to share an 85,000 USDT prize",
+      "links": [
+        "https://thenewscrypto.com/mexc-celebrates-stablr-euro-eurr-listing-with-exclusive-launchpool-event-featuring-85000-usdt/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-64.jpg"
+      },
+      "published": "2025-07-24T11:00:00Z"
+    }
+  },
+  {
+    "hash": "bc1c9033c230bf9533cd3c1f571b85474450407f12b910781d8a83a480a2eeb4",
+    "item": {
+      "title": "Miracle Chain Debuts With Fully Operational Blockchain Infrastructure From Day One",
+      "description": "\u003cp\u003e\u003cimg width=\"1870\" height=\"1038\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image.png 1870w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image-300x167.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image-1024x568.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image-768x426.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image-1536x853.png 1536w\" sizes=\"(max-width: 1870px) 100vw, 1870px\" /\u003e\u003c/p\u003eMiracle Chain launches with a fully operational blockchain ecosystem designed to power real-world businesses through automation and transparency. With integrated products and a dual-token economy, it delivers immediate utility and sustainable growth from day one.  Miracle Chain, a next-generation blockchain network designed to support real-world business models through automation, transparency, and",
+      "links": [
+        "https://thenewscrypto.com/miracle-chain-debuts-with-fully-operational-blockchain-infrastructure-from-day-one/"
+      ],
+      "categories": [
+        "Press Release",
+        "Miracle Chain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/cover-image.png"
+      },
+      "published": "2025-07-24T10:18:06Z"
+    }
+  },
+  {
+    "hash": "6e06636eb53d31fb912751e92b92ad09cc455b8541f4ec0454615b3f4f6ea9da",
+    "item": {
+      "title": "Dogwifhat Crashes 17% as Bulls Meet Fierce Resistance at $1.33",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/dogwifhat-Markets1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogwifhat Crashes 17% as Bulls Meet Fierce Resistance at $1.33\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/dogwifhat-Markets1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/dogwifhat-Markets1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/dogwifhat-Markets1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDogwifhat (WIF) has been experiencing a lot of selling pressure since it has been rejected strongly by the critical long-term resistance level of $1.3348. As per CMC data, this refusal has caused a significant correction, as the memcoin has fallen by about 17% over the past 24 hours and 22%",
+      "links": [
+        "https://thenewscrypto.com/dogwifhat-crashes-17-as-bulls-meet-fierce-resistance-at-1-33/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Dogwifhat",
+        "Dogwifhat (WIF)",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/dogwifhat-Markets1.jpg"
+      },
+      "published": "2025-07-24T10:03:35Z"
+    }
+  },
+  {
+    "hash": "e87e674f6ea46950c27aa7fddd9ce60cceae36e7e598f8b55ca3a7ca71bd278a",
+    "item": {
+      "title": "HODL Unites Dubai \u0026 Riyadh for a Landmark Blockchain Roadshow Across the Middle East",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"256\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-31.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"HODL Unites Dubai \u0026amp; Riyadh for a Landmark Blockchain Roadshow Across the Middle East\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-31.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-31-300x150.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003e HODL, the OG of Web3 and crypto summits, is back to break more ground — this time with a back-to-back Middle East roadshow in Dubai (30–31 Oct) and Riyadh (3–4 Nov) that promises seven days of pure alpha, deal-making, and decentralized disruption. After setting the bar in early 2025 with",
+      "links": [
+        "https://thenewscrypto.com/hodl-unites-dubai-riyadh-for-a-landmark-blockchain-roadshow-across-the-middle-east/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Dubai",
+        "HODL"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-31.jpg"
+      },
+      "published": "2025-07-24T08:02:11Z"
+    }
+  },
+  {
+    "hash": "f848ca347d33ca09defb50360a282938964664c230e4e350a135a7cd9d0092e4",
+    "item": {
+      "title": "Crypto Markets Experience Correction Amid Derivatives Liquidation",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Why-is-the-Crypto-Market-Going-Down-Today.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Markets Experience Correction Amid Derivatives Liquidation\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Why-is-the-Crypto-Market-Going-Down-Today.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Why-is-the-Crypto-Market-Going-Down-Today-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Why-is-the-Crypto-Market-Going-Down-Today-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe digital assets market was under pressure today as investors observed a broad-based decline in the prices of major cryptocurrencies. The overall market capitalization fell by 3.24% currently stands at $3.8 trillion, which indicates a significant change in the mood of the market. Bitcoin was relatively stable as altcoins showed",
+      "links": [
+        "https://thenewscrypto.com/crypto-markets-experience-correction-amid-derivatives-liquidation/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto crash",
+        "Crypto Market"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Why-is-the-Crypto-Market-Going-Down-Today.jpg"
+      },
+      "published": "2025-07-24T07:57:54Z"
+    }
+  },
+  {
+    "hash": "b30dbee06a9d519e1353bd17aad42782e92d9840b41a032e8706ea262531745a",
+    "item": {
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671373\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://avi.im/blag/2025/sqlite-wal-checksum/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T14:48:04Z"
+    }
+  },
+  {
+    "hash": "5a4674475028ac5ba14df821d94d379233b7defbefd6e318a9d11f7249a13ba1",
+    "item": {
+      "title": "Vet is a safety net for the risky curl | bash pattern",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669998\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/vet-run/vet"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T12:47:29Z"
+    }
+  },
+  {
+    "hash": "6a5a2c134df66a986b9d5590ce32297b546c7718de8d0701d5237602e76022d3",
+    "item": {
+      "title": "Wix: Introduce the Open Source Maintenance Fee",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669858\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/wixtoolset/issues/issues/8974"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T12:29:35Z"
+    }
+  },
+  {
+    "hash": "5777b3052ac3271c11c74e3110097feaf52af04581de970662d840e457d69893",
+    "item": {
+      "title": "Web fingerprinting is worse than I thought (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669853\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T12:28:31Z"
+    }
+  },
+  {
+    "hash": "941d8730cecdbba9d6e0ed66a5996cc7022e34e033b12fdd0ff3226e6bfeb841",
+    "item": {
+      "title": "Covers as a way of learning music and code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44636240\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ntietz.com/blog/covers-as-a-way-of-learning/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T15:20:49Z"
+    }
+  },
+  {
+    "hash": "79667d0b8a5e3961db876dae613c1f26bba96b9c40f0479399e61bd3bb072738",
+    "item": {
+      "title": "AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670624\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T13:46:14Z"
+    }
+  },
+  {
+    "hash": "4a26ebcc98c7483121885744b49e5cbc370c0f3783f714960b0dec3edab816f2",
+    "item": {
+      "title": "Writing is thinking",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632314\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/s44222-025-00323-4"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T06:30:21Z"
+    }
+  },
+  {
+    "hash": "59c2bf518070b947161f04e378075e10c08e7c7385b1b190e77d3c89d35dfb2d",
+    "item": {
+      "title": "XOR_singleheader: Header-only binary fuse and XOR filter library",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669318\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/FastFilter/xor_singleheader"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T11:09:26Z"
+    }
+  },
+  {
+    "hash": "ab2004b325d14f18058411ad9a86bf38786e296370dc99a6dcbef1b0d0321426",
+    "item": {
+      "title": "You can't outrun a bad diet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670590\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T13:42:03Z"
+    }
+  },
+  {
+    "hash": "851ae9bfa7400c1ae22372d43885342941c16f9733c7b32761223ba0d9e2537f",
+    "item": {
+      "title": "Shattering the rotation illusion: The attacker view and AWSKeyLockdown (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44667472\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T06:07:17Z"
+    }
+  },
+  {
+    "hash": "5c556067ecac8a209a36e0ea83205b72241f2588ea3134a60614f8b81d896abe",
+    "item": {
+      "title": "Colodebug: A simple way to improve bash script debugging (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://johannes.truschnigg.info/writing/2021-12_colodebug/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T08:19:29Z"
+    }
+  },
+  {
+    "hash": "bba945a3f06aec0c46f7e0e6bcf059aaadaf95c1523df94eb5a68945fcab068d",
+    "item": {
+      "title": "Ubuntu Concept For Snapdragon X1 Laptops Moves To Linux 6.16, Enables More Devices",
+      "description": "The Ubuntu Concept ISO images that contain experimental patches -- or \"hacks\" to make things work -- to enable Ubuntu Linux on the Qualcomm Snapdragon X1 Elite powered laptops is out with a fresh spin. The new Ubuntu Concept ISOs move to using the Linux 6.16 kernel while also enabling some additional Snapdragon X laptop models...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-Concept-Linux-6.16-X1E"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-24T12:52:36Z"
+    }
+  },
+  {
+    "hash": "27ad368206069e62bf84c90f230da2452af33a3635d327517f09f8cc50b99b91",
+    "item": {
+      "title": "Ghana Moves to License and Regulate Crypto Platforms Amid Growing Adoption",
+      "description": "\u003cp\u003eGhana's central bank plans to finalize a comprehensive regulatory framework for cryptocurrency platforms and submit it to parliament by September 2025, marking a significant shift toward mainstream adoption of digital assets in West Africa's second-largest economy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ghana-moves-to-license-and-regulate-crypto-platforms-amid-growing-adoption/\"\u003eGhana Moves to License and Regulate Crypto Platforms Amid Growing Adoption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ghana-moves-to-license-and-regulate-crypto-platforms-amid-growing-adoption/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Africa",
+        "crypto adoption"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-07-24T15:09:21Z"
+    }
+  },
+  {
+    "hash": "236114777cc843143a38661733188ab4c8ac64e413c559d75b8599a3fa73bd89",
+    "item": {
+      "title": "Google Integrates with Self, Leveling Up Enterprise ZK Adoption",
+      "description": "\u003cp\u003eZK-powered identity protocol Self and Google Cloud have partnered to support the Web3 developer ecosystem with new AI capabilities.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/google-integrates-with-self-leveling-up-enterprise-zk-adoption/\"\u003eGoogle Integrates with Self, Leveling Up Enterprise ZK Adoption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/google-integrates-with-self-leveling-up-enterprise-zk-adoption/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Google",
+        "Security",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-07-24T15:08:29Z"
+    }
+  },
+  {
+    "hash": "3189ecd6a4a397c7c521a58aa4a9b5e3be8502aa76b6edff340dbe4f4bb7276c",
+    "item": {
+      "title": "Ledger Launches Recovery Key, a Physical ‘Spare Key’",
+      "description": "\u003cp\u003eLedger has released Ledger Recovery Key, an optional 'physical spare key' that makes accessing digital assets “as easy as tapping a card and entering a PIN.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ledger-launches-recovery-key-a-physical-spare-key/\"\u003eLedger Launches Recovery Key, a Physical \u0026#8216;Spare Key\u0026#8217;\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ledger-launches-recovery-key-a-physical-spare-key/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Ledger",
+        "Security",
+        "Wallet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24122635/1753359994-ledger-recovery-key.jpg"
+      },
+      "published": "2025-07-24T15:04:51Z"
+    }
+  },
+  {
+    "hash": "4834a311011b87a2b02a432d33483c0f0378da92297822f196f0728e661947d9",
+    "item": {
+      "title": "Pengu Price Prediction: Pudgy Penguins Token Blasts 433% – Next Dogecoin or Shiba Inu?",
+      "description": "\u003cp\u003ePudgy Penguins (PENGU) has surged 433% over the past 30 days, fueled by Canary Capital’s push to launch an ETF tied to the meme coin.The move has supercharged a bullish PENGU price prediction and injected fresh momentum into Solana-based meme assets.Apart from PENGU, Bonk (BONK), the largest Solana-based meme coin by market cap, has managed [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pengu-price-prediction-pudgy-penguins-token-blasts-433-next-dogecoin-or-shiba-inu/\"\u003ePengu Price Prediction: Pudgy Penguins Token Blasts 433% – Next Dogecoin or Shiba Inu?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pengu-price-prediction-pudgy-penguins-token-blasts-433-next-dogecoin-or-shiba-inu/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "PENGU",
+        "Pudgy Penguins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24124724/1753361243-pengu-price-prediction.jpg"
+      },
+      "published": "2025-07-24T13:34:01Z"
+    }
+  },
+  {
+    "hash": "0ed9db802ebcf73214cb9227e26caba861be121f578df8d9d0c5d6be743db0c4",
+    "item": {
+      "title": "Binance to Accept Circle’s Yield-Bearing Stablecoin USYC as Institutional Collateral",
+      "description": "\u003cp\u003eCircle Internet Group, Inc. (NYSE: CRCL) has announced a new partnership with Binance, the largest global digital asset exchange, to bring yield-bearing stablecoin USYC into Binance’s institutional trading platform.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-to-accept-circles-yield-bearing-stablecoin-usyc-as-institutional-collateral/\"\u003eBinance to Accept Circle’s Yield-Bearing Stablecoin USYC as Institutional Collateral\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-to-accept-circles-yield-bearing-stablecoin-usyc-as-institutional-collateral/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Binance",
+        "Circle",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/29052331/1730179411-image-1730179370967_optimized.jpg"
+      },
+      "published": "2025-07-24T13:25:33Z"
+    }
+  },
+  {
+    "hash": "4dbefb15502bce6589e5d34083565caae9984eb136b553ca8c41579b29ce7440",
+    "item": {
+      "title": "Trump’s World Liberty Financial Snags 562 ETH with $2M as Buying Spree Intensifies – Is an ETH Price Pump Next?",
+      "description": "\u003cp\u003eWorld Liberty Financial, linked to Donald Trump, has expanded its Ethereum position, pushing its total holdings to nearly 77,000 ETH worth about $281 million.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trumps-world-liberty-financial-snags-562-eth-with-2m-as-buying-spree-intensifies-is-an-eth-price-pump-next/\"\u003eTrump’s World Liberty Financial Snags 562 ETH with $2M as Buying Spree Intensifies \u0026#8211; Is an ETH Price Pump Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trumps-world-liberty-financial-snags-562-eth-with-2m-as-buying-spree-intensifies-is-an-eth-price-pump-next/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Ethereum",
+        "Trump",
+        "World Liberty Financial"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24101819/1753352299-d319670f-ea05-4015-bf2c-736ae4f2073f_optimized.jpg"
+      },
+      "published": "2025-07-24T12:37:25Z"
+    }
+  },
+  {
+    "hash": "18ec57ee4966d0aff0c0d256a66510c25d0d8c7e38c27627366ad93bd261c132",
+    "item": {
+      "title": "Appeals Court Overturns $9M Yuga Labs Victory Against Ryder Ripps in BAYC Case",
+      "description": "\u003cp\u003eThe United States Court of Appeals for the Ninth Circuit has largely overturned a district court's $9 million judgment in favor of Bored Ape Yacht Club creator Yuga Labs, dealing a significant blow to the NFT company's landmark trademark victory against artist Ryder Ripps.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/appeals-court-overturns-9m-yuga-labs-victory-against-ryder-ripps-in-bayc-case/\"\u003eAppeals Court Overturns $9M Yuga Labs Victory Against Ryder Ripps in BAYC Case\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/appeals-court-overturns-9m-yuga-labs-victory-against-ryder-ripps-in-bayc-case/"
+      ],
+      "categories": [
+        "NFT News",
+        "NFTs",
+        "Yuga Labs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24084436/1753346676-image-1753346650631_optimized.jpg"
+      },
+      "published": "2025-07-24T12:25:45Z"
+    }
   }
 ]
