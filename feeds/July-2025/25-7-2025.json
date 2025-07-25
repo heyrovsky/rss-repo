@@ -1,0 +1,456 @@
+[
+  {
+    "hash": "5c0a2f80db2104b49be6689d959454fa53ec0f5cb984e6095f965c074874e501",
+    "item": {
+      "title": "Two major AI coding tools wiped out user data after making cascading mistakes",
+      "description": "\"I have failed you completely and catastrophically,\" wrote Gemini.",
+      "links": [
+        "https://arstechnica.com/information-technology/2025/07/ai-coding-assistants-chase-phantoms-destroy-real-user-data/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI assistants",
+        "AI behavior",
+        "AI coding",
+        "AI confabulation",
+        "AI development",
+        "AI development tools",
+        "AI failures",
+        "AI hallucination",
+        "chatbots",
+        "confabulations",
+        "data science",
+        "Gemini CLI",
+        "generative ai",
+        "google",
+        "Jason Lemkin",
+        "large language models",
+        "machine learning",
+        "multimodal AI",
+        "Programming",
+        "Replit",
+        "vibe coding"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/robot_haywire_hero_2-1152x648.jpg"
+      },
+      "published": "2025-07-24T21:01:28Z"
+    }
+  },
+  {
+    "hash": "67bcdc6cec95a6a636e39e9e5a43681ce333f02b39835bf711c5c373168d8867",
+    "item": {
+      "title": "Vulkan + Mesa Drivers For AI Inferencing? It's Already Showing Potential On Radeon RADV",
+      "description": "Following the Vulkanised 2025 presentation how NVIDIA is finding great success with Vulkan for AI / machine learning and already competitive to CUDA in some areas, Red Hat engineer and DRM subsystem lead maintainer David Airlie began exploring the potential of Mesa Vulkan drivers for AI inferencing. He was successful in using the Intel ANV, NVIDIA NVK, and Radeon RADV drivers for Vulkan-based AI inferencing while for the Radeon hardware tested is where it's showing the most potential (performance) at the moment and for even competing with the ROCm compute stack...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-Vulkan-AI-RADV-Potential"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-24T23:42:00Z"
+    }
+  },
+  {
+    "hash": "6d1c3d0e2cf071166fb35f0c614a5dc0a1318377a4c5af727b38cce2af4ae856",
+    "item": {
+      "title": "New AMD Linux Driver Ushers In Seamless Firmware Servicing \"SFS\"",
+      "description": "A new Linux driver patch series posted by AMD today introduces a new kernel driver \"SFS\" for Seamless Firmware Servicing. I hadn't heard AMD talk about Seamless Firmware Servicing at any previous events but it appears to be supported for current-generation AMD EPYC 5th Gen \"Turin\" processors...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Seamless-Firmware-Servicing"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-24T21:58:57Z"
+    }
+  },
+  {
+    "hash": "ca5d4dd07d26c896cd3fc8e573f45345d891c9bb141f8bf86d751049a9ced417",
+    "item": {
+      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676817\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T21:59:19Z"
+    }
+  },
+  {
+    "hash": "bf96a8ca5700fc54869081d635f1b7936c62acb28fbea8d2c2ff32712c42a82c",
+    "item": {
+      "title": "Graphene OS: a security-enhanced Android build",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676691\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T21:48:53Z"
+    }
+  },
+  {
+    "hash": "17ebbb5e18844aff1e9f19a464a358f61a1e61abcb1977cc2673dab01939a0e0",
+    "item": {
+      "title": "Positron – A next-generation data science IDE",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634598\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://positron.posit.co/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T12:59:56Z"
+    }
+  },
+  {
+    "hash": "9d71358b150ff436644c875249cb056116a6fb745111b8b3ffc126cf03ec2705",
+    "item": {
+      "title": "New Aarch64 Back End",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676315\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ziglang.org/devlog/2025/#2025-07-23"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T21:20:01Z"
+    }
+  },
+  {
+    "hash": "f10a48f75e9d7626a0d9154045216cc0bfb41e3e2a5d9e6db2272f2beea8c92d",
+    "item": {
+      "title": "Visa and Mastercard: The global payment duopoly (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676559\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T21:39:08Z"
+    }
+  },
+  {
+    "hash": "33018e634d90e360dffbdcbb7b43f0f4fe6fa8333ded4fd0b2e716a9fd9e3135",
+    "item": {
+      "title": "A GPU Calculator That Helps Calculate What GPU to Use",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676961\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://calculator.inference.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T22:14:20Z"
+    }
+  },
+  {
+    "hash": "6f28e1acd88fd7e67853730631b78c0074133b48eb77b9373982d39f2d1b51a2",
+    "item": {
+      "title": "Why concatenative programming matters (2012)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634576\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T12:57:26Z"
+    }
+  },
+  {
+    "hash": "51ecc539a2b85fd8b2f159dc7666f145added6cb6969249637b28c45fea3509e",
+    "item": {
+      "title": "Revisiting Moneyball",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676348\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T21:22:15Z"
+    }
+  },
+  {
+    "hash": "b2418a0defbb2a36b29caae3357ef78713c059ee4b4d2987b1d5d4520f72ccab",
+    "item": {
+      "title": "RE#: High performance derivative-based regular expression matching (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633024\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2407.20479"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T08:42:05Z"
+    }
+  },
+  {
+    "hash": "b7ce6ac9eb103ad980059cd86d648c60946cfec8a4dc157c0312ae471092074f",
+    "item": {
+      "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44674123\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T18:16:03Z"
+    }
+  },
+  {
+    "hash": "9e215840403522c9ab1f03bce099d256f41568ac4a3d51b0c0047fed2193b8bb",
+    "item": {
+      "title": "Intel CEO Letter to Employees",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675965\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T20:52:41Z"
+    }
+  },
+  {
+    "hash": "48b648846daf227a6217edfdfdd599e0bb444965488f0a337f3bbd0fca025e6b",
+    "item": {
+      "title": "Superfunctions: A universal solution against sync/async fragmentation in Python",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634030\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pomponchik/transfunctions"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T11:39:48Z"
+    }
+  },
+  {
+    "hash": "8f8cd40309416a29dc07186a3c2367d2549be3efaaf800067c80d9a91173030f",
+    "item": {
+      "title": "American sentenced for helping North Koreans get jobs at U.S. firms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675691\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T20:28:58Z"
+    }
+  },
+  {
+    "hash": "0f29f31dd8f8386543d787e256843989932fa8b74af41d7716e6cc6516f09c8e",
+    "item": {
+      "title": "Mwm – The smallest usable X11 window manager",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634208\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/lslvr/mwm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T12:04:49Z"
+    }
+  },
+  {
+    "hash": "1a728a371aa6a0ec3715d8307e909736729dc193d9065f0f270df103322c61fc",
+    "item": {
+      "title": "Show HN: Easy Python Time Parsing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633522\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/felixnext/python-time-helper"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-21T10:17:21Z"
+    }
+  },
+  {
+    "hash": "f4d4ce7c64e550cd0c8b474371879f583d49f817ae5b402dfd4b87c1620cf13e",
+    "item": {
+      "title": "Building MCP servers for ChatGPT and API integrations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676066\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://platform.openai.com/docs/mcp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-24T20:59:25Z"
+    }
+  },
+  {
+    "hash": "aa23e37040cfa67f84d895a2eb32c32364afeb9dbb55ef30b69c5aedfff83362",
+    "item": {
+      "title": "Russia Reports x10 Rise In Registered Crypto Mining Firms",
+      "description": "\u003cp\u003eA senior Russian lawmaker says the number of crypto miners signed up to the Federal Tax Service’s register has risen tenfold in the past six months.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/russian-authorities-report-x10-rise-in-registered-crypto-mining-firms/\"\u003eRussia Reports x10 Rise In Registered Crypto Mining Firms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/russian-authorities-report-x10-rise-in-registered-crypto-mining-firms/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Mining",
+        "Russia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24142941/1753367381-image-1753367177226_optimized.jpg"
+      },
+      "published": "2025-07-24T23:30:00Z"
+    }
+  },
+  {
+    "hash": "5adafb5b4489fb65d940f02e30f03b5b5cadcd27008f78dee4fdae78f2f45c13",
+    "item": {
+      "title": "Leading AI Claude Predicts the Price of XRP, Shiba Inu and Pi Coin by the End of 2025",
+      "description": "\u003cp data-start=\"407\" data-end=\"724\"\u003eClaude predicts that the crypto upswing has extended beyond Bitcoin, which has broken $122.8K, suggesting several altcoins could set fresh highs by late 2025. XRP has been projected to reach $20, SHIB has been eyed near $0.0001, and Pi Network could approach $100 if present adoption trends hold.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/leading-ai-claude-predicts-the-price-of-xrp-shiba-inu-and-pi-coin-by-the-end-of-2025/\"\u003eLeading AI Claude Predicts the Price of XRP, Shiba Inu and Pi Coin by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/leading-ai-claude-predicts-the-price-of-xrp-shiba-inu-and-pi-coin-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Pi Network",
+        "Shiba inu",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24154836/AI-Claude-Predicts-the-Price-2.jpg"
+      },
+      "published": "2025-07-24T22:30:00Z"
+    }
+  },
+  {
+    "hash": "091df6125db94d7daf6b50e0c80e5d05e25d85d64ddff5eed82ccc2c28f27de4",
+    "item": {
+      "title": "Crypto Price Prediction Today 24 July – XRP, Solana, Dogecoin",
+      "description": "\u003cp data-start=\"405\" data-end=\"717\"\u003eCrypto price prediction today covers Bitcoin’s record $122,838 surge and 3.5% pullback that has softened the market RSI. XRP’s $3.65 milestone, Solana’s bounce near $200, and Dogecoin’s 31% weekly rise have sustained optimism as traders watch correction zones and chart targets for Q3 highs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-price-prediction-today-24-july-xrp-solana-dogecoin/\"\u003eCrypto Price Prediction Today 24 July – XRP, Solana, Dogecoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-price-prediction-today-24-july-xrp-solana-dogecoin/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24121846/Crypto-Price-Prediction-31.jpg"
+      },
+      "published": "2025-07-24T22:30:00Z"
+    }
+  },
+  {
+    "hash": "bef633cfa32380bf0ba6d67cfaed9accca67daf02d19de8f306374978c488c5f",
+    "item": {
+      "title": "NYC Crypto Torture Case Suspects Granted Million Dollar Bail",
+      "description": "\u003cp data-start=\"403\" data-end=\"740\"\u003eNYC Crypto suspects William Duplessie and John Woeltz have secured $1 million bail while the court reviews claims they bound, shocked, and threatened a 28-year-old SoHo man to seize his Bitcoin. Mayor Eric Adams’ detail faces scrutiny after two officers allegedly drove the victim to the townhouse.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nyc-crypto-torture-case-suspects-granted-million-dollar-bail/\"\u003eNYC Crypto Torture Case Suspects Granted Million Dollar Bail\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nyc-crypto-torture-case-suspects-granted-million-dollar-bail/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "Crypto crime",
+        "New York"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24211050/1753391449-julia_63915_the_streets_of_new_york_manhattan_overlaif_with_cry_8ae6f2b8-95a0-47ff-9948-0293ed3c8d98_optimized-2.jpg"
+      },
+      "published": "2025-07-24T21:36:17Z"
+    }
+  },
+  {
+    "hash": "a4e9653b5aa19c736b2bcc79264b5550c2bc603a9f30335f5344d94c9fa4f98f",
+    "item": {
+      "title": "Shiba Inu Price Prediction: Burn Rate Surges 6,500% in 24 Hours – SHIB Preparing for a 5x Rally",
+      "description": "\u003cp\u003eThe Shiba Inu price has plunged by 7.5% in the past 24 hours, but is its burn rate about to help it climb to new highs?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-burn-rate-surges-6500-in-24-hours-shib-preparing-for-a-5x-rally/\"\u003eShiba Inu Price Prediction: Burn Rate Surges 6,500% in 24 Hours – SHIB Preparing for a 5x Rally\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-burn-rate-surges-6500-in-24-hours-shib-preparing-for-a-5x-rally/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Meme Coins",
+        "Price Prediction",
+        "SHIB"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24122631/1753359990-shiba-inu-price-prediction.jpg"
+      },
+      "published": "2025-07-24T21:27:00Z"
+    }
+  },
+  {
+    "hash": "326e910ca5af8e8b58bcf946a9f6993f93a512ced1b4e46e72c05f7e940a8fd8",
+    "item": {
+      "title": "Michael Saylor’s Strategy Boosts Bitcoin War Chest With $2B Raise – Bloomberg",
+      "description": "\u003cp data-start=\"400\" data-end=\"689\"\u003eMichael Saylor's Strategy has expanded its Stretch preferred stock offering to $2B, cutting the issue price to $90 amid heightened demand. The firm has stated proceeds will fund further Bitcoin purchases, even as a Delaware suit has contested recent share amendments.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/michael-saylors-strategy-boosts-bitcoin-war-chest-with-2b-raise-bloomberg/\"\u003eMichael Saylor’s Strategy Boosts Bitcoin War Chest With $2B Raise – Bloomberg\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/michael-saylors-strategy-boosts-bitcoin-war-chest-with-2b-raise-bloomberg/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24170432/1753376672-4e63085a-c733-4e7a-8bea-4264c2a6e77f_optimized.jpg"
+      },
+      "published": "2025-07-24T21:19:01Z"
+    }
+  },
+  {
+    "hash": "c52273114631492c55ffd6e386972e8d66beb075064208a3d32c2a3ae984d7dc",
+    "item": {
+      "title": "ChatGPT’s 42-Indicator Bitcoin Analysis Flags Key $120K Test Amid Altseason Uncertainty",
+      "description": "\u003cp\u003eChatGPT's BTC Analysis has reviewed 42 indicators showing Bitcoin steady at $118,688, 16.6% above its 200-day EMA. RSI 63.83 aligns with expanding treasuries at Genius Group, Goldman Sachs, and BNY, balancing altseason rotation and quantum security worries over the next 90 days.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/chatgpts-42-indicator-btc-analysis-flags-critical-120k-test-amid-altseason-uncertainty-and-treasury-surge/\"\u003eChatGPT\u0026#8217;s 42-Indicator Bitcoin Analysis Flags Key $120K Test Amid Altseason Uncertainty\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/chatgpts-42-indicator-btc-analysis-flags-critical-120k-test-amid-altseason-uncertainty-and-treasury-surge/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "ChatGPT",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/24201907/1753388346-chatgpt-image-jul-24-2025-03_18_20-pm_optimized.jpg"
+      },
+      "published": "2025-07-24T20:38:00Z"
+    }
+  }
+]
