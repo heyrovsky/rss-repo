@@ -929,5 +929,382 @@
       },
       "published": "2025-07-30T03:35:54Z"
     }
+  },
+  {
+    "hash": "c2c09e7e70a968fa21c0e222ef6905ff05c2c02fe2a8d9a8b49b6d07b50b1940",
+    "item": {
+      "title": "Online Ruler – Measuring in inches/centimeters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44699199\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://anruler.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-27T06:03:05Z"
+    }
+  },
+  {
+    "hash": "4fdc84b185a649acadb4cf4c5c2ced68134ee94fd6357d6c4e5826a1e50aee19",
+    "item": {
+      "title": "From Async/Await to Virtual Threads",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44692839\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lucumr.pocoo.org/2025/7/26/virtual-threads/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-26T09:59:53Z"
+    }
+  },
+  {
+    "hash": "950a27f94c0fdfa8247f8604d56a8e7ef4655c7a96317afc7bc669107855cf99",
+    "item": {
+      "title": "AVIF: The Avian Image Format",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A rough, pixelated outline of a bird is shown in white in the top of the image. A red replica of this image is shown in a spectrogram in the lower half of the image. A smaller picture-in-picture display in the bottom right of the image shows a man sitting in a studio.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png 1651w, https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?resize=1536,863 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"794003\" data-permalink=\"https://hackaday.com/2025/07/29/avif-the-avian-image-format/birdsong_spectrogram_image/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png\" data-orig-size=\"1651,928\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"birdsong_spectrogram_image\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png?w=800\" /\u003e\u003c/div\u003eHumans have long admired the sound of birdsong, but to fully appreciate how technically amazing it is, you need an ultrasonic microphone. [Benn Jordan] recently created a video about using \u003ca href=\"https://hackaday.com/2025/07/29/avif-the-avian-image-format/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/avif-the-avian-image-format/"
+      ],
+      "categories": [
+        "digital audio hacks",
+        "Science",
+        "audiomoth",
+        "bird calls",
+        "birds",
+        "birdsong",
+        "microphone",
+        "ornithology",
+        "ultrasonic"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/birdsong_spectrogram_image.png"
+      },
+      "published": "2025-07-30T05:00:59Z"
+    }
+  },
+  {
+    "hash": "027d9b0a9093b74abf31d1e070e71342dc3011326c5cd3ce053e0852783e3922",
+    "item": {
+      "title": "Casting Meteorite-like Materials",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A man’s hand is shown holding a polished metal billet. The billet has a few voids in the surface, and the surface shows a pattern of lighter lines against the darker metal background.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png 2173w, https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?resize=2048,1152 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"793964\" data-permalink=\"https://hackaday.com/2025/07/29/casting-meteorite-like-materials/widmanstatten_patterns_casting/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png\" data-orig-size=\"2173,1222\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"widmanstatten_patterns_casting\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png?w=800\" /\u003e\u003c/div\u003eFrom the outside, iron meteorites tend to look like formless, rusted lumps of metal, which is why museums often polish and etch sections to show their interior structure. This reveals \u003ca href=\"https://hackaday.com/2025/07/29/casting-meteorite-like-materials/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/casting-meteorite-like-materials/"
+      ],
+      "categories": [
+        "Science",
+        "aluminium",
+        "copper",
+        "iron",
+        "metal casting",
+        "meteorite",
+        "meteorites",
+        "nickel"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/widmanstatten_patterns_casting.png"
+      },
+      "published": "2025-07-30T02:00:27Z"
+    }
+  },
+  {
+    "hash": "ff0815c9cc521a5ec40fe3e9821d103d028f1557e69572a5060c23ef75aa4320",
+    "item": {
+      "title": "2025 One Hertz Challenge: Precise Time Ref via 1 Pulse-Per-Second GPS Signal",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A photo of the project on a breadboard in a briefcase.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg 1024w, https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg?resize=800,600 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"793658\" data-permalink=\"https://hackaday.com/2025/07/29/2025-one-hertz-challenge-precise-time-ref-via-1-pulse-per-second-gps-signal/precisetime/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg\" data-orig-size=\"1024,768\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;2.7\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;Canon PowerShot A1000 IS\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1388762558\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;6.2\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;250\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0.05\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"PreciseTime\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg?w=800\" /\u003e\u003c/div\u003eOur hacker [Wil Carver] has sent in his submission for the One Hertz Challenge: Precise Time Ref via 1 Pulse-Per-Second GPS Signal. This GPS Disciplined Oscillator (GPSDO) project uses a \u003ca href=\"https://hackaday.com/2025/07/29/2025-one-hertz-challenge-precise-time-ref-via-1-pulse-per-second-gps-signal/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/2025-one-hertz-challenge-precise-time-ref-via-1-pulse-per-second-gps-signal/"
+      ],
+      "categories": [
+        "clock hacks",
+        "gps",
+        "gps disciplined oscillator",
+        "ocxo",
+        "oven controlled crystal oscillator",
+        "VCXO",
+        "Voltage-Controlled Crystal Oscillator"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/PreciseTime.jpeg"
+      },
+      "published": "2025-07-29T23:00:55Z"
+    }
+  },
+  {
+    "hash": "89aa82d7a69502b4a3b10271eae50b72365bcca90b10d62d2a3c4359dd6d57ad",
+    "item": {
+      "title": "ATtiny-Powered Business Card Plays Cracktro Hits",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"319\" src=\"https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Business Card-Tro\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg 2003w, https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?resize=250,100 250w, https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?resize=400,160 400w, https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?resize=800,319 800w, https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?resize=1536,613 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"793887\" data-permalink=\"https://hackaday.com/2025/07/29/attiny-powered-business-card-plays-cracktro-hits/pokayoke/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg\" data-orig-size=\"2003,799\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"pokayoke\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg?w=800\" /\u003e\u003c/div\u003ePCB business cards are a creative way to show your tech skills while getting your name out there. This take on a PCB business card, sent in by [VCC], tackles \u003ca href=\"https://hackaday.com/2025/07/29/attiny-powered-business-card-plays-cracktro-hits/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/attiny-powered-business-card-plays-cracktro-hits/"
+      ],
+      "categories": [
+        "handhelds hacks",
+        "attiny",
+        "attiny 1616",
+        "pcb business card"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Matt Varian"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/pokayoke-rotated.jpg"
+      },
+      "published": "2025-07-29T20:00:08Z"
+    }
+  },
+  {
+    "hash": "938117851c33569cc7f812f2b432b3e39ddec8289d74389f0478357f6ccde030",
+    "item": {
+      "title": "2025 One-Hertz Challenge: Fixing The Clock That Once Synced The World",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg 3840w, https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?resize=2048,1152 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"793100\" data-permalink=\"https://hackaday.com/2025/07/29/2025-one-hertz-challenge-fixing-the-clock-that-once-synced-the-world/attachment/6815571752719631660/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg\" data-orig-size=\"3840,2160\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"6815571752719631660\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg?w=800\" /\u003e\u003c/div\u003eThe HP 115BR is not one of the most well-known products from Hewlett-Packard. And yet, it was remarkably important nonetheless. This hardware once synced time around the world. Now, for \u003ca href=\"https://hackaday.com/2025/07/29/2025-one-hertz-challenge-fixing-the-clock-that-once-synced-the-world/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/2025-one-hertz-challenge-fixing-the-clock-that-once-synced-the-world/"
+      ],
+      "categories": [
+        "clock hacks",
+        "2025 Hackaday One Hertz Challenge",
+        "clock",
+        "hewlett packard"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/6815571752719631660.jpg"
+      },
+      "published": "2025-07-29T17:00:00Z"
+    }
+  },
+  {
+    "hash": "5d89223e05245bf22b9468ce2bbbc6199d624423d07cd3b396cf7475a174cf00",
+    "item": {
+      "title": "Numbers Station Simulator, Right In Your Browser",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png 831w, https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"793840\" data-permalink=\"https://hackaday.com/2025/07/29/numbers-station-simulator-right-in-your-browser/numbersstation-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png\" data-orig-size=\"831,467\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"numbersstation\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png?w=800\" /\u003e\u003c/div\u003eDo you find an odd comfort in the uncanny, regular intonations of a Numbers Station? Then check out [edent]\u0026#8217;s numbers station project, which leverages the browser\u0026#8217;s speech synthesis engine to \u003ca href=\"https://hackaday.com/2025/07/29/numbers-station-simulator-right-in-your-browser/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/numbers-station-simulator-right-in-your-browser/"
+      ],
+      "categories": [
+        "Art",
+        "Software Hacks",
+        "numbers station",
+        "tts",
+        "web speech api"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/numbersstation.png"
+      },
+      "published": "2025-07-29T15:30:08Z"
+    }
+  },
+  {
+    "hash": "530d801fb2da198f4837e4cd8d595cc1bae7c0ba062626571032be890b3009c3",
+    "item": {
+      "title": "Power Line Patrols: The Grid’s Eye in the Sky",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg 3000w, https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"794040\" data-permalink=\"https://hackaday.com/2025/07/29/power-line-patrols-the-grids-eye-in-the-sky/powerline/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Powerline\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg?w=800\" /\u003e\u003c/div\u003eThose of us who like to monitor air traffic with ADS-B aggregators such as FlightAware and ADS-B Exchange tend to see some interesting flight paths. I\u0026#8217;m not talking about the \u003ca href=\"https://hackaday.com/2025/07/29/power-line-patrols-the-grids-eye-in-the-sky/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/07/29/power-line-patrols-the-grids-eye-in-the-sky/"
+      ],
+      "categories": [
+        "Featured",
+        "Interest",
+        "Original Art",
+        "drone",
+        "flir",
+        "grid",
+        "helicopter",
+        "image intensifier",
+        "inspection",
+        "transmission",
+        "uav",
+        "uv"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/Powerline.jpg"
+      },
+      "published": "2025-07-29T14:00:11Z"
+    }
+  },
+  {
+    "hash": "6cadbd95bde1fa266cafd82ee8401eee813904f088fb4ed64c68a288b8e54b6c",
+    "item": {
+      "title": "Samourai Wallet Founders Reverse Course, Will Plead Guilty in Crypto Case",
+      "description": "\u003cp\u003eSamourai Wallet founders Keonne Rodriguez and William Hill will change their plea to guilty in a high-profile crypto privacy case, court filings in New York show.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/samourai-wallet-founders-plead-guilty-crypto-mixer-case/\"\u003eSamourai Wallet Founders Reverse Course, Will Plead Guilty in Crypto Case\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/samourai-wallet-founders-plead-guilty-crypto-mixer-case/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto mixers"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-07-30T06:15:56Z"
+    }
+  },
+  {
+    "hash": "b6176cd592f58419e34d67aa92c0b6470c1296bb8fbbf8cff5519e7542449991",
+    "item": {
+      "title": "Revolut Mulls Buying US Bank to Fast-Track American Licence: Report",
+      "description": "\u003cp\u003eRevolut is considering buying a US bank with a national charter to speed up its American expansion and avoid the lengthy process of securing its own licence.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/revolut-mulls-buying-us-bank-fast-track-american-license/\"\u003eRevolut Mulls Buying US Bank to Fast-Track American Licence: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/revolut-mulls-buying-us-bank-fast-track-american-license/"
+      ],
+      "categories": [
+        "Finance News",
+        "Revolut"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30044211/1753850531-image-1753850364030_optimized.jpg"
+      },
+      "published": "2025-07-30T04:49:46Z"
+    }
+  },
+  {
+    "hash": "db3ea165d1cd4bd6b3248bdf65c7b6cd619d594af83eeb0a61864cda27c4edbd",
+    "item": {
+      "title": "SEC Opens Door to In-Kind Redemption Option for Crypto ETFs",
+      "description": "\u003cp\u003eThe SEC approved in-kind creations and redemptions for Bitcoin and Ether ETPs, a move expected to boost efficiency and cut costs in the crypto ETF market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-opens-door-in-kind-redemption-option-crypto-etfs/\"\u003eSEC Opens Door to In-Kind Redemption Option for Crypto ETFs\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-opens-door-in-kind-redemption-option-crypto-etfs/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Bitcoin ETFs",
+        "Ethereum ETFs",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30035331/1753847610-sec_optimized-2.jpg"
+      },
+      "published": "2025-07-30T04:08:58Z"
+    }
+  },
+  {
+    "hash": "64f9b1d48d70c41cc4a844ac782e96e159cffe288371b00ab36fd991dca839d0",
+    "item": {
+      "title": "[LIVE] Crypto News Today: Latest Updates for July 30, 2025 – SEC Approves In-Kind Redemptions for Bitcoin, Ethereum ETFs, ETH ETFs See Record Inflow Run",
+      "description": "\u003cp\u003eFollow up to the hour updates on what is happening in crypto today, July 30. Market movements, crypto news, and more!\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-30-2025/\"\u003e[LIVE] Crypto News Today: Latest Updates for July 30, 2025 – SEC Approves In-Kind Redemptions for Bitcoin, Ethereum ETFs, ETH ETFs See Record Inflow Run\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-30-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30040317/1753848196-july-30.jpg"
+      },
+      "published": "2025-07-30T04:05:05Z"
+    }
+  },
+  {
+    "hash": "eb00c93a964147b575fb1d7026658eac094c624b56fe7f59b40fedd21e9743dd",
+    "item": {
+      "title": "Kraken to Raise $500M in Funding at a $15B Valuation Alongside IPO Ambitions: Report",
+      "description": "\u003cp\u003eKraken co-CEO Arjun Sethi said that the latest funding round could help the company get investors comfortable with the valuation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/kraken-to-raise-500m-in-funding-at-a-15b-valuation/\"\u003eKraken to Raise $500M in Funding at a $15B Valuation Alongside IPO Ambitions: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/kraken-to-raise-500m-in-funding-at-a-15b-valuation/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "IPO",
+        "Kraken"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30035309/1753847589-image-1753847561262_optimized.jpg"
+      },
+      "published": "2025-07-30T03:59:01Z"
+    }
+  },
+  {
+    "hash": "174b4975f56017c1d5c576ee89fbcdcc4e6d4633ebc10d2d558e047eb5f0041d",
+    "item": {
+      "title": "South Korean Central Bank Unveils New ‘Cryptoassets Department’",
+      "description": "\u003cp\u003eSouth Korea’s Central Bank has announced it will reorganize its structure to include a “cryptoassets department” as a wave of public sector stablecoin-related activity continues to build momentum.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korean-central-bank-unveils-new-cryptoassets-department/\"\u003eSouth Korean Central Bank Unveils New ‘Cryptoassets Department’\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korean-central-bank-unveils-new-cryptoassets-department/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Central Bank",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30043630/1753850189-stock-image_optimized-41.jpg"
+      },
+      "published": "2025-07-29T23:30:00Z"
+    }
   }
 ]
