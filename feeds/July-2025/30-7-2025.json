@@ -1659,5 +1659,620 @@
       },
       "published": "2025-07-30T03:59:01Z"
     }
+  },
+  {
+    "hash": "1f0e3fa96fb11bd4c570444274fce08ece7aa75e0384ed0f7259cda76fbbfa5c",
+    "item": {
+      "title": "Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools",
+      "description": "Chinese companies linked to the state-sponsored hacking group known as Silk Typhoon (aka Hafnium) have been identified as behind over a dozen technology patents, shedding light on the shadowy cyber contracting ecosystem and its offensive capabilities.\nThe patents cover forensics and intrusion tools that enable encrypted endpoint data collection, Apple device forensics, and remote access to",
+      "links": [
+        "https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7z42gfV5k0mxeUrvL198B0pWi4j29rSCQZcffMmXUAYUZjT89xEVl9Uw1l78H5ggQfZEnnblY9Un2dJVMbOTQxUzU8FBN_fSUSjemj00HHUQPzQLumEle6KYNFMhJp3BhWdIBM0ymcGHRItYixZIxBRcIsPEnAQvNRmCpo9_EFED5T8hwvPS6BYfEktVY/s1600/hackerss.jpg"
+      },
+      "published": "2025-07-30T11:39:00Z"
+    }
+  },
+  {
+    "hash": "16c8231f9f566bef1eb76c8121de06e32f200556d3d9425a2a35b39351020d44",
+    "item": {
+      "title": "Product Walkthrough: A Look Inside Pillar's AI Security Platform",
+      "description": "In this article, we will provide a brief overview of Pillar Security's platform to better understand how they are tackling AI security challenges. \nPillar Security is building a platform to cover the entire software development and deployment lifecycle with the goal of providing trust in AI systems. Using its holistic approach, the platform introduces new ways of detecting AI threats, beginning",
+      "links": [
+        "https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5fgFUOU2kTBOMKtiPDu6O1Cm0hyphenhyphenrc19HTGpcWdgunVtDy4f1Zemmna7ZO-lVE1BQJlYUTZP03NryUBWLyi2p5BNDmw8NwePsCYY4-tWjVbrWpxoVqjIvAXmaWzz69PltskUVouzAPkUDzQ_bwpVF-272Q_b8Fi7Wjz6x7QcAJuHC8qiYgc9z3dRyOdpg/s1600/pillar.jpg"
+      },
+      "published": "2025-07-30T11:00:00Z"
+    }
+  },
+  {
+    "hash": "3a7662ac687b1e7fe21971ecab0d9f020a5c755b8233c7a892f3a8ff798497be",
+    "item": {
+      "title": "Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome",
+      "description": "Apple on Tuesday released security updates for its entire software portfolio, including a fix for a vulnerability that Google said was exploited as a zero-day in the Chrome web browser earlier this month.\nThe vulnerability, tracked as CVE-2025-6558 (CVSS score: 8.8), is an incorrect validation of untrusted input in the browser's ANGLE and GPU components that could result in a sandbox escape via",
+      "links": [
+        "https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-osedpltO3AiRiXWxxPTLez_R-54NY1Eos0JbNVI-yREaajdzbdb7YHC78kmkJAMyQVE0YfrX1GoasH4Ru1PCzq0KKJepBK2IFSPx8HI07i5MFsegUNCFLRsnh3T4zWFSnJGmHb2o2EAEp1TMf1A5UBdlxVLgfA2rbZwHtL7wLdE5lbaqMf2uhNiBzzaL/s1600/apple.jpg"
+      },
+      "published": "2025-07-30T10:50:00Z"
+    }
+  },
+  {
+    "hash": "3224b63562f17d5d417a32031f65870ee3e1ac46452cd9a63b72fccc426fbb5d",
+    "item": {
+      "title": "Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero",
+      "description": "Google has announced that it's making a security feature called Device Bound Session Credentials (DBSC) in open beta to ensure that users are safeguarded against session cookie theft attacks.\nDBSC, first introduced as a prototype in April 2024, is designed to bind authentication sessions to a device so as to prevent threat actors from using stolen cookies to sign-in to victims' accounts and gain",
+      "links": [
+        "https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_X0qYyIcH-M0bDL7Y1LgpA0Cq6g8lp0UtxlOUhPGUdehXwtL7q4FwjNSSm-oo_28z4_umFDm1bKwuAofAlWAcp8XScsGw9pl-ZOVglgSANm8SZF2IiOfHXCiSHXxfnUqLG0267X6LObs2NPJnUNA3gUvJRTIIbefFLhRCEcgkObL8b0HRPz9_EHVrIoC/s1600/google-chrome.jpg"
+      },
+      "published": "2025-07-30T09:21:00Z"
+    }
+  },
+  {
+    "hash": "2e7d0c3258f15bafcc89c3eaa2e1ab343366e3459289aa8f3778942c1abf55bb",
+    "item": {
+      "title": "Flaw in Gemini CLI coding tool could allow hackers to run nasty commands",
+      "description": "Beware of coding agents that can access your command window.",
+      "links": [
+        "https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "Features",
+        "Security",
+        "coding agents",
+        "Gemini CLI",
+        "hacking",
+        "prompt injections"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Gemini_CLI_Hero-1152x648.png"
+      },
+      "published": "2025-07-30T10:30:43Z"
+    }
+  },
+  {
+    "hash": "208363341d7982354aa2f056d7810c3201fb2f65e3db551aa0a9cd5672101b06",
+    "item": {
+      "title": "HTX Launches Crypto Gifts Feature: Ushering in the On-Chain Social Networking Carnival With 180,000 USDT in Giveaways",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"409\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-15.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-15.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-15-300x157.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-15-768x403.png 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eHTX, a leading global cryptocurrency exchange, has officially rolled out its brand-new Crypto Gifts feature. This innovation is designed to seamlessly integrate digital assets into social sharing, moving them beyond traditional trading platforms. To celebrate, HTX is launching the limited-time Crypto Gifts Spree, live from now until August 24, 2025",
+      "links": [
+        "https://thenewscrypto.com/htx-launches-crypto-gifts-feature-ushering-in-the-on-chain-social-networking-carnival-with-180000-usdt-in-giveaways/"
+      ],
+      "categories": [
+        "Press Release",
+        "HTX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-15.png"
+      },
+      "published": "2025-07-30T08:23:54Z"
+    }
+  },
+  {
+    "hash": "9cf5aa939f165474835a5ba5a4a0727f433e9d1e06e502811d7fed6ebf29afa7",
+    "item": {
+      "title": "XDC Network Explodes 12% as Bulls Take Control of $0.10 Battleground",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/XDC-Network-Markets.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XDC Network Explodes 12% as Bulls Take Control of $0.10 Battleground\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/XDC-Network-Markets.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/XDC-Network-Markets-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/XDC-Network-Markets-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe XDC Network has proven to be one of the most resilient projects following a recent minor correction, with a spectacular recovery that has not gone unnoticed among traders and analysts. The price action of the altcoin depicts a classic case of technical support holding strong, where XDC rebounded strongly",
+      "links": [
+        "https://thenewscrypto.com/xdc-network-explodes-12-as-bulls-take-control-of-0-10-battleground/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "XDC",
+        "XDC Network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/XDC-Network-Markets.jpg"
+      },
+      "published": "2025-07-30T06:58:59Z"
+    }
+  },
+  {
+    "hash": "ab45a57cb2853a2f15f94dbd07de2fbc557fd33461cc3ebc04cd2e7138253f4a",
+    "item": {
+      "title": "Four (FORM) Flashes Strength with an 11% Gain and a 479% Volume Boom, Ready for Lift-Off?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/FORM-Flashes-Strength-with-an-11-Gain-and-a-479-Volume-Boom-Ready-for-Lift-Off-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Four (FORM) Flashes Strength with an 11% Gain and a 479% Volume Boom, Ready for Lift-Off?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/FORM-Flashes-Strength-with-an-11-Gain-and-a-479-Volume-Boom-Ready-for-Lift-Off-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/FORM-Flashes-Strength-with-an-11-Gain-and-a-479-Volume-Boom-Ready-for-Lift-Off-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/FORM-Flashes-Strength-with-an-11-Gain-and-a-479-Volume-Boom-Ready-for-Lift-Off-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the bearish turn in the crypto market, the majority of the assets have lit up the red candlesticks. The largest assets like Bitcoin (BTC) and Ethereum (ETH) trade at $117.9K and $3.8K. Notably, with Four (FORM) being the top gainer of the last day, XDC and PUMP share the",
+      "links": [
+        "https://thenewscrypto.com/four-form-flashes-strength-with-an-11-gain-and-a-479-volume-boom-ready-for-lift-off/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/FORM-Flashes-Strength-with-an-11-Gain-and-a-479-Volume-Boom-Ready-for-Lift-Off-1.jpg"
+      },
+      "published": "2025-07-30T06:43:20Z"
+    }
+  },
+  {
+    "hash": "b7193f355d8b3c148b2cd4a1768d7925837c98f5582a5ef5092d3b3806435df0",
+    "item": {
+      "title": "RNDR, BlockDAG, FET, \u0026 ARB Keep Showing Up in 2025 Forecasts: Which Will Be the Next Crypto to Explode?",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-34.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"RNDR, BlockDAG, FET, \u0026amp; ARB Keep Showing Up in 2025 Forecasts: Which Will Be the Next Crypto to Explode?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-34.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-34-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-34-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe search for the next crypto to explode rarely comes down to headlines alone. What actually matters is product maturity, timing, and the weight of market trends. Whether it\u0026#8217;s AI, scalable infrastructure, or decentralized computing power, the landscape in 2025 is far more about substance than promises. Projects like RNDR,",
+      "links": [
+        "https://thenewscrypto.com/rndr-blockdag-fet-arb-keep-showing-up-in-2025-forecasts-which-will-be-the-next-crypto-to-explode/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "BlockDAG",
+        "BlockDAG (BDAG)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/unnamed-34.png"
+      },
+      "published": "2025-07-30T04:55:30Z"
+    }
+  },
+  {
+    "hash": "e50328e027abc1a7909baa78c0ebcdc412ab39fd25926652b5c8acb19ed5a415",
+    "item": {
+      "title": "Senator Lummis Proposes Mortgage Bill to Include Bitcoin Loans",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Senator-Lummis-Urges-Congress-To-Act-on-Crypto-Regulation.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"bitcoin loan\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Senator-Lummis-Urges-Congress-To-Act-on-Crypto-Regulation.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Senator-Lummis-Urges-Congress-To-Act-on-Crypto-Regulation-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Senator-Lummis-Urges-Congress-To-Act-on-Crypto-Regulation-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSenator Cynthia Lummis has sponsored the 21st Century Mortgage Act, a bill that aims to get the housing sector into the 21st century by providing legal status to Bitcoin and other cryptos in loan qualification processes. The move can potentially reshape the view of bitcoin loans and other crypto-backed financial",
+      "links": [
+        "https://thenewscrypto.com/senator-lummis-proposes-mortgage-bill-to-include-bitcoin-loans/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "bitcoin loan",
+        "BTC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sneha Murali"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Senator-Lummis-Urges-Congress-To-Act-on-Crypto-Regulation.jpg"
+      },
+      "published": "2025-07-29T19:47:16Z"
+    }
+  },
+  {
+    "hash": "a95475ecbef4b784e15bcb012aebe976843d333968fe633f5ca90fadf7eb2714",
+    "item": {
+      "title": "Sleep all comes down to the mitochondria",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732020\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T08:34:10Z"
+    }
+  },
+  {
+    "hash": "95df1dd0e9bacbc49999dea31d7e22e8fb70537eeccb9446d5ada7835c2e1fd7",
+    "item": {
+      "title": "Ask HN: Why is \"Tea\" still on the App Store after so many data breaches?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732995\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44732995"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T11:47:02Z"
+    }
+  },
+  {
+    "hash": "b3ca7e34a347bfd411f9a0e01f947d9d925342cc965aa1aed9591494edc48e91",
+    "item": {
+      "title": "Moneybadger and Peach Payments partner to enable Bitcoin payments",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732700\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T10:50:39Z"
+    }
+  },
+  {
+    "hash": "844a7e0591d91924713065434086c1cc817ca1517f2712dd8a0ece7dbf2b27f7",
+    "item": {
+      "title": "Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732937\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T11:38:10Z"
+    }
+  },
+  {
+    "hash": "a7e93d7df46eea62e617e4e96bf9f471b9feb926920ce201193f6021c44ccc06",
+    "item": {
+      "title": "Cedana (YC S23) Is Hiring a Systems Engineer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44733086\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T12:00:30Z"
+    }
+  },
+  {
+    "hash": "6c12a4a1285b9076b8a49abab9a7cc498ae11fad3e0648379707e0228ca5dd47",
+    "item": {
+      "title": "From XML to JSON to CBOR",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732593\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T10:31:12Z"
+    }
+  },
+  {
+    "hash": "802b8069a6a39b84d8cbc9a7ecd4d45546bb43cc707169b2c32b6404958166ea",
+    "item": {
+      "title": "Show HN: Dlg – Zero-cost printf-style debugging for Go",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44703210\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/vvvvv/dlg"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-27T18:02:13Z"
+    }
+  },
+  {
+    "hash": "29a01095a19608b2be137df055fd835f1d670aa371aa0b6a3cd979f549203fc2",
+    "item": {
+      "title": "Show HN: The Aria Programming Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44698513\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/egranata/aria"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-27T02:43:33Z"
+    }
+  },
+  {
+    "hash": "f1b1068b41634a4c0335aef4dddef6a671425bca9aa152828f815aec28bb89d4",
+    "item": {
+      "title": "A major AI training data set contains millions of examples of personal data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732464\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T09:59:09Z"
+    }
+  },
+  {
+    "hash": "6ec6b1f3200772065fd35299153e850353b6aca61c9cb41024602fa994d707f4",
+    "item": {
+      "title": "State Capacity and Eight Parking Spaces",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44731424\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T06:37:39Z"
+    }
+  },
+  {
+    "hash": "89bdd3d9fd4a9ddd334db07ae807694bb06ddb2b025896684cd7256e51fae9c5",
+    "item": {
+      "title": "Qwen3 30B-A3B",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44732659\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T10:42:11Z"
+    }
+  },
+  {
+    "hash": "78936bfe3a186eb84184819ea613a764224305fd75036c5c4028c2b0835ab4b2",
+    "item": {
+      "title": "Linux 6.17 Drops Pktcdvd Driver, Many Block \u0026 IO_uring Improvements",
+      "description": "Merged already for the in-development Linux 6.17 kernel were the many block subsystem and IO_uring changes for enhancing I/O on Linux as we roll toward the H2'2025 Linux distribution releases...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-Block-Changes"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-30T12:07:13Z"
+    }
+  },
+  {
+    "hash": "eb6209204c35d2d06b7b176288ec2cc61615c361b507c63959d012d5cb49bb9f",
+    "item": {
+      "title": "AMD Hardware Feedback Interface \u0026 CPUID Faulting Merged For Linux 6.17",
+      "description": "Two notable AMD CPU feature additions were merged overnight for the in-development Linux 6.17 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-HFI-CPUID-Fault-Linux-6.17"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-30T10:40:00Z"
+    }
+  },
+  {
+    "hash": "8c3abc88f4b4bea4a22f70d8f45748a3d00e3a0fdedaaa283ac51a926eaa993c",
+    "item": {
+      "title": "AMD Zen 5 CPUs See First Microcode Updates In Linux-Firmware.Git",
+      "description": "AMD yesterday upstreamed a batch of new CPU microcode files to linux-firmware.git as the de facto repository where component firmware/microcode is easily distributed to Linux distributions. This also marks the first time that Family 1Ah (Family 26) CPU microcode is updated there for the latest Zen 5 processors...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-First-1Ah-Linux-Firmware"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-30T10:22:32Z"
+    }
+  },
+  {
+    "hash": "4c8f9a007064ebd77e8789894c3142bfec3f210069162c970461ff82343202d1",
+    "item": {
+      "title": "Linux 6.17 Now Makes Multi-Core/SMP Support Unconditional",
+      "description": "Earlier this year Linux kernel patches were posted for making SMP support unconditional so the kernel is always built for multi-core capabilities. With uniprocessor core environments being extremely rare especially for those that would be using an up-to-date, upstream Linux kernel, dropping non-SMP support would allow simplifying code paths within the kernel. Well, for Linux 6.17 it's finally happening...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-Unconditional-SMP"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-30T10:09:07Z"
+    }
+  },
+  {
+    "hash": "135cadd4a7e7e6cd20419b01b52837e950e157ce913f61a70e6bd556ff0d563e",
+    "item": {
+      "title": "Arch Linux Installer Adds Bluetooth Support \u0026 U2F Authentication",
+      "description": "Archinstall 3.0.9 released today as the newest iteration of this text-based Arch Linux operating system installer...",
+      "links": [
+        "https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.9"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-30T09:47:04Z"
+    }
+  },
+  {
+    "hash": "cc93bfa42c3862069e710f11862b1b85e004814f33d4d15acf996ce90727f2bd",
+    "item": {
+      "title": "Trump’s Crypto Empire: $1.2 billion in Personal Profit – 20% of His Government Advisors Hold Cryptocurrencies [Infographic]",
+      "description": "\u003cp\u003eDonald Trump's personal crypto wealth has exceeded the $1.2 billion mark according to new analysis, with his holdings spread across World Liberty Financial ($390 million), meme coins ($315 million), and obfuscated wallets valued at $430 million.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trumps-crypto-empire-1-2-billion-in-personal-profit-20-of-his-government-advisors-hold-cryptocurrencies-infographic/\"\u003eTrump\u0026#8217;s Crypto Empire: $1.2 billion in Personal Profit – 20% of His Government Advisors Hold Cryptocurrencies [Infographic]\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trumps-crypto-empire-1-2-billion-in-personal-profit-20-of-his-government-advisors-hold-cryptocurrencies-infographic/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Donald Trump",
+        "Market",
+        "Trump Family"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30115923/1753876763-stock-image_optimized-62.jpg"
+      },
+      "published": "2025-07-30T12:07:32Z"
+    }
+  },
+  {
+    "hash": "19712fb112dc8c6e3743688000574560a0844e6414ae1cd668c8b1f3f4b202b4",
+    "item": {
+      "title": "White House Gears Up to Publish Key Report on U.S. Crypto Strategy",
+      "description": "\u003cp\u003eA cryptocurrency task force established by President Donald Trump is expected to release its long-awaited report on Wednesday, detailing the administration’s digital asset policy objectives. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-set-to-unveil-digital-assets-policy-blueprint-mortgage-integration-401k-inclusion-on-agenda/\"\u003eWhite House Gears Up to Publish Key Report on U.S. Crypto Strategy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-set-to-unveil-digital-assets-policy-blueprint-mortgage-integration-401k-inclusion-on-agenda/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto Regulation",
+        "Trump",
+        "Whitehouse"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/03081642/1751530601-stock-image_optimized-10.jpg"
+      },
+      "published": "2025-07-30T12:00:39Z"
+    }
+  },
+  {
+    "hash": "127dc1465b0eb4e2a86dfbb792b4f987c1f223e3dca9fc79937cbc655ad97a26",
+    "item": {
+      "title": "Bitcoin Price Prediction: OG Whale Dumps 80,000 BTC – And Bitcoin Still Looks Ready to Blast Higher",
+      "description": "\u003cp\u003eBitcoin recovers from $9B whale sale as triangle pattern tightens. $118K support holds strong—BTC eyes breakout toward $125K.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-og-whale-dumps-80000-btc-and-bitcoin-still-looks-ready-to-blast-higher/\"\u003eBitcoin Price Prediction: OG Whale Dumps 80,000 BTC – And Bitcoin Still Looks Ready to Blast Higher\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-og-whale-dumps-80000-btc-and-bitcoin-still-looks-ready-to-blast-higher/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30101903/1753870742-bitcoin-price-prediction-1.jpg"
+      },
+      "published": "2025-07-30T10:22:42Z"
+    }
+  },
+  {
+    "hash": "addd7f750a7246d6e683a69877d6f389aa8b8bc226b20fc6f891a8b8603ea77a",
+    "item": {
+      "title": "Visa Processes $200M in Stablecoin Settlement But Says Tech Still Needs Regulatory Clarity",
+      "description": "\u003cp\u003eVisa has surpassed $200 million in cumulative stablecoin settlement volume while expanding its crypto infrastructure through African partnerships and platform development, but CEO Ryan McInerney warns the technology still requires clearer regulations to reach its full potential.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/visa-processes-200m-in-stablecoins-but-says-tech-still-needs-regulatory-clarity/\"\u003eVisa Processes $200M in Stablecoin Settlement But Says Tech Still Needs Regulatory Clarity\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/visa-processes-200m-in-stablecoins-but-says-tech-still-needs-regulatory-clarity/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Stablecoin",
+        "Visa"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30100700/1753870019-image-1753869925337_optimized.jpg"
+      },
+      "published": "2025-07-30T10:07:15Z"
+    }
+  },
+  {
+    "hash": "8c70279f03cf0f9e933d9928da3bf672c8ed9ef264d9e5cea5dd15b79e6fa7f5",
+    "item": {
+      "title": "AML Bitcoin Founder Sentenced to 7 Years for Fraud and Money Laundering",
+      "description": "\u003cp\u003eAML Bitcoin founder Rowland Marcus Andrade has received a seven-year prison sentence for wire fraud and money laundering.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aml-bitcoin-founder-sentenced-to-7-years-for-fraud-and-money-laundering/\"\u003eAML Bitcoin Founder Sentenced to 7 Years for Fraud and Money Laundering\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aml-bitcoin-founder-sentenced-to-7-years-for-fraud-and-money-laundering/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "AML",
+        "Bitcoin",
+        "Fraud"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30093955/1753868395-image-1753868264650_optimized.jpg"
+      },
+      "published": "2025-07-30T09:52:13Z"
+    }
+  },
+  {
+    "hash": "3ea0ddcc2109190a84e4e193ed1f1d5492a3e4a5272c2434751972abfe5390f0",
+    "item": {
+      "title": "ALL4 Mining Launches Mobile App: Convert Your XRP, BTC, DOGE into Daily Rewards",
+      "description": "\u003cp\u003eALL4 Mining has launched an innovative mobile application that provides a new way for cryptocurrency holders to increase their value.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/all4-mining-launches-mobile-app-convert-xrp-btc-doge-into-daily-rewards/\"\u003eALL4 Mining Launches Mobile App: Convert Your XRP, BTC, DOGE into Daily Rewards\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/all4-mining-launches-mobile-app-convert-xrp-btc-doge-into-daily-rewards/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin",
+        "DOGE",
+        "Mining",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30094349/1753868629-all4-mining-launches-mobile-app-convert-xrp-btc-doge-into-daily-rewards.jpg"
+      },
+      "published": "2025-07-30T09:45:12Z"
+    }
   }
 ]
