@@ -3150,5 +3150,831 @@
       },
       "published": "2025-07-31T13:25:03Z"
     }
+  },
+  {
+    "hash": "315a0bc855c2c3d0093254ec4aef52168f3da02d13899c63ee15c00a16e68f14",
+    "item": {
+      "title": "[$] A look at the SilverBullet note-taking application",
+      "description": "\u003cp\u003e\n\u003ca href=\"https://v2.silverbullet.md/\"\u003e\nSilverBullet\u003c/a\u003e is a MIT-licensed note-taking application, designed to run as a\nself-hosted web server. Started in 2022, the project is approaching\nits 2.0 release, making this a good time to explore the features it offers.\nSilverBullet stores notes as plain\n\u003ca href=\"https://en.wikipedia.org/wiki/Markdown\"\u003e\nMarkdown\u003c/a\u003e files, and provides a\n\u003ca href=\"https://www.lua.org/\"\u003e\nLua\u003c/a\u003e\nscripting API to customize the application's appearance and behavior.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1030941/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-07-31T17:14:54Z"
+    }
+  },
+  {
+    "hash": "73025615eabddfa03c27a8eb42ceec240e02765a3ba48595f71602a36330fcc6",
+    "item": {
+      "title": "Garrett: Secure boot certificate rollover is real but probably won't hurt you",
+      "description": "Matthew Garrett has posted \u003ca\nhref=\"https://mjg59.dreamwidth.org/72892.html\"\u003ea detailed followup\u003c/a\u003e to\nour recent \u003ca href=\"https://lwn.net/Articles/1029767/\"\u003earticle\u003c/a\u003e on the coming\nexpiration if Microsoft's Secure Boot signing key.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tThe upshot is that nobody actually enforces these expiry dates - \u003ca\n\thref=\"https://github.com/tianocore/edk2/blob/edk2-stable202505/CryptoPkg/Library/BaseCryptLib/Pk/CryptPkcs7VerifyCommon.c#L893-L900\"\u003ehere's\n\tthe reference code that disables it\u003c/a\u003e. In a year's time we'll\n\thave gone past the expiration date for 'Microsoft Windows UEFI\n\tDriver Publisher' and everything will still be working, and a few\n\tmonths later 'Microsoft Windows Production PCA 2011' will also\n\texpire and systems will keep booting Windows despite being signed\n\twith a now-expired certificate. This isn't a Y2K scenario where\n\teverything keeps working because people have done a huge amount of\n\twork - it's a situation where everything keeps working even if\n\tnobody does any work.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1032090/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-07-31T17:14:48Z"
+    }
+  },
+  {
+    "hash": "997daf516fa7050f2bb0279c48fb45aa335ff0717b1542e7c6c1a64945f0f936",
+    "item": {
+      "title": "10 Years of Ethereum : ETH Meme Coin Pepeto Ends Stage 6 With $5.770.000 Raised In Presale",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/cover_pic_eth_pepeto_chainwire_1753966995bv4JIQpsvG.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/cover_pic_eth_pepeto_chainwire_1753966995bv4JIQpsvG.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover_pic_eth_pepeto_chainwire_1753966995bv4JIQpsvG-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover_pic_eth_pepeto_chainwire_1753966995bv4JIQpsvG-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/07/cover_pic_eth_pepeto_chainwire_1753966995bv4JIQpsvG-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eDubai, UAE, 31st July 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/10-years-of-ethereum-eth-meme-coin-pepeto-ends-stage-6-with-5-770-000-raised-in-presale/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/cover_pic_eth_pepeto_chainwire_1753966995bv4JIQpsvG.jpg"
+      },
+      "published": "2025-07-31T13:50:36Z"
+    }
+  },
+  {
+    "hash": "5d943f2fd913e5118a25159c5441b0303202b910e212f46453bd1785d96eb1ff",
+    "item": {
+      "title": "Top Crypto Gems To Buy Now That Whales Are Secretly Accumulating: Cold Wallet, SUI, AVAX, \u0026 Cardano",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-90.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-90.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-90-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-90-376x212.jpg 376w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eAs 2025 gains pace, retail interest and big capital flows are pushing demand for high-return digital assets with working use cases and strong foundations. The search for the top crypto gems to buy now focuses on value-driven projects with real usage, future growth, and consistent utility. From reward-based wallets to",
+      "links": [
+        "https://thenewscrypto.com/top-crypto-gems-to-buy-now-that-whales-are-secretly-accumulating-cold-wallet-sui-avax-cardano/"
+      ],
+      "categories": [
+        "Press Release",
+        "Cold Wallet (CWT)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-90.jpg"
+      },
+      "published": "2025-07-31T13:40:03Z"
+    }
+  },
+  {
+    "hash": "aaef041dc70143cdea1d0657c9e5610e9d22937fa9b9a65633f111d55e4485a6",
+    "item": {
+      "title": "Ga^3in Ventures and Fibonacci Capital Host Successful Web3 \u0026 AI Pitch Competition at Chicago Tech Week",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"520\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-87.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-87.jpg 781w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-87-300x200.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-87-768x511.jpg 768w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eAs part of Chicago Tech Week, Ga^3in Ventures and Fibonacci Capital proudly hosted the Web3 \u0026#38; AI Pitch Competition \u0026#38; VC Networking event during Web3 Investors Day, bringing together top-tier VCs, founders, and builders at the forefront of innovation in Web3 and AI. The event served as a high-energy platform",
+      "links": [
+        "https://thenewscrypto.com/ga3in-ventures-and-fibonacci-capital-host-successful-web3-ai-pitch-competition-at-chicago-tech-week/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ga^3in Ventures"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-87.jpg"
+      },
+      "published": "2025-07-31T13:00:00Z"
+    }
+  },
+  {
+    "hash": "8e359800a9796933237c54e43ecdd476f2d5ba97bbffcb620d2e25d56bde0a33",
+    "item": {
+      "title": "BRETT Blasts Up 19%, Is Breakout Mode On or Is It Headed for a Fall?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/BRETT-Blasts-Up-19-Is-Breakout-Mode-On-or-Is-It-Headed-for-a-Fall.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BRETT Blasts Up 19%, Is Breakout Mode On or Is It Headed for a Fall?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/BRETT-Blasts-Up-19-Is-Breakout-Mode-On-or-Is-It-Headed-for-a-Fall.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/BRETT-Blasts-Up-19-Is-Breakout-Mode-On-or-Is-It-Headed-for-a-Fall-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/BRETT-Blasts-Up-19-Is-Breakout-Mode-On-or-Is-It-Headed-for-a-Fall-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe recent crypto market spike made the prices swing between green and red candles, with the market cap reaching $3.9 trillion. Notably, the meme coin market cap has followed suit, modestly spiked and stays at $77.5 billion. Among the pack of meme coins, BRETT has jumped by a solid 19.28%",
+      "links": [
+        "https://thenewscrypto.com/brett-blasts-up-19-is-breakout-mode-on-or-is-it-headed-for-a-fall/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Brett",
+        "Cryptocurrency",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/BRETT-Blasts-Up-19-Is-Breakout-Mode-On-or-Is-It-Headed-for-a-Fall.jpg"
+      },
+      "published": "2025-07-31T12:56:00Z"
+    }
+  },
+  {
+    "hash": "ab815500aa87c43a10180e67bf7f60e52d144a4773117ab12f40e579c3edc794",
+    "item": {
+      "title": "Intellistake and PowerBank Collaborate for Bitcoin Treasury and RWA Tokenization Strategy",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Intellistake and PowerBank Collaborate for Bitcoin Treasury and RWA Tokenization Strategy\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIntellistake Technologies Corp. (CSE: ISTK) (OTC: ISTKF) (FSE: E41) – \u0026#8220;Intellistake\u0026#8221; or the \u0026#8220;Company\u0026#8221; \u0026#8211; presents an announcement on a transaction with PowerBank Corporation (\u0026#8220;PowerBank\u0026#8221;) that pertains to the intersection of tokenized finance, digital assets, and energy. PowerBank (Nasdaq: SUUN) (previously SolarBank) is a leader in renewable energy infrastructure, and",
+      "links": [
+        "https://thenewscrypto.com/intellistake-and-powerbank-collaborate-for-bitcoin-treasury-and-rwa-tokenization-strategy/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-07-31T12:00:00Z"
+    }
+  },
+  {
+    "hash": "c32c4d471b767f3c36881960889682ce0cd3b2d626afad2f118eb68a62671df6",
+    "item": {
+      "title": "MEXC Launches ETH Launchpad for Ethereum’s 10th Anniversary: Users Share 100 ETH at up to 90% Off",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-89.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/image001-89.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-89-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/image001-89-768x448.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, today announced it has launched its exclusive ETH Launchpad subscription event, offering users the opportunity to share 100 ETH at unprecedented discount rates of up to 90% off in celebration of Ethereum\u0026#8217;s 10th anniversary. MEXC Launchpad is an innovative token issuance platform that provides",
+      "links": [
+        "https://thenewscrypto.com/mexc-launches-eth-launchpad-for-ethereums-10th-anniversary-users-share-100-eth-at-up-to-90-off/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/image001-89.jpg"
+      },
+      "published": "2025-07-31T10:51:00Z"
+    }
+  },
+  {
+    "hash": "451802d6a0c41c9acc6474c683ccd237dfeaef44b313e02018915b12f14ae5bb",
+    "item": {
+      "title": "PowerBank and Intellistake Announce Strategic Alliance to Pioneer Digital Currencies, including Bitcoin Treasury Integration and RWA Tokenization",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/photo_2025-07-31_12-10-35_1_1753953563NejUptrZ0J.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/photo_2025-07-31_12-10-35_1_1753953563NejUptrZ0J.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/07/photo_2025-07-31_12-10-35_1_1753953563NejUptrZ0J-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/photo_2025-07-31_12-10-35_1_1753953563NejUptrZ0J-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/07/photo_2025-07-31_12-10-35_1_1753953563NejUptrZ0J-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eVANCOUVER, BRITISH COLUMBIA, 31st July 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/powerbank-and-intellistake-announce-strategic-alliance-to-pioneer-digital-currencies-including-bitcoin-treasury-integration-and-rwa-tokenization/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/photo_2025-07-31_12-10-35_1_1753953563NejUptrZ0J.jpg"
+      },
+      "published": "2025-07-31T10:17:45Z"
+    }
+  },
+  {
+    "hash": "e6368108873420b7fa835f8008f6d7cc9fe3123795268571a5071ae1aa2db073",
+    "item": {
+      "title": "Secret Blizzard Deploys Malware in ISP-Level AitM Attacks on Moscow Embassies",
+      "description": "The Russian nation-state threat actor known as Secret Blizzard has been observed orchestrating a new cyber espionage campaign targeting foreign embassies located in Moscow by means of an adversary-in-the-middle (AitM) attack at the Internet Service Provider (ISP) level and delivering a custom malware dubbed ApolloShadow.\n\"ApolloShadow has the capability to install a trusted root certificate to",
+      "links": [
+        "https://thehackernews.com/2025/07/secret-blizzard-deploys-malware-in-isp.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix7lO2tZlaVPDw-zl3ldkESe8_Mexg6Aiq_qRHAlTL5gFubmelER0V-H7fIB8ysGrvHMzl_aXKk6reTFDx_TMwNAPKFwJL5yRjIPMr6OXhQuMvUJk4q2bqq_mpoRQoGyI9mRuOVx2c8sHb80w9_XgweJa7jTgRtO8tYIgbVpBck8XN-wkas8GtdCSrKsbP/s1600/russian-hacker-isp.jpg"
+      },
+      "published": "2025-07-31T17:12:00Z"
+    }
+  },
+  {
+    "hash": "676afd044fe27fd68d26d609551f88b8ef1ac65d09d80c86575e8cc353f38948",
+    "item": {
+      "title": "Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials",
+      "description": "Cybersecurity researchers have disclosed details of a new phishing campaign that conceals malicious payloads by abusing link wrapping services from Proofpoint and Intermedia to bypass defenses.\n\"Link wrapping is designed by vendors like Proofpoint to protect users by routing all clicked URLs through a scanning service, allowing them to block known malicious destinations at the moment of click,\"",
+      "links": [
+        "https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ulF8cugZ2yWSj-9HHCQQC0Hxj3aOXBCT9QRBVV28T0TwBuWRO9jTTQWHVip3ZHrtkwPM_xtLMO4CTv8bi3dG5La6FjlXtY6Jd3ShhscdYravCifcKBMP6hyphenhyphenP91u_xURqpAOmSSWCvuoxuu0cFSzJmi55MsaCfFUrWzdunKw5a24gt1mHVo4iD547q0jM/s1600/phishing.jpg"
+      },
+      "published": "2025-07-31T15:49:00Z"
+    }
+  },
+  {
+    "hash": "bd9ff25e6ef30146bcad33df3acdf76ff5690efc65048508932b206c6fd744cd",
+    "item": {
+      "title": "Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero",
+      "description": "Google has announced that it's making available a security feature called Device Bound Session Credentials (DBSC) in open beta to ensure that users are safeguarded against session cookie theft attacks.\nDBSC, first introduced as a prototype in April 2024, is designed to bind authentication sessions to a device so as to prevent threat actors from using stolen cookies to sign-in to victims'",
+      "links": [
+        "https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_X0qYyIcH-M0bDL7Y1LgpA0Cq6g8lp0UtxlOUhPGUdehXwtL7q4FwjNSSm-oo_28z4_umFDm1bKwuAofAlWAcp8XScsGw9pl-ZOVglgSANm8SZF2IiOfHXCiSHXxfnUqLG0267X6LObs2NPJnUNA3gUvJRTIIbefFLhRCEcgkObL8b0HRPz9_EHVrIoC/s1600/google-chrome.jpg"
+      },
+      "published": "2025-07-30T09:21:00Z"
+    }
+  },
+  {
+    "hash": "32f8acd1710f9a9f66171bc4127e12b6933a5155639737baeed9d70aa3f6d899",
+    "item": {
+      "title": "US moves to ban shady subscription auto-renewals after FTC court loss",
+      "description": "Canceling subscriptions should be easy, lawmakers say, reviving FTC fight.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/click-to-cancel-rule-cable-companies-fought-to-nullify-could-be-revived/"
+      ],
+      "categories": [
+        "Policy",
+        "click-to-cancel",
+        "federal trade commission",
+        "FTC",
+        "online subscriptions"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223561689-1152x648.jpg"
+      },
+      "published": "2025-07-31T17:21:33Z"
+    }
+  },
+  {
+    "hash": "013df673e48beb58f9810c50b183995355d24c020cf7f6d8d1be4a8d83680987",
+    "item": {
+      "title": "Trump suspends trade loophole for cheap online retailers globally",
+      "description": "US spiking costs to import cheap goods from anywhere rattles e-commerce giants.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/07/trump-suspends-trade-loophole-for-cheap-online-retailers-globally/"
+      ],
+      "categories": [
+        "Policy",
+        "Amazon",
+        "de minimis",
+        "Donald Trump",
+        "e-commerce",
+        "shein",
+        "tariffs",
+        "temu",
+        "trump tariffs",
+        "us-china trade war"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1438881240-1152x648.jpg"
+      },
+      "published": "2025-07-31T16:09:45Z"
+    }
+  },
+  {
+    "hash": "f9bfb20d5b2f7d65c4d91a2044a74985006f92ecbe3b4a96efefb1ef96a984c1",
+    "item": {
+      "title": "Nvidia announces end of GPU driver updates for GeForce 10-series, Windows 10",
+      "description": "Nvidia will cover gamers who take advantage of Windows 10's extended updates.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/07/nvidia-announces-end-of-gpu-driver-updates-for-geforce-10-series-windows-10/"
+      ],
+      "categories": [
+        "Gaming",
+        "Tech",
+        "GeForce",
+        "geforce gtx",
+        "geforce gtx 1060",
+        "NVIDIA"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/DSC09949-1152x648.jpg"
+      },
+      "published": "2025-07-31T14:34:02Z"
+    }
+  },
+  {
+    "hash": "500def522f9838236da4dad14a5b64f6eb7535038a5042d569f36522147d5e1c",
+    "item": {
+      "title": "Lenovo Legion Gaming Drivers \u0026 New Intel Discovery Driver For Telemetry In Linux 6.17",
+      "description": "The x86 platform driver updates have been merged for the in-development Linux 6.17 kernel. The x86 platform drivers area traditionally has been around Linux laptop hardware support but in recent years more work on handheld devices too plus Intel/AMD server platform functionality...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-x86-Platform-Drivers"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-31T17:51:54Z"
+    }
+  },
+  {
+    "hash": "43ff958be98d264539600abc745422d7c64cb25057515d717133f732050001a5",
+    "item": {
+      "title": "AMD EPYC 4545P: 16 Zen 5 Cores @ 65 Watts For Low-Power / Energy Efficient Servers",
+      "description": "Back in May when AMD launched the EPYC 4005 \"Grado\" processors for low-power, low-cost server processors we tested the EPYC 4565P and EPYC 4585PX. The EPYC 4565P is their standard 16-core offering while the EPYC 4585PX is the 3D V-Cache variant for these processors catering to web hosting, SOHO servers, edge computing, and other applications where not needing the performance of the flagship EPYC 9005 \"Turin\" processors. There is also another 16-core variant with the EPYC 4545P and what makes this SKU interesting is the 16-cores / 32-threads but with a 65 Watt TDP. In the Ryzen 9000 series so far AMD hasn't introduced any 16-core, 65-Watt part that makes the EPYC 4545P all the more interesting. Here are some benchmarks of the EPYC 4545P for those shopping for an affordable and very power efficient server platform that still sharply outperforms Intel's Xeon E / Xeon 6300 competition.",
+      "links": [
+        "https://www.phoronix.com/review/amd-epyc-4545p"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-07-31T15:31:08Z"
+    }
+  },
+  {
+    "hash": "ee996e5e44b1227563f6802cd1fa522b100270edc7f00122f057bd03daa5bb2c",
+    "item": {
+      "title": "QUIC for the kernel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44746948\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/Articles/1029851/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T15:57:32Z"
+    }
+  },
+  {
+    "hash": "0fc49855377ef1955576d5618bf9128beb9b56366da28a1e7e619ae39dbd0a30",
+    "item": {
+      "title": "Ubiquiti Launches UniFi OS Server for Self-Hosting",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44746603\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lazyadmin.nl/home-network/unifi-os-server/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T15:24:05Z"
+    }
+  },
+  {
+    "hash": "3eee152725276d30b7581a9a257657706269c05eb7b7028f74c489bbf37c6049",
+    "item": {
+      "title": "Gemini Embedding: Powering RAG and context engineering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747457\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T16:47:54Z"
+    }
+  },
+  {
+    "hash": "2c04139a362ec154b021c1db47829a751c203b20aa9b39c5e62c0090393fdef6",
+    "item": {
+      "title": "Secure boot certificate rollover is real but probably won't hurt you",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747843\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mjg59.dreamwidth.org/72892.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:21:07Z"
+    }
+  },
+  {
+    "hash": "e938710bfb55359d085bfc3602cd7f9533a051ea4e2b69f8a513806977076675",
+    "item": {
+      "title": "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747204\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44747204"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T16:23:09Z"
+    }
+  },
+  {
+    "hash": "2865eb181e2c2a5dea0c2dea17740eeacf2e4659364815735ec5ed2db6f842b6",
+    "item": {
+      "title": "Kaizen (YC X25) is hiring engineers to build browser agents that work",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747625\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.kaizenautomation.com/jobs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:00:56Z"
+    }
+  },
+  {
+    "hash": "7915a65bd2f1ce134e3a9976dc538c90ff72f88316337b66ef4b37eee3419a60",
+    "item": {
+      "title": "Ursa: A Leaderless, Object Storage–Based Alternative to Kafka",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44746415\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://streamnative.io/products/ursa"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T15:01:08Z"
+    }
+  },
+  {
+    "hash": "d379cc9353dbd284205d42d729dfe58bdcbca4d26bad4668980e80f12d4f664c",
+    "item": {
+      "title": "I tried Servo",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44744324\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.spacebar.news/servo-undercover-web-browser-engine/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T10:56:21Z"
+    }
+  },
+  {
+    "hash": "83956080c776d71157beb779939edb7c86f03d0714aab72bf471071bd36179f5",
+    "item": {
+      "title": "Face it: you're a crazy person",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44710651\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.experimental-history.com/p/face-it-youre-a-crazy-person"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-28T13:23:35Z"
+    }
+  },
+  {
+    "hash": "2d1abc5f713f7a0d79f9cd854509cfe4d62506cdbb1a4ebcdf8027a387366025",
+    "item": {
+      "title": "The Chrome Speculation Rules API allows the browser to preload and prerender",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747241\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T16:27:10Z"
+    }
+  },
+  {
+    "hash": "724b215b38eedb8f4b50d0df1658d27e1120e483bdf5755ed684669c5974712d",
+    "item": {
+      "title": "Carbon Language: An experimental successor to C++",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44745984\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.carbon-lang.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T14:23:40Z"
+    }
+  },
+  {
+    "hash": "dd2ce3ae2000d935b574cfd3af3268cd468be467be643cd7dba5bfcadaa3bb70",
+    "item": {
+      "title": "Show HN: Astro dev blog template with 60 interactive colorschemes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747699\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://multiterm.stelclementine.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:08:10Z"
+    }
+  },
+  {
+    "hash": "194a3ff73b5ada177098b04167e13123a05b8cab58b592df145cf7d6f39e85cf",
+    "item": {
+      "title": "Go Assembly Mutation Testing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747870\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://words.filippo.io/assembly-mutation/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:23:17Z"
+    }
+  },
+  {
+    "hash": "c1b00c4335e20576581fe036fc3b355b041153af2b3a3ac75504cd377c00aa4a",
+    "item": {
+      "title": "Advanced Rust macros with derive-deftly",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44724507\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-29T15:21:34Z"
+    }
+  },
+  {
+    "hash": "b4111981240b411928d84a79ed750f821fb1c7818864e63b9f1ef3832c540a1b",
+    "item": {
+      "title": "Ferrari Status",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44710647\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://collabfund.com/blog/ferrari-status/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-28T13:23:14Z"
+    }
+  },
+  {
+    "hash": "8b47ef1b141085afd65eb9b41fb5798f28e0585029134b027b34fe7e075dde64",
+    "item": {
+      "title": "The Future of Programming (2013)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44746821\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://worrydream.com/dbx/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T15:43:38Z"
+    }
+  },
+  {
+    "hash": "bb315c9c7eb82ae00954f16af9109578ac766c33460bf3efdcc246ebbc527a2d",
+    "item": {
+      "title": "Magentic-UI: Towards Human-in-the-Loop Agentic Systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44746321\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2507.22358"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T14:54:27Z"
+    }
+  },
+  {
+    "hash": "6b1bb82e740eef2e2ac957f9b625fee2f2183c1432a581386ba201864c86f223",
+    "item": {
+      "title": "How to Scan Force Pushed Commits for Secrets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747728\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:10:21Z"
+    }
+  },
+  {
+    "hash": "0615866ba44f0e6afc5056b91e6939edef364ddf6a74c99c8fa6a54e403216a7",
+    "item": {
+      "title": "Introduction to XEphem (Motif)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747809\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:17:25Z"
+    }
+  },
+  {
+    "hash": "2a088e68906fced2378d41014910f2d0323d51f8258c33ed0ce39862d42c6581",
+    "item": {
+      "title": "Conflux (CFX) Surges 7% Amid Breakout Rally and Major Upgrades",
+      "description": "\u003cp data-start=\"404\" data-end=\"724\"\u003eConflux (CFX) has rebounded 7% following a sharp 27% sell-off, as traders attempt to hold the $0.20 floor while on-chain data show new adoption highs for China’s government approved Layer-1. Analysts caution that fading volume near $0.2338 and soft RSI readings suggest the bounce may lack strength.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/conflux-cfx-surges-7-amid-breakout-rally-and-major-upgrades/\"\u003eConflux (CFX) Surges 7% Amid Breakout Rally and Major Upgrades\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/conflux-cfx-surges-7-amid-breakout-rally-and-major-upgrades/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Conflux",
+        "DeFi",
+        "NFT"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/22145932/1753196371-conflux-prediction_optimized.webp"
+      },
+      "published": "2025-07-31T18:02:04Z"
+    }
+  },
+  {
+    "hash": "b2887080ff5207b32cc7fcfe4d0bc61bcebb1b5242ab89479242672f168eea68",
+    "item": {
+      "title": "$ENA Leaps 18% as Arthur Hayes Adds Millions – Can Bulls Breach the $0.68 Wall?",
+      "description": "\u003cp\u003e$ENA has surged 18% in the past 24 hours after Anchorage and Aave deals injected fresh capital, lifting TVL to $8.6 billion and sparking heavy whale buys. However footprint data have shown sellers defending $0.68, with almost $4 million longs liquidated, raising pullback risk toward $0.62.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethena-price-jumps-18-will-ena-hold-above-0-60-whale-activity-and-defi-innovations-fuel-growth/\"\u003e$ENA Leaps 18% as Arthur Hayes Adds Millions – Can Bulls Breach the $0.68 Wall?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethena-price-jumps-18-will-ena-hold-above-0-60-whale-activity-and-defi-innovations-fuel-growth/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DeFi",
+        "Ethena"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/28153204/1753716724-1711715544-ena_optimized.webp"
+      },
+      "published": "2025-07-31T17:53:32Z"
+    }
+  },
+  {
+    "hash": "cc63a18a8e85677be87d318862f197ef4675671fc8fb94952c015dce4fe66dd8",
+    "item": {
+      "title": "Circle Launches Native USDC and CCTP V2 on Hyperliquid as Platform Tops $5.5B AUM",
+      "description": "\u003cp data-start=\"378\" data-end=\"671\"\u003eCircle has detailed plans to bring fully reserved USDC and the Cross-Chain Transfer Protocol V2 to Hyperliquid, letting users move funds between chains while Hyperliquid’s AUM has climbed from under $4 billion to $5.5 billion in July, with USDC inflows driving the growth.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/circle-launches-native-usdc-and-cctp-v2-on-hyperliquid-as-platform-tops-5-5b-aum/\"\u003eCircle Launches Native USDC and CCTP V2 on Hyperliquid as Platform Tops $5.5B AUM\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/circle-launches-native-usdc-and-cctp-v2-on-hyperliquid-as-platform-tops-5-5b-aum/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Circle",
+        "Circle USDC",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/10/29052331/1730179411-image-1730179370967_optimized.jpg"
+      },
+      "published": "2025-07-31T17:24:22Z"
+    }
+  },
+  {
+    "hash": "a5f0330132ab27854afc28b1fdad41c01162cedd119d988ec58e7be7406ae006",
+    "item": {
+      "title": "Crypto Governance Crunch: Nearly 1 in 4 North American CFOs Plot 2027 Treasury Shift",
+      "description": "\u003cp data-start=\"390\" data-end=\"696\"\u003eNorth American CFOs have assessed cryptocurrency’s role beyond investment, with nearly a quarter expecting treasury use by 2027. Deloitte’s survey shows rising interest in payments, supply chain tracking and stablecoins, weighed against volatility, accounting controls and unclear rules.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-governance-crunch-nearly-1-in-4-north-american-cfos-plot-2027-treasury-shift/\"\u003eCrypto Governance Crunch: Nearly 1 in 4 North American CFOs Plot 2027 Treasury Shift\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-governance-crunch-nearly-1-in-4-north-american-cfos-plot-2027-treasury-shift/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Deloitte",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/31160618/1753977977-image-1753972058606_optimized.jpg"
+      },
+      "published": "2025-07-31T16:58:25Z"
+    }
+  },
+  {
+    "hash": "ece1cf212e7382c00cfdad83b48c7133c3ee230e6d0a8b0ca7bea6c1b76ae9d1",
+    "item": {
+      "title": "Bitcoin Mining Goes Institutional – But Can It Survive Tariffs, AI Grid Wars, and Fee Collapse?",
+      "description": "\u003cp data-start=\"432\" data-end=\"766\"\u003eBitcoin Mining has experienced a sharp squeeze in 2025: energy access has tightened as AI data centres compete for electricity, hashprice has dropped post-halving, and legacy ASICs have edged toward obsolescence; miners have responded with Bitcoin-backed loans and site relocations to defend margins.\u003c/p\u003e\n\u003cp data-start=\"769\" data-end=\"1010\" data-is-last-node=\"\" data-is-only-node=\"\"\u003e \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-mining-goes-institutional-but-can-it-survive-tariffs-ai-grid-wars-and-fee-collapse/\"\u003eBitcoin Mining Goes Institutional – But Can It Survive Tariffs, AI Grid Wars, and Fee Collapse?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-mining-goes-institutional-but-can-it-survive-tariffs-ai-grid-wars-and-fee-collapse/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "AI",
+        "Mining",
+        "Trade Tariffs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/25123239/1753446759-gmo-miner-cloud-mining-helps-traders-seize-next-wave-of-dividends.jpg"
+      },
+      "published": "2025-07-31T16:52:15Z"
+    }
+  },
+  {
+    "hash": "36eeafc999696bd61f40d65e7f7d3bfa1ac255777118a745aeaab9d5c482be40",
+    "item": {
+      "title": "Bitcoin Cash Price Prediction: BCH Hits $600 for First Time in 2025 – $1,000 is the Next Target",
+      "description": "\u003cp\u003eThe Bitcoin Cash price has risen by 4% in the past 24 hours, but could it pass $1,000 during the current bull market?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-cash-price-prediction-bch-hits-600-for-first-time-in-2025-1000-is-the-next-target/\"\u003eBitcoin Cash Price Prediction: BCH Hits $600 for First Time in 2025 – $1,000 is the Next Target\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-cash-price-prediction-bch-hits-600-for-first-time-in-2025-1000-is-the-next-target/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Bitcoin Cash",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/31120440/1753963479-bitcoin-cash-price-prediction.jpg"
+      },
+      "published": "2025-07-31T15:24:15Z"
+    }
+  },
+  {
+    "hash": "0a3a686adca7ef8abbae35165522fc7814dd58c4f36cdc9f6aa83653fe8526fc",
+    "item": {
+      "title": "Bitcoin Cycle Theory Explained: Is the Pattern Dead? Here’s What Experts Say",
+      "description": "\u003cp\u003eWhat happens when Bitcoin doesn't behave the way it used to? Analysts question whether the halving-driven price cycles are still reliable.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/bitcoin-cycle-theory-explained-is-the-pattern-dead-heres-what-experts-say/\"\u003eBitcoin Cycle Theory Explained: Is the Pattern Dead? Here\u0026#8217;s What Experts Say\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/bitcoin-cycle-theory-explained-is-the-pattern-dead-heres-what-experts-say/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Bitcoin",
+        "ETF",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jeffrey Gogo"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/31150836/1753974516-bitcoin.jpg"
+      },
+      "published": "2025-07-31T15:14:14Z"
+    }
+  },
+  {
+    "hash": "2a535f61fd9259939cee538c056d56951839bd2541cde3ec0229b5efdd094c66",
+    "item": {
+      "title": "New Meme Coin Launchpad Pushes Pump.fun Aside – Fresh 10x Targets for Snorter Bot Token to Snipe",
+      "description": "\u003cp data-start=\"405\" data-end=\"713\"\u003eSnorter Bot Token has attracted $2.6M to develop a low-cost Solana trading bot that hunts meme coins before 10x moves, while rival launchpads tussle for dominance: LetsBonk has surpassed Pump.fun in daily token launches, reflecting a broader shift within the memecoin ecosystem.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/snorter-bot-token-targets-10x-launchpad-beats-pumpfun/\"\u003eNew Meme Coin Launchpad Pushes Pump.fun Aside – Fresh 10x Targets for Snorter Bot Token to Snipe\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/snorter-bot-token-targets-10x-launchpad-beats-pumpfun/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/31150600/1753974359-image-191-1.png"
+      },
+      "published": "2025-07-31T15:10:59Z"
+    }
   }
 ]
