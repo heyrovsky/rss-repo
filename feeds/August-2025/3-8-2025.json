@@ -1182,5 +1182,304 @@
       },
       "published": "2025-08-03T13:58:00Z"
     }
+  },
+  {
+    "hash": "e9f871145b632eae4894dcb718c3b6f9748b71e024dd985a7149377f7d36c413",
+    "item": {
+      "title": "Intel QuickAssist Hit By Second Demotion In Linux 6.17 Due To Lack Of Kernel Benefit",
+      "description": "A few days ago the Intel QuickAssist \"QAT\" accelerators were demoted by FSCRYPT in the Linux 6.17 development code due to being slow and bug prone with AVX-512 showing to be much faster than leveraging the QAT accelerators in this file encryption framework. With the Linux 6.17 crypto subsystem is a second separate demotion to Intel's QAT support for kernel use...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-QAT-Crypto-Linux-6.17"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-03T15:24:22Z"
+    }
+  },
+  {
+    "hash": "14a065c6b20839ad49c10185de3786c3704b70c6c6608cc2ea92bbcecbd09cf6",
+    "item": {
+      "title": "Why Cheap Digital Microscopes are Pretty Terrible",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"460\" src=\"https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg 1272w, https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg?resize=250,144 250w, https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg?resize=400,230 400w, https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg?resize=800,460 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"794307\" data-permalink=\"https://hackaday.com/2025/08/03/why-cheap-digital-microscopes-are-pretty-terrible/digital_microscope_vs_digital_camera/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg\" data-orig-size=\"1272,732\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"digital_microscope_vs_digital_camera\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg?w=800\" /\u003e\u003c/div\u003eWe have all seen those cheap digital microscopes, whether in USB format or with its own screen, all of them promising super-clear images of everything from butterfly wings to electronics \u003ca href=\"https://hackaday.com/2025/08/03/why-cheap-digital-microscopes-are-pretty-terrible/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/03/why-cheap-digital-microscopes-are-pretty-terrible/"
+      ],
+      "categories": [
+        "digital cameras hacks",
+        "Reviews",
+        "digital microscope"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/digital_microscope_vs_digital_camera.jpg"
+      },
+      "published": "2025-08-03T17:00:30Z"
+    }
+  },
+  {
+    "hash": "bc00def78f7ccdf3234c448d7c3784ec35341720b0b687dda3192c8399d1b710",
+    "item": {
+      "title": "Keyboard Hero: A Barebones Alternative To The Guitar Version",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"794344\" data-permalink=\"https://hackaday.com/2025/08/03/keyboard-hero-a-barebones-alternative-to-the-guitar-version/rhythm-game-implemented-on-raspberry-pi-pico-3-34-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Rhythm game implemented on Raspberry Pi Pico 3-34 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png?w=800\" /\u003e\u003c/div\u003eGuitar Hero was all the rage for a few years, before the entire world apparently got sick of it overnight. Some diehards still remember the charms of rhythm games, though. \u003ca href=\"https://hackaday.com/2025/08/03/keyboard-hero-a-barebones-alternative-to-the-guitar-version/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/03/keyboard-hero-a-barebones-alternative-to-the-guitar-version/"
+      ],
+      "categories": [
+        "Games",
+        "Musical Hacks",
+        "guitar hero",
+        "pi pico"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/07/Rhythm-game-implemented-on-Raspberry-Pi-Pico-3-34-screenshot.png"
+      },
+      "published": "2025-08-03T14:00:55Z"
+    }
+  },
+  {
+    "hash": "166c8d7c8729fc456dff6b8308868bb349782f45b361d0d62d4ef87551953149",
+    "item": {
+      "title": "Anthropic: Persona Vectors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44777760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/research/persona-vectors"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-03T16:38:06Z"
+    }
+  },
+  {
+    "hash": "7e426e67c5ee362b28a9bbaf95f9db3b246a1e23aab180d2b4012cf6d10fbe64",
+    "item": {
+      "title": "Converge (YC S23) well-capitalized New York startup seeks product developers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44777965\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.runconverge.com/careers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-03T17:00:32Z"
+    }
+  },
+  {
+    "hash": "dc3f07f940f04bd92b68d830fb77b4ed8e721706cc775f65f9d908dba6af1b9e",
+    "item": {
+      "title": "UN Report Finds UN Reports Are Not Widely Read",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44777869\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-03T16:49:08Z"
+    }
+  },
+  {
+    "hash": "03fc668034836f67ed78808223e6f77b474e501002d9e1fdc4d4e06cf9997c22",
+    "item": {
+      "title": "Show HN: Implementation of DDPM (Denoising Diffusion Probabilistic Models)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44746062\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/alenMangattu/DDPM-Denoising-Diffusion-Probabilistic-Models"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T14:28:58Z"
+    }
+  },
+  {
+    "hash": "08ec7d5da200b1db9e1f70ee8ed3c2595138d1ad0e57749eab214a514ef40cad",
+    "item": {
+      "title": "Show HN: My Bytecode Optimizer Beats Copilot by 2X",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44747786\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deviantabstraction.com/2025/07/29/how-my-bytecode-optimizer-beats-copilot-by-2x/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-31T17:15:25Z"
+    }
+  },
+  {
+    "hash": "b59c495cec2d8f58015e67d4f402251b27d32347ed9787a0b3a399aebd8839db",
+    "item": {
+      "title": "A game that can be played riding the New York Subway (1980)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44738228\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.gricer.com/subway_game/subway_game.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-07-30T19:02:19Z"
+    }
+  },
+  {
+    "hash": "426e129162c77e59105059a1fbe86b0aa0314707f8c5677205450dacee2cd411",
+    "item": {
+      "title": "EHRs – The Hidden Distraction in Your Doctor's Office",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44775485\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/electronic-health-records"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-03T10:07:44Z"
+    }
+  },
+  {
+    "hash": "422478e1342264ff3e457622816a1e6c0629605902eef56e80e58a47d6ea3860",
+    "item": {
+      "title": "SharpLink Continues Ethereum Treasury Expansion with Over $100M Buy",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Ethereum-Price-Will-the-Bulls-Push-Past-the-4K-Barrier-or-Bow-to-Bear-Pressure.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SharpLink Continues Ethereum Treasury Expansion with Over $100M Buy\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Ethereum-Price-Will-the-Bulls-Push-Past-the-4K-Barrier-or-Bow-to-Bear-Pressure.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Ethereum-Price-Will-the-Bulls-Push-Past-the-4K-Barrier-or-Bow-to-Bear-Pressure-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Ethereum-Price-Will-the-Bulls-Push-Past-the-4K-Barrier-or-Bow-to-Bear-Pressure-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSharpLink Gaming has made another major move in its crypto investment strategy by purchasing over $100 million worth of Ethereum. This strategic acquisition, made during a downturn in the cryptocurrency market, could help reduce the average cost of the company’s significant ETH holdings. According to Arkham Intelligence, the Ethereum wallet",
+      "links": [
+        "https://thenewscrypto.com/sharplink-continues-ethereum-treasury-expansion-with-over-100m-buy/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Ethereum-Price-Will-the-Bulls-Push-Past-the-4K-Barrier-or-Bow-to-Bear-Pressure.jpg"
+      },
+      "published": "2025-08-03T11:32:55Z"
+    }
+  },
+  {
+    "hash": "7160b683de0eeb3e031a871cc6b9c818e346ec852f1c279fda8f7f028ef03cf7",
+    "item": {
+      "title": "Turn $800 Into $2,000,000 by 2028 With These 5 Cheap Solana (SOL) Alternate Tokens",
+      "description": "\u003cp\u003e\u003cimg width=\"753\" height=\"426\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-11.jpg 753w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-11-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-11-376x212.jpg 376w\" sizes=\"(max-width: 753px) 100vw, 753px\" /\u003e\u003c/p\u003eIf you’ve ever wondered how to flip a modest $800 into something life-changing by 2028, here’s a plan centered on five ultra‑cheap tokens: LILPEPE, BONK, MNT, POL, and ARB. Each trades under a dollar today—but with strong narratives, robust ecosystems, or explosive community energy, they carry real potential to turn",
+      "links": [
+        "https://thenewscrypto.com/turn-800-into-2000000-by-2028-with-these-5-cheap-solana-sol-alternate-tokens/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little Pepe (LILPEPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-11.jpg"
+      },
+      "published": "2025-08-03T09:17:00Z"
+    }
+  },
+  {
+    "hash": "4e0d4947e9440e25345eb1296f9f0a0c2d374a5a28758f7d933105c80ad02cfe",
+    "item": {
+      "title": "The Hunt for This Cycle’s Solana (SOL): This New Token Could 45x in Just 12 Weeks",
+      "description": "\u003cp\u003e\u003cimg width=\"753\" height=\"426\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-10.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-10.jpg 753w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-10-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-10-376x212.jpg 376w\" sizes=\"auto, (max-width: 753px) 100vw, 753px\" /\u003e\u003c/p\u003eThree years ago, few outside crypto Twitter were watching Solana when it was still trading under $1. The speed, scalability, and early developer buzz went largely unnoticed by retail — until it broke $200 in a parabolic run that minted a generation of believers. Now, with a new cycle heating",
+      "links": [
+        "https://thenewscrypto.com/the-hunt-for-this-cycles-solana-sol-this-new-token-could-45x-in-just-12-weeks/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little Pepe (LILPEPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-10.jpg"
+      },
+      "published": "2025-08-03T08:16:36Z"
+    }
+  },
+  {
+    "hash": "cfe6695cd0df1df0a44a01950bf3536adaefc5e6171b7bbe8e6c8d2276e7e868",
+    "item": {
+      "title": "Why Spartans Outplays BC.Game \u0026 BetMGM as the Best Crypto Powered Betting Site for Retention",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-9.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-9.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-9-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-9-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eWhen it comes to casino gaming, staying power isn’t just about how many games are offered, it’s about how smooth and fast the entire experience feels. Fast loading, clean navigation, and rewarding gameplay all help players stick around longer. And for crypto users, fast rhythm matters even more. They want",
+      "links": [
+        "https://thenewscrypto.com/why-spartans-outplays-bc-game-betmgm-as-the-best-crypto-powered-betting-site-for-retention/"
+      ],
+      "categories": [
+        "Press Release",
+        "Spartans"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-9.jpg"
+      },
+      "published": "2025-08-03T07:44:59Z"
+    }
+  },
+  {
+    "hash": "b74c52897b5534930b46b6e04f9318df3e5bd110dd05f555a1896ed73fb48442",
+    "item": {
+      "title": "XRP Fuels Passive Income Opportunities: Quid Miner Turns Your Smartphone into an Engine for BTC, XRP, and DOGE",
+      "description": "\u003cp\u003eXRP has surged back into the spotlight, trading steadily between $3.16 and $3.20 following a strong rally earlier this month. With analysts eyeing a potential breakout toward $13 in the next 40 days, fueled by speculation around upcoming U.S.-based XRP ETFs, favorable regulatory tailwinds, and growing institutional interest, investor sentiment is rising fast. More than [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-fuels-passive-income-opportunities-quid-miner-turns-your-smartphone-into-an-engine-for-btc-xrp-and-doge/\"\u003eXRP Fuels Passive Income Opportunities: Quid Miner Turns Your Smartphone into an Engine for BTC, XRP, and DOGE\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-fuels-passive-income-opportunities-quid-miner-turns-your-smartphone-into-an-engine-for-btc-xrp-and-doge/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/03170322/1754240602-image-1754240393403_optimized.jpg"
+      },
+      "published": "2025-08-03T17:06:06Z"
+    }
+  },
+  {
+    "hash": "901f2a41e4a8266f7e9d5ea88d5d9503d2a228d065ce76e1d7866ddc81a0f9ed",
+    "item": {
+      "title": "Surge of Cryptocurrency Investors Join BJMINING Cloud Mining",
+      "description": "\u003cp\u003eIn the dynamic and opportunity-rich cryptocurrency market of 2025, cloud mining has emerged as a low-barrier, high-return investment avenue, attracting millions of investors worldwide. BJMINING, a global leader in cloud mining, stands out with its innovative technology and stable returns. Recently, a wave of cryptocurrency investors has flocked to the BJMINING platform, achieving daily incomes [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/surge-of-crypto-investors-join-bjmining-cloud-mining/\"\u003eSurge of Cryptocurrency Investors Join BJMINING Cloud Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/surge-of-crypto-investors-join-bjmining-cloud-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/03164045/1754239244-image-1754239168808_optimized.jpg"
+      },
+      "published": "2025-08-03T16:42:02Z"
+    }
   }
 ]
