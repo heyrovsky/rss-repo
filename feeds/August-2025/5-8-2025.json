@@ -2988,5 +2988,893 @@
       },
       "published": "2025-08-05T12:41:22Z"
     }
+  },
+  {
+    "hash": "4e8757b55e67330e490db5f6a367cfc567a37ac35f90e80f8f478241a60737d8",
+    "item": {
+      "title": "[$] Improving control over transparent huge page use",
+      "description": "The use of huge pages can significantly increase the performance of many\nworkloads by reducing both memory-management overhead in the kernel and\npressure on the system's translation lookaside buffer (TLB).  The addition\nof transparent huge pages (THP) for the 2.6.38 kernel release in 2011\ncaused the kernel to allocate huge pages automatically to make their\nbenefits available to all workloads without any effort needed on the\nuser-space side.  But it turns out that use of huge pages can make some\nworkloads slower as the result of internal memory fragmentation, so the THP\nfeature is often disabled.  Two patch sets aimed at better targeting the\nuse of transparent huge pages are currently working their way through the\nreview process.",
+      "links": [
+        "https://lwn.net/Articles/1032199/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-08-05T16:15:30Z"
+    }
+  },
+  {
+    "hash": "56f23398de93089c515ef41499febb1fc90f7a8acb739d01e28975064872afb3",
+    "item": {
+      "title": "OpenAI announces two “gpt-oss” open AI models, and you can download them today",
+      "description": "OpenAI's new open models can run on your hardware instead of in the cloud. ",
+      "links": [
+        "https://arstechnica.com/ai/2025/08/openai-releases-its-first-open-source-models-since-2019/"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "open source",
+        "openai"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift-1152x648.jpg"
+      },
+      "published": "2025-08-05T17:00:27Z"
+    }
+  },
+  {
+    "hash": "2174b44eeb4ce49984196105d5a470301ce634609177f5850c8d1baeeb6156c8",
+    "item": {
+      "title": "Report: Intel struggles with new 18A process as it cuts workers and cancels projects",
+      "description": "Intel says it's still on track to launch its first 18A Core Ultra chips in 2025.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/08/report-intel-struggles-to-ramp-up-production-on-new-18a-manufacturing-process/"
+      ],
+      "categories": [
+        "Tech",
+        "Intel",
+        "intel 14a",
+        "intel 18a"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-1152x648.jpg"
+      },
+      "published": "2025-08-05T16:37:09Z"
+    }
+  },
+  {
+    "hash": "fd91be3e7a0bd7d75e37b79eabc43bc2e2e216910b8224fdcde8742c7563e935",
+    "item": {
+      "title": "2025 Morgan Plus Four review: Apparently, they do still make them like this",
+      "description": "Morgan's heritage looks come with a BMW powertrain and a lot of FMVSS exemptions.",
+      "links": [
+        "https://arstechnica.com/cars/2025/08/2025-morgan-plus-four-classy-fun-but-no-manual-for-the-us-makes-no-sense/"
+      ],
+      "categories": [
+        "Cars",
+        "car review",
+        "Morgan Plus Four"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Michael Teo Van Runkle"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Ars-Technica-Morgan-Plus-Four-6-1152x648.jpg"
+      },
+      "published": "2025-08-05T16:24:41Z"
+    }
+  },
+  {
+    "hash": "aa15ac8ef4031867516b9e2461bfec4aba3cfb12689c9266d92349dd6fe318ba",
+    "item": {
+      "title": "ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections",
+      "description": "A combination of propagation methods, narrative sophistication, and evasion techniques enabled the social engineering tactic known as ClickFix to take off the way it did over the past year, according to new findings from Guardio Labs.\n\"Like a real-world virus variant, this new 'ClickFix' strain quickly outpaced and ultimately wiped out the infamous fake browser update scam that plagued the web",
+      "links": [
+        "https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivekX5fQhxuVc5pQR3zgfaYzrDL61Uj9yFqS9Ifj2HlpS0s6UmT1GGVtJjcwqfPhicOaTdjSwZxu3HKlEkFUx7lirY8c_jMKPIZeP3Ugri5h_trdnJHyblWcJej_X82CFle8LuhstCYba4ZBbd9qxucYRbn7tMVNrfKDq5C7WbevwWAqT2jASA7_JJ18D3/s1600/captcha.jpg"
+      },
+      "published": "2025-08-05T16:26:00Z"
+    }
+  },
+  {
+    "hash": "d56586c2618fba787105ad295e24f6810a86565e0397dfb530a5122c3e7a7d26",
+    "item": {
+      "title": "ONyc Launches on Kamino, Unlocking Real-World Yield and Collateral Utility in Solana DeFi",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/PRFinal_1754075411ZPApZdKIMB.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/PRFinal_1754075411ZPApZdKIMB.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/08/PRFinal_1754075411ZPApZdKIMB-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/PRFinal_1754075411ZPApZdKIMB-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/PRFinal_1754075411ZPApZdKIMB-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eHamilton, Bermuda, 5th August 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/onyc-launches-on-kamino-unlocking-real-world-yield-and-collateral-utility-in-solana-defi/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/PRFinal_1754075411ZPApZdKIMB.jpg"
+      },
+      "published": "2025-08-05T14:44:38Z"
+    }
+  },
+  {
+    "hash": "6e8f166551fdc3697e51d00e27a6eeee05c88401c8bd38bea01d69d6a0389c3b",
+    "item": {
+      "title": "Cardano (ADA) Targets $9 After Bullish Signal, But This New Crypto Could Rally 3,700% First",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano (ADA) Targets $9 After Bullish Signal, But This New Crypto Could Rally 3,700% First\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eAs Cardano (ADA) flashes a bullish reversal and eyes a bold $9 target, a lesser-known contender—Little Pepe (LILPEPE)—is turning heads with its explosive fundamentals, a thriving presale, and viral community appeal. While ADA is expected to surge in the coming months, LILPEPE’s entry point offers a significantly higher upside potential—one",
+      "links": [
+        "https://thenewscrypto.com/cardano-ada-targets-9-after-bullish-signal-but-this-new-crypto-could-rally-3700-first/"
+      ],
+      "categories": [
+        "Press Release",
+        "Cardano",
+        "Crypto",
+        "Little PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed.jpg"
+      },
+      "published": "2025-08-05T14:28:56Z"
+    }
+  },
+  {
+    "hash": "b51b66dee539b7a1537fb428281a50665956ca6f7ed01abb879ad4303c80e253",
+    "item": {
+      "title": "Trader Prediction of Shiba Inu Price To Hit $0.005 Before Christmas: This SHIB Alternative Can Flip your 50M SHIB Tokens to 250M SHIB in Next 30 Days",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-18.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-18.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-18-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-18-768x437.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eRecent projections from several crypto traders indicate a possible price surge for Shiba Inu (SHIB) to $0.005 before Christmas. However, attention is shifting to an altcoin, Ozak AI, which is bearing high momentum in presale performance and utility.\u0026#160; SHIB holds speculative value; however, data shows that a holder, having converted",
+      "links": [
+        "https://thenewscrypto.com/trader-prediction-of-shiba-inu-price-to-hit-0-005-before-christmas-this-shib-alternative-can-flip-your-50m-shib-tokens-to-250m-shib-in-next-30-days/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-18.jpg"
+      },
+      "published": "2025-08-05T14:21:53Z"
+    }
+  },
+  {
+    "hash": "8544cd1b098263131959db028e475a5ed7514391c73e73627d83efb2c6988306",
+    "item": {
+      "title": "Can Solana (SOL) Bulls Beat the Bears and Break Through Resistance?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Can-Solana-SOL-Bulls-Beat-the-Bears-and-Break-Through-Resistance.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Solana (SOL) Bulls Beat the Bears and Break Through Resistance?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Can-Solana-SOL-Bulls-Beat-the-Bears-and-Break-Through-Resistance.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Can-Solana-SOL-Bulls-Beat-the-Bears-and-Break-Through-Resistance-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Can-Solana-SOL-Bulls-Beat-the-Bears-and-Break-Through-Resistance-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the Fear and Greed Index at around 55, the market sentiment falls under the neutral territory. All the major assets are stuck between both green and red flags. Turning around the altcoins, Solana (SOL) has posted a spike of over 2.24% in the last 24 hours.\u0026#160;\u0026#160; In the early",
+      "links": [
+        "https://thenewscrypto.com/can-solana-sol-bulls-beat-the-bears-and-break-through-resistance/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "SOL",
+        "SOL Price",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Can-Solana-SOL-Bulls-Beat-the-Bears-and-Break-Through-Resistance.jpg"
+      },
+      "published": "2025-08-05T14:10:40Z"
+    }
+  },
+  {
+    "hash": "ea5131a81962003adc81ab4a32923c881c828e50ed01883ea3994a394b6d1686",
+    "item": {
+      "title": "DAR Open Network Launches DAR Citizenship for Web3 Gamers",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"960\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/lk.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"DAR Open Network Launches DAR Citizenship for Web3 Gamers\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/lk.png 1600w, https://thenewscrypto.com/wp-content/uploads/2025/08/lk-300x180.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/lk-1024x614.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/lk-768x461.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/lk-1536x922.png 1536w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eDAR Citizenship has been launched by the chain-agnostic infra layer, DAR Open Network. Players who purchase a premium membership may access a wide range of digital content, including web3 games from both DAR\u0026#8217;s original and affiliated titles, such as Mines of Dalarnia and Dalarnia Legend. DAR Citizenship, created for devoted web3",
+      "links": [
+        "https://thenewscrypto.com/dar-open-network-launches-dar-citizenship-for-web3-gamers/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/lk.png"
+      },
+      "published": "2025-08-05T14:00:00Z"
+    }
+  },
+  {
+    "hash": "8f138b7e01469615b1ae1244e6b3f17e611855333911a13676c0599363b82a8c",
+    "item": {
+      "title": "Inveniam and MANTRA Partner To Develop Real-World Asset Ecosystem in UAE and US",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-17.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-17.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-17-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-17-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-17-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e Inveniam Capital Partners (“Inveniam”), a global leader in decentralized data infrastructure for private market assets, and MANTRA, a layer 1 blockchain focused on the tokenization of real-world assets (RWAs), today announced a strategic technology and commercial partnership.  The collaboration includes a $20 million investment in MANTRA to deliver private real-world",
+      "links": [
+        "https://thenewscrypto.com/inveniam-and-mantra-partner-to-develop-real-world-asset-ecosystem-in-uae-and-us/"
+      ],
+      "categories": [
+        "Press Release",
+        "Mantra"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-17.jpg"
+      },
+      "published": "2025-08-05T13:53:54Z"
+    }
+  },
+  {
+    "hash": "3a6415de326a3eba74f8378af888b48d20e9e576ef83937f1851c8d4c5525acd",
+    "item": {
+      "title": "BlockDAG Unlocks $363M Presale Power With Real-Time Tools Before Global Launch Release",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-16.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-16.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-16-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-16-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eIn a space packed with new coins, BlockDAG has moved ahead of the crowd with over $363 million in presale funds raised and 24.7 billion coins already sold. What makes it stand out is that this isn’t just another presale, the project has delivered working products before its coin even",
+      "links": [
+        "https://thenewscrypto.com/blockdag-unlocks-363m-presale-power-with-real-time-tools-before-global-launch-release/"
+      ],
+      "categories": [
+        "Press Release",
+        "BlockDAG"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-16.jpg"
+      },
+      "published": "2025-08-05T12:21:44Z"
+    }
+  },
+  {
+    "hash": "66872381c81443e33a4cbced1a7d395aed061a073f400f86f19a207b1b952d5e",
+    "item": {
+      "title": "Pi Makes Strategic Leap into AI Robotics with OpenMind Investment",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Pi_Network_Invests_In_OpenMiinds_20M_Vision_for_Humanoid_Robots.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pi Makes Strategic Leap into AI Robotics with OpenMind Investment\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Pi_Network_Invests_In_OpenMiinds_20M_Vision_for_Humanoid_Robots.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Pi_Network_Invests_In_OpenMiinds_20M_Vision_for_Humanoid_Robots-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Pi_Network_Invests_In_OpenMiinds_20M_Vision_for_Humanoid_Robots-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePi Network has made its entry into the field of artificial intelligence by investing in OpenMind, a $20 million funding round in humanoid robotics. It is the first significant venture capital step by the cryptocurrency platform since it announced its 100 million investment fund to seek real-world applications. The funding",
+      "links": [
+        "https://thenewscrypto.com/pi-makes-strategic-leap-into-ai-robotics-with-openmind-investment/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "AI",
+        "Pi",
+        "Pi Network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Pi_Network_Invests_In_OpenMiinds_20M_Vision_for_Humanoid_Robots.jpg"
+      },
+      "published": "2025-08-05T12:00:09Z"
+    }
+  },
+  {
+    "hash": "b41605288f4aa997aa2e24751f8c0937eb716ed9e1c54a6398f17ebe01ec1d0c",
+    "item": {
+      "title": "US CFTC Pushes for Spot Crypto Trading on Regulated Exchanges",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.57.36-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"US CFTC Pushes for Spot Crypto Trading on Regulated Exchanges\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.57.36-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.57.36-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.57.36-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTo facilitate the trading of \u0026#8220;spot crypto asset contracts\u0026#8221; on futures exchanges licensed with the US Commodity Futures Trading Commission, an effort has been initiated by the commission. The CFTC extended the invitation as part of its \u0026#8220;crypto sprint\u0026#8221; effort to put into action the 18 recommendations made by President",
+      "links": [
+        "https://thenewscrypto.com/us-cftc-pushes-for-spot-crypto-trading-on-regulated-exchanges/"
+      ],
+      "categories": [
+        "Market News",
+        "Blockchain",
+        "CFTC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.57.36-PM.jpeg"
+      },
+      "published": "2025-08-05T11:32:51Z"
+    }
+  },
+  {
+    "hash": "109b03c16800156c0b5475ba764c03bd8044b25e6b5a457ce72439e6f2654b67",
+    "item": {
+      "title": "BlackRock’s Spot Bitcoin ETF Hit by Massive $292.5M Outflow as Market Sways",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.44.54-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlackRock\u0026#039;s Spot Bitcoin ETF Hit by Massive $292.5M Outflow as Market Sways\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.44.54-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.44.54-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.44.54-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs Bitcoin fell over the weekend and then rose somewhat on Monday, BlackRock\u0026#8217;s US-listed Bitcoin fund had its largest outflow since May. Monday was the biggest outflow of $292.5 million for BlackRock\u0026#8217;s iShares Bitcoin Trust (IBIT) in two months. On Friday, there was a little outflow as well, ending a",
+      "links": [
+        "https://thenewscrypto.com/blackrocks-spot-bitcoin-etf-hit-by-massive-292-5m-outflow-as-market-sways/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-05-at-4.44.54-PM.jpeg"
+      },
+      "published": "2025-08-05T11:17:20Z"
+    }
+  },
+  {
+    "hash": "27d5ec4401eea81f9f472e5566da8ee8d281b7c710b6639cd7b30dc394145d77",
+    "item": {
+      "title": "Open models by OpenAI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800746\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/open-models/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T17:02:02Z"
+    }
+  },
+  {
+    "hash": "149552e3ceac16749d3c89f7882a6a99b75833e7ffa2acb380d12d5b9166641f",
+    "item": {
+      "title": "OpenAI Harmony",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799869\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/openai/harmony"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T16:07:58Z"
+    }
+  },
+  {
+    "hash": "97c5ee8a83870e91c331a9e46d44828d5080be4cd570e3d12661ef76fa6967d8",
+    "item": {
+      "title": "Claude Opus 4.1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800185\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/claude-opus-4-1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T16:28:05Z"
+    }
+  },
+  {
+    "hash": "d3623042dd207079a72457bf13493e13a886fba7f0c4eb14e2340b1c76dcd0cf",
+    "item": {
+      "title": "Consider using Zstandard and/or LZ4 instead of Deflate",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44801027\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/w3c/png/issues/39"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T17:18:37Z"
+    }
+  },
+  {
+    "hash": "27a06dfb2f695f9b94168e806a2ef68cd35b1d570226c4f089ceba424c66400a",
+    "item": {
+      "title": "Things that helped me get out of the AI 10x engineer imposter syndrome",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798189\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T14:10:42Z"
+    }
+  },
+  {
+    "hash": "124b2fb9434ccbedf64fcb9dd06ae8fdb5fbdf1d0df05a048875093394dadfb4",
+    "item": {
+      "title": "Los Alamos is capturing real-time images of explosions at 7mths of a second",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798695\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T14:47:07Z"
+    }
+  },
+  {
+    "hash": "1c28ac594edb5006aa297becacc873c70719d8a06b393b38856a2e1ddd5e1e1f",
+    "item": {
+      "title": "Introducing gpt-oss",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800730\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/introducing-gpt-oss/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T17:00:49Z"
+    }
+  },
+  {
+    "hash": "652a7b9b8555070930e3fd84942567c791f0a68077f196ca2ce74aed75a69cc0",
+    "item": {
+      "title": "US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44801486\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T17:44:01Z"
+    }
+  },
+  {
+    "hash": "1afb87f6f178c75354e301587f165f73761e1fd5206d29b3d5a16bff5858633e",
+    "item": {
+      "title": "Show HN: Whittle – A Shrinking Word Game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44801399\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://playwhittle.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T17:39:26Z"
+    }
+  },
+  {
+    "hash": "b1bb690450d56ea1f85dc1d70ba083888a9a1c93e32e755bfba8012d80a605ab",
+    "item": {
+      "title": "Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798410\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T14:28:39Z"
+    }
+  },
+  {
+    "hash": "f81d71063c0b6c6211ecde444b15baa26b557b30585e05ad601f9420d4ba7a45",
+    "item": {
+      "title": "FCC Abandons Efforts to Make U.S. Broadband Fast and Affordable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799756\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T15:59:50Z"
+    }
+  },
+  {
+    "hash": "90a00262065f647e7136931090ccf5d7c32ff52450276e5f35c0361a4d90954d",
+    "item": {
+      "title": "Scientific fraud has become an 'industry,' alarming analysis finds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44796526\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T10:56:07Z"
+    }
+  },
+  {
+    "hash": "99beb3cff78044223410446b02bb070ec4d3fe48915e539f7e4423b992232317",
+    "item": {
+      "title": "SAML Shield: Drop-in protection that works for any stack",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799834\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://samlshield.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T16:05:56Z"
+    }
+  },
+  {
+    "hash": "3d0e1fee680863a1096a50d20340944aa3f265baa60d30753942bf1adef4bf08",
+    "item": {
+      "title": "No Comment (2010)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798434\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://prog21.dadgum.com/57.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T14:30:19Z"
+    }
+  },
+  {
+    "hash": "67191789760515ceccfb627b2b765785ecf6c45160edbf1e87030c6308d074e5",
+    "item": {
+      "title": "US Coast Guard Report on Titan Submersible",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798705\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T14:47:35Z"
+    }
+  },
+  {
+    "hash": "acb1f7a8db822258ac81b5fc0bf0cebc5fed3ae624f92d7b7e881734e4a1e933",
+    "item": {
+      "title": "Ask HN: Have you ever regretted open-sourcing something?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44766771\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44766771"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-02T11:37:00Z"
+    }
+  },
+  {
+    "hash": "e603e5d24594acda70321ead069b60e7ba301f2e9da7df75f22e2d2eab3168d3",
+    "item": {
+      "title": "Enough is enough–I dumped Google's worsening search for Kagi",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798215\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T14:12:51Z"
+    }
+  },
+  {
+    "hash": "7340ad800bcd7aebe3da6211a5d5ab1c23852ffb0e486a5cac33c6b7898c7395",
+    "item": {
+      "title": "GitHub pull requests are down",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799435\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/github/site-policy/pull/582"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T15:39:25Z"
+    }
+  },
+  {
+    "hash": "d37fa94fae6d225d2d96925057319bdb05b0a12b2396db5f657799615a47aad3",
+    "item": {
+      "title": "Google agrees to pause AI workloads when power demand spikes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800051\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T16:18:57Z"
+    }
+  },
+  {
+    "hash": "18ae20d592872c2968996e9a456b621c0bee52ed71aeae7540e076787091725a",
+    "item": {
+      "title": "Lack of intent is what makes reading LLM-generated text exhausting",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44797917\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lambdaland.org/posts/2025-08-04_artifical_inanity/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T13:46:30Z"
+    }
+  },
+  {
+    "hash": "6b906158bfdd79e6d9ae424371683c6a2f95638a32da99ccee7faf7e1cf3635f",
+    "item": {
+      "title": "Debian 13 Showing 13% Performance Improvement Over Debian 12 On AMD EPYC",
+      "description": "If all goes according to plan Debian 13.0 will be released this weekend. Already in its effectively final state aside from any last minute fixes, I've begun running Debian 13 testing builds on various systems in the lab to great success. With two years since Debian 12, the new software packages of Debian 13 help in delivering better performance especially on modern systems. Here is a look at Debian 12 versus Debian 13 performance on an AMD EPYC server across 130 benchmarks. Coincidentally, Debian 13 is coming in at 13% faster than Debian 12.",
+      "links": [
+        "https://www.phoronix.com/review/debian-13-benchmarks"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-05T16:00:00Z"
+    }
+  },
+  {
+    "hash": "67c66d33d8d14edc9c57dbaad753771f345765a8059614e5ba8bba225d356f47",
+    "item": {
+      "title": "SEC Says Liquid Staking and Receipt Tokens May Not Be Securities Under Certain Structures",
+      "description": "\u003cp data-start=\"362\" data-end=\"672\"\u003eSEC Liquid Staking guidance has clarified that compliant protocols and their receipt tokens have not required registration when assets are non-securities and providers perform only ministerial tasks. Chairman Paul Atkins has also launched ‘Project Crypto’ to modernize on-chain regulation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-says-liquid-staking-and-receipt-tokens-may-not-be-securities-under-certain-structures/\"\u003eSEC Says Liquid Staking and Receipt Tokens May Not Be Securities Under Certain Structures\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-says-liquid-staking-and-receipt-tokens-may-not-be-securities-under-certain-structures/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Securities",
+        "securities and exchange commision",
+        "Staking"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/30063147/1748586707-image-1748586682539_optimized.jpg"
+      },
+      "published": "2025-08-05T18:12:13Z"
+    }
+  },
+  {
+    "hash": "fd11308a590c90f366ba3d7d1d0aa1b1c045a2112f47a3977acc573e7c9be7df",
+    "item": {
+      "title": "$LTC Breaches $120 Amid ETF Buzz and DeFi Expansion: Can Bulls Push On?",
+      "description": "\u003cp data-start=\"403\" data-end=\"704\"\u003eLitecoin ($LTC) has advanced 3% to $122, buoyed by ETF speculation, DeFi expansion and a $100M corporate allocation. Daily trading volume has reached $1B while the network has passed 340 million transactions, cementing its position as the second most-used payment cryptocurrency.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ltc-hits-123-98-amid-etf-buzz-and-defi-expansion-is-170-in-view/\"\u003e$LTC Breaches $120 Amid ETF Buzz and DeFi Expansion: Can Bulls Push On?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ltc-hits-123-98-amid-etf-buzz-and-defi-expansion-is-170-in-view/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DeFi",
+        "ETF",
+        "Litecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/30150211/1753887730-paxmining-litecoin-cloud-mining.jpg"
+      },
+      "published": "2025-08-05T17:53:22Z"
+    }
+  },
+  {
+    "hash": "642dc4462f0e8da734013309eb9c9fae1e0620ecc341b2db92909f78f62cb0c0",
+    "item": {
+      "title": "Altcoin Season Debate Heats Up as DOGE Liquidity, SHIB Whales, ADA Institutions Align",
+      "description": "\u003cp data-start=\"401\" data-end=\"712\"\u003eAltcoin Season has remained selective in mid-2025. The Altseason Index below 40 shows Bitcoin outperformance, yet flows to Shiba Inu, Dogecoin and Cardano continue. SHIB’s ecosystem growth, DOGE’s liquidity role and ADA’s regulatory appeal illustrate targeted rotation, not a broad surge.\u003c/p\u003e\n\u003cp data-start=\"715\" data-end=\"724\"\u003e \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-debate-shiba-inu-dogecoin-and-cardano-test-market-rotation/\"\u003eAltcoin Season Debate Heats Up as DOGE Liquidity, SHIB Whales, ADA Institutions Align\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-debate-shiba-inu-dogecoin-and-cardano-test-market-rotation/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season",
+        "SHIB"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05173829/1754415508-chatgpt-image-aug-5-2025-12_37_13-pm_optimized.jpg"
+      },
+      "published": "2025-08-05T17:41:37Z"
+    }
+  },
+  {
+    "hash": "7de8e51cfd00403fbc2e7db5f918bcb68729f325ea7a2dccb1c15928bf36d18a",
+    "item": {
+      "title": "$MNT Bulls Charge Past $0.91, But Overheated RSI Warns of Consolidation",
+      "description": "\u003cp data-start=\"419\" data-end=\"727\"\u003e$MNT has rallied 15.6% to $0.91, lifting Mantle’s market cap near $3 billion. Growing DeFi TVL, OP-Stack upgrades, full EigenDA integration, and a $200 million Ecofund have reinforced the Layer-2’s appeal, though overheated momentum readings flag the risk of a near-term pullback.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/mnt-bulls-charge-past-0-91-but-overheated-rsi-warns-of-consolidation/\"\u003e$MNT Bulls Charge Past $0.91, But Overheated RSI Warns of Consolidation\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/mnt-bulls-charge-past-0-91-but-overheated-rsi-warns-of-consolidation/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DeFi integration",
+        "Layer-2 Network",
+        "Mantle"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05155207/1754409127-1741761066-5165c5ad-61db-4adf-8ece-13a5f682da1a_optimized-1.jpg"
+      },
+      "published": "2025-08-05T17:26:09Z"
+    }
+  },
+  {
+    "hash": "49b16b966e20a317b9a3ff2b77188388589b0378abc6db381a5397a7d3ab97d0",
+    "item": {
+      "title": "Treasury Issues Urgent Bitcoin ATM Scam Alert After $247M in Victim Losses",
+      "description": "\u003cp data-start=\"416\" data-end=\"729\"\u003eBitcoin ATM fraud has cost victims $247 million since 2020, FinCEN has warned, citing scams that hit older adults hardest. With losses rising ten-fold, jurisdictions from California to New Zealand have imposed caps, bans and stricter oversight while federal legislation seeks user safeguards.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/treasury-issues-urgent-bitcoin-atm-scam-alert-after-247m-in-victim-losses/\"\u003eTreasury Issues Urgent Bitcoin ATM Scam Alert After $247M in Victim Losses\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/treasury-issues-urgent-bitcoin-atm-scam-alert-after-247m-in-victim-losses/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin ATM",
+        "crypto scam"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05142425/1754403865-stock-image_optimized-71.jpg"
+      },
+      "published": "2025-08-05T17:03:26Z"
+    }
+  },
+  {
+    "hash": "dd62c4ce1b90d633599411af39f8a1068197dfaa752dec1d04dfe6e3d346b788",
+    "item": {
+      "title": "Solana Mobile Ships 150K Seeker Phones to 50+ Countries, SOL Jumps 2%",
+      "description": "\u003cp data-start=\"385\" data-end=\"678\"\u003eSolana Mobile has started global shipments of the Seeker, successor to the Saga, with 150,000 pre-orders now en route. The $450–$500 handset offers 8GB RAM, 4,500 mAh battery, Seed Vault wallet, expanded dApp Store and a Genesis NFT that unlocks future SKR token rewards.\u003c/p\u003e\n\u003cp data-start=\"681\" data-end=\"889\" data-is-last-node=\"\" data-is-only-node=\"\"\u003e \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-mobile-begins-second-gen-seeker-phone-rollout-across-50-countries/\"\u003eSolana Mobile Ships 150K Seeker Phones to 50+ Countries, SOL Jumps 2%\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-mobile-begins-second-gen-seeker-phone-rollout-across-50-countries/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Technology News",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05145938/1754405977-stock-image_optimized-26.jpg"
+      },
+      "published": "2025-08-05T16:30:23Z"
+    }
+  },
+  {
+    "hash": "442a468ce9ab58ca022a16d7c6c4ce3ef91ce573bb68b31f3faaa6d4a971664e",
+    "item": {
+      "title": "Cardano Price Prediction: $1 Billion in Trading Volume Appears Overnight – Is Smart Money Loading Up on ADA?",
+      "description": "\u003cp\u003eCardano (ADA) has seen its trading volumes increase by more than 30% in the past 24 hours and has hit the $1 billion threshold unexpectedly, favoring a bullish Cardano price prediction as the token rises to $0.75.The token recovered during the weekend and trimmed its 7-day losses. However, it is still the second-worst-performing token of [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-1-billion-in-trading-volume-appears-overnight-is-smart-money-loading-up-on-ada/\"\u003eCardano Price Prediction: $1 Billion in Trading Volume Appears Overnight – Is Smart Money Loading Up on ADA?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-1-billion-in-trading-volume-appears-overnight-is-smart-money-loading-up-on-ada/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ADA",
+        "Cardano",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05123506/1754397304-cardano-price-prediction-1.jpg"
+      },
+      "published": "2025-08-05T16:12:36Z"
+    }
+  },
+  {
+    "hash": "c3a95b56fd051236f50814d008e7e42d411f11dce41a92093e9edc20177dedba",
+    "item": {
+      "title": "SharpLink Boosts Holdings With New $264M ETH Purchase – Institutional Adoption Rising?",
+      "description": "\u003cp data-start=\"402\" data-end=\"715\"\u003eSharpLink Gaming has continued its ETH accumulation, acquiring 83,561 ETH worth $264.5 M last week at an average $3,634, raising holdings to 521,939 ETH. ETH-per-share concentration has reached 3.66 as the company funds purchases via its ATM facility and stakes 100% of assets for yield.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sharplink-boosts-holdings-to-521939-eth-with-new-260m-eth-purchase-institutional-adoption-rising/\"\u003eSharpLink Boosts Holdings With New $264M ETH Purchase – Institutional Adoption Rising?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sharplink-boosts-holdings-to-521939-eth-with-new-260m-eth-purchase-institutional-adoption-rising/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "News",
+        "ETH",
+        "Ethereum",
+        "SHARPLINK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/18110112/1747566072-eth.jpg"
+      },
+      "published": "2025-08-05T15:58:01Z"
+    }
+  },
+  {
+    "hash": "76cd15ff829616c2c28704c5a931b19e9269a1eacd1e518d0ead56fb97d31150",
+    "item": {
+      "title": "XRP Price Prediction: USA Today Calls XRP the Smartest $500 Buy – Institutions Coming?",
+      "description": "\u003cp\u003eXRP price has bounced from last week’s pullback, now ranking among the best-performing tokens in the top 5, adding fresh credence to a long-term bullish XRP price prediction.Its year-to-date gains have surged to 47.7%, and mainstream recognition is catching up. USA Today recently called XRP “the smartest cryptocurrency to buy with $500 right now,” highlighting [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-usa-today-calls-xrp-the-smartest-500-buy-institutions-coming/\"\u003eXRP Price Prediction: USA Today Calls XRP the Smartest $500 Buy – Institutions Coming?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-usa-today-calls-xrp-the-smartest-500-buy-institutions-coming/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05113952/1754393991-xrp-price-prediction-1.jpg"
+      },
+      "published": "2025-08-05T15:38:02Z"
+    }
+  },
+  {
+    "hash": "f94f1554906b140e6908ed63c8561d2bd1a0b45c1492e99b6ee3608456962745",
+    "item": {
+      "title": "Ethereum Price Prediction: Two Whales Just Bought $400M on the Dip – What Do They Know That You Don’t?",
+      "description": "\u003cp\u003eThe Ethereum price has risen by 2.5% in the past 24 hours, but could a couple of big whale purchases send the altcoin even higher?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-two-whales-just-bought-400m-on-the-dip-what-do-they-know-that-you-dont/\"\u003eEthereum Price Prediction: Two Whales Just Bought $400M on the Dip – What Do They Know That You Don’t?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-two-whales-just-bought-400m-on-the-dip-what-do-they-know-that-you-dont/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "ETH",
+        "Ethereum",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/05102713/1754389632-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-08-05T15:25:25Z"
+    }
   }
 ]
