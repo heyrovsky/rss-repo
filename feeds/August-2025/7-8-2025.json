@@ -1511,5 +1511,746 @@
       },
       "published": "2025-08-07T02:46:58Z"
     }
+  },
+  {
+    "hash": "f11d04d65f22fecff3f64ce050a01f44fab78dece1ec26d06fbaa0729183fce7",
+    "item": {
+      "title": "Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups",
+      "description": "Microsoft has released an advisory for a high-severity security flaw affecting on-premise versions of Exchange Server that could allow an attacker to gain elevated privileges under certain conditions.\nThe vulnerability, tracked as CVE-2025-53786, carries a CVSS score of 8.0. Dirk-jan Mollema with Outsider Security has been acknowledged for reporting the bug.\n\"In an Exchange hybrid deployment, an",
+      "links": [
+        "https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVEfMJmenYStKUf4d3m4xp0dWyGpS0C_oVLZ8_51LsOSfOoomXs6xI2gXEhvRLCzWalpb7A9KLz-UrusNmI8cdy26Z3oApb_Mg9lmzo9U_mk7AWLb51MNp_TmYjJG288Q-PmUKBIWn9wwkWqq7ZLWOJ73bMo2AJ7Ogke-97RVk0p20PZl9HzHTdkEKNPB/s1600/ms-exchnage.jpg"
+      },
+      "published": "2025-08-07T10:42:00Z"
+    }
+  },
+  {
+    "hash": "c02d0f38dcd7dcbc8f0a459e31053691d59f0bf015c5dfcf722f3bc82f6075d8",
+    "item": {
+      "title": "The AI-Powered Security Shift: What 2025 Is Teaching Us About Cloud Defense",
+      "description": "Now that we are well into 2025, cloud attacks are evolving faster than ever and artificial intelligence (AI) is both a weapon and a shield. As AI rapidly changes how enterprises innovate, security teams are now tasked with a triple burden:\n\nSecure AI embedded in every part of the business.\nUse AI to defend faster and smarter.\nFight AI-powered threats that execute in minutes—or seconds.\n\nSecurity",
+      "links": [
+        "https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_WAweyeCWLJBqLObLMvATRC_X0gEN1ql91YR7D2Y1m0CWMke-WARZkNUuHQOJOi7Hc0PC3Xfb7T9lsw-J16FbbiwjO6o8NuRkr_bFxXGlwOGZ2Xmb-a8nrv1O8LHOT1h1Spk8dzNl0AyaAEtF_1DuhgBhJ2fTYxi-JKWi7jln8dWFqfD3ZzushtJmBGc/s1600/sysdig.jpg"
+      },
+      "published": "2025-08-07T10:33:00Z"
+    }
+  },
+  {
+    "hash": "1dafe6842a9909ab37db517289537927dc9bb365b2987b86efac63b990222a01",
+    "item": {
+      "title": "SonicWall Confirms Patched Vulnerability Behind Recent VPN Attacks, Not a Zero-Day",
+      "description": "SonicWall has revealed that the recent spike in activity targeting its Gen 7 and newer firewalls with SSL VPN enabled is related to an older, now-patched bug and password reuse.\n\"We now have high confidence that the recent SSL VPN activity is not connected to a zero-day vulnerability,\" the company said. \"Instead, there is a significant correlation with threat activity related to CVE-2024-40766.\"",
+      "links": [
+        "https://thehackernews.com/2025/08/sonicwall-confirms-patched.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAhtnxn7lfKJlDI4nfVUSCz2ttm5MNV-1lvn-Ki7FVpxcPp5dxR8b98jgAq-Hq0y8c7HfM-Ox-QFZVO5Chay2bi8T4J9KaQp_Xhiz3BlpvATAsbkF4Q8G4HHwdxi5F34FyJvahCjrHjenI6bgbhDG0Cfvqj6TPlj1VWc9b6vh9LmT7ia59M6922XrSbfp0/s1600/sonic.jpg"
+      },
+      "published": "2025-08-07T10:32:00Z"
+    }
+  },
+  {
+    "hash": "fb3fc6476208f039f50ef3439585692da31d18a0e0bf91d0c493ae308c2817a6",
+    "item": {
+      "title": "RFK Jr. defends $500M cut for mRNA vaccines with pseudoscience gobbledygook",
+      "description": "He clearly has no idea what antigenic shift means. ",
+      "links": [
+        "https://arstechnica.com/health/2025/08/rfk-jr-defends-500m-cut-for-mrna-vaccines-with-pseudoscience-gobbledygook/"
+      ],
+      "categories": [
+        "Health",
+        "antigen",
+        "flu",
+        "kennedy",
+        "pandemic",
+        "SARS-CoV-2",
+        "vaccine",
+        "virus"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-1152x648.jpg"
+      },
+      "published": "2025-08-07T11:15:38Z"
+    }
+  },
+  {
+    "hash": "d6eadd3eef50bdce9316bc969834e3f0c77017dc5e4d70487c5469efae7e16a1",
+    "item": {
+      "title": "Here’s how deepfake vishing attacks work, and why they can be hard to detect",
+      "description": "Why AI-based voice cloning is the next frontier social-engineering attacks.",
+      "links": [
+        "https://arstechnica.com/security/2025/08/heres-how-deepfake-vishing-attacks-work-and-why-they-can-be-hard-to-detect/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "Security",
+        "deepfakes",
+        "fraud",
+        "speech synthesis"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/deepfake_audio_voice_hero_2-1152x648.jpg"
+      },
+      "published": "2025-08-07T11:00:02Z"
+    }
+  },
+  {
+    "hash": "76973bcfd1a82fc68b27f3a05a1395d4b4b66a0405d8ab73a834d2d10bf7ac62",
+    "item": {
+      "title": "$20 in Sight: Will Chainlink (LINK) Climb Higher or Cool Off?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/20-in-Sight-Will-Chainlink-LINK-Climb-Higher-or-Cool-Off.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"$20 in Sight: Will Chainlink (LINK) Climb Higher or Cool Off?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/20-in-Sight-Will-Chainlink-LINK-Climb-Higher-or-Cool-Off.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/20-in-Sight-Will-Chainlink-LINK-Climb-Higher-or-Cool-Off-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/20-in-Sight-Will-Chainlink-LINK-Climb-Higher-or-Cool-Off-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOver this August, the Chainlink market has recorded a gain of over 26%. As of today, LINK has briefly spiked by over 1.73%. While looking at the crypto market, the assets are slightly waving the green flag, with the largest assets like Bitcoin (BTC) and Ethereum (ETH), hovering at crucial",
+      "links": [
+        "https://thenewscrypto.com/20-in-sight-will-chainlink-link-climb-higher-or-cool-off/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Chainlink",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/20-in-Sight-Will-Chainlink-LINK-Climb-Higher-or-Cool-Off.jpg"
+      },
+      "published": "2025-08-07T09:00:07Z"
+    }
+  },
+  {
+    "hash": "64ac0f9afd7d7ffb16facc23ece205584a00dfb2eef6f558f64e22ecb96f81ba",
+    "item": {
+      "title": "Binance Research Report Highlights Crypto Market Surge Driven by Institutional Demand and Regulatory Clarity",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Research Highlights Crypto Market Surge Driven by Institutional Demand and Regulatory Clarity\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn July 2025, the cryptocurrency landscape enjoyed a remarkable upswing. Total crypto market capitalization expanded by 13.3%, fueled by Bitcoin’s ascent to fresh all-time highs, vigorous institutional demand across major assets like ETH, and a clearer regulatory outlook following the passage of pivotal stablecoin legislation. These favorable dynamics, combined with optimism",
+      "links": [
+        "https://thenewscrypto.com/binance-research-report-highlights-crypto-market-surge-driven-by-institutional-demand-and-regulatory-clarity/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/12/Binance-to-List-Across-Protocol-ACX-and-Orca.jpg"
+      },
+      "published": "2025-08-07T07:48:03Z"
+    }
+  },
+  {
+    "hash": "517d8604458f07db3fc85d2a4b03a624658dc3c1b6219500372d9015e2173667",
+    "item": {
+      "title": "Apex Fusion Unveils VECTOR Chain, Blending Cardano Roots with Institutional-Grade Performance",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Apex Fusion Unveils VECTOR Chain, Blending Cardano Roots with Institutional-Grade Performance\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe official launch\u0026#160;of VECTOR will be announced by Apex Fusion this Saturday at Rare Evo. High-performance UTxO-based blockchain built\u0026#160;for instantaneous transaction finality and institutional-grade throughput makes up the peer-reviewed testnet. Core developers from Cardano\u0026#8217;s early days developed VECTOR, which adhered to the company\u0026#8217;s initial goal and expanded upon its underlying",
+      "links": [
+        "https://thenewscrypto.com/apex-fusion-unveils-vector-chain-blending-cardano-roots-with-institutional-grade-performance/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-08-07T07:36:42Z"
+    }
+  },
+  {
+    "hash": "4726d29514c6ce1f12ebccd7afe51737442d424f6dbdb1feae3703e41b1908dc",
+    "item": {
+      "title": "Curve Deploys on Etherlink to Power Deep Stablecoin Liquidity in Tezos Ecosystem",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Curve Deploys on Etherlink to Power Deep Stablecoin Liquidity in Tezos Ecosystem\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1.png 1280w, https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1-376x212.png 376w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eThe decentralized exchange platform Curve, which offers deep liquidity and low slippage to make trading stablecoins, pegged assets, and cross-currency pairs more efficient and economical, has been deployed\u0026#160;on Etherlink, a Layer 2 blockchain that is compatible with EVMs and powered by Tezos Smart Rollups. Since Etherlink is a Tezos-native Smart",
+      "links": [
+        "https://thenewscrypto.com/curve-deploys-on-etherlink-to-power-deep-stablecoin-liquidity-in-tezos-ecosystem/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/kj-1.png"
+      },
+      "published": "2025-08-07T07:00:00Z"
+    }
+  },
+  {
+    "hash": "052a10d6653553d450bdb29a1f78239fa37bf2851ad543774d99b49ece0576dd",
+    "item": {
+      "title": "PancakeSwap (CAKE) on the Edge Faces Critical Test: Will It Flip to $3 or Flop?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PancakeSwap (CAKE) on the Edge Faces Critical Test: Will It Flip to $3 or Flop?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA moderate bullish spike has triggered the crypto assets to briefly bounce from the downturn, as charted in green. With the market cap reaching $3.75 trillion, the broader market sentiment is neutral-Fear and Greed Index value at 54. Looking at the altcoins, PancakeSwap (CAKE) has posted a jump of over",
+      "links": [
+        "https://thenewscrypto.com/pancakeswap-cake-on-the-edge-faces-critical-test-will-it-flip-to-3-or-flop/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "CAKE",
+        "Cryptocurrency",
+        "PancakeSwap"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/PancakeSwap-price-today.jpg"
+      },
+      "published": "2025-08-07T06:30:28Z"
+    }
+  },
+  {
+    "hash": "5d7c1e90d9e365c88f129d7b5843e31ac700be3071a72a2b973f377e39468c68",
+    "item": {
+      "title": "Why Ozak AI Could Be the Best AI Altcoin Under $0.005 to Deliver Life-Changing ROI",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Why Ozak AI Could Be the Best AI Altcoin Under $0.005 to Deliver Life-Changing ROI\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-1.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-1-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eOzak AI, an emerging AI-integrated blockchain platform, has raised over $1.57 million in its ongoing presale, selling more than 75.3 million tokens. Currently priced at $0.005 per token, Ozak AI has positioned itself as a potential high-return investment. The platform has a tangible and well-laid-out plan and a wider adoption",
+      "links": [
+        "https://thenewscrypto.com/why-ozak-ai-could-be-the-best-ai-altcoin-under-0-005-to-deliver-life-changing-roi/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-1.jpg"
+      },
+      "published": "2025-08-07T06:30:00Z"
+    }
+  },
+  {
+    "hash": "2a90d6a1bcbd5be7fce39fb3304e2912992ff573dbf6f76079ac05111c54c04c",
+    "item": {
+      "title": "Polygon’s POL Price Action Heats Up With $1.18 Billion TVL Milestone",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/POL-prev1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Polygon\u0026#039;s POL Price Action Heats Up With $1.18 Billion TVL Milestone\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/POL-prev1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/POL-prev1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/POL-prev1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe native token of the Polygon network, POL (previously MATIC), is showing strong technical performance as it breaks through key moving average resistance levels, which is a possible indication of a trend reversal. The altcoin has also managed to break above the 50-day EMA at $0.2149 and the 200-day EMA",
+      "links": [
+        "https://thenewscrypto.com/polygons-pol-price-action-heats-up-with-1-18-billion-tvl-milestone/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "POL",
+        "Polygon"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/POL-prev1.jpg"
+      },
+      "published": "2025-08-07T06:06:44Z"
+    }
+  },
+  {
+    "hash": "007ae631ebf2a4d842da7382d874296c160f395b05080d22fc72120ecc3f461d",
+    "item": {
+      "title": "Decubate Becomes the First MiCAR-Licensed Launchpad",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"438\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-22.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-22.jpg 781w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-22-300x168.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-22-768x431.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-22-376x212.jpg 376w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eOne of crypto\u0026#8217;s biggest accelerators just made European token investing as safe as traditional markets For crypto investors in Europe, early-stage token opportunities have always come with a catch: high potential returns paired with zero regulatory protection. For founders, accessing European capital meant navigating a maze of unclear regulations across",
+      "links": [
+        "https://thenewscrypto.com/decubate-becomes-the-first-micar-licensed-launchpad/"
+      ],
+      "categories": [
+        "Press Release",
+        "Decubate"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-22.jpg"
+      },
+      "published": "2025-08-07T05:56:09Z"
+    }
+  },
+  {
+    "hash": "4087157a55a4198835e34b1b17220dd7ade18fe75c639e816549e1b27054fdd7",
+    "item": {
+      "title": "Flang-Tidy Cleaning/Correcting Fortran Code In \"Sort Of Opinionated Fashion\"",
+      "description": "Similar to Clang-Tidy for tidying up C/C++ code using LLVM/Clang components, Flang-Tidy is in development as a tool for Fortran static analysis built upon LLVM's modern Flang compiler code. Flang-Tidy may be upstreamed in the future to LLVM while for now it's developed by TU Munich and Max Planck Computing...",
+      "links": [
+        "https://www.phoronix.com/news/Flang-Tidy"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-07T10:53:53Z"
+    }
+  },
+  {
+    "hash": "24cfa57059c48a1c8ca85d36d12ffccd3898cd752558fc0ca2ac49b84874642d",
+    "item": {
+      "title": "Linux 6.17 Will Correctly Map By Default F13 To F24 Keys On PS/2 Keyboards",
+      "description": "It has taken until 2025 for the AT/PS2 keyboard driver to map F13 through F24 function keys by default. But that day has come and the support was merged today as part of the input driver changes for the Linux 6.17 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-Input-Drivers"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-07T10:25:00Z"
+    }
+  },
+  {
+    "hash": "d2e8584f5b5e51773a204ffda08b2da580e96c875377130e0f19366d790cc0b7",
+    "item": {
+      "title": "Intel Phasing Out 16x MSAA Support - Being Disabled With Xe3 Graphics",
+      "description": "Intel is phasing out 16x multi-sample anti-aliasing (MSAA) with modern upscaling tech like XeSS / FSR / DLSS being superior and more performant plus there being alternative anti-aliasing techniques. Upcoming Xe3 graphics are seeing 16x MSAA support retroactively disabled as the Intel graphics driver moves away from this  highest-level MSAA sampling count...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Dropping-16x-MSAA"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-07T10:07:18Z"
+    }
+  },
+  {
+    "hash": "954b9c94d8a031d3dd0c2b4afcaece7e677722c35af6a6e155074c7a7725a21b",
+    "item": {
+      "title": "Linux 6.17 SoundWire Support Extended To Upcoming AMD ACP 7.2 Hardware",
+      "description": "The Linux 6.17 sound subsystem code last week introduced support for AMD ACP 7.2 as the next version of AMD's Audio Co-Processor IP. This appears to be for yet-to-be-released hardware and now over in the SoundWire subsystem is similar enablement work landing for AMD ACP 7.2...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-ACP-7.2-SoundWire"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-07T10:00:15Z"
+    }
+  },
+  {
+    "hash": "6b31c940eea505449e40074b381316c4480d9209b016116506d491f7a42335e3",
+    "item": {
+      "title": "\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822637\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://leonardo.chiariglione.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T10:09:41Z"
+    }
+  },
+  {
+    "hash": "2598b327b71aab7c5632c50342d2aca648fce33344390204c2a56272ee60b556",
+    "item": {
+      "title": "\"AI hype\" is the true AI product",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823260\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T11:47:41Z"
+    }
+  },
+  {
+    "hash": "941f83776cc674c7d4da3e908f970e93e77e007da5b0cf542eeac9f719432c93",
+    "item": {
+      "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822389\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T09:28:46Z"
+    }
+  },
+  {
+    "hash": "23bc394eaed803fdf59f31687666e37bb2bd9b677dd64aa1087306f0dedead80",
+    "item": {
+      "title": "AI ethics is being narrowed on purpose – just like privacy was",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823094\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T11:20:35Z"
+    }
+  },
+  {
+    "hash": "7c7508d285d6e31fcb7f750eeb56d23f2f4da758effb03fde3358ecbad0a6e37",
+    "item": {
+      "title": "Schools are using AI surveillance to protect students. Sometimes arresting them",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823066\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T11:17:32Z"
+    }
+  },
+  {
+    "hash": "182cff8f75f134794aff8b904e8b6a5f910ad6621f41cbcb3d6fe9986ef00e05",
+    "item": {
+      "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823354\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44823354"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T12:01:09Z"
+    }
+  },
+  {
+    "hash": "a738087129a1c6d8c55f120fdfe9cbd6ea48254732ef8bfd09dfd82680268d95",
+    "item": {
+      "title": "About AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822258\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://priver.dev/blog/ai/about-ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T09:05:43Z"
+    }
+  },
+  {
+    "hash": "46df57b1e26453b969e1b9d8af64911a9623262ae01c2bf172a5b92e6cc9c492",
+    "item": {
+      "title": "Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823262\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/stasher-dev/stasher-cli"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T11:48:11Z"
+    }
+  },
+  {
+    "hash": "c9d3c375b50eadd0be7f98f8dcb359bce35e5cd5ee4e37c9de8c88795a30faf0",
+    "item": {
+      "title": "Show HN: Aura – Like robots.txt, but for AI actions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811840\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/osmandkitay/aura"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-06T13:37:47Z"
+    }
+  },
+  {
+    "hash": "fa4e2b68d8ce8de77b7d5d9ea2b93f2b55a41cd7fc809680e38d93160c4e786b",
+    "item": {
+      "title": "Splatshop: Efficiently Editing Large Gaussian Splat Models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44783372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://momentsingraphics.de/HPG2025.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-04T08:53:44Z"
+    }
+  },
+  {
+    "hash": "59f88ac3b7533f829e1fbd68b19f3635e4e57957caa70c2de978426468ae0301",
+    "item": {
+      "title": "Children's movie leads art historian to long-lost Hungarian masterpiece (2014)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44782097\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-04T04:21:00Z"
+    }
+  },
+  {
+    "hash": "d0fa17e098f4165fb7004adcc88f3cbc623b034daa8e26f39410d2861d2ba5e9",
+    "item": {
+      "title": "Did Craigslist decimate newspapers? Legend meets reality",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44780034\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-03T21:35:33Z"
+    }
+  },
+  {
+    "hash": "a1084cd131911d5344f5fd5ba5da262ee150f0fe39dc0658a22d239013ec2ecc",
+    "item": {
+      "title": "Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823288\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T11:52:28Z"
+    }
+  },
+  {
+    "hash": "acba765fb2a78c86a42a1570c7563193e9ef203c2c5119df29390db5586d54d7",
+    "item": {
+      "title": "The Emperor's New Trade Deal – Paul Krugman",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://paulkrugman.substack.com/p/the-emperors-new-trade-deal"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T11:26:33Z"
+    }
+  },
+  {
+    "hash": "4622aafe37235b29e827971ff642f612837e770c87726adb79b9b95d6a962ccc",
+    "item": {
+      "title": "Stablecoin Market Cap Soars 4.87% to $261B Following 22-Month Growth Streak",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eStablecoin market cap soars 4.87% to new all-time high of $261B following unprecedented 22-month growth streak powered by $1.60T trading volume amid GENIUS Act framework.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stablecoin-market-cap-soars-4-87-to-261b-following-22-month-growth-streak/\"\u003eStablecoin Market Cap Soars 4.87% to $261B Following 22-Month Growth Streak\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stablecoin-market-cap-soars-4-87-to-261b-following-22-month-growth-streak/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Adoption",
+        "Stablecoins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/06144439/1754491478-stock-image_optimized-28.jpg"
+      },
+      "published": "2025-08-07T11:41:10Z"
+    }
+  },
+  {
+    "hash": "89e9e29f29820ffa1908732ff04ee36a5515debc44103b790fddcb3f81826ec3",
+    "item": {
+      "title": "Nasdaq Healthcare Firm Cosmos Health Secures $300M for Ethereum Treasury Strategy",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eNasdaq healthcare firm Cosmos Health secures $300M financing for Ethereum treasury strategy requiring 72.5% allocation to ETH reserves through BitGo institutional custody infrastructure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nasdaq-listed-cosmos-health-secures-300m-for-ethereum-treasury/\"\u003eNasdaq Healthcare Firm Cosmos Health Secures $300M for Ethereum Treasury Strategy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nasdaq-listed-cosmos-health-secures-300m-for-ethereum-treasury/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Ethereum",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07110316/1754564595-stock-image_optimized-76.jpg"
+      },
+      "published": "2025-08-07T11:29:09Z"
+    }
+  },
+  {
+    "hash": "db70455078477e379926bb9e0e1d61c01f99742816e5fd466de28a6394a3dd78",
+    "item": {
+      "title": "Binance Charity to Airdrop $1.2M in BNB to Taiwan Flood Victims",
+      "description": "\u003cp\u003eBinance Charity has announced a relief initiative worth up to $1.2 million in BNB for users impacted by recent floods in southern Taiwan. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-charity-to-airdrop-1-2m-in-bnb-to-taiwan-flood-victims/\"\u003eBinance Charity to Airdrop $1.2M in BNB to Taiwan Flood Victims\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-charity-to-airdrop-1-2m-in-bnb-to-taiwan-flood-victims/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Binance",
+        "Donation",
+        "Taiwan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07110232/1754564552-image-1754564354646_optimized.jpg"
+      },
+      "published": "2025-08-07T11:04:46Z"
+    }
+  },
+  {
+    "hash": "c65bda8293e4dee5abf7664f5333f58500344f575621ac7ba0a58dee09825702",
+    "item": {
+      "title": "Bakkt Buys 30% of Japanese Yarn Maker, Plans Rebrand to Bitcoin.jp",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eBakkt buys 30% of Japanese yarn maker MarushoHotta for $115M planning Bitcoin.jp rebrand as struggling crypto platform transforms 120-year-old textile company into Bitcoin treasury vehicle.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bakkt-buys-30-of-japanese-yarn-maker-plans-rebrand-to-bitcoin-jp/\"\u003eBakkt Buys 30% of Japanese Yarn Maker, Plans Rebrand to Bitcoin.jp\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bakkt-buys-30-of-japanese-yarn-maker-plans-rebrand-to-bitcoin-jp/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Japan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07103115/1754562674-image-1754562646730_optimized.jpg"
+      },
+      "published": "2025-08-07T10:40:41Z"
+    }
+  },
+  {
+    "hash": "6e0adb9d9bfa8454599bfd6679c63db0a4400e9598df27ffb8cef9bc5f8038fe",
+    "item": {
+      "title": "Trump to Sign Order Opening 401(k)s to Crypto, Real Estate, and Private Equity – What It Means for You",
+      "description": "\u003cp\u003ePresident Donald Trump is preparing to sign an executive order that would open the doors for 401(k) retirement plans to include exposure to crypto.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-to-sign-order-opening-401ks-to-crypto-real-estate-and-private-equity-what-it-means-for-you/\"\u003eTrump to Sign Order Opening 401(k)s to Crypto, Real Estate, and Private Equity – What It Means for You\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-to-sign-order-opening-401ks-to-crypto-real-estate-and-private-equity-what-it-means-for-you/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Donald Trump",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07102733/1754562453-2e8cc026-09fa-4916-bdaf-6def4f1ad9f9_optimized.jpg"
+      },
+      "published": "2025-08-07T10:29:56Z"
+    }
+  },
+  {
+    "hash": "182a780a05cd8a4aed3aab34e93d9f89bc2738e7792414ffcd674287f61ef5cb",
+    "item": {
+      "title": "XRP Whale Flows Turn Negative as Large Holders Resume Distribution – XRP Price to Crash?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eXRP whale flows turn negative as large holders resume distribution activity, echoing January's bearish pattern that triggered a -48% crash from $3.45 to $1.77 lows.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-whale-flows-turn-negative-as-large-holders-resume-distribution/\"\u003eXRP Whale Flows Turn Negative as Large Holders Resume Distribution – XRP Price to Crash?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-whale-flows-turn-negative-as-large-holders-resume-distribution/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Whale",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07102226/1754562146-xrp-whale_optimized.jpg"
+      },
+      "published": "2025-08-07T10:23:59Z"
+    }
+  },
+  {
+    "hash": "fda4f6b7870f577bc536101633d57f4573f1413561d076b134339fee0ab339bb",
+    "item": {
+      "title": "DL Holdings Announces $83M Blockchain-Focused Fundraising Plan, Shares Drop 8%",
+      "description": "\u003cp\u003eDL Holdings has unveiled a HK$653.3 million ($83.2 million) capital raise to fund a broad push into blockchain and crypto-related ventures.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dl-holdings-announces-83m-blockchain-focused-fundraising-plan-shares-drop-8/\"\u003eDL Holdings Announces $83M Blockchain-Focused Fundraising Plan, Shares Drop 8%\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dl-holdings-announces-83m-blockchain-focused-fundraising-plan-shares-drop-8/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bitcoin",
+        "funding"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07095329/1754560408-image-1754560387002_optimized.jpg"
+      },
+      "published": "2025-08-07T09:55:05Z"
+    }
   }
 ]
