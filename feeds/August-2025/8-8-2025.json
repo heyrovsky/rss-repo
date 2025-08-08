@@ -837,5 +837,384 @@
       },
       "published": "2025-08-08T02:29:51Z"
     }
+  },
+  {
+    "hash": "e27cb342e6bd14280f964637ec53d92d48e812895176448de9b8ea938ad81dca",
+    "item": {
+      "title": "Light Transport and Constructing Images From a Projector’s Point of View",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"794861\" data-permalink=\"https://hackaday.com/2025/08/07/light-transport-and-constructing-images-from-a-projectors-point-of-view/construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Construct an image from a projector’s point of view (and more tricks with light transport) 3-18 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png?w=800\" /\u003e\u003c/div\u003eImagine you have a projector pointing at a scene, which you\u0026#8217;re photographing with a camera aimed from a different point. Using the techniques of modelling light transport, [okooptics] has shown \u003ca href=\"https://hackaday.com/2025/08/07/light-transport-and-constructing-images-from-a-projectors-point-of-view/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/light-transport-and-constructing-images-from-a-projectors-point-of-view/"
+      ],
+      "categories": [
+        "digital cameras hacks",
+        "camera",
+        "optics",
+        "photograph",
+        "projector",
+        "siggraph"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/Construct-an-image-from-a-projectors-point-of-view-and-more-tricks-with-light-transport-3-18-screenshot.png"
+      },
+      "published": "2025-08-08T05:00:52Z"
+    }
+  },
+  {
+    "hash": "ccb8c064f03bcf3517d7e59a0cfa492415adbdf05edbb59a96eca1753058e0d5",
+    "item": {
+      "title": "Microsoft’s New Agentic Web Protocol Stumbles With Path Traversal Exploit",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"489984\" data-permalink=\"https://hackaday.com/githubcopilot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"GithubCopilot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800\" /\u003e\u003c/div\u003eIf the term \u0026#8216;NLWeb\u0026#8217; first brought to mind an image of a Dutch internet service provider, you\u0026#8217;re probably not alone. What it actually is \u0026#8211; or tries to become \u0026#8211; \u003ca href=\"https://hackaday.com/2025/08/07/microsofts-new-agentic-web-protocol-stumbles-with-path-traversal-exploit/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/microsofts-new-agentic-web-protocol-stumbles-with-path-traversal-exploit/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "internet hacks",
+        "chatbot",
+        "computer security",
+        "large language model"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg"
+      },
+      "published": "2025-08-08T02:00:35Z"
+    }
+  },
+  {
+    "hash": "c91a7c1e8c9d9e3f067ee5d0728351151705d5551309a59d2e44e0bbdc46511f",
+    "item": {
+      "title": "Teardown of a Persil Smartwash Smart Laundry Detergent Ball",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"457\" src=\"https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg 1761w, https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?resize=250,143 250w, https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?resize=400,229 400w, https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?resize=800,457 800w, https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?resize=1536,877 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"794799\" data-permalink=\"https://hackaday.com/2025/08/07/teardown-of-a-persil-smartwash-smart-laundry-detergent-ball/persil_smartwash_main_pcb_zerobrain_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg\" data-orig-size=\"1761,1006\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"persil_smartwash_main_pcb_zerobrain_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg?w=800\" /\u003e\u003c/div\u003eEver since the invention of washing machines, the process of doing laundry has become rather straightforward. Simply toss the dirty laundry into the machine, fill up the detergent, and let \u003ca href=\"https://hackaday.com/2025/08/07/teardown-of-a-persil-smartwash-smart-laundry-detergent-ball/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/teardown-of-a-persil-smartwash-smart-laundry-detergent-ball/"
+      ],
+      "categories": [
+        "Teardown",
+        "internet of things",
+        "laundry",
+        "teardown"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/persil_smartwash_main_pcb_zerobrain_youtube.jpg"
+      },
+      "published": "2025-08-07T23:00:39Z"
+    }
+  },
+  {
+    "hash": "9552a7f074010989fd6e7d70d9a044da71ef04514c1ba4d1c39e9ae75cf08418",
+    "item": {
+      "title": "A Repeater for WWVB",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"602\" src=\"https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png 1063w, https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png?resize=400,301 400w, https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png?resize=800,602 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"794817\" data-permalink=\"https://hackaday.com/2025/08/07/a-repeater-for-wwvb/watchtower-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png\" data-orig-size=\"1063,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"watchtower-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png?w=800\" /\u003e\u003c/div\u003eFor those living in the continental US who, for whatever reason, don\u0026#8217;t have access to an NTP server or a GPS device, the next best way to make sure the \u003ca href=\"https://hackaday.com/2025/08/07/a-repeater-for-wwvb/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/a-repeater-for-wwvb/"
+      ],
+      "categories": [
+        "clock hacks",
+        "amplifier",
+        "arduino",
+        "clock",
+        "pwm",
+        "radio",
+        "watch",
+        "wristwatch",
+        "wwvb"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/watchtower-main.png"
+      },
+      "published": "2025-08-07T20:00:55Z"
+    }
+  },
+  {
+    "hash": "1cd2f6ff8566fc2fa8e5bd1ed8c2c4a4916599598ff9fa7160a1a1752b11fe41",
+    "item": {
+      "title": "2025 One Hertz Challenge: The Easy Way to Make a Nixie Tube Clock",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"448\" src=\"https://hackaday.com/wp-content/uploads/2025/08/8791691754059223856_caaa6a-e1754461259515.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" data-attachment-id=\"794940\" data-permalink=\"https://hackaday.com/2025/08/07/2025-one-hertz-challenge-the-easy-way-to-make-a-nixie-tube-clock/8791691754059223856_caaa6a/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/8791691754059223856_caaa6a-e1754461259515.jpg\" data-orig-size=\"1486,833\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"8791691754059223856_caaa6a\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/8791691754059223856_caaa6a-e1754461259515.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/8791691754059223856_caaa6a-e1754461259515.jpg?w=800\" /\u003e\u003c/div\u003eLet\u0026#8217;s say you want to build a Nixie clock. You could go out and find some tubes, source a good power supply design, start whipping up a PCB, and working \u003ca href=\"https://hackaday.com/2025/08/07/2025-one-hertz-challenge-the-easy-way-to-make-a-nixie-tube-clock/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/2025-one-hertz-challenge-the-easy-way-to-make-a-nixie-tube-clock/"
+      ],
+      "categories": [
+        "clock hacks",
+        "contests",
+        "2025 Hackaday One Hertz Challenge",
+        "clock",
+        "frequency counter",
+        "nixie",
+        "nixie tube"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/8791691754059223856_caaa6a-e1754461259515.jpg"
+      },
+      "published": "2025-08-07T18:30:30Z"
+    }
+  },
+  {
+    "hash": "fdd2cec5b3263e75137e125aae3de41b022e9158aeca77941fbfd93935a15420",
+    "item": {
+      "title": "The 64-Degree Egg, And Other Delicious Variants",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg 4032w, https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?resize=800,600 800w, https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?resize=1536,1152 1536w, https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?resize=2048,1536 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"795083\" data-permalink=\"https://hackaday.com/2025/08/07/the-64-degree-egg-and-other-delicious-variants/pexels-almapapi-2402506/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg\" data-orig-size=\"4032,3024\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pexels-almapapi-2402506\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg?w=800\" /\u003e\u003c/div\u003eMany of us have boiled an egg at some point or another in our lives. The conventional technique is relatively straightforward—get the water boiling, drop the egg in, and leave \u003ca href=\"https://hackaday.com/2025/08/07/the-64-degree-egg-and-other-delicious-variants/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/the-64-degree-egg-and-other-delicious-variants/"
+      ],
+      "categories": [
+        "cooking hacks",
+        "Hackaday Columns",
+        "cooking",
+        "egg",
+        "eggs",
+        "sous-vide"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/pexels-almapapi-2402506.jpg"
+      },
+      "published": "2025-08-07T17:00:51Z"
+    }
+  },
+  {
+    "hash": "e4953478d6bcd990a9bd2cb09242353059fa8cc55845230023436a7d15f6c672",
+    "item": {
+      "title": "Buying Large LiFePO4 Batteries: How Cheap is Too Cheap?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"378\" src=\"https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg 1397w, https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg?resize=250,118 250w, https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg?resize=400,189 400w, https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg?resize=800,378 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"794780\" data-permalink=\"https://hackaday.com/2025/08/07/buying-large-lifepo4-batteries-how-cheap-is-too-cheap/cheap_lfp_battery_will_prowse_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg\" data-orig-size=\"1397,660\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"cheap_LFP_battery_will_prowse_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg?w=800\" /\u003e\u003c/div\u003eIt\u0026#8217;s a well-known factoid that batteries keep getting cheaper while capacity increases. That said, as with any market that is full of people who are hunting for that \u0026#8216;great deal\u0026#8217;, \u003ca href=\"https://hackaday.com/2025/08/07/buying-large-lifepo4-batteries-how-cheap-is-too-cheap/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/07/buying-large-lifepo4-batteries-how-cheap-is-too-cheap/"
+      ],
+      "categories": [
+        "Battery Hacks",
+        "Teardown",
+        "LiFePO4",
+        "lithium battery",
+        "teardown"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/cheap_LFP_battery_will_prowse_youtube.jpg"
+      },
+      "published": "2025-08-07T15:30:28Z"
+    }
+  },
+  {
+    "hash": "ca86bc978343a45ca3ddcfc1112927ea46fa83523848cc81439166d81bc98c60",
+    "item": {
+      "title": "Writing a storage engine for Postgres: An in-memory table access method (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44783368\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-04T08:53:15Z"
+    }
+  },
+  {
+    "hash": "4760158ea4b84814fd13df5ff8fa746e845146108db356b08378de1bd035c304",
+    "item": {
+      "title": "Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44784619\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44784619"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-04T11:56:30Z"
+    }
+  },
+  {
+    "hash": "25f6d199ea3b5298c1fbce6b5c4daae2e0f98913ee558a28c0f114f7ece081fc",
+    "item": {
+      "title": "Lessons from writing a Kubernetes Security book",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44784495\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-04T11:44:43Z"
+    }
+  },
+  {
+    "hash": "c07f5658597455f612176f2573faac7a1d2a931a6232174ce1adcb02477b0c34",
+    "item": {
+      "title": "LACT 0.8.1 Linux GPU Control Panel Improves Voltage/Clock Controls For Older AMD GPUs",
+      "description": "LACT 0.8.1 is out with a few important changes for this open-source Linux GPU control application that is written in Rust and rendered using GTK...",
+      "links": [
+        "https://www.phoronix.com/news/LACT-0.8.1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-08T04:00:00Z"
+    }
+  },
+  {
+    "hash": "6800970465104d66d424cd0e22115882f8fb54bd762d4dccbfb2a0fa3139c9fc",
+    "item": {
+      "title": "Binance Partners with Spanish Bank BBVA to Offer Off-Exchange Asset Custody: Report",
+      "description": "\u003cp\u003eBinance has teamed up with Spain’s BBVA to let customers store their assets off the exchange, a move aimed at boosting investor confidence.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-partners-with-spanish-bank-bbva-to-offer-off-exchange-asset-custody/\"\u003eBinance Partners with Spanish Bank BBVA to Offer Off-Exchange Asset Custody: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-partners-with-spanish-bank-bbva-to-offer-off-exchange-asset-custody/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bank",
+        "Binance"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/08060839/1754633318-binance-bbva_optimized.jpg"
+      },
+      "published": "2025-08-08T06:09:55Z"
+    }
+  },
+  {
+    "hash": "c91fa908e7d29acfa666caedb417b139b2978ccd111969ea094e5c06261ffebc",
+    "item": {
+      "title": "Ukraine Central Bank Wants Crypto Legalization, But Not as Means of Payment: Governor",
+      "description": "\u003cp\u003eThe National Bank of Ukraine (NBU) Governor Andriy Pyshnyy says that cryptos are not meant to be a legal tender and touts e-hryvnia CBDC pilot project.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ukraine-nbu-wants-crypto-legalization-not-as-legal-tender/\"\u003eUkraine Central Bank Wants Crypto Legalization, But Not as Means of Payment: Governor\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ukraine-nbu-wants-crypto-legalization-not-as-legal-tender/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "CBDC",
+        "Crypto Regulation",
+        "Ukraine"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/08045249/1754628768-image-1754624548830_optimized.jpg"
+      },
+      "published": "2025-08-08T05:17:17Z"
+    }
+  },
+  {
+    "hash": "ca8949efcbb9943254af90d3267769c2a591d6fa60cc17665046fa251d115133",
+    "item": {
+      "title": "XRP Surges Over 13% After Ripple and SEC Drop Final Appeals in Landmark Case",
+      "description": "\u003cp\u003eRipple and the SEC have ended their nearly four-year legal battle, prompting a 13% surge in XRP after both sides dropped their appeals on Thursday.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-sec-drop-final-appeals-landmark-case/\"\u003eXRP Surges Over 13% After Ripple and SEC Drop Final Appeals in Landmark Case\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-sec-drop-final-appeals-landmark-case/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Ripple",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/08045936/1754629175-xrp-price_optimized.jpg"
+      },
+      "published": "2025-08-08T05:00:08Z"
+    }
+  },
+  {
+    "hash": "b71cdff91492aff6520195c6612f63d5b6ea2b09e2165f6d6c529adebf3e1bfd",
+    "item": {
+      "title": "Bitcoin Miner CleanSpark Posts Record Quarterly Revenue and Profit, Beats Estimates",
+      "description": "\u003cp\u003eCleanSpark has delivered the strongest quarter in its history, posting record revenue and profit that outpaced Wall Street expectations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-miner-cleanspark-posts-record-quarterly-revenue/\"\u003eBitcoin Miner CleanSpark Posts Record Quarterly Revenue and Profit, Beats Estimates\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-miner-cleanspark-posts-record-quarterly-revenue/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Mining",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/08044501/1754628300-13157803-585b-460b-b45b-43fc8f9784d0_optimized.jpg"
+      },
+      "published": "2025-08-08T04:49:21Z"
+    }
+  },
+  {
+    "hash": "1d73b6efcabe261141a3f257f4b1dfedd2e5c40c337e1be922eaf5c3ed1e2b20",
+    "item": {
+      "title": "[LIVE] Crypto News Today: Latest Updates for August 08, 2025 – Crypto Market Soars as Trump Greenlights 401(k) Crypto Investments, ETH Tops $3,900",
+      "description": "\u003cp\u003eFollow up to the hour updates on what is happening in crypto today, August 08. Market movements, crypto news, and more!\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-august-08-2025/\"\u003e[LIVE] Crypto News Today: Latest Updates for August 08, 2025 – Crypto Market Soars as Trump Greenlights 401(k) Crypto Investments, ETH Tops $3,900\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-august-08-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/08042954/1754627394-live-news.jpg"
+      },
+      "published": "2025-08-08T04:31:12Z"
+    }
   }
 ]
