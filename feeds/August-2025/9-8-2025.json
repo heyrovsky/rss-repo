@@ -421,5 +421,104 @@
       },
       "published": "2025-08-08T21:16:37Z"
     }
+  },
+  {
+    "hash": "7061307b7de7b49fa2e0b3fc7ed2633ad873d4e0ceea69585efbca3c5c376a15",
+    "item": {
+      "title": "I bought a £16 smartwatch just because it used USB-C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810916\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-06T12:12:04Z"
+    }
+  },
+  {
+    "hash": "296f65ae26386f78c4a5f7587377a20c68c434d2ae98eacce76357fb6b826f8a",
+    "item": {
+      "title": "Don't use Redis as a rate limiter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799823\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/ratelimitly/why-you-shouldnt-use-redis-as-a-rate-limiter-part-1-of-2-3d4261f5b38a"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T16:05:24Z"
+    }
+  },
+  {
+    "hash": "f1d2f0838a328efcbda1a848ad23140e62c250a16d7d39cce14be82562f744e1",
+    "item": {
+      "title": "How to safely escape JSON inside HTML SCRIPT elements",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44842442\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-08T22:42:42Z"
+    }
+  },
+  {
+    "hash": "aeaab32081da67a4ec0f6e2cfad84540ab4c254d1433c0ba81bb2256d8d2f352",
+    "item": {
+      "title": "Dial-up Internet to be discontinued",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44843369\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://help.aol.com/articles/dial-up-internet-to-be-discontinued"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T01:37:30Z"
+    }
+  },
+  {
+    "hash": "942f82be7e6a1910d7d596778c3a0c649c1e866b4a06bffb0466a6ef2352c284",
+    "item": {
+      "title": "The Day Novartis Chose Discovery",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800336\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.alexkesin.com/p/the-day-novartis-chose-discovery"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T16:36:07Z"
+    }
+  },
+  {
+    "hash": "094ebde330eb3b9efafbd11d2a9e47966351c2f11f791f1ad9c27059e0b786aa",
+    "item": {
+      "title": "James Lovell, the steady astronaut who brought Apollo 13 home safely, has died",
+      "description": "Lovell was the first person to fly to the Moon twice.",
+      "links": [
+        "https://arstechnica.com/space/2025/08/astronaut-james-lovell-famed-apollo-13-commander-dies-at-97/"
+      ],
+      "categories": [
+        "Space",
+        "apollo 13",
+        "apollo 8",
+        "astronaut",
+        "death",
+        "died",
+        "Gemini 12",
+        "Gemini 7",
+        "James Lovell",
+        "Jim Lovell",
+        "moon voyager",
+        "NASA",
+        "obituary",
+        "Shaky",
+        "Space exploration",
+        "space history",
+        "Tom Hanks"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Robert Pearlman"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080825a-lg-1152x648.jpg"
+      },
+      "published": "2025-08-09T01:28:04Z"
+    }
   }
 ]
