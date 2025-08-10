@@ -1,0 +1,216 @@
+[
+  {
+    "hash": "4ee891e5b28c818df0b2c83d65e0517a9029bb7d39d000b4a2a4d77c15bf7057",
+    "item": {
+      "title": "Debian 13 (\"trixie\") released",
+      "description": "\u003cp\u003eThe Debian Project has released its latest stable version, \u003ca\nhref=\"https://www.debian.org/News/2025/20250809\"\u003eDebian\u0026#160;13\u003c/a\u003e\n(\"trixie\"), which will be supported through 2030. This release\nincludes GNOME\u0026#160;48, KDE\u0026#160;Plasma\u0026#160;6.3, Xfce\u0026#160;4.20,\nLinux\u0026#160;6.12, GCC\u0026#160;14.2, Python\u0026#160;3.13, and\nsystemd\u0026#160;257.\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eThis release contains over 14,100 new packages for a total count of\n69,830 packages, while over 8,840 packages have been removed as\n\"obsolete\". 44,326 packages were updated in this release. The overall\ndisk usage for \"trixie\" is 403,854,660 kB (403 GB), and is made up of\n1,463,291,186 lines of code. [...]\u003c/p\u003e\n\n\u003cp\u003eWith this broad selection of packages and its traditional wide\narchitecture support, Debian once again stays true to its goal of\nbeing \"\u003cem\u003eThe Universal Operating System\u003c/em\u003e\". It is suitable for many\ndifferent use cases: from desktop systems to netbooks; from\ndevelopment servers to cluster systems; and for database, web, and\nstorage servers. At the same time, additional quality assurance\nefforts like automatic installation and upgrade tests for all packages\nin Debian's archive ensure that \"\u003cem\u003etrixie\u003c/em\u003e\" fulfills the high\nexpectations that users have of a stable Debian release.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eTrixie adds riscv64 as an officially supported architecture, and\ndrops i386 as a regular architecture. Users with i386 systems should\nnot upgrade to trixie; the project recommends reinstalling them as\namd64, or retiring the hardware. See the \u003ca\nhref=\"https://www.debian.org/releases/trixie/release-notes/index.en.html\"\u003erelease\nnotes\u003c/a\u003e and \u003ca\nhref=\"https://www.debian.org/releases/trixie/release-notes/issues.en.html\"\u003eissues\nto be aware of\u003c/a\u003e before installing or upgrading to trixie.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1033134/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-08-09T22:14:46Z"
+    }
+  },
+  {
+    "hash": "5d52c80a957c554a157ab08e2a1f1882b1f610f24ed61636976c2a4c98818eb6",
+    "item": {
+      "title": "Btrfs Has Saved Meta \"Billions Of Dollars\" In Infrastructure Costs",
+      "description": "Amid the ongoing discussion over what will happen too Bcachefs in the mainline Linux kernel, an interesting anecdote around Btrfs was mentioned...",
+      "links": [
+        "https://www.phoronix.com/news/Btrfs-Saves-Meta-Billions"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-09T21:47:00Z"
+    }
+  },
+  {
+    "hash": "0381e89a7c000c4dfd121356cfc00a7b091792a546a9e93fef7fee0622dcb880",
+    "item": {
+      "title": "GPT-5: Overdue, overhyped and underwhelming. And that's not the worst of it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44851557\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-10T00:06:54Z"
+    }
+  },
+  {
+    "hash": "fd6f1b4f5a5f41272b87cf9da4ceee9b872d278ef27f1342dff9be82d5d7150f",
+    "item": {
+      "title": "How I code with AI on a budget/free",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44850913\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wuu73.org/blog/aiguide1.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T22:27:37Z"
+    }
+  },
+  {
+    "hash": "53bf3225c7501973dbf94d5dffd5a0d20594d30ebc6784a8f12b7d15c63c1980",
+    "item": {
+      "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44850681\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.eye.security/consent-and-compromise/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T21:59:43Z"
+    }
+  },
+  {
+    "hash": "d102e79f8145b2a2de7010a81d6ba752f5cea658710d5ff0e432447a34cb5582",
+    "item": {
+      "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44846922\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Aug/9/bay-area-ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T14:47:38Z"
+    }
+  },
+  {
+    "hash": "2693897533cb1e94ba069ee8321deec97296e4f296062ee4119a57608b200216",
+    "item": {
+      "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44849129\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ch.at/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T18:59:37Z"
+    }
+  },
+  {
+    "hash": "d6dbb9b0d9ceaaf4653018298564ad1c9568543dfb0a570ec1a4e9e9c7369209",
+    "item": {
+      "title": "R0ML's Ratio",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44845957\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.glyph.im/2025/08/r0mls-ratio.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T12:21:31Z"
+    }
+  },
+  {
+    "hash": "55ab296f2926969f669de0bfa13a7dc3a12f1395c32cd2a6ca859845d9205b89",
+    "item": {
+      "title": "People returned to live in Pompeii's ruins, archaeologists say",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44824088\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/c62wx23y2v1o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-07T13:16:52Z"
+    }
+  },
+  {
+    "hash": "393c13fa22925742eb50c8c8b7f9cfca4cc181b5f2be9ca8b9cc9391259d8ace",
+    "item": {
+      "title": "GPTs and Feeling Left Behind",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44851214\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T23:07:58Z"
+    }
+  },
+  {
+    "hash": "e5d3640abe2613d44ff8ee0eaa84324512d0602494379a55e22e050c1987ecd0",
+    "item": {
+      "title": "An AI-first program synthesis framework built around a new programming language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44847334\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://queue.acm.org/detail.cfm?id=3746223"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T15:36:21Z"
+    }
+  },
+  {
+    "hash": "df6734ee8493c644b4e55354a43edd89bdc93e98007059cd781438b5c7915a8f",
+    "item": {
+      "title": "How I use Tailscale",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44809166\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chameth.com/how-i-use-tailscale/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-06T08:09:09Z"
+    }
+  },
+  {
+    "hash": "f0e1f1bc35cc22aa93f5dc3527724444759da0026e4d531545326920b438a23d",
+    "item": {
+      "title": "An engineer's perspective on hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44845251\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jyn.dev/an-engineers-perspective-on-hiring"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T09:49:11Z"
+    }
+  },
+  {
+    "hash": "d37f772c3bc19fe973c97bf8524b7729945757cce2f75fed4fe71eb174ce589c",
+    "item": {
+      "title": "ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44847001\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/geo-tp/ESP32-Bus-Pirate"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T14:56:16Z"
+    }
+  },
+  {
+    "hash": "2d36fa520752072c23645b1836cfea2547a4dfb52062cbf3ff78a895ffd845a0",
+    "item": {
+      "title": "Ratfactor's illustrated guide to folding fitted sheets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44845839\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ratfactor.com/cards/fitted-sheets"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T11:58:52Z"
+    }
+  },
+  {
+    "hash": "966d7743d45ac3bd8f91416c22599a1d59532c5d9945e9f6036e2aa0f4e7a168",
+    "item": {
+      "title": "Cordoomceps – Replacing an Amiga’s brain with DOOM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802657\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mjg59.dreamwidth.org/73001.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-05T19:00:51Z"
+    }
+  },
+  {
+    "hash": "62decc04f266566092ff4cb84fb07f8e8eaba692d3f4c26ad2f59127b8cec0ff",
+    "item": {
+      "title": "The era of boundary-breaking advancements is over? [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44846140\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=hkAH7-u7t5k"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T12:55:52Z"
+    }
+  }
+]
