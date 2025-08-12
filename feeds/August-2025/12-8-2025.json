@@ -1604,5 +1604,532 @@
       },
       "published": "2025-08-12T07:12:48Z"
     }
+  },
+  {
+    "hash": "df9f18836542ed211aeeff8e4dd5018befe663cbdcd6fb8c6d71acbe877edb39",
+    "item": {
+      "title": "Qodo CLI agent scores 71.2% on SWE-bench Verified",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44874736\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.qodo.ai/blog/qodo-command-swe-bench-verified/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T11:05:59Z"
+    }
+  },
+  {
+    "hash": "5f9dde718ffd025598aa8dc2edb0f58e2ecce12fa29758f2be7efe43baaa2fb0",
+    "item": {
+      "title": "Depot (YC W23) Is Hiring a Community and Events Manager (Remote)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44875145\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T12:00:48Z"
+    }
+  },
+  {
+    "hash": "da9c81d4dcea06a47ad040f55c299375accac108b92cf04044ec9aa4eb33d0db",
+    "item": {
+      "title": "The Best Line Length",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44839776\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.glyph.im/2025/08/the-best-line-length.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-08T17:55:45Z"
+    }
+  },
+  {
+    "hash": "97df0e69775e777dd1fa26d5d3e25d8525794f0ee624005ee12b181cbe097b0c",
+    "item": {
+      "title": "Weathering Software Winter (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44871901\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://100r.co/site/weathering_software_winter.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T03:05:22Z"
+    }
+  },
+  {
+    "hash": "431a0a446e617bfaf830c20b8d16ba434a71d150b699c470e28a0ccbb9002dce",
+    "item": {
+      "title": "Reflecting on My Failure to Build a Billion-Dollar Company (2019)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44843774\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sahillavingia.com/reflecting"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-09T03:17:33Z"
+    }
+  },
+  {
+    "hash": "d21756e30d61541766d67321cea1daa19d00e7ba18efec1e8256655479bb9b29",
+    "item": {
+      "title": "Show HN: Move to dodge the bullets. How long can you survive?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44873721\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dodge.trickle.host"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T08:18:25Z"
+    }
+  },
+  {
+    "hash": "71477100615220b8dcbd1a5f5117e2d03fde474965f75a4daf089a7126143004",
+    "item": {
+      "title": "ZLUDA Implements Kernel Cache Support To Help With Performance",
+      "description": "ZLUDA as the open-source solution bringing CUDA to non-NVIDIA hardware has been seeing a nice uptick in activity the past several months for its latest take on life. The latest feature merged to ZLUDA is the all-important kernel cache to help with performance...",
+      "links": [
+        "https://www.phoronix.com/news/ZLUDA-Kernel-Cache"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-12T12:10:00Z"
+    }
+  },
+  {
+    "hash": "565a16fef98e353658d59deb93b0627b4f5ba0d18b383d0d9e0c99180d3421e5",
+    "item": {
+      "title": "Itanium IA-64 Support May Revert Back To Being Deprecated/Obsolete For GCC 16",
+      "description": "The GCC 14 compiler had marked the Itanium IA-64 code as being obsolete and slated for removal in GCC 15. But then last year the Itanium port was un-deprecated with plans to \"support this for some years to come.\" Now one year later it's back to talking about deprecating/obsoleting the Itanium IA-64 compiler code in GCC...",
+      "links": [
+        "https://www.phoronix.com/news/Itanium-IA-64-GCC-16-Obsolete"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-12T11:37:14Z"
+    }
+  },
+  {
+    "hash": "459f2a14a53ec5abd4b4d1c55b68f5ac182741dca28885c6338b614c117519e7",
+    "item": {
+      "title": "Intel Adds Another Battlemage BMG-G21 PCI ID To Their Linux Driver",
+      "description": "Intel has introduced another new PCI device ID to their open-source Linux graphics driver stack for signifying another likely product on the way based on the Battlemage BMG-G21 GPU...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Mesa-0xe209-Battlemage"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-12T10:35:00Z"
+    }
+  },
+  {
+    "hash": "e91b1902469ab6f4db9502fae6f43b4d678f385cd362e1142b70230db6bbbba6",
+    "item": {
+      "title": "Fedora 43 Approved To Ship Hare Programming Language Support, Hardlinking Default",
+      "description": "The Fedora Engineering and Steering Committee (FESCo) this week approved a number of additional features for the upcoming Fedora Linux 43 release...",
+      "links": [
+        "https://www.phoronix.com/news/Fedora-43-Hare-PHP-8.5-Hardlink"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-12T10:21:36Z"
+    }
+  },
+  {
+    "hash": "9b540c0c7d06c2ca430b0a41d4f487da2653ba85e0ddeb9e34ef77465151e00a",
+    "item": {
+      "title": "Linux Mint 22.2 Beta Increases Wayland Compatibility, UI Enhancements",
+      "description": "The beta release of Linux Mint 22.2 \"Zara\" is now available for testing of this popular desktop Linux distribution built atop an Ubuntu 24.04 LTS base...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Mint-22.2-Beta"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-12T10:06:05Z"
+    }
+  },
+  {
+    "hash": "f159408d0ee9a34f0f98280e24cbf150bc0af620afe1535cd2085eb8df21af35",
+    "item": {
+      "title": "Teamwork Pays Off! Join HTX’s 12th Anniversary Futures Team Challenge and Share a 120,000 USDT Prize Pool",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"668\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/IMAGE-2025-08-12-09_11_32.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/IMAGE-2025-08-12-09_11_32.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/08/IMAGE-2025-08-12-09_11_32-300x157.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/IMAGE-2025-08-12-09_11_32-1024x534.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/IMAGE-2025-08-12-09_11_32-768x401.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003e2025 marks the glorious 12th anniversary of HTX, a leading global crypto exchange. To thank our global users for their continued support and trust, HTX is launching the Futures Team Challenge, a brand new team competition where traders can team up to fight for glory and a share of a",
+      "links": [
+        "https://thenewscrypto.com/teamwork-pays-off-join-htxs-12th-anniversary-futures-team-challenge-and-share-a-120000-usdt-prize-pool/"
+      ],
+      "categories": [
+        "Press Release",
+        "HTX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/IMAGE-2025-08-12-09_11_32.jpg"
+      },
+      "published": "2025-08-12T06:54:13Z"
+    }
+  },
+  {
+    "hash": "046ee50e0982016c87b6e93627c696f5704e6bb26155c8658bd289e8f030b629",
+    "item": {
+      "title": "Gate Powers the Token of Love Music Festival, Featuring Decrypt, Co-Creating a New Ecosystem Where Web3 Meets Mainstream Culture",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"435\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-41.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-41.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-41-300x167.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-41-768x428.jpg 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eGate, a world-leading Web3 platform, has officially announced its role as the title sponsor of the Token of Love Music Festival, featuring Decrypt as a key partner, set to take place on October 1, 2025. This strategic move not only signals Gate\u0026#8217;s prominent presence on the global cultural stage but",
+      "links": [
+        "https://thenewscrypto.com/gate-powers-the-token-of-love-music-festival-featuring-decrypt-co-creating-a-new-ecosystem-where-web3-meets-mainstream-culture/"
+      ],
+      "categories": [
+        "Press Release",
+        "Gate"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-41.jpg"
+      },
+      "published": "2025-08-12T06:33:15Z"
+    }
+  },
+  {
+    "hash": "65479543718f6227f61783c4287b1689c14e38841f79ef58bb6798f13ed8c75c",
+    "item": {
+      "title": "Presale Countdown: Arctic Pablo’s 120X Potential Joins PEPE and FLOKI in Top New Meme Coins To Buy for 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-37.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-37.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-37-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-37-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe meme coin market is heating up in 2025, and investors are hunting for projects that don’t just promise laughs but deliver serious returns. Three names stand out today — Arctic Pablo Coin (APC) with its story-driven presale adventure, Pepe Coin (PEPE) riding a bullish technical setup, and Floki Inu",
+      "links": [
+        "https://thenewscrypto.com/presale-countdown-arctic-pablos-120x-potential-joins-pepe-and-floki-in-top-new-meme-coins-to-buy-for-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Arctic Pablo Coin (APC)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-37.jpg"
+      },
+      "published": "2025-08-12T06:30:00Z"
+    }
+  },
+  {
+    "hash": "bfbccc1b16c13cc1e99639232d492487ac71b4153f671d1afd044c9c54e6d673",
+    "item": {
+      "title": "Bear Bite for Fartcoin: Will It Recover or Spiral Deeper After a 21% Crash?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Bear-Bite-for-Fartcoin-Will-It-Recover-or-Spiral-Deeper-After-a-21-Crash.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bear Bite for Fartcoin: Will It Recover or Spiral Deeper After a 21% Crash?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Bear-Bite-for-Fartcoin-Will-It-Recover-or-Spiral-Deeper-After-a-21-Crash.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Bear-Bite-for-Fartcoin-Will-It-Recover-or-Spiral-Deeper-After-a-21-Crash-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Bear-Bite-for-Fartcoin-Will-It-Recover-or-Spiral-Deeper-After-a-21-Crash-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market opened the day on a bearish note, failing to hold the recent recovery attempt. As a result, the major tokens are dipped in red, including the largest assets like Bitcoin and Ethereum. Only a steady movement on the upside could trigger the recovery from the bear grip.\u0026#160;",
+      "links": [
+        "https://thenewscrypto.com/bear-bite-for-fartcoin-will-it-recover-or-spiral-deeper-after-a-21-crash/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "FARTCOIN"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Bear-Bite-for-Fartcoin-Will-It-Recover-or-Spiral-Deeper-After-a-21-Crash.jpg"
+      },
+      "published": "2025-08-12T06:27:02Z"
+    }
+  },
+  {
+    "hash": "13ef523b5e0c54ff476c7748f20acd8927b08e5e81e9a3563e9723f57c5800fb",
+    "item": {
+      "title": "Streaming ROI Every Second: ClusterYield’s $650K+ Smart Contract Rewards Investors \u0026 Expands Through Community Power",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"476\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-40.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-40.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-40-300x183.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-40-768x469.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe clock is ticking — literally. In the time it takes to read this headline, ClusterYield investors have already been paid. With its live smart contract balance exceeding $650,000+, verifiable at 0xa3512bD47D64fDA7AD9160A259f1cf95e35d0F61, ClusterYield has become the DeFi platform everyone is talking about for real-time, AI-powered passive income. No Waiting, No",
+      "links": [
+        "https://thenewscrypto.com/streaming-roi-every-second-clusteryields-650k-smart-contract-rewards-investors-expands-through-community-power/"
+      ],
+      "categories": [
+        "Press Release",
+        "ClusterYield"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-40.jpg"
+      },
+      "published": "2025-08-12T05:50:12Z"
+    }
+  },
+  {
+    "hash": "c7c41f39983268bddda5533c65b9eae8f906ea73c3c18ea0ea4705861e393153",
+    "item": {
+      "title": "Aussivo Reveals Vision To Build Blockchain-Verified Cloud Trust Layer — A New Standard for Transparency in the Digital World",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"768\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-11_17-14-43.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-11_17-14-43.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-11_17-14-43-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-11_17-14-43-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-11_17-14-43-768x461.jpg 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eAs trust in centralized cloud giants begins to fray, Aussivo has stepped forward with a bold mission: to redefine how cloud infrastructure is trusted, billed, and secured. Aussivo today revealed its vision for the world’s first autonomous, intelligent blockchain layer designed to enhance transparency, security, and fairness across existing cloud",
+      "links": [
+        "https://thenewscrypto.com/aussivo-reveals-vision-to-build-blockchain-verified-cloud-trust-layer-a-new-standard-for-transparency-in-the-digital-world/"
+      ],
+      "categories": [
+        "Press Release",
+        "Aussivo"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-11_17-14-43.jpg"
+      },
+      "published": "2025-08-12T05:38:47Z"
+    }
+  },
+  {
+    "hash": "8d3991f01ca430ae81bc888d98df7e9ad6c12abc643618ea190eb6acb38dcbab",
+    "item": {
+      "title": "Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors",
+      "description": "The Dutch National Cyber Security Centre (NCSC-NL) has warned of cyber attacks exploiting a recently disclosed critical security flaw impacting Citrix NetScaler ADC products to breach organizations in the country.\nThe NCSC-NL said it discovered the exploitation of CVE-2025-6543 targeting several critical organizations within the Netherlands, and that investigations are ongoing to determine the",
+      "links": [
+        "https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgox-B7TPfiDw6z0RMSA6amNf7tFBv7gDXfFtUHwAOfZWQTU-YC_tmNOl2qOuy5hydGe49_DfjFlLNQ3kF8YOIZozTpzmoJ7eMqWiePhkMJug60utLcTPsbI33bIMDvwEU4iVfsK20bpxAZbeZBfNkt0iQJbCHZppSPchb50MI6V9Cscnc4OzZijVBgDWPv/s1600/cit.jpg"
+      },
+      "published": "2025-08-12T08:36:00Z"
+    }
+  },
+  {
+    "hash": "f2ef01d10583c4e5dc868b9f0b664b6a594cfd6c083428c2e2c7312eaf63b807",
+    "item": {
+      "title": "BTC Cloud Mining Secret: Some Claim to Have Earned $10,000",
+      "description": "\u003cp\u003eSIX MINING’s mission is to create a sustainable, eco-friendly mining environment, enabling more crypto enthusiasts—whether individuals or teams—to participate without having to buy or maintain equipment or pay for direct energy costs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/btc-cloud-mining-secret-some-claim-to-have-earned-10000/\"\u003eBTC Cloud Mining Secret: Some Claim to Have Earned $10,000\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/btc-cloud-mining-secret-some-claim-to-have-earned-10000/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin Miner"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/11141440/1754921679-six-mining-btc.jpg"
+      },
+      "published": "2025-08-12T12:00:00Z"
+    }
+  },
+  {
+    "hash": "e665a6a12326133bfda77ffe4f43a62c6479d81c0b5cfd02cb1b684a0655c668",
+    "item": {
+      "title": "Amidst the Volatility of the Crypto Market, Mint Miner Provides Secure, Stable, and Convenient Cloud Mining Solutions for BTC, XRP, and SOL Holders",
+      "description": "\u003cp\u003eAmidst the current volatility and growing uncertainty in the crypto market, Mint Miner provides a secure, stable, and convenient cloud mining solution.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/amidst-the-volatility-of-the-crypto-market-mint-miner-provides-secure-stable-and-convenient-cloud-mining-solutions-for-btc-xrp-and-sol-holders/\"\u003eAmidst the Volatility of the Crypto Market, Mint Miner Provides Secure, Stable, and Convenient Cloud Mining Solutions for BTC, XRP, and SOL Holders\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/amidst-the-volatility-of-the-crypto-market-mint-miner-provides-secure-stable-and-convenient-cloud-mining-solutions-for-btc-xrp-and-sol-holders/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/12113929/1754998768-mint-miner.jpg"
+      },
+      "published": "2025-08-12T11:42:37Z"
+    }
+  },
+  {
+    "hash": "b8687f04a9ccff0e27725154152d79041e34ed3eb9384cbdedbace993c5e58e1",
+    "item": {
+      "title": "Why Is Crypto Down Today? – August 12, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today, ETH spot ETFs hit a $1B record, and US CPI data “could trigger next BTC ATH.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-august-12-2025/\"\u003eWhy Is Crypto Down Today? – August 12, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-august-12-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/12110744/1754996863-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-08-12T11:11:17Z"
+    }
+  },
+  {
+    "hash": "3ea2467696810adc0dc1817d85a01063991a276038141f94d65ee46502a6974f",
+    "item": {
+      "title": "Crypto Hackers Are Laundering Stolen Funds in Under 3 Minutes",
+      "description": "\u003cp\u003eCrypto service providers typically have a 10-15 minute window to act on stolen funds, but hackers often launder the assets before the breach is even detected or reported publicly, a new report finds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/crypto-hackers-are-laundering-stolen-funds-in-under-3-minutes/\"\u003eCrypto Hackers Are Laundering Stolen Funds in Under 3 Minutes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/crypto-hackers-are-laundering-stolen-funds-in-under-3-minutes/"
+      ],
+      "categories": [
+        "Features",
+        "anti-money laundering",
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jeffrey Gogo"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/12103540/1754994940-crypto-attacks.jpg"
+      },
+      "published": "2025-08-12T11:08:55Z"
+    }
+  },
+  {
+    "hash": "38e96453de822c48c2c48060a68017f39f18a340e55a163ca28d643e2384521d",
+    "item": {
+      "title": "Bitcoin Price Prediction: $4T Crypto Market Cap Fuels Bullish Outlook",
+      "description": "\u003cp\u003e\u003cspan data-preserver-spaces=\"true\"\u003eBitcoin trades near $118,500 after a $4T crypto market cap milestone. Institutional buys, ETF demand, and bullish charts shape the BTC price prediction.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-4t-crypto-market-cap-fuels-bullish-outlook/\"\u003eBitcoin Price Prediction: $4T Crypto Market Cap Fuels Bullish Outlook\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-4t-crypto-market-cap-fuels-bullish-outlook/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07135922/1754575161-bitcoin-price-prediction-6.jpg"
+      },
+      "published": "2025-08-12T11:04:37Z"
+    }
+  },
+  {
+    "hash": "82919f3274996cd6d4483b3bc03054cad49badb94f482451b083c5bd752059de",
+    "item": {
+      "title": "Ethereum’s Rally Fuels New Wave of Passive Income with WinnerMining",
+      "description": "\u003cp\u003eWith ETH ETFs regaining momentum and platforms like WinnerMining providing fixed daily payouts, Ethereum investors can now combine long-term growth potential with short-term cash flow.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ethereums-rally-fuels-new-wave-of-passive-income-with-winnermining/\"\u003eEthereum’s Rally Fuels New Wave of Passive Income with WinnerMining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ethereums-rally-fuels-new-wave-of-passive-income-with-winnermining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/11141107/1754921467-winnermining-ethereum.jpg"
+      },
+      "published": "2025-08-12T11:00:00Z"
+    }
+  },
+  {
+    "hash": "9527af9171e41fb58f72be39bce7da773d53b587b664f415371ce4cf67566dff",
+    "item": {
+      "title": "‘Future Will Be Combination of Traditional and Crypto Payments,’ Says Visa’s Crypto Chief as Stablecoin Market Hit $269B",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eVisa's crypto chief Cuy Sheffield predicts future combining traditional and crypto payments as stablecoin market hits $269B growing 62% annually with potential to expand to $2T within three years.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/future-will-be-combination-of-traditional-and-crypto-payments-says-visas-crypto-chief-as-stablecoin-market-hit-269b/\"\u003e\u0026#8216;Future Will Be Combination of Traditional and Crypto Payments,\u0026#8217; Says Visa\u0026#8217;s Crypto Chief as Stablecoin Market Hit $269B\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/future-will-be-combination-of-traditional-and-crypto-payments-says-visas-crypto-chief-as-stablecoin-market-hit-269b/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Stablecoin",
+        "Visa"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/12095750/1754992669-stock-image_optimized-30.jpg"
+      },
+      "published": "2025-08-12T10:10:56Z"
+    }
+  },
+  {
+    "hash": "dc5e636069759c86b9f6c2d0f0dd460099092c82aead33a94b73aeb8840b0efb",
+    "item": {
+      "title": "Texas Utility Regulator Sues Attorney General to Keep Crypto Mining Data Secret Over Terrorism Fears",
+      "description": "\u003cp\u003eThe Texas Utility regulator has taken the unusual step of suing state Attorney General Ken Paxton in an effort to block the release of cryptocurrency mining data.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/texas-utility-regulator-sues-attorney-general-to-keep-crypto-mining-data-secret-over-terrorism-fears/\"\u003eTexas Utility Regulator Sues Attorney General to Keep Crypto Mining Data Secret Over Terrorism Fears\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/texas-utility-regulator-sues-attorney-general-to-keep-crypto-mining-data-secret-over-terrorism-fears/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin Mining",
+        "Mining",
+        "Texas"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/12100655/1754993215-image-1754993196277_optimized.jpg"
+      },
+      "published": "2025-08-12T10:10:14Z"
+    }
   }
 ]
