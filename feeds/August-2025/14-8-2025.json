@@ -2625,5 +2625,658 @@
       },
       "published": "2025-08-14T13:00:00Z"
     }
+  },
+  {
+    "hash": "6ea2554bf81415488d8adb7bf3ae5beac6af53a9788dc9fe42947a1876c0ff87",
+    "item": {
+      "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
+      "description": "Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks.\n\"MadeYouReset bypasses the typical server-imposed limit of 100 concurrent HTTP/2 requests per TCP connection from a client. This limit is intended to mitigate DoS attacks by restricting the number of simultaneous",
+      "links": [
+        "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSC8RKDZAKsjpLyVVFosJoZD1m9wfshysodB782T1n0QhxEVQ6b0yg6voBA8GJwdpBM3flhXMFih32VbT4vsHW2fKmKmFi1glN_34KVKflWVzue9XMBfamEI3jubKlIRXqmRdc95Wf2kYDM-gTta9z0-dTPzfkXjqKwD-kITRuUHOU5BZFgeqa0907-nEO/s1600/dos-attack.jpg"
+      },
+      "published": "2025-08-14T15:20:00Z"
+    }
+  },
+  {
+    "hash": "302c405b7f3f0a3203bb938be51fc42029284d3600a613a0ec76e551602d3068",
+    "item": {
+      "title": "Meta backtracks on rules letting chatbots be creepy to kids",
+      "description": "Meta drops AI rules letting chatbots generate innuendo and profess love to kids.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/08/meta-backtracks-on-rules-letting-chatbots-be-creepy-to-kids/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "chatbots",
+        "child safety",
+        "Facebook",
+        "Instagram",
+        "meta",
+        "Meta AI"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1262115345-1152x648.jpg"
+      },
+      "published": "2025-08-14T16:31:01Z"
+    }
+  },
+  {
+    "hash": "16c2a60085fad581226476e2fab2ee8640576466f169dfbff7ad199177bb2ca9",
+    "item": {
+      "title": "Incan numerical recordkeeping system may have been widely used",
+      "description": "The Inca Empire hung by a thread—literally.",
+      "links": [
+        "https://arstechnica.com/science/2025/08/recent-study-shows-even-commoners-used-elaborate-inca-recordkeeping-knots/"
+      ],
+      "categories": [
+        "Science",
+        "ancient people did stuff",
+        "anthropology",
+        "Archaeology",
+        "inca",
+        "Incan empire",
+        "indigenous americans",
+        "indigenous communities",
+        "indigenous south america",
+        "khipu",
+        "Pre-Columbian civilizations",
+        "science",
+        "wari"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kiona N. Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/KH0631-entire-khipu-1096x648.jpg"
+      },
+      "published": "2025-08-14T16:10:09Z"
+    }
+  },
+  {
+    "hash": "7781b4aec5f5470dabaa1a659857b4d6496e08637eb2c1fca8e28bf612a472fa",
+    "item": {
+      "title": "Ice discs slingshot across a metal surface all on their own",
+      "description": "VA Tech experiment was inspired by Death Valley's mysterious \"sailing stones\" at Racetrack Playa.",
+      "links": [
+        "https://arstechnica.com/science/2025/08/ice-discs-slingshot-across-a-metal-surface-all-on-their-own/"
+      ],
+      "categories": [
+        "Science",
+        "fluid dynamics",
+        "Leidenfrost effect",
+        "materials science",
+        "Physics",
+        "reverse Leidenfrost effect"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/icemoves1-1152x648-1754747085.jpg"
+      },
+      "published": "2025-08-14T15:44:44Z"
+    }
+  },
+  {
+    "hash": "c8793c8af84d1b57ea7d711dfd9e663b5b11ecafb143d31b254b1a3b707e09ea",
+    "item": {
+      "title": "Misunderstood “photophoresis” effect could loft metal sheets to exosphere",
+      "description": "Photophoresis can generate a tiny bit of lift without any moving parts.",
+      "links": [
+        "https://arstechnica.com/science/2025/08/misunderstood-photophoresis-effect-could-loft-metal-sheets-to-exosphere/"
+      ],
+      "categories": [
+        "Science",
+        "engineering",
+        "materials science",
+        "photophoresis",
+        "Physics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-102727472.jpg"
+      },
+      "published": "2025-08-14T15:28:50Z"
+    }
+  },
+  {
+    "hash": "72dc6f00b01a3947f1580fffa89be4e8c2e9a7bc0b7684a88e79c053c2bb83a4",
+    "item": {
+      "title": "Apple Watch gets reformulated, non-patent-infringing blood oxygen monitoring",
+      "description": "Feature had been removed from US Apple Watches after Apple lost a patent fight.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/08/redesigned-blood-oxygen-monitoring-returns-to-apple-watch-following-patent-dispute/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple watch"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-12.15.24-1152x648.jpg"
+      },
+      "published": "2025-08-14T14:44:25Z"
+    }
+  },
+  {
+    "hash": "e71e1fd32ec7b1c8683efe51373972e536b7e6dbd366d6284a7e93f6a11b13d7",
+    "item": {
+      "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44902148\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.googleblog.com/en/introducing-gemma-3-270m/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T16:08:36Z"
+    }
+  },
+  {
+    "hash": "4294b5fc2a5b49565a5e10ff54a870ee0517a158d1445879c893f009221a8138",
+    "item": {
+      "title": "Blood oxygen monitoring returning to Apple Watch in the US",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899999\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:14:35Z"
+    }
+  },
+  {
+    "hash": "575057173f18ef33ff39b55e48e1b84b72de86d358f8d3890a73e49c0767f94c",
+    "item": {
+      "title": "Bluesky: Updated Terms and Policies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44902763\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T16:54:14Z"
+    }
+  },
+  {
+    "hash": "ea915827aa4ca658b4bff824acb6a16b825a463d6aaf4b102cb2408a26b6e3ec",
+    "item": {
+      "title": "Kodak has no plans to cease, go out of business, or file for bankruptcy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44901330\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T15:09:23Z"
+    }
+  },
+  {
+    "hash": "4a626b1bc70274419e231b1b3f384ad330b50a9aa1efd201e0df1021d960a39d",
+    "item": {
+      "title": "Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44901528\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44901528"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T15:24:53Z"
+    }
+  },
+  {
+    "hash": "c24a5dcaee8376b66812d9d9e4e5d696dbf607a65633a97631aeddc4fa196ab5",
+    "item": {
+      "title": "Axle (YC S22) Is Hiring Product Engineers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44902853\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T17:00:30Z"
+    }
+  },
+  {
+    "hash": "1f75099deb173ac91a37a9e40bd00649f894a684e05ded6b69d0fc33e95e6a78",
+    "item": {
+      "title": "Architecting LARGE software projects [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44873635\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=sSpULGNHyoI"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T08:05:39Z"
+    }
+  },
+  {
+    "hash": "a5ae942813d416faede453bea754d1db10256a3b64228dfe585091c3e91b398a",
+    "item": {
+      "title": "Show HN: I built a free alternative to Adobe Acrobat PDF viewer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44901683\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/embedpdf/embed-pdf-viewer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T15:34:46Z"
+    }
+  },
+  {
+    "hash": "2ac27d21690f50b2daabdfba3741ddd4634f003451f88327954c0ce70c3ae35c",
+    "item": {
+      "title": "Show HN: Zig-DbC – A design by contract library for Zig",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44876174\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=44876174"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T13:49:57Z"
+    }
+  },
+  {
+    "hash": "e6f4bbe077ff566bd7327815f6aaae811591ef519583a45829ef0656c536605b",
+    "item": {
+      "title": "I Made a Realtime C/C++ Build Visualizer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44902127\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://danielchasehooper.com/posts/syscall-build-snooping/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T16:06:55Z"
+    }
+  },
+  {
+    "hash": "5a9544f3e71c4c0f2ce7f98f90e175877983adf45b836c1c5f9e493511b1c660",
+    "item": {
+      "title": "JetBrains working on higher-abstraction programming language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44901885\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T15:49:41Z"
+    }
+  },
+  {
+    "hash": "8601d89d05c3bce1b682d7054ddf2217c80bd40f3fc7891114f42d29d259a5de",
+    "item": {
+      "title": "KosmicKrisp a Vulkan on Metal Mesa 3D Graphics Driver",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44873103\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lunarg.com/a-vulkan-on-metal-mesa-3d-graphics-driver/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T06:37:56Z"
+    }
+  },
+  {
+    "hash": "4f157f88d20997f02e5b0120a42167626c4c674802e1a64af0706ee416f4d2ef",
+    "item": {
+      "title": "Why LLMs can't really build software",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44900116\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zed.dev/blog/why-llms-cant-build-software"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:26:09Z"
+    }
+  },
+  {
+    "hash": "24013fc346e9e6da1315d5cf2a7bbc19768bc670e9c215d9f58655a410ed6fb8",
+    "item": {
+      "title": "VirtualBox 7.2 Released With Windows 11 ARM Support, Linux 6.16 Compatibility",
+      "description": "Oracle today released VirtualBox 7.2 as the newest version of this cross-platform virtualization solution...",
+      "links": [
+        "https://www.phoronix.com/news/VirtualBox-7.2-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-14T16:50:41Z"
+    }
+  },
+  {
+    "hash": "93b4e2d0ecd652e6b8cfd70927d08a1da2da9763a2fb6da91ba53fc8d5442adc",
+    "item": {
+      "title": "BtcTurk Turkey’s Second-Largest Crypto Exchange Loses $48M in Major Hack – What’s Happening?",
+      "description": "\u003cp data-start=\"629\" data-end=\"935\"\u003eBtcTurk, a major crypto exchange in Turkey, has reported a suspected $48M multi-chain breach targeting hot wallets. Cryptocurrency deposits and withdrawals are suspended, but fiat transactions remain unaffected as security teams investigate in coordination with blockchain analysts.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/btcturk-turkeys-second-largest-crypto-exchange-loses-48m-in-major-hack-whats-happening/\"\u003eBtcTurk Turkey\u0026#8217;s Second-Largest Crypto Exchange Loses $48M in Major Hack – What\u0026#8217;s Happening?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/btcturk-turkeys-second-largest-crypto-exchange-loses-48m-in-major-hack-whats-happening/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto hack"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14145247/1755183167-image-1755183099236_optimized.jpg"
+      },
+      "published": "2025-08-14T18:07:48Z"
+    }
+  },
+  {
+    "hash": "81ca432d25333ec3d4f2638314e8071e6297ad53a4d978f8e3e091d7e78fe5db",
+    "item": {
+      "title": "$1.05B Liquidation Tsunami Wrecks Crypto Bulls Following Hot US Inflation Data – Bull Run Over?",
+      "description": "\u003cp data-start=\"488\" data-end=\"787\"\u003eThe crypto bull run has been halted after $1.05B in liquidations followed hotter-than-expected US inflation data. Bitcoin, Ethereum, and other major cryptocurrencies have posted steep losses, with only Cardano remaining in positive territory amid a shift in market sentiment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/1-05b-liquidation-tsunami-wrecks-crypto-bulls-following-hot-us-inflation-data-bull-run-over/\"\u003e$1.05B Liquidation Tsunami Wrecks Crypto Bulls Following Hot US Inflation Data – Bull Run Over?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/1-05b-liquidation-tsunami-wrecks-crypto-bulls-following-hot-us-inflation-data-bull-run-over/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14151818/1755184698-stock-image_optimized-84.jpg"
+      },
+      "published": "2025-08-14T17:40:02Z"
+    }
+  },
+  {
+    "hash": "84eeab266961cf55f42cfeafeb83325843c17afdaeaf02406009f5a1714870e8",
+    "item": {
+      "title": "ETH ETFs Just Hit a $1 Billion Net Inflow Day – Could That Spur Altcoin Rotation This Weekend?",
+      "description": "\u003cp data-start=\"459\" data-end=\"732\"\u003eETH Inflows have reached a record, with U.S. spot Ethereum ETFs drawing $1B in a single session. BlackRock’s ETHA has led with $640M and Fidelity’s FETH has added $277M. Liquidity and participation have expanded across DeFi, L2s, and connected markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eth-etfs-just-hit-a-1-billion-net-inflow-day-could-that-spur-altcoin-rotation-this-weekend/\"\u003eETH ETFs Just Hit a $1 Billion Net Inflow Day – Could That Spur Altcoin Rotation This Weekend?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eth-etfs-just-hit-a-1-billion-net-inflow-day-could-that-spur-altcoin-rotation-this-weekend/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "News",
+        "ETH",
+        "Ethereum ETFs",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14153808/1755185887-image-1755185802404_optimized.jpg"
+      },
+      "published": "2025-08-14T16:57:08Z"
+    }
+  },
+  {
+    "hash": "04983fee8492fee0747b05011bc30dd64935b27c28205a81dbcf65da1b421b69",
+    "item": {
+      "title": "Dogecoin Price Prediction: Golden Cross Appears for First Time in Years – $1 Could Be Just the Start",
+      "description": "\u003cp\u003eMarket analyst Omkar Godbole has shared a bullish Dogecoin price prediction that sees the token exploding within the next few weeks after a strong buy signal popped up in the daily chart.Godbole, who is a Certified Market Technician (CMT), highlighted that a rare event called a ‘golden cross’, which is a crossover between the 50-day [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-golden-cross-appears-for-first-time-in-years-1-could-be-just-the-start/\"\u003eDogecoin Price Prediction: Golden Cross Appears for First Time in Years – $1 Could Be Just the Start\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-golden-cross-appears-for-first-time-in-years-1-could-be-just-the-start/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14112841/1755170920-dogecoin-price-prediction-1.jpg"
+      },
+      "published": "2025-08-14T16:55:31Z"
+    }
+  },
+  {
+    "hash": "87ef6495bb212536de82877805395fc7b7c35d6f725a11e9a9e77420dd3094af",
+    "item": {
+      "title": "$RAY Rockets 33% Weekly as $200M Buybacks Light Solana DeFi on Fire",
+      "description": "\u003cp data-start=\"450\" data-end=\"735\"\u003e$RAY has advanced amid Solana DeFi interest, trading near $3.71 with $443M daily volume. A $200M buyback, fee sharing and July revenue of $18M have supported the token. Price has faced $4.20 resistance, with $3.50–$3.65 watched as support and $3.90 as a reclaim level.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ray-rockets-33-200m-buybacks-ignite-solana-defi/\"\u003e$RAY Rockets 33% Weekly as $200M Buybacks Light Solana DeFi on Fire\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ray-rockets-33-200m-buybacks-ignite-solana-defi/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cross-chain integration",
+        "Raydium",
+        "Solana DeFi"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/28154228/1738078948-how-is-raydium-becoming-the-top-solana-dex.jpg"
+      },
+      "published": "2025-08-14T16:47:14Z"
+    }
+  },
+  {
+    "hash": "f70eb912deaaebd98334b0b9a9f71e8cbfc22c4d78ffe6c2df91dc00d104a1b3",
+    "item": {
+      "title": "XRP Price Prediction: All Indicators Flash Bullish – 130% Rally in August is About to Start",
+      "description": "\u003cp\u003eFundamentals and technical indicators are aligning for another bull run – XRP price prediction now eyes 100% August rally despite macro concern.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-all-indicators-flash-bullish-130-setup/\"\u003eXRP Price Prediction: All Indicators Flash Bullish – 130% Rally in August is About to Start\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-all-indicators-flash-bullish-130-setup/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Technical Analysis",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14160324/1755187403-xrp-price-prediction.jpg"
+      },
+      "published": "2025-08-14T16:42:49Z"
+    }
+  },
+  {
+    "hash": "e46a47468ebc379e08dab4e35743af715e3cfe64995f5a5314cf70bad0bcae4a",
+    "item": {
+      "title": "Ethereum Price Prediction: ETH Inches From All-Time High – Mega Breakout Could Send It to $20K",
+      "description": "\u003cp\u003eThe Ethereum price is days or hours away from setting a new all-time high, and Standard Chartered predicts it could rise even higher this year.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-eth-inches-from-all-time-high-mega-breakout-could-send-it-to-20k/\"\u003eEthereum Price Prediction: ETH Inches From All-Time High – Mega Breakout Could Send It to $20K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-eth-inches-from-all-time-high-mega-breakout-could-send-it-to-20k/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "ETH",
+        "Ethereum",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14123049/1755174648-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-08-14T16:40:14Z"
+    }
+  },
+  {
+    "hash": "2a31586cf054c95ca59efd21f090ef8644ca9d54de0cf097606c46aaf91d9b09",
+    "item": {
+      "title": "Cardano Soars to $0.966 on Grayscale ETF Hopes and Major Network Upgrade: Is $1.50 Possible?",
+      "description": "\u003cp data-start=\"435\" data-end=\"715\"\u003eCardano has gained momentum amid ETF optimism and substantial network upgrades, including Hydra and Ouroboros Leios. Institutional interest is rising as the price tests resistance near $1, supported by reduced liquid supply and long-term holder confidence.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-ada-price-soars-to-0-966-on-grayscale-etf-hopes-and-major-network-upgrade-is-1-50-possible/\"\u003eCardano Soars to $0.966 on Grayscale ETF Hopes and Major Network Upgrade: Is $1.50 Possible?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-ada-price-soars-to-0-966-on-grayscale-etf-hopes-and-major-network-upgrade-is-1-50-possible/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "$ADA",
+        "Grayscale ETF",
+        "Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/23224927/1745448567-cardano.jpg"
+      },
+      "published": "2025-08-14T16:33:47Z"
+    }
+  },
+  {
+    "hash": "746517247aed958dc1974d9b12766af72463428af904dc56fb34df256fdd8dcc",
+    "item": {
+      "title": "Stellar Price Prediction: XLM Adding 6,000 New Users a Day – Is This the Next 100x Crypto Explosion?",
+      "description": "\u003cp\u003eStellar On-chain activity continues to break records – Stellar price prediction now eyes explosive move with strength building beneath the surface\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stellar-price-prediction-xlm-adding-6000-new-users-a-day/\"\u003eStellar Price Prediction: XLM Adding 6,000 New Users a Day – Is This the Next 100x Crypto Explosion? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stellar-price-prediction-xlm-adding-6000-new-users-a-day/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Prediction",
+        "Stellar",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14122028/1755174027-stellar-price-prediction.jpg"
+      },
+      "published": "2025-08-14T16:26:56Z"
+    }
+  },
+  {
+    "hash": "a8219906ba47098f75058ceb34ffb0225d640d7a564ad6ddb0700a6566083b72",
+    "item": {
+      "title": "Chainlink Adds $1.03M LINK to Reserve – Is a Bigger Buy Program Underway?",
+      "description": "\u003cp data-start=\"455\" data-end=\"760\"\u003eThe Chainlink Reserve has reached 109,661.68 LINK worth $2.4M following substantial August inflows. Data shows consistent accumulation from enterprise integrations and onchain usage, underscoring the network’s growing role in blockchain data connectivity and cross-chain operations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/chainlink-boosts-reserve-with-1-03m-link-addition-total-holdings-now-2-55m/\"\u003eChainlink Adds $1.03M LINK to Reserve – Is a Bigger Buy Program Underway?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/chainlink-boosts-reserve-with-1-03m-link-addition-total-holdings-now-2-55m/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "ChainLink",
+        "Chainlink CCIP",
+        "Link"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07041759/1754540278-blockchainz_optimized.jpg"
+      },
+      "published": "2025-08-14T16:22:16Z"
+    }
+  },
+  {
+    "hash": "c989d01d84172427113d24fe009b560493445723876bad72ce85a3fb78744d57",
+    "item": {
+      "title": "Bitpanda Targets British Investors: 600+ Cryptoassets Now Live, Arsenal Onboard",
+      "description": "\u003cp data-start=\"459\" data-end=\"764\"\u003eBitpanda has launched in the UK, enabling investors to access more than 600 cryptoassets, from Bitcoin to Stablecoins. The move includes appointing a UK Country Director, expanding B2B services, and partnering with Arsenal FC to raise awareness and understanding of digital assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitpanda-enters-uk-market-with-600-cryptoassets-and-arsenal-partnership/\"\u003eBitpanda Targets British Investors: 600+ Cryptoassets Now Live, Arsenal Onboard\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitpanda-enters-uk-market-with-600-cryptoassets-and-arsenal-partnership/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Arsenal",
+        "Bitpanda",
+        "UK Crypto"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/21065739/1753081059-image-1753081030415_optimized.jpg"
+      },
+      "published": "2025-08-14T16:05:01Z"
+    }
+  },
+  {
+    "hash": "7a8a232189dfb8cca20b94dee09600ff496bfc07566b9da69a4522047e9c45bf",
+    "item": {
+      "title": "Pepe Price Prediction: PEPE Explodes With Ethereum Rally – Is This the First Step Toward a 100x Run?",
+      "description": "\u003cp\u003ePepe’s volumes in the past few days have exploded above $1 billion as Ethereum (ETH) nears $5,000. This favors a bullish PEPE price prediction that sees the token delivering huge gains in the short term.After hitting a recent low of $479 million on August 6, trading volumes in the spot market for PEPE have been [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-price-prediction-pepe-explodes-with-ethereum-rally-is-this-the-first-step-toward-a-100x-run/\"\u003ePepe Price Prediction: PEPE Explodes With Ethereum Rally – Is This the First Step Toward a 100x Run?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-price-prediction-pepe-explodes-with-ethereum-rally-is-this-the-first-step-toward-a-100x-run/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "PEPE News",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14120300/1755172978-pepe-price-prediction-1.jpg"
+      },
+      "published": "2025-08-14T15:58:55Z"
+    }
   }
 ]
