@@ -1918,5 +1918,712 @@
       },
       "published": "2025-08-14T09:35:45Z"
     }
+  },
+  {
+    "hash": "5d599b3e40dce5e5d8228d2048e876e43f2a9f75d90756db89200101be1c8733",
+    "item": {
+      "title": "[$] Simpler management of the huge zero folio",
+      "description": "One might imagine that managing a page full of zeroes would be a relatively\nstraightforward task; there is, after all, no data of note that must be\npreserved there.  The management of the huge zero folio in the kernel,\nthough, shows that life is often not as simple as it seems.  Tradeoffs\nbetween conflicting objectives have driven the design of this core\nfunctionality in different directions over the years, but much of the\nassociated complexity may be about to go away.",
+      "links": [
+        "https://lwn.net/Articles/1033058/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-08-14T14:38:48Z"
+    }
+  },
+  {
+    "hash": "e7ffbaeb5c754f17635f08b4191dd6d2abd1b17cb2429b400d81c090cf26fe96",
+    "item": {
+      "title": "Security updates for Thursday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (kernel, python3.11-setuptools, thunderbird, and toolbox), \u003cb\u003eDebian\u003c/b\u003e (chromium), \u003cb\u003eFedora\u003c/b\u003e (open62541 and perl-Authen-SASL), \u003cb\u003eOracle\u003c/b\u003e (git, kernel, konsole, and webkit2gtk3), \u003cb\u003eSUSE\u003c/b\u003e (framework-inputmodule-control and poppler), and \u003cb\u003eUbuntu\u003c/b\u003e (apache2, mysql-8.0, mysql-8.4, node-qs, request-tracker5, and ruby-sidekiq).",
+      "links": [
+        "https://lwn.net/Articles/1033737/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-08-14T14:00:31Z"
+    }
+  },
+  {
+    "hash": "81cabe771640ff86ffcb96a1c0b9967bc7a98eeccdb948effad37a7276bd57df",
+    "item": {
+      "title": "Analyst Predicts $3.91 Cardano Target as ADA Approaches Multi-Year Breakout",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Cardano-ADA-Ride-the-18-Wave-to-Hit-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Can Cardano (ADA) Ride the 18% Wave to Hit $1?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Cardano-ADA-Ride-the-18-Wave-to-Hit-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Cardano-ADA-Ride-the-18-Wave-to-Hit-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Cardano-ADA-Ride-the-18-Wave-to-Hit-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAnalyst Christopher Visser has identified what he calls a critical breakout opportunity for Cardano, projecting ADA could reach $3.91 if current technical patterns hold. The cryptocurrency trades at $0.8526 following a 9% daily gain and 18% weekly rally, positioning itself near key resistance levels that have contained price action since",
+      "links": [
+        "https://thenewscrypto.com/analyst-predicts-3-91-cardano-target-as-ada-approaches-multi-year-breakout/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "ADA",
+        "Cardano"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Can-Cardano-ADA-Ride-the-18-Wave-to-Hit-1.jpg"
+      },
+      "published": "2025-08-14T11:30:00Z"
+    }
+  },
+  {
+    "hash": "4ff02d1b789fcd97cb819aac0999955652494c260b4748c072749a2854098317",
+    "item": {
+      "title": "Binance Restores Earn Product Access for UK Professional Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-06-25-at-1.56.03-AM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Restores Earn Product Access for UK Professional Investors\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-06-25-at-1.56.03-AM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-06-25-at-1.56.03-AM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-06-25-at-1.56.03-AM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe biggest cryptocurrency exchange in the world, Binance, has announced that qualified UK Professional Users will now have access to its Binance Earn suite. This comes after regulatory clarification lifted earlier limitations on certain yield and lending products. Following a review of the application of specific exclusions under the Financial",
+      "links": [
+        "https://thenewscrypto.com/binance-restores-earn-product-access-for-uk-professional-investors/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-06-25-at-1.56.03-AM.jpeg"
+      },
+      "published": "2025-08-14T11:00:00Z"
+    }
+  },
+  {
+    "hash": "0c7e8e11c2841b6591eec119cfd565822b0a402de006503a0418d2bbbaa878c5",
+    "item": {
+      "title": "XRPL Validator Raises Concerns About Potential XRP Price Manipulation",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Here-is-XRP-Price-if-Ripple-Becomes-an-XRP.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ChatGPT Projects XRP Price if Ripple Becomes Treasury Company Like Strategy\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Here-is-XRP-Price-if-Ripple-Becomes-an-XRP.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Here-is-XRP-Price-if-Ripple-Becomes-an-XRP-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Here-is-XRP-Price-if-Ripple-Becomes-an-XRP-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAn XRP Ledger validator operator has raised concerns about potential price manipulation following observations of suspicious blockchain activity since launching his validation node. Grapedrop, who operates one of 150-170 active validators on the XRPL mainnet, has been monitoring real-time transactions that he believes could indicate coordinated market manipulation efforts. The",
+      "links": [
+        "https://thenewscrypto.com/xrpl-validator-raises-concerns-about-potential-xrp-price-manipulation/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Here-is-XRP-Price-if-Ripple-Becomes-an-XRP.jpg"
+      },
+      "published": "2025-08-14T10:30:07Z"
+    }
+  },
+  {
+    "hash": "cb24fa33c86251d3da9433a7b343274a042a2bee3bc20d896c55b273464d8029",
+    "item": {
+      "title": "BingX PCI DSS Certification Sets New Benchmark for Data Security in Web3",
+      "description": "\u003cp\u003e\u003cimg width=\"690\" height=\"387\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-45.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-45.jpg 690w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-45-300x168.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-45-376x212.jpg 376w\" sizes=\"auto, (max-width: 690px) 100vw, 690px\" /\u003e\u003c/p\u003eBingX, a leading cryptocurrency exchange and Web3 AI company, has successfully attained Payment Card Industry Data Security Standard (PCI DSS) v4.0.1 certification for its fiat business, marking a significant milestone in its mission to protect data privacy and security. BingX is among the first cryptocurrency exchanges worldwide to earn this",
+      "links": [
+        "https://thenewscrypto.com/bingx-pci-dss-certification-sets-new-benchmark-for-data-security-in-web3/"
+      ],
+      "categories": [
+        "Press Release",
+        "BingX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-45.jpg"
+      },
+      "published": "2025-08-14T10:15:00Z"
+    }
+  },
+  {
+    "hash": "cccc4d33255201a08fa58d3443caebab388090d2994c413ad54cdbc82b394671",
+    "item": {
+      "title": "The Most Anticipated Crypto Presale of 2025 Could Flip $100 Into $40,000 — Early Investors Buy Below $0.01 for Massive Gains",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-4.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"The Most Anticipated Crypto Presale of 2025 Could Flip $100 Into $40,000 — Early Investors Buy Below $0.01 for Massive Gains\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-4.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-4-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe Ozak AI presale is once again buzzing around the crypto market. Early buyers are getting in at $0.005 per OZ token in Phase 4, with the final target price of $1.00. At this entry point, a $100 purchase gets you 20,000 tokens, potentially worth $40,000 if the target is",
+      "links": [
+        "https://thenewscrypto.com/the-most-anticipated-crypto-presale-of-2025-could-flip-100-into-40000-early-investors-buy-below-0-01-for-massive-gains/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-4.jpg"
+      },
+      "published": "2025-08-14T09:50:00Z"
+    }
+  },
+  {
+    "hash": "4531b1b29d55776183ca66fe3448a75f5995d9923d2cfb35c5ef8c832204659f",
+    "item": {
+      "title": "Matrixport and the HKUST Institute for Finance Research Forge Strategic Partnership To Drive RWA Tokenisation",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-46.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-46.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-46-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-46-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eMatrixport, the world’s leading all-in-one hub for crypto financial services, has signed a Memorandum of Understanding (MoU) with the Hong Kong University of Science and Technology (HKUST) Institute for Finance Research, marking the beginning of a strategic partnership. The collaboration will focus on cutting-edge research in digital assets and real-world",
+      "links": [
+        "https://thenewscrypto.com/matrixport-and-the-hkust-institute-for-finance-research-forge-strategic-partnership-to-drive-rwa-tokenisation/"
+      ],
+      "categories": [
+        "Press Release",
+        "Matrixport"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-46.jpg"
+      },
+      "published": "2025-08-14T09:17:50Z"
+    }
+  },
+  {
+    "hash": "ab547c7cbeccf92c65ea75a114ce8be03400ba358e4b558a92c8facef47de6ee",
+    "item": {
+      "title": "Cardano Explodes 15% as ADA Smashes Through 250-Day Resistance",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Cardano-price-analysis-13.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano Explodes 15% as ADA Smashes Through 250-Day Resistance\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Cardano-price-analysis-13.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Cardano-price-analysis-13-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Cardano-price-analysis-13-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano (ADA) has made an impressive rally, breaking through key resistance levels and hitting its highest price point in five months. As per CMC data, the altcoin is trading around $0.9973, which is a major breakout of a long period of consolidation that has characterised its price action in most",
+      "links": [
+        "https://thenewscrypto.com/cardano-explodes-15-as-ada-smashes-through-250-day-resistance/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "ADA",
+        "Cardano",
+        "Cardano ADA"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Cardano-price-analysis-13.jpg"
+      },
+      "published": "2025-08-14T09:04:19Z"
+    }
+  },
+  {
+    "hash": "956a2383c006f637cb253ceaeaf588ebf5bde3db1308778242b8db5007545deb",
+    "item": {
+      "title": "Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS",
+      "description": "Japan's CERT coordination center (JPCERT/CC) on Thursday revealed it observed incidents that involved the use of a command-and-control (C2) framework called CrossC2, which is designed to extend the functionality of Cobalt Strike to other platforms like Linux and Apple macOS for cross-platform system control.\nThe agency said the activity was detected between September and December 2024, targeting",
+      "links": [
+        "https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJUrGWkx7DZ_vwVDxSwsYdwTwiQAY1dHz5vTRTQ8GKyJm3-CmLP8-Gbep5JI5TxDjGUMwgQNBxnlaJw-HUG6fI0-MRKpJVnO2jcZcgx_mjGsqnTeGP0xFOgc41Htpv1VY8yBZ0ENh3lgIqbROROcQudBxHLznsSGAByoAds357VLwmdt9Iq4E70m4WxU7/s1600/malware-cross.png"
+      },
+      "published": "2025-08-14T13:16:00Z"
+    }
+  },
+  {
+    "hash": "e844269dd50f7daea7c1c42efcbd692b4602352553120528bd0752829cca7251",
+    "item": {
+      "title": "Upcoming DeepSeek AI model failed to train using Huawei’s chips",
+      "description": "Startup encountered persistent technical issues using Huawei Ascend chips.",
+      "links": [
+        "https://arstechnica.com/ai/2025/08/deepseek-delays-next-ai-model-due-to-poor-performance-of-chinese-made-chips/"
+      ],
+      "categories": [
+        "AI",
+        "china",
+        "deepseek",
+        "NVIDIA",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eleanor Olcott and Zijing Wu, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2197177850-1024x648.jpg"
+      },
+      "published": "2025-08-14T13:16:08Z"
+    }
+  },
+  {
+    "hash": "f1ff9872533bb729acbdc64f4a0f2553af8e3a084995177d1bf53757809f7334",
+    "item": {
+      "title": "AMD Ryzen Threadripper PRO 9995WX Performance With TRX50 + Quad Channel DDR5",
+      "description": "The newly-launched AMD Ryzen Threadripper 9000 series headlined by the 64-core Threadripper 9980X and 32-core Threadripper 9970X offer incredible performance and a wonderful addition to the Zen 5 family for the HEDT space. But there is also the Threadripper PRO 9000 series with the flagship Threadripper PRO 9995WX sporting 96 cores. In this article is a look at how that 96-core AMD Threadripper PRO 9995WX performs using a TRX50 platform with quad channel DDR5-6400 memory.",
+      "links": [
+        "https://www.phoronix.com/review/amd-threadripper-9995wx-trx50"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-14T13:00:00Z"
+    }
+  },
+  {
+    "hash": "e9f25fadb04922e46dd0d48617daad69fe0b6d4fe863cb8824ffcf8230120b0e",
+    "item": {
+      "title": "Intel's Habana Labs / Gaudi Accelerator Driver Maintainer Is Leaving The Company",
+      "description": "One of the latest departures from Intel amid their ongoing restructuring is the official maintainer of the \"habanalabs\" accelerator Linux kernel driver that provides support for their range of Gaudi AI accelerator products...",
+      "links": [
+        "https://www.phoronix.com/news/Gaudi-2025-Maintainer-Leaving"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-14T12:20:01Z"
+    }
+  },
+  {
+    "hash": "900f804dd4a412654c1bc91be1e40f7461b436d57a7ba75c42b89e6e5677c730",
+    "item": {
+      "title": "New protein therapy shows promise as antidote for carbon monoxide poisoning",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899339\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T11:56:20Z"
+    }
+  },
+  {
+    "hash": "7d0ac535d790b094ac2fa7d7686e1a6eb16ce342751dd511ef1a17b9a5bb2733",
+    "item": {
+      "title": "NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899935\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://allenai.org/blog/nsf-nvidia"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:08:16Z"
+    }
+  },
+  {
+    "hash": "0d6b3a775d3701c0fee010277780ae31609f7076a809bcd5a5c939a43dd8c6ad",
+    "item": {
+      "title": "Brilliant illustrations bring this 1976 Soviet edition of 'The Hobbit' to life (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44859049\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mashable.com/archive/soviet-hobbit"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-10T22:54:35Z"
+    }
+  },
+  {
+    "hash": "59ee112f266c5f4016f38a8a9d246a62e921ed72fd5ffc36dae65d5131452919",
+    "item": {
+      "title": "Why LLMs Can't Build Software",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44900116\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zed.dev/blog/why-llms-cant-build-software"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:26:09Z"
+    }
+  },
+  {
+    "hash": "d8b95075f3d2ef54ff3dc80f85d1b460b83f8d12511efa3c59c7a6fd4e44f1c7",
+    "item": {
+      "title": "Jujutsu and Radicle",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44900455\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://radicle.xyz/2025/08/14/jujutsu-with-radicle"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:58:26Z"
+    }
+  },
+  {
+    "hash": "0e012159e6c85699be9241cc3220a3bd2eb52b0ebbd54673832fcc605247d0bd",
+    "item": {
+      "title": "Passion over Profits",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44900084\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dillonshook.com/passion-over-profits/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:22:05Z"
+    }
+  },
+  {
+    "hash": "ec247f9d5f8acb95e4f7bc764e3a99a612fdc3b09740119ac46f2fc2302f5a0e",
+    "item": {
+      "title": "SIMD Binary Heap Operations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44870905\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://0x80.pl/notesen/2025-01-18-simd-heap.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T00:09:32Z"
+    }
+  },
+  {
+    "hash": "ae29fe34cd0ec90e83c928742dbd6ebb6f9b031fb5ed9e38c2a1a0d7f8cbe02c",
+    "item": {
+      "title": "\"None of These Books Are Obscene\": Judge Strikes Down Much of FL's Book Ban Bill",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44900302\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bookriot.com/penguin-random-house-florida-lawsuit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:45:07Z"
+    }
+  },
+  {
+    "hash": "0e64d1b5809d914ba62d1f52fc395606108737380ad230810d6ea18080033e9f",
+    "item": {
+      "title": "Linux Address Space Isolation Revived After Lowering 70% Performance Hit to 13%",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899488\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.phoronix.com/news/Linux-ASI-Lower-Overhead"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T12:14:21Z"
+    }
+  },
+  {
+    "hash": "cb84800074227d8b7cf0ef95482caf1fe3443f0f54d9837206a65e5c1766cd27",
+    "item": {
+      "title": "Great Myths #16: The Conflict Thesis",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44868353\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://historyforatheists.com/2025/08/the-great-myths-16-the-conflict-between-science-and-religion/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-11T19:21:29Z"
+    }
+  },
+  {
+    "hash": "846649abaf176b46e5528037c38c0056784bc79b3b30cce2907f1747fa431422",
+    "item": {
+      "title": "Is chain-of-thought AI reasoning a mirage?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44900340\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/real-reasoning/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T13:48:24Z"
+    }
+  },
+  {
+    "hash": "8c0c9ae14259af886e4465e2f5badbd9f47d0729a746dcd2b7ba4b7115b51d28",
+    "item": {
+      "title": "Wholesale prices rose 0.9% in July, more than expected",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899639\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T12:33:49Z"
+    }
+  },
+  {
+    "hash": "98e8c99140517f2c40a2b86cfa991c05f4a9a149f7a59f9904ac4461c84b3423",
+    "item": {
+      "title": "A new poverty line shifted the World Bank's poverty data. What changed and why?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44861460\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ourworldindata.org/new-international-poverty-line-3-dollars-per-day"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-11T07:03:31Z"
+    }
+  },
+  {
+    "hash": "fbe00c580cc28567d1b67c5eb050497ebf31696393e19a9fc7d5b8206f6a7f70",
+    "item": {
+      "title": "US Wholesale Inflation Rises by Most in 3 Years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899685\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-08-14/us-producer-prices-rise-by-most-in-three-years-on-services"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T12:38:21Z"
+    }
+  },
+  {
+    "hash": "d8e43c20b84e5ce0e0bd3c6bd947542cf93614a05f2a172b31758a59d2d6a8c8",
+    "item": {
+      "title": "PEPE Pumps, Dumps, and Repeats – SpacePay Offers What It Doesn’t: Real Use",
+      "description": "\u003cp\u003ePEPE's 60% decline over 8 months highlights meme coin volatility, while SpacePay provides the real-world spending applications that volatile tokens desperately need.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/pepe-pumps-dumps-repeats-spacepay-offers-what-it-doesnt/\"\u003ePEPE Pumps, Dumps, and Repeats \u0026#8211; SpacePay Offers What It Doesn\u0026#8217;t: Real Use\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/pepe-pumps-dumps-repeats-spacepay-offers-what-it-doesnt/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14150253/1755183772-pepe-pumps-dumps-repeats-spacepay-offers-what-it-doesnt.png"
+      },
+      "published": "2025-08-14T15:03:38Z"
+    }
+  },
+  {
+    "hash": "ff0129f4cf8be22c6699c3abc0e9a4a6e4d00e8c89e1062e801393f700456d7d",
+    "item": {
+      "title": "ALL4 Mining Launches XRP Cloud Mining App",
+      "description": "\u003cp\u003eALL4 Mining, a global crypto infrastructure platform, today officially announced the launch of its AI-powered mobile cloud mining app.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/all4-mining-launches-xrp-cloud-mining-app/\"\u003eALL4 Mining Launches XRP Cloud Mining App\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/all4-mining-launches-xrp-cloud-mining-app/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Mining",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14145625/1755183384-all4-mining-launches-xrp-cloud-mining-app.png"
+      },
+      "published": "2025-08-14T14:56:46Z"
+    }
+  },
+  {
+    "hash": "373dd523952ec89928520024e98c2e7d56c68092f2ffd9d39ab0ab07ec61802f",
+    "item": {
+      "title": "Bitcoin Price Prediction: Institutions Pile In as BTC Approaches ATH – One Break Above $126K Could Change Everything",
+      "description": "\u003cp\u003eBitcoin nears all-time highs as institutions increase holdings. A breakout above $126K could spark a rally toward $130K and beyond.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-institutions-pile-in-as-btc-approaches-ath-one-break-above-126k-could-change-everything/\"\u003eBitcoin Price Prediction: Institutions Pile In as BTC Approaches ATH – One Break Above $126K Could Change Everything\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-institutions-pile-in-as-btc-approaches-ath-one-break-above-126k-could-change-everything/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07135922/1754575161-bitcoin-price-prediction-6.jpg"
+      },
+      "published": "2025-08-14T14:55:58Z"
+    }
+  },
+  {
+    "hash": "a9f5c8103f5c677cef2a47fe39eff5faed9a50d240b9e4ecad5128eb7d3f535e",
+    "item": {
+      "title": "Crypto Super PAC With $140M War Chest Threatens Sherrod Brown’s 2026 Senate Bid",
+      "description": "\u003cp\u003eA crypto super PAC is gearing up for another fight with former Senate Banking Committee chair Sherrod Brown, raising the stakes for Ohio’s 2026 Senate race.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-super-pac-with-140m-war-chest-threatens-sherrod-browns-2026-senate-bid/\"\u003eCrypto Super PAC With $140M War Chest Threatens Sherrod Brown’s 2026 Senate Bid\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-super-pac-with-140m-war-chest-threatens-sherrod-browns-2026-senate-bid/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cryptocurrency",
+        "Fairshake PAC",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14132354/1755177833-image-1755177694714_optimized.jpg"
+      },
+      "published": "2025-08-14T14:25:05Z"
+    }
+  },
+  {
+    "hash": "9d0154ea0e9a915430ec857d50db971a05f6f8c2eb797d30971f0dd41e4e7a8e",
+    "item": {
+      "title": "Google U-Turn on Plan to Remove Non-Custodial Crypto Wallets from Play Store Following Backlash",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eGoogle officially reverses controversial plan to remove non-custodial crypto wallets from Play Store following intense cryptocurrency community backlash after licensing requirements would have affected MetaMask and Phantom.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/google-u-turn-on-plan-to-remove-non-custodial-crypto-wallets-from-play-store-following-backlash/\"\u003eGoogle U-Turn on Plan to Remove Non-Custodial Crypto Wallets from Play Store Following Backlash\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/google-u-turn-on-plan-to-remove-non-custodial-crypto-wallets-from-play-store-following-backlash/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "crypto wallet",
+        "Google"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14142407/1755181446-image-1755181391206_optimized.jpg"
+      },
+      "published": "2025-08-14T14:24:22Z"
+    }
+  },
+  {
+    "hash": "779657df0fcc3cd2ce1561909de2024e68972e6f4fd6f1265ab0d7b8b3cf8cc7",
+    "item": {
+      "title": "Hacked Perp DEX GMX to Repay $44M to Arbitrum GLP Holders After Exploit",
+      "description": "\u003cp\u003eDecentralized perpetuals exchange GMX said Wednesday that users hit by last month’s security breach can now claim compensation through its dApp.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hacked-perp-dex-gmx-to-repay-44m-to-arbitrum-glp-holders-after-exploit/\"\u003eHacked Perp DEX GMX to Repay $44M to Arbitrum GLP Holders After Exploit\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hacked-perp-dex-gmx-to-repay-44m-to-arbitrum-glp-holders-after-exploit/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Arbitrum",
+        "DEX",
+        "Hack"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14105531/1755168931-image-1755168598220_optimized.jpg"
+      },
+      "published": "2025-08-14T14:04:52Z"
+    }
+  },
+  {
+    "hash": "e76246a0920af224a7765c387b15d2e64bfb6ca4243b3d35821c5065dd2e1a7b",
+    "item": {
+      "title": "$215B Corporate Bitcoin Boom Creates ‘Dangerous Game,’ Most ‘Won’t Survive Credit Cycle’: Research",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003e$215B corporate Bitcoin boom creates 'dangerous game' as Sentora research warns most companies won't survive full credit cycle despite 213 entities borrowing billions to acquire the volatile digital asset.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/215b-corporate-bitcoin-boom-creates-dangerous-game-most-wont-survive-credit-cycle-research/\"\u003e$215B Corporate Bitcoin Boom Creates \u0026#8216;Dangerous Game,\u0026#8217; Most \u0026#8216;Won\u0026#8217;t Survive Credit Cycle\u0026#8217;: Research\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/215b-corporate-bitcoin-boom-creates-dangerous-game-most-wont-survive-credit-cycle-research/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14091937/1755163176-stock-image_optimized-83.jpg"
+      },
+      "published": "2025-08-14T13:49:37Z"
+    }
+  },
+  {
+    "hash": "df94ccfd397faeb69f6d4e9967decbc0b3f61af851233722e16c1263098ee265",
+    "item": {
+      "title": "$6B Privacy Coin Monero Was Just Hijacked for $100K/Day – Here’s Why That’s Terrifying",
+      "description": "\u003cp\u003eMonero, the $6 billion privacy coin long touted as one of crypto’s most censorship-resistant networks, has suffered a major setback. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/6b-privacy-coin-monero-was-just-hijacked-for-100k-day-heres-why-thats-terrifying/\"\u003e$6B Privacy Coin Monero Was Just Hijacked for $100K/Day – Here\u0026#8217;s Why That\u0026#8217;s Terrifying\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/6b-privacy-coin-monero-was-just-hijacked-for-100k-day-heres-why-thats-terrifying/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoins",
+        "Monero",
+        "Privacy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14131137/1755177096-6125ecfd38f60_optimized.jpeg"
+      },
+      "published": "2025-08-14T13:15:49Z"
+    }
+  },
+  {
+    "hash": "2c913e78e887df5552573abdabc0cac1ba62e92d898703ed0d02b52cf16dc797",
+    "item": {
+      "title": "Secure Your Crypto and Get Up to $90 in BTC With the Ledger Fresh BTC Boost Promo",
+      "description": "\u003cp\u003eFor over a decade, Ledger has been building its reputation as the leading hardware wallet provider in the world. Now, the company is giving back with its Fresh BTC Boost promotion, offering major Bitcoin bonuses when purchasing a new Ledger wallet device.Those interested in claiming up to $90 in BTC should act quickly, as the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/secure-your-crypto-and-get-up-to-90-in-btc-with-ledgers-limited-summer-promo/\"\u003eSecure Your Crypto and Get Up to $90 in BTC With the Ledger Fresh BTC Boost Promo\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/secure-your-crypto-and-get-up-to-90-in-btc-with-ledgers-limited-summer-promo/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/14100623/1755165982-ledger-fresh-btc-boost-promo-feature_optimized.webp"
+      },
+      "published": "2025-08-14T13:05:51Z"
+    }
+  },
+  {
+    "hash": "8ddb9cb26db33d0e12f107c761fea55abd13b197d118e530e35a18fa0ce0a359",
+    "item": {
+      "title": "XRP Hits $3.40, SIX MINING Helps You Earn Passive Income",
+      "description": "\u003cp\u003eFor investors seeking to maximize returns during price increases, SIX MINING offers a low-entry cloud mining solution, allowing you to enjoy price appreciation while also benefiting from increased computing power.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-hits-3-40-six-mining-helps-you-earn-passive-income/\"\u003eXRP Hits $3.40, SIX MINING Helps You Earn Passive Income\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-hits-3-40-six-mining-helps-you-earn-passive-income/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/13115839/1755086318-six-mining.jpg"
+      },
+      "published": "2025-08-14T13:00:00Z"
+    }
   }
 ]
