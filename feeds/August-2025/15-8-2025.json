@@ -2388,5 +2388,391 @@
       },
       "published": "2025-08-15T09:24:48Z"
     }
+  },
+  {
+    "hash": "a1874c94f20ee7d1a636844c9177f42651f8edff61d652274f6015d90faab181",
+    "item": {
+      "title": "Here’s Acura’s next all-electric RSX crossover",
+      "description": "Acura will step into the software-defined vehicle era with its US-made electric vehicle.",
+      "links": [
+        "https://arstechnica.com/cars/2025/08/acura-unveils-next-rdx-crossover-will-feature-asimo-os/"
+      ],
+      "categories": [
+        "Cars",
+        "Acura RDX"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/03_Acura-RSX-Prototype_Passenger-Front-2-1152x648.jpg"
+      },
+      "published": "2025-08-15T13:44:59Z"
+    }
+  },
+  {
+    "hash": "57b09a831efe56c59c1223fe35b120aba83182aa315bb720f8616f438dd20383",
+    "item": {
+      "title": "[$] Finding a successor to the FHS",
+      "description": "\u003cp\u003eThe purpose of the \u003ca\nhref=\"https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard\"\u003eFilesystem\nHierarchy Standard\u003c/a\u003e (FHS) is to provide a specification for\nfilesystem layout; it specifies the location for files and directories\non a Linux system to simplify application development for multiple\ndistributions. In its heyday it had some success at this, but the\nstandard has been frozen in time since 2015, and much has changed\nsince then. There is a \u003cspan class=\"nobreak\"\u003eslow-moving\u003c/span\u003e effort\nto revive the FHS and create a FHS\u0026#160;4.0, but a recent discussion\namong Fedora developers also raised the possibility of standardizing\non the suggestions in systemd's \u003ca\nhref=\"https://www.freedesktop.org/software/systemd/man/latest/file-hierarchy.html\"\u003e\u003ctt\u003efile-hierarchy\u003c/tt\u003e\u003c/a\u003e\ndocumentation, which has now been added to the Linux Userspace API\n(UAPI) Group's \u003ca\nhref=\"https://uapi-group.org/specifications/\"\u003especifications\u003c/a\u003e.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1032947/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-08-15T14:33:35Z"
+    }
+  },
+  {
+    "hash": "8e6e2fc4922afc0b1f37c0b086b23b756272101f501148f67129c20b68ded351",
+    "item": {
+      "title": "Security updates for Friday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (kernel and webkit2gtk3), \u003cb\u003eDebian\u003c/b\u003e (aide and postgresql-13), \u003cb\u003eFedora\u003c/b\u003e (libtiff, mupdf, and pandoc), \u003cb\u003eSUSE\u003c/b\u003e (cairo, chromium, gstreamer-plugins-base, ImageMagick, iputils, kubernetes1.23, kubernetes1.26, matrix-synapse, Mesa, pgadmin4, python3, qemu, and rz-pm), and \u003cb\u003eUbuntu\u003c/b\u003e (aide).",
+      "links": [
+        "https://lwn.net/Articles/1033901/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-08-15T13:15:23Z"
+    }
+  },
+  {
+    "hash": "bf087cda54a77060904c3076c10340e287d38a2c52604ae39b8824017c4edb4a",
+    "item": {
+      "title": "Intel FRED Suffers A Late \"Incompatible Change\" To The Architecture",
+      "description": "Intel FRED has been seeing Linux software enablement going on for the past three years. FRED is the Flexible Return Event Delivery that overhauls CPU transitions between privilege levels with a goal of lower ring transition latency and more robust software support. Unfortunately it has a late breaking incompatible change to the architecture and the Linux kernel is now being patched for it...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-FRED-Incompatible-ENDBR64"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-15T12:24:42Z"
+    }
+  },
+  {
+    "hash": "4d10073bcb26707e63b2fa7ad764795dc3536d1aca796bac48e580a04e333d04",
+    "item": {
+      "title": "Open hardware desktop 3D printing is dead",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911423\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T12:14:46Z"
+    }
+  },
+  {
+    "hash": "7fae4ed45f7360e7b2f8b4a7a58a4a2a49dab565ae275d96e70df86d1da04b8d",
+    "item": {
+      "title": "The Timmy Trap",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44912646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jenson.org/timmy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T14:10:45Z"
+    }
+  },
+  {
+    "hash": "2991fa203feb1ebc3cfd79e34ce3e5f13ee3db3b77343a388030ad69471bef46",
+    "item": {
+      "title": "Vaultwarden commit introduces SSO using OpenID Connect",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/dani-garcia/vaultwarden/pull/3899"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T12:31:54Z"
+    }
+  },
+  {
+    "hash": "6ba3f112a430fe053e61f468c78d92bce23b30e7647ba55225b9734763bd403d",
+    "item": {
+      "title": "Court Records Reveal Sig Sauer Knew of Pistol Risks for Years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911069\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T11:32:40Z"
+    }
+  },
+  {
+    "hash": "897957f97eea3173db2b72290180c7403a3f64b0ac2c7ad7473b70f658bae293",
+    "item": {
+      "title": "AI-induced dehumanization (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911538\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1441"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T12:29:56Z"
+    }
+  },
+  {
+    "hash": "8b4a6d018286a4b7acedd76d5ef6db1d2db73c0131ba742b4c72c9826df06451",
+    "item": {
+      "title": "With waters at 32C, Mediterranean tropicalization shifts into high gear",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911505\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-08-32c-mediterranean-tropicalization-shifts-high.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T12:25:01Z"
+    }
+  },
+  {
+    "hash": "031298d23681e740ae1fc5cc7b02a96ac6aa4053b80ce41936d978a090e8fb9a",
+    "item": {
+      "title": "Recto – A Truly 2D Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44877201\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://masatohagiwara.net/recto.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T15:06:08Z"
+    }
+  },
+  {
+    "hash": "a7fab12748a56b19c58cecd0d6b808b6683274834d529d84e2b8d8e8c695dfdc",
+    "item": {
+      "title": "Fairness is what the powerful 'can get away with' study shows",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911169\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-07-fairness-powerful.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T11:46:17Z"
+    }
+  },
+  {
+    "hash": "1b2cfcd8f0853a14aff1b71148039f5a58957f594aef5c9cf184d9e5561ec7f1",
+    "item": {
+      "title": "Airbrush art of the 80s (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44904869\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T19:53:12Z"
+    }
+  },
+  {
+    "hash": "98ef09b0a0835c373decca9eef20bcb2be37e1f2a96cc296037f76bc425503a7",
+    "item": {
+      "title": "ARM adds neural accelerators to GPUs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44876346\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://newsroom.arm.com/news/arm-announces-arm-neural-technology"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T14:03:47Z"
+    }
+  },
+  {
+    "hash": "1edf61e906977ce3d6b3de724683906c0ee28618653d48b50263fee7e1838c38",
+    "item": {
+      "title": "Submerged Roman bathhouse in Baiae may be part of Cicero's villa",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911554\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://archaeologymag.com/2025/08/submerged-roman-bathhouse-in-baiae/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T12:31:34Z"
+    }
+  },
+  {
+    "hash": "d5bab8e45c314a901c0396506916345ad9beb4eabadf07cf5912543823424d18",
+    "item": {
+      "title": "Back from the Dead? NFTs Are Dividing Experts Again",
+      "description": "\u003cp\u003eAre NFTs just hype or the future of digital ownership? Experts are divided, but one thing’s clear: the debate isn’t over.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/back-from-the-dead-nfts-are-dividing-experts-again/\"\u003eBack from the Dead? NFTs Are Dividing Experts Again\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/back-from-the-dead-nfts-are-dividing-experts-again/"
+      ],
+      "categories": [
+        "Features",
+        "NFT",
+        "Non-fungible tokens",
+        "Pudgy Penguins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15140216/1755266535-digital-art.jpg"
+      },
+      "published": "2025-08-15T14:56:04Z"
+    }
+  },
+  {
+    "hash": "98f5bbe39084f1267793db891d3c361354b5d32f92c64507f2b9ec3124095d56",
+    "item": {
+      "title": "BlackRock Pours Over $1B into Bitcoin \u0026 Ethereum ETFs During Dip — What Do They Know?",
+      "description": "\u003cp\u003eAs July PPI jumped 0.9% and risk assets sold off, BlackRock’s Larry Fink bought the dip through IBIT and ETHA, adding 4,428 BTC (~$526M) and 105,900 ETH (~$488M).\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/blackrock-pours-over-1b-into-bitcoin-ethereum-etfs-during-dip-what-do-they-know/\"\u003eBlackRock Pours Over $1B into Bitcoin \u0026amp; Ethereum ETFs During Dip — What Do They Know?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/blackrock-pours-over-1b-into-bitcoin-ethereum-etfs-during-dip-what-do-they-know/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Blackrock ETF",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15142406/1755267845-d1684987-6294-4ca2-934c-9b066694a430_optimized-1.jpg"
+      },
+      "published": "2025-08-15T14:44:23Z"
+    }
+  },
+  {
+    "hash": "295bf0170d95a7e11ee52469984363a0e4ecbac6eeff2b8a512a16d7cfdfbd12",
+    "item": {
+      "title": "Bitcoin Price Prediction: Treasury ‘No Buy’ Triggers Panic Dip – Smart Money Sees Opportunity, Not Fear",
+      "description": "\u003cp\u003eBitcoin dips to $117,929 after Treasury’s ‘no buy’ stance, but bullish technicals hint at a $130K breakout. Smart money sees opportunity, not panic.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-treasury-no-buy-triggers-panic-dip-smart-money-sees-opportunity-not-fear/\"\u003eBitcoin Price Prediction: Treasury ‘No Buy’ Triggers Panic Dip – Smart Money Sees Opportunity, Not Fear\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-treasury-no-buy-triggers-panic-dip-smart-money-sees-opportunity-not-fear/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15142355/1755267834-bitcoin-price-prediction-2.jpg"
+      },
+      "published": "2025-08-15T14:25:13Z"
+    }
+  },
+  {
+    "hash": "f6bf369614baea02817e065b246d6fd48e6e51dc3b4e71df84f6dad63fad7f45",
+    "item": {
+      "title": "Dogecoin Price Prediction: $5B Volume Surge + Whale Buys – DOGE Could Go Higher Than Most Think",
+      "description": "\u003cp\u003eDogecoin (DOGE) trading volumes reached $5 billion yesterday, well above the daily average, as investors jumped in to buy the dip, strengthening the bullish Dogecoin price prediction.Despite falling 8.5% on the day, DOGE remains up 14.7% over the past 30 days and was the only top 5 meme coin to deliver a positive return in [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-5b-volume-surge-whale-buys-doge-could-go-higher-than-most-think/\"\u003eDogecoin Price Prediction: $5B Volume Surge + Whale Buys – DOGE Could Go Higher Than Most Think\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-5b-volume-surge-whale-buys-doge-could-go-higher-than-most-think/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15115156/1755258715-dogecoin-price-prediction-2.jpg"
+      },
+      "published": "2025-08-15T14:22:48Z"
+    }
+  },
+  {
+    "hash": "2b5b9c698bf3a01807e3625c5688f3156341ef97b7e4f25adcbca21e938b6fde",
+    "item": {
+      "title": "Solana Price Prediction: Technicals Point to More Upside – Can SOL Hit $500 Within 2 Weeks?",
+      "description": "\u003cp\u003eWhile the macro narrative weighs heavily, technicals lend to further upside for SOL – Solana price prediction still eyes $500\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-technicals-eye-more-upside-500-nears/\"\u003eSolana Price Prediction: Technicals Point to More Upside – Can SOL Hit $500 Within 2 Weeks? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-technicals-eye-more-upside-500-nears/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Prediction",
+        "Solana",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15120615/1755259574-solana-price-prediction-1.jpg"
+      },
+      "published": "2025-08-15T14:12:25Z"
+    }
+  },
+  {
+    "hash": "54394043b1e7ff5c3b639f84b4f5c4af8a75c125c882bd25ae3a14163fa08390",
+    "item": {
+      "title": "4 Meme Coins to Turn $1,000 into $1 Million",
+      "description": "\u003cp\u003eWith the cryptocurrency market losing a little steam today, here are four of the best meme coins that could potentially 1000x when they list.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/4-meme-coins-to-turn-1000-into-1-million/\"\u003e4 Meme Coins to Turn $1,000 into $1 Million\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/4-meme-coins-to-turn-1000-into-1-million/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Altcoins",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15140257/1755266576-chatgpt-image-aug-15-2025-03_02_24-pm_optimized.jpg"
+      },
+      "published": "2025-08-15T14:04:09Z"
+    }
+  },
+  {
+    "hash": "332d0f886027f8a5046f7840e47f4063fe9d3963e4209f8c2a558ae6e35e5e77",
+    "item": {
+      "title": "SIX MINING Leads Cloud Mining Revolution Through A Clean Energy-Powered Platform",
+      "description": "\u003cp\u003eSIX MINING is an innovative cloud mining platform dedicated to revolutionizing cryptocurrency mining. It offers remote mining solutions powered by clean energy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/six-mining-leads-cloud-mining-revolution-through-a-clean-energy-powered-platform/\"\u003eSIX MINING Leads Cloud Mining Revolution Through A Clean Energy-Powered Platform\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/six-mining-leads-cloud-mining-revolution-through-a-clean-energy-powered-platform/"
+      ],
+      "categories": [
+        "Press Releases",
+        "six mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15123610/1755261369-six.jpg"
+      },
+      "published": "2025-08-15T12:37:32Z"
+    }
   }
 ]
