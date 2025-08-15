@@ -1658,5 +1658,735 @@
       },
       "published": "2025-08-15T07:00:00Z"
     }
+  },
+  {
+    "hash": "7f11685dfa08b89c6189beaa5da07e2c0201c44825f53fd842a2b80d72b9debc",
+    "item": {
+      "title": "Swiss vs. UK approach to major tranport projects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44910393\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.freewheeling.info/blog/swiss-hs2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T09:50:13Z"
+    }
+  },
+  {
+    "hash": "1392bb0188595016a74f85ea55def8c797b9c6e1e87583c9c978db9f2089653c",
+    "item": {
+      "title": "Death and What Comes Next (2002)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44873225\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lspace.org/books/dawcn/dawcn-english.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T07:01:01Z"
+    }
+  },
+  {
+    "hash": "f286639f4594033ce09200275711091952c23c832ae6d1888fb8a29afcd3a3ab",
+    "item": {
+      "title": "Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911302\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tesorio.com/careers#job-openings"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T12:01:09Z"
+    }
+  },
+  {
+    "hash": "8fc0291ac2b20de0a3023eb6042311f4e3d90f952ef5fb5c3f73556887e84fa8",
+    "item": {
+      "title": "Are you willing to pay $100k a year per developer on AI?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44910848\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/08/15/are_you_willing_to_pay/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T11:04:13Z"
+    }
+  },
+  {
+    "hash": "da46e7761aacc63d6855bb903baea03d4abab40e663713fe895f09ab60857344",
+    "item": {
+      "title": "The U.S. grid is so weak, the AI race may be over",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44910562\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T10:19:08Z"
+    }
+  },
+  {
+    "hash": "878afd9769712054463becdb94a834bf47697d95cca82a724b8785103e53d4a3",
+    "item": {
+      "title": "Lessons learned from buying an open source repo",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44875440\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T12:35:07Z"
+    }
+  },
+  {
+    "hash": "8bb14d1e360cfddc130b98ad5c40f72b3f9cad7e25b79255f4e6b3515b44f1f8",
+    "item": {
+      "title": "Good Justifications Write Themselves",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44874838\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://oblique.security/blog/justification-fields/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-12T11:19:00Z"
+    }
+  },
+  {
+    "hash": "0ba71ac83525f51f2543c7a061c2319a741fd2e1a358af025f34a9c8adf4a23c",
+    "item": {
+      "title": "Some users report their Firefox browser is scoffing CPU power",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44910719\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T10:42:57Z"
+    }
+  },
+  {
+    "hash": "c9305b6176299f556d740f757e9087067850e857ae3b4cd7fc8737118e38ed16",
+    "item": {
+      "title": "DM-PCACHE Poised For Linux 6.18 As High Throughput, Low Latency DAX Cache",
+      "description": "Barring any issues from coming up in the near future, it looks like DM-PCACHE will be submitted for the Linux 6.18 cycle later in the year as a high throughput, low latency cache for DAX-capable persistent memory devices...",
+      "links": [
+        "https://www.phoronix.com/news/DM-PCACHE-For-Linux-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-15T12:01:07Z"
+    }
+  },
+  {
+    "hash": "ea3f86336aafed0b09b1082054cd16106b3c8911a46a5c625ecdb898662eaa72",
+    "item": {
+      "title": "Generic VFIO Platform Driver To Be Marked As Deprecated For Removal",
+      "description": "Some old and unmaintained drivers for Linux's Virtual Function I/O (VFIO) support are being marked as deprecated for eventual removal, including the generic VFIO platform driver...",
+      "links": [
+        "https://www.phoronix.com/news/VFIO-Platform-Deprecated"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-15T10:34:13Z"
+    }
+  },
+  {
+    "hash": "079662c108f8bdfde9105243cd16d1bc5e5b22d34594083786878af55c9ed2eb",
+    "item": {
+      "title": "AMD Posts 11th Iteration Of Color Pipeline API For Advanced Color Management On Linux",
+      "description": "One of the Linux Direct Rendering Manager (DRM) patch series that has long been in the works is on a standardized Color Pipeline API. This is for improving advanced color management handling on Linux and aligns with what Valve and Igalia engineers have been doing with AMD-specific color management implementation on the Steam Deck and their Gamescope compositor. Sent out today by AMD was the 11th iteration of these Color Pipeline API patches...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-11th-Color-Pipeline-API"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-15T10:21:44Z"
+    }
+  },
+  {
+    "hash": "ed630eccfe9b120923b68bc65a4001b2ee2820561f97236aa3375defd6010b36",
+    "item": {
+      "title": "Ubuntu 25.10 Enters Its Feature Freeze Period",
+      "description": "As of today the Ubuntu 25.10 \"Questing Quokka\" is now under a feature freeze ahead of the stable release due out in October...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.10-Feature-Freeze"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-15T10:06:27Z"
+    }
+  },
+  {
+    "hash": "14ffe9e64aad0f831b14d1858c10ecf53368abcfbd74c1922eaba982fb9c9150",
+    "item": {
+      "title": "Porsche’s best daily driver 911? The 2025 Carrera GTS T-Hybrid review.",
+      "description": "An electric turbocharger means almost instant throttle response from the T-Hybrid.",
+      "links": [
+        "https://arstechnica.com/cars/2025/08/porsches-best-daily-driver-911-the-2025-carrera-gts-t-hybrid-review/"
+      ],
+      "categories": [
+        "Cars",
+        "Features",
+        "car review",
+        "Porsche 911 Carrera GTS",
+        "Porsche 911 Carrera GTS T-Hybrid"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2025-Porsche-911-GTS-T-Hybrid-1-1152x648.jpg"
+      },
+      "published": "2025-08-15T11:00:44Z"
+    }
+  },
+  {
+    "hash": "64deb13850accdab76501da7c2cbb76723c04a08ef48d96575221f8000c33817",
+    "item": {
+      "title": "Dark Clouds Over Ethereum, Will the ETH Bulls Clear the Skies?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Dark-Clouds-Over-Ethereum-Will-the-ETH-Bulls-Clear-the-Skies.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dark Clouds Over Ethereum, Will the ETH Bulls Clear the Skies?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Dark-Clouds-Over-Ethereum-Will-the-ETH-Bulls-Clear-the-Skies.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Dark-Clouds-Over-Ethereum-Will-the-ETH-Bulls-Clear-the-Skies-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Dark-Clouds-Over-Ethereum-Will-the-ETH-Bulls-Clear-the-Skies-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market is riding a volatile rollercoaster. Bitcoin (BTC), the largest asset, smashed through a new ATH yesterday at $124,457. Today, the market has turned bearish, with some tokens staying green. If the assets continue to remain under bearish pressure, the recovery might be difficult. Notably, the largest altcoin,",
+      "links": [
+        "https://thenewscrypto.com/dark-clouds-over-ethereum-will-the-eth-bulls-clear-the-skies/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Dark-Clouds-Over-Ethereum-Will-the-ETH-Bulls-Clear-the-Skies.jpg"
+      },
+      "published": "2025-08-15T08:37:16Z"
+    }
+  },
+  {
+    "hash": "7c957bd1030d6c9b38a9413b1d8c64a514e9557113457199a200843ae3d7033d",
+    "item": {
+      "title": "Hedera (HBAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hedera (HBAR) Price Prediction\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hedera (HBAR) price prediction for 2025, 2026-2030, we will analyze the price patterns of HBAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hedera (HBAR) Current Market Status What is Hedera (HBAR)? Hedera (HBAR) 24H Technicals HEDERA",
+      "links": [
+        "https://thenewscrypto.com/hedera-hbar-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-08-15T08:21:01Z"
+    }
+  },
+  {
+    "hash": "4e69dc32b5248a01482f77d5db864ab19211d65e0819d65bd8b3670689a94ee3",
+    "item": {
+      "title": "Avalanche (AVAX) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Avalanche (AVAX) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Avalanche (AVAX) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of AVAX by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Avalanche (AVAX) Current Market Status What is Avalanche (AVAX)? Avalanche (AVAX) 24H Technicals AVALANCHE (AVAX)",
+      "links": [
+        "https://thenewscrypto.com/avalanche-avax-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Avalanche",
+        "AVAX",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/AVAX-Price-prediction.jpg"
+      },
+      "published": "2025-08-15T08:18:29Z"
+    }
+  },
+  {
+    "hash": "0666a98348bab32c43746956f42788153c4e29d8bd6caf10d94171cf657add03",
+    "item": {
+      "title": "Worldcoin (WLD) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Worldcoin Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM-376x212.jpeg 376w, https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM-150x84.jpeg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Worldcoin (WLD) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of WLD by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Worldcoin (WLD) Current Market Status What is Worldcoin (WLD)? Worldcoin (WLD) 24H Technicals WORLDCOIN (WLD)",
+      "links": [
+        "https://thenewscrypto.com/worldcoin-wld-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrecncy",
+        "Price preddiction",
+        "WLD",
+        "Worldcoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-30-at-1.02.54-PM.jpeg"
+      },
+      "published": "2025-08-15T08:15:40Z"
+    }
+  },
+  {
+    "hash": "7cf6a04bbc5bde44d30beb874c85083bfabb8b14ca2e647ab81d5c77153f0547",
+    "item": {
+      "title": "Dogecoin (DOGE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION-.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Dogecoin (DOGE)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION-.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION--300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION--150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Dogecoin (DOGE) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of DOGE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Dogecoin (DOGE) Current Market Status What is Dogecoin (DOGE)? Dogecoin (DOGE) 24H Technicals DOGECOIN (DOGE) PRICE",
+      "links": [
+        "https://thenewscrypto.com/dogecoin-doge-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "DOGE",
+        "Dogecoin",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/DOGE-PREDICTION-.jpg"
+      },
+      "published": "2025-08-15T08:12:47Z"
+    }
+  },
+  {
+    "hash": "508f08e7a6bb8477fe1998aaf8ca0c3e2527388ecb4ece7206183065df11e219",
+    "item": {
+      "title": "Hyperliquid (HYPE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58-.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hyperliquid (HYPE) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58-.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58--300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58--376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hyperliquid (HYPE) price prediction for 2025, 2026-2030, we will analyze the price patterns of HYPE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hyperliquid (HYPE) Current Market Status What is Hyperliquid (HYPE)? Hyperliquid (HYPE) 24H Technicals HYPERLIQUID",
+      "links": [
+        "https://thenewscrypto.com/hyperliquid-hype-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "HYPE",
+        "Hyperliquid",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/photo_2024-09-13_01-37-58-.jpg"
+      },
+      "published": "2025-08-15T08:07:40Z"
+    }
+  },
+  {
+    "hash": "dd00690ca2fe5f93edb5a97512ec55b5f1dfb20b773f02a3712a69caa09c5828",
+    "item": {
+      "title": "BlackRock IBIT Dominates Market as Bitcoin Faces Wild Price Swings",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/BlackRocks-Bitcoin-ETF-Surpasses.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlackRock IBIT Dominates Market as Bitcoin Faces Wild Price Swings\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/BlackRocks-Bitcoin-ETF-Surpasses.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/BlackRocks-Bitcoin-ETF-Surpasses-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/BlackRocks-Bitcoin-ETF-Surpasses-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe leading Bitcoin exchange-traded fund offered by BlackRock has surpassed the mark of $91.06 billion in assets under management. This is the largest figure in its history and proves the dominance of the company in the field of cryptocurrency investment. The impressive performance of the IBIT fund is occurring when",
+      "links": [
+        "https://thenewscrypto.com/blackrock-ibit-dominates-market-as-bitcoin-faces-wild-price-swings/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "blackRock",
+        "IBIT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/BlackRocks-Bitcoin-ETF-Surpasses.jpg"
+      },
+      "published": "2025-08-15T06:33:58Z"
+    }
+  },
+  {
+    "hash": "1ab4f4c77f3a3bd7d2339511ccfea7de7ce7aaabb739a0af4cbe81a8d5a16dbc",
+    "item": {
+      "title": "8% Pullback for DOGE, Can the Bulls Flip the Bearish Script for a Turnaround?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/8-Pullback-for-DOGE-Can-the-Bulls-Flip-the-Bearish-Script-for-a-Turnaround.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"8% Pullback for DOGE, Can the Bulls Flip the Bearish Script for a Turnaround?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/8-Pullback-for-DOGE-Can-the-Bulls-Flip-the-Bearish-Script-for-a-Turnaround.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/8-Pullback-for-DOGE-Can-the-Bulls-Flip-the-Bearish-Script-for-a-Turnaround-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/8-Pullback-for-DOGE-Can-the-Bulls-Flip-the-Bearish-Script-for-a-Turnaround-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFollowing a 3.43% plunge in the crypto market, the majority of the assets are trading in the red. With the Fear and Greed Index value settled at 59, the overall sentiment is neutral in the market. The largest assets like Bitcoin (BTC) and Ethereum (ETH) are hovering on the downside,",
+      "links": [
+        "https://thenewscrypto.com/8-pullback-for-doge-can-the-bulls-flip-the-bearish-script-for-a-turnaround/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "DOGE",
+        "Dogecoin",
+        "Meme Coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/8-Pullback-for-DOGE-Can-the-Bulls-Flip-the-Bearish-Script-for-a-Turnaround.jpg"
+      },
+      "published": "2025-08-15T06:15:21Z"
+    }
+  },
+  {
+    "hash": "e3d761247ee4608435cc407fb97a26e468867b0f3a60e2499b215a3cae38e27b",
+    "item": {
+      "title": "VIRTUAL Token Crashes 13% as Bears Take Control of Market",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Virtuals-Protocol-Price-Analysis1-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"VIRTUAL Token Crashes 13% as Bears Take Control of Market\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Virtuals-Protocol-Price-Analysis1-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Virtuals-Protocol-Price-Analysis1-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Virtuals-Protocol-Price-Analysis1-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eVirtuals Protocol (VIRTUAL) is undergoing a strong bearish trend since the digital currency broke below the key technical levels. The present price movement indicates a weakening market structure, which may be an indicator of further downside in the short run. As per CMC data, the asset price is down by",
+      "links": [
+        "https://thenewscrypto.com/virtual-token-crashes-13-as-bears-take-control-of-market/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "VIRTUAL",
+        "Virtuals Protocol"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Virtuals-Protocol-Price-Analysis1-1.jpg"
+      },
+      "published": "2025-08-15T04:46:18Z"
+    }
+  },
+  {
+    "hash": "1eb5c19c1b5f6229852762dcc087716ad97aeff8254faee48af647ab10cbad2b",
+    "item": {
+      "title": "Mawari Partners with Caldera to Launch Mawari Network, Enabling Real-Time Streaming of Immersive, AI-Powered Experiences Globally",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon-376x212.jpg 376w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eSan Francisco, California, 15th August 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/mawari-partners-with-caldera-to-launch-mawari-network-enabling-real-time-streaming-of-immersive-ai-powered-experiences-globally/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/capture_1755225088355_1755225096Y2RUbyGvon.jpg"
+      },
+      "published": "2025-08-15T04:31:07Z"
+    }
+  },
+  {
+    "hash": "205953715bcaf163565dc9c04b309e5e49046ad2b6273b60fabc1bb30e2d59cb",
+    "item": {
+      "title": "U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions",
+      "description": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Thursday renewed sanctions against Russian cryptocurrency exchange platform Garantex for facilitating ransomware actors and other cybercriminals by processing more than $100 million in transactions linked to illicit activities since 2019.\nThe Treasury said it's also imposing sanctions on Garantex's successor, Grinex",
+      "links": [
+        "https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNC07IzPSEWHsctp6tSbsNFBZSScB7NQY9qX1pwHI8s1bli0KVwkebm2OmJpBG4CIMD7x09PlLrsmiHgekuZLdcplO-cMS3CaEa191w4TSnr_LAwizaNRrpvQFicU1NkWVDd237CiD2S4Jr3Y1Zf105WRsHIERUcIPeYkZ5JZfXFfSxmSM0YTYkhwRTyv3/s1600/russian.jpg"
+      },
+      "published": "2025-08-15T11:27:00Z"
+    }
+  },
+  {
+    "hash": "29b5ffba93fef32eb853c833c0c49780a2777ad5faafdee5cdda3ae6e7509dbd",
+    "item": {
+      "title": "Zero Trust + AI: Privacy in the Age of Agentic AI",
+      "description": "We used to think of privacy as a perimeter problem: about walls and locks, permissions, and policies. But in a world where artificial agents are becoming autonomous actors — interacting with data, systems, and humans without constant oversight — privacy is no longer about control. It’s about trust. And trust, by definition, is about what happens when you’re not looking.\nAgentic AI — AI that",
+      "links": [
+        "https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKzdrz7HCdYdW7xvYOABMgaPmv0nYglTqKwGteEjDw-DmupwflT4W9bHLjXEVVBylhRcqdnP7ZY0c1bKL2VPlXpyfqY5eWPR6py-LwOIqUz11mV-7YIEObJHre5Oj_4Ha4QLl9XAX8fwGr4W4detKISdm7Nb37t4kvJawt3p-KMbirirbHijLiRPvB6xY/s1600/zero-trust-ai.jpg"
+      },
+      "published": "2025-08-15T11:00:00Z"
+    }
+  },
+  {
+    "hash": "1208349a8f7ea4ab2beb331fb3ed224217b0e811e9a5d6d91c1860c65c2d3ec5",
+    "item": {
+      "title": "ETH Breakout Watch, August 15: Live News and Price Updates as Ethereum Approaches New ATH",
+      "description": "\u003cp\u003eEthereum is on the brink of making history again. With the price climbing dangerously close to its previous all-time high of \u003cstrong\u003e$4,864.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eth-breakout-watch-live-news-and-price-updates-as-ethereum-approaches-new-ath/\"\u003eETH Breakout Watch, August 15: Live News and Price Updates as Ethereum Approaches New ATH\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eth-breakout-watch-live-news-and-price-updates-as-ethereum-approaches-new-ath/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Altcoins",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hristina Yordanova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15115313/1755258792-chatgpt-image-aug-15-2025-02_40_44-pm_optimized.jpg"
+      },
+      "published": "2025-08-15T11:58:07Z"
+    }
+  },
+  {
+    "hash": "2ec80ef86cb780c98d55b5503b98afa52e5e609a5e8f420a39cdf1a07b83787f",
+    "item": {
+      "title": "Your Phone Can Now Mine Crypto: XRP Mining App Turns Smartphones into Daily Miners",
+      "description": "\u003cp\u003eBy combining the efficacy of blockchain with the convenience of mobile design, XRP Mining is providing a streamlined avenue to digital assets for people from all walks of life around the globe. Whether you are a total novice or a seasoned crypto investor, the new application provides a trustworthy, passive opportunity to earn a daily income.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/your-phone-can-now-mine-crypto-xrp-mining-app-turns-smartphones-into-daily-miners/\"\u003eYour Phone Can Now Mine Crypto: XRP Mining App Turns Smartphones into Daily Miners\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/your-phone-can-now-mine-crypto-xrp-mining-app-turns-smartphones-into-daily-miners/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15110730/1755256050-xrp-mining.jpg"
+      },
+      "published": "2025-08-15T11:09:32Z"
+    }
+  },
+  {
+    "hash": "591de9717d33ee6a4e72413da7bf0e87c5dbea0c0663fd6a401b8f58688dd6e2",
+    "item": {
+      "title": "Why Is Crypto Down Today? – August 15, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today, with BTC and ETH dropping to $119,043 and $4,647. Signs point to a rally continuation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-august-15-2025/\"\u003eWhy Is Crypto Down Today? – August 15, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-august-15-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15094342/1755251021-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-08-15T10:40:26Z"
+    }
+  },
+  {
+    "hash": "f12bfc8d65cb52206614c4168c94e2394ad99a2f93f5a42366af4c6d21bf18f5",
+    "item": {
+      "title": "New York Assembly Bill Seeks 0.2% Excise Tax on Crypto and NFT Transactions",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eNew York Assembly Member Phil Steck introduces bill imposing 0.2% excise tax on all crypto and NFT transactions with proceeds earmarked for expanding substance abuse prevention programs in upstate schools.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/new-york-assembly-bill-seeks-0-2-excise-tax-on-crypto-and-nft-transactions/\"\u003eNew York Assembly Bill Seeks 0.2% Excise Tax on Crypto and NFT Transactions\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/new-york-assembly-bill-seeks-0-2-excise-tax-on-crypto-and-nft-transactions/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "crypto tax",
+        "New York"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15100034/1755252033-image-1755251970434_optimized.jpg"
+      },
+      "published": "2025-08-15T10:01:00Z"
+    }
+  },
+  {
+    "hash": "1b8de40fcf50be54d217116daa0683ce344e959de01fbb73d6be2d73ac3d102d",
+    "item": {
+      "title": "Anonymous Whale Acquires $792M in Bitcoin – Bull Run Still On?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eAnonymous whale acquires $792M in Bitcoin following brutal $1.05B liquidation event triggered by hot inflation data as BlackRock purchases $523M during market dump.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/anonymous-whale-acquires-792m-in-bitcoin-bull-run-still-on/\"\u003eAnonymous Whale Acquires $792M in Bitcoin – Bull Run Still On?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/anonymous-whale-acquires-792m-in-bitcoin-bull-run-still-on/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15094222/1755250942-stock-image_optimized-85.jpg"
+      },
+      "published": "2025-08-15T09:53:14Z"
+    }
+  },
+  {
+    "hash": "8bdc64257fc031973fe765c8384bd69aaf71a8dd23335f2e6f0bf7136fee1efc",
+    "item": {
+      "title": "IOTA Miner Launches New App that Supports Free Mining of BTC and DOGE with XRP",
+      "description": "\u003cp\u003eIOTA Miner, a leading cloud mining platform, has fully upgraded its mobile app, tailored for users who want to easily join the cryptocurrency mining game.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/iota-miner-launches-new-app-that-supports-free-mining-of-btc-and-doge-with-xrp/\"\u003eIOTA Miner Launches New App that Supports Free Mining of BTC and DOGE with XRP\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/iota-miner-launches-new-app-that-supports-free-mining-of-btc-and-doge-with-xrp/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15093739/1755250658-iota.jpg"
+      },
+      "published": "2025-08-15T09:39:58Z"
+    }
+  },
+  {
+    "hash": "832836394d8f870f8c78aa1a4355a09d1454cf968fc3eb965dd15ef83c2ef214",
+    "item": {
+      "title": "XRP Challenges $5, DOT Miners Help XRP Mining Enthusiasts Benefit From The Spike",
+      "description": "\u003cp\u003eDOT Miners launched cloud mining contracts supporting XRP. Users simply hold XRP and activate their computing power, and the system automatically distributes profits daily, requiring no additional equipment or manual operation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-challenges-5-dot-miners-help-xrp-mining-enthusiasts-benefit-from-the-spike/\"\u003eXRP Challenges $5, DOT Miners Help XRP Mining Enthusiasts Benefit From The Spike\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-challenges-5-dot-miners-help-xrp-mining-enthusiasts-benefit-from-the-spike/"
+      ],
+      "categories": [
+        "Press Releases",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15093123/1755250282-dot.jpg"
+      },
+      "published": "2025-08-15T09:34:13Z"
+    }
+  },
+  {
+    "hash": "2f1ad732089d7e06e00863dea96e3422880b7e32945bc7fb8ff6bf679bb96538",
+    "item": {
+      "title": "Bitcoin Price Prediction: Will $119K Support Hold as RSI Dips and Fed Cut Odds Hit 92%?",
+      "description": "\u003cp\u003eBitcoin steadies near $119K as traders eye a 92.6% chance of a Fed rate cut in September. Technical setup points to a potential breakout toward $130K.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-btc-holds-119k-as-fed-cut-odds-near-93/\"\u003eBitcoin Price Prediction: Will $119K Support Hold as RSI Dips and Fed Cut Odds Hit 92%?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-btc-holds-119k-as-fed-cut-odds-near-93/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/07135922/1754575161-bitcoin-price-prediction-6.jpg"
+      },
+      "published": "2025-08-15T09:30:12Z"
+    }
+  },
+  {
+    "hash": "4334821cedb2d4cd2f0f8cd5c2c0fca108a717952108533b8975b35c61d64152",
+    "item": {
+      "title": "Real-Time BTC Rates Made Simple — Discover the Paybis Advantage",
+      "description": "\u003cp\u003eMany Bitcoin calculators don’t display real-time pricing data and are often slow and have complex interfaces. Paybis bucks this trend by offering a reliable, simple Bitcoin calculator anyone can use.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/real-time-btc-rates-made-simple-discover-the-paybis-advantage/\"\u003eReal-Time BTC Rates Made Simple — Discover the Paybis Advantage\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/real-time-btc-rates-made-simple-discover-the-paybis-advantage/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/15092331/1755249811-paybis.jpg"
+      },
+      "published": "2025-08-15T09:24:48Z"
+    }
   }
 ]
