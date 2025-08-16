@@ -1510,5 +1510,240 @@
       },
       "published": "2025-08-16T09:23:06Z"
     }
+  },
+  {
+    "hash": "d89b4a97d2c9491055fb662717dbc120084a8d67a3ab7b49518dff56d512533d",
+    "item": {
+      "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
+      "description": "Cybersecurity researchers have detailed the inner workings of an Android banking trojan called ERMAC 3.0, uncovering serious shortcomings in the operators' infrastructure.\n\"The newly uncovered version 3.0 reveals a significant evolution of the malware, expanding its form injection and data theft capabilities to target more than 700 banking, shopping, and cryptocurrency applications,\" Hunt.io",
+      "links": [
+        "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkDEdTz5dBgOpCrQHwQ2O2-hdB3qJYhppKRK8mspd39utoS2qwAlMb-AC-L118htQGh_vphdQh0z9aAOiQ5_Nx7mSEgxBgfbPYbLEuKAIRN0lzBCwURf2KAxp9BoYEY2ZAUMJ0hLFyCVnT4nLJDk55gPsUctm8T2rkTjZ5LqFcKVYJtJBSYl3LXp-UsYQd/s1600/ermac.jpg"
+      },
+      "published": "2025-08-16T10:41:00Z"
+    }
+  },
+  {
+    "hash": "656bac79cb26017837a8efc9d0b043f85ab6acc66bc3da09288fc2b97c0b094b",
+    "item": {
+      "title": "Linux 6.16.1 Fixes A Large Intel GPU Driver Performance Regression - Up To 30%",
+      "description": "Released on Friday were the Linux 6.16.1 and Linux 6.15.10 stable kernel point releases. Notable there is an Intel i915 kernel graphics driver performance regression fix with some users having reported as much as a 30% performance hit on prior Linux kernel versions...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.16.1-Fixes-Intel-i915"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-16T12:53:08Z"
+    }
+  },
+  {
+    "hash": "0767a4dd44545fba68698f63566d3d1d3df1b6f819cac318c54f24d81bcd8c37",
+    "item": {
+      "title": "Payment Processor Fun 2025 – Making Your Own Merchant Service Provider",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44924055\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T15:01:20Z"
+    }
+  },
+  {
+    "hash": "bf307beda718b7c6e1cf2fe53b7fbb8121b37ba37f881689914078502a0a8328",
+    "item": {
+      "title": "Good system design",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44921137\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/good-system-design/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T07:38:46Z"
+    }
+  },
+  {
+    "hash": "bf48cf5ac8bdc5bbc3dba5a690d54a2739911225ccc8aaffe764ea4ee87e413e",
+    "item": {
+      "title": "Satoshi Nakamoto Translated into English Means \"Central Intelligence\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44923703\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T14:22:28Z"
+    }
+  },
+  {
+    "hash": "6533766fea9a0a94719760f142ae77af11f6f8852fe0ce95bc6fd25175da937e",
+    "item": {
+      "title": "Toothpaste made from hair provides natural root to repair teeth",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922571\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T12:13:12Z"
+    }
+  },
+  {
+    "hash": "62ab0da8f46d78c7810d5dc09c59222c1fb4dcfe928592430d7cd9d6785756fd",
+    "item": {
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889163\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-13T14:47:01Z"
+    }
+  },
+  {
+    "hash": "edc1ab00cac2b21bd176b4d8f400eb9d4c2498af7e10e7820a627effa84bcca0",
+    "item": {
+      "title": "How randomness improves algorithms (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44898560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-14T09:43:53Z"
+    }
+  },
+  {
+    "hash": "7e3785146f644af5cc170ecd5526d2a633ca518ff5a69c02e78520bf01bc488a",
+    "item": {
+      "title": "A Race to Save a Signature American Tree from a Deadly Disease",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44923404\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T13:48:32Z"
+    }
+  },
+  {
+    "hash": "448408c6f3daf5640150f5b592179e38e8fc720edcb124d39fc181dd94155a26",
+    "item": {
+      "title": "Seagate spins up a raid on a counterfeit hard drive workshop",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922819\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tomshardware.com/pc-components/hdds/seagate-spins-up-a-raid-on-a-counterfeit-hard-drive-workshop-authorities-read-criminals-writes-while-they-spill-the-beans"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T12:41:17Z"
+    }
+  },
+  {
+    "hash": "693fdd11c03c45b185b176d1b9b7f7904d4a346c16c744ac4d74b2ee934e140c",
+    "item": {
+      "title": "DCG Countersues Genesis for $1.1B After Subsidiary Claims $3.1B Damages",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eDigital Currency Group countersues bankrupt subsidiary Genesis for $1.1B demanding promissory note relief and $105M overpayment recovery as Genesis pursues $3.1B damages following Three Arrows Capital collapse.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dcg-countersues-genesis-for-1-1b-after-subsidiary-claims-3-1b-damages/\"\u003eDCG Countersues Genesis for $1.1B After Subsidiary Claims $3.1B Damages\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dcg-countersues-genesis-for-1-1b-after-subsidiary-claims-3-1b-damages/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Genesis",
+        "Three Arrows Capital"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/16142836/1755354516-image-1755354436429_optimized.jpg"
+      },
+      "published": "2025-08-16T14:44:08Z"
+    }
+  },
+  {
+    "hash": "abee53efef2f5eea5737cbc9a0f3c94bf1b09b94dcaa76793cb23903bd281bc3",
+    "item": {
+      "title": "Spot Ethereum ETFs Post $59M Outflows, Breaking 8-Day $3.7B Buying Streak",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eSpot Ethereum ETFs record $59.3M outflows ending unprecedented 8-day buying streak that brought in $3.7B as BlackRock accumulates $1B during market selloff with ETH approaching all-time high.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/spot-ether-etfs-post-59m-outflows-breaking-8-day-3-7b-buying-streak/\"\u003eSpot Ethereum ETFs Post $59M Outflows, Breaking 8-Day $3.7B Buying Streak\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/spot-ether-etfs-post-59m-outflows-breaking-8-day-3-7b-buying-streak/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "ETH",
+        "Ethereum ETFs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/16134743/1755352062-stock-image_optimized-87.jpg"
+      },
+      "published": "2025-08-16T14:17:19Z"
+    }
+  },
+  {
+    "hash": "042ab79de1f0db55447ebf8c7e31c324b3460be9d8043fdc5ea2dc0d937ef125",
+    "item": {
+      "title": "Grayscale Moves Forward With Dogecoin ETF Plan Under Ticker ‘GDOG’",
+      "description": "\u003cp\u003eGrayscale is pushing ahead with its bid to launch a Dogecoin exchange-traded fund, revealing the ticker “GDOG” in its latest SEC filing. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grayscale-moves-forward-with-dogecoin-etf-plan-under-ticker-gdog/\"\u003eGrayscale Moves Forward With Dogecoin ETF Plan Under Ticker ‘GDOG’\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grayscale-moves-forward-with-dogecoin-etf-plan-under-ticker-gdog/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "DOGE",
+        "Dogecoin ETF",
+        "Grayscale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/16075138/1755330698-image-1755330348396_optimized.jpg"
+      },
+      "published": "2025-08-16T14:00:00Z"
+    }
+  },
+  {
+    "hash": "2bbdf833c452f618cc9351b3fe05dc1604b8a160b4669d465c2fbc98dbc08454",
+    "item": {
+      "title": "BitMine and Mystery Whale Buy $882M in Ethereum While Retail Panic Sell",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eBitMine purchases 106,485 ETH worth $470.51M bringing total holdings to 1.297M ETH while mystery whale withdraws $412M from Kraken as retail traders panic sell during pullbacks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitmine-and-mystery-whale-buy-882m-in-ethereum-while-retail-panic-sell/\"\u003eBitMine and Mystery Whale Buy $882M in Ethereum While Retail Panic Sell\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitmine-and-mystery-whale-buy-882m-in-ethereum-while-retail-panic-sell/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "ETH",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/16130516/1755349515-stock-image_optimized-86.jpg"
+      },
+      "published": "2025-08-16T13:16:45Z"
+    }
   }
 ]
