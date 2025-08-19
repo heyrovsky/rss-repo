@@ -765,5 +765,186 @@
       },
       "published": "2025-08-18T21:57:53Z"
     }
+  },
+  {
+    "hash": "235844571b99b1ad4405029c8aa3e85a86a43c1d4e1cf052c6a243fb109ca738",
+    "item": {
+      "title": "New Linux Patches Allow Manipulating Out-Of-Memory Behavior Using BPF",
+      "description": "Google engineer Roman Gushchin has proposed the ability for the Linux kernel to customize the out-of-memory \"OOM\" behavior using BPF programs...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-OOM-BPF-Proposal"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-19T00:47:05Z"
+    }
+  },
+  {
+    "hash": "d82908615a0eec2d054b263bcb7d4c4f05ea05d03b3569dba442b1f055979a7a",
+    "item": {
+      "title": "Starting game development in JavaScript with no experience",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44947276\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-19T01:25:03Z"
+    }
+  },
+  {
+    "hash": "34cc00d68a7ccefcc63b29e4ab483daeae414de02bfc865698c99cf0fff955d5",
+    "item": {
+      "title": "OpenMower – An Open Source Lawn Mower",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44946996\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ClemensElflein/OpenMower"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-19T00:35:08Z"
+    }
+  },
+  {
+    "hash": "564eff8fb0c6d198e5568c82f54bead5adb44036daecee24bd6c9b20d5ef00af",
+    "item": {
+      "title": "Lab-grown salmon hits the menu",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44945959\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-18T22:29:14Z"
+    }
+  },
+  {
+    "hash": "4e658da4ca669d0d141bcdd0a5f23d30e7b84ad6cdbb7902220506b2ac4e2b6c",
+    "item": {
+      "title": "Free up space (effortlessly) on WSL2",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927629\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-16T23:15:25Z"
+    }
+  },
+  {
+    "hash": "b106b30c4e9a13cc85308d92a48a28a0af8996b0d5b74d5609c6eb6af5058f47",
+    "item": {
+      "title": "Precision mapping tracks woody plant spread across Great Plains grasslands",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915228\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-07-precision-tracks-woody-great-plains.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-15T17:39:24Z"
+    }
+  },
+  {
+    "hash": "c3e2f1752ed2048ee197f3c96e5630528438e639a6dcd07faffd694007d39025",
+    "item": {
+      "title": "A general Fortran code for solutions of problems in space mechanics [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44946813\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-19T00:12:17Z"
+    }
+  },
+  {
+    "hash": "2df16db659ad32c7cccfddb46617a939b4b7a958b5fc4dd97a9595b7fe1d5d31",
+    "item": {
+      "title": "Ted Chiang: The Secret Third Thing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44946774\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://linch.substack.com/p/ted-chiang-review"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-19T00:05:59Z"
+    }
+  },
+  {
+    "hash": "68dcf97e648391a3876d18301a791bdbcf95e3e7d20dc7e535a990492920f3a9",
+    "item": {
+      "title": "The PC In Your Pico",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg 800w, https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"708577\" data-permalink=\"https://hackaday.com/2024/09/20/raspberry-pi-rp2350-e9-erratum-redefined-as-input-mode-leakage-current/rp2350/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"rp2350\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg?w=800\" /\u003e\u003c/div\u003eWe\u0026#8217;re all used to emulating older computers here, and we\u0026#8217;ve seen plenty of projects that take a cheap microcontroller and use it to emulate a classic home computer or gaming \u003ca href=\"https://hackaday.com/2025/08/18/the-pc-in-your-pico/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/18/the-pc-in-your-pico/"
+      ],
+      "categories": [
+        "Raspberry Pi",
+        "Retrocomputing",
+        "286",
+        "PC emulator",
+        "pi pico"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2024/09/rp2350.jpg"
+      },
+      "published": "2025-08-19T02:00:19Z"
+    }
+  },
+  {
+    "hash": "a672722161693d640389c21d62a3c1322433f0238330364ce75cd53cf6127c89",
+    "item": {
+      "title": "Adjustable Allen Key After All These Years",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png 1920w, https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"804109\" data-permalink=\"https://hackaday.com/2025/08/18/adjustable-allen-key-after-all-these-years/adjustable-allen-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"adjustable-allen-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png?w=800\" /\u003e\u003c/div\u003eThe Allen key turns 115 this year. It\u0026#8217;s strange to believe that in all that time, no one has come up with an adjustable version, but apparently true. Luckily [Chronova \u003ca href=\"https://hackaday.com/2025/08/18/adjustable-allen-key-after-all-these-years/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/18/adjustable-allen-key-after-all-these-years/"
+      ],
+      "categories": [
+        "Tool Hacks",
+        "allen key",
+        "manual machining",
+        "toolmaking"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/adjustable-allen-feat.png"
+      },
+      "published": "2025-08-18T23:00:41Z"
+    }
+  },
+  {
+    "hash": "e4424440ea8098a550ea5ff7677c6f1650df381279a608d3e68f8e0fbbeee870",
+    "item": {
+      "title": "U.S. Treasury Calls For Public Comment On Combatting Crypto Risks In Line With The GENIUS ACT",
+      "description": "\u003cp\u003eThe U.S. Treasury is calling on the public to provide feedback required by the GENIUS Act on how the government could help prevent “illicit finance risks” tied to digital assets, per a Monday press release from the government department.U.S. Treasury Puts The GENIUS Act In ActionAccording to the August 18 notice, the U.S. Treasury is [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/u-s-treasury-calls-for-pub/\"\u003eU.S. Treasury Calls For Public Comment On Combatting Crypto Risks In Line With The GENIUS ACT\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/u-s-treasury-calls-for-pub/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "GENIUS Act",
+        "Regulation",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/19005148/1755564707-julia_63915_u-s-_treasury_building_overlaid_with_cryptocurrenci_7604d392-bde0-4d23-8bcb-5a0d3011d6bc_optimized-3.jpg"
+      },
+      "published": "2025-08-19T01:03:26Z"
+    }
   }
 ]
