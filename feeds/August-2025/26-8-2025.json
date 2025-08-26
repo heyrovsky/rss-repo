@@ -953,5 +953,279 @@
       },
       "published": "2025-08-26T03:34:11Z"
     }
+  },
+  {
+    "hash": "4b2d42d377f05da106c6bdc6528bf35251713c98d474f0590f9d3f60c0641e16",
+    "item": {
+      "title": "Google to Verify All Android Developers in 4 Countries to Block Malicious Apps",
+      "description": "Google has announced plans to begin verifying the identity of all developers who distribute apps on Android, even for those who distribute their software outside the Play Store.\n\"Android will require all apps to be registered by verified developers in order to be installed by users on certified Android devices,\" the company said. \"This creates crucial accountability, making it much harder for",
+      "links": [
+        "https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOamSW4uN3Qiu7IsNS2F304qYQG1ffstSSRQBTVJByHgfZ81IBFQOS8COrSefbfVqGmh9AIp9C6mmPEIwUMzgw26mQcGawj14vSVvdACSRF895qsTvt7I8l5a406Lo60XiSYl_CUyyjJzHC_03DxLdm8Xsbw_99v04oPUB5sVsbsJxjWAzdbKRqSgNcky4/s1600/google-android-dev.jpg"
+      },
+      "published": "2025-08-26T06:27:00Z"
+    }
+  },
+  {
+    "hash": "b1499d5666aa1c2678fb1a526ee8a4f433494cb7095cc30c838c9e16a8b4d962",
+    "item": {
+      "title": "CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws impacting Citrix Session Recording and Git to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-8068 (CVSS score: 5.1) - An improper privilege management vulnerability in Citrix Session Recording",
+      "links": [
+        "https://thehackernews.com/2025/08/cisa-adds-three-exploited.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQovp4NUQSt_z0J2-9opIt-GbPMh1-snoRseEJWeBdV_MlBFVpFPAEX83AkzUhpdxst6kYzk9bmMta4LLs_ZYrI8bBFSsoTw0PRF7x1-oR1pEotAfy3y8jqulaZl0NbFFb_ZeNPIXDOOb22oVcc5ng7sVR-hw9EvRDzDsHJrWQbsPFDOjPbRBJljv1ufA6/s1600/cisa.jpg"
+      },
+      "published": "2025-08-26T05:55:00Z"
+    }
+  },
+  {
+    "hash": "7bfe9cef6fdce3e997b43ee84e25434396ad394edc5174b8540c09923a01b51e",
+    "item": {
+      "title": "[$] Shadow-stack control in clone3()",
+      "description": "Shadow stacks are a control-flow-integrity feature designed to defend\nagainst exploits that manipulate a thread's call stack.  The kernel first\n\u003ca href=\"https://lwn.net/Articles/926649/\"\u003egained support for hardware-implemented shadow\nstacks\u003c/a\u003e, for the x86 architecture, in the 6.6 release; 64-bit Arm\nsupport followed in 6.13.  This feature does not give user space much\ncontrol over the allocation of shadow stacks for new threads, though; a \u003ca\nhref=\"https://lwn.net/ml/all/20250819-clone3-shadow-stack-v19-0-bc957075479b@kernel.org\"\u003epatch\nseries\u003c/a\u003e from Mark Brown may, after many attempts, finally be about\nto change that situation.",
+      "links": [
+        "https://lwn.net/Articles/1034442/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-08-26T07:16:52Z"
+    }
+  },
+  {
+    "hash": "a5306180beae90a0ffde2e92d4e89be6ec0fd4f674479e7be16bdb29534cf691",
+    "item": {
+      "title": "Security updates for Tuesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (ffmpeg, firebird3.0, and luajit), \u003cb\u003eFedora\u003c/b\u003e (chromium, python3-docs, and python3.13), \u003cb\u003eOracle\u003c/b\u003e (aide, firefox, glibc, libxml2, and tomcat), \u003cb\u003eRed Hat\u003c/b\u003e (aide, git, kernel, kernel-rt, libarchive, pam, python-cryptography, python3, python3.12, and webkit2gtk3), \u003cb\u003eSUSE\u003c/b\u003e (cmake3, ffmpeg-4, kernel, kubernetes1.18, libqt4, minikube, net-tools, pam, postgresql16, proftpd, python-urllib3, python311, python312, python36, tomcat10, tomcat11, and webkit2gtk3), and \u003cb\u003eUbuntu\u003c/b\u003e (nginx).",
+      "links": [
+        "https://lwn.net/Articles/1035110/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-08-26T07:13:19Z"
+    }
+  },
+  {
+    "hash": "ad1d4da816857eb3f9295058e12c84cfeb2b7d105d9f9ceb79c62914073f2fc6",
+    "item": {
+      "title": "Do I not like Ruby anymore? (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45023176\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T07:00:07Z"
+    }
+  },
+  {
+    "hash": "e60986dd525b8c5c1ccc363685f478ff0623931c8a807286a0bf784fae98a180",
+    "item": {
+      "title": "A bug saved the company",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45002888\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-24T09:55:56Z"
+    }
+  },
+  {
+    "hash": "17dbb0bfcfbf8bf1b07c0706927a0afe236283e752d342696c453d8c16a2242c",
+    "item": {
+      "title": "Interactive Map of Paul's First Century Travels in Roman World",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45023071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.intofarlands.com/map-of-pauls-journeys"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T06:42:58Z"
+    }
+  },
+  {
+    "hash": "56b61e2a0c074868698467144c466095aa21aaf85e187a404601a245ec37083a",
+    "item": {
+      "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45022931\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pandax381/xv6-riscv-net"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T06:24:30Z"
+    }
+  },
+  {
+    "hash": "42e67e637a14d65152868abf5beb60abfdc5b7eeb2c99ae749f9c6b5cfbced89",
+    "item": {
+      "title": "The Physics of Parabolic Microphones: Frequency Dependence of Gain",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45012035\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T09:42:10Z"
+    }
+  },
+  {
+    "hash": "89f7f743fd2c02e2ea2e929458ab35a7e2a17e98c733845973c7410c7358c59e",
+    "item": {
+      "title": "Dangerous Advice for Software Engineers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45022874\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/dangerous-advice/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T06:15:17Z"
+    }
+  },
+  {
+    "hash": "30700e61aba70db35e87c68ff0eb893b17ddcbc351c915273c1d1b895472f4ad",
+    "item": {
+      "title": "What Are Oklch Colors?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45001057\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jakub.kr/components/oklch-colors"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-24T03:22:16Z"
+    }
+  },
+  {
+    "hash": "940f53b57d3cac8a4c9bb38261ea801e1fd9437e6356b8e3a42fd59652f6a306",
+    "item": {
+      "title": "Thailand Is Using Long Range Acoustic Devices (LRAD)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45023292\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA\u0026s=19"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T07:15:47Z"
+    }
+  },
+  {
+    "hash": "3c4c6815ba2a179e1d884c6f42d6b93acd158cd48d9a80bd861494bccfc5a248",
+    "item": {
+      "title": "Tom Lee Calls ETH Bottom ‘In Next Few Hours’ as BitMine Doubles Down with $21M Buy",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eFundstrat's Tom Lee made boldest Ethereum prediction yet calling for Ether's bottom to arrive within hours as BitMine Immersion Technologies purchased another $21.28M worth of ETH adding 4,871 tokens to bring holdings to 1.72M ETH valued at $7.65B following Lee's previous accurate call predicting temporary decline to $4,075-$4,150 range.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tom-lee-calls-ether-bottom-in-next-few-hours-as-bitmine-doubles-down-with-21m-buy/\"\u003eTom Lee Calls ETH Bottom \u0026#8216;In Next Few Hours\u0026#8217; as BitMine Doubles Down with $21M Buy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tom-lee-calls-ether-bottom-in-next-few-hours-as-bitmine-doubles-down-with-21m-buy/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "BitMine",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26071827/1756192706-stock-image_optimized-100.jpg"
+      },
+      "published": "2025-08-26T08:31:24Z"
+    }
+  },
+  {
+    "hash": "20978d50bd4afd37f4e0b6be79703988311459ada5b3ae29c84973b1e940b87a",
+    "item": {
+      "title": "Kraken Meets SEC Crypto Task Force to Discuss Asset Tokenization",
+      "description": "\u003cp\u003eKraken has held talks with the US Securities and Exchange Commission (SEC) over its plans to expand into tokenized markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/kraken-meets-sec-crypto-task-force-to-discuss-asset-tokenization/\"\u003eKraken Meets SEC Crypto Task Force to Discuss Asset Tokenization\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/kraken-meets-sec-crypto-task-force-to-discuss-asset-tokenization/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Kraken",
+        "SEC",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26072607/1756193167-26c2a009-17b3-48cb-8f29-7b46ab63a383_optimized.jpg"
+      },
+      "published": "2025-08-26T07:35:53Z"
+    }
+  },
+  {
+    "hash": "cbaef973e90a6e8d72b1f97d76c92aff82e5486142122ef84d7b486296daeed9",
+    "item": {
+      "title": "Bitcoin Cynic Peter Schiff Warns BTC Could Drop to $75K, Below Strategy’s Avg. Buy",
+      "description": "\u003cp\u003ePeter Schiff advocates BTC holders to “sell now and buy back later,” predicting Bitcoin to tumble to $75,000 at a minimum.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-critic-peter-schiff-warns-btc-could-drop-to-75k/\"\u003eBitcoin Cynic Peter Schiff Warns BTC Could Drop to $75K, Below Strategy\u0026#8217;s Avg. Buy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-critic-peter-schiff-warns-btc-could-drop-to-75k/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26071052/1756192252-image-1756192221647_optimized.jpg"
+      },
+      "published": "2025-08-26T07:20:38Z"
+    }
+  },
+  {
+    "hash": "8fc5fbec28a2327a675e19ec725a35b7a1ea241e6617beec0a94d00371950434",
+    "item": {
+      "title": "Pantera Capital Plans $1.25B Raise to Build Nasdaq-Listed Solana Vehicle",
+      "description": "\u003cp\u003ePantera Capital is preparing to raise as much as $1.25 billion to transform a Nasdaq-listed company into “Solana Co.” to accumulate SOL.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pantera-capital-plans-1-25b-raise-to-build-nasdaq-listed-solana-vehicle/\"\u003ePantera Capital Plans $1.25B Raise to Build Nasdaq-Listed Solana Vehicle\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pantera-capital-plans-1-25b-raise-to-build-nasdaq-listed-solana-vehicle/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Solana",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26055702/1756187822-2f709f44-a9a9-404a-9f73-b7e2ae423c06_optimized.jpg"
+      },
+      "published": "2025-08-26T06:30:23Z"
+    }
   }
 ]
