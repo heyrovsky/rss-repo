@@ -2748,5 +2748,811 @@
       },
       "published": "2025-08-26T12:21:00Z"
     }
+  },
+  {
+    "hash": "a535f37bc34919fab66eb2b1f9f00c9f8cb2b8bde40208150036921387d4f336",
+    "item": {
+      "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
+      "description": "Citrix has released fixes to address three security flaws in NetScaler ADC and NetScaler Gateway, including one that it said has been actively exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-7775 (CVSS score: 9.2) - Memory overflow vulnerability leading to Remote Code Execution and/or Denial-of-Service\nCVE-2025-7776 (CVSS score: 8.8) - Memory overflow",
+      "links": [
+        "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8JyjBnvpAKrO0oAOwIU8-iH3wL6zPhfwW0ikuRkIH5vdKmnA4d3BJYT9SLRKmReO2MovgGigJ5uq-6NYjNvwQN0MzPUYtlu2gW0J8x6EXoXeXbQRWc4HSnrr-USMCDkYwpcASjP028lwwG5Vj0W-ac2BG8X2wHsSpogJGziXH6wCSJf2zlTzWfqhPdFUL/s1600/citrix.jpg"
+      },
+      "published": "2025-08-26T17:29:00Z"
+    }
+  },
+  {
+    "hash": "ed7d3dcc94aac50ce3d3c5d80b682c7e62df6af8c9cdb231a9276f3b1c64d04b",
+    "item": {
+      "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
+      "description": "A team of academics has devised a novel attack that can be used to downgrade a 5G connection to a lower generation without relying on a rogue base station (gNB).\nThe attack, per the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD), relies on a new open-source software toolkit named Sni5Gect (short for \"Sniffing 5G Inject\") that's",
+      "links": [
+        "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIkgJca1vtf2mEOJnQ21hV27JFIrMEfztrhDiYEwEDsWRengbYPauuyipn-l2xi0x-t5FJ3R5BEpyg9v0WY7v6fGN6w0UqxQTF92K7buuCNOEDPO79OS6palgW1ZTCKIymFZiGC9RCKtkd8QgAmQITisMpaf9_mJJtj1JNg8-NUW6J7cnCST2FvEXMneHf/s1600/5g-hack.jpg"
+      },
+      "published": "2025-08-26T17:23:00Z"
+    }
+  },
+  {
+    "hash": "f31d115bb2076b5efcf7a1faca030728e824172e2e8faf73638f7737d337c24b",
+    "item": {
+      "title": "Google improves Gemini AI image editing with “nano banana” model",
+      "description": "Gemini 2.5 Flash Image is currently atop LMArena's image editing leaderboard. ",
+      "links": [
+        "https://arstechnica.com/ai/2025/08/google-improves-gemini-ai-image-editing-with-nano-banana-model/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "gemini",
+        "google"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg"
+      },
+      "published": "2025-08-26T16:03:34Z"
+    }
+  },
+  {
+    "hash": "4d5f8faca58944eb880f9618ea1a82aea2860609b09464ca2f492c7cf581d731",
+    "item": {
+      "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop",
+      "description": "Older Ryzen 7040-based model will stick around at $1,299 as a lower-end option.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/08/framework-laptop-16-update-brings-nvidia-geforce-to-the-modular-gaming-laptop/"
+      ],
+      "categories": [
+        "Gaming",
+        "Tech",
+        "AMD",
+        "framework",
+        "framework laptop",
+        "framework laptop 16",
+        "NVIDIA",
+        "Ryzen"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/FW16-Hero-Alt-1-1152x648.jpeg"
+      },
+      "published": "2025-08-26T15:05:51Z"
+    }
+  },
+  {
+    "hash": "8e0a170d0bc76d227d5668b1efad84a63b83f30aac08aa1680adc98894656024",
+    "item": {
+      "title": "Scientists unlock secret to thick, stable beer foams",
+      "description": "Triple-fermented Belgian beers have the longest-lasting foam; single-fermented lagers have the shortest. ",
+      "links": [
+        "https://arstechnica.com/science/2025/08/physics-of-why-belgian-beer-foam-is-so-stable/"
+      ],
+      "categories": [
+        "Science",
+        "beer",
+        "beer physics",
+        "fluid dynamics",
+        "foamy physics",
+        "Physics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/beerfoam1-1152x648-1756137042.jpg"
+      },
+      "published": "2025-08-26T15:00:59Z"
+    }
+  },
+  {
+    "hash": "5269066caced9ddf0290206b864e1ac322c13d8e7b6d73e581d57fd45a16a309",
+    "item": {
+      "title": "Google’s AI model just nailed the forecast for the strongest Atlantic storm this year",
+      "description": "If they improve further, AI weather models may very well become the gold standard.",
+      "links": [
+        "https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/"
+      ],
+      "categories": [
+        "Science",
+        "AI forecasting",
+        "deepmind",
+        "google",
+        "hurricanes",
+        "science.weather"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-1152x648.jpg"
+      },
+      "published": "2025-08-26T14:43:41Z"
+    }
+  },
+  {
+    "hash": "9fdd9d47b6edd86affaf3fdbc86d89e11e1c9582a600895ead78ac34dec51962",
+    "item": {
+      "title": "Best Upcoming Cryptos 2025: 7 Meme Projects Turning Hype Into Massive Gains — Don’t Miss Out!",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-19.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-19.png 781w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-19-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-19-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-19-376x212.png 376w\" sizes=\"(max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eCrypto never sleeps. Just last week, Bitcoin broke new resistance levels while memecoins like Dogecoin and Pepe stormed back into headlines. In the middle of all this noise, savvy investors are quietly piling into the best low-cost crypto presales, those hidden gems that can turn a small bag into a",
+      "links": [
+        "https://thenewscrypto.com/best-upcoming-cryptos-2025-7-meme-projects-turning-hype-into-massive-gains-dont-miss-out/"
+      ],
+      "categories": [
+        "Press Release",
+        "Labubull (LXB)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-19.png"
+      },
+      "published": "2025-08-26T14:30:00Z"
+    }
+  },
+  {
+    "hash": "bd8252f0405eda53c40c713b1c12ce2734dd0e3520a22b20736e769894ee2a0c",
+    "item": {
+      "title": "Newcastle United Announce Multi-year Partnership With BYDFi",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm.jpeg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm-1024x576.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm-768x432.jpeg 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm-1536x864.jpeg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm-376x212.jpeg 376w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eVictoria, Seychelles, 26th August 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/newcastle-united-announce-multi-year-partnership-with-bydfi/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/NEWCASTLE_UNITED_ANNOUNCE_MULTI-YEAR_PARTNERSHIP_W_1756214031PGkjZKnrPm.jpeg"
+      },
+      "published": "2025-08-26T13:48:26Z"
+    }
+  },
+  {
+    "hash": "c2c71aa8c7307005f9c2f36e66bc58b030932098fe2db5a003f11d08cb0e0983",
+    "item": {
+      "title": "BTC Price Squeeze: Will Bitcoin Test the $115K Barrier or Hit the Next Big Wall on the Way Down?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/BTC-Price-Squeeze-Will-Bitcoin-Test-the-115K-Barrier-or-Hit-the-Next-Big-Wall-on-the-Way-Down.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BTC Price Squeeze: Will Bitcoin Test the $115K Barrier or Hit the Next Big Wall on the Way Down?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/BTC-Price-Squeeze-Will-Bitcoin-Test-the-115K-Barrier-or-Hit-the-Next-Big-Wall-on-the-Way-Down.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/BTC-Price-Squeeze-Will-Bitcoin-Test-the-115K-Barrier-or-Hit-the-Next-Big-Wall-on-the-Way-Down-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/BTC-Price-Squeeze-Will-Bitcoin-Test-the-115K-Barrier-or-Hit-the-Next-Big-Wall-on-the-Way-Down-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the crypto assets in bearish condition, their price movements are losing momentum. Following suit, the largest asset, Bitcoin (BTC), has dropped below the $110K mark. The asset has undergone multiple recovery attempts. BTC’s price hit its ATH 12 days ago, but at press time, it is facing rejections.\u0026#160; BTC",
+      "links": [
+        "https://thenewscrypto.com/btc-price-squeeze-will-bitcoin-test-the-115k-barrier-or-hit-the-next-big-wall-on-the-way-down/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "BTC price",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/BTC-Price-Squeeze-Will-Bitcoin-Test-the-115K-Barrier-or-Hit-the-Next-Big-Wall-on-the-Way-Down.jpg"
+      },
+      "published": "2025-08-26T13:35:49Z"
+    }
+  },
+  {
+    "hash": "e0ee9d0185fc597e63eef73c0339d2c7cc6289a21dc653ea8ae04411d0b368b0",
+    "item": {
+      "title": "Ga^3in Ventures and Boosty Labs Host Successful Web3 + AI Pitch Competition at ETHGlobal NYC",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-76.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-76.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-76-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-76-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-76-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe Web3 + AI Pitch Competition, hosted by Ga^3in Ventures and Boosty Labs during ETHGlobal NYC, concluded with resounding success. Founders from across the industry gathered to showcase groundbreaking ideas that merge Web3 innovation with artificial intelligence, underscoring the transformative potential of these technologies. The competition served as a vital",
+      "links": [
+        "https://thenewscrypto.com/ga3in-ventures-and-boosty-labs-host-successful-web3-ai-pitch-competition-at-ethglobal-nyc/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ga^3in Ventures"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-76.jpg"
+      },
+      "published": "2025-08-26T13:00:00Z"
+    }
+  },
+  {
+    "hash": "a9050ae926e9268418b24b72235bac86502546695bcd73a971adf93e879fecf0",
+    "item": {
+      "title": "Hardware Wallets in 2025: Why D’CENT Leaves Ledger and Trezor Behind",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Hardware_Wallets_in_2025_Why_DCENT_Leaves_Ledger_and_Trezor_Behind.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Hardware_Wallets_in_2025_Why_DCENT_Leaves_Ledger_and_Trezor_Behind.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Hardware_Wallets_in_2025_Why_DCENT_Leaves_Ledger_and_Trezor_Behind-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Hardware_Wallets_in_2025_Why_DCENT_Leaves_Ledger_and_Trezor_Behind-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWhy Self-Custody Matters More Than Ever 2025 has already witnessed some of the largest crypto heists on record: With attacks growing both online and offline, one truth stands firm: if you don’t hold your keys, you don’t own your crypto. That’s why self-custody with hardware wallets remains the gold standard",
+      "links": [
+        "https://thenewscrypto.com/hardware-wallets-in-2025-why-dcent-leaves-ledger-and-trezor-behind/"
+      ],
+      "categories": [
+        "News",
+        "D’CENT",
+        "Ledger",
+        "Trezor"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Hardware_Wallets_in_2025_Why_DCENT_Leaves_Ledger_and_Trezor_Behind.jpg"
+      },
+      "published": "2025-08-26T12:35:37Z"
+    }
+  },
+  {
+    "hash": "fff5cef3fdbb5c8f42314c625275d74c4f0b2af4db906116ec31971967ecb28c",
+    "item": {
+      "title": "R0AR Chain Launches Public Node Sale Following $1 Million Whitelist Success",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/R0AR_-_PR_-_R0AR_Chain_Launches_Public_Node_Sale_F_1755900733SUhriG8aOY.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/R0AR_-_PR_-_R0AR_Chain_Launches_Public_Node_Sale_F_1755900733SUhriG8aOY.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/08/R0AR_-_PR_-_R0AR_Chain_Launches_Public_Node_Sale_F_1755900733SUhriG8aOY-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/R0AR_-_PR_-_R0AR_Chain_Launches_Public_Node_Sale_F_1755900733SUhriG8aOY-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/R0AR_-_PR_-_R0AR_Chain_Launches_Public_Node_Sale_F_1755900733SUhriG8aOY-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eSheridan, USA / WY, 26th August 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/r0ar-chain-launches-public-node-sale-following-1-million-whitelist-success/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/R0AR_-_PR_-_R0AR_Chain_Launches_Public_Node_Sale_F_1755900733SUhriG8aOY.jpg"
+      },
+      "published": "2025-08-26T12:05:56Z"
+    }
+  },
+  {
+    "hash": "5d9b0b6b8c6fba91f402f63542cc243f8035ed28c1886cf830f9ca1abbfbd3cd",
+    "item": {
+      "title": "BingX AI Hits 2 Million Users and 20 Million Queries in Just 100 Days",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"435\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-79.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-79.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-79-300x167.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-79-768x428.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eBingX, a leading cryptocurrency exchange and Web3 AI company, today announced a significant milestone for its AI-powered trading assistant, BingX AI, which has surpassed 2 million users and processed 20 million queries since its launch in May. BingX AI is built as a suite of integrated intelligence, powered by multi-model",
+      "links": [
+        "https://thenewscrypto.com/bingx-ai-hits-2-million-users-and-20-million-queries-in-just-100-days/"
+      ],
+      "categories": [
+        "Press Release",
+        "BingX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-79.jpg"
+      },
+      "published": "2025-08-26T11:23:17Z"
+    }
+  },
+  {
+    "hash": "69ebf688abc63b4ce56009b484ae8a49af7c870a74558b56056ac01c4144fa61",
+    "item": {
+      "title": "MEXC Concludes Solana Eco Month With Over $400 Billion in Trading Volume and 128,000 Participants",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-20.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-20.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-20-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-20-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, today announced the successful conclusion of its Solana Eco Month campaign. The campaign attracted over 128,000 participants worldwide and recorded a total trading volume of over $400 billion, reflecting strong user interest in the Solana ecosystem and continued trust in the MEXC platform. Amid",
+      "links": [
+        "https://thenewscrypto.com/mexc-concludes-solana-eco-month-with-over-400-billion-in-trading-volume-and-128000-participants/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-20.png"
+      },
+      "published": "2025-08-26T11:15:43Z"
+    }
+  },
+  {
+    "hash": "dfb8d250d1bf0fb1f9eab6792c666d8fa1caea61460b0cb58782d1966213caff",
+    "item": {
+      "title": "Rusticl vs. Intel Compute Runtime Performance For OpenCL On Battlemage",
+      "description": "Earlier this month I ran some benchmarks of Mesa's Rusticl OpenCL driver against AMD ROCm on Strix Halo. Those benchmarks caught many by surprise with how well that Rust-based open-source OpenCL driver was working on AMD GPUs for being a generic OpenCL implementation built atop Mesa's Gallium3D. For those curious about the potential of Rusticl on the Intel graphics side, here are some Battlemage benchmarks for Rusticl up against Intel's official Compute Runtime driver stack.",
+      "links": [
+        "https://www.phoronix.com/review/intel-battlemage-rusticl"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-26T16:00:00Z"
+    }
+  },
+  {
+    "hash": "858f8817c12b12e83474c626ea1eaacba93c26378f70b98ab483eb2843d4ea1a",
+    "item": {
+      "title": "Framework Laptop 16 Upgrade Announced With Ryzen AI 300 Series, GeForce RTX 5070",
+      "description": "While the Framework 13 was upgraded earlier this year with a motherboard upgrade for the AMD Ryzen AI 300 series \"Strix Point\", the larger Framework 16 has been stuck in the Zen 4 era. But today Framework announced a new upgrade path for this 16-inch modular laptop for the Ryzen AI 300 series as well as NVIDIA GeForce RTX 5070 discrete graphics...",
+      "links": [
+        "https://www.phoronix.com/news/Framework-16-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-26T15:40:00Z"
+    }
+  },
+  {
+    "hash": "c7c0970dc488a8215b09b02ec81bb4e046e244c3d7a1377208a7505139e04f53",
+    "item": {
+      "title": "Gemini 2.5 Flash Image",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45026719\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T14:01:46Z"
+    }
+  },
+  {
+    "hash": "130f24e9bd82efecceee68eabcea2f5d444ba7dbc5f133ff45f373f8803a9bcc",
+    "item": {
+      "title": "Show HN: A zoomable, searchable archive of BYTE magazine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45028002\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://byte.tsundoku.io"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T15:34:55Z"
+    }
+  },
+  {
+    "hash": "e0fbd79735ee479db18956bda652c635d1567401e3d30f182136a83006e923d6",
+    "item": {
+      "title": "One universal antiviral to rule them all?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45026792\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T14:07:42Z"
+    }
+  },
+  {
+    "hash": "537d4c4a35c3697de7c7215be8a22a818eda98d380060d7f49960987bd78487e",
+    "item": {
+      "title": "Windows 7 x64 Extended Support Page",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45028078\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trackerninja.codeberg.page/post/windows-7-power-256-threads-192-gb-ram"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T15:40:49Z"
+    }
+  },
+  {
+    "hash": "51434b9af2f73bd90af4f539f202b6356cd6e1b87e47034428f658fa5feb9592",
+    "item": {
+      "title": "We regret but have to temporary suspend the shipments to USA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45029579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T17:22:33Z"
+    }
+  },
+  {
+    "hash": "69af7ef65416e28a3ffde1fc3ba8b55196d03cd9f5dcedc2d22a4022392feffa",
+    "item": {
+      "title": "Proposal to Ban Ghost Jobs: The Truth in Job Advertising and Accountability Act",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45028785\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/08/25/tech-worker-was-frustrated-with-ghost-jobs-now-hes-trying-to-pass-a-national-ban.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T16:27:51Z"
+    }
+  },
+  {
+    "hash": "464dab5b86e2796ffffc9f65b93b03927ba5081ec8b86a0965609cda40c29516",
+    "item": {
+      "title": "Michigan Supreme Court: Unrestricted Phone Searches Violate Fourth Amendment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45029764\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T17:36:57Z"
+    }
+  },
+  {
+    "hash": "6ca6352f648c144c083dc3fc1d2f963e34e9d33f66cf17b3094fbb75988c5e41",
+    "item": {
+      "title": "Japan has opened its first osmotic power plant",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45009760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T02:53:35Z"
+    }
+  },
+  {
+    "hash": "582e7bcbb59d379724d18f2c4b5a14b038831efe2183886bfaf6c3dc993aa6f0",
+    "item": {
+      "title": "iOS 18.6.1 0-click RCE POC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45019671\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T22:05:34Z"
+    }
+  },
+  {
+    "hash": "ddb9112b567f8c441edd28110a599388e3e2bbcbb90006c26a4b84ebf09f5e4d",
+    "item": {
+      "title": "The Leverage Paradox in AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45020019\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.indiehackers.com/post/lifestyle/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T22:40:20Z"
+    }
+  },
+  {
+    "hash": "eeacf389c9cd3e6dcf922d24bdacb7382e01eb40fc73cd65264952bfc3d8b06a",
+    "item": {
+      "title": "No evidence ageing/declining populations compromise socio-economic performance",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45028439\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2508.16872"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T16:05:54Z"
+    }
+  },
+  {
+    "hash": "7e57cbc228640732f58a9ec3193e333ec70802f90e4646760054f90e45cd49a8",
+    "item": {
+      "title": "OOMProf: Profiling on the Brink",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45002911\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-24T10:00:55Z"
+    }
+  },
+  {
+    "hash": "f718925a54158acd827eaf90eff596ea8fc8921f44bd1e2add473ed88111eaad",
+    "item": {
+      "title": "Meta is spending $10B in rural Louisiana to build its largest data center",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45026833\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fortune.com/2025/08/24/meta-data-center-rural-louisiana-framework-ai-power-boom/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T14:10:42Z"
+    }
+  },
+  {
+    "hash": "bc9de772678e899382a116f0f5a96b390f4fd9d5e4de8ae7fd1ccb91105e6132",
+    "item": {
+      "title": "Neuralink 'Participant 1' says his life has changed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45002688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-24T09:12:14Z"
+    }
+  },
+  {
+    "hash": "527df44687c25cd7f5fdfc9a58b221f48430d26a9e8acd7bc50559736fcfe7bd",
+    "item": {
+      "title": "Show HN: Gonzo – A Go-based TUI for log analysis (OpenTelemetry/OTLP support)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45018113\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/control-theory/gonzo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T19:44:01Z"
+    }
+  },
+  {
+    "hash": "f53b47fb7de7bb572713e84289ee1ade674ea8cb116cfabfbf1f256ac0a351a8",
+    "item": {
+      "title": "Interactive map of Paul's first century travels in Roman world",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45023071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.intofarlands.com/map-of-pauls-journeys"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T06:42:58Z"
+    }
+  },
+  {
+    "hash": "8c934a7f490b9a6acb46015345c79a1807863f915c8d12f9364d77f428d90531",
+    "item": {
+      "title": "Show HN: Diggit.dev – Git history for architecture archaeologists",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45012776\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://diggit.dev"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T11:42:14Z"
+    }
+  },
+  {
+    "hash": "39c935511c090a58ceac097a1fda726eb3952de1e6f2ffc52c0b257eeb639e65",
+    "item": {
+      "title": "Anonymous structavaganza in Zig",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45018008\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lirk.top/blog/structs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T19:35:35Z"
+    }
+  },
+  {
+    "hash": "44382e63de5b3e16f7f028256c96e83d199e61f370105b23c83312bf3fa7a114",
+    "item": {
+      "title": "Bitget Burns 60M $BGB, Price Up 3% – $6 Next?",
+      "description": "\u003cp\u003eBitget Token ($BGB) is currently trading at $4.62, up 1.6% in the last 24 hours and 3% over the past week.Trading stayed tight, with a 24-hour range between $4.46 and $4.62, suggesting moderate and controlled volatility as liquidity clustered near recent support. 24-hour volume sits near $161 million on the day, consistent with a cooling [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/60m-bgb-tokens-burned-and-new-utility-products-keep-price-up-3/\"\u003eBitget Burns 60M $BGB, Price Up 3% \u0026#8211; $6 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/60m-bgb-tokens-burned-and-new-utility-products-keep-price-up-3/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitget Onchain",
+        "Bitget Token",
+        "Tokenomics"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26164154/1756226513-202410071613-main_optimized.webp"
+      },
+      "published": "2025-08-26T17:40:42Z"
+    }
+  },
+  {
+    "hash": "e2bf445f639c5f83fb42188cb2e3f20700775fd298b3ece288fa86355d9bf75d",
+    "item": {
+      "title": "BAY Miner Launches Mobile Cloud Mining Platform, Supporting BTC, ETH, And XRP Instant Settlement",
+      "description": "\u003cp\u003eThe digital asset industry is ripe for transformation. Choosing BAY Miner allows every user to easily embark on their crypto journey in a compliant and secure environment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bay-miner-launches-mobile-cloud-mining-platform-supporting-btc-eth-and-xrp-instant-settlement/\"\u003eBAY Miner Launches Mobile Cloud Mining Platform, Supporting BTC, ETH, And XRP Instant Settlement\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bay-miner-launches-mobile-cloud-mining-platform-supporting-btc-eth-and-xrp-instant-settlement/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26172646/1756229206-bay-miner.jpg"
+      },
+      "published": "2025-08-26T17:29:06Z"
+    }
+  },
+  {
+    "hash": "043474d8d8e93ae56bf46df6ea61e1a977d8c4955604ca63ab1fb6e8d76c83b5",
+    "item": {
+      "title": "China’s DeepSeek AI Predicts the Price of XRP, Shiba Inu and Chainlink by the End of 2025",
+      "description": "\u003cp data-start=\"463\" data-end=\"777\"\u003eDeepSeek Predicts: XRP, LINK, and SHIB have been projected to advance through 2025 as crypto has set new highs. Bitcoin has reached $124,457 and Ethereum has approached $4,953. The outlook has cited a LINK ETF filing, XRP network growth, and SHIB resistance near 0.00013 amid mixed RSI and MACD.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-shiba-inu-and-chainlink-by-the-end-of-2025/\"\u003eChina\u0026#8217;s DeepSeek AI Predicts the Price of XRP, Shiba Inu and Chainlink by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-shiba-inu-and-chainlink-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ChainLink",
+        "Shiba inu",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26150514/1756220713-deepseek-ai-predicts-the-price.jpg"
+      },
+      "published": "2025-08-26T17:17:34Z"
+    }
+  },
+  {
+    "hash": "0702e194b6222f8c51430a24d1464a6f45f263a0716fa8b8013d65028c76b695",
+    "item": {
+      "title": "Unveiling Open Miner’s Novel Mining Model for XRP, BTC, ETH, and USDT Investors",
+      "description": "\u003cp\u003eOn the road to financial freedom, consistent passive income is more important than short-term price fluctuations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/unveiling-open-miners-novel-mining-model-for-xrp-btc-eth-and-usdt-investors/\"\u003eUnveiling Open Miner\u0026#8217;s Novel Mining Model for XRP, BTC, ETH, and USDT Investors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/unveiling-open-miners-novel-mining-model-for-xrp-btc-eth-and-usdt-investors/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26170354/1756227834-open-miner.png"
+      },
+      "published": "2025-08-26T17:07:10Z"
+    }
+  },
+  {
+    "hash": "4e65832bbf959e2431822a12e4e4db3d77d3cf4057332f970ecb9abdfd474a1e",
+    "item": {
+      "title": "Altcoin Season Sparks Wild Moves: Cronos Soars 25% as Aave and BGB Fight to Hold Ground",
+      "description": "\u003cp data-start=\"463\" data-end=\"781\"\u003eAltcoin Season has unfolded unevenly, with Cronos gaining over 20% on roadmap news, institutional ETF indicators, and network upgrades. Aave maintains steady lending activity, while Bitget Token trades near resistance despite ongoing burns. Market strength remains concentrated in select catalysts.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-cronos-skyrockets-25-aave-bgb/\"\u003eAltcoin Season Sparks Wild Moves: Cronos Soars 25% as Aave and BGB Fight to Hold Ground\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-cronos-skyrockets-25-aave-bgb/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season",
+        "Cronos"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26170004/1756227603-chatgpt-image-aug-26-2025-10_56_53-am_optimized.jpg"
+      },
+      "published": "2025-08-26T17:01:54Z"
+    }
+  },
+  {
+    "hash": "8120796a194b42f86d294f30b8bf29af005574186dc3c9698f13ae538efd1811",
+    "item": {
+      "title": "Quant ($QNT) Climbs 1.4% as Fusion Devnet and Sibos 2025 Boost Adoption Outlook",
+      "description": "\u003cp\u003eQuant ($QNT) has been quietly strengthening its position in the blockchain ecosystem. Trading at $104.91 with a 1.4% gain in the past 24 hours, the project carries a market cap of $1.5 billion.Recent technical updates, upcoming industry engagements, and new interoperability frameworks are shaping investor interest and institutional adoption prospects.Quant Advances Fusion Devnet, Targets Banks [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/quant-qnt-climbs-1-4-as-fusion-devnet-and-sibos-2025-boost-adoption-outlook/\"\u003eQuant ($QNT) Climbs 1.4% as Fusion Devnet and Sibos 2025 Boost Adoption Outlook\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/quant-qnt-climbs-1-4-as-fusion-devnet-and-sibos-2025-boost-adoption-outlook/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Devnet",
+        "Quant"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jimmy Aki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26081619/1756196178-stock-image_optimized-2025-08-26t091556-604.jpg"
+      },
+      "published": "2025-08-26T15:42:59Z"
+    }
+  },
+  {
+    "hash": "5a6c2460285d63a44e4d939677465dfe79fe789746a6d5004ef785f64d7bafff",
+    "item": {
+      "title": "Cardano Price Prediction: ADA Finds Strong Support – September Rate Cuts Trigger a Breakout to $3 and Beyond",
+      "description": "\u003cp\u003eLast week, Federal Reserve Chairman Jerome Powell confirmed that rate cuts are on the table, boosting optimism and supporting a bullish Cardano price prediction that could see ADA hit $3 by year-end.Speaking after a meeting with regional Fed governors, Powell noted: “The stability of the unemployment rate and other labor market measures allows us to [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-ada-finds-strong-support-september-rate-cuts-trigger-a-breakout-to-3-and-beyond/\"\u003eCardano Price Prediction: ADA Finds Strong Support – September Rate Cuts Trigger a Breakout to $3 and Beyond\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-ada-finds-strong-support-september-rate-cuts-trigger-a-breakout-to-3-and-beyond/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ADA",
+        "Cardano",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26121055/1756210254-cardano-price-prediction.jpg"
+      },
+      "published": "2025-08-26T15:29:39Z"
+    }
+  },
+  {
+    "hash": "414c2efd6e43ff77684779bb66eedcee8edd4a88bd01467ef849557dfcaee4e9",
+    "item": {
+      "title": "Bitcoin Falls to $109K, But Analyst Targets $200K in ‘Uptober’ – Bitcoin Hyper Hits $12M in ICO",
+      "description": "\u003cp data-start=\"456\" data-end=\"783\"\u003eBitcoin Hyper has launched as Bitcoin’s fastest Layer-2, integrating Solana’s execution speed into BTC’s base layer. By expanding Bitcoin’s utility for dApps, DeFi, and beyond, analysts suggest it could provide the catalyst needed for BTC to recover from recent volatility and pursue the $200,000 target.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-falls-109k-hyper-12m-ico/\"\u003eBitcoin Falls to $109K, But Analyst Targets $200K in ‘Uptober’ – Bitcoin Hyper Hits $12M in ICO\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-falls-109k-hyper-12m-ico/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "bitcoin hyper",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26150645/1756220805-image-129-6-1.jpg"
+      },
+      "published": "2025-08-26T15:14:16Z"
+    }
   }
 ]
