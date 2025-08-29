@@ -1484,5 +1484,513 @@
       },
       "published": "2025-08-29T06:36:10Z"
     }
+  },
+  {
+    "hash": "2f59fe3d4bb3b396489ecf5c3ae9dca5c68a1ff2e01b2fe594d78b3222a861c5",
+    "item": {
+      "title": "Can Your Security Stack See ChatGPT? Why Network Visibility Matters",
+      "description": "Generative AI platforms like ChatGPT, Gemini, Copilot, and Claude are increasingly common in organizations. While these solutions improve efficiency across tasks, they also present new data leak prevention for generative AI challenges. Sensitive information may be shared through chat prompts, files uploaded for AI-driven summarization, or browser plugins that bypass familiar security controls.",
+      "links": [
+        "https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhQei5SSNfifrxHggc81p-i68H752M-C7Bpsv9wHxMYBiycZYFVq1Ly_8AzGdKz0nMXQkEegNij2HNKqePC_TWENP6TYFBXue2u0blfdjOjNP2GuyetMYvTNMUgEg9bku_qrTAZfcZ-TAtmO7jIoVvlynhoz7uTrFFNewnU6IMwMsVZ0-6xEZDIjbXfYs/s1600/data-main.jpg"
+      },
+      "published": "2025-08-29T10:30:00Z"
+    }
+  },
+  {
+    "hash": "765b846d73ece0fd9ff36d0d710cd58a99c21c8bea526c4119f190b2355a3a63",
+    "item": {
+      "title": "Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page",
+      "description": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software.\nThe issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025.\nThe Australian company said it fixed a \"potential",
+      "links": [
+        "https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYwcWAQWKyWLOvZ6KFO-kzZnlKIICg-1PGP1B_okueRtsVNZyRedEJeosmB0sgxOLtnKcKulDph_hiaOGT4pLg8FKwlD9VW6kNQPLYyxpRhYWvPQKeuIG3l6n8y-_fEnffX906pAjqSsBBhFXA1wIwIuUTMXHOMCrcKAv0W37xV1Y559i-kTn0kDZOPs9T/s1600/password-app.jpg"
+      },
+      "published": "2025-08-29T09:58:00Z"
+    }
+  },
+  {
+    "hash": "2e7ce2ad67cc3e9757d8c6c3dd7836f12193f636eeeb84511ba268f65d561baa",
+    "item": {
+      "title": "FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available",
+      "description": "The Sangoma FreePBX Security Team has issued an advisory warning about an actively exploited FreePBX zero-day vulnerability that impacts systems with an administrator control panel (ACP) exposed to the public internet.\nFreePBX is an open-source private branch exchange (PBX) platform widely used by businesses, call centers, and service providers to manage voice communications. It's built on top",
+      "links": [
+        "https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_JAqQ7frur0oVPE5CX27CFAfNZq8Oh8faWB9xBEFJPzoZOI2GWZgfTeWaC2uld54fcFXqCmQBI6cbcuhVW4wPSxCwXezy3SO1KfqQ-ZRZnyRxPp9Vkoi35RDVl4qXl7oMQKbknp629ihfrf9SfqgVLB16UUJYEbIDXkLqS3W0L4LnpBAc54NP3CXqeadd/s1600/zeroday.jpg"
+      },
+      "published": "2025-08-29T09:44:00Z"
+    }
+  },
+  {
+    "hash": "d68a23013cb07cd3c8ed03e1602b8e58453c0f7e2f4e911b06a0a12a3196f852",
+    "item": {
+      "title": "Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain",
+      "description": "Authorities from the Netherlands and the United States have announced the dismantling of an illicit marketplace called VerifTools that peddled fraudulent identity documents to cybercriminals across the world.\nTo that end, two marketplace domains (verif[.]tools and veriftools[.]net) and one blog have been taken down, redirecting site visitors to a splash page stating the action was undertaken by",
+      "links": [
+        "https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwUnvn1vmivP_qUaJanUlgbcdmPVnAXkvtUmVPKgoNxzPba9WoS8woKXkezQTXyOahduBoSwUBN1Q35QdklVGYuHZUgOAID4iG4I6hZTPW88tcBswLcCZtJdawr-i-vmFDkq-IeW_cDMoNvUV2hmSNF5XD09siPH5kd-drVBf5kjwR_Yg97uYvfDsg2SjZ/s1600/website.jpg"
+      },
+      "published": "2025-08-29T09:05:00Z"
+    }
+  },
+  {
+    "hash": "403d060f08c15c42de588cec903b43b4ec10c05ee8ae9a3aa60a5b178b1544f1",
+    "item": {
+      "title": "Gate Launches GUSD: A Stable Investment Backed by Real-World Assets",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eCayman Islands, British Overseas Territories, 29th August 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gate-launches-gusd-a-stable-investment-backed-by-real-world-assets/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz.jpg"
+      },
+      "published": "2025-08-29T07:24:38Z"
+    }
+  },
+  {
+    "hash": "8e162c2b34f24d205381ea34bf2df06bb3cc11847e9d3cec8f20db5f9398c548",
+    "item": {
+      "title": "33% Jump and 992% Volume Boom, Can Wormhole Keep the Heat On?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/33-Jump-and-992-Volume-Boom-Can-Wormhole-Keep-the-Heat-On.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"33% Jump and 992% Volume Boom, Can Wormhole Keep the Heat On?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/33-Jump-and-992-Volume-Boom-Can-Wormhole-Keep-the-Heat-On.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/33-Jump-and-992-Volume-Boom-Can-Wormhole-Keep-the-Heat-On-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/33-Jump-and-992-Volume-Boom-Can-Wormhole-Keep-the-Heat-On-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto assets are swinging in red and green ropes, with most of them in the bearish zone. The largest assets like Bitcoin (BTC) and Ethereum (ETH) are hovering at $111.3K and $4.4K. With the overall neutral sentiment, among the altcoins, Wormhole (W) has surged solidly by over 33.7% in",
+      "links": [
+        "https://thenewscrypto.com/33-jump-and-992-volume-boom-can-wormhole-keep-the-heat-on/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "Wormhole"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/33-Jump-and-992-Volume-Boom-Can-Wormhole-Keep-the-Heat-On.jpg"
+      },
+      "published": "2025-08-29T06:35:35Z"
+    }
+  },
+  {
+    "hash": "de7eb8240a1523b8d714428e1bf1d51d352ba2f6f764c1f799059147d59d614e",
+    "item": {
+      "title": "Chorus One Joins Forces With Delphi Digital to Launch an Institutional-Grade Validator Node on Solana",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-24.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-24.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-24-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-24-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-24-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eChorus One, an institutional-grade staking provider, has announced a strategic partnership with Delphi Digital, a research-driven crypto firm, to unveil an institutional-grade validator node on the Solana (SOL) network. This strategic partnership between Chorus One and Delphi Digital will have a long-term contribution to the Solana blockchain amid its mainstream",
+      "links": [
+        "https://thenewscrypto.com/chorus-one-joins-forces-with-delphi-digital-to-launch-an-institutional-grade-validator-node-on-solana/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Chorus One",
+        "Initia network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-24.png"
+      },
+      "published": "2025-08-29T05:37:21Z"
+    }
+  },
+  {
+    "hash": "d48e1f8b0db215175c56b5019dedad186fd4a1f2f3af98c53f328d6bd5cdc9ff",
+    "item": {
+      "title": "From Below $0.004 to $4 in Less Than Two Years? This Ethereum Token Will Deliver 1000x Gains By 2027",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-3-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"From Below $0.004 to $4 in Less Than Two Years? This Ethereum Token Will Deliver 1000x Gains By 2027\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-3-6.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-3-6-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-3-6-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eCrypto’s biggest gains often come from under-the-radar projects that combine hype with innovation. Little Pepe (LILPEPE) is an Ethereum token aiming to bring infrastructure and viral energy to the meme coin space. It\u0026#8217;s a meme token on Ethereum building its own Layer-2 blockchain designed for memes. No other meme coin",
+      "links": [
+        "https://thenewscrypto.com/from-below-0-004-to-4-in-less-than-two-years-this-ethereum-token-will-deliver-1000x-gains-by-2027/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Little PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-3-6.jpg"
+      },
+      "published": "2025-08-29T04:06:01Z"
+    }
+  },
+  {
+    "hash": "587a4547138554014def18d389d8bcee30848cdec843901560e45a69efd4c8dc",
+    "item": {
+      "title": "SHIB Prepares for Another Run, But Viral Competitor Below $0.004 Offers Higher Multiples in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-10.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SHIB Prepares for Another Run, But Viral Competitor Below $0.004 Offers Higher Multiples in 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-10.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-10-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-10-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eShiba Inu (SHIB) may be poised for renewed meme coin momentum, with some models projecting modest price recovery by the end of the year. SHIB continues to hover near key resistance, while daily RSI levels and Bollinger Bands may hint at a potential short-term bounce. Meanwhile, Little Pepe (LILPEPE) has",
+      "links": [
+        "https://thenewscrypto.com/shib-prepares-for-another-run-but-viral-competitor-below-0-004-offers-higher-multiples-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Little Pepe (LILPEPE)",
+        "SHIB"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-2-10.jpg"
+      },
+      "published": "2025-08-29T04:01:35Z"
+    }
+  },
+  {
+    "hash": "b81ed6ef6e0111f869ae19bf23741801a4050a62d7403d2b9e04fcea33c9842d",
+    "item": {
+      "title": "Anthropic reverses privacy stance, will train on Claude chats",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062683\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T11:29:10Z"
+    }
+  },
+  {
+    "hash": "319b187c4fd31e66771c0774ea1367e6350c44c8808ee2dc780a6b3a32be550f",
+    "item": {
+      "title": "Show HN: Vectorless RAG",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036944\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T08:39:32Z"
+    }
+  },
+  {
+    "hash": "9da142c68dfaf6dd8ea85fb28ad81be068797133b12bd798891c8e4dacefe832",
+    "item": {
+      "title": "What the interns have wrought, 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062274\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.janestreet.com/wrought-2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T10:15:58Z"
+    }
+  },
+  {
+    "hash": "15dd0137747329024fa405722478d11f6944cd90b4592d63465b788b485c26de",
+    "item": {
+      "title": "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062914\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deepnote.com/join-us"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T12:01:52Z"
+    }
+  },
+  {
+    "hash": "eb5f8f84fb9cdc35077a4e9ef4c379514084665d6f80f6967db2c9d232d8dde1",
+    "item": {
+      "title": "If you have a Claude account, they're going to train on your data moving forward",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062738\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T11:39:26Z"
+    }
+  },
+  {
+    "hash": "df46195cfb53ef3e73857a111577aebfc841a59c018b66fb2eb4dd13cd7ebf39",
+    "item": {
+      "title": "Nullable vs. Nullable in C#",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45017177\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T18:27:31Z"
+    }
+  },
+  {
+    "hash": "1a6a0d0dddc8a25399d2ce059033b356ffd3d9ff806f7fadb57e54bb937fa4e6",
+    "item": {
+      "title": "Tesla said it didn't have key data in a fatal crash. Then a hacker found it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062614\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T11:15:39Z"
+    }
+  },
+  {
+    "hash": "89d979c551c4a2c81d70a887cb3cc419d6e95dfa845f7b8a1505a473c200a81a",
+    "item": {
+      "title": "Probability of typing a wrong Bitcoin address",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45061980\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.johndcook.com/blog/2025/08/28/wrong-address/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T09:28:50Z"
+    }
+  },
+  {
+    "hash": "b3b41fd11f701a66006f7fa6ac6a3b40c6a836c2e60961d964c8fa2b5dca4862",
+    "item": {
+      "title": "Show HN: Auto-Match – How We Built Receipt-to-Transaction Matching (Open Source)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036761\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://midday.ai/updates/automatic-reconciliation-engine/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T08:05:09Z"
+    }
+  },
+  {
+    "hash": "fd62d7f44aeca063889ea307eb896abc77f13ecd8a857fb7b0ad4ce9e8167a94",
+    "item": {
+      "title": "Meta might be secretly scanning your phone's camera roll",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062910\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T12:01:31Z"
+    }
+  },
+  {
+    "hash": "b56c5d0bc8036e1a354867ead5f1130d308b0ea99b3d3191c763d9eefe233c24",
+    "item": {
+      "title": "US soldiers could be liable for war crimes in Gaza. Will they be prosecuted?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/world/2025/aug/29/israel-war-crimes-gaza-us-military"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T12:08:04Z"
+    }
+  },
+  {
+    "hash": "d411192857cfc977bf94976d2dfeb2bb3682e955d39043a7b265da2fcd02cffd",
+    "item": {
+      "title": "Switching From i915 To Xe Linux Drivers Can Yield Some Big Gains For Intel Arc A-Series",
+      "description": "For those using Intel Arc A-Series graphics cards on Linux, the i915 kernel driver remains the default but switching over to the Xe driver can yield some incremental performance benefits. For OpenCL / GPU compute workloads especially, switching to the Xe kernel driver can be rather dramatic.",
+      "links": [
+        "https://www.phoronix.com/review/intel-i915-xe-linux-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-29T10:36:04Z"
+    }
+  },
+  {
+    "hash": "e259ace8dbb30158fbfc5d10ebc88a326bb210d983b0fc11fde1760ea30e93a5",
+    "item": {
+      "title": "Siton Mining Launches a New Solution for XRP Holders in a Volatile Market",
+      "description": "\u003cp\u003eVolatility is a constant in the crypto market, but stable appreciation is a common pursuit among investors. With the launch of Siton Mining's new program, XRP users now have a more robust investment tool.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/siton-mining-launches-a-new-solution-for-xrp-holders-in-a-volatile-market/\"\u003eSiton Mining Launches a New Solution for XRP Holders in a Volatile Market\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/siton-mining-launches-a-new-solution-for-xrp-holders-in-a-volatile-market/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29120614/1756469173-siton-mining.jpg"
+      },
+      "published": "2025-08-29T12:07:45Z"
+    }
+  },
+  {
+    "hash": "cccaa43648de357f76c1a3b365401f38d8fb73790cbcd5655bb3c97e11074a86",
+    "item": {
+      "title": "Gemini Launches XRP Credit Card: Combined with SAVVY MINING to Maximize Prospects",
+      "description": "\u003cp\u003eThe Gemini Card and SAVVY MINING combine to create a powerful combination. SAVVY MINING allows users to mine XRP, ETH, BTC, and other cryptocurrencies.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/gemini-launches-xrp-credit-card-combined-with-savvy-mining-to-maximize-prospects/\"\u003eGemini Launches XRP Credit Card: Combined with SAVVY MINING to Maximize Prospects\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/gemini-launches-xrp-credit-card-combined-with-savvy-mining-to-maximize-prospects/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29120013/1756468812-savvy-mining.jpg"
+      },
+      "published": "2025-08-29T12:02:44Z"
+    }
+  },
+  {
+    "hash": "e64878c1d688a76f3e88061ffa452f9b416bcaa3bd3e0f96e995619704bef9e0",
+    "item": {
+      "title": "APT Miner Launches App to Help Investors Automatically Mine XRP",
+      "description": "\u003cp\u003eAPT Miner is easy to use, even for beginners, and no technical background is required. The platform boasts over 100 clean energy mining farms worldwide and over 9 million users.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/apt-miner-launches-app-to-help-investors-automatically-mine-xrp/\"\u003eAPT Miner Launches App to Help Investors Automatically Mine XRP\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/apt-miner-launches-app-to-help-investors-automatically-mine-xrp/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29111808/1756466287-apt-miner.jpg"
+      },
+      "published": "2025-08-29T11:19:20Z"
+    }
+  },
+  {
+    "hash": "4ce4514d9ac241ad9922f3498087075467a0e92fce342b0712203642e1d5ceab",
+    "item": {
+      "title": "Is PEPENODE the Underdog Meme Coin Set to Surprise in 2025?",
+      "description": "\u003cp\u003ePEPENODE offers virtual mining gameplay with deflationary tokenomics, available at $0.0010242 presale price with 4,500%+ staking rewards.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/is-pepenode-the-underdog-meme-coin-set-to-surprise-in-2025/\"\u003eIs PEPENODE the Underdog Meme Coin Set to Surprise in 2025?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/is-pepenode-the-underdog-meme-coin-set-to-surprise-in-2025/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29111229/1756465948-pepenode.jpg"
+      },
+      "published": "2025-08-29T11:14:46Z"
+    }
+  },
+  {
+    "hash": "823898c31bf1f76ffecef6bd8c71ce645ebe984d4686e2eca458508d64b6d0e7",
+    "item": {
+      "title": "Why Is Crypto Down Today? – August 29, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today. BTC fell to $110,125 and ETH to $4,376. “History cautions toward late‑Summer/September pullbacks even after sharp rallies.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-august-29-2025/\"\u003eWhy Is Crypto Down Today? – August 29, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-august-29-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29105844/1756465123-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-08-29T11:06:12Z"
+    }
+  },
+  {
+    "hash": "87da693133aab4c44cad093c609bdbaf7f82c26d1cbd642bcd52706536e8266b",
+    "item": {
+      "title": "Bitcoin Drops Below $110K – What is the Next Support?",
+      "description": "\u003cp data-start=\"501\" data-end=\"796\"\u003eBitcoin has broken below $110K, putting support at $105K and $100K in view. A double-top and resistance at $112K—$114K are noted, while MACD has turned down. The RSI near 59 may trend toward 50 as September seasonality weighs. Analysts have noted bearish divergences on higher timeframes.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-drops-below-110k-what-is-the-next-support/\"\u003eBitcoin Drops Below $110K – What is the Next Support?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-drops-below-110k-what-is-the-next-support/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bear Market",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/27180814/1756318093-stock-image_optimized-2025-08-27t190738-329.jpg"
+      },
+      "published": "2025-08-29T10:20:25Z"
+    }
   }
 ]
