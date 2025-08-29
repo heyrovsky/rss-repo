@@ -2798,5 +2798,788 @@
       },
       "published": "2025-08-29T12:37:43Z"
     }
+  },
+  {
+    "hash": "c5138d04f5acb5361ba7939c662c4e3d88ad560cbe29564102ef13179c9d0337",
+    "item": {
+      "title": "Bcachefs goes to \"externally maintained\"",
+      "description": "Linus Torvalds has quietly \u003ca\nhref=\"https://web.git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ebf2bfec412a\"\u003echanged\nthe maintainer status of bcachefs\u003c/a\u003e to \"externally maintained\",\nindicating that further changes are unlikely to enter the mainline anytime\nsoon.  This change also suggests, though, that the immediate removal of\nbcachefs from the mainline kernel is not in the cards.",
+      "links": [
+        "https://lwn.net/Articles/1035736/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-08-29T17:08:42Z"
+    }
+  },
+  {
+    "hash": "6d31f029acb0f3b04d20b4d777be8e84c685bd6ecf9e55883ce60d41e3553940",
+    "item": {
+      "title": "[$] The challenge of maintaining curl",
+      "description": "Keynote sessions at Open Source Summit events tend not to allow much time for\ndetailed talks, and the 2025 \u003ca\nhref=\"https://events.linuxfoundation.org/open-source-summit-europe/\"\u003eOpen\nSource Summit Europe\u003c/a\u003e did not diverge from that pattern.  Even so,\nDaniel Stenberg, the maintainer of the \u003ca href=\"https://curl.se/\"\u003ecurl\u003c/a\u003e\nproject, managed to cram a lot into the 15\u0026#160;minutes given to him.\nLike the maintainers of many other projects, Stenberg is feeling some\nstress, and the problems appear to be getting worse over time.",
+      "links": [
+        "https://lwn.net/Articles/1034966/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-08-29T15:20:24Z"
+    }
+  },
+  {
+    "hash": "a09210add0b2db27965e03e0fa6458ceb156574cc1bbaff206a0f911a1556335",
+    "item": {
+      "title": "Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook",
+      "description": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions.\nScary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big",
+      "links": [
+        "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7EEJA4DJdYe-6PtKczcSvsBlTjHxSxloQVb4pB_XIJuWfAfiWgX491XqbuRf_ojDv8U8JFQgK6kBIDTI2gdyCyFHOELg8A22ZFSdYhRQM4vl8skj00wVnT9jj3XuT14_D1sK-zY00-vJFnjmLtmLxGbYw-vp1CyYiY9Gkrr6I2LJ5o9ZDUq7NVDe_VfE5/s1600/cyber.jpg"
+      },
+      "published": "2025-08-29T15:42:00Z"
+    }
+  },
+  {
+    "hash": "10c4493bbc14cb850830dc44b70abd0ddc91a84ecee6da40ff6e9d10b60a1051",
+    "item": {
+      "title": "$2,000 in This Crypto Could Make Millions in Profits Before Solana (SOL) Ever Catches Up to Ethereum (ETH) in Market Cap",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-21.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"$2,000 in This Crypto Could Make Millions in Profits Before Solana (SOL) Ever Catches Up to Ethereum (ETH) in Market Cap\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-21.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-21-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-21-376x212.jpg 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe battle between Ethereum (ETH) and Solana (SOL) has defined the smart contract space for years. With Ethereum’s market cap sitting near $575 billion and Solana at just $109 billion, many speculate about a possible “flippening.”\u0026#160; However, while traders argue over whether Solana can ever surpass Ethereum, a new player",
+      "links": [
+        "https://thenewscrypto.com/2000-in-this-crypto-could-make-millions-in-profits-before-solana-sol-ever-catches-up-to-ethereum-eth-in-market-cap/"
+      ],
+      "categories": [
+        "Press Release",
+        "ETHEREUM",
+        "Little PEPE",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-21.jpg"
+      },
+      "published": "2025-08-29T14:01:26Z"
+    }
+  },
+  {
+    "hash": "a4850003e60f219c27daf8251b8f90978784515f25a151f7200ce980f6f58558",
+    "item": {
+      "title": "Pudgy Penguins and Mythical Games Launch Global Mobile Game ‘Pudgy Party’",
+      "description": "\u003cp\u003e\u003cimg width=\"1024\" height=\"500\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/kj-14.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pudgy Penguins and Mythical Games Launch Global Mobile Game \u0026#039;Pudgy Party\u0026#039;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/kj-14.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/kj-14-300x146.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/kj-14-768x375.png 768w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /\u003e\u003c/p\u003eOne of the most popular NFT brands ever, Pudgy Penguins, and Mythical Games today announced the worldwide release of Pudgy Party, a mobile game that features the instantly familiar characters from Pudgy Penguins. The game, which is designed for players of all ages, offers a happy multiplayer experience that is",
+      "links": [
+        "https://thenewscrypto.com/pudgy-penguins-and-mythical-games-launch-global-mobile-game-pudgy-party/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/kj-14.png"
+      },
+      "published": "2025-08-29T13:00:00Z"
+    }
+  },
+  {
+    "hash": "f5c020f455505467093f806e18f4ec3f080487b0905fb611aa3b3e3fa5aad8e8",
+    "item": {
+      "title": "Cronos Falls 16% But Bulls Still Hold the Fort at Key Support Levels",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Cronos-price-analysis-6-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cronos Falls 16% But Bulls Still Hold the Fort at Key Support Levels\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Cronos-price-analysis-6-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Cronos-price-analysis-6-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Cronos-price-analysis-6-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCronos is facing bearish pressure on the daily technical chart. As per CMC data, the CRO price is down by almost 16% in the last 24 hours, and the daily trading volume is down by almost 35% showcasing profit booking at higher levels. The altcoin has shown impressive performance in",
+      "links": [
+        "https://thenewscrypto.com/cronos-falls-16-but-bulls-still-hold-the-fort-at-key-support-levels/"
+      ],
+      "categories": [
+        "Editors News",
+        "Market Updates",
+        "Altcoin",
+        "CRO",
+        "Cronos"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Cronos-price-analysis-6-1.jpg"
+      },
+      "published": "2025-08-29T12:21:10Z"
+    }
+  },
+  {
+    "hash": "021aa6a36c94e0b5279123ebe94570d4299147ea1713b7300567b45659de06a1",
+    "item": {
+      "title": "Ozak AI, LPT, and CRO: Top Altcoins With Explosive Growth Potential in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ozak AI, LPT, and CRO: Top Altcoins With Explosive Growth Potential in 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eOzak AI is quickly emerging as one of the hottest presale opportunities of 2025, currently in its 5th stage at just $0.01 with over $2.4 million raised and more than 828 million OZ tokens sold, positioning it for a potential surge toward the much-anticipated $1 target. With listings already on",
+      "links": [
+        "https://thenewscrypto.com/ozak-ai-lpt-and-cro-top-altcoins-with-explosive-growth-potential-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoin",
+        "Cronos",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23.png"
+      },
+      "published": "2025-08-29T10:57:01Z"
+    }
+  },
+  {
+    "hash": "7c296eed7359eb3d9bf3a8a0060cf0fc4e0d43849bae4144eea503aac44f9db6",
+    "item": {
+      "title": "FTC claims Gmail filtering Republican emails threatens “American freedoms”",
+      "description": "FTC chairman revives GOP claims previously rejected by judge and election agency.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/08/ftc-claims-gmail-filtering-republican-emails-threatens-american-freedoms/"
+      ],
+      "categories": [
+        "Google",
+        "Policy",
+        "FTC",
+        "gmail"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-spam-1152x648.jpg"
+      },
+      "published": "2025-08-29T16:51:02Z"
+    }
+  },
+  {
+    "hash": "83518b552dd80cc3ab2e088cd0d784fb98e7a71ecf2cd1aaecea8abe71ab98d0",
+    "item": {
+      "title": "Starship’s heat shield appears to have performed quite well in test",
+      "description": "\"The latest upgrades are looking good!\"",
+      "links": [
+        "https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/"
+      ],
+      "categories": [
+        "Space",
+        "flight 10",
+        "heat shield",
+        "space",
+        "spacex",
+        "starship"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/starship-1152x648.jpg"
+      },
+      "published": "2025-08-29T16:10:39Z"
+    }
+  },
+  {
+    "hash": "a6bbcbccad264a7f87ea86966e2e8bfca1c431c11eafafa0797482f7a286ca69",
+    "item": {
+      "title": "Today’s game consoles are historically overpriced",
+      "description": "Ars analysis shows missing price cuts are costing console consumers hundreds of dollars.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/08/todays-game-consoles-are-historically-overpriced/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/moneyperson-1152x648.jpg"
+      },
+      "published": "2025-08-29T15:10:47Z"
+    }
+  },
+  {
+    "hash": "50a742fcd3fdcc2f19654be513f3b1071f5fcd7c0a3f6c7b5c072a70fb0de641",
+    "item": {
+      "title": "Google Pixel 10 series review: Don’t call it an Android",
+      "description": "Google's new Pixel phones are better, but only a little. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/"
+      ],
+      "categories": [
+        "Features",
+        "Google",
+        "Reviews",
+        "Tech",
+        "google",
+        "pixel 10",
+        "smartphones"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-4-1152x648.jpg"
+      },
+      "published": "2025-08-29T14:35:05Z"
+    }
+  },
+  {
+    "hash": "2ceda9b60aabeb50f4870eda79a1b9149046c85fa943117a3162d3d0c4cb78a1",
+    "item": {
+      "title": "700-piece Lego G3 iMac design faces long-shot odds to get made, but I still want one",
+      "description": "Begging Apple to let another company make Macs for the first time since the '90s.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/08/lego-imac-g3-concept-is-unlikely-to-go-anywhere-but-it-is-very-cute/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple",
+        "iMac",
+        "Lego"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2624641c-8505-4a71-a441-735aded9a1ce-original-0x0-1-1152x648.jpeg"
+      },
+      "published": "2025-08-29T14:34:45Z"
+    }
+  },
+  {
+    "hash": "d2b4f058849cadd2c7b60e4ff201b1062034c519d5914a56bbd6cb2b572d0951",
+    "item": {
+      "title": "Essential Coding Theory [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45065705\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T15:53:41Z"
+    }
+  },
+  {
+    "hash": "315e72ba82c4e0efc4035bce913e671c990d22ff32f59b4bafb58fa7865e1941",
+    "item": {
+      "title": "Wikipedia as a Graph",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066060\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wikigrapher.com/paths"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T16:19:56Z"
+    }
+  },
+  {
+    "hash": "68775357651fbb115d313dbee4fc499897eb2b04b75d6ca17a29fd0fc6d13be3",
+    "item": {
+      "title": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066258\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T16:35:24Z"
+    }
+  },
+  {
+    "hash": "811b08fbe23b048a69c4d7a60a5a6ce018c2011b14d3884fe12e362ac68e7b9b",
+    "item": {
+      "title": "How do I get into the Game Industry – by Garry's Mod creator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036052\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://garry.net/posts/how-do-i-get-into-the-game-industry"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T06:23:22Z"
+    }
+  },
+  {
+    "hash": "5918c07a36e8176912515d881a55576c28dabd3ae1540cef14acec490b43d186",
+    "item": {
+      "title": "Bourbaki – A Secret Society of Mathematicians",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066113\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://books.google.com/books/about/Bourbaki.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T16:24:14Z"
+    }
+  },
+  {
+    "hash": "801f249f74d539575d926ac85118e8c8f5d8584d787804e63d7d324d77878878",
+    "item": {
+      "title": "Thunder Compute (YC S24) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066592\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T17:00:04Z"
+    }
+  },
+  {
+    "hash": "68dbfe26f465256f1ccbd6b3c843c81278786bbd2900c9d77347fa8a26dde5aa",
+    "item": {
+      "title": "Seedbox Lite: A lightweight torrent streaming app with instant playback",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45065278\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/hotheadhacker/seedbox-lite"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T15:18:40Z"
+    }
+  },
+  {
+    "hash": "ff4e7d2e5bf1781f79be5e008a3dd407b058b9326693c71da48c5f6e29b7952c",
+    "item": {
+      "title": "Sig Sauer citing national security to keep documents from public",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063431\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://practicalshootinginsights.com/eighth-circuit-fmeca-update/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T12:51:01Z"
+    }
+  },
+  {
+    "hash": "f9d6719fa49db6163263dcdf3bb7c7cbbdac665c3e4569d9d8018c5502baff9c",
+    "item": {
+      "title": "Flunking my Anthropic interview again",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064284\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://taylor.town/flunking-anthropic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T14:02:59Z"
+    }
+  },
+  {
+    "hash": "485869618c1cb73bfd493451ed22f31f6f3890729e2acc2fd248fd752911b9b0",
+    "item": {
+      "title": "John Carmack's arguments against building a custom XR OS at Meta",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/ID_AA_Carmack/status/1961172409920491849"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T16:45:21Z"
+    }
+  },
+  {
+    "hash": "fd91985b7e63f0da3de04b1ee60120f7c835a2588ed3cfd49720f5ae978254d5",
+    "item": {
+      "title": "Offline-First Landscape – 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066070\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://marcoapp.io/blog/offline-first-landscape"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T16:20:31Z"
+    }
+  },
+  {
+    "hash": "da7e07640f307b95f9d7a0c40488260ac53e488b4191cafdae5bd41eebab9d0b",
+    "item": {
+      "title": "This is my brain on leeches",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037109\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://todaythings.substack.com/p/this-is-my-brain-on-leeches"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T09:06:09Z"
+    }
+  },
+  {
+    "hash": "3a968b7ced179e3752c4e821f4379465a3a33824c64c3f351865cf583e16923b",
+    "item": {
+      "title": "Aspects of modern HTML/CSS you may not be familiar with",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45056878\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lyra.horse/blog/2025/08/you-dont-need-js/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-28T20:49:34Z"
+    }
+  },
+  {
+    "hash": "17aa14775cf448c248b3f36ef10b944dbbc61af231c5c6b0b37b318f2c85fb29",
+    "item": {
+      "title": "Fixing an old .NET Core native library loading issue on Alpine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037936\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T10:59:37Z"
+    }
+  },
+  {
+    "hash": "dda8143eb7d2658254915e2bda531b0fcf80a2c23aaa0660c55b690110e531d1",
+    "item": {
+      "title": "Why AI Isn't Ready to Be a Real Coder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45065343\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/ai-for-coding"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T15:24:13Z"
+    }
+  },
+  {
+    "hash": "f6e377a908876d394a3470e76fe81b0eedd57fe75b29407abb246d6fd5106fe7",
+    "item": {
+      "title": "Show HN: FFmpeg Pages – because I was tired of fighting FFmpeg",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45066126\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ffmpegs.pages.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T16:25:13Z"
+    }
+  },
+  {
+    "hash": "666e6e7bf3a2b0490ce70c2565b001ccc9dfaa7f50d34aade50bbc1cdf50bc7c",
+    "item": {
+      "title": "Private equity snaps up disability services, challenging regulators",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063972\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T13:37:53Z"
+    }
+  },
+  {
+    "hash": "d8b7ba8fde63b81bc2faef4b261f2bc0d75bcdf038b5b7f3d299b0d4fd12373d",
+    "item": {
+      "title": "Polymarket Bettors Give CLARITY Act 35% Chance Of Being Signed Into Law In 2025",
+      "description": "\u003cp data-start=\"463\" data-end=\"770\"\u003ePolymarket bettors have set a 35% chance that the CLARITY Act will be signed by end-2025, down from 87% on July 17. Sen. Cynthia Lummis has described a September and October committee path and has said the bill could reach President Donald Trump’s desk before year-end, after House passage.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/polymarket-bettors-give-clarity-act-35-chance-of-being-signed-into-law-in-2025/\"\u003ePolymarket Bettors Give CLARITY Act 35% Chance Of Being Signed Into Law In 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/polymarket-bettors-give-clarity-act-35-chance-of-being-signed-into-law-in-2025/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto bill",
+        "Cynthia Lummis",
+        "Polymarket"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29171249/1756487568-julia_63915_capitol_builfing_in_washington_d-c-_overlaid_with_c_5e357512-28ca-4bf2-b2b5-853f1c3897b1_optimized.jpg"
+      },
+      "published": "2025-08-29T18:02:14Z"
+    }
+  },
+  {
+    "hash": "72c987f6f1e1fdb46f7f17e8d686a96b59689f5574995837959edf2aa95bb5a9",
+    "item": {
+      "title": "Amdax Raises $23M for Bitcoin Treasury – Europe’s Bold Bid to Rival MicroStrategy?",
+      "description": "\u003cp data-start=\"622\" data-end=\"873\"\u003eAmdax has raised €20M to advance its Bitcoin treasury initiative, seeking a €30M round before pursuing a listing on Euronext Amsterdam. The plan targets 1% of supply as regulators and analysts warn of volatility and financing risks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/amdax-23m-raise-europe-rival-microstrategy-bitcoin/\"\u003eAmdax Raises $23M for Bitcoin Treasury – Europe’s Bold Bid to Rival MicroStrategy?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/amdax-23m-raise-europe-rival-microstrategy-bitcoin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29135506/1756475705-image-1756475663967_optimized.jpg"
+      },
+      "published": "2025-08-29T17:55:52Z"
+    }
+  },
+  {
+    "hash": "26776de4fd12aae0460b88624f9657881ba6d3220ae6048e7277ba998aef7a66",
+    "item": {
+      "title": "Banks Race to Integrate Stablecoins as $68B Hits Exchanges – But at What Cost?",
+      "description": "\u003cp data-start=\"448\" data-end=\"675\"\u003eStablecoins have reshaped the crypto–banking debate: exchange holdings have hit $68B and market cap tops $280B. Banks have weighed GENIUS Act limits, risk tools from Elliptic, and retail vs. institutional models.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/banks-can-integrate-stablecoins-but-it-wont-be-an-easy-transition/\"\u003eBanks Race to Integrate Stablecoins as $68B Hits Exchanges – But at What Cost?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/banks-can-integrate-stablecoins-but-it-wont-be-an-easy-transition/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Stablecoin",
+        "TradFi",
+        "United States"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29160429/1756483468-generated-image-august-28-2025-4_58pm_optimized.png"
+      },
+      "published": "2025-08-29T17:26:24Z"
+    }
+  },
+  {
+    "hash": "84b5813c7e6e77a5a2c772c42850a9f72d9c9174f9ab002faaa8ce4e8fda1120",
+    "item": {
+      "title": "Bonk Price Prediction: BONK Enters Golden Pocket Zone – Full-Blown Meme Frenzy is Starting",
+      "description": "\u003cp\u003eBonk has experienced a strong correction in the past 30 days after losing 27% of its value. However, one trader recently shared a bullish Bonk price prediction that sees the token rising by more than 80% if a key support level holds.Trading volumes have retreated slightly in the past 24 hours to $215 million but [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonk-price-prediction-bonk-enters-golden-pocket-zone-full-blown-meme-frenzy-is-starting/\"\u003eBonk Price Prediction: BONK Enters Golden Pocket Zone – Full-Blown Meme Frenzy is Starting\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonk-price-prediction-bonk-enters-golden-pocket-zone-full-blown-meme-frenzy-is-starting/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bonk",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29172200/1756488119-bonk-price-prediction.jpg"
+      },
+      "published": "2025-08-29T17:05:40Z"
+    }
+  },
+  {
+    "hash": "73f87ae2e2c8abcc6f238370552047b9bda293617228f3c680884a1a07b7fac8",
+    "item": {
+      "title": "China’s DeepSeek AI Predicts the Price of XRP, Avalanche and Dogecoin by the End of 2025",
+      "description": "\u003cp data-start=\"448\" data-end=\"757\"\u003eDeepSeek predicts renewed momentum for XRP, AVAX and DOGE through 2025. Bitcoin and Ethereum have set new highs; XRP usage has grown with corporate purchases and card integrations; AVAX has gained ETF interest and a U.S. Commerce data deal; DOGE has seen an ETF filing and a breakout attempt.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-avalanche-and-dogecoin-by-the-end-of-2025/\"\u003eChina\u0026#8217;s DeepSeek AI Predicts the Price of XRP, Avalanche and Dogecoin by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-avalanche-and-dogecoin-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "AVAX",
+        "DOGE",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29163935/1756485574-img_3099.jpg"
+      },
+      "published": "2025-08-29T16:59:16Z"
+    }
+  },
+  {
+    "hash": "39fba3e90cd56a1437eaaf48659b24b818cbf4555745c928a2caf38f23ac414e",
+    "item": {
+      "title": "Chainlink Price Prediction: LINK Enters U.S. Government Infrastructure – 10x Rally Incoming?",
+      "description": "\u003cp\u003eChainlink has landed a major contract with the U.S. Department of Commerce – Chainlink price prediction now eyes 10x rally with new use case.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/chainlink-price-prediction-link-enters-u-s-government-infrastructure/\"\u003eChainlink Price Prediction: LINK Enters U.S. Government Infrastructure – 10x Rally Incoming?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/chainlink-price-prediction-link-enters-u-s-government-infrastructure/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ChainLink",
+        "Price Prediction",
+        "US Government"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29160626/1756483585-cover-a_optimized.jpg"
+      },
+      "published": "2025-08-29T16:40:04Z"
+    }
+  },
+  {
+    "hash": "fb054832d927da2b510365c519b77889f7f1960e4b9d0f0414e82c52e34ce5ab",
+    "item": {
+      "title": "Altcoin Season Heats Up – Pyth Near 100% Daily Gain; Pump.fun, Four Rally",
+      "description": "\u003cp data-start=\"470\" data-end=\"757\"\u003eAltcoin season has been uneven across markets, with flows concentrating on tokens connected to live platforms. Pyth has benefited from expanding oracle use, Pump.fun has seen demand for rapid token creation, and Four has offered GameFi and a launchpad on BNB Chain.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-focuses-on-pyth-pump-fun-and-four/\"\u003eAltcoin Season Heats Up – Pyth Near 100% Daily Gain; Pump.fun, Four Rally\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-focuses-on-pyth-pump-fun-and-four/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29162950/1756484989-gemini_generated_image_hkmd7zhkmd7zhkmd_optimized.jpg"
+      },
+      "published": "2025-08-29T16:38:34Z"
+    }
+  },
+  {
+    "hash": "c8367fd1872ec67eec3ec8235aa056c59288b5f033fd24dda44360cdbf90c67d",
+    "item": {
+      "title": "Cardano Price Prediction: Hoskinson Says SWIFT Will Die – Is ADA About to Replace the Banking System?",
+      "description": "\u003cp\u003eCharles Hoskinson predicts that SWIFT will soon die: here's why this is big news for the Cardano price prediction.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-hoskinson-says-swift-will-die-is-ada-about-to-replace-the-banking-system/\"\u003eCardano Price Prediction: Hoskinson Says SWIFT Will Die – Is ADA About to Replace the Banking System?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-hoskinson-says-swift-will-die-is-ada-about-to-replace-the-banking-system/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ADA",
+        "Cardano",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29161208/1756483927-cardano-price-prediction.jpg"
+      },
+      "published": "2025-08-29T16:29:41Z"
+    }
+  },
+  {
+    "hash": "792b6e6ccceb1fc14ecfd9a2e0513323d7569ff93e07a3f076112771c0680d8e",
+    "item": {
+      "title": "Ethereum Price Prediction: Billion-Dollar Firm VanEck Says ETH Is Wall Street’s Chosen Token – Can ETH Overtake Bitcoin?",
+      "description": "\u003cp\u003eEthereum price predictions grow ambitious following market-wide leadership posting over 200% gains to trade at all-time high of $4,953 as Jan van Eck, CEO of billion-dollar investment management firm VanEck, declared ETH as Wall Street's chosen token during Fox Business appearance, stating Ethereum could become go-to blockchain for banks preparing for stablecoin rise.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-billion-dollar-firm-vaneck-says-eth-is-wall-streets-chosen-token-can-eth-overtake-bitcoin/\"\u003eEthereum Price Prediction: Billion-Dollar Firm VanEck Says ETH Is Wall Street\u0026#8217;s Chosen Token – Can ETH Overtake Bitcoin?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-billion-dollar-firm-vaneck-says-eth-is-wall-streets-chosen-token-can-eth-overtake-bitcoin/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ethereum",
+        "price prediciton"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29142006/1756477206-stock-image_optimized-2025-08-29t151929-019.jpg"
+      },
+      "published": "2025-08-29T16:25:19Z"
+    }
+  },
+  {
+    "hash": "30ffefb10291013104ceb523c08491ed391f727e2a8efc0694f09fba04c561cd",
+    "item": {
+      "title": "SharpLink Co-CEO Joseph Chalom on Being Dubbed the ‘MicroStrategy of Ethereum’",
+      "description": "\u003cp data-start=\"419\" data-end=\"696\"\u003eJoseph Chalom has left BlackRock to lead SharpLink, outlining an Ethereum treasury built on staking revenue, tokenization, and a ConsenSys partnership. He has compared the plan with MicroStrategy. Shares have risen 128% YTD to $18.46 after a 52-week high.\u003c/p\u003e\n\u003cp data-start=\"698\" data-end=\"988\" data-is-last-node=\"\" data-is-only-node=\"\"\u003e \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/sharplink-co-ceo-joseph-chalom-on-being-dubbed-the-microstrategy-of-ethereum/\"\u003eSharpLink Co-CEO Joseph Chalom on Being Dubbed the ‘MicroStrategy of Ethereum’\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/sharplink-co-ceo-joseph-chalom-on-being-dubbed-the-microstrategy-of-ethereum/"
+      ],
+      "categories": [
+        "Exclusives",
+        "Ethereum",
+        "Joseph Chalom",
+        "SHARPLINK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29125117/1756471877-joseph-chalom_720.jpg"
+      },
+      "published": "2025-08-29T16:16:58Z"
+    }
+  },
+  {
+    "hash": "9af7728478df0bb2d485771f70cedd2325d4c5a0a8ae64b57814107098cf6889",
+    "item": {
+      "title": "Ethena Price Prediction: Crypto Billionaire Arthur Hayes Predicts 50x Rally – ENA to Turn $1,000 Into $50K",
+      "description": "\u003cp\u003eOne of Crypto’s most outspoken investors eyes ENA as this cycle's 50x defi play of choice – Ethena price prediction could see a 50x return.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethena-price-prediction-crypto-billionaire-arthur-hayes-predicts-50x-rally/\"\u003eEthena Price Prediction: Crypto Billionaire Arthur Hayes Predicts 50x Rally – ENA to Turn $1,000 Into $50K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethena-price-prediction-crypto-billionaire-arthur-hayes-predicts-50x-rally/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Arthur Hayes",
+        "Ethena",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29171043/1756487443-ethena-price-prediction_v2.jpg"
+      },
+      "published": "2025-08-29T12:50:54Z"
+    }
   }
 ]
