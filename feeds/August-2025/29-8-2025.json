@@ -1992,5 +1992,811 @@
       },
       "published": "2025-08-29T10:20:25Z"
     }
+  },
+  {
+    "hash": "85f00e8a6919eeec26e1ae53f6af73337f926aa89ccf4b7692cd605a6fbc76f3",
+    "item": {
+      "title": "Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster",
+      "description": "Firefly Aerospace reveals why its Alpha booster exploded after launch in April.",
+      "links": [
+        "https://arstechnica.com/space/2025/08/rocket-report-spacex-achieved-daily-launch-this-week-ula-recovers-booster/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "alpha rocket",
+        "falcon 9",
+        "Firefly Aerospace",
+        "launch",
+        "rocket report",
+        "spacex",
+        "Starbase",
+        "starship",
+        "united launch alliance",
+        "vulcan",
+        "wallops island"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_9216-1-1152x648-1756427277.jpg"
+      },
+      "published": "2025-08-29T12:39:03Z"
+    }
+  },
+  {
+    "hash": "dbdde18137dd815627de0c30044b8ae9adb3722d4359d0a95739feb701c01d23",
+    "item": {
+      "title": "Google warns that mass data theft hitting Salesloft AI agent has grown bigger",
+      "description": "Assume all Salesloft credentials are compromised after Workspace breach, Google says.",
+      "links": [
+        "https://arstechnica.com/security/2025/08/google-warns-that-mass-data-theft-hitting-salesloft-ai-agent-has-grown-bigger/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "Security",
+        "chat agents",
+        "credential theft",
+        "Salesforce",
+        "salesloft drift"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hacked.jpg"
+      },
+      "published": "2025-08-29T12:15:00Z"
+    }
+  },
+  {
+    "hash": "b6a1d534e7b82eec7aa83ec25af5fdab3a1c15c286dc5db62f62ad46bb6eacc4",
+    "item": {
+      "title": "The Curious Case of Flunking My Anthropic Interview (Again)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064284\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://taylor.town/flunking-anthropic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T14:02:59Z"
+    }
+  },
+  {
+    "hash": "2856a675d19e04a4caf987c9ee258e970516734f32b63fb865ab854c2bbdd7d8",
+    "item": {
+      "title": "Grok Code Fast 1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063559\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://x.ai/news/grok-code-fast-1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T13:01:45Z"
+    }
+  },
+  {
+    "hash": "0dce542524134bb52d09d3207e6af950df9001f4bde93ad22bd0172f0f175bb5",
+    "item": {
+      "title": "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063874\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sosumi.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T13:30:16Z"
+    }
+  },
+  {
+    "hash": "e671fc85f8f89dbd8184018bd1d60bb3b31c31d5583dced7963a901819375607",
+    "item": {
+      "title": "Updates to Consumer Terms and Privacy Policy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062683\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/updates-to-our-consumer-terms"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T11:29:10Z"
+    }
+  },
+  {
+    "hash": "99e52c5348b1d86fdb754db1c8fc6a73c81443f5407058475ac69b160da14043",
+    "item": {
+      "title": "Private Equity Snaps Up Disability Services, Challenging Regulators",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063972\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T13:37:53Z"
+    }
+  },
+  {
+    "hash": "534e4d31e7a2e9c59a196bd596c4dbd7b890a69251a54095dbbe2ff19a941afa",
+    "item": {
+      "title": "Intel's \"Clearwater Forest\" Xeon 7 E-Core CPU Will Be a Beast",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037572\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nextplatform.com/2025/08/26/intels-clearwater-forest-xeon-7-e-core-cpu-will-be-a-beast/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T10:11:25Z"
+    }
+  },
+  {
+    "hash": "18837eda891f645aa52876d717a450c4fe3effb204e5b4c4930bd3059dadab90",
+    "item": {
+      "title": "Show HN: A minimal TS library that generates prompt injection attacks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063547\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://prompt-injector.blueprintlab.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T13:00:49Z"
+    }
+  },
+  {
+    "hash": "a6d026a7f7e77122a23845c767be57fe92b60844bc0459f4af5488926fdff946",
+    "item": {
+      "title": "Show HN: Find Hidden Gems on HN",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064210\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pj4533.com/hn-overlooked/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T13:56:50Z"
+    }
+  },
+  {
+    "hash": "a1c63b9e7118f777b0bf368e413dc8805e3357aac49857a06ebebd438fde4e05",
+    "item": {
+      "title": "Gun Maker Sig Sauer Citing National Security to Keep Documents from Public",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45063431\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://practicalshootinginsights.com/eighth-circuit-fmeca-update/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T12:51:01Z"
+    }
+  },
+  {
+    "hash": "a6f9a3f7b8747f7588738cd07ceca37786d767094a4491d564f535193c414251",
+    "item": {
+      "title": "It’s Not Wrong that (for HN) “[facepalm emoji]”.length == 36",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45016263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zaerl.com/2025/08/24/its-not-wrong-that-for-hn-%f0%9f%a4%a6%f0%9f%8f%bc%e2%99%82%ef%b8%8f-length-36/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-25T17:20:05Z"
+    }
+  },
+  {
+    "hash": "339eb41acd9020222ea4ed568495aaf870f9338b5e8ed173e0c7c7f8da980519",
+    "item": {
+      "title": "Deploying DeepSeek on 96 H100 GPUs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064329\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lmsys.org/blog/2025-05-05-large-scale-ep/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T14:07:28Z"
+    }
+  },
+  {
+    "hash": "2168ef44b298a70190236d0b1804afa46c09a034c39fca4c27f07596ef136218",
+    "item": {
+      "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45062614\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T11:15:39Z"
+    }
+  },
+  {
+    "hash": "d3d73ef9d1ab1bcf21148b4fb768dd1584c885ba4d0bb458d7e5e272f919e8e2",
+    "item": {
+      "title": "Contrastive Representations for Temporal Reasoning",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45061689\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://princeton-rl.github.io/CRTR/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T08:42:40Z"
+    }
+  },
+  {
+    "hash": "b6d968b3c295e3a9b435a6fb25c799eaccfa13c13c627af80d72aebe77733b7b",
+    "item": {
+      "title": "Ozak AI, LPT, and CRO: Top Altcoins With Explosive Growth Potential in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ozak AI, LPT, and CRO: Top Altcoins With Explosive Growth Potential in 2025\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eOzak AI is quickly emerging as one of the hottest presale opportunities of 2025, currently in its 5th stage at just $0.01 with over $2.4 million raised and more than 828 million OZ tokens sold, positioning it for a potential surge toward the much-anticipated $1 target. With listings already on",
+      "links": [
+        "https://thenewscrypto.com/ozak-ai-lpt-and-cro-top-altcoins-with-explosive-growth-potential-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Altcoin",
+        "Cronos",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/unnamed-23.png"
+      },
+      "published": "2025-08-29T10:57:01Z"
+    }
+  },
+  {
+    "hash": "6bcf0adf849059ec54a78fe175ef4818c8ad0e598d8d635fc1bc72d1c4bc3d48",
+    "item": {
+      "title": "Four (FORM) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/FORM-_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Four (FORM) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/FORM-_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/FORM-_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/FORM-_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Four (FORM) price prediction 2025, 2026-2030, we will analyze the price patterns of FORM by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Four (FORM) Current Market Status What is Four (FORM)? Four (FORM) 24H Technicals FOUR (FORM)",
+      "links": [
+        "https://thenewscrypto.com/four-form-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "BinaryX",
+        "BNX",
+        "Cryptocurrency",
+        "Cryptomarket",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/FORM-_Price-prediction.jpg"
+      },
+      "published": "2025-08-29T09:59:28Z"
+    }
+  },
+  {
+    "hash": "1133e306cf8a883d588bd618a4f55055d1aec75c53c52efd589877cc00eafc84",
+    "item": {
+      "title": "Binance Coin (BNB) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Coin (BNB)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Binance Coin (BNB) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of BNB by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Binance Coin (BNB) Current Market Status What is Binance Coin (BNB)? Binance Coin (BNB)",
+      "links": [
+        "https://thenewscrypto.com/binance-coin-bnb-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Binance",
+        "BNB",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg"
+      },
+      "published": "2025-08-29T09:53:13Z"
+    }
+  },
+  {
+    "hash": "74fc965ab9cb483d66ff22c718890cf8d753ec5c7380b237dacfc95524ae0394",
+    "item": {
+      "title": "Chainlink (LINK) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chainlink (LINK) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Chainlink (LINK) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of LINK by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Chainlink (LINK) Current Market Status What is Chainlink (LINK)? Chainlink (LINK) 24H Technicals CHAINLINK (LINK) PRICE",
+      "links": [
+        "https://thenewscrypto.com/chainlink-link-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Chainlink Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg"
+      },
+      "published": "2025-08-29T09:45:51Z"
+    }
+  },
+  {
+    "hash": "8903900b586e8d79d240e5319716f3557361def7bb85b20d92261067b6c42938",
+    "item": {
+      "title": "Pyth Network (PYTH) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-23-at-1.06.52-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pyth Network (PYTH) Price Prediction 2024, 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-23-at-1.06.52-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-23-at-1.06.52-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-23-at-1.06.52-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn tIn this Pyth Network (PYTH) price prediction 2025, 2026-2030, we will analyze the price patterns of PYTH by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Pyth Network (PYTH) Current Market Status What is Pyth Network (PYTH)? Pyth Network",
+      "links": [
+        "https://thenewscrypto.com/pyth-network-pyth-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "price prediction",
+        "PYTH",
+        "pyth network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-23-at-1.06.52-PM.jpeg"
+      },
+      "published": "2025-08-29T09:40:28Z"
+    }
+  },
+  {
+    "hash": "17471ffd76f999ed92cc585fb8e07d653432daebadaa1030e83b2fcd59bcb9e2",
+    "item": {
+      "title": "How LYNO AI’s AI-Driven Ecosystem Could Transform the Crypto Market",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-26.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/image001-26.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-26-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-26-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/image001-26-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eLYNO AI is a blockchain transparent, AI-driven ecosystem to transform crypto arbitrage with autonomous learning. Its neural nets examine subtle price feeds and gas data and trades profitably in real-time on more than 15 networks. The innovation has an open potential and the prospect of producing previously unimaginable returns and",
+      "links": [
+        "https://thenewscrypto.com/how-lyno-ais-ai-driven-ecosystem-could-transform-the-crypto-market/"
+      ],
+      "categories": [
+        "Press Release",
+        "LYNO AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/image001-26.png"
+      },
+      "published": "2025-08-29T09:39:51Z"
+    }
+  },
+  {
+    "hash": "bb4ef341e483d2c55d654c041faff3158615686168a3aeb1c12bec68031d78cf",
+    "item": {
+      "title": "PYTH Network Rallies 120% as US Economic Data Enters Blockchain Era",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Pyth-Network-Price-analysis1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PYTH Network Rallies 120% as US Economic Data Enters Blockchain Era\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Pyth-Network-Price-analysis1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/Pyth-Network-Price-analysis1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Pyth-Network-Price-analysis1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Pyth Network token surged significantly after the news of the groundbreaking government blockchain adoption was announced this week. The decentralized oracle platform shot up following official announcements of the integration of US economic data. According to market analysts, smaller-cap cryptocurrencies are better at maintaining momentum than their established competitors.",
+      "links": [
+        "https://thenewscrypto.com/pyth-network-rallies-120-as-us-economic-data-enters-blockchain-era/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "PYTH",
+        "pyth network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Pyth-Network-Price-analysis1.jpg"
+      },
+      "published": "2025-08-29T09:39:08Z"
+    }
+  },
+  {
+    "hash": "e9f6604a21f0ce0820e6b88e484df292a2826a6bc3059b03edd5efdf5a3dd418",
+    "item": {
+      "title": "Pump.fun (PUMP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"942\" height=\"530\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Pump_Price-prediction-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pump.fun (PUMP) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/07/Pump_Price-prediction-1.jpg 942w, https://thenewscrypto.com/wp-content/uploads/2025/07/Pump_Price-prediction-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/07/Pump_Price-prediction-1-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/07/Pump_Price-prediction-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 942px) 100vw, 942px\" /\u003e\u003c/p\u003eIn this Pump.fun (PUMP) price prediction for 2025, 2026-2030,\u0026#160; we will analyze the price patterns of PUMP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Pump.fun (PUMP) Current Market Status What is Pump.fun (PUMP)? Pump.fun (PUMP) 24H Technicals PUMP.FUN",
+      "links": [
+        "https://thenewscrypto.com/pump-fun-pump-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "price prediction",
+        "PUMP",
+        "Pump.fun"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/07/Pump_Price-prediction-1.jpg"
+      },
+      "published": "2025-08-29T09:34:05Z"
+    }
+  },
+  {
+    "hash": "0fb2abb446741b88accae01c493f2bbce6af905cc9b0ac09c00913d3f539627f",
+    "item": {
+      "title": "LINK Momentum Weakens, Could Chainlink Break $20 Support?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/LINK-Momentum-Weakens-Could-Chainlink-Break-20-Support.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"LINK Momentum Weakens, Could Chainlink Break $20 Support?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/LINK-Momentum-Weakens-Could-Chainlink-Break-20-Support.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/LINK-Momentum-Weakens-Could-Chainlink-Break-20-Support-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/LINK-Momentum-Weakens-Could-Chainlink-Break-20-Support-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eToday, the crypto market opened on a bearish tone, shedding over 3.22% in market cap, reaching $3.8 trillion. The broader sentiment is neutral, with the Fear and Greed Index value settled at 47. Meanwhile, all major digital assets have lost their recent gains, and fallen to the former support, including",
+      "links": [
+        "https://thenewscrypto.com/link-momentum-weakens-could-chainlink-break-20-support/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Chainlink",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/LINK-Momentum-Weakens-Could-Chainlink-Break-20-Support.jpg"
+      },
+      "published": "2025-08-29T09:12:04Z"
+    }
+  },
+  {
+    "hash": "6cce4c215b62fc1886ad8192917bd5144874e151699220414f4515b6ff4dc840",
+    "item": {
+      "title": "Gate Launches GUSD: A Stable Investment Backed by Real-World Assets",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eCayman Islands, British Overseas Territories, 29th August 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gate-launches-gusd-a-stable-investment-backed-by-real-world-assets/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/photo_2025-08-29_08-39-14_1756449313CnGTHyW6Xz.jpg"
+      },
+      "published": "2025-08-29T07:24:38Z"
+    }
+  },
+  {
+    "hash": "47e4859d60e9d2b9b97af85b060d5a4473d02f4fc006bdfe1fa99f9942d17aca",
+    "item": {
+      "title": "Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication",
+      "description": "Amazon on Friday said it flagged and disrupted what it described as an opportunistic watering hole campaign orchestrated by the Russia-linked APT29 actors as part of their intelligence gathering efforts.\nThe campaign used \"compromised websites to redirect visitors to malicious infrastructure designed to trick users into authorizing attacker-controlled devices through Microsoft's device code",
+      "links": [
+        "https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKYZ5DLUHPr8ka-gN-66F-UM32FyEHFG-zXbjosHjQQDFT5AWRGWMwyyVCzU0HWoD-M7XErgpJumbsKwGKGzDsIz8BZlcBQ4iZYgWO_ShEi-jWnHHgGp-1gopfPnSGsl3F7m_zbTtk7lvz3PNFblrzvdH9Pc0lD7X5dDuGcqJMMmC6hptcp8-vVsInXrx3/s1600/ms-code.jpg"
+      },
+      "published": "2025-08-29T13:22:00Z"
+    }
+  },
+  {
+    "hash": "a58ba830e152e9da82a0023d555948bb783e5f8b8eef42f1419702111503be1a",
+    "item": {
+      "title": "Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign",
+      "description": "An abandoned update server associated with input method editor (IME) software Sogou Zhuyin was leveraged by threat actors as part of an espionage campaign to deliver several malware families, including C6DOOR and GTELAM, in attacks primarily targeting users across Eastern Asia.\n\"Attackers employed sophisticated infection chains, such as hijacked software updates and fake cloud storage or login",
+      "links": [
+        "https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlMjfZMk2hdkae7SCb_d4KXuVVEQG3TAO5supo1M2tdAMUJP8kB_XaGkiE4PjVqlZhmmSk3YzDMrq7RDlV305hbb6fHR_fO1UAwci4Z0uiRaOY6A5jT8Vl5UY75PcRF7UweNozMx5emwMi3APyplzQnam_LX_41ctl-ezhnddH95CSBctT7iQSEjkBqKiY/s1600/server-update.png"
+      },
+      "published": "2025-08-29T13:12:00Z"
+    }
+  },
+  {
+    "hash": "e7d3a2df0d83cb89acf863fadeff3219b3a6a30fa69802879a99da13bba65015",
+    "item": {
+      "title": "Salt Typhoon Exploits Flaws in Edge Network Devices to Breach 600 Organizations Worldwide",
+      "description": "The China-linked advanced persistent threat (APT) actor known as Salt Typhoon has continued its attacks targeting networks across the world, including organizations in the telecommunications, government, transportation, lodging, and military infrastructure sectors.\n\"While these actors focus on large backbone routers of major telecommunications providers, as well as provider edge (PE) and",
+      "links": [
+        "https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeNOLo56KNkKNaat-XrGPDlcfwwFUX-GuRapoEDEVPPC9FGs7sXdgjxvSaOtCTi7dnM6b-2LuxJECmaJw939fENa5Dj4PqPH-JebraAWXV_AYSJ-gB82wVfA1sY6Ris4QMAItxsb4608Z7KsyqCRpMdgDUfKh3yefKEHjE3yMtejzvsMDdeoTRC-Iyya7v/s1600/china.jpg"
+      },
+      "published": "2025-08-28T14:04:00Z"
+    }
+  },
+  {
+    "hash": "94778d8dba9cb2e61b2135e6383752108be78a820cd2ee7efa7d65b140140c18",
+    "item": {
+      "title": "[$] Highlights from systemd v258: part one",
+      "description": "\u003cp\u003eThe next release of systemd has been percolating for an unusually\nlong time. Systemd releases are usually about six months apart, but\nv257 \u003ca href=\"https://lwn.net/Articles/1001657/\"\u003ecame out\u003c/a\u003e in\nDecember\u0026#160;2024, and v258 just now seems to be nearing the finish\nline; the third release candidate for v258 was published on\nAugust\u0026#160;20 (\u003ca\nhref=\"https://github.com/systemd/systemd/releases/tag/v258-rc3\"\u003erelease\nnotes\u003c/a\u003e). Now is a good time to dig in and take a look at some of\nthe new features, enhancements, and removals coming soon to\nsystemd. These include new workload-management features, a concept for\nmultiple home-directory environments, and the final, once-and-for-all\nremoval of support for \u003ca\nhref=\"https://docs.kernel.org/admin-guide/cgroup-v1/index.html#cgroup-v1\"\u003econtrol\ngroups version\u0026#160;1\u003c/a\u003e.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1028275/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-08-29T14:47:35Z"
+    }
+  },
+  {
+    "hash": "010f89f7a9e0bfded168ad235bef0cb81fb07ec85720c17ce2d3097b9028e6f8",
+    "item": {
+      "title": "Security updates for Friday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (aide, fence-agents, firefox, kernel-rt, python-cryptography, and thunderbird), \u003cb\u003eDebian\u003c/b\u003e (golang-github-gin-contrib-cors, libxml2, and udisks2), \u003cb\u003eFedora\u003c/b\u003e (chromium), \u003cb\u003eOracle\u003c/b\u003e (postgresql16, postgresql:16, python3.11, and thunderbird), \u003cb\u003eRed Hat\u003c/b\u003e (lz4 and mpfr), \u003cb\u003eSUSE\u003c/b\u003e (chromium, docker, dpkg, firefox, gdk-pixbuf, git, git, git-lfs, obs-scm-bridge, python-PyYAML, gnutls, kernel, libarchive, libxml2, net-tools, netty, perl-Crypt-CBC, polkit, postgresql14, postgresql15, sqlite3, thunderbird, tomcat10, and udisks2), and \u003cb\u003eUbuntu\u003c/b\u003e (linux, linux-aws, linux-aws-5.15, linux-gcp, linux-gcp-5.15, linux-gkeop,\n linux-hwe-5.15, linux-ibm, linux-intel-iotg, linux-intel-iotg-5.15,\n linux-lowlatency, linux-lowlatency-hwe-5.15, linux-nvidia,\n linux-nvidia-tegra, linux-nvidia-tegra-5.15, linux-nvidia-tegra-igx,\n linux-oracle, linux-raspi, linux-xilinx-zynqmp, linux, linux-aws, linux-aws-6.14, linux-gcp, linux-hwe-6.14, linux-raspi,\n linux-realtime, linux-realtime-6.14, linux, linux-aws, linux-aws-6.8, linux-gcp, linux-lowlatency,\n linux-lowlatency-hwe-6.8, linux-oracle, linux-oracle-6.8, linux, linux-aws, linux-kvm, linux-lts-xenial, linux-azure, linux-fips, linux-fips, linux-aws-fips, linux-gcp-fips, linux-gke, linux-hwe-6.8, linux-nvidia, linux-nvidia-6.8,\n linux-nvidia-lowlatency, linux-raspi, linux-gke, linux-kvm, linux-oem-6.14, linux-realtime, linux-intel-iot-realtime, linux-realtime, linux-raspi-realtime, openldap, and udisks2).",
+      "links": [
+        "https://lwn.net/Articles/1035724/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-08-29T14:03:56Z"
+    }
+  },
+  {
+    "hash": "8c9dd07185f5d70041f8e97650bca13603124889c8060a168280e24d12516e5a",
+    "item": {
+      "title": "Fwupd 2.0.14 Brings New Framework \u0026 SteelSeries Hardware Support",
+      "description": "Fwupd 2.0.14 is out today as the newest version of this open-source firmware updating utility that is widely-used on Linux systems for BIOS/system firmware updates as well as an ever increasing array of different peripheral devices...",
+      "links": [
+        "https://www.phoronix.com/news/Fwupd-2.0.14-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-29T12:12:22Z"
+    }
+  },
+  {
+    "hash": "86a46ff2eb93c8193cb3168b4af7ae36d07b6c319ebe665bdb5572840a0134bf",
+    "item": {
+      "title": "Eliza Labs Sues Elon Musk’s X Corp, Alleging Monopoly Abuse and Copycat AI Products",
+      "description": "\u003cp\u003eEliza Labs has filed a lawsuit against X Corp, accusing the Elon Musk-owned company of abusing its dominant position to suppress competition.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eliza-labs-sues-elon-musks-x-corp-alleging-monopoly-abuse-and-copycat-ai-products/\"\u003eEliza Labs Sues Elon Musk\u0026#8217;s X Corp, Alleging Monopoly Abuse and Copycat AI Products\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eliza-labs-sues-elon-musks-x-corp-alleging-monopoly-abuse-and-copycat-ai-products/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Artificial Intelligence",
+        "Elon Musk",
+        "Legal"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29132451/1756473891-image-1756473515448_optimized.jpg"
+      },
+      "published": "2025-08-29T13:54:40Z"
+    }
+  },
+  {
+    "hash": "16244e5dd652dfbd3b12ba48a4a55be92e31a526c2f5a2aefcffdc09e614a2cc",
+    "item": {
+      "title": "92 Crypto ETFs Now Await SEC Approval with Solana, XRP Leading Applications",
+      "description": "\u003cp\u003eA total of 92 crypto exchange-traded funds are currently awaiting review from the U.S. Securities and Exchange Commission, according to Bloomberg Intelligence ETF analyst James Seyffart, with Solana leading eight pending ETF applications and XRP following with seven applications under review.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/92-crypto-etfs-now-await-sec-approval-with-solana-xrp-leading-applications/\"\u003e92 Crypto ETFs Now Await SEC Approval with Solana, XRP Leading Applications\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/92-crypto-etfs-now-await-sec-approval-with-solana-xrp-leading-applications/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ETFs",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29122914/1756470553-stock-image_optimized-41.jpg"
+      },
+      "published": "2025-08-29T13:00:56Z"
+    }
+  },
+  {
+    "hash": "4160136bf9f99e7843a75f5e45f1ba29fc898b33aee823bc992fd4f67ea59bbe",
+    "item": {
+      "title": "BTS Star Jungkook Targeted as Hackers Steal $28.1M from South Korea’s Elite",
+      "description": "\u003cp\u003eSeoul’s Cyber Investigation Unit has arrested 16 suspects after a syndicate stole $28.1M from 258 high-profile Koreans, including BTS’s Jungkook, by breaching sites and opening fraudulent phone lines.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bts-star-jungkook-targeted-as-hackers-steal-28-1m-from-south-koreas-elite/\"\u003eBTS Star Jungkook Targeted as Hackers Steal $28.1M from South Korea’s Elite\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bts-star-jungkook-targeted-as-hackers-steal-28-1m-from-south-koreas-elite/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "crypto scam",
+        "Hackers",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29121630/1756469789-0_2-3_optimized.jpg"
+      },
+      "published": "2025-08-29T12:59:25Z"
+    }
+  },
+  {
+    "hash": "c769196aed02c7f3c416bfde8c5bcadce3174db4eb5d59deb4ea8201eef8f974",
+    "item": {
+      "title": "Ethena Price Prediction: Crypto Billionaire Arthur Hayes Predicts 50x Rally – Is ENA the Crypto That Turns $1,000 Into $50K?",
+      "description": "\u003cp\u003eOne of Crypto’s most outspoken investors eyes ENA as this cycle's 50x defi play of choice – Ethena price prediction could see a 50x return.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethena-price-prediction-crypto-billionaire-arthur-hayes-predicts-50x-rally/\"\u003eEthena Price Prediction: Crypto Billionaire Arthur Hayes Predicts 50x Rally – Is ENA the Crypto That Turns $1,000 Into $50K?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethena-price-prediction-crypto-billionaire-arthur-hayes-predicts-50x-rally/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Arthur Hayes",
+        "Ethena",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29122313/1756470193-image-1756470149168_optimized.jpg"
+      },
+      "published": "2025-08-29T12:50:54Z"
+    }
+  },
+  {
+    "hash": "1e4f3ba061302ff8b828b82d2e4d8d2ee7bae116ac9452b3ab0183727b7f5312",
+    "item": {
+      "title": "Bitcoin’s Dominance Rides Rate-Cut Wave, Luring XRP \u0026 ETH Investors to Find Mining",
+      "description": "\u003cp\u003eThe platform features low-risk, high-efficiency mining, relying on the full-chain security, SSL/TLS encrypted transmission and real-time system monitoring provided by McAfee and Cloudflare to ensure the safety of user funds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-dominance-rides-rate-cut-wave-xrp-eth-investors-find-mining/\"\u003eBitcoin\u0026#8217;s Dominance Rides Rate-Cut Wave, Luring XRP \u0026amp; ETH Investors to Find Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-dominance-rides-rate-cut-wave-xrp-eth-investors-find-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin",
+        "Mining",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29124702/1756471621-bitcoin-dominance-rides-rate-cut-wave-xrp-eth-investors-find-mining.jpg"
+      },
+      "published": "2025-08-29T12:47:15Z"
+    }
+  },
+  {
+    "hash": "d22ecf0b94473dd14643feb5e4637abc85de8c7e43b7dbed353c064dd8963291",
+    "item": {
+      "title": "Bitcoin Price Prediction: JPMorgan Says BTC Is Undervalued vs Gold – Will Wall Street Rush In Next?",
+      "description": "\u003cp\u003eJPMorgan says Bitcoin is undervalued vs gold as volatility hits record lows. BTC near $110K may target $126K as Wall Street inflows gain pace.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-jpmorgan-says-btc-is-undervalued-vs-gold-will-wall-street-rush-in-next/\"\u003eBitcoin Price Prediction: JPMorgan Says BTC Is Undervalued vs Gold – Will Wall Street Rush In Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-jpmorgan-says-btc-is-undervalued-vs-gold-will-wall-street-rush-in-next/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26105642/1756205801-bitcoin-price-prediction-7.jpg"
+      },
+      "published": "2025-08-29T12:44:29Z"
+    }
+  },
+  {
+    "hash": "f3c90b1d6c89870bd5c802d2d7500871a4180e6aa65093616e7d39ad3365a69e",
+    "item": {
+      "title": "Kraken, KuCoin, and HTX to List Trump-Backed WLFI Token",
+      "description": "\u003cp\u003eA number of major crypto exchanges, including Kraken, KuCoin, and HTX, have confirmed plans to list WLFI, a token launched by World Liberty Financial.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/kraken-kucoin-and-htx-to-list-trump-backed-wlfi-token/\"\u003eKraken, KuCoin, and HTX to List Trump-Backed WLFI Token\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/kraken-kucoin-and-htx-to-list-trump-backed-wlfi-token/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Kraken",
+        "KuCoin",
+        "WLFI"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29105805/1756465084-af727776-93cf-4a49-ac7e-4032f02fc691_optimized.jpg"
+      },
+      "published": "2025-08-29T12:39:36Z"
+    }
+  },
+  {
+    "hash": "8165e07f178c879fde4245c4017c4c5b677156fbd4c11649a1d7df64f97d955c",
+    "item": {
+      "title": "Eric Trump Stuns Bitcoin Asia: China Is ‘A Hell of a Power’ in Crypto, Despite Ban — What Does He Know?",
+      "description": "\u003cp\u003eEric Trump, speaking at BTC Asia in Hong Kong, said there is “no question” China has made an “unbelievable mark” on Bitcoin and cryptocurrencies and credited the Middle East for embracing crypto “in a massive way.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eric-trump-stuns-bitcoin-asia-china-is-a-hell-of-a-power-in-crypto-despite-ban-what-does-he-know/\"\u003eEric Trump Stuns Bitcoin Asia: China Is ‘A Hell of a Power’ in Crypto, Despite Ban — What Does He Know?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eric-trump-stuns-bitcoin-asia-china-is-a-hell-of-a-power-in-crypto-despite-ban-what-does-he-know/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin Asia",
+        "China",
+        "Eric Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/29123707/1756471026-image-1756470706305_optimized.jpg"
+      },
+      "published": "2025-08-29T12:37:43Z"
+    }
   }
 ]
