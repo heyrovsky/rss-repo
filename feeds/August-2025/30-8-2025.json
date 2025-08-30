@@ -1532,5 +1532,334 @@
       },
       "published": "2025-08-30T10:43:19Z"
     }
+  },
+  {
+    "hash": "32bc629920ca514e742b8cde9467093bbbab8c4aa89a9b3719d9910404495f20",
+    "item": {
+      "title": "Open Source Interactive Wallpapers for Windows",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"520\" src=\"https://hackaday.com/wp-content/uploads/2025/08/octos.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Octos background with hackaday website pulled up\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/octos.png 1652w, https://hackaday.com/wp-content/uploads/2025/08/octos.png?resize=250,163 250w, https://hackaday.com/wp-content/uploads/2025/08/octos.png?resize=400,260 400w, https://hackaday.com/wp-content/uploads/2025/08/octos.png?resize=800,520 800w, https://hackaday.com/wp-content/uploads/2025/08/octos.png?resize=1536,999 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"809741\" data-permalink=\"https://hackaday.com/2025/08/30/open-source-interactive-wallpapers-for-windows/octos/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/octos.png\" data-orig-size=\"1652,1074\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"octos\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/octos.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/octos.png?w=800\" /\u003e\u003c/div\u003eIt’s late at night, and you’re avoiding work that was supposed to be done yesterday. You could open an application on your desktop to keep your attention, or what about \u003ca href=\"https://hackaday.com/2025/08/30/open-source-interactive-wallpapers-for-windows/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/30/open-source-interactive-wallpapers-for-windows/"
+      ],
+      "categories": [
+        "Art",
+        "background",
+        "conways game of life",
+        "css",
+        "desktop",
+        "html",
+        "js",
+        "Microsoft store",
+        "octos",
+        "open source"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Ian Bos"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/octos.png"
+      },
+      "published": "2025-08-30T14:00:42Z"
+    }
+  },
+  {
+    "hash": "23927c4a1513bbce815f1a05628a4720a21ed58cbef60472e33ccc1bcd40f969",
+    "item": {
+      "title": "FPGA Brings UNIX v1 to the DEC J-11",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?resize=400,267 400w, https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?resize=800,533 800w, https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?resize=1536,1024 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"809022\" data-permalink=\"https://hackaday.com/2025/08/30/fpga-brings-unix-v1-to-the-dec-j-11/dec-fpga-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg\" data-orig-size=\"1920,1280\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1714929808\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"dec-fpga-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;ve never used a PDP-11 before it\u0026#8217;s probably because you simply weren\u0026#8217;t around in the 70s and 80s. Although they started as expensive machines only in research labs and \u003ca href=\"https://hackaday.com/2025/08/30/fpga-brings-unix-v1-to-the-dec-j-11/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/30/fpga-brings-unix-v1-to-the-dec-j-11/"
+      ],
+      "categories": [
+        "FPGA",
+        "dec j-11",
+        "fpga",
+        "pdp-11",
+        "retrocomputing",
+        "tang nano 20k",
+        "tape",
+        "unix"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/dec-fpga-main.jpg"
+      },
+      "published": "2025-08-30T11:00:14Z"
+    }
+  },
+  {
+    "hash": "556e96730ad47d43bff4a9cc0b77da1b77f859808ea4e9b80e87e6c168b5f28a",
+    "item": {
+      "title": "Measuring Nanoparticles by Scattering a Laser",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A 3D-printed case encloses a number of electronic components. In the top left of the case, a laser diode is mounted. In the top right, the laser beam is shining into a cuvette, which is glowing red from scattered light. In the bottom right, a small breadboard has an integrated circuit and a few parts mounted. In the bottom left is a large red circuit board marked “Rich UNO R3.”\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png 1433w, https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"807151\" data-permalink=\"https://hackaday.com/2025/08/30/measuring-nanoparticles-by-scattering-a-laser/opendls_open_view/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png\" data-orig-size=\"1433,806\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"opendls_open_view\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png?w=800\" /\u003e\u003c/div\u003eA fundamental difficulty of working with nanoparticles is that your objects of study are too small for an optical microscope to resolve, and thus measuring their size can be quite \u003ca href=\"https://hackaday.com/2025/08/30/measuring-nanoparticles-by-scattering-a-laser/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/30/measuring-nanoparticles-by-scattering-a-laser/"
+      ],
+      "categories": [
+        "Science",
+        "dynamic light scattering",
+        "laser diode",
+        "nanoparticles",
+        "photodiode",
+        "transimpedance amplifier"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/opendls_open_view.png"
+      },
+      "published": "2025-08-30T08:00:04Z"
+    }
+  },
+  {
+    "hash": "bf0add33a2485cdf0eef5fa1d6bdf004ee79e91f7d1562169a8a3b4fdbebf8ae",
+    "item": {
+      "title": "Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling",
+      "description": "Cybersecurity researchers have called attention to a cyber attack in which unknown threat actors deployed an open-source endpoint monitoring and digital forensic tool called Velociraptor, illustrating ongoing abuse of legitimate software for malicious purposes.\n\"In this incident, the threat actor used the tool to download and execute Visual Studio Code with the likely intention of creating a",
+      "links": [
+        "https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgONCKk3MmknRD6PZPrgDLx0brdZZM5s6yE2fH6mmplcIFUYlM6wAlTcDhGFGzDHLWUuuQQkscEunm-2N6iindn4Up48vWIS1YAAAFe8_YG25xDqgmMwnmZoYzwaTFPeWWaG0vEDx-UYNoNMkYEkBsCXeLOvX_hYraMY1gh47-vU1ZH_b4hixAted3ss6kw/s1600/win-malware.jpg"
+      },
+      "published": "2025-08-30T12:06:00Z"
+    }
+  },
+  {
+    "hash": "24ac00473002698c899e8919aecd85cabfa0e5450cc6ca5830f89f6e5f624d6b",
+    "item": {
+      "title": "Wayfire 0.10 Wayland Compositor Brings Experimental Vulkan Rendering",
+      "description": "Wayfire 0.10 was released this week and its integration with the underlying wlroots rendering code has been overhauled. In turn this opens up Wayfire to having experimental support for rendering using the Vulkan API...",
+      "links": [
+        "https://www.phoronix.com/news/Wayfire-0.10-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-30T14:45:33Z"
+    }
+  },
+  {
+    "hash": "4cd5c0f98b86ddead95d21dc7c573f3210529f4cfa68d62fd7e1489e1dc32932",
+    "item": {
+      "title": "bsd-user-4-linux Lets FreeBSD Binaries Run Unmodified On Linux",
+      "description": "The FreeBSD project on Friday published their quarterly status report to highlight all of the interesting changes for Q2'2025. Among the recent FreeBSD efforts have been on \"bsd-user-4-linux\" to allow FreeBSD binaries to run unmodified on Linux systems. FreeBSD is also coming up with a policy around AI/LLM usage for contributing to the project. Additionally, Sylve is taking shape as a new web-based unified system management platform for FreeBSD systems...",
+      "links": [
+        "https://www.phoronix.com/news/FreeBSD-Q2-2025-Status-Report"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-30T13:39:06Z"
+    }
+  },
+  {
+    "hash": "3d872baf51ec2e891a55e97e3102d35e8e752298d07bf80b6f41eb3ad14fced2",
+    "item": {
+      "title": "Cognitive Load is what matters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074248\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/zakirullin/cognitive-load"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T12:58:48Z"
+    }
+  },
+  {
+    "hash": "6f9a2f3e0bd48401854566945ad71595868ec87a60089f8bad9811b2ab728d37",
+    "item": {
+      "title": "Condor's Cuzco RISC-V Core at Hot Chips 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T14:18:41Z"
+    }
+  },
+  {
+    "hash": "8ac03561b38df5def41f0921f3616e01c1a0853bcb55dec37223988339cec988",
+    "item": {
+      "title": "AI models need a virtual machine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074467\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T13:25:39Z"
+    }
+  },
+  {
+    "hash": "45519fdf0b7170b0185f56f181cf99dd198d26e9f9f66b2c074213857abb5ef7",
+    "item": {
+      "title": "Agent Client Protocol",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074147\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://agentclientprotocol.com/overview/introduction"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T12:42:30Z"
+    }
+  },
+  {
+    "hash": "c444c1d99a92df077b89898150e2e9bbf2a5ae50a27ba26aa33a22d3f06c31be",
+    "item": {
+      "title": "Andrew Ng says bottleneck in AI startups isn't coding – it's product management",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45044155\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.businessinsider.com/andrew-ng-product-management-bottleneck-coding-ai-startups-2025-8"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T19:43:22Z"
+    }
+  },
+  {
+    "hash": "e08f587ad7d47c90eee36e58d0d21fefb2aad78cf38a9285ce5a1df04fa28144",
+    "item": {
+      "title": "Nokia’s legendary font makes for a great user interface font",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T12:31:43Z"
+    }
+  },
+  {
+    "hash": "fa4d982b5bd0b43b91c1f3edc4599ea2f6e559da251ddc583f21f6048ddb5c84",
+    "item": {
+      "title": "F-Stack – A network development kit with high performance based on DPDK",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074115\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.f-stack.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T12:37:28Z"
+    }
+  },
+  {
+    "hash": "fe0ac536ca37e2bf78bc6fc32c1ae4d55229177155a01eca5207de17b1f179c1",
+    "item": {
+      "title": "Show HN: OpenAnimation – KMP app for exploring and editing Lottie animations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074399\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/orispok/OpenAnimationApp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T13:18:53Z"
+    }
+  },
+  {
+    "hash": "4927110c7d727b893d375f4961362a5ce507b6fbf51f23a962b778574c93b974",
+    "item": {
+      "title": "Why did dlclose not unload the library? (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45034148\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kishoreganesh.com/post/why-dl-close-did-not-work/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T00:45:06Z"
+    }
+  },
+  {
+    "hash": "015a9a4cdb7013ff0fed78e68443640bda3bfd5621129905034c82085b19ae92",
+    "item": {
+      "title": "My Failures Onboarding at Splunk",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45032630\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://people-work.io/blog/my-failures-onboarding-at-splunk/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-26T21:38:35Z"
+    }
+  },
+  {
+    "hash": "b08f333465279f59a15d1a82e6970063a6cac41410270f73bd16095e05c175d7",
+    "item": {
+      "title": "FBI cyber cop: Salt Typhoon pwned 'nearly every American'",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074157\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-30T12:43:44Z"
+    }
+  },
+  {
+    "hash": "4abee601704491c69fd534d773bdb1b1e2e53bc91fcf429e00698ae9afbdf645",
+    "item": {
+      "title": "Grayscale Submits Polkadot and Cardano ETF Registration Forms to SEC",
+      "description": "\u003cp\u003eGrayscale Investments filed comprehensive S-1 registration forms with SEC for spot Polkadot and Cardano exchange-traded funds as Grayscale Cardano Trust ETF (GADA) and Grayscale Polkadot Trust ETF join crowded field of 92 pending crypto ETF applications currently awaiting regulatory review.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grayscale-submits-polkadot-and-cardano-etf-registration-forms-to-sec/\"\u003eGrayscale Submits Polkadot and Cardano ETF Registration Forms to SEC\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grayscale-submits-polkadot-and-cardano-etf-registration-forms-to-sec/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cardano",
+        "Grayscale ETF",
+        "Polkadot ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/30123917/1756557555-stock-image_optimized-42.jpg"
+      },
+      "published": "2025-08-30T14:07:11Z"
+    }
+  },
+  {
+    "hash": "61adc306972372c3008e026fa868b756d62d424fcb4424020a0442fbf95fbb39",
+    "item": {
+      "title": "Gryphon Digital Mining to Merge with Trump-Linked American Bitcoin",
+      "description": "\u003cp\u003eGryphon Digital Mining has secured shareholder approval to merge with American Bitcoin, a mining firm connected to the Trump family, in a stock-for-stock deal.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gryphon-digital-mining-to-merge-with-trump-linked-american-bitcoin/\"\u003eGryphon Digital Mining to Merge with Trump-Linked American Bitcoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gryphon-digital-mining-to-merge-with-trump-linked-american-bitcoin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Mining",
+        "Trump",
+        "Trump Family"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/30080717/1756541237-image-1756540994724_optimized.jpg"
+      },
+      "published": "2025-08-30T13:09:00Z"
+    }
   }
 ]
