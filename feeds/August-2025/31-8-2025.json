@@ -106,5 +106,70 @@
       "source": "Hacker News",
       "published": "2025-08-30T15:18:25Z"
     }
+  },
+  {
+    "hash": "456c58da1b15844477e678b12fbb3d18495907e58d73cdd15fc040a12dea6adf",
+    "item": {
+      "title": "Linux 6.17 Adds Support For Logitech G PRO 2 LIGHTSPEED, Wacom Art Pen 2 \u0026 More",
+      "description": "This week's round of HID subsystem \"fixes\" for the in-development Linux 6.17 kernel include adding a number of new device IDs and other alterations for supporting new hardware...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-HID-New-IDs"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-08-31T00:48:17Z"
+    }
+  },
+  {
+    "hash": "f14a71100b5ab1c3d42067ab46a1229e04835d6c4055613cb87b367fd4486acd",
+    "item": {
+      "title": "ETFs now hold more than $3.1T worth of just top US companies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45079532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.signalbloom.ai/etf/stats"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-31T01:31:07Z"
+    }
+  },
+  {
+    "hash": "73e2a01ff4e970eb2238ce0209b5e9228444da08b4e44cec21e9883349cb8308",
+    "item": {
+      "title": "Scottish brothers finish mammoth row across Pacific Ocean after 139 days",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45079365\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-31T00:51:24Z"
+    }
+  },
+  {
+    "hash": "24277e8648c37136a7f1f0241b7792c650931a433e4d97fb1a04eecfd69993a5",
+    "item": {
+      "title": "Running our Docker registry on-prem with Harbor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T12:10:31Z"
+    }
+  },
+  {
+    "hash": "e54a98a72b46872882fed8c428e0693242e626a58452e48f8f3d2492810094e2",
+    "item": {
+      "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45044525\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.philipzucker.com/compose_datalog/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-27T20:09:50Z"
+    }
   }
 ]
