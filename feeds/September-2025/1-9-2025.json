@@ -1582,5 +1582,896 @@
       },
       "published": "2025-09-01T09:42:04Z"
     }
+  },
+  {
+    "hash": "370d373cb279d12a42349bea65e11a12c93be78ff2cb3d49157c2cc8f395253d",
+    "item": {
+      "title": "⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App \u0026 More",
+      "description": "Cybersecurity today is less about single attacks and more about chains of small weaknesses that connect into big risks. One overlooked update, one misused account, or one hidden tool in the wrong hands can be enough to open the door.\nThe news this week shows how attackers are mixing methods—combining stolen access, unpatched software, and clever tricks to move from small entry points to large",
+      "links": [
+        "https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTU8zv9AntHOeJ5Cjh0EIyFRGF9muwzha8zjS9OZuitQeg0kLMk3rVctG9HsEZny7QWLcxmwSY2Ij0eSrMNPfR6NEDOamsbLlogO0fKZSswTNE1fg-YuWQD0AAuz5Dt6pQFIy_K2TvXNuAH6j14pvzfr2IXbP5yWcTI66X5JYB5LObhh6GLLtPGmIQrri/s1600/recap.jpg"
+      },
+      "published": "2025-09-01T13:02:00Z"
+    }
+  },
+  {
+    "hash": "5547a9fc325f3a09f7010f0c1785e55a6ca9eb4640ad6c5f082b989b4d1b19b5",
+    "item": {
+      "title": "When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider",
+      "description": "As enterprises continue to shift their operations to the browser, security teams face a growing set of cyber challenges. In fact, over 80% of security incidents now originate from web applications accessed via Chrome, Edge, Firefox, and other browsers. One particularly fast-evolving adversary, Scattered Spider, has made it their mission to wreak havoc on enterprises by specifically targeting",
+      "links": [
+        "https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsfKhvPWHRG3eGsuEkZbrjUvHliKeZW5NCrciwrtrWqh2EytMDEHRk6Dxf46KM8d3uMa7ov0D9vXSsLZgYgOZuRhNTUfHlWHdNvm6vsNFUR97fCzu0SJjHxDsgeEuvj3PPza5Ouvo3nJXmP0IVJU6GqgIoUjV22dckokvheFujkbyFv2kfLlExqvZ-MY/s1600/main.jpg"
+      },
+      "published": "2025-09-01T11:55:00Z"
+    }
+  },
+  {
+    "hash": "8ec16f6d6165ea8332b391b3e4862ea98a96f11aa579c31fc3368924563e4915",
+    "item": {
+      "title": "Security updates for Monday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (postgresql16, postgresql:16, python3.11, and thunderbird), \u003cb\u003eDebian\u003c/b\u003e (firebird4.0, libcommons-lang3-java, mbedtls, nodejs, openvpn, and ruby-saml), \u003cb\u003eFedora\u003c/b\u003e (cef, chromium, docker-buildx, exiv2, firefox, rocm-rpp, and udisks2), \u003cb\u003eOracle\u003c/b\u003e (postgresql:16), \u003cb\u003eRed Hat\u003c/b\u003e (fence-agents, firefox, gdk-pixbuf2, httpd, kernel, kernel-rt, libarchive, libxml2, multiple packages, postgresql, postgresql16, postgresql:15, postgresql:16, python3.11, python3.12, python39:3.9, and thunderbird), \u003cb\u003eSlackware\u003c/b\u003e (udisks2), \u003cb\u003eSUSE\u003c/b\u003e (go-sendxmpp, helm, ImageMagick, javamail, jq, kea, kernel, libarchive, libsoup, libssh, libxml2, openssl-3, postgresql14, postgresql15, python, python-future, systemd, and xz), and \u003cb\u003eUbuntu\u003c/b\u003e (open-vm-tools and python2.7).",
+      "links": [
+        "https://lwn.net/Articles/1036084/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-09-01T14:42:54Z"
+    }
+  },
+  {
+    "hash": "f48f3a127f53b9848dcba021abcc099d4ac58570209f1be5cd71d65d67f3f2ff",
+    "item": {
+      "title": "Kernel prepatch 6.17-rc4",
+      "description": "Linus has released \u003ca href=\"https://lwn.net/Articles/1036040/\"\u003e6.17-rc4\u003c/a\u003e for testing.\n\"\u003cq\u003eSo it all looks fairly good.\n\nPlease do keep testing, and we'll get 6.17 out in a timely manner and\nin good shape.\u003c/q\u003e\"",
+      "links": [
+        "https://lwn.net/Articles/1036041/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-09-01T13:29:51Z"
+    }
+  },
+  {
+    "hash": "1fab1a3c06ab559609465e50a28f4e9a8a1ad3ef6bc88de19a53b8bd34210ede",
+    "item": {
+      "title": "Pi Coin Market Sentiment Turns Sour with Sharp Volume Decline",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Pi-price-analysis1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pi Coin Market Sentiment Turns Sour with Sharp Volume Decline\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Pi-price-analysis1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Pi-price-analysis1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Pi-price-analysis1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePi Network (PI) is under heavy bearish pressure as its price keeps falling downwards, and recent market data is raising alarm among investors. As per CMC data, the digital asset has fallen by 10% in the last 24 hours, and the trading volume has dropped by 44%, indicating that the",
+      "links": [
+        "https://thenewscrypto.com/pi-coin-market-sentiment-turns-sour-with-sharp-volume-decline/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Pi",
+        "pi coin",
+        "Pi Network"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Pi-price-analysis1.jpg"
+      },
+      "published": "2025-09-01T09:41:44Z"
+    }
+  },
+  {
+    "hash": "b0ba866992cfc0b8491f7aa2c360d41038550971f601ffd204e89388275cf2f7",
+    "item": {
+      "title": "‘XRP Seoul 2025’ Set for Sept. 21 at Seoul; Participants Include Ripple, Spartan Group and Nature’s Miracle",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"423\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001.jpg 752w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-376x212.jpg 376w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eSeoul will host “XRP Seoul 2025,” Asia’s largest XRP and Web3 conference, next month, underscoring South Korea’s growing importance in the global digital asset industry. “XRP Seoul 2025” is set for Sept. 21 at the COEX Auditorium in Gangnam, organized by XRPL Korea, a community supporting the expansion of the",
+      "links": [
+        "https://thenewscrypto.com/xrp-seoul-2025-set-for-sept-21-at-seoul-participants-include-ripple-spartan-group-and-natures-miracle/"
+      ],
+      "categories": [
+        "Press Release",
+        "XRP Seoul 2025"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001.jpg"
+      },
+      "published": "2025-09-01T09:17:58Z"
+    }
+  },
+  {
+    "hash": "077f2e9e68204e1826069e7cc0b53be4c81559a155cb02c89d61348822de43dd",
+    "item": {
+      "title": "EcoSync \u0026 CarbonCore Launch Full Stages Refi Infrastructure Linking Carbon Credits With Web3",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/photo_2025-08-24_17-05-28_1_1756044650VuWTXNoIVM.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/photo_2025-08-24_17-05-28_1_1756044650VuWTXNoIVM.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/09/photo_2025-08-24_17-05-28_1_1756044650VuWTXNoIVM-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/photo_2025-08-24_17-05-28_1_1756044650VuWTXNoIVM-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/photo_2025-08-24_17-05-28_1_1756044650VuWTXNoIVM-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eSingapore, Singapore, 1st September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/ecosync-carboncore-launch-full-stages-refi-infrastructure-linking-carbon-credits-with-web3/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/photo_2025-08-24_17-05-28_1_1756044650VuWTXNoIVM.jpg"
+      },
+      "published": "2025-09-01T08:29:16Z"
+    }
+  },
+  {
+    "hash": "a9214580eb113333efda51087d96adf5ea79974959c453bcd3119c253098ff08",
+    "item": {
+      "title": "WorldShards announces partnership with ByBit and TGE date",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"668\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/WS_banner_PR_HQ-1280_1756395526yZ7fgBdErn.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/WS_banner_PR_HQ-1280_1756395526yZ7fgBdErn.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/09/WS_banner_PR_HQ-1280_1756395526yZ7fgBdErn-300x157.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/WS_banner_PR_HQ-1280_1756395526yZ7fgBdErn-1024x534.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/WS_banner_PR_HQ-1280_1756395526yZ7fgBdErn-768x401.jpg 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eAbu Dhabi, UAE, 1st September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/worldshards-announces-partnership-with-bybit-and-tge-date/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/WS_banner_PR_HQ-1280_1756395526yZ7fgBdErn.jpg"
+      },
+      "published": "2025-09-01T08:05:03Z"
+    }
+  },
+  {
+    "hash": "44d523f1854dcbb847e91513aecc41361adeb9fe9a97c1c3f1b6ae70e04cc835",
+    "item": {
+      "title": "Making the World’s Smallest E-Bike Battery",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"811932\" data-permalink=\"https://hackaday.com/2025/09/01/making-the-worlds-smallest-e-bike-battery/bermacell-featured-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Bermacell-Featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg?w=800\" /\u003e\u003c/div\u003eOften times, e-bikes seek to build the biggest battery with the most range. But what if you want to take a couple lunch loops on your bike and only need \u003ca href=\"https://hackaday.com/2025/09/01/making-the-worlds-smallest-e-bike-battery/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/01/making-the-worlds-smallest-e-bike-battery/"
+      ],
+      "categories": [
+        "Transportation Hacks",
+        "18650 battery",
+        "bicycle",
+        "e-bike",
+        "ebike",
+        "lithium battery",
+        "lithium ion",
+        "mountain bike"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Fenix Guthrie"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/Bermacell-Featured.jpg"
+      },
+      "published": "2025-09-01T14:00:00Z"
+    }
+  },
+  {
+    "hash": "76a5f05df96c73a2de3a15fc012527d7fcc21457d56a80df926bb65c76f9d805",
+    "item": {
+      "title": "Worlds Largest Neutrino Detector Is Collecting Data In China",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A worker inspects JUNO\u0026#039;s acrylic sphere under the watching eye of PMTs\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg 1270w, https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"811102\" data-permalink=\"https://hackaday.com/2025/09/01/worlds-largest-neutrino-detector-is-collecting-data-in-china/juno-sphere/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg\" data-orig-size=\"1270,715\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"JUNO-sphere\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg?w=800\" /\u003e\u003c/div\u003eTo say that neutrinos aren\u0026#8217;t the easiest particles to study would be a bit of an understatement. Outside of dark matter, there\u0026#8217;s not much in particle physics that is as \u003ca href=\"https://hackaday.com/2025/09/01/worlds-largest-neutrino-detector-is-collecting-data-in-china/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/01/worlds-largest-neutrino-detector-is-collecting-data-in-china/"
+      ],
+      "categories": [
+        "News",
+        "Science",
+        "neutrinos",
+        "particle physics"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/JUNO-sphere-e1756577847436.jpg"
+      },
+      "published": "2025-09-01T11:00:43Z"
+    }
+  },
+  {
+    "hash": "dec0d58c8d06738eca7a7c1c07168f490fecb093fa316a71beec1fe879f96631",
+    "item": {
+      "title": "NASA Seeks Volunteers to Track Artemis II Mission",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg 3000w, https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"550583\" data-permalink=\"https://hackaday.com/artemisrocket/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"ArtemisRocket\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg?w=800\" /\u003e\u003c/div\u003eAs NASA\u0026#8217;s Artemis program trundles onwards at the blazing pace of a disused and very rusty crawler-transporter, the next mission on the list is gradually coming into focus. This will \u003ca href=\"https://hackaday.com/2025/09/01/nasa-seeks-volunteers-to-track-artemis-ii-mission/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/01/nasa-seeks-volunteers-to-track-artemis-ii-mission/"
+      ],
+      "categories": [
+        "Space",
+        "artemis program",
+        "nasa"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2022/08/ArtemisRocket.jpg"
+      },
+      "published": "2025-09-01T08:00:00Z"
+    }
+  },
+  {
+    "hash": "834efd93e754808b55a54e6d029597d3eaeb5dc6ef6faa040cebd081bb923848",
+    "item": {
+      "title": "The Challenges of Digitizing Paper Films",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"In the center of the picture is a colored drawing of a man wearing a kimono, climbing out of a window. To the left and right the sides of two other pictures are just visible.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png 1950w, https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?resize=1536,863 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"811252\" data-permalink=\"https://hackaday.com/2025/08/31/the-challenges-of-digitizing-paper-films/kami_firumu_digitized/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png\" data-orig-size=\"1950,1096\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"kami_firumu_digitized\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png?w=800\" /\u003e\u003c/div\u003eIn the 1930s, as an alternative to celluloid, some Japanese companies printed films on paper (kami firumu), often in color and with synchronized 78 rpm record soundtracks. Unfortunately, between the \u003ca href=\"https://hackaday.com/2025/08/31/the-challenges-of-digitizing-paper-films/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/31/the-challenges-of-digitizing-paper-films/"
+      ],
+      "categories": [
+        "Video Hacks",
+        "film scanner",
+        "film scanning",
+        "paper",
+        "scanning"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/kami_firumu_digitized.png"
+      },
+      "published": "2025-09-01T05:00:46Z"
+    }
+  },
+  {
+    "hash": "ac77678d6c9d5ecc8173d6eaf723e09f6f3f5f74c27c986543403504b658ea65",
+    "item": {
+      "title": "Microsoft Removed WMR Headset Support? No Problem!",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png 2204w, https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?resize=2048,1152 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"810845\" data-permalink=\"https://hackaday.com/2025/08/31/microsoft-removed-wmr-headset-support-no-problem/oasis-wmr-driver/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png\" data-orig-size=\"2204,1240\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"OASIS WMR driver\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png?w=800\" /\u003e\u003c/div\u003eIn late 2024 Microsoft removed support for WMR (Windows Mixed Reality), and they didn\u0026#8217;t just cease development. As of Windows 11 version 24H2, headsets like the HP Reverb and others \u003ca href=\"https://hackaday.com/2025/08/31/microsoft-removed-wmr-headset-support-no-problem/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/31/microsoft-removed-wmr-headset-support-no-problem/"
+      ],
+      "categories": [
+        "Virtual Reality",
+        "steam",
+        "vr",
+        "Windows Mixed Reality",
+        "WMR",
+        "XR"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/OASIS-WMR-driver.png"
+      },
+      "published": "2025-09-01T02:00:49Z"
+    }
+  },
+  {
+    "hash": "fb50031468a58b499613510aae662391b1011ad8e4b8c36db976bab9fd281bfd",
+    "item": {
+      "title": "Hackaday Links: August 31, 2025",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Hackaday Links Column Banner\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg 800w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=250,134 250w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=400,215 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"137037\" data-permalink=\"https://hackaday.com/2014/11/09/hackaday-links-november-9-2014/had-links-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg\" data-orig-size=\"800,430\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Hackaday Links\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" /\u003e\u003c/div\u003eBack in March, we covered the story of Davis Lu, a disgruntled coder who programmed a logic bomb into his employers\u0026#8217; systems. His code was malicious in the extreme, designed \u003ca href=\"https://hackaday.com/2025/08/31/hackaday-links-august-31-2025/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/31/hackaday-links-august-31-2025/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Hackaday links",
+        "Slider",
+        "assembly line",
+        "Chris Boden",
+        "dumpster diving",
+        "federal prison",
+        "floppy disk",
+        "ford",
+        "hackaday links",
+        "killswitch",
+        "logic bomb",
+        "model t",
+        "ssd",
+        "usb drive"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+      },
+      "published": "2025-08-31T23:00:38Z"
+    }
+  },
+  {
+    "hash": "825b458efadcedae734bb7ddf0c6bedb9d0efa988dfee789b3b4f0e19ff6c578",
+    "item": {
+      "title": "Lightning Talks On Time, With This Device",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"811174\" data-permalink=\"https://hackaday.com/2025/08/31/lightning-talks-on-time-with-this-device/talk-timer-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"talk-timer-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg?w=800\" /\u003e\u003c/div\u003eAsk a Hackaday scribe who\u0026#8217;s helped run the lightning talks at one of our events, and they\u0026#8217;ll tell you that keeping the speakers on time is a challenge. Conversely if \u003ca href=\"https://hackaday.com/2025/08/31/lightning-talks-on-time-with-this-device/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/08/31/lightning-talks-on-time-with-this-device/"
+      ],
+      "categories": [
+        "clock hacks",
+        "talk timer",
+        "timer"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/08/talk-timer-featured.jpg"
+      },
+      "published": "2025-08-31T20:00:41Z"
+    }
+  },
+  {
+    "hash": "7c270be6449e413de6b6d3ca0dc61a6026c70101ff0ae307209bc4a7789fd8d7",
+    "item": {
+      "title": "Cloudflare Radar: AI Insights",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45093090\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://radar.cloudflare.com/ai-insights"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T14:49:25Z"
+    }
+  },
+  {
+    "hash": "3ccc355e1f9e06251f0871e6bf3f9428c7a8f05b93af423c3173d9166eaed0c0",
+    "item": {
+      "title": "Making Minecraft Spherical",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45055205\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bowerbyte.com/posts/blocky-planet/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-28T18:12:34Z"
+    }
+  },
+  {
+    "hash": "03d765a6cfc341bb958b1ff3e16b13d6568ecac69fe51d7925dcb42bc63a3b76",
+    "item": {
+      "title": "Bear is now source-available",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092490\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://herman.bearblog.dev/license/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T13:17:56Z"
+    }
+  },
+  {
+    "hash": "e5ac6d37ceb5f93cc1b6e0e38a4dbd5794306fb0895ddeab31395c888b49e0bd",
+    "item": {
+      "title": "Preserving Order in Concurrent Go Apps: Three Approaches Compared",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45089938\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://destel.dev/blog/preserving-order-in-concurrent-go"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T06:14:31Z"
+    }
+  },
+  {
+    "hash": "0d608eff45f495ad50b7ea1b97623565c368d6708f5cd846b699248435a4de7e",
+    "item": {
+      "title": "Git for Music – Using Version Control for Music Production (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://grechin.org/2023/05/06/git-and-reaper.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T14:23:09Z"
+    }
+  },
+  {
+    "hash": "46a82f45d0b5d5c3a1ae273f8bd6d1a0fbd6f5e654a21c61c734c297e2dfe5c9",
+    "item": {
+      "title": "Show HN: Simple modenized .NET NuGet server reached RC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092734\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/kekyo/nuget-server"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T14:00:26Z"
+    }
+  },
+  {
+    "hash": "5ad15c7772ccb2c74456679ae232b1db85ebab7c93565e479441ebc4372c072b",
+    "item": {
+      "title": "\"Turns out Google made up an elaborate story about me\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092925\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T14:27:17Z"
+    }
+  },
+  {
+    "hash": "301c517026c018ed8c14a143c2c82c3576c6faf1d598c0a9265dc95a8112d503",
+    "item": {
+      "title": "UK's largest battery storage facility at Tilbury substation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45091119\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T09:40:47Z"
+    }
+  },
+  {
+    "hash": "3e3d4afcd3b40e910377b02b567c6699d95eb9cc4bc3698583661d3c30c7be08",
+    "item": {
+      "title": "Tetris is NP-hard even with O(1) rows or columns [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092324\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T12:49:57Z"
+    }
+  },
+  {
+    "hash": "a7038932e8ba9e91420c41f9722de750eaebcd80686832d859ced7eb4e6ec7d8",
+    "item": {
+      "title": "Bash Prompts Collection",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45053555\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.gilesorr.com/bashprompt/prompts/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-28T15:38:21Z"
+    }
+  },
+  {
+    "hash": "e481a705e8d6f21ff5bbe19149ccd9b32dd60990be678f7a6a93756788005f0c",
+    "item": {
+      "title": "Zfsbackrest: Pgbackrest style encrypted backups for ZFS filesystems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092605\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/gargakshit/zfsbackrest"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T13:35:52Z"
+    }
+  },
+  {
+    "hash": "81b5d02e8ab803a74392ac6a18a4876ffaf96d9ac0c89d3b4639ee5033f98080",
+    "item": {
+      "title": "India's billion-dollar e-waste empire",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45061376\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://restofworld.org/2025/india-e-waste-recycling-electronics/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-29T07:52:54Z"
+    }
+  },
+  {
+    "hash": "b13a5903871c503fd1b203049fbcfb6c9a74bb9316703c526a586be27ef78ba6",
+    "item": {
+      "title": "Trade in War",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45053029\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.mit.edu/2025/why-countries-trade-each-other-while-fighting-mariya-grinberg-book-0828"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-28T14:58:28Z"
+    }
+  },
+  {
+    "hash": "aab0b944758a4ce15b0149b59ba8e276ef50f549463d3fef46909226c085382d",
+    "item": {
+      "title": "Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45090216\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hi.telli.com/join-us"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T07:01:13Z"
+    }
+  },
+  {
+    "hash": "25f9ca508dc0c5b55506874d59f3e45117b9e13149da8b068f38a2c08b52ccf3",
+    "item": {
+      "title": "Chronicle – Idiomatic, type safe event sourcing framework for Go",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45054202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/DeluxeOwl/chronicle"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-28T16:37:02Z"
+    }
+  },
+  {
+    "hash": "9d7475d11ed9e876c5a243e853d57c4b7896bc26433608a9c25dd4c539df8f16",
+    "item": {
+      "title": "De-Googling TOTP Authenticator Codes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45091202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://imrannazar.com/articles/degoogle-otp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T09:52:03Z"
+    }
+  },
+  {
+    "hash": "744fb5c868421fd21cd5ab548df796f30518c4cacda5ec86a56e0c14fa0093cc",
+    "item": {
+      "title": "Ask HN: Do custom ROMs exist for electric cars, for example Teslas?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092204\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45092204"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-01T12:29:37Z"
+    }
+  },
+  {
+    "hash": "2d21b3ed5c48a49c92759ec92ab69241f25f5fee13bb06e68202d8f4b2525492",
+    "item": {
+      "title": "Linux's exFAT File-System Driver Optimization Leads To 16.5x Speedup For Loading Time",
+      "description": "A patch queued up into the Linux exFAT driver's development tree optimizes the allocation bitmap loading time. For cases of small cluster sizes on large partitions this can yield around 16x faster loading times...",
+      "links": [
+        "https://www.phoronix.com/news/exFAT-Optimize-Bitmap-Loading"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-01T14:20:09Z"
+    }
+  },
+  {
+    "hash": "e8af1c914a850d059572e89732c7eb475e38d259eff18b18c5b09c658e24b751",
+    "item": {
+      "title": "Redox OS Gets COSMIC Reader Working, Other Improvements To This Rust OS",
+      "description": "The open-source Redox OS operating system project written in the Rust programming language is out with its status update covering August 2025...",
+      "links": [
+        "https://www.phoronix.com/news/Redox-OS-August-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-01T13:45:21Z"
+    }
+  },
+  {
+    "hash": "284c76bd77170ba60a0ee93e10371d303b8903bad7121cea59ae0a0834cf4055",
+    "item": {
+      "title": "Dogecoin Price Prediction: Trader Says DOGE God Candle Is Overdue – Could This Be the Last Chance Under $1?",
+      "description": "\u003cp\u003eA popular trader shared a bullish Dogecoin price prediction that anticipates an explosive upward move at any point now after a descending triangle breakout was confirmed in a key chart.CryptoKaleo, a crypto analyst whose X account is followed by over 700,000 users, posted a DOGE/BTC chart that shows how the price action reversed its downtrend [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-trader-says-doge-god-candle-is-overdue-could-this-be-the-last-chance-under-1/\"\u003eDogecoin Price Prediction: Trader Says DOGE God Candle Is Overdue – Could This Be the Last Chance Under $1?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-trader-says-doge-god-candle-is-overdue-could-this-be-the-last-chance-under-1/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01114925/1756727364-dogecoin-price-prediction.jpg"
+      },
+      "published": "2025-09-01T14:51:16Z"
+    }
+  },
+  {
+    "hash": "0b37767ee9a595f30f7061594549522a48975bb0c271bdf09aa840cbe0aed63a",
+    "item": {
+      "title": "Bitcoin Price Prediction: Retail and Institutions Stacking Like It’s 2020 – $250K BTC Could Be Just Weeks Away",
+      "description": "\u003cp\u003eBitcoin nears $109K as retail and institutional buyers stack BTC at 2020-like levels. Could $250K be within weeks? Explore the outlook and technical setup.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-retail-and-institutions-stacking-like-its-2020-250k-btc-could-be-just-weeks-away/\"\u003eBitcoin Price Prediction: Retail and Institutions Stacking Like It’s 2020 – $250K BTC Could Be Just Weeks Away\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-retail-and-institutions-stacking-like-its-2020-250k-btc-could-be-just-weeks-away/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01143404/1756737244-bitcoin-price-prediction-13.jpg"
+      },
+      "published": "2025-09-01T14:38:21Z"
+    }
+  },
+  {
+    "hash": "a8ac62e37a613038cbfda3c58932d36f163739c682dbdb52045b2f59f63cafab",
+    "item": {
+      "title": "Bitcoin Cash Price Prediction: Tether Cancels Shutdown on BCH Chain – Big Updates Coming Soon?",
+      "description": "\u003cp\u003eTether has confirmed it won't be freezing USDT on the Bitcoin Cash blockchain: how bullish is this for the Bitcoin Cash price prediction?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-cash-price-prediction-tether-cancels-shutdown-on-bch-chain-big-updates-coming-soon/\"\u003eBitcoin Cash Price Prediction: Tether Cancels Shutdown on BCH Chain – Big Updates Coming Soon?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-cash-price-prediction-tether-cancels-shutdown-on-bch-chain-big-updates-coming-soon/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin Cash",
+        "Price Prediction",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01134950/1756734589-bitcoin-cash-price-prediction.jpg"
+      },
+      "published": "2025-09-01T14:25:45Z"
+    }
+  },
+  {
+    "hash": "8074be1f388cd2abdd96eec5a882b3089d719cec984ba3ae21c35a469f3fd7c1",
+    "item": {
+      "title": "XRP Price Prediction: Expectations of a Fed Rate Cut Could Push Ripple’s Price Up by $10. Insiders Recommend Findmining’s XRP Contracts",
+      "description": "\u003cp\u003eCloud mining platform FindMining has announced the launch of the world's first high-yield XRP contract service. Users don't need expensive mining equipment or specialized technical knowledge to use it.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-price-prediction-expectations-of-a-fed-rate-cut-could-push-ripples-price-up-by-10-coinbase-recommends-findminings-xrp-contracts/\"\u003eXRP Price Prediction: Expectations of a Fed Rate Cut Could Push Ripple\u0026#8217;s Price Up by $10. Insiders Recommend Findmining\u0026#8217;s XRP Contracts\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-price-prediction-expectations-of-a-fed-rate-cut-could-push-ripples-price-up-by-10-coinbase-recommends-findminings-xrp-contracts/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01134622/1756734382-findmining.jpg"
+      },
+      "published": "2025-09-01T14:00:27Z"
+    }
+  },
+  {
+    "hash": "0094c151bcd5c0dc61d681027382e62763f48946155c15209340d531f5f383ba",
+    "item": {
+      "title": "Ethereum Co-Founder Joe Lubin Predicts 100x ETH Rally as Wall Street Adopts DeFi",
+      "description": "\u003cp\u003eEthereum co-founder Joseph Lubin predicts a 100x ETH rally over time as the second-largest cryptocurrency emerges as Wall Street\u0026#8217;s preferred token in the transition from TradFi to DeFi.In an August 30 X post, the Ethereum co-founder, who is also the founder of OG blockchain software company Consensys, said that ETH will likely 100x from here [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-co-founder-joe-lubin-predicts-100x-eth-rally-as-wall-street-adopts-defi/\"\u003eEthereum Co-Founder Joe Lubin Predicts 100x ETH Rally as Wall Street Adopts DeFi\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-co-founder-joe-lubin-predicts-100x-eth-rally-as-wall-street-adopts-defi/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Adoption",
+        "Altcoins",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01132701/1756733220-stock-image_optimized-2025-09-01t142630-950.jpg"
+      },
+      "published": "2025-09-01T13:52:12Z"
+    }
+  },
+  {
+    "hash": "c1226febc3bbae7add148f2cd2dc99c88c1f247e983eb92cd60c77cdbec216be",
+    "item": {
+      "title": "Sol Mining Launches SOL Contract, Automatically Sending Solana Daily",
+      "description": "\u003cp\u003eSol Mining, meanwhile, has launched cloud mining contracts that support SOL payments, allowing SOL holders and cryptocurrency users worldwide to participate in automated mining.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/sol-mining-launches-sol-contract-automatically-sending-solana-daily/\"\u003eSol Mining Launches SOL Contract, Automatically Sending Solana Daily\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/sol-mining-launches-sol-contract-automatically-sending-solana-daily/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01124852/1756730931-sol-mining.jpg"
+      },
+      "published": "2025-09-01T13:18:13Z"
+    }
+  },
+  {
+    "hash": "d7f46d2a091465b3bacf554309937526294574ce863737770d5bf18234abf2d0",
+    "item": {
+      "title": "Coinbase, OKX Unlock Australia’s $2.8 Trillion Pension Pot for Crypto — Bloomberg",
+      "description": "\u003cp\u003eCoinbase and OKX are making a push into Australia's A$4.3 trillion ($2.8 trillion) retirement savings market by offering products tailored for self-managed superannuation funds (SMSFs).\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-okx-unlock-australias-2-8-trillion-pension-pot-for-crypto-bloomberg/\"\u003eCoinbase, OKX Unlock Australia’s $2.8 Trillion Pension Pot for Crypto — Bloomberg\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-okx-unlock-australias-2-8-trillion-pension-pot-for-crypto-bloomberg/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Australia",
+        "Coinbase",
+        "OKX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01091347/1756718026-0_1-1_optimized.jpg"
+      },
+      "published": "2025-09-01T12:59:38Z"
+    }
+  },
+  {
+    "hash": "881252c62cb8c3fa075fb6fb046c13523a7a7828db01aed411ee9cb3e5ae1795",
+    "item": {
+      "title": "Major UAE Real Estate Developer RAK Properties to Accept Crypto Payments",
+      "description": "\u003cp\u003eRAK Properties, one of Ras Al Khaimah’s top real estate developers, has teamed up with UAE fintech firm Hubpay to enable property purchases using digital assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/major-uae-real-estate-developer-rak-properties-to-accept-crypto-payments/\"\u003eMajor UAE Real Estate Developer RAK Properties to Accept Crypto Payments\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/major-uae-real-estate-developer-rak-properties-to-accept-crypto-payments/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Crypto Payment",
+        "UAE"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01125004/1756731003-image-1756730985190_optimized.jpg"
+      },
+      "published": "2025-09-01T12:57:40Z"
+    }
+  },
+  {
+    "hash": "6a55bd519e00990c9ac69686393a96279f652b8dcb1182ccbc2fc24adce6c15e",
+    "item": {
+      "title": "Raoul Pal Predicts 4 Billion Crypto Users by 2030, $100T Market Cap — Is It Realistic?",
+      "description": "\u003cp\u003eRaoul Pal, former Goldman Sachs executive and Real Vision co-founder, claims crypto adoption could reach 4B users by 2030 driving market capitalization to $100T as he argues crypto wallets are expanding at twice the rate of internet IP addresses during 1990s, though prediction would require crypto to jump from today's $4T market cap powered by adoption and monetary debasement forces.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/raoul-pal-predicts-4-billion-crypto-users-by-2030-100t-market-cap-is-it-realistic/\"\u003eRaoul Pal Predicts 4 Billion Crypto Users by 2030, $100T Market Cap — Is It Realistic?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/raoul-pal-predicts-4-billion-crypto-users-by-2030-100t-market-cap-is-it-realistic/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Market",
+        "stablecoin market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01103336/1756722816-image-1756722752527_optimized.jpg"
+      },
+      "published": "2025-09-01T12:56:57Z"
+    }
+  },
+  {
+    "hash": "8ac0e4cb09e09f912ea90506097333e3ffc7f494f8e1fa9ae83ab53c9cebd436",
+    "item": {
+      "title": "Bitcoin ETFs Bleed $126.7M in First Weekly Outflows Since June — Is “Rektember” Imminent?",
+      "description": "\u003cp\u003eU.S. spot Bitcoin ETFs recorded their first weekly outflows since June, with $126.7M leaving the funds as talk of “Rektember,” a month that has often coincided with Bitcoin weakness, revives.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-etfs-bleed-126-7m-in-first-weekly-outflows-since-june-is-rektember-imminent/\"\u003eBitcoin ETFs Bleed $126.7M in First Weekly Outflows Since June — Is “Rektember” Imminent?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-etfs-bleed-126-7m-in-first-weekly-outflows-since-june-is-rektember-imminent/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin ETFs",
+        "Bitcoin Spot ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/01084752/1756716471-5def14f1-7a07-4f73-965c-392229e7bec3_optimized.jpg"
+      },
+      "published": "2025-09-01T12:55:00Z"
+    }
+  },
+  {
+    "hash": "4485e71a9ceeec8a759a810be589d392227f56bb2fe1153fee6e875bffdef067",
+    "item": {
+      "title": "[LIVE] Trump-Backed World Liberty Financial to Unlock 27B Tokens at Launch – Can WLFI Overtake Bitcoin?",
+      "description": "\u003cp\u003eThe highly anticipated launch of World Liberty Financial (WLFI), a project associated with U.S. President Donald Trump’s crypto push, is set to surprise markets with a much larger circulating supply than many analysts expected.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-backed-wlfi-to-unlock-27b-tokens-at-launch-much-higher-than-expected/\"\u003e[LIVE] Trump-Backed World Liberty Financial to Unlock 27B Tokens at Launch – Can WLFI Overtake Bitcoin?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-backed-wlfi-to-unlock-27b-tokens-at-launch-much-higher-than-expected/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "COINMARKETCAP",
+        "Trump",
+        "WLFI Tokens"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/17031531/1752722130-trumpz_optimized.jpg"
+      },
+      "published": "2025-09-01T11:45:14Z"
+    }
   }
 ]
