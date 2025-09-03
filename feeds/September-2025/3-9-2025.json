@@ -3117,5 +3117,782 @@
       },
       "published": "2025-09-03T10:40:09Z"
     }
+  },
+  {
+    "hash": "fe4d158b594f2d16840844a481978d3a29f8b6161a5b4ce5d8b5b7354f94aba5",
+    "item": {
+      "title": "Claude Code: Now in Beta in Zed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zed.dev/blog/claude-code-via-acp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T15:07:20Z"
+    }
+  },
+  {
+    "hash": "f646ed63386f43f881361e706fb743d2ec69261f9c0ee7dac085c50c00c91a45",
+    "item": {
+      "title": "Nuclear: Desktop music player focused on streaming from free sources",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45117230\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/nukeop/nuclear"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T15:54:12Z"
+    }
+  },
+  {
+    "hash": "386dbf54b7b5756270fb853169c13c7cc578208991601a19db750b59795ffecf",
+    "item": {
+      "title": "Who Owns, Operates, and Develops Your VPN Matters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45117974\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T16:51:05Z"
+    }
+  },
+  {
+    "hash": "cefcf70a2bc409984c5bf9a02939c259d5d2bc2fe148607a25c344098a648503",
+    "item": {
+      "title": "Microsoft Releases Historic 6502 Basic",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118392\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/microsoft/BASIC-M6502"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T17:28:32Z"
+    }
+  },
+  {
+    "hash": "c9d45a82be4f86f354f9d9e5f624d15c03b734a93537f3dd420584206f174b06",
+    "item": {
+      "title": "Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118111\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gimletlabs.ai/blog/ai-generated-metal-kernels"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T17:03:35Z"
+    }
+  },
+  {
+    "hash": "144ce9d66be00db2c44cc917d3208b61c7741aeb48a00d1b7429ba05aed9d7c1",
+    "item": {
+      "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114245\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://microsoft.github.io/VibeVoice/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T10:44:01Z"
+    }
+  },
+  {
+    "hash": "110b283989c2c253c114940cf7151df906509c0d5ef78afef16b38b6ddc8e749",
+    "item": {
+      "title": "Writing a C compiler in 500 lines of Python",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45117668\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vgel.me/posts/c500/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T16:28:23Z"
+    }
+  },
+  {
+    "hash": "384fa86064860537509d1a0458f09ac3692bae26d0723514bd8796d1ebacdba8",
+    "item": {
+      "title": "Svix (webhooks as a service) is hiring for a founding marketing lead",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118072\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T17:00:04Z"
+    }
+  },
+  {
+    "hash": "910e1a4d46ab7784cc999d47fd83a70683c2c85fee77272aeb6ab0a7f58433d8",
+    "item": {
+      "title": "A Random Walk in 10 Dimensions (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116849\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T15:20:34Z"
+    }
+  },
+  {
+    "hash": "8c377c31e2f51c72992954937a3c6cb5d1ca23660b0d0b77feea050b458fb22f",
+    "item": {
+      "title": "Understanding Transformers Using a Minimal Example",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116957\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rti.github.io/gptvis/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T15:30:06Z"
+    }
+  },
+  {
+    "hash": "b62de603463d831fea960e3a581b45172806230774f2386c7d78591f5f02156b",
+    "item": {
+      "title": "Launch HN: Risely (YC S25) – AI Agents for Universities",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116859\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45116859"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T15:21:35Z"
+    }
+  },
+  {
+    "hash": "4da586e4cda6f12252f956e64b514b1bd2a15ead02b5b9ea72f09b1e7959c2f9",
+    "item": {
+      "title": "The wall confronting large language models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2507.19703"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T11:40:41Z"
+    }
+  },
+  {
+    "hash": "53cb4dfaf77eab778039df2a56da76e98c01714eb14ef36a0f348c094744a15c",
+    "item": {
+      "title": "What Is It Like to Be a Bat?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118592\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T17:48:27Z"
+    }
+  },
+  {
+    "hash": "2ce3809f6db1a826c06cb65e4c6e596febc81fca01eaaee27ddd6fec6e6fa1ac",
+    "item": {
+      "title": "Poor man's bitemporal data system in SQLite and Clojure",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118585\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T17:47:50Z"
+    }
+  },
+  {
+    "hash": "463f4b09d66ab5715a5ebef82c3179c0d28fe15dc1f016c654cebbbb1b8ba254",
+    "item": {
+      "title": "Ask HN: Looking for Headless CMS Recommendation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45081752\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45081752"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-31T09:19:52Z"
+    }
+  },
+  {
+    "hash": "fde65518144443a1df8e79cc346c05a529bfa58e3f4bf0f87e42ee81beb52f90",
+    "item": {
+      "title": "Vector search on our codebase transformed our SDLC automation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45103205\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-02T13:58:27Z"
+    }
+  },
+  {
+    "hash": "e97adfc7f3a814999ac60a2119b486ff6ff5e49d7a1951ff5ac63218f6c34bf1",
+    "item": {
+      "title": "This Page Is a Quine (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45081904\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pranavg.me/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-31T09:52:26Z"
+    }
+  },
+  {
+    "hash": "e34f0d82bdc15c9b6db47f038e502eee68c0bb727d66d74dd992b1f6bc8bb87e",
+    "item": {
+      "title": "Glow-in-the-dark houseplants shine in rainbow of colours",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45083053\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/d41586-025-02740-2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-08-31T13:34:36Z"
+    }
+  },
+  {
+    "hash": "ad7cb7c574a301d53c99f8a377b5a379ffc42cd48d85d44e35e7ee1eb6b211dd",
+    "item": {
+      "title": "Court reinstates fired FTC Democrat, says Trump ignored Supreme Court precedent",
+      "description": "Trump admin \"has no likelihood of success on appeal,\" appeals court finds.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/trump-cant-fire-ftc-commissioners-just-because-he-wants-to-judges-rule/"
+      ],
+      "categories": [
+        "Policy",
+        "Rebecca Kelly Slaughter",
+        "trump ftc"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/bedoya-and-slaughter-1152x648-1742403699.jpg"
+      },
+      "published": "2025-09-03T17:05:00Z"
+    }
+  },
+  {
+    "hash": "ff554d394a86e09845c1a42b69554d0dd23c4edf8c90c09360187bbddd57f4b0",
+    "item": {
+      "title": "Audi design finds its minimalist groove again with Concept C",
+      "description": "The electric two-seater has been greenlit for production.",
+      "links": [
+        "https://arstechnica.com/cars/2025/09/audi-design-finds-its-minimalist-groove-again-with-concept-c/"
+      ],
+      "categories": [
+        "Cars",
+        "Audi Concept C",
+        "Audi TT",
+        "concept car"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Original-15425-a251455-large-1152x648.jpg"
+      },
+      "published": "2025-09-03T15:11:17Z"
+    }
+  },
+  {
+    "hash": "35b818f670982c9befa18a3f7692f6fb12cca0ed87c6edd52e1fccae0b39575c",
+    "item": {
+      "title": "reMarkable’s newest E-Ink writing tablet is a 7.3-inch, $449 handheld slab",
+      "description": "New device stays laser-focused on the writing experience, for better or worse.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/remarkables-newest-e-inkwriting-tablet-is-a-7-3-inch-449-handheld-slab/"
+      ],
+      "categories": [
+        "Tech",
+        "reMarkable",
+        "remarkable paper pro",
+        "remarkable paper pro move"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/remarkable-paper-pro-move-1152x648.jpg"
+      },
+      "published": "2025-09-03T14:19:13Z"
+    }
+  },
+  {
+    "hash": "6a5d28a8e0ee4f1f0e61308d717f8991bff9693892e83e672de34767f51c6e66",
+    "item": {
+      "title": "Ozak AI’s $0.01 Presale Presents Massive Upside for Investors Brave Enough to Buy When Fear Dominates the Market",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-5.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ozak AI’s $0.01 Presale Presents Massive Upside for Investors Brave Enough to Buy When Fear Dominates the Market\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-5.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-5-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eOzak AI has attracted attention with its $0.01 presale. The Phase 5 offering of the project has already attracted over 2.6 million in contributions and sold over 840 million $OZ tokens. As the next price level approaches, the first movers are keeping a close eye on the momentum as the",
+      "links": [
+        "https://thenewscrypto.com/ozak-ais-0-01-presale-presents-massive-upside-for-investors-brave-enough-to-buy-when-fear-dominates-the-market/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-5.jpg"
+      },
+      "published": "2025-09-03T14:01:50Z"
+    }
+  },
+  {
+    "hash": "63d833d4d8b95a510dcf5545b6071c27ccbde4eb571dea3ed1004cf4b077e1eb",
+    "item": {
+      "title": "MEXC Joins Ondo Global Markets Alliance and Lists Tokenized Stocks With $150,000 Reward Pool Event",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"454\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-8.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-8.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-8-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-8-768x447.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e MEXC, a leading global cryptocurrency exchange, has joined the Ondo Global Markets Alliance and has listed tokenized stocks on September 3, 2025. To celebrate the listing, MEXC has launched a $150,000 reward pool event, offering users the opportunity to earn rewards in the form of Ondo tokenized stocks. This partnership",
+      "links": [
+        "https://thenewscrypto.com/mexc-joins-ondo-global-markets-alliance-and-lists-tokenized-stocks-with-150000-reward-pool-event/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-8.png"
+      },
+      "published": "2025-09-03T13:30:00Z"
+    }
+  },
+  {
+    "hash": "ee9a7889f57e214c04134e931f514227649e83e44867d0693d158412a44c9872",
+    "item": {
+      "title": "OKB Shows Strong Bullish Momentum With $250 Target in Sight",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/OKB-Price-analysis1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"OKB Shows Strong Bullish Momentum With $250 Target in Sight\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/OKB-Price-analysis1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/OKB-Price-analysis1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/OKB-Price-analysis1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOKB is showing very good bullish momentum on the daily chart, as the altcoin trades at $176.36 following a massive increase since it hit the $50 support level. CoinMarketCap data show that the token has appreciated by about 8% in the past 24 hours, with a spectacular 70% increase in",
+      "links": [
+        "https://thenewscrypto.com/okb-shows-strong-bullish-momentum-with-250-target-in-sight/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "bullish",
+        "OKB"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/OKB-Price-analysis1.jpg"
+      },
+      "published": "2025-09-03T12:21:41Z"
+    }
+  },
+  {
+    "hash": "999a9ceaa7c40eea02eae631917e8023098b1291517525b57a186dbe320c43c3",
+    "item": {
+      "title": "World Liberty Financial (WLFI) Burns 47M Tokens as Price Plummets",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/World_Liberty_burns_47M_tokens_in_bid_to_pump_price_as_slide_continues-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"World Liberty Financial (WLFI) Burns 47M Tokens as Price Plummets\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/World_Liberty_burns_47M_tokens_in_bid_to_pump_price_as_slide_continues-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/World_Liberty_burns_47M_tokens_in_bid_to_pump_price_as_slide_continues-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/World_Liberty_burns_47M_tokens_in_bid_to_pump_price_as_slide_continues-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWorld Liberty Financial conducted an emergency token burn this week, destroying 47 million WLFI tokens as the company experiences falling market performance. The Trump family-supported cryptocurrency project went live in public trading on Monday, but has not been able to sustain momentum. The token started trading at $0.331 and dropped",
+      "links": [
+        "https://thenewscrypto.com/world-liberty-financial-wlfi-burns-47m-tokens-as-price-plummets/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "WLFI",
+        "WLFI Token",
+        "World Liberty Financial"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/World_Liberty_burns_47M_tokens_in_bid_to_pump_price_as_slide_continues-1.jpg"
+      },
+      "published": "2025-09-03T11:38:50Z"
+    }
+  },
+  {
+    "hash": "0fcab2a0b7d1199f7d87ace09fb8f09a6041cc8799aeb979b744ee1cf11c2fb1",
+    "item": {
+      "title": "AlloyX Merges With Solowin Holdings at $350 Million Valuation",
+      "description": "\u003cp\u003e\u003cimg width=\"793\" height=\"389\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-6.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-6.png 793w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-6-300x147.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-6-768x377.png 768w\" sizes=\"auto, (max-width: 793px) 100vw, 793px\" /\u003e\u003c/p\u003eAlloyX Group (“AlloyX”), a Hong Kong-based fintech company focused on cross-border payments and institutional-grade asset tokenization through stablecoin infrastructure, today announced it has reached a definitive merger agreement with Nasdaq-listed Solowin Holdings (NASDAQ: SWIN, “Solowin”). This merger will fully leverage the strengths of both parties in traditional finance and the",
+      "links": [
+        "https://thenewscrypto.com/alloyx-merges-with-solowin-holdings-at-350-million-valuation/"
+      ],
+      "categories": [
+        "Press Release",
+        "AlloyX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-6.png"
+      },
+      "published": "2025-09-03T11:30:00Z"
+    }
+  },
+  {
+    "hash": "6065bd58f7eac97fa41164fbdcaf72519bfd068fbdfebad28e80b8685e0a8f33",
+    "item": {
+      "title": "Niri 25.08 released",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/YaLTeR/niri/releases/tag/v25.08\"\u003eVersion\n25.08\u003c/a\u003e of the niri scrollable-tiling Wayland compositor has been\nreleased. Notable changes include \u003ca\nhref=\"https://github.com/Supreeeme/xwayland-satellite?tab=readme-ov-file#xwayland-satellite\"\u003exwayland-satellite\u003c/a\u003e\nintegration, modal exit confirmation, and the introduction of basic\nsupport for screen readers:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eA \u003ca\nhref=\"https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/\"\u003eseries\nof posts\u003c/a\u003e by fireborn earlier this year on the screen reader\nsituation in Linux got me curious: how \u003cem\u003edoes\u003c/em\u003e one support\nscreen readers in a Wayland compositor? The documentation is\nunfortunately scarce and difficult to find. Thankfully, \u003ca\nhref=\"https://github.com/DataTriny\"\u003e@DataTriny\u003c/a\u003e from the \u003ca\nhref=\"https://accesskit.dev/\"\u003eAccessKit\u003c/a\u003e project came across \u003ca\nhref=\"https://github.com/YaLTeR/niri/issues/1904\"\u003emy issue\u003c/a\u003e,\npointed me at the right protocols, and answered a lot of my questions.\u003c/p\u003e\n\n\u003cp\u003eSo, as of this release, niri has basic support for screen readers!\nWe implement the \u003ctt\u003eorg.freedesktop.a11y.KeyboardMonitor\u003c/tt\u003e D-Bus\ninterface for \u003ca href=\"https://orca.gnome.org/\"\u003eOrca\u003c/a\u003e to listen and\ngrab keyboard keys, and we expose the main niri UI elements via\nAccessKit. [...]\u003c/p\u003e\n\n\u003cp\u003eThe current screen reader support and further considerations are\ndocumented on the new \u003ca href=\"https://yalter.github.io/niri/Accessibility.html\"\u003eAccessibility\u003c/a\u003e wiki page.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eLWN \u003ca href=\"https://lwn.net/Articles/1025866/\"\u003ecovered\u003c/a\u003e niri in\nJuly.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1036625/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-03T16:46:17Z"
+    }
+  },
+  {
+    "hash": "085e74f0a5757d626479ab39a993d163d091f90aaac263d2694dd2da2f0c8e59",
+    "item": {
+      "title": "Linux From Scratch 12.4 released",
+      "description": "\u003cp\u003e\u003ca href=\"https://www.linuxfromscratch.org/lfs/view/12.4/\"\u003eVersion\n12.4\u003c/a\u003e of Linux From Scratch (LFS) and Beyond Linux From Scratch\n(BLFS) have been \u003ca\nhref=\"https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2025-09/msg00000.html\"\u003ereleased\u003c/a\u003e. LFS\nprovides step-by-step instructions on building a customized Linux\nsystem entirely from source, and BLFS helps to extend an LFS\ninstallation into a more usable system. Notable changes in this\nrelease include updates to GNU Binutils 2.45, GCC 15.2, GNU C Library\n(glibc) 2.42, and Linux 6.15.1. See the \u003ca\nhref=\"https://www.linuxfromscratch.org/lfs/view/12.4/chapter01/changelog.html\"\u003eChangelog\u003c/a\u003e\nfor all updates since 12.3.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1036624/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-03T16:26:14Z"
+    }
+  },
+  {
+    "hash": "26722ce5c2b0dc934d545828187169c2ac4e49782519d98f93c17cf056cdd931",
+    "item": {
+      "title": "[$] Tracking trust with Rust in the kernel",
+      "description": "\u003cp\u003e\nThe Linux kernel has to handle many different sources of data that should not\nbe trusted: user space, network connections, and removable storage, to name a\nfew. The kernel has to remain secure even if one of these sends garbled (or\nmalicious) data. Benno Lossin has been working on an API for kernel Rust code\nthat makes it harder to accidentally make decisions based on data from user space. That work\nis now on its\n\u003ca href=\"https://lwn.net/ml/all/20250814124424.516191-1-lossin@kernel.org/\"\u003e\nfourth revision\u003c/a\u003e, and Lossin has asked kernel developers to experiment with\nit and see where problems remain, making this a good time to look at the proposed API.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1034603/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-09-03T16:15:07Z"
+    }
+  },
+  {
+    "hash": "4665ce57830b2476c5b9771e0400493d39392bf00f758ecd40b3c37c91a03b47",
+    "item": {
+      "title": "Announcing the Rust Innovation Lab",
+      "description": "\u003cp\u003e\nDuring the opening of RustConf 2025 in Seattle, Washington,\nthe Rust Foundation announced \n\u003ca href=\"https://rustfoundation.org/rust-innovation-lab/\"\u003e\na new initiative\u003c/a\u003e to provide financial and administrative support to open-source Rust projects. The first project to benefit from the new Rust Innovation Lab is\n\u003ca href=\"https://github.com/rustls/rustls\"\u003e\nRustls\u003c/a\u003e, an implementation of TLS in Rust. The foundation welcomes inquiries from other projects. Dr. Rebecca Rumbul, Executive Director of the Rust Foundation said:\n\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nRustls is hopefully the first of many really good [...] projects that will find a home in the foundation.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1035169/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-09-03T16:14:41Z"
+    }
+  },
+  {
+    "hash": "4fe5dd7210f5db15d19aa6c747d2766f20e70b41fde108896a1391e977ac64a2",
+    "item": {
+      "title": "Rust Innovation Lab Announced By The Rust Foundation",
+      "description": "The Rust Foundation today announced the creation of the Rust Innovation Lab that will serve as a stable, neutral home to select Rust projects with governance support, legal and administrative support, fiscal sponsorship, and more...",
+      "links": [
+        "https://www.phoronix.com/news/Rust-Innovation-Lab"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-03T16:41:15Z"
+    }
+  },
+  {
+    "hash": "9ed2f4035361c48cbffcbb63b1204dc16cdb566c459421aadd8b900cd79141e2",
+    "item": {
+      "title": "AMD Secure AVIC Primed For Linux 6.18 To Provide Better Security \u0026 Performance",
+      "description": "Ahead of the upcoming Linux 6.18 kernel cycle, which will likely end up being this year's Long Term Support (LTS) version, the AMD Secure AVIC driver appears ready for merging. The AMD Secure AVIC patches were queued this week into a TIP branch and this likely to be submitted for the upcoming Linux 6.18 merge window...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Secure-AVIC-Linux-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-03T16:00:02Z"
+    }
+  },
+  {
+    "hash": "a9b43ba1e1a6d2f0d932fdcf3ea9367ad413c46a716ff5cf1263b7277c6f887f",
+    "item": {
+      "title": "Perplexity AI Predicts the Price of XRP, World Liberty Financial and Dogecoin by the End of 2025",
+      "description": "\u003cp data-start=\"479\" data-end=\"782\"\u003ePerplexity predicts a bullish long-term crypto trend, highlighting XRP’s surge, new adoption milestones, and ETF speculation. WLFI’s volatile launch and Dogecoin’s ETF filing add momentum, while Bitcoin and Ethereum hold strong, signaling optimism in a cautious September market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-xrp-world-liberty-financial-and-dogecoin-by-the-end-of-2025/\"\u003ePerplexity AI Predicts the Price of XRP, World Liberty Financial and Dogecoin by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-xrp-world-liberty-financial-and-dogecoin-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DOGE",
+        "WLFI",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03172512/1756920311-perplexity-ai-predicts-the-price.jpg"
+      },
+      "published": "2025-09-03T18:10:15Z"
+    }
+  },
+  {
+    "hash": "051cf95534eadff67c5a4c662d7ccf7bc8f53b18a93a42c347c9053039bf7dad",
+    "item": {
+      "title": "New Pump.Fun Fee Structure Pays Creators More Than Twitch, Generates $2.1M in 24 Hours",
+      "description": "\u003cp data-start=\"603\" data-end=\"835\"\u003eWith Project Ascend, Pump.fun has adopted a new fee structure that generated $2.1M for 5,640 creators in 24 hours. Daily payouts have risen 10x, surpassing Twitch compensation, while small streamers gain the most.\u003c/p\u003e\n\u003cp data-start=\"750\" data-end=\"1014\" data-is-last-node=\"\" data-is-only-node=\"\"\u003e \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pump-funs-new-fee-model-generates-2-1m-for-content-creators-in-24-hours/\"\u003eNew Pump.Fun Fee Structure Pays Creators More Than Twitch, Generates $2.1M in 24 Hours\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pump-funs-new-fee-model-generates-2-1m-for-content-creators-in-24-hours/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "PUMP Token",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03164647/1756918006-stock-image_optimized-47.jpg"
+      },
+      "published": "2025-09-03T17:54:13Z"
+    }
+  },
+  {
+    "hash": "72554d30f2d445be1f7ab55f72ea280ef3c74081a045835854156f824bb6d4ff",
+    "item": {
+      "title": "Bitcoin Price Prediction: Gold Hits All-Time High as BTC Flashes Classic Supercycle Setup – Is $250K Just the First Stop?",
+      "description": "\u003cp\u003eGold hits $3,572 while Bitcoin breaks out of a key channel. Is BTC’s next supercycle starting, with $250K as the first milestone? Short- and long-term forecast here.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-gold-hits-all-time-high-as-btc-flashes-classic-supercycle-setup-is-250k-just-the-first-stop/\"\u003eBitcoin Price Prediction: Gold Hits All-Time High as BTC Flashes Classic Supercycle Setup – Is $250K Just the First Stop?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-gold-hits-all-time-high-as-btc-flashes-classic-supercycle-setup-is-250k-just-the-first-stop/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03174530/1756921530-bitcoin-price-prediction-15.jpg"
+      },
+      "published": "2025-09-03T17:47:00Z"
+    }
+  },
+  {
+    "hash": "7cda01f4fd7375f18539a1707d3dbc4bfcfbd79569bd74cef3b340b1160ce3b2",
+    "item": {
+      "title": "MemeCore Price Catches Fire And PepeNode Mining Utility Meme Coin is Next",
+      "description": "\u003cp data-start=\"476\" data-end=\"786\"\u003eMemeCore has surged to a $1B valuation with its Proof-of-Meme blockchain, while PepeNode has raised $558K for its mine-to-earn system. Combining gamified virtual mining, tiered staking rewards, and deflationary tokenomics, PepeNode has been positioned within the utility meme coin trend.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/memecore-price-rise-pepenode-utility-coin/\"\u003eMemeCore Price Catches Fire And PepeNode Mining Utility Meme Coin is Next\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/memecore-price-rise-pepenode-utility-coin/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Meme coin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03170508/1756919108-image-81-1024x1024-1.jpg"
+      },
+      "published": "2025-09-03T17:09:51Z"
+    }
+  },
+  {
+    "hash": "53f3583e15e54b36deca053a575ea3aa14e082e4fbb524f10e6b4125f8b190dd",
+    "item": {
+      "title": "TOKEN6900 is Live And Could Be the Next SPX6900",
+      "description": "\u003cp data-start=\"464\" data-end=\"772\"\u003eTOKEN6900 has been listed on DEXs with a $5.7M market cap and more than 2,000 holders. Trading volume has exceeded $250k, while liquidity of $310k in the TOKEN6900/WETH pair has been locked for 11 months. Staking at 105% APY and correlation with SPX6900 have added to market interest.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/token6900-live-next-spx6900/\"\u003eTOKEN6900 is Live And Could Be the Next SPX6900 \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/token6900-live-next-spx6900/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "SPX6900"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03165610/1756918570-image-79-3-1024x1024-1.jpg"
+      },
+      "published": "2025-09-03T17:02:50Z"
+    }
+  },
+  {
+    "hash": "17a37f26bf1ff0bba58cffeff1c9f1c6665bb56916073a4dc1f116706db379d4",
+    "item": {
+      "title": "World Liberty Financial Price Prediction: Crypto Trader Makes $250 Million in 24 Hours – Here’s Why it Matters",
+      "description": "\u003cp data-start=\"495\" data-end=\"806\"\u003eWorld Liberty Financial price prediction has pointed to continued momentum after WLFI’s launch delivered 10–20x gains, including a $250M profit in 24 hours. Technical analysis shows bullish consolidation above support with potential breakout targets near $0.40 if resistance is reclaimed.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/world-liberty-financial-price-prediction-crypto-trader-makes-250-million-in-24-hours-heres-why-it-matters/\"\u003eWorld Liberty Financial Price Prediction: Crypto Trader Makes $250 Million in 24 Hours – Here\u0026#8217;s Why it Matters\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/world-liberty-financial-price-prediction-crypto-trader-makes-250-million-in-24-hours-heres-why-it-matters/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "WLFI Tokens",
+        "World Liberty Financial"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03123137/1756902696-world-liberty-financial-price-prediction.jpg"
+      },
+      "published": "2025-09-03T16:50:55Z"
+    }
+  },
+  {
+    "hash": "97797eb941b32f0d5288801e68b7da08b04a452f7a8a17b9377c415b51ea534d",
+    "item": {
+      "title": "Altcoin Season: Ethena Rises on $50M Weekly Revenue; MemeCore and OKB Climb",
+      "description": "\u003cp data-start=\"516\" data-end=\"837\"\u003eAltcoin season has demonstrated different paths to growth, with MemeCore boosted by community campaigns, OKB supported by exchange utility and scarcity, and Ethena lifted by synthetic dollar expansion and revenue discussions. Together, these tokens illustrate the varied drivers shaping altseason.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-ethena-50m-revenue-memecore-okb-climb/\"\u003eAltcoin Season: Ethena Rises on $50M Weekly Revenue; MemeCore and OKB Climb\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-ethena-50m-revenue-memecore-okb-climb/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03161021/1756915821-gemini_generated_image_iej7fpiej7fpiej7_optimized.jpg"
+      },
+      "published": "2025-09-03T16:37:33Z"
+    }
+  },
+  {
+    "hash": "37d165122fbfb0a78b38c330e8a4be86beb831f2bf32ba87a5f6079c60b5d613",
+    "item": {
+      "title": "XRP Price Prediction: Target $10 Amid ETF Approval and Rate Cut Warnings, FindMining Officially Launches XRP-Based Mobile App",
+      "description": "\u003cp\u003eFindMining today officially launched the world’s first mobile mining app based on XRP, allowing users to remotely participate in the mining of mainstream cryptocurrencies such as Bitcoin and Ethereum through their mobile phones without any additional equipment or technical barriers.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-price-prediction-target-10-amid-etf-approval-and-rate-cut-warnings-findmining-officially-launches-xrp-based-mobile-app/\"\u003eXRP Price Prediction: Target $10 Amid ETF Approval and Rate Cut Warnings, FindMining Officially Launches XRP-Based Mobile App\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-price-prediction-target-10-amid-etf-approval-and-rate-cut-warnings-findmining-officially-launches-xrp-based-mobile-app/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03161414/1756916054-findmining.jpg"
+      },
+      "published": "2025-09-03T16:17:48Z"
+    }
+  },
+  {
+    "hash": "dae80ac43944fe85b16a7aa16c950d06c017d0d4a5a8eee5433c3bc945873728",
+    "item": {
+      "title": "China Hints at Ripple’s Stablecoin Strategy, Will XRP Enter the $5 Era? SolMining Launches XRP Smart Contracts",
+      "description": "\u003cp\u003eUK-registered SolMining has launched a smart cloud mining contract that supports XRP payments. This means that XRP holders around the world can directly leverage the value of XRP in the cloud mining field.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/china-hints-at-ripples-stablecoin-strategy-will-xrp-enter-the-5-era-solmining-launches-xrp-smart-contracts/\"\u003eChina Hints at Ripple\u0026#8217;s Stablecoin Strategy, Will XRP Enter the $5 Era? SolMining Launches XRP Smart Contracts\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/china-hints-at-ripples-stablecoin-strategy-will-xrp-enter-the-5-era-solmining-launches-xrp-smart-contracts/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03155312/1756914791-solmining.jpg"
+      },
+      "published": "2025-09-03T15:55:28Z"
+    }
+  },
+  {
+    "hash": "298a5c5a5bd332aa040307d097b2c68af6fa505fa29acb3a2bd169493f6fbba3",
+    "item": {
+      "title": "Galaxy Digital Debuts Solana GLXY Tokens Backed 1:1 by SEC-Registered Shares",
+      "description": "\u003cp data-start=\"444\" data-end=\"760\"\u003eGalaxy Digital has launched tokenized GLXY on Solana via Superstate, letting holders convert Class A shares into onchain tokens with the same rights under a KYC allowlist. It has called this the first U.S.-listed equity native on a major public chain; AMM trading has awaited regulatory clarity.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/galaxy-digital-debuts-solana-glxy-sec-shares/\"\u003eGalaxy Digital Debuts Solana GLXY Tokens Backed 1:1 by SEC-Registered Shares\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/galaxy-digital-debuts-solana-glxy-sec-shares/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Galaxy Digital",
+        "SEC",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/31114249/1753962168-spacepay.jpg"
+      },
+      "published": "2025-09-03T15:54:33Z"
+    }
   }
 ]
