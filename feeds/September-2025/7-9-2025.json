@@ -1106,5 +1106,343 @@
       },
       "published": "2025-09-07T09:07:16Z"
     }
+  },
+  {
+    "hash": "8d735e60c8e92fe1780da61855812f8543f096b07be3ed6decca54ad3373ef2a",
+    "item": {
+      "title": "Porsche’s insanely clever hybrid engine comes to the 911 Turbo S",
+      "description": "The new 911 variant is 14 seconds quicker around the Nürburgring Nordschleife.",
+      "links": [
+        "https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/"
+      ],
+      "categories": [
+        "Cars",
+        "Porsche 911 Carrera GTS T-Hybrid",
+        "Porsche 911 Turbo S"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/911_turbos_1001-1152x648.jpg"
+      },
+      "published": "2025-09-07T13:00:58Z"
+    }
+  },
+  {
+    "hash": "d4e3f3fbafe2e4e565928316688c074ec40446da081553afd8db4aeb7cd0adea",
+    "item": {
+      "title": "Intel Preps Wildcat Lake Display Support For Linux 6.18, \"enable_panel_replay\" Option",
+      "description": "In addition to the Intel Xe kernel graphics driver updates sent out this week in advance of the Linux 6.18 kernel, there was also a batch of drm-intel-next updates also submitted for predominantly display-related changes to the open-source Intel driver...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T14:14:21Z"
+    }
+  },
+  {
+    "hash": "7e3d19b3b82c287c44d8ae25c3fdabac3e18b065a138e180fc9e56f2cb63d0fa",
+    "item": {
+      "title": "Hangover 10.14 Released With Updated FEX, Box64 \u0026 DXVK",
+      "description": "Hangover is the open-source project that leverages Wine to allow running x86 32-bit and 64-bit Windows applications on AArch64 Linux systems. Hangover pairs Wine with an emulator like Box64 or FEX for the x86/x86_64 to AArch64 translation while also eyeing other CPU architecture support too...",
+      "links": [
+        "https://www.phoronix.com/news/Hangover-10.14"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T13:28:25Z"
+    }
+  },
+  {
+    "hash": "0393b5aa5c11fede0a5797c6cc5c59b5f90db73c8ab98dffe2eba4ec586e6e90",
+    "item": {
+      "title": "Serverless Horrors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157110\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://serverlesshorrors.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T11:00:03Z"
+    }
+  },
+  {
+    "hash": "338f2db65cbcd98e6443352444711fbe60cbe0e6705945599f3447b234e15240",
+    "item": {
+      "title": "Chrome extension that replaces occurrences of 'the cloud' with 'my butt'",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45158525\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/panicsteve/cloud-to-butt"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T14:36:48Z"
+    }
+  },
+  {
+    "hash": "a8ca4bdc8d13f3449d6cb277540864e6db7b0e37ef0ba3988d382d61a772717f",
+    "item": {
+      "title": "Show HN: Semantic grep for Claude Code (RUST) (local embeddings)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157223\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/BeaconBay/ck"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T11:20:37Z"
+    }
+  },
+  {
+    "hash": "8b6a7a0a2ec35a17809599167a0b491804700dd08cb2502ab0ecc9159b5ba84c",
+    "item": {
+      "title": "Air pollution directly linked to increased dementia risk",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157897\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/d41586-025-02844-9"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T13:13:42Z"
+    }
+  },
+  {
+    "hash": "6230304cc0239d88dc897fb9fcac877af83343c470d733fc60346b49e303c847",
+    "item": {
+      "title": "Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157020\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://molecheck.info/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T10:38:29Z"
+    }
+  },
+  {
+    "hash": "d351972715e4356acca0694653f173a91b0b1fb308247d58e6d85b8237ca38a0",
+    "item": {
+      "title": "Algebraic Effects in Practice with Flix",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157466\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.relax.software/blog/flix-effects-intro/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T12:07:50Z"
+    }
+  },
+  {
+    "hash": "aa699831d8558e443787e2f2e04491ada9c921cb6c283865f4b920904e50dfa3",
+    "item": {
+      "title": "The Expression Problem and its solutions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45155877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T06:28:04Z"
+    }
+  },
+  {
+    "hash": "8b10173c57e7617558589307cf4061f9b6f4dcd7751b4b21d534fe953aa1838c",
+    "item": {
+      "title": "Postal traffic to US down by over 80% amid tariffs, UN says",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157837\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dw.com/en/postal-traffic-to-us-down-by-over-80-amid-tariffs-un-says/a-73905988"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T13:04:51Z"
+    }
+  },
+  {
+    "hash": "776b33c872c0190cd043eb5b3eafae4d0f831c0c6dca90a6aae3c13204c0ca4a",
+    "item": {
+      "title": "Garmin Beats Apple to Market with Satellite-Connected Smartwatch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118286\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.macrumors.com/2025/09/03/garmin-satellite-smartwatch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T17:18:09Z"
+    }
+  },
+  {
+    "hash": "9a5ed7ff4ee947c9576b998310af4f265679e61768674a7129ef889800fa05d2",
+    "item": {
+      "title": "Belling the Cat",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157906\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Belling_the_Cat"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T13:15:35Z"
+    }
+  },
+  {
+    "hash": "22c02856fbfb70455b7341b4da5034c7dca5f75c1ea8ba16cd8943f693bc99b3",
+    "item": {
+      "title": "A Technical Update on Submarine Cables [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45119310\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T19:01:36Z"
+    }
+  },
+  {
+    "hash": "f25a2c4dea1197b2226a8e9dc5a4966da8f21ef369e9128e2a0613b7e56ba7d2",
+    "item": {
+      "title": "A Queasy Selling of the Family Heirlooms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116551\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://commonreader.wustl.edu/a-queasy-selling-of-the-family-heirlooms/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-03T14:55:31Z"
+    }
+  },
+  {
+    "hash": "e8749ab7688464700c4e2fc05bcc8511c7b12336c5949a22adf2a2b836c0eed4",
+    "item": {
+      "title": "South Korean workers detained in Hyundai plant raid to be freed and flown home",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45158030\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T13:35:44Z"
+    }
+  },
+  {
+    "hash": "9fcf260b2f9edc32ec9a054b532ebd68a171640974a6ccee9c4d6e8a9379f9e3",
+    "item": {
+      "title": "More and more people are tuning the news out: 'Now I don't have that anxiety",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157784\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T12:57:31Z"
+    }
+  },
+  {
+    "hash": "dc1022004bde3ea4f9c87d9c83b04a5afb4e75276747b6e5445facbae1041ed6",
+    "item": {
+      "title": "What Really Caused the Sriracha Shortage? (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fortune.com/2024/01/30/sriracha-shortage-huy-fong-foods-tabasco-underwood-ranches/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T12:24:25Z"
+    }
+  },
+  {
+    "hash": "d35950f7301ee0aed51f65a962b444a83a3886d2d3dc28658691cd7025ef8c22",
+    "item": {
+      "title": "Businesses Buy 1,755 Bitcoin Daily, Adding $1.3 Trillion in 20 Months – BTC Above $125K Next?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eBusinesses across major industries have purchased 1,755 Bitcoin daily worth $195.2 million, contributing over $1.3 trillion to Bitcoin's market cap during the past 20 months as corporate reserves surged from 510K BTC to 1.3 million BTC with publicly traded companies expanding from 39 to 158 entities, targeting BTC above $125K.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/businesses-buy-1755-bitcoin-daily-adding-1-3-trillion-in-20-months-btc-above-125k-next/\"\u003eBusinesses Buy 1,755 Bitcoin Daily, Adding $1.3 Trillion in 20 Months \u0026#8211; BTC Above $125K Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/businesses-buy-1755-bitcoin-daily-adding-1-3-trillion-in-20-months-btc-above-125k-next/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07140554/1757253954-stock-image_optimized-2025-09-07t150534-282.jpg"
+      },
+      "published": "2025-09-07T14:50:42Z"
+    }
+  },
+  {
+    "hash": "67b3a8f5ea4c0dda8726db87e5c14552b1bbdf9ffb89704ffe7a288e478df23b",
+    "item": {
+      "title": "Solana Price Prediction: Can SOL Hold Above $200 and Set Its Sights on a New All-Time High?",
+      "description": "\u003cp\u003eSolana holds near $200 as a triangle pattern signals a breakout. Can SOL target $250 and a new all-time high amid bullish technicals and growing ecosystem demand?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-can-sol-hold-above-200-and-set-its-sights-on-a-new-all-time-high/\"\u003eSolana Price Prediction: Can SOL Hold Above $200 and Set Its Sights on a New All-Time High?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-can-sol-hold-above-200-and-set-its-sights-on-a-new-all-time-high/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Cryptocurrency",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/02124953/1756817392-solana-price-prediction.jpg"
+      },
+      "published": "2025-09-07T13:04:36Z"
+    }
+  },
+  {
+    "hash": "23a662f94b871de3e6b4c21397caf6e9e1ae2cfc77d38ca20264dce75f26f0e8",
+    "item": {
+      "title": "DOT Miners Launches XRP Mining Contract and Official App, Ushering in a New Era of Mobile Cloud Mining",
+      "description": "\u003cp\u003eGlobal leading green cloud mining platform DOT Miners today officially announced the launch of its brand-new XRP mining contracts alongside the release of its first-ever official mobile application, marking a major step forward in mobile cloud mining experience and digital asset management convenience.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/dot-miners-launches-xrp-mining-contract-and-official-app-ushering-in-a-new-era-of-mobile-cloud-mining/\"\u003eDOT Miners Launches XRP Mining Contract and Official App, Ushering in a New Era of Mobile Cloud Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/dot-miners-launches-xrp-mining-contract-and-official-app-ushering-in-a-new-era-of-mobile-cloud-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/05172605/1757093165-dot-miners.jpg"
+      },
+      "published": "2025-09-07T11:15:00Z"
+    }
+  },
+  {
+    "hash": "319c8e84f694813f7f30e8036f713750b0879bc9afff03ea49c983fd7c7b2166",
+    "item": {
+      "title": "SAVVY MINING Ushers In a New Era With the Launch of a New Mining App",
+      "description": "\u003cp\u003eSAVVY MINING stated that the launch of the new app is a significant step in the company's efforts to promote the popularization of digital assets and financial inclusion.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/savvy-mining-ushers-in-a-new-era-with-the-launch-of-a-new-mining-app/\"\u003eSAVVY MINING Ushers In a New Era With the Launch of a New Mining App\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/savvy-mining-ushers-in-a-new-era-with-the-launch-of-a-new-mining-app/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/05153250/1757086370-savvy-mining.jpg"
+      },
+      "published": "2025-09-07T11:00:00Z"
+    }
   }
 ]
