@@ -575,5 +575,536 @@
       },
       "published": "2025-09-07T09:07:16Z"
     }
+  },
+  {
+    "hash": "28cd0a7f2f87e492d8d2cd1f78286d1e0e3b14ce96d5f604408c964c2a339f3d",
+    "item": {
+      "title": "Theremin-Style MIDI Controller Does It With Lasers",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"359\" src=\"https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg 1280w, https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg?resize=250,112 250w, https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg?resize=400,179 400w, https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg?resize=800,359 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"813612\" data-permalink=\"https://hackaday.com/2025/09/07/theremin-style-midi-controller-does-it-with-lasers/f4eat2dmeua7sau/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg\" data-orig-size=\"1280,574\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"F4EAT2DMEUA7SAU\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg?w=800\" /\u003e\u003c/div\u003eStrictly speaking, a Theremin uses a pair of antennae that act as capacitors in a specific R/C circuit. Looking at [aritrakdebnath2003]\u0026#8217;s MIDI THEREMIN, we see it works differently, but it \u003ca href=\"https://hackaday.com/2025/09/07/theremin-style-midi-controller-does-it-with-lasers/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/07/theremin-style-midi-controller-does-it-with-lasers/"
+      ],
+      "categories": [
+        "Arduino Hacks",
+        "Musical Hacks",
+        "Arduino Uno",
+        "midi controller",
+        "optical theremin",
+        "tof sensor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/F4EAT2DMEUA7SAU.jpg"
+      },
+      "published": "2025-09-07T11:00:50Z"
+    }
+  },
+  {
+    "hash": "3f1780a1dfe24d197e3da4cf2cd4814eb232f959aaf73b35502a91c0106ae8df",
+    "item": {
+      "title": "Anker Soundcore Space A40 Earbuds Teardown",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A photo of the PCB from the charging case\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg 1707w, https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?resize=250,187 250w, https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?resize=800,600 800w, https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?resize=1536,1152 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"813771\" data-permalink=\"https://hackaday.com/2025/09/07/anker-soundcore-space-a40-earbuds-teardown/soundcore-space-a40/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg\" data-orig-size=\"1707,1280\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Soundcore Space A40\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg?w=800\" /\u003e\u003c/div\u003eWireless earbuds are notoriously tiny. Want to see inside? [MCH170] did and published a Soundcore Space A40 Teardown. In this teardown, you\u0026#8217;ll see inside the charging case and one of \u003ca href=\"https://hackaday.com/2025/09/07/anker-soundcore-space-a40-earbuds-teardown/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/07/anker-soundcore-space-a40-earbuds-teardown/"
+      ],
+      "categories": [
+        "Teardown",
+        "bluetooth",
+        "earbuds",
+        "earphones"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/Soundcore-Space-A40.jpg"
+      },
+      "published": "2025-09-07T08:00:28Z"
+    }
+  },
+  {
+    "hash": "30cf56caf0dc925c1d5c62871026ac8fcefabf9a3f55b501986ccfe706cd82f7",
+    "item": {
+      "title": "Teardown of a Cheapish EBL Multi-Cell NiMH Charger",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"406\" src=\"https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg 1024w, https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg?resize=250,127 250w, https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg?resize=400,203 400w, https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg?resize=800,406 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"813789\" data-permalink=\"https://hackaday.com/2025/09/06/teardown-of-a-cheapish-ebl-multi-cell-nimh-charger/edn_multi-cell_charger_pcb/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg\" data-orig-size=\"1024,520\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"edn_multi-cell_charger_PCB\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg?w=800\" /\u003e\u003c/div\u003ePeople think about NiMH cell chargers probably as much as they think about batteries, unless it\u0026#8217;s time to replace the cells in whatever device they\u0026#8217;re installed in. This doesn\u0026#8217;t make \u003ca href=\"https://hackaday.com/2025/09/06/teardown-of-a-cheapish-ebl-multi-cell-nimh-charger/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/06/teardown-of-a-cheapish-ebl-multi-cell-nimh-charger/"
+      ],
+      "categories": [
+        "Teardown",
+        "battery charger"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/edn_multi-cell_charger_PCB.jpg"
+      },
+      "published": "2025-09-07T05:00:00Z"
+    }
+  },
+  {
+    "hash": "43dab9b616b230305aaa5036115ba34ddb43f49c5c4558abbcb35fe00e438ab7",
+    "item": {
+      "title": "Reverse Engineering a (Toy) Fire Engine",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"416\" src=\"https://hackaday.com/wp-content/uploads/2025/09/fire.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/fire.png 800w, https://hackaday.com/wp-content/uploads/2025/09/fire.png?resize=250,130 250w, https://hackaday.com/wp-content/uploads/2025/09/fire.png?resize=400,208 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"813543\" data-permalink=\"https://hackaday.com/2025/09/06/reverse-engineering-a-toy-fire-engine/fire-19/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/fire.png\" data-orig-size=\"800,416\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"fire\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/fire.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/fire.png?w=800\" /\u003e\u003c/div\u003eYour kid has a toy remote control fire truck. You have an RTL SDR. See where this is going? [Jacob] couldn\u0026#8217;t resist tearing into the why and how of the \u003ca href=\"https://hackaday.com/2025/09/06/reverse-engineering-a-toy-fire-engine/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/06/reverse-engineering-a-toy-fire-engine/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "Reverse Engineering",
+        "Wireless Hacks",
+        "gnu radio",
+        "RTL-SDR"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/fire.png"
+      },
+      "published": "2025-09-07T02:00:00Z"
+    }
+  },
+  {
+    "hash": "487d00a0a80fcaa0dde7332dda06f4bdf43118ba830ebab12864ea230ba13904",
+    "item": {
+      "title": "Camera and ChArUco Keep the Skew Out of Your 3D Prints",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg 1920w, https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"813610\" data-permalink=\"https://hackaday.com/2025/09/06/camera-and-charuco-keep-the-skew-out-of-your-3d-prints/skew_a200c3/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"skew_a200c3\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg?w=800\" /\u003e\u003c/div\u003eDo you or a loved one suffer from distorted 3D prints? Does your laser cutter produce parallelograms instead of rectangles? If so, you might be suffering from CNC skew miscalibration, \u003ca href=\"https://hackaday.com/2025/09/06/camera-and-charuco-keep-the-skew-out-of-your-3d-prints/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/06/camera-and-charuco-keep-the-skew-out-of-your-3d-prints/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "cnc hacks",
+        "3d printing",
+        "ArUco",
+        "camera",
+        "charuco",
+        "cnc",
+        "endoscope",
+        "fiducial",
+        "skew"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/skew_a200c3.jpeg"
+      },
+      "published": "2025-09-06T23:00:00Z"
+    }
+  },
+  {
+    "hash": "7bc58e9fa9628490bd42acc9d0c2b263b5e4e1e6d4c8021e6d84fb2294e0f856",
+    "item": {
+      "title": "No Plans for the Weekend? Learn Raytracing!",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg 1200w, https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"813573\" data-permalink=\"https://hackaday.com/2025/09/06/no-plans-for-the-weekend-learn-raytracing/img-1-23-book1-final/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg\" data-orig-size=\"1200,675\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"img-1.23-book1-final\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg?w=800\" /\u003e\u003c/div\u003eWeekends can be busy for a lot of us, but sometimes you have one gloriously free and full of possibilities. If that\u0026#8217;s you, you might consider taking a gander at \u003ca href=\"https://hackaday.com/2025/09/06/no-plans-for-the-weekend-learn-raytracing/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/06/no-plans-for-the-weekend-learn-raytracing/"
+      ],
+      "categories": [
+        "Software Development",
+        "ebook",
+        "Raytracing",
+        "weekend project"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/img-1.23-book1-final.jpg"
+      },
+      "published": "2025-09-06T20:00:13Z"
+    }
+  },
+  {
+    "hash": "e0fcd8f21bc1c482ece5f3014d329bc971ad88ee8bb8c03a1c151face8489043",
+    "item": {
+      "title": "The Most Personalized Font is Your Own Handwriting",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"577\" src=\"https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif 1166w, https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif?resize=250,180 250w, https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif?resize=400,289 400w, https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif?resize=800,577 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"813517\" data-permalink=\"https://hackaday.com/2025/09/06/the-most-personalized-font-is-your-own-handwriting/chrishand_template/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif\" data-orig-size=\"1166,841\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ChrisHand_template\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif?w=800\" /\u003e\u003c/div\u003eWhen making a personal website, one will naturally include a personal touch. What could be more personal than creating a font from your own handwriting? That\u0026#8217;s what [Chris Smith] has \u003ca href=\"https://hackaday.com/2025/09/06/the-most-personalized-font-is-your-own-handwriting/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/06/the-most-personalized-font-is-your-own-handwriting/"
+      ],
+      "categories": [
+        "Software Hacks",
+        "font",
+        "handwriting fonts"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/ChrisHand_template.avif"
+      },
+      "published": "2025-09-06T17:00:32Z"
+    }
+  },
+  {
+    "hash": "1f4e97fd3de06913a6483b7710a2403800096f7ca1eda4004dafb864f0e39606",
+    "item": {
+      "title": "A career is a pie-eating contest and the prize for winning is more pie",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45157142\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jason.energy/more-pie/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T11:06:11Z"
+    }
+  },
+  {
+    "hash": "40f9e9ff7211f966bff628db0069f926ae6d4aca5fc2dafd4c99ea1bf4bc9c82",
+    "item": {
+      "title": "What is the origin of the private network address 192.168.*.*?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45156826\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T09:52:56Z"
+    }
+  },
+  {
+    "hash": "e3fba8d5f21ba2bc9324f3fbbbc7e5f8a06dd9fe64c3359e4d1f33d7021212bb",
+    "item": {
+      "title": "SQLite's File Format",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132488\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sqlite.org/fileformat.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-04T21:36:03Z"
+    }
+  },
+  {
+    "hash": "e357fc3aa1698931ea3248b5be32ab791de9c0954550a528318c67a06f18ee79",
+    "item": {
+      "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45156067\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T07:12:04Z"
+    }
+  },
+  {
+    "hash": "6e29e713f9b94ed269275a35c361b965f85d77ba0a1d0b092ad04136bf103587",
+    "item": {
+      "title": "Playing Viking Chess with Whale Bones",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45135555\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hakaimagazine.com/news/viking-chess-with-whale-bones/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-05T06:30:24Z"
+    }
+  },
+  {
+    "hash": "8ec1e60b59fc74fa41549a3bf4b1eececb191b9331c434d2f6566e7b85701fcc",
+    "item": {
+      "title": "The million dollar mystery behind Milk.com",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132832\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.npr.org/2025/09/03/nx-s1-5526903/domain-name-value-milk-dot-com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-04T22:13:47Z"
+    }
+  },
+  {
+    "hash": "5f177c632fee19bd358dada94ad66916a1f8c78b25b4fd1ec2577a9d59fd2dba",
+    "item": {
+      "title": "Imagination PowerVR Driver With Linux 6.18 To Support RISC-V",
+      "description": "Imagination's open-source PowerVR kernel graphics driver for a while has seen patches extending it to work on RISC-V given that some RISC-V hardware coming to market has featured PowerVR graphics IP. With the upcoming Linux 6.18 kernel that work is landing along with enabling support for the T-HEAD TH1520's GPU...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-PowerVR-RISC-V"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T10:20:18Z"
+    }
+  },
+  {
+    "hash": "6b266b2c60c90b7a5dfd1be7af65dc46c004685bc764fbc132abc2c3f45b2386",
+    "item": {
+      "title": "FreeBSD 15.0 Alpha 1 Released For Early Testing",
+      "description": "The first alpha release of FreeBSD 15.0 is now available! FreeBSD 15.0 is a major update to this BSD operating system that aims for its stable release before Christmas...",
+      "links": [
+        "https://www.phoronix.com/news/FreeBSD-15.0-Alpha-1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T10:04:31Z"
+    }
+  },
+  {
+    "hash": "91ea28455cb0c09e631043dcfbc317431faa419c601fc5da8231e1f99b308a00",
+    "item": {
+      "title": "Ubuntu 25.10 Enters Its UI Freeze",
+      "description": "The UI freeze for Ubuntu 25.10 is now in effect as the developers work toward the release of this next Ubuntu Linux installment in October...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.10-UI-Freeze"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T09:54:09Z"
+    }
+  },
+  {
+    "hash": "683ad9e0f4ed8e6e6b005919d0fb3586ed1acabdb1a93f09eb67df7e27355008",
+    "item": {
+      "title": "Intel PEPC 1.6 Released For Tuning Efficiency Latency Control \"ELC\" With Xeon 6 CPUs",
+      "description": "Intel's open-source PEPC tool has been updated as the utility for managing and optimized Intel CPU power management features on Linux...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-PEPC-1.6"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T09:44:00Z"
+    }
+  },
+  {
+    "hash": "cba7e15fec9b03dff97a28f4b2f92fddd2539849e454133735eec99b120c7336",
+    "item": {
+      "title": "As the XRP and ETH Ecosystems Expand, The Quid Miner App Provides a Robust Mining Solution",
+      "description": "\u003cp\u003eUnlike speculative trading, Quid Miner cloud mining, through remote computing power hosting, allows investors to continuously participate in network value creation without having to purchase mining equipment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/as-the-xrp-and-eth-ecosystems-expand-the-quid-miner-app-provides-a-robust-mining-solution/\"\u003eAs the XRP and ETH Ecosystems Expand, The Quid Miner App Provides a Robust Mining Solution\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/as-the-xrp-and-eth-ecosystems-expand-the-quid-miner-app-provides-a-robust-mining-solution/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/05174827/1757094506-quid-miner.jpg"
+      },
+      "published": "2025-09-07T11:30:00Z"
+    }
+  },
+  {
+    "hash": "b1ce1e99226721518f601fa1a13e2be4c5323db96b1b78d8b5cb81936784e727",
+    "item": {
+      "title": "Paxos Proposes to Issue USDH Stablecoin for Hyperliquid with 95% Revenue Share to HYPE Buyback",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003ePaxos submitted a proposal to issue USDH as Hyperliquid's first native stablecoin with 95% of interest earnings allocated toward HYPE token buybacks, leveraging its acquisition of Molecular Labs and Hyperliquid's record $106 million in perpetual futures trading revenue during August with 70% DeFi market share.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/paxos-proposes-to-issue-usdh-stablecoin-for-hyperliquid-with-95-revenue-share-to-hype-buyback/\"\u003ePaxos Proposes to Issue USDH Stablecoin for Hyperliquid with 95% Revenue Share to HYPE Buyback\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/paxos-proposes-to-issue-usdh-stablecoin-for-hyperliquid-with-95-revenue-share-to-hype-buyback/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "hyperliquid",
+        "Paxos"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07102801/1757240881-stock-image_optimized-49.jpg"
+      },
+      "published": "2025-09-07T11:30:00Z"
+    }
+  },
+  {
+    "hash": "6999fe5d29d95136a81307bf8c21672e1ee50676443db910ebcfd21ae4f3b0ea",
+    "item": {
+      "title": "El Salvador Adds 14,000 Troy Ounces of Gold After Bitcoin Accumulation Pause, Total Holdings Hit $207M",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eEl Salvador's Central Reserve Bank acquired 13,999 troy ounces of gold worth $207.4 million, increasing holdings from 44,106 to 58,105 troy ounces in its first precious metals purchase since 1990, following IMF guidance that confirmed the country halted Bitcoin accumulation in February 2025 despite President Bukele's daily purchase claims.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/el-salvador-adds-14000-troy-ounces-of-gold-after-bitcoin-accumulation-pause-total-holdings-hit-207m/\"\u003eEl Salvador Adds 14,000 Troy Ounces of Gold After Bitcoin Accumulation Pause, Total Holdings Hit $207M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/el-salvador-adds-14000-troy-ounces-of-gold-after-bitcoin-accumulation-pause-total-holdings-hit-207m/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "El Salvador",
+        "Gold"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07103041/1757241040-image-1757241015077_optimized.jpg"
+      },
+      "published": "2025-09-07T10:39:30Z"
+    }
+  },
+  {
+    "hash": "61f11c3434399b429e4bad06a2df41b9a86e439cdf5ee9370a06ad1cd1d8500a",
+    "item": {
+      "title": "Crypto Market Slides Into Fear as Traders Pull Back From Risky Altcoins",
+      "description": "\u003cp\u003eThe crypto market has entered a risk-off phase, with investor sentiment dipping into “Fear” territory over the weekend, according to multiple indicators.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-market-slides-into-fear-as-traders-pull-back-from-risky-altcoins/\"\u003eCrypto Market Slides Into Fear as Traders Pull Back From Risky Altcoins\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-market-slides-into-fear-as-traders-pull-back-from-risky-altcoins/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07091148/1757236307-image-1757236007029_optimized.jpg"
+      },
+      "published": "2025-09-07T09:58:27Z"
+    }
+  },
+  {
+    "hash": "723018924535be30ab984b63c2b43e3a07b05c734ca3e31d6d2fab5714e8969b",
+    "item": {
+      "title": "US Crypto Bill Draft Seeks Clarity on SEC-CFTC Roles, DeFi Rules",
+      "description": "\u003cp\u003eA newly revised draft of crypto bill aims to clarify the regulatory responsibilities of the SEC and the CFTC.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-crypto-bill-draft-seeks-clarity-on-sec-cftc-roles-defi-rules/\"\u003eUS Crypto Bill Draft Seeks Clarity on SEC-CFTC Roles, DeFi Rules\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-crypto-bill-draft-seeks-clarity-on-sec-cftc-roles-defi-rules/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Crypto Regulation",
+        "Regulation",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07091154/1757236313-image-1757236012666_optimized.jpg"
+      },
+      "published": "2025-09-07T09:53:01Z"
+    }
+  },
+  {
+    "hash": "c0bcf8e4354016d08b4c5d7ef7884a19bb9510b7a786133ef8608549268b978d",
+    "item": {
+      "title": "Ethereum Price Prediction: Record Stablecoin Inflow Puts $5,000 ETH Price Target in Play",
+      "description": "\u003cp\u003eEthereum absorbed $6.7B in stablecoin inflows as ETFs grow and policy shifts. Can this liquidity push ETH to $5,000? Here’s the technical and macro outlook.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-record-stablecoin-inflow-puts-5000-eth-price-target-in-play/\"\u003eEthereum Price Prediction: Record Stablecoin Inflow Puts $5,000 ETH Price Target in Play\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-record-stablecoin-inflow-puts-5000-eth-price-target-in-play/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/27141435/1756304074-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-09-07T09:41:44Z"
+    }
+  },
+  {
+    "hash": "a9eef282fddb82356a87aa46a6859f1bcd8299ff378d6a901179073802b701f0",
+    "item": {
+      "title": "Michael Saylor Joins Bloomberg Billionaires as Net Worth Tops $7.3B",
+      "description": "\u003cp\u003eStrategy executive chairman Michael Saylor has debuted on the Bloomberg Billionaire Index this week with an estimated net worth of $7.37 billion.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/michael-saylor-joins-bloomberg-billionaires-as-net-worth-tops-7-3b/\"\u003eMichael Saylor Joins Bloomberg Billionaires as Net Worth Tops $7.3B\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/michael-saylor-joins-bloomberg-billionaires-as-net-worth-tops-7-3b/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bloomberg",
+        "Michael Saylor",
+        "MicroStrategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07091159/1757236319-1740455603-billionaire-michael-saylor-eyes-more-bitcoin-is-a-supply-squeeze-incoming_optimized.jpg"
+      },
+      "published": "2025-09-07T09:35:45Z"
+    }
+  },
+  {
+    "hash": "edc6bb021957b5886f7991b89a2a5e9326499b5bfecbff75ddf2266d0eb0aa73",
+    "item": {
+      "title": "Bitcoin Price Prediction: Kiyosaki Warns of a Great Depression – Will BTC’s Scarcity Drive Value?",
+      "description": "\u003cp\u003eRobert Kiyosaki warns of a looming Great Depression. Can Bitcoin’s scarcity and bullish chart setup shield investors, with targets stretching toward $171K and beyond?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-kiyosaki-warns-of-a-great-depression-will-btcs-scarcity-drive-value/\"\u003eBitcoin Price Prediction: Kiyosaki Warns of a Great Depression – Will BTC\u0026#8217;s Scarcity Drive Value?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-kiyosaki-warns-of-a-great-depression-will-btcs-scarcity-drive-value/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26105642/1756205801-bitcoin-price-prediction-7.jpg"
+      },
+      "published": "2025-09-07T09:07:16Z"
+    }
   }
 ]
