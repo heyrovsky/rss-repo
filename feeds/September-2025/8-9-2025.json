@@ -1,0 +1,289 @@
+[
+  {
+    "hash": "fdd43621cd958675686033465f6e952b760499d6d91d9df15a852062f4325bc5",
+    "item": {
+      "title": "Kernel prepatch 6.17-rc5",
+      "description": "Linus has released \u003ca href=\"https://lwn.net/Articles/1037071/\"\u003e6.17-rc5\u003c/a\u003e for testing.\n\"\u003cq\u003eThings remain normal - both the diffstat and the commit counts look\nentirely sane\u003c/q\u003e\".  The announcement also contains a plea for maintainers\nto not overuse Link: tags when applying patches.",
+      "links": [
+        "https://lwn.net/Articles/1037072/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-09-07T23:02:26Z"
+    }
+  },
+  {
+    "hash": "328834bdbc3939fff927d05b29a129c1febdc35a3d1285cb1f1bafc3a07cf544",
+    "item": {
+      "title": "Linux 6.17-rc5 Released With NVIDIA \"Nouveau\" Driver Stability Issues Addressed",
+      "description": "Linux 6.17-rc5 is out for testing as the newest weekly release candidate as we near the stable Linux 6.17 release in late September...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-rc5"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-07T22:30:32Z"
+    }
+  },
+  {
+    "hash": "ac3736dccf1ea2988c78e55665ba7dec5de1ed2943df08a3c685f63b36d57ef4",
+    "item": {
+      "title": "Pico CSS – Minimal CSS Framework for Semantic HTML",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45161855\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://picocss.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T20:31:38Z"
+    }
+  },
+  {
+    "hash": "75dfc964b3503522bce47868f294f00e6bea72fbdc52c481ac660ff56645954d",
+    "item": {
+      "title": "Using Claude Code to modernize a forgotten Linux kernel driver",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45163362\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T23:53:47Z"
+    }
+  },
+  {
+    "hash": "6a9754317ccdbf78ff2d4c516511bab0762d50907c66f3962dbda2fdf4e9a101",
+    "item": {
+      "title": "The demo scene is dying, but that's alright",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162803\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.datagubbe.se/sceneherit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T22:34:23Z"
+    }
+  },
+  {
+    "hash": "afc86699b885db562808d74153cf2776bd3c14023f7bcd0cfc13941c6eabd218",
+    "item": {
+      "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45152284\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Sep/6/research-goblin/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-06T19:42:48Z"
+    }
+  },
+  {
+    "hash": "74aed58ccc2b1b3e88ebb550325c6f283535e7f487905279e80561aec1ce7b3b",
+    "item": {
+      "title": "Analog optical computer for AI inference and combinatorial optimization",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129507\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/s41586-025-09430-z"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-04T17:06:14Z"
+    }
+  },
+  {
+    "hash": "d3a7fd44868e27a4274719512782ee36b1d8fb009ceaedd53a9121ed0160c23b",
+    "item": {
+      "title": "Everything from 1991 Radio Shack ad I now do with my phone (2014)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45161816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T20:26:30Z"
+    }
+  },
+  {
+    "hash": "a6b808aa4785b7b787f463daa5f3652a44471a1f535d9907c56d6de2a24da6dd",
+    "item": {
+      "title": "Formatting code should be unnecessary",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45163043\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://maxleiter.com/blog/formatting"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T23:08:42Z"
+    }
+  },
+  {
+    "hash": "f77b61b2b754b1649a1b338fa837e22ebfb546c5e2d71b23d69c36ae90f89538",
+    "item": {
+      "title": "Esoteric Languages Challenge Coders to Think Way Outside the Box",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45137772\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-05T12:33:11Z"
+    }
+  },
+  {
+    "hash": "145651f2f4dfbd5d9558fe84aa448b13487e4f17ba8c719c802d8a27e6c9c22c",
+    "item": {
+      "title": "The race to build a distributed GPU runtime",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45131784\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-04T20:18:47Z"
+    }
+  },
+  {
+    "hash": "ffce3473e1f95c9a600de811c3bbbf517fa4e0926d78926e18fd20d1192ab8d5",
+    "item": {
+      "title": "Taking Buildkite from a side project to a global company",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162593\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T22:03:13Z"
+    }
+  },
+  {
+    "hash": "a4a3c50c3d89e607baaf40798ee9d5ef1e4976592706e3461eb0e2a2c0558f61",
+    "item": {
+      "title": "Detroit's Carmakers to Save Billions in Emissions Rollback",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162886\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T22:45:51Z"
+    }
+  },
+  {
+    "hash": "5ab9fef19fbbc61e2c54e4fd2ba9336d1c8bb985f9dde7439d8a373530e34601",
+    "item": {
+      "title": "The Expression Problem and its solutions (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45155877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T06:28:04Z"
+    }
+  },
+  {
+    "hash": "d75ab3152fc2f572afc96a96cacc1ab735a591f96b7a58607fd6c1ada9a7d74a",
+    "item": {
+      "title": "SQLite's Use of Tcl (2017)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45158814\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T15:03:46Z"
+    }
+  },
+  {
+    "hash": "140d67df2f0cbefa8f90225698dc78e878cb5474f2b4fcbb524a6e7d4a5b445d",
+    "item": {
+      "title": "Creative Technology: The Sound Blaster",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162501\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.abortretry.fail/p/the-story-of-creative-technology"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T21:50:30Z"
+    }
+  },
+  {
+    "hash": "3b880d61ffb142506750c12675bba6871b63fbdc049d0b4dab7c9491055e0087",
+    "item": {
+      "title": "Taco Bell AI Drive-Thru",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T21:14:08Z"
+    }
+  },
+  {
+    "hash": "8e4e3a5c1fe4f11c987cfdbaa47e5b930414ad61d19306dacc5b9f5203bed46c",
+    "item": {
+      "title": "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162626\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T22:06:35Z"
+    }
+  },
+  {
+    "hash": "f8a74427d4973d4be5142f6f6132ba2968f6878ccc0a365c120e34bac34f5313",
+    "item": {
+      "title": "Show HN: OpenCV over WebRTC (in Go)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45162368\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T21:31:29Z"
+    }
+  },
+  {
+    "hash": "357c4c09c0e5764c4f02320072eb4078c458076a48a44f5f732406573703f448",
+    "item": {
+      "title": "Speed Brain: Helping web pages load faster (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45143124\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cloudflare.com/introducing-speed-brain/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-05T20:16:10Z"
+    }
+  },
+  {
+    "hash": "9311d57e85636a892ec848b4a5e99a9e8f40285fda0aeb8d157a7eefb7e1ec46",
+    "item": {
+      "title": "The “impossibly small” Microdot web framework",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45155682\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/Articles/1034121/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T05:38:30Z"
+    }
+  },
+  {
+    "hash": "a99331f8746403f825036330867ad63044722cfcf1f3c4144902e9532135048a",
+    "item": {
+      "title": "Ex-National Assembly Chief: South Korean KRW Stablecoins Must Trade on Binance",
+      "description": "\u003cp\u003eLee Kwang-jae, the former Secretary-General of the South Korean National Assembly, says Seoul must make sure Korean won-pegged stablecoins are listed on overseas crypto exchanges like Binance and Coinbase.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ex-national-assembly-chief-south-korea-should-list-krw-stablecoins-on-binance/\"\u003eEx-National Assembly Chief: South Korean KRW Stablecoins Must Trade on Binance\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ex-national-assembly-chief-south-korea-should-list-krw-stablecoins-on-binance/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "South Korea",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07135510/1757253309-image-1757227533192_optimized.jpg"
+      },
+      "published": "2025-09-07T23:30:00Z"
+    }
+  }
+]
