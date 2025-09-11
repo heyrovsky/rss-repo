@@ -2953,5 +2953,685 @@
       },
       "published": "2025-09-11T12:16:16Z"
     }
+  },
+  {
+    "hash": "a82272a14e1d09d8748e004c95179adc886028b59662589c31153f2023b915d9",
+    "item": {
+      "title": "Native ACME support comes to Nginx",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214023\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://letsencrypt.org/2025/09/11/native-acme-for-nginx"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T17:28:13Z"
+    }
+  },
+  {
+    "hash": "5d2777e3b7b2924da1288e27d68bcf0ec74e996c6f3788d5f75c3316b24f357e",
+    "item": {
+      "title": "NT OS Kernel Information Disclosure Vulnerability",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213299\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T16:13:09Z"
+    }
+  },
+  {
+    "hash": "54e5ad43c19e39f7b0afd65962c40657a4579d4b0deaabba7afd52744866f5ff",
+    "item": {
+      "title": "A tech-law measurement and analysis of event listeners for wiretapping",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213612\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2508.19825"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T16:46:09Z"
+    }
+  },
+  {
+    "hash": "e498c2fa63b874d601b93a9111f12eec33513cf34161fb4388285df89ede651a",
+    "item": {
+      "title": "Behind the scenes of Bun Install",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210850\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bun.com/blog/behind-the-scenes-of-bun-install"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T12:39:29Z"
+    }
+  },
+  {
+    "hash": "e61404b5539ecbd845d69e2e5f7f91d2ecfdb21bd19b9aa146a5f36d2c3a812c",
+    "item": {
+      "title": "Conway's Game of Life, but musical",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211868\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hudsong.dev/digital-darwin"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T14:05:31Z"
+    }
+  },
+  {
+    "hash": "d1ba2c0abffc1090811ae468f8d374fedc0be361b9a389bbfab7c03ebb319fc4",
+    "item": {
+      "title": "Spiral",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45212960\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spiraldb.com/post/announcing-spiral"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T15:45:38Z"
+    }
+  },
+  {
+    "hash": "15cec78655e7ffaadd1b1043032cb07df7960c6fb01ea550402a2ef87f73f5c4",
+    "item": {
+      "title": "Bulletproof host Stark Industries evades EU sanctions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214164\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T17:42:56Z"
+    }
+  },
+  {
+    "hash": "dfec39aa29de216b6e9d71c0d4d311226d6830b6cf48e96a1797de988c491ca7",
+    "item": {
+      "title": "'Robber bees' invade apiarist's shop in attempted honey heist",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T16:58:08Z"
+    }
+  },
+  {
+    "hash": "e279832fa6a21a0abc52147d2a39e51a3a20a286bd721aa30ff7a700a0c05a0e",
+    "item": {
+      "title": "CRISPR offers new hope for treating diabetes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211596\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T13:45:28Z"
+    }
+  },
+  {
+    "hash": "c3f4bd1a8a1e75991a19f67e20399371749a24f8f8c8f360b7b414ccf7efd230",
+    "item": {
+      "title": "Beyond package management: How Nix refactored my digital life",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167049\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T11:36:25Z"
+    }
+  },
+  {
+    "hash": "1c27949a320575a8d407df13735f3cd03306da0051a811917bb0d6773c4bb273",
+    "item": {
+      "title": "An engineering history of the Manhattan Project",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211127\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T13:04:49Z"
+    }
+  },
+  {
+    "hash": "6e5fdb362b3e090d845ebd3f7c7bf0dab378ad4c35b41adfd273dff173edd410",
+    "item": {
+      "title": "Gregg Kellogg has died",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210564\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T12:03:32Z"
+    }
+  },
+  {
+    "hash": "823cbd4688da9dd7556e2ebcb5d614d666bb8349edc6c52ab2a5bd11bd29a9e5",
+    "item": {
+      "title": "Public Suffix List",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://publicsuffix.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T12:56:55Z"
+    }
+  },
+  {
+    "hash": "7a1d6d7f12386bc2ee110c0b90cd343886c42f0085504154ef4f796a14bd6b60",
+    "item": {
+      "title": "From burner phones to decks of cards: NYC teens adjusting to the smartphone ban",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211527\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T13:39:43Z"
+    }
+  },
+  {
+    "hash": "f4aa2649ed3614f9ad3f45c908cdc12fbef91a4621748459ef47ecae55eb02f4",
+    "item": {
+      "title": "How I solved PyTorch's cross-platform nightmare",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45164762\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T04:59:35Z"
+    }
+  },
+  {
+    "hash": "ec08f06f569b1054e85a18e2f36a1fd2e84bb5961fe6a94e553228b6b047c1cc",
+    "item": {
+      "title": "The obstacles to scaling up humanoids",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213549\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/humanoid-robot-scaling"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T16:38:58Z"
+    }
+  },
+  {
+    "hash": "3d89c95f813ae62383e28530268b3e0eb0d30fb671dd5fca83da997dc9716b79",
+    "item": {
+      "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45209389\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T09:02:50Z"
+    }
+  },
+  {
+    "hash": "e6b0cd2cc78266a664542192d9760270ac7c8cab71a5fa5b55d673142e26d800",
+    "item": {
+      "title": "Center for the Alignment of AI Alignment Centers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210399\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alignmentalignment.ai"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T11:42:23Z"
+    }
+  },
+  {
+    "hash": "3133cf4bfb789d7b69c8f941f28a761b347202df8567856c98d7b0dfd9499622",
+    "item": {
+      "title": "The rise of async AI programming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210693\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.braintrust.dev/blog/async-programming"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T12:20:19Z"
+    }
+  },
+  {
+    "hash": "364bd9d407e50ef41f4a7f25a7b84d59dbbe00f97274608e6ce1fa614330c938",
+    "item": {
+      "title": "Gmail gets a dedicated place to track all your purchases",
+      "description": "Gmail reorganizes its order-tracking and promotion filters ahead of the holiday season. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/gmail-gets-a-dedicated-place-to-track-all-your-purchases/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "gmail",
+        "google"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-1152x648-1740415116.jpg"
+      },
+      "published": "2025-09-11T16:01:39Z"
+    }
+  },
+  {
+    "hash": "5ef866981ded82ed76fd2d0aa1992c2cd3bb4e86ffce606cc9d5b1200d01aaf4",
+    "item": {
+      "title": "Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity",
+      "description": "Google on Tuesday announced that its new Google Pixel 10 phones support the Coalition for Content Provenance and Authenticity (C2PA) standard out of the box to verify the origin and history of digital content.\nTo that end, support for C2PA's Content Credentials has been added to Pixel Camera and Google Photos apps for Android. The move, Google said, is designed to further digital media",
+      "links": [
+        "https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiND-z6FdGroBwhkfZkICZE_a3n4Z0Zuv-Lt9_h07Z-PZXd3uJGpn71IErD1z2AZwtd_ezsUQYmBQZkqTfPyEQiOKgui5srkxLrkuwfWPFnf-Lq4aJT6li0saJGnkUtq_MSELJn4OsWoZLjJ_DGETm2jSCSnMieUaH-lQX5Z4FDonKkiMFgCiLZTIkKl97/s1600/media.jpg"
+      },
+      "published": "2025-09-11T15:03:00Z"
+    }
+  },
+  {
+    "hash": "7e152290a2ecdb6b80950f093dc630f305c74b64cdbac1f57dc6f1d34187bc4e",
+    "item": {
+      "title": "Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence",
+      "description": "U.S. Senator Ron Wyden has called on the Federal Trade Commission (FTC) to probe Microsoft and hold it responsible for what he called \"gross cybersecurity negligence\" that enabled ransomware attacks on U.S. critical infrastructure, including against healthcare networks.\n\"Without timely action, Microsoft's culture of negligent cybersecurity, combined with its de facto monopolization of the",
+      "links": [
+        "https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjO2JHH1Cq9urNh3ZmyoP7Q6yq88mGNehISBb9dYOZU1yHCvbXsb6aO6tl9ujto-InJLL7FJmu0_y8SeEfWwVRI8y8GOSKV5Ig20mItluQXly5w7u3CSWAKodvGV6yFw8gSenHkuxG3XCPYZWGZ_NGEBOjAAniMbtkWi2oFtqEEstr9qmachxCvrwnyHP/s1600/ransomware-healthcare.jpg"
+      },
+      "published": "2025-09-11T14:51:00Z"
+    }
+  },
+  {
+    "hash": "a52ebcaf08871b5d93552a7aa761b2bd7a5d3d507dd24aba6853113d8d53b1b0",
+    "item": {
+      "title": "Six stable kernels patching the VMScape Spectre variant",
+      "description": "The \u003ca\nhref=\"https://comsec.ethz.ch/research/microarch/vmscape-exposing-and-exploiting-incomplete-branch-predictor-isolation-in-cloud-environments/\"\u003eVMScape\u003c/a\u003e\nvulnerability is a Spectre variant that \"\u003cq\u003eallows a malicious KVM guest to\nleak sensitive information such as encryption/decryption keys from a\nuserspace hypervisor such as QEMU\u003c/q\u003e\".  Greg Kroah-Hartman has announced\nthe \u003ca href=\"https://lwn.net/Articles/1037790/\"\u003e6.16.7\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1037791/\"\u003e6.12.47\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1037792/\"\u003e6.6.106\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1037793/\"\u003e6.1.152\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1037794/\"\u003e5.15.193\u003c/a\u003e, and \u003ca\nhref=\"https://lwn.net/Articles/1037795/\"\u003e5.10.244\u003c/a\u003e stable kernels, which add a\nmitigation for the hardware bug.",
+      "links": [
+        "https://lwn.net/Articles/1037788/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-09-11T16:46:29Z"
+    }
+  },
+  {
+    "hash": "73e1fa7e13fde4339792aafe8eb857a607698696fdf633f5ac7cea4d9513b598",
+    "item": {
+      "title": "[$] A policy for Link tags",
+      "description": "The Git source-code management system stores a lot of information about\nchanges to code — but it does not hold everything that might be of interest\nto a developer who needs to investigate a specific change in the future.\nCommits in a repository are the end result of a (sometimes extended)\ndiscussion; often, that discussion will result in changes to the code that\nare not explained in the changelog.  For some years now, many maintainers\nhave followed the convention of applying a Link tag to commits that points\nback to the mailing-list posting of the change.  Linus Torvalds has been\nexpressing his dislike for this convention for a while, though, and its\ntime appears to be coming to an end.",
+      "links": [
+        "https://lwn.net/Articles/1037069/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-09-11T15:16:09Z"
+    }
+  },
+  {
+    "hash": "47261845cd1d95573385efcbc0070883a3fd513192d78f3e2d535c985e30b7bd",
+    "item": {
+      "title": "Security updates for Thursday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (python3.12-cryptography), \u003cb\u003eDebian\u003c/b\u003e (chromium, hsqldb1.8.0, and imagemagick), \u003cb\u003eFedora\u003c/b\u003e (bustle, cef, maturin, rust-busd, rust-crypto-auditing-agent, rust-crypto-auditing-client, rust-crypto-auditing-event-broker, rust-monitord, rust-monitord-exporter, rustup, tuigreet, and wireshark), \u003cb\u003eOracle\u003c/b\u003e (kernel, microcode_ctl, and python3.12-cryptography), \u003cb\u003eRed Hat\u003c/b\u003e (httpd:2.4 and multiple packages), \u003cb\u003eSUSE\u003c/b\u003e (coreutils, curl, dpkg, ffmpeg-4, glib2, gnutls, go1.23-openssl, go1.24-openssl, go1.25-openssl, grub2, ImageMagick, jbigkit, kernel, libxslt, Mesa, opensc, opera, perl-JSON-XS, polkit, postgresql16, protobuf, python311, python311-deepdiff, sqlite3, ucode-intel, and warewulf4), and \u003cb\u003eUbuntu\u003c/b\u003e (bind9 and libxml2).",
+      "links": [
+        "https://lwn.net/Articles/1037777/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-09-11T15:12:10Z"
+    }
+  },
+  {
+    "hash": "9e9fa9ad5ae757a206aab58962e1ebd686f0f1be8f87825cd1a593e6338f841c",
+    "item": {
+      "title": "Everstake Expands Institutional Solana Services with ShredStream, SWQoS, and Validator-as-a-Service",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/DES_-_159_1_1757585306XrIzhAi1xP.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/DES_-_159_1_1757585306XrIzhAi1xP.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/09/DES_-_159_1_1757585306XrIzhAi1xP-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/DES_-_159_1_1757585306XrIzhAi1xP-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/DES_-_159_1_1757585306XrIzhAi1xP-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eMiami, FL, USA, 11th September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/everstake-expands-institutional-solana-services-with-shredstream-swqos-and-validator-as-a-service/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/DES_-_159_1_1757585306XrIzhAi1xP.jpg"
+      },
+      "published": "2025-09-11T14:30:29Z"
+    }
+  },
+  {
+    "hash": "c871918cc5585e0ee1737b79fcf39429c675c9714eb58cfcc589af5f97849c32",
+    "item": {
+      "title": "MEXC x Story Network (IP) $1M Campaign Records 1.59B USDT Trading Volume",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"454\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-36.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-36.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-36-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-36-768x447.png 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, has successfully concluded its $1 million prize pool campaign in partnership with Story Network (IP). The campaign attracted over 220,000 participants and recorded a total trading volume of 1.59 billion USDT, comprising 490 million USDT in spot trading and 1.1 billion USDT in futures",
+      "links": [
+        "https://thenewscrypto.com/mexc-x-story-network-ip-1m-campaign-records-1-59b-usdt-trading-volume/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-36.png"
+      },
+      "published": "2025-09-11T13:04:15Z"
+    }
+  },
+  {
+    "hash": "646a75fe313838361c2c25aac62dff7a8a7bdc43df721987c0476f204c2fc91d",
+    "item": {
+      "title": "Chainlink Announces Partnership with UBS and DigiFT to Automate Operations",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/partnered_to_automate_tokenized_fund_operations_onchain_under_the.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chainlink Announces Partnership with UBS and DigiFT to Automate Operations\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/partnered_to_automate_tokenized_fund_operations_onchain_under_the.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/partnered_to_automate_tokenized_fund_operations_onchain_under_the-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/partnered_to_automate_tokenized_fund_operations_onchain_under_the-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eChainlink has announced a partnership with UBS and DigiFT. The aim is to achieve a seamless workflow for tokenized fund operations onchain. The process is now divided into three steps under the Digital Transfer Agent framework, laying the foundation for a broader adoption across Hong Kong. Meanwhile, LINK prices noted",
+      "links": [
+        "https://thenewscrypto.com/chainlink-announces-partnership-with-ubs-and-digift-to-automate-operations/"
+      ],
+      "categories": [
+        "Industry News",
+        "Market Updates",
+        "Chainlink",
+        "Chainlink (LINK)",
+        "LINK",
+        "UBS"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ankur Sachdev"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/partnered_to_automate_tokenized_fund_operations_onchain_under_the.jpg"
+      },
+      "published": "2025-09-11T12:24:51Z"
+    }
+  },
+  {
+    "hash": "a79b078f560da8638e99cb4a9250835649f1ef0f03114e42bebf761b18dd1013",
+    "item": {
+      "title": "Bitget Builders Program Achieves 30M Social Views with Latest Creator Incubation Initiative",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"630\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/1280X1280_2_1757591707waFsNxIM1R.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/1280X1280_2_1757591707waFsNxIM1R.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/09/1280X1280_2_1757591707waFsNxIM1R-300x158.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/1280X1280_2_1757591707waFsNxIM1R-1024x538.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/1280X1280_2_1757591707waFsNxIM1R-768x403.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eSeychelles, Victoria, 11th September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bitget-builders-program-achieves-30m-social-views-with-latest-creator-incubation-initiative/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/1280X1280_2_1757591707waFsNxIM1R.png"
+      },
+      "published": "2025-09-11T12:08:15Z"
+    }
+  },
+  {
+    "hash": "4a83cfab7372710eb6fb76817db0fb996b56ecad8ac4679152a82ab94b5148c3",
+    "item": {
+      "title": "Ethereum (ETH) Bulls vs. the $5K Wall: Will They Push Forward or Will Bears Circle the Ring?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Ethereum-ETH-Bulls-vs.-the-5K-Wall-Will-They-Push-Forward-or-Will-Bears-Circle-the-Ring.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Bulls vs. the $5K Wall: Will They Push Forward or Will Bears Circle the Ring?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Ethereum-ETH-Bulls-vs.-the-5K-Wall-Will-They-Push-Forward-or-Will-Bears-Circle-the-Ring.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Ethereum-ETH-Bulls-vs.-the-5K-Wall-Will-They-Push-Forward-or-Will-Bears-Circle-the-Ring-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Ethereum-ETH-Bulls-vs.-the-5K-Wall-Will-They-Push-Forward-or-Will-Bears-Circle-the-Ring-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe 1.34% uptick in the crypto market cap has brought in mixed signals, resulting in the digital assets jumping between the red and green zones. The largest asset, Bitcoin (BTC), is attempting to move up, trading within the $114K range, while the latest altcoin, Ethereum (ETH), has briefly entered the",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-bulls-vs-the-5k-wall-will-they-push-forward-or-will-bears-circle-the-ring/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Ethereum-ETH-Bulls-vs.-the-5K-Wall-Will-They-Push-Forward-or-Will-Bears-Circle-the-Ring.jpg"
+      },
+      "published": "2025-09-11T11:17:56Z"
+    }
+  },
+  {
+    "hash": "4cc37e62b081fd5496925893c76a4c1f202a1cd7747d8fa98dd0f4e3b8f4379c",
+    "item": {
+      "title": "Linux 6.18 Will Further Complicate Non-GPL Out-Of-Tree File-Systems",
+      "description": "Out-of-tree file-system drivers not licensed/compatible with the GPL will have a new obstacle to deal with come time for Linux 6.18 later this year...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-write-cache-pages"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-11T16:53:03Z"
+    }
+  },
+  {
+    "hash": "0549cb7ba9a0417d1e984021bf10983c89fb3e46030e5a4241207bd86758b9dc",
+    "item": {
+      "title": "Apache Software Foundation Unveils Its Branding Overhaul With New Logo \u0026 \"The ASF\" Name",
+      "description": "The Apache Software Foundation announced last year that they would be changing its corporate logo and overhaul its branding after being criticized by American Indian activists. Today they announced the brand new Apache Software Foundation branding...",
+      "links": [
+        "https://www.phoronix.com/news/New-Apache-Software-Logo"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-11T16:11:58Z"
+    }
+  },
+  {
+    "hash": "cbe99892244594b13ceabca23401a5372c7d4df2b8f04e9297ba578c1b17a0c5",
+    "item": {
+      "title": "Linux Patched For New \"VMSCAPE\" Vulnerability Affecting Intel \u0026 AMD CPUs",
+      "description": "The Linux kernel was just patched moments ago for a new CPU security vulnerability... VMSCAPE. VMSCAPE affects both Intel and AMD processors...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-VMSCAPE"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-11T15:01:52Z"
+    }
+  },
+  {
+    "hash": "312689c7d86c420160388ca3869c87421fa73ac770a08170635d7ef11228c6dc",
+    "item": {
+      "title": "Solana Price Prediction: Bitwise CIO Says ‘Solana Season’ Is Just Weeks Away – How High Can SOL Go?",
+      "description": "\u003cp\u003eBitwise CIO argues that spot ETF approval will be the tipping point for a “Solana Season” – Solana price prediction stands to see parabolic momentum in the coming month.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-bitwise-cio-says-solana-season-is-just-weeks-away-how-high-can-sol-go/\"\u003eSolana Price Prediction: Bitwise CIO Says ‘Solana Season’ Is Just Weeks Away – How High Can SOL Go?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-bitwise-cio-says-solana-season-is-just-weeks-away-how-high-can-sol-go/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitwise",
+        "Price Prediction",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11162607/1757607966-solana-price-prediction-2.jpg"
+      },
+      "published": "2025-09-11T18:08:04Z"
+    }
+  },
+  {
+    "hash": "1c0941c0f837390387173db011f19ecb5d131c26826a469424a1e690e45e9987",
+    "item": {
+      "title": "U.S. Inflation Stays at 2.9% to Boost Rate Cut Expectations – Bitcoin Rally to $140K?",
+      "description": "\u003cp data-start=\"492\" data-end=\"797\"\u003eBitcoin has reacted to U.S. inflation data as rate expectations for a cut have firmed. CPI has held at 2.9% and core at 3.1%, while the 10-year has fallen below 4%. Polymarket has shown 84% odds for a 25 bps move as BTC has eyed $120k–$140k with support near $109,116 and $105k–$107k.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-inflation-stays-at-2-9-to-boost-rate-cut-expectations-bitcoin-rally-to-140k/\"\u003eU.S. Inflation Stays at 2.9% to Boost Rate Cut Expectations – Bitcoin Rally to $140K?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-inflation-stays-at-2-9-to-boost-rate-cut-expectations-bitcoin-rally-to-140k/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Inflation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11151424/1757603664-stock-image_optimized-1.webp"
+      },
+      "published": "2025-09-11T17:53:56Z"
+    }
+  },
+  {
+    "hash": "4b133c356e67248afee3a625240171c9797954472e1fd638fb322458b17672d1",
+    "item": {
+      "title": "UK Blockchain Petition Surges After Coinbase Alert – Will It Hit Parliament Soon?",
+      "description": "\u003cp data-start=\"599\" data-end=\"904\"\u003eMomentum has built around a petition in the UK on blockchain and stablecoins after Coinbase mobilized users. It calls for a national framework, tokenization, and a crypto policy lead. With 5,600+ signups, it seeks 10,000 for a reply and 100,000 for debate before March 3, 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uk-blockchain-petition-surges-after-coinbase-alert-will-it-hit-parliament-soon/\"\u003eUK Blockchain Petition Surges After Coinbase Alert – Will It Hit Parliament Soon?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uk-blockchain-petition-surges-after-coinbase-alert-will-it-hit-parliament-soon/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Blockchain",
+        "Coinbase",
+        "Stablecoin",
+        "UK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11162133/1757607692-image-1757607664915_optimized.jpg"
+      },
+      "published": "2025-09-11T16:59:27Z"
+    }
+  },
+  {
+    "hash": "bccda25d75139c3bd108f30af9910d455b3484e1375e9cd8b435b88b0ad314d3",
+    "item": {
+      "title": "Mantle, Bittensor, and Sky Drive Altcoin Season – But Each for Different Reasons",
+      "description": "\u003cp data-start=\"503\" data-end=\"813\"\u003eAltcoin Season has reflected in Mantle, Bittensor, and Sky, each gaining traction for distinct reasons. Mantle’s listings, Bittensor’s AI network expansion, and Sky’s governance role have drawn liquidity. Their divergence shows how altseason develops across infrastructure, AI, and DeFi.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-tracks-mantle-bittensor-and-sky/\"\u003eMantle, Bittensor, and Sky Drive Altcoin Season – But Each for Different Reasons\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-tracks-mantle-bittensor-and-sky/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11162703/1757608022-gemini_generated_image_hlya2khlya2khlya_optimized.jpg"
+      },
+      "published": "2025-09-11T16:33:00Z"
+    }
+  },
+  {
+    "hash": "7debaa2ad27ae3726e12213b7827739513b7474a629d3510a3442ad321532dc7",
+    "item": {
+      "title": "XRP Leads the Crypto Market, As Investors Turn to APT Miner Cloud Mining",
+      "description": "\u003cp\u003eAPT Miner users do not need to purchase mining machines, nor do they have to bear electricity costs or technical maintenance costs - they simply select a contract to automatically participate in mining.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-leads-the-crypto-market-as-investors-turn-to-apt-miner-cloud-mining/\"\u003eXRP Leads the Crypto Market, As Investors Turn to APT Miner Cloud Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-leads-the-crypto-market-as-investors-turn-to-apt-miner-cloud-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11154318/1757605398-apt-miner.jpg"
+      },
+      "published": "2025-09-11T15:47:12Z"
+    }
+  },
+  {
+    "hash": "a8e0fd61193e45eba704c837d359ec539598838ab2dced4dd80ae1ce5c4b4996",
+    "item": {
+      "title": "SOL Extends Market Rally as RI Mining Expands Green Cloud Mining Across XRP, BTC, and ETH",
+      "description": "\u003cp\u003e​RI Mining​—a UK-based cloud mining provider—has broadened its contracts to include Solana in addition to Bitcoin, Ethereum, and XRP.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/sol-extends-market-rally-as-ri-mining-expands-green-cloud-mining-across-xrp-btc-and-eth/\"\u003eSOL Extends Market Rally as RI Mining Expands Green Cloud Mining Across XRP, BTC, and ETH\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/sol-extends-market-rally-as-ri-mining-expands-green-cloud-mining-across-xrp-btc-and-eth/"
+      ],
+      "categories": [
+        "Press Releases",
+        "$SOL"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11152248/1757604167-ri-mining.jpg"
+      },
+      "published": "2025-09-11T15:25:57Z"
+    }
   }
 ]
