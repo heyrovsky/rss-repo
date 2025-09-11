@@ -1,0 +1,667 @@
+[
+  {
+    "hash": "0e9e497ac21faca9dae7dd1af1d6388b914be9e6ef65efc7f878dc122f20997d",
+    "item": {
+      "title": "JuCoin Rebrands to Ju.com, Expands Into Full Digital Finance Ecosystem",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"JuCoin Rebrands to Ju.com, Expands Into Full Digital Finance Ecosystem\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe service-driven cryptocurrency ecosystem JuCoin announced that it has rebranded its name to Ju.com to better represent its development into a full-fledged digital finance ecosystem. In keeping with Ju.com\u0026#8217;s belief that cutting-edge technologies should feel comfortable and approachable, the branding introduces a linked identity and comes at the same time as",
+      "links": [
+        "https://thenewscrypto.com/jucoin-rebrands-to-ju-com-expands-into-full-digital-finance-ecosystem/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1.jpeg"
+      },
+      "published": "2025-09-10T13:00:00Z"
+    }
+  },
+  {
+    "hash": "d8596bfa4fde59cc8225007d06f0a4b20d89a332bf929adf49f156fc0f225693",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for September 11, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1036683/\"\u003eFront\u003c/a\u003e: Space Grade Linux; KDE's new distribution; Rug pulls and forks; Dependency tracker; Kernel configuration; Framework 12 laptop.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1036685/\"\u003eBriefs\u003c/a\u003e: npm security; high-memory; Anaconda WebUI; OpenSUSE bcachefs; 32-bit Firefox; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1036686/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1036683/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-09-11T00:19:23Z"
+    }
+  },
+  {
+    "hash": "bd71f366964d5e65058beb72c237d2da0ae0452898f8682647e75ade1649100e",
+    "item": {
+      "title": "Mesa Drops VDPAU Video Acceleration In Favor Of VA-API",
+      "description": "Mesa's Gallium3D video acceleration code has long supported both the VA-API and VDPAU interfaces for video acceleration. VA-API has enjoyed more widespread support among Linux applications and typically more robust while the Video Decode and Presentation API for Unix (VDPAU) was the interface originally started by NVIDIA for their official Linux driver. As of today, Mesa has now removed support for VDPAU acceleration...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-Drops-VDPAU"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-10T21:55:04Z"
+    }
+  },
+  {
+    "hash": "48a487c8356dc43e86c0116e6c977375e6fddfc040b9ad35cd9157806cf3e7b1",
+    "item": {
+      "title": "Using an MCU’s Own Debug Peripheral to Defeat Bootrom Protection",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"375\" src=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg 1278w, https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?resize=250,117 250w, https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?resize=400,187 400w, https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?resize=800,375 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"826167\" data-permalink=\"https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/tamagotchi_paradise_teardown_tamagotchi_center/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg\" data-orig-size=\"1278,599\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"tamagotchi_paradise_teardown_tamagotchi_center\" data-image-description=\"\u0026lt;p\u0026gt;https://www.instagram.com/p/DMA0iKdqNaz/\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?w=800\" /\u003e\u003c/div\u003eReleased in July of 2025, the Tamagotchi Paradise may look somewhat like the late 90s toy that terrorized parents and teachers alike for years, but it\u0026#8217;s significantly more complex and \u003ca href=\"https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "Reverse Engineering",
+        "ARM microcontroller",
+        "microcontroller",
+        "reverse engineering"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg"
+      },
+      "published": "2025-09-10T23:00:38Z"
+    }
+  },
+  {
+    "hash": "6777fb6053a17b01142ec76192dcee07527291a43eefc3d35a8e979d7835951f",
+    "item": {
+      "title": "The 555 as You’ve Never Seen It: In Textile!",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"503\" src=\"https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"The weaving is on the left, a microphoto of the chip die is on the right.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg 2052w, https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?resize=250,157 250w, https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?resize=400,251 400w, https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?resize=800,503 800w, https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?resize=1536,966 1536w, https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?resize=2048,1287 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"826145\" data-permalink=\"https://hackaday.com/2025/09/10/the-555-as-youve-never-seen-it-in-textile/comparison-6/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg\" data-orig-size=\"2052,1290\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"comparison\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg?w=800\" /\u003e\u003c/div\u003eThe Diné (aka Navajo) people have been using their weaving as trade goods at least since European contact, and probably long before. They\u0026#8217;ve never shied from adopting innovation: churro sheep \u003ca href=\"https://hackaday.com/2025/09/10/the-555-as-youve-never-seen-it-in-textile/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/the-555-as-youve-never-seen-it-in-textile/"
+      ],
+      "categories": [
+        "Art",
+        "555",
+        "Navajo",
+        "Navajo weaving",
+        "rug",
+        "weaving"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/comparison.jpg"
+      },
+      "published": "2025-09-10T20:00:22Z"
+    }
+  },
+  {
+    "hash": "a1a403a9f47a1318ae49061d103431425fb4d597084f421e25cc781319910f5d",
+    "item": {
+      "title": "FLOSS Weekly Episode 846: Mastering Embedded Linux Programming",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"483960\" data-permalink=\"https://hackaday.com/pipewire-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Pipewire\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" /\u003e\u003c/div\u003eThis week Jonathan and Dan chat with Frank Vasquez and Chris Simmonds about Embedded Linux, and the 4th edition of the Mastering Embedded Linux Programming book. How has this space \u003ca href=\"https://hackaday.com/2025/09/10/floss-weekly-episode-846-mastering-embedded-linux-programming/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/floss-weekly-episode-846-mastering-embedded-linux-programming/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "Embedded Linux",
+        "FLOSS Weekly",
+        "Tech Books"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg"
+      },
+      "published": "2025-09-10T18:30:49Z"
+    }
+  },
+  {
+    "hash": "9697360159792042a27ce21077221fb45aed030349d12ee7a6fe6736a11f6524",
+    "item": {
+      "title": "Everything in a Linux Terminal",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"494\" src=\"https://hackaday.com/wp-content/uploads/2025/09/ssh.gif?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" data-attachment-id=\"815730\" data-permalink=\"https://hackaday.com/2025/09/10/everything-in-a-linux-terminal/ssh/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/ssh.gif\" data-orig-size=\"800,494\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ssh\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/ssh.gif?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/ssh.gif?w=800\" /\u003e\u003c/div\u003eHere at Hackaday Central, we fancy that we know a little something about Linux. But if you\u0026#8217;d tasked us to run any GUI program inside a Linux terminal, we\u0026#8217;d have \u003ca href=\"https://hackaday.com/2025/09/10/everything-in-a-linux-terminal/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/everything-in-a-linux-terminal/"
+      ],
+      "categories": [
+        "Linux Hacks",
+        "Software Hacks",
+        "cli",
+        "linux",
+        "terminal",
+        "Wayland"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/ssh.gif"
+      },
+      "published": "2025-09-10T15:30:33Z"
+    }
+  },
+  {
+    "hash": "18a346adcb02fb03dbf3543eb500dfbd856bd82b039dde031810fcb609a3a454",
+    "item": {
+      "title": "Bare Metal STM32: the Various Real Time Clock Flavors",
+      "description": "\u003cdiv\u003e\u003cimg width=\"587\" height=\"420\" src=\"https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg?w=587\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg 587w, https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg?resize=250,179 250w, https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg?resize=400,286 400w\" sizes=\"auto, (max-width: 587px) 100vw, 587px\" data-attachment-id=\"444208\" data-permalink=\"https://hackaday.com/2020/11/17/bare-metal-stm32-from-power-up-to-hello-world/stm32_ic_logo/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg\" data-orig-size=\"587,420\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"stm32_ic_logo\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg?w=587\" /\u003e\u003c/div\u003eKeeping track of time is essential, even for microcontrollers, which is why a real-time clock (RTC) peripheral is a common feature in MCUs. In the case of the STM32 family \u003ca href=\"https://hackaday.com/2025/09/10/bare-metal-stm32-the-various-real-time-clock-flavors/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/bare-metal-stm32-the-various-real-time-clock-flavors/"
+      ],
+      "categories": [
+        "Featured",
+        "Microcontrollers",
+        "Skills",
+        "Software Development",
+        "real time clock",
+        "stm32"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2020/10/stm32_ic_logo.jpg"
+      },
+      "published": "2025-09-10T14:00:57Z"
+    }
+  },
+  {
+    "hash": "240574a9a1da19668091ddf11cde2344b5754f8588dfd2735a0a93c61dd93164",
+    "item": {
+      "title": "Rackintosh Plus Is the Form Factor Nobody Has Been Waiting For",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"282\" src=\"https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png 5850w, https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?resize=250,88 250w, https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?resize=400,141 400w, https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?resize=800,282 800w, https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?resize=1536,542 1536w, https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?resize=2048,722 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"815384\" data-permalink=\"https://hackaday.com/2025/09/10/rackintosh-plus-is-the-form-factor-nobody-has-been-waiting-for/web_racintosh_front-back/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png\" data-orig-size=\"5850,2063\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"WEB_Racintosh_Front-Back\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png?w=800\" /\u003e\u003c/div\u003eFor all its friendly countenance and award-winning industrial design, there\u0026#8217;s one thing the venerable Macintosh Plus can\u0026#8217;t do: fit into a 1U rack space. OK, if we\u0026#8217;re being honest with \u003ca href=\"https://hackaday.com/2025/09/10/rackintosh-plus-is-the-form-factor-nobody-has-been-waiting-for/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/rackintosh-plus-is-the-form-factor-nobody-has-been-waiting-for/"
+      ],
+      "categories": [
+        "Mac Hacks",
+        "Retrocomputing",
+        "19-inch rack",
+        "1u",
+        "macintosh plus",
+        "retrocomputing"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/WEB_Racintosh_Front-Back.png"
+      },
+      "published": "2025-09-10T11:00:00Z"
+    }
+  },
+  {
+    "hash": "7b6ac0dca4beb54a59ca8c551a71c547e6ef75810bd7074b71bc1b81d81009ab",
+    "item": {
+      "title": "KDE launches its own distribution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45204393\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T21:49:36Z"
+    }
+  },
+  {
+    "hash": "570bd288fc1391945af64bdf9dcb4fd3c86c28097ea559103860bf8a220b550b",
+    "item": {
+      "title": "DOOMscrolling: The Game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45205232\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ironicsans.ghost.io/doomscrolling-the-game/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T22:56:55Z"
+    }
+  },
+  {
+    "hash": "685274b7aa68dd4bb2a9005638eaa5d9a19d65c74c2081907916c2f71495fc0f",
+    "item": {
+      "title": "Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45204838\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T22:21:35Z"
+    }
+  },
+  {
+    "hash": "23e41d48cb84e68345dfecbd81450c60cee9ca57c4f18411e38ef8013a01db43",
+    "item": {
+      "title": "Fraudulent Publishing in the Mathematical Sciences",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45203935\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2509.07257"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T21:21:36Z"
+    }
+  },
+  {
+    "hash": "c7eedbb8e4e5474a3664c474c662f3129e8a0e5dc4a02bbbf4162b69bf68139d",
+    "item": {
+      "title": "A polyglot's guide to multiple-dispatch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45155963\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T06:49:20Z"
+    }
+  },
+  {
+    "hash": "6b618e37b7d20cb7a04e9a31f5b8e2e205c7e51bb91387fbfa55f77d36c0838d",
+    "item": {
+      "title": "Longhorn – A Kubernetes-Native Filesystem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45155731\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vegard.blog.engen.priv.no/?p=518"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T05:49:29Z"
+    }
+  },
+  {
+    "hash": "45cd8b10ceb742c1005b312ab4156fa2f9991e3887835f1444381225db049b5a",
+    "item": {
+      "title": "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167757\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T13:04:47Z"
+    }
+  },
+  {
+    "hash": "173baa21ed9064d8b0e036ec0adc67f99cfa6de100f5bedf517d4f2e73f204c9",
+    "item": {
+      "title": "A desktop environment without graphics (tmux-like)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167295\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Julien-cpsn/desktop-tui"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T12:07:14Z"
+    }
+  },
+  {
+    "hash": "b43041278c764627394623ba9340ef7aa640b82283c24ad404bee8bfb57ac49b",
+    "item": {
+      "title": "\"No Tax on Tips\" Includes Digital Creators, Too",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45200024\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T16:26:07Z"
+    }
+  },
+  {
+    "hash": "e5cf0983fc18ece6716edd09d3b0a15d776d2e4b48dd5bf13843344a8c7e7526",
+    "item": {
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "description": "Verizon and T-Mobile lost but AT\u0026#038;T beat the FCC. SCOTUS may have to step in.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/"
+      ],
+      "categories": [
+        "Policy",
+        "verizon"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg"
+      },
+      "published": "2025-09-10T21:28:43Z"
+    }
+  },
+  {
+    "hash": "6541c1f79c8330341ecff6d822267826036f6b76f9616de1453810057acaf3b2",
+    "item": {
+      "title": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
+      "description": "Even mobile radars are now software upgradeable.",
+      "links": [
+        "https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/"
+      ],
+      "categories": [
+        "Culture",
+        "drones",
+        "Ukraine"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Robin-radar.webp"
+      },
+      "published": "2025-09-10T21:16:51Z"
+    }
+  },
+  {
+    "hash": "265402202bf59167f42d816fe14873153442456352446d936c66286767328d7e",
+    "item": {
+      "title": "Bitcoin Price Prediction: U.S. PPI Falls 0.1% as BTC Holds $113K Triangle Breakout",
+      "description": "\u003cp\u003eBitcoin price prediction: U.S. PPI fell 0.1% in August, easing inflation pressures. BTC holds $113K with triangle breakout targeting $117K–$125K ahead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-u-s-ppi-falls-0-1-as-btc-holds-113k-triangle-breakout/\"\u003eBitcoin Price Prediction: U.S. PPI Falls 0.1% as BTC Holds $113K Triangle Breakout\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-u-s-ppi-falls-0-1-as-btc-holds-113k-triangle-breakout/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/22171914/1755883153-bitcoin-price-prediction-5.jpg"
+      },
+      "published": "2025-09-11T00:34:40Z"
+    }
+  },
+  {
+    "hash": "9cfb3d6aa4e6451034888ab39c1bc7454da45f5f931ed13cd1240da299053431",
+    "item": {
+      "title": "Polygon Hard Fork Fixes Bug That Knocked Nodes Offline — Network Back Online",
+      "description": "\u003cp\u003eThe Polygon network has restored operations after a software bug caused some nodes to lose sync with the blockchain. A Polygon hard fork was executed to resolve the issue.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/polygon-hard-fork-fixes-bug-that-knocked-nodes-offline-network-back-online/\"\u003ePolygon Hard Fork Fixes Bug That Knocked Nodes Offline — Network Back Online\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/polygon-hard-fork-fixes-bug-that-knocked-nodes-offline-network-back-online/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Blockchain News",
+        "News",
+        "Hard fork",
+        "Polygon"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10232109/1757546468-0_1-11_optimized.jpg"
+      },
+      "published": "2025-09-10T23:59:23Z"
+    }
+  },
+  {
+    "hash": "45e7d946a621cffa6409e046d3087a93004f693162e5047ebb41fe802cdae9ff",
+    "item": {
+      "title": "South Korea Lifts Ban on VC Funding for Crypto Companies",
+      "description": "\u003cp\u003eSouth Korean cryptoasset-related companies can now apply for venture capital (VC) funding after Seoul abolished a seven-year-old ban.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korea-lifts-ban-on-vc-funding-for-crypto-companies/\"\u003eSouth Korea Lifts Ban on VC Funding for Crypto Companies\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korea-lifts-ban-on-vc-funding-for-crypto-companies/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Regulation",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10144911/1757515750-image-1757487507940_optimized.jpg"
+      },
+      "published": "2025-09-10T23:30:00Z"
+    }
+  },
+  {
+    "hash": "512111a150caeb1ad6acfacb63e8ec4dce2cd443aa2cd012bb9c0e487fd9d055",
+    "item": {
+      "title": "GOP Crypto Bill Faces Setback as Senator Warns “We’re Not Ready”",
+      "description": "\u003cp\u003eA GOP crypto bill faces an intra-party clash as Sen. John Kennedy warns against rushing the measure, saying lawmakers have \"a lot of questions\" and are not ready to advance it this month.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gop-crypto-bill-faces-setback-as-senator-warns-were-not-ready/\"\u003eGOP Crypto Bill Faces Setback as Senator Warns “We’re Not Ready”\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gop-crypto-bill-faces-setback-as-senator-warns-were-not-ready/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "Crypto bill",
+        "Senate Bill"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10224717/1757544436-0_1-10_optimized.jpg"
+      },
+      "published": "2025-09-10T22:50:15Z"
+    }
+  },
+  {
+    "hash": "707047c49e2fcbb5a2bef1d1f4a296f0176036e9159b00079eacd7ef3b72492d",
+    "item": {
+      "title": "Crypto Price Prediction Today 10 September – XRP, Pi Coin, Dogecoin",
+      "description": "\u003cp\u003eThe crypto price prediction for these major tokens is about to get much more bullish, and here's why.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-price-prediction-today-10-september-xrp-pi-coin-dogecoin/\"\u003eCrypto Price Prediction Today 10 September – XRP, Pi Coin, Dogecoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-price-prediction-today-10-september-xrp-pi-coin-dogecoin/"
+      ],
+      "categories": [
+        "News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10120542/1757505941-crypto-price-prediction.jpg"
+      },
+      "published": "2025-09-10T22:35:00Z"
+    }
+  },
+  {
+    "hash": "69725144e6842b0a313c33581f7d423a3a44fae5488f9123408fd010e4037f79",
+    "item": {
+      "title": "Texas Ponzi Scheme Debtor Denied $12.5M Bankruptcy Protection in Crypto Case",
+      "description": "\u003cp\u003eThe U.S. Trustee Program found Nathan Fuller, owner of Privvy Investments, attempted to hide assets and provided false testimony to discharge more than $12.5 million in debts.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/texas-ponzi-scheme-debtor-denied-12-5m-bankruptcy-protection-in-crypto-case/\"\u003eTexas Ponzi Scheme Debtor Denied $12.5M Bankruptcy Protection in Crypto Case\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/texas-ponzi-scheme-debtor-denied-12-5m-bankruptcy-protection-in-crypto-case/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "Bankruptcy",
+        "Ponzi Scheme"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10220017/1757541616-1504b6c8-fe9f-48da-8a92-0ad23f3f9e3e_optimized.jpg"
+      },
+      "published": "2025-09-10T22:09:05Z"
+    }
+  },
+  {
+    "hash": "f4e7ac981d1915e7f20717577801585394710f645cca0da5d125e0a49957a3d2",
+    "item": {
+      "title": "Perplexity AI Predicts the Price of XRP, Shiba Inu and Pepe by the End of 2025",
+      "description": "\u003cp\u003eChatGPT challenger Perplexity AI predicts that XRP, Pepe, and Shiba Inu could generate substantial gains for investors as the year heads into the holiday season.Market activity seems to support this outlook. At the end of last month, Bitcoin reached an all-time high of $124,128, surpassing its earlier record of $122,838 set just weeks prior. The [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-xrp-shiba-inu-and-pepe-by-the-end-of-2025/\"\u003ePerplexity AI Predicts the Price of XRP, Shiba Inu and Pepe by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-xrp-shiba-inu-and-pepe-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "News",
+        "Price Analysis",
+        "Pepe",
+        "Shiba inu",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10122536/Perplexity-AI-Predicts-the-Price.jpg"
+      },
+      "published": "2025-09-10T21:49:41Z"
+    }
+  },
+  {
+    "hash": "6d9251ef1ec5568524e7bcdb1978e300caba216f86a74fbd904088a1f66e53e4",
+    "item": {
+      "title": "3 Cryptos Under $1 to Turn $100 into $10,000 – 10 September",
+      "description": "\u003cp\u003eAs the combined capitalization of all cryptos reclaims $4 trillion mark following recent setbacks, here are three of the very best meme coins under $1 that could be strong contenders for investors.Below, we outline why these tokens are attracting attention and what makes them stand out as some of the most compelling low-cost meme coin [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/3-cryptos-under-1-to-turn-100-into-10000-10-september/\"\u003e3 Cryptos Under $1 to Turn $100 into $10,000 – 10 September\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/3-cryptos-under-1-to-turn-100-into-10000-10-september/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10112636/3-Cryptos-Under-1.jpg"
+      },
+      "published": "2025-09-10T21:49:09Z"
+    }
+  },
+  {
+    "hash": "1a086431a5b00e4ab8966c7a8838bdfc3e4dea999105e39ba1a2367759546c71",
+    "item": {
+      "title": "Altcoin Season Develops Through Pump.fun, Mantle, and Avalanche",
+      "description": "\u003cp\u003eAltcoin season often takes shape through tokens that capture unique flows of capital. This week, three assets are standing out in distinct ways. Pump.fun has continued to climb on the back of steady memecoin creation. Mantle has benefited from new futures products and exchange campaigns. Avalanche is drawing attention for partnerships that extend into mainstream [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-develops-through-pump-fun-mantle-and-avalanche/\"\u003eAltcoin Season Develops Through Pump.fun, Mantle, and Avalanche\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-develops-through-pump-fun-mantle-and-avalanche/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10214538/1757540737-image-1757540710984_optimized.jpg"
+      },
+      "published": "2025-09-10T21:47:59Z"
+    }
+  },
+  {
+    "hash": "fe4d1411547668428a3c0322d4d4944d4b47b34854490a6805458fdefa621810",
+    "item": {
+      "title": "Bubblemaps Warns of $170M Sybil Attack in MYX Airdrop — Largest Ever?",
+      "description": "\u003cp\u003eBubblemaps has reported a suspected $170M Sybil attack in the MYX airdrop, tracing 100 wallets with identical patterns as MYX defends its distribution process and trading continues.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bubblemaps-warns-of-170m-sybil-attack-in-myx-airdrop-largest-ever/\"\u003eBubblemaps Warns of $170M Sybil Attack in MYX Airdrop — Largest Ever?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bubblemaps-warns-of-170m-sybil-attack-in-myx-airdrop-largest-ever/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi News",
+        "News",
+        "Airdrop",
+        "Blockchain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10212857/1757539736-0_1-9_optimized.jpg"
+      },
+      "published": "2025-09-10T21:32:43Z"
+    }
+  },
+  {
+    "hash": "742ca17b72e630164d907095b2ee3f8949c26a000a67e2111d29e3fa17b075fe",
+    "item": {
+      "title": "Pi Coin Price Prediction: Crashes Toward New All-Time Low – Has Bitcoin Abandoned Pi?",
+      "description": "\u003cp\u003eThe Pi Coin price prediction may be in a very bearish position right now, with correlation with BTC hitting a new low.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pi-coin-price-prediction-crashes-toward-new-all-time-low-has-bitcoin-abandoned-pi/\"\u003ePi Coin Price Prediction: Crashes Toward New All-Time Low – Has Bitcoin Abandoned Pi?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pi-coin-price-prediction-crashes-toward-new-all-time-low-has-bitcoin-abandoned-pi/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Altcoins",
+        "Pi Network",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/10112256/1757503376-pi-coin-price-prediction.jpg"
+      },
+      "published": "2025-09-10T21:24:00Z"
+    }
+  }
+]
