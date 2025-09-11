@@ -663,5 +663,187 @@
       },
       "published": "2025-09-10T21:24:00Z"
     }
+  },
+  {
+    "hash": "c9d68ba319696c6cc4ae547c055b1764e7114f5a90c16a62cb1feb6ea05d2768",
+    "item": {
+      "title": "Pentagon begins deploying new satellite network to link sensors with shooters",
+      "description": "\"This is the first time we'll have a space layer fully integrated into our warfighting operations.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "falcon 9",
+        "launch",
+        "military space",
+        "space development agency",
+        "spacex",
+        "US Space Force",
+        "Vandenberg space force base",
+        "york space systems"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9tranche1-1-1152x648-1757536238.jpg"
+      },
+      "published": "2025-09-11T02:01:11Z"
+    }
+  },
+  {
+    "hash": "4de5eb311ec808b6d975e97c3ed30f339516cf5eed4c8e861846f613c7e24808",
+    "item": {
+      "title": "Reverse Engineering a Robot Mower’s Fence",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"826454\" data-permalink=\"https://hackaday.com/2025/09/10/reverse-engineering-a-robot-mowers-fence/robo-mower-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"robo-mower-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg?w=800\" /\u003e\u003c/div\u003eThere are a variety of robot mower systems on the market employing different navigation methods, and [Eelco] has the story of how one of these was reverse engineered. Second hand \u003ca href=\"https://hackaday.com/2025/09/10/reverse-engineering-a-robot-mowers-fence/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/reverse-engineering-a-robot-mowers-fence/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "guide wire",
+        "robomower",
+        "robot fence",
+        "robot mower"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/robo-mower-featured.jpg"
+      },
+      "published": "2025-09-11T02:00:57Z"
+    }
+  },
+  {
+    "hash": "d9ed1265e1341d075fbf0807618b999c1ed9527805ff23a0ff7c2d7dc52da1d0",
+    "item": {
+      "title": "Using an MCU’s Own Debug Peripheral to Defeat Bootrom Protection",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"375\" src=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg 1278w, https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?resize=250,117 250w, https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?resize=400,187 400w, https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?resize=800,375 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"826167\" data-permalink=\"https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/tamagotchi_paradise_teardown_tamagotchi_center/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg\" data-orig-size=\"1278,599\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"tamagotchi_paradise_teardown_tamagotchi_center\" data-image-description=\"\u0026lt;p\u0026gt;https://www.instagram.com/p/DMA0iKdqNaz/\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg?w=800\" /\u003e\u003c/div\u003eReleased in July of 2025, the Tamagotchi Paradise may look somewhat like the late 90s toy that terrorized parents and teachers alike for years, but it\u0026#8217;s significantly more complex and \u003ca href=\"https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/10/using-an-mcus-own-debug-peripheral-to-defeat-bootrom-protection/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "Reverse Engineering",
+        "ARM microcontroller",
+        "microcontroller",
+        "reverse engineering"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/tamagotchi_paradise_teardown_tamagotchi_center.jpg"
+      },
+      "published": "2025-09-10T23:00:38Z"
+    }
+  },
+  {
+    "hash": "542a9a03620926e3ccafa6fec3950d6e6e60a321ef881303d279df35109d34f5",
+    "item": {
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45206567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T01:27:31Z"
+    }
+  },
+  {
+    "hash": "f8d9bc08ea02015578c9ef7f2296003a30db4feb82b87a8eab95d84376bdf6e3",
+    "item": {
+      "title": "A polyglot's guide to multiple-dispatch (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45155963\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-07T06:49:20Z"
+    }
+  },
+  {
+    "hash": "e9eeda24d5e4da14f090227dddfa8d816a6a7093e40d048a99c11124b09d78d3",
+    "item": {
+      "title": "“No Tax on Tips” Includes Digital Creators, Too",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45200024\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T16:26:07Z"
+    }
+  },
+  {
+    "hash": "a52049b478ded7eee915876e99aa1169e13606c2f4cfe2edc02724821a985e40",
+    "item": {
+      "title": "Deliberate Abstraction",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45165464\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://entropicthoughts.com/deliberate-abstraction"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T07:20:52Z"
+    }
+  },
+  {
+    "hash": "13dbee1b42b140c93fd63e20627af983391a28b9bf622ac3a59d9dc79a98bfcd",
+    "item": {
+      "title": "Seoul says US must fix its visa system if it wants Korea's investments",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45206805\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://english.hani.co.kr/arti/english_edition/e_international/1218025.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T01:58:51Z"
+    }
+  },
+  {
+    "hash": "e96a754bccdd0de37496c13d78e9e1ba9cd518f8caaa4ea0aac79a34930d2787",
+    "item": {
+      "title": "Where did the Smurfs get their hats",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45206311\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T00:52:32Z"
+    }
+  },
+  {
+    "hash": "ff1c70dd56ff23628a09698b57938173af171a8555b70ecf5d639f69f3408088",
+    "item": {
+      "title": "XNEdit – fast and classic X11 text editor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45205135\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.unixwork.de/xnedit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T22:45:50Z"
+    }
+  },
+  {
+    "hash": "33a63c445415d43acfa1e97a07c06afebbdd171317a100cea47a72c0c8c1aa6b",
+    "item": {
+      "title": "Formally verifying a floating-point division routine with Gappa – part 1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45174328\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T21:35:41Z"
+    }
   }
 ]
