@@ -650,5 +650,229 @@
       },
       "published": "2025-09-11T21:07:19Z"
     }
+  },
+  {
+    "hash": "f706ca64100ed5fcfe57796c084ba6f2ec72384d5619267974a1b000e6e7c3b1",
+    "item": {
+      "title": "Bcachefs Outlines Plans For Shipping As A DKMS Out-Of-Tree Kernel Module",
+      "description": "With Linus Torvalds having recently marked Bcachefs as being \"externally maintained\" following ongoing disagreement over the generally accepted Linux kernel development practices, the plans were laid out today for shipping Bcachefs as an out-of-tree DKMS module...",
+      "links": [
+        "https://www.phoronix.com/news/Bcachefs-DKMS-Plans"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-12T00:35:13Z"
+    }
+  },
+  {
+    "hash": "62c987eafe47063d66574e4fdf5c2b25e925aaa8b94845a4d34d240e46392d38",
+    "item": {
+      "title": "Why our website looks like an operating system",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45217269\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://posthog.com/blog/why-os"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T23:45:36Z"
+    }
+  },
+  {
+    "hash": "52def6b96470c32ec9c439c37fc107811ecbff377772827d960ec57793c9efb7",
+    "item": {
+      "title": "Float Exposed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45217415\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://float.exposed/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-12T00:11:15Z"
+    }
+  },
+  {
+    "hash": "69034d41dee80bcb54eea6042235954499dfac2a6f1641115d33b30b305f54b2",
+    "item": {
+      "title": "The Challenge of Maintaining Curl",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45217858\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/Articles/1034966/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-12T01:42:37Z"
+    }
+  },
+  {
+    "hash": "eaa63f61ebf43393df4d988c021cd777c4bb6e36b7ebb8cb488ca8e5bc84a87b",
+    "item": {
+      "title": "Toddlerbot: Open-Source Humanoid Robot",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45217372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://toddlerbot.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-12T00:04:25Z"
+    }
+  },
+  {
+    "hash": "1c29e2997507122001dcc9758eb661f7bbb8b97f0008ea0c4dd346147ff3803c",
+    "item": {
+      "title": "Backprompting: Leveraging synthetic production data for health advice guardrails",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45217499\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2508.18384"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-12T00:31:06Z"
+    }
+  },
+  {
+    "hash": "c82e53122016ce170ba1e637de03928e81252a0ad764af7d6504f8c123fa0689",
+    "item": {
+      "title": "The effects of algorithms on the public discourse",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45217545\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tekhne.dev/internet-resist/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-12T00:39:47Z"
+    }
+  },
+  {
+    "hash": "cb7deff87ebc133f76185f77c2231e538ad622df0419e06b416546ca3db42c67",
+    "item": {
+      "title": "Full Moon: Seestar S50 vs. Samsung S25",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45174944\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.4rknova.com//blog/2025/09/08/moon-photos"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T22:31:49Z"
+    }
+  },
+  {
+    "hash": "b3102e4c358246273d46aef2e87711be1b9061c5925ff3fbfd168ebf9788b710",
+    "item": {
+      "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167352\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-08T12:14:48Z"
+    }
+  },
+  {
+    "hash": "df0885706b9dae72e4889645d0ca20398090609292a56fc1f175621d3fc80d5a",
+    "item": {
+      "title": "Analog Optical Computer for Inference and Combinatorial Optimization",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"386\" src=\"https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg 1271w, https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg?resize=250,121 250w, https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg?resize=400,193 400w, https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg?resize=800,386 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"827232\" data-permalink=\"https://hackaday.com/2025/09/11/analog-optical-computer-for-inference-and-combinatorial-optimization/analog_optical_computer_kalinin_et_al_2025_nature/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg\" data-orig-size=\"1271,614\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"analog_optical_computer_kalinin_et_al_2025_nature\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg?w=800\" /\u003e\u003c/div\u003eAlthough computers are overwhelmingly digital today, there\u0026#8217;s a good point to be made that analog computers are the more efficient approach for specific applications. The authors behind a recent paper \u003ca href=\"https://hackaday.com/2025/09/11/analog-optical-computer-for-inference-and-combinatorial-optimization/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/11/analog-optical-computer-for-inference-and-combinatorial-optimization/"
+      ],
+      "categories": [
+        "computer hacks",
+        "analog computing",
+        "inference",
+        "optical computing"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/analog_optical_computer_kalinin_et_al_2025_nature.jpg"
+      },
+      "published": "2025-09-12T02:00:06Z"
+    }
+  },
+  {
+    "hash": "8c0e8bd866aad01a223141f40974e0fca5134650511ad952d0ae02f1b59c5e37",
+    "item": {
+      "title": "6502 Puts on an SDR Hat",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg 1200w, https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg?resize=400,267 400w, https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg?resize=800,533 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"827146\" data-permalink=\"https://hackaday.com/2025/09/11/6502-puts-on-an-sdr-hat/6502-sdr-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg\" data-orig-size=\"1200,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;3.5\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;Canon EOS R10\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1757007293\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;24\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0.016666666666667\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"6502-sdr-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg?w=800\" /\u003e\u003c/div\u003eThe legendary 6502 microprocessor recently turned 50 years old, and to celebrate this venerable chip which brought affordable computing and video gaming to the masses [AndersBNielsen] decided to put one \u003ca href=\"https://hackaday.com/2025/09/11/6502-puts-on-an-sdr-hat/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/11/6502-puts-on-an-sdr-hat/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "40-meter",
+        "6502",
+        "ham",
+        "microprocessor",
+        "radio",
+        "sdr",
+        "software-defined radio"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/6502-sdr-main.jpeg"
+      },
+      "published": "2025-09-11T23:00:39Z"
+    }
+  },
+  {
+    "hash": "57a4369964022ede12dc3f87c37c28ddf3d035f9335295969f1bcbb688a4281f",
+    "item": {
+      "title": "Multi-Use Roof Eliminates Roof",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"575\" src=\"https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg 1113w, https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg?resize=250,180 250w, https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg?resize=400,288 400w, https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg?resize=800,575 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"827124\" data-permalink=\"https://hackaday.com/2025/09/11/multi-use-roof-eliminates-roof/f_roof-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg\" data-orig-size=\"1113,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;1.8\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;iPhone 11\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1755879477\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;4.25\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;32\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0.00022502250225023\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"f_roof-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg?w=800\" /\u003e\u003c/div\u003eOne of the biggest downsides of installing solar panels on a rooftop is that maintenance of the actual roof structure becomes much more difficult with solar panels in the way. \u003ca href=\"https://hackaday.com/2025/09/11/multi-use-roof-eliminates-roof/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/11/multi-use-roof-eliminates-roof/"
+      ],
+      "categories": [
+        "green hacks",
+        "building",
+        "elevated",
+        "garden",
+        "roof",
+        "solar",
+        "solar panel"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/f_roof-main.jpeg"
+      },
+      "published": "2025-09-11T20:00:44Z"
+    }
+  },
+  {
+    "hash": "da1060688ad63df6f40f20552a545435a19b1dd9edc7e04db2c7b82dedd6cdeb",
+    "item": {
+      "title": "Binance Coin Price Prediction: BNB Explodes After Shocking Wall Street Partnership – The BlackRock of Crypto?",
+      "description": "\u003cp\u003eBinance and U.S. asset management giant Franklin Templeton have signed a landmark agreement to explore new blockchain and TradFi use cases. This development has lifted sentiment and supports a bullish Binance Coin price prediction, helping push BNB to a new all-time high.In a press release issued Wednesday, executives from both firms emphasized the strategic significance [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-coin-price-prediction-bnb-explodes-after-shocking-wall-street-partnership-the-blackrock-of-crypto/\"\u003eBinance Coin Price Prediction: BNB Explodes After Shocking Wall Street Partnership – The BlackRock of Crypto?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-coin-price-prediction-bnb-explodes-after-shocking-wall-street-partnership-the-blackrock-of-crypto/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Binance",
+        "Binance Coin",
+        "Franklin Templeton"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/11114200/1757590919-binance-coin-price-prediction.jpg"
+      },
+      "published": "2025-09-12T01:02:15Z"
+    }
   }
 ]
