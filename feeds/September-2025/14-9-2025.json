@@ -947,5 +947,440 @@
       "source": "Hacker News",
       "published": "2025-09-10T19:14:14Z"
     }
+  },
+  {
+    "hash": "3b4f6e1dd644d1d28e8abe7fef3a7f29908159f59da2239ac9284537962a90e4",
+    "item": {
+      "title": "Intel Loses One Of Its USB4 / Thunderbolt Linux Driver Maintainers",
+      "description": "It's unfortunate the number of significant Linux engineering losses at Intel this year. Beyond the staffing reductions throughout the company, seeing the loss of Linux engineering talent and many of their open-source contributors outside of kernel space too has been especially hard hitting to see. Intel for years has been very well regarded for their prolific open-source contributions and typically leading early hardware enablement within the Linux kernel, compiler toolchains, and related components. There's another hit to the Intel Linux team with one of their USB4/Thunderbolt maintainers departing the company...",
+      "links": [
+        "https://www.phoronix.com/news/USB4-Thunderbolt-Maintainer"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-14T10:43:35Z"
+    }
+  },
+  {
+    "hash": "5adb7c277b05e017da165063b52ea8506cf567eb8e32be99bd73fb8499cf57b3",
+    "item": {
+      "title": "FLYDIGI APEX 5 Controller Support Landing In Linux 6.17",
+      "description": "The input subsystem fixes for the week were sent out on Saturday ahead of the Linux 6.17-rc6 kernel due out later today. Notable with this batch of \"fixes\" is enabling support for the high-end FLYDIGI APEX 5 gaming controller...",
+      "links": [
+        "https://www.phoronix.com/news/FLYDIGI-APEX-5-Linux-6.17"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-14T10:32:00Z"
+    }
+  },
+  {
+    "hash": "5aadba2072a31dab18b0c48616e3a0dacb17a59678fe7571f999378aa44d62bc",
+    "item": {
+      "title": "Select Qualcomm X Elite Laptops Seeing IRIS Video Acceleration On Linux",
+      "description": "Adding to the list of feature caveats around the different Qualcomm Snapdragon X Elite laptops and the varying Linux state is video acceleration support. But patches were posted this week by a Linaro engineer enabling hardware accelerated video playback for two X Elite laptop models...",
+      "links": [
+        "https://www.phoronix.com/news/Qualcomm-X-Elite-IRIS-Video"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-14T10:25:11Z"
+    }
+  },
+  {
+    "hash": "eac68965f307c67c53610a696d1e3ee80f9ec6271e67c2ef090b708eb6a7e162",
+    "item": {
+      "title": "Samsung Exynos 7870 Seeing New Open-Source Driver Activity For Linux 6.18",
+      "description": "The Samsung Exynos 7870 Octa SoC released back in 2016 on a 14nm process and powered by eight Arm Cortex-53 cores and a Mali T830 GPU.  Finally now for late 2025 there is open-source display driver happenings going mainline for this aging SoC...",
+      "links": [
+        "https://www.phoronix.com/news/Samsung-Exynos-7870-Linux-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-14T09:44:49Z"
+    }
+  },
+  {
+    "hash": "2a397f7658ec7f88acd132793f7cb45fef5243bf6b6f665e1be56e75e3b0a321",
+    "item": {
+      "title": "Fukushima Insects Tested for Cognition",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45238836\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-14T10:32:22Z"
+    }
+  },
+  {
+    "hash": "511bfa8e62774b7c9a965f795d6e59cb59eff2a50f0ca6918f9c52fb983be13f",
+    "item": {
+      "title": "The rules behing Rust functions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45203601\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cuongle.dev/p/the-hidden-rules-behind-rust-functions"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-10T20:58:34Z"
+    }
+  },
+  {
+    "hash": "759938b11cbeeab0b95730f920b5284cfec2e7a7205e7dc9fd3a8bdf04ecb1fa",
+    "item": {
+      "title": "A Trick for Backpropagation of Linear Transformations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45212521\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tripplyons.com/blog/backprop-trick"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-11T15:05:28Z"
+    }
+  },
+  {
+    "hash": "e7d6b302e25821ed064cf193372029f392daeb66097d88fd5ca811b0fc7595b3",
+    "item": {
+      "title": "The PC was never a true 'IBMer'",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45238567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-14T09:13:39Z"
+    }
+  },
+  {
+    "hash": "59dfc5e2ec6e7f068941f5b473c5c21869fdfc6e751b6931e559e949f971608e",
+    "item": {
+      "title": "Gemini (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45238536\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://geminiquickst.art/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-14T09:04:53Z"
+    }
+  },
+  {
+    "hash": "39aa9ef6d5eab3e72be1f6ea92eff7f3ac8ec045ab57b4b8940a1ff26f060ec1",
+    "item": {
+      "title": "Cat Aquariums",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45237970\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cataquariums.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-14T06:42:56Z"
+    }
+  },
+  {
+    "hash": "3f9ba9c31954681428892f6ffc7f154727706b03aae6bb3db46a36009df852c4",
+    "item": {
+      "title": "Ethereum Price Prediction: Are Bulls Getting Ready to Push the ETH Price Higher?",
+      "description": "\u003cp\u003eEthereum trades near $4,640 as bulls eye $5,000. With supply tightening, whale accumulation, and bullish technicals, ETH could be set for its next breakout.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-are-bulls-getting-ready-to-push-the-eth-price-higher/\"\u003eEthereum Price Prediction: Are Bulls Getting Ready to Push the ETH Price Higher?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-are-bulls-getting-ready-to-push-the-eth-price-higher/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/27141435/1756304074-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-09-14T12:12:24Z"
+    }
+  },
+  {
+    "hash": "83b89e87b1ba474cb2ce2dff8a7ed5b0ad08bf2972dd61733ab2ad4a756c1529",
+    "item": {
+      "title": "XRP and BTC Investors Take Note: SunnyMining Cloud Mining Offers a New Choice",
+      "description": "\u003cp\u003eWhether you are a long-term BTC holder or an XRP investor seeking steady returns in a volatile market, SunnyMining provides a new path.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-and-btc-investors-take-note-sunnymining-cloud-mining-offers-a-new-choice/\"\u003eXRP and BTC Investors Take Note: SunnyMining Cloud Mining Offers a New Choice\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-and-btc-investors-take-note-sunnymining-cloud-mining-offers-a-new-choice/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/13162154/1757780514-sunnymining.jpg"
+      },
+      "published": "2025-09-14T12:00:00Z"
+    }
+  },
+  {
+    "hash": "d52c4f0c94841320a1149cca7a88ee7b48f5a2360f1b5ff1c0eaf0293d4f4af3",
+    "item": {
+      "title": "Ripple Quietly Transfers 15 Million XRP, DOT Miners Emerge as Hidden Gem for Retail Investors",
+      "description": "\u003cp\u003eWhile XRP prices experienced minor pullbacks, market attention is rapidly shifting toward DOT Miners. Built on the Polkadot ecosystem, this innovative platform combines cross-chain mining power with DeFi yield distribution.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ripple-quietly-transfers-15-million-xrp-dot-miners-emerge-as-hidden-gem-for-retail-investors/\"\u003eRipple Quietly Transfers 15 Million XRP, DOT Miners Emerge as Hidden Gem for Retail Investors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ripple-quietly-transfers-15-million-xrp-dot-miners-emerge-as-hidden-gem-for-retail-investors/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/13160203/1757779322-dot-miners.jpg"
+      },
+      "published": "2025-09-14T11:45:00Z"
+    }
+  },
+  {
+    "hash": "8eedb5fc56b2e0dd91f1aa06fc6b38e141898b3110ad034e3a243e0ef90d833c",
+    "item": {
+      "title": "XRP is Expected to Reach $4 in the Short Term – Put Your XRP to Work with the SAVVY MINING Platform",
+      "description": "\u003cp\u003eWith SAVVY MINING, XRP holders can directly launch cloud mining contracts - no hardware or maintenance is required.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-is-expected-to-reach-4-in-the-short-term-put-your-xrp-to-work-with-the-savvy-mining-platform/\"\u003eXRP is Expected to Reach $4 in the Short Term – Put Your XRP to Work with the SAVVY MINING Platform\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-is-expected-to-reach-4-in-the-short-term-put-your-xrp-to-work-with-the-savvy-mining-platform/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/12213311/1757712790-savvy-mining.jpg"
+      },
+      "published": "2025-09-14T11:30:00Z"
+    }
+  },
+  {
+    "hash": "c8a4bd6062429ba143f50cef9fe58a00d48b8e0de2e350db28f31c240094e426",
+    "item": {
+      "title": "Polychain-Backed Yala Stablecoin YU Crashes to $0.20 After Protocol Attack",
+      "description": "\u003cp\u003eThe Yala stablecoin (YU), a Bitcoin-native over-collateralized stablecoin backed by Polychain, lost its dollar peg around 5:14 UTC+8 following a protocol attack that sent YU crashing to $0.2074 before recovering to $0.917, as the team promptly confirmed the incident and temporarily disabled Convert and Bridge functions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/polychain-backed-yala-stablecoin-yu-crashes-to-0-20-after-protocol-attack/\"\u003ePolychain-Backed Yala Stablecoin YU Crashes to $0.20 After Protocol Attack\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/polychain-backed-yala-stablecoin-yu-crashes-to-0-20-after-protocol-attack/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/14110628/1757847987-stock-image_optimized-13.webp"
+      },
+      "published": "2025-09-14T11:27:22Z"
+    }
+  },
+  {
+    "hash": "7e2829c4c53949d2f69169f52b00ac3cebc6f603f84e72c3b1b19e772299bc0a",
+    "item": {
+      "title": "Solana Price Prediction: The Data Point Investors Are Watching After SOL’s 21.6% Weekly Gain",
+      "description": "\u003cp\u003eSolana price prediction: SOL gains 21.6% weekly, fueled by record $12B DeFi TVL, whale accumulation, and Galaxy’s $1.16B buy. Can SOL break $250 and rally to $300?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-the-data-point-investors-are-watching-after-sols-21-6-weekly-gain/\"\u003eSolana Price Prediction: The Data Point Investors Are Watching After SOL\u0026#8217;s 21.6% Weekly Gain\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-the-data-point-investors-are-watching-after-sols-21-6-weekly-gain/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/02124953/1756817392-solana-price-prediction.jpg"
+      },
+      "published": "2025-09-14T11:21:12Z"
+    }
+  },
+  {
+    "hash": "98ab58fe52915adeaa1d66fb176ad4ac649c4c753d51ffc47d85c9ac354387b8",
+    "item": {
+      "title": "The Underrated Altcoin That Could Complete Your Crypto Portfolio",
+      "description": "\u003cp\u003eThis underrated altcoin could enhance your crypto portfolio by enabling crypto payments through existing card machines, with presale tokens available at $0.003181.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/the-underrated-altcoin-that-could-complete-your-crypto-portfolio/\"\u003eThe Underrated Altcoin That Could Complete Your Crypto Portfolio\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/the-underrated-altcoin-that-could-complete-your-crypto-portfolio/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/12210646/1757711206-spacepay.jpg"
+      },
+      "published": "2025-09-14T11:15:00Z"
+    }
+  },
+  {
+    "hash": "e936701af187a929a7c7d03df05e877d1f38ce29777438060fb62c5f1be27369",
+    "item": {
+      "title": "Wall Street to Boost Bitcoin Allocations by Year-End, Says Veteran Analyst",
+      "description": "\u003cp\u003eVeteran Wall Street strategist Jordi Visser expects US financial institutions to increase their exposure to Bitcoin before the end of 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/wall-street-to-boost-bitcoin-allocations-by-year-end-says-veteran-analyst/\"\u003eWall Street to Boost Bitcoin Allocations by Year-End, Says Veteran Analyst\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/wall-street-to-boost-bitcoin-allocations-by-year-end-says-veteran-analyst/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bitcoin",
+        "bitcoin acquisition"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/14080939/1757837378-image-1757836887753_optimized.jpg"
+      },
+      "published": "2025-09-14T11:11:00Z"
+    }
+  },
+  {
+    "hash": "08eacb54c5e386aa5a87e97f36692e2be20955960bc4a74bc45efe04316d865e",
+    "item": {
+      "title": "Is Little Pepe the Meme Coin That Will Explode Next in 2025? Early Investors Say Yes",
+      "description": "\u003cp\u003eLittle Pepe meme coin attracts investors with its Layer 2 blockchain technology and $20M presale success, which positions itself to explode in the 2025 crypto market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/is-little-pepe-the-meme-coin-that-will-explode-next-in-2025-early-investors-say-yes/\"\u003eIs Little Pepe the Meme Coin That Will Explode Next in 2025? Early Investors Say Yes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/is-little-pepe-the-meme-coin-that-will-explode-next-in-2025-early-investors-say-yes/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/12201340/1757708019-little-pepe.jpg"
+      },
+      "published": "2025-09-14T11:00:00Z"
+    }
+  },
+  {
+    "hash": "3ef788cef317318c9f0895e62d9d69722b0f3bea9e386ba0aa1919143798f2bb",
+    "item": {
+      "title": "Bitcoin Price Prediction: Could This Onchain Data Forecast a Parabolic Move for BTC?",
+      "description": "\u003cp\u003eBitcoin steadies near $115,800 as ETFs post $2.3B inflows and whales add 237K BTC. Technical breakout targets $119.5K–$124.5K, with $130K in sight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-could-this-onchain-data-forecast-a-parabolic-move-for-btc/\"\u003eBitcoin Price Prediction: Could This Onchain Data Forecast a Parabolic Move for BTC?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-could-this-onchain-data-forecast-a-parabolic-move-for-btc/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/22171914/1755883153-bitcoin-price-prediction-5.jpg"
+      },
+      "published": "2025-09-14T10:26:51Z"
+    }
+  },
+  {
+    "hash": "9074f087837186c06423dd2980b12161242353619c6171ec46c53a95038eea5f",
+    "item": {
+      "title": "Coinbase Releases Public Guide to Digital Asset Listing Process Amid Transparency Push",
+      "description": "\u003cp\u003eCoinbase published a comprehensive guide detailing its digital asset listing process, emphasizing that applications remain free and merit-based after facing previous accusations of charging millions in listing fees. CEO Brian Armstrong announced the transparency initiative amid ongoing disputes with projects claiming the exchange demanded substantial payments for token listings.The guide comes as Coinbase struggles with [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-releases-public-guide-to-digital-asset-listing-process-amid-transparency-push/\"\u003eCoinbase Releases Public Guide to Digital Asset Listing Process Amid Transparency Push\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-releases-public-guide-to-digital-asset-listing-process-amid-transparency-push/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Coinbase"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/14091309/1757841188-image-1757841163305_optimized.webp"
+      },
+      "published": "2025-09-14T09:54:26Z"
+    }
+  },
+  {
+    "hash": "882bdf4e2446b76d010605c2cf7a9fed07bb057cc522493a587d87fbe40455ce",
+    "item": {
+      "title": "Shiba Inu’s Layer 2 Shibarium Targeted in Flash Loan Attack, Nearly $3M Drained",
+      "description": "\u003cp\u003eShiba Inu’s Layer 2 network, Shibarium, came under fire on Friday after a coordinated flash loan attack exploited its bridge, draining nearly $3 million.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inus-layer-2-shibarium-targeted-in-flash-loan-attack-nearly-3m-drained/\"\u003eShiba Inu’s Layer 2 Shibarium Targeted in Flash Loan Attack, Nearly $3M Drained\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inus-layer-2-shibarium-targeted-in-flash-loan-attack-nearly-3m-drained/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "DOGE",
+        "Meme coin",
+        "Shiba inu"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/14080950/1757837389-image-1757836900133_optimized.jpg"
+      },
+      "published": "2025-09-14T09:45:20Z"
+    }
   }
 ]
