@@ -3470,5 +3470,587 @@
       },
       "published": "2025-09-15T12:38:31Z"
     }
+  },
+  {
+    "hash": "055d943ed3bd1b863f54a0a84ff0dd2e80e6a7b3a1ae8b88e3477867e4bc919b",
+    "item": {
+      "title": "Ars Live: CTA policy expert explains why tariff stacking is a nightmare",
+      "description": "Tech firms are bracing for a possible \"triple whammy\" of tariffs.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/ars-live-cta-policy-expert-explains-why-tariff-stacking-is-a-nightmare/"
+      ],
+      "categories": [
+        "Policy",
+        "chip tariffs",
+        "consumer technology",
+        "consumer technology association",
+        "semiconductor",
+        "trump tariffs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Live-The-Semiconductor-Scramble-1152x601.jpg"
+      },
+      "published": "2025-09-15T19:42:20Z"
+    }
+  },
+  {
+    "hash": "57ea0eb4499cd06503fa4fc69423f55a3046bab2460f9cf8d877f191a7a6af0c",
+    "item": {
+      "title": "Boeing faces $3.1M fine for door plug blowout, hundreds of safety violations",
+      "description": "FAA found factory violations, says Boeing sought approval for unairworthy planes.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/boeing-faces-3-1m-fine-for-door-plug-blowout-hundreds-of-safety-violations/"
+      ],
+      "categories": [
+        "Policy",
+        "Boeing",
+        "boeing door plug"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/boeing-7373-max-1152x648-1742920126.jpg"
+      },
+      "published": "2025-09-15T17:57:23Z"
+    }
+  },
+  {
+    "hash": "a60efd82c2cb827383a554739f8737a1d6629810c39cdd9952f1d36bda6f08dc",
+    "item": {
+      "title": "macOS 26 Tahoe: The Ars Technica Review",
+      "description": "Liquid Glass brings translucent sheen to the typical batch of iterative changes.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/"
+      ],
+      "categories": [
+        "Apple",
+        "Features",
+        "Tech",
+        "apple",
+        "Apple silicon",
+        "iMac",
+        "Intel Macs",
+        "Mac",
+        "Mac mini",
+        "Mac Studio",
+        "MacBook",
+        "MacBook Air",
+        "MacBook Pro",
+        "MacOS",
+        "macos 26",
+        "macos 26 tahoe"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/macos-tahoe-default-wallpaper-1152x648.jpg"
+      },
+      "published": "2025-09-15T17:00:27Z"
+    }
+  },
+  {
+    "hash": "510c87f16df96092ad315362b69bed7ffc66003202c583b891bd88c20c7ab682",
+    "item": {
+      "title": "[$] Fighting human trafficking with self-contained applications",
+      "description": "\u003cp\u003e\nBrooke Deuson is the developer behind\n\u003ca href=\"https://traffickingfreetomorrow.com/\"\u003e\nTrafficking Free Tomorrow\u003c/a\u003e, a nonprofit organization that\nproduces free software to help law enforcement combat human trafficking. She is\na survivor of human trafficking herself.\nShe spoke at RustConf 2025 about her\nmission, and why she chose to write her anti-trafficking software in Rust.\nInterestingly, it has nothing to do with Rust's lifetime-analysis-based memory-safety —\ninstead, her choice was motivated by the difficulty she faces getting police\ndepartments to actually use her software. The fact that Rust is statically\nlinked and capable of cross compilation by default makes deploying Rust software\nin those environments easier.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1036916/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-09-15T19:15:06Z"
+    }
+  },
+  {
+    "hash": "aa10ba9f14f5ae6cb2c3f6679753b18c3cbb3c18a58b379ca44561dcf608c5ca",
+    "item": {
+      "title": "AOMedia To Release AV2 Video Codec At Year's End",
+      "description": "The Alliance for Open Media announced today that they will be launching the next-generation AV2 video codec at the end of 2025...",
+      "links": [
+        "https://www.phoronix.com/news/AOMedia-AV2-Coming-Soon"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-15T19:40:56Z"
+    }
+  },
+  {
+    "hash": "f7ebcce2d70b7263b49f4737fb76ca83ec93525576f3518603b482d3729095ad",
+    "item": {
+      "title": "AMD Officially Confirms The End Of The AMDVLK Driver",
+      "description": "To no real surprise given the happenings (or there the lack of) the past few months, AMD formally announced publicly today that their open-source AMDVLK driver has been discontinued in favor of the Mesa RADV driver for Vulkan needs on Linux...",
+      "links": [
+        "https://www.phoronix.com/news/AMDVLK-Discontinued"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-15T19:28:40Z"
+    }
+  },
+  {
+    "hash": "2845a218f38492fb89024e7b1e85c62ac7cbf3a1f70b8df6dad86c905299875b",
+    "item": {
+      "title": "Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs",
+      "description": "The China-aligned threat actor known as Mustang Panda has been observed using an updated version of a backdoor called TONESHELL and a previously undocumented USB worm called SnakeDisk.\n\"The worm only executes on devices with Thailand-based IP addresses and drops the Yokai backdoor,\" IBM X-Force researchers Golo Mühr and Joshua Chung said in an analysis published last week.\nThe tech giant's",
+      "links": [
+        "https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFHJMhcKrcm7rKKxumPi41kz_INbFE63vmSz9Z01h47HyqaoqX2NhVX3FECyM63yiZOeLoeikkQcGPdYZQdHvSUZl3LGUc8fhhz_Y_qFiYWJaunzL8jXP7of-33sZKTgvXhzwry7gVsRGnCX2zQvoEV8q8Ul7ZDsECGxH-uGeaoUQBIJ2LY2wcU3BJfzK/s1600/usb.jpg"
+      },
+      "published": "2025-09-15T18:45:00Z"
+    }
+  },
+  {
+    "hash": "2030a36d975432b8511fadefe425a7207980d8fad958715d32cb879de5513ebd",
+    "item": {
+      "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45253458\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T18:45:32Z"
+    }
+  },
+  {
+    "hash": "90837d29dcf13fa4d8158efd717118f56ba570981609b139b20a3cb7a554bbfe",
+    "item": {
+      "title": "macOS Tahoe",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45252378\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.apple.com/os/macos/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T17:16:42Z"
+    }
+  },
+  {
+    "hash": "4aaeffc69f61c8a6c25ccbef712520506271b64a7540251cece1977b488f6247",
+    "item": {
+      "title": "React is winning by default and slowing innovation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45252715\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lorenstew.art/blog/react-won-by-default/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T17:46:01Z"
+    }
+  },
+  {
+    "hash": "be08effa85ebd73881c7e3aa068e0d8e912e62d34e80597b81085104524127b2",
+    "item": {
+      "title": "Scryer Prolog Meetup 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45254330\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T20:07:48Z"
+    }
+  },
+  {
+    "hash": "89017584c68e1d1745c8058229c554ec0a1a5dd39eda9717e0520aa05b83b187",
+    "item": {
+      "title": "GPT-5-Codex",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45252301\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/introducing-upgrades-to-codex/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T17:10:39Z"
+    }
+  },
+  {
+    "hash": "b6f6ac1c8b9b048ed2b759f7ebd153d2cfcbe2e1693e1092fc7a6ceb136d200a",
+    "item": {
+      "title": "Boring work needs tension",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251093\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iaziz786.com/blog/boring-work-needs-tension/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T15:44:29Z"
+    }
+  },
+  {
+    "hash": "334563d3da7254659ebcf487b0108b61a89da373b7ef33dc1687e349494fd3dc",
+    "item": {
+      "title": "GuitarPie: Electric Guitar Fretboard Pie Menus",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45250328\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://andreasfender.com/publications.php"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T14:45:45Z"
+    }
+  },
+  {
+    "hash": "e8f0808f5a97d96c120523d7862e333195fe9440af3854cdbb697daf10a90ecd",
+    "item": {
+      "title": "Turgot Map of Paris",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45234707\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Turgot_map_of_Paris"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-13T19:36:09Z"
+    }
+  },
+  {
+    "hash": "27a497edd69af980cf09b0660280adf19396abd25565319412aed048ceded6a4",
+    "item": {
+      "title": "Show HN: Blocks – Dream work apps and AI agents in minutes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45254523\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blocks.diy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T20:26:52Z"
+    }
+  },
+  {
+    "hash": "8fad4941d0f0f928da53e4c69563fdf170e11c6b39728c4711c035fed7009f33",
+    "item": {
+      "title": "California’s Alo Slebir unofficially broke the big wave surfing world record",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45228314\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sfgate.com/sports/article/alo-slebir-mavericks-big-wave-surf-record-21041864.php"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-13T00:45:31Z"
+    }
+  },
+  {
+    "hash": "721eaa5a511461c19459acbed3ac8ed5d5f66ae2e0d287ce0af53e872f08e272",
+    "item": {
+      "title": "California reached the unthinkable: A union deal with tech giants",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45253760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T19:13:40Z"
+    }
+  },
+  {
+    "hash": "2df275dbb42750b4a497224cce6d3202a2be302da4847629049d079cbba794d8",
+    "item": {
+      "title": "Massive Token Burns Continue to Take Shape in Wall Street Pepe – 3.6B WEPE Gone and Counting",
+      "description": "\u003cp\u003eWall Street Pepe has burned 3.6B WEPE, reducing Ethereum supply by 1.8% as Solana buys have triggered burns that preserve the 200B cap across chains. NFT sales have reached 7.4 ETH (~$33K) on OpenSea, and WEPE has traded between $0.000055 and $0.000072 this week.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/wall-street-pepe-burns-total-3-6b-wepe-and-counting/\"\u003eMassive Token Burns Continue to Take Shape in Wall Street Pepe – 3.6B WEPE Gone and Counting\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/wall-street-pepe-burns-total-3-6b-wepe-and-counting/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Wall Street Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15205226/1757969545-image-201-93-3-1024x1024-1.jpg"
+      },
+      "published": "2025-09-15T20:55:34Z"
+    }
+  },
+  {
+    "hash": "3ab05349e06f5cc97683d9935ce4f977e180c3c74bf67191d55ea5e730775d8f",
+    "item": {
+      "title": "Bitcoin Hyper Raises $16M: The Real BitcoinFi Boom Starts With HYPER",
+      "description": "\u003cp\u003eBitcoin Hyper has raised $16M in presale funding as it develops the fastest Bitcoin Layer-2 to date. Built with Solana’s efficiency and Bitcoin’s settlement security, it establishes a foundation for programmability, DeFi, stablecoins, and scalable applications in the expanding BitcoinFi ecosystem.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-hyper-raises-16m-bitcoinfi-growth/\"\u003eBitcoin Hyper Raises $16M: The Real BitcoinFi Boom Starts With HYPER\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-hyper-raises-16m-bitcoinfi-growth/"
+      ],
+      "categories": [
+        "News",
+        "best crypto 2025",
+        "bitcoin hyper",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15204145/1757968904-image-201-91-2-1024x1024-1.jpg"
+      },
+      "published": "2025-09-15T20:47:51Z"
+    }
+  },
+  {
+    "hash": "a762e135782bd01a32efddf7fde7caf847693167843db7bdbccd215fc42b9a1a",
+    "item": {
+      "title": "HYPE Price Prediction: Native Markets Wins USDH Stablecoin Battle as Crypto Hayes Calls for $5K Target",
+      "description": "\u003cp\u003eHYPE price prediction has intensified with Arthur Hayes’s $5,000 call and Native Markets securing the USDH ticker for Hyperliquid. TA has flagged a $25–$50 retest, while Hyperliquid’s 60% perp share and $1.2B revenue have supported longer-term scenarios amid FOMC-driven volatility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hype-price-prediction-native-markets-wins-usdh-stablecoin-battle-as-crypto-hayes-calls-for-5k-target/\"\u003eHYPE Price Prediction: Native Markets Wins USDH Stablecoin Battle as Crypto Hayes Calls for $5K Target\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hype-price-prediction-native-markets-wins-usdh-stablecoin-battle-as-crypto-hayes-calls-for-5k-target/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "hyperliquid",
+        "price prediciton"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15174654/1757958413-chatgpt-image-sep-15-2025-06_46_01-pm_optimized.webp"
+      },
+      "published": "2025-09-15T20:25:05Z"
+    }
+  },
+  {
+    "hash": "4b5fb2df92a6d76eb20c84718d164785824218e43cd7f0d4cdc73426ff89670a",
+    "item": {
+      "title": "Ethereum Price Prediction: Huge ETH Outflow Signals Incoming Supply Squeeze – $10,000 ETH Could be Weeks Away",
+      "description": "\u003cp\u003eEthereum price prediction has gained momentum with ETH reclaiming $4,500 and testing $4,800 resistance. Analysts note consistent outflows from exchanges, showing stronger investor conviction and raising the prospect of a supply squeeze that could fuel a long-term path toward the $10K target.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-huge-eth-outflow-signals-incoming-supply-squeeze-10000-eth-could-be-weeks-away/\"\u003eEthereum Price Prediction: Huge ETH Outflow Signals Incoming Supply Squeeze – $10,000 ETH Could be Weeks Away\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-huge-eth-outflow-signals-incoming-supply-squeeze-10000-eth-could-be-weeks-away/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ethereum",
+        "price prediciton"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15133857/1757943536-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-09-15T20:20:32Z"
+    }
+  },
+  {
+    "hash": "73435612e4aea0c4cc39d346b4e1a1031648f0e20047499f361bb586e96fc20f",
+    "item": {
+      "title": "Ripple Pledges $25M in Stablecoin to Support US Businesses and Veterans",
+      "description": "\u003cp\u003eRipple has committed $25M in RLUSD to Accion Opportunity Fund and Hire Heroes USA to expand small-business lending and veteran employment, with funds delivered via The Giving Block and custody from Uphold. AOF projects $125M in lending; Hire Heroes plans 14,000 placements.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-pledges-25m-in-stablecoin-to-support-us-businesses-and-veterans/\"\u003eRipple Pledges $25M in Stablecoin to Support US Businesses and Veterans\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-pledges-25m-in-stablecoin-to-support-us-businesses-and-veterans/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Ripple",
+        "Stablecoin",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15180040/1757959239-image-1757959218412_optimized.jpg"
+      },
+      "published": "2025-09-15T20:13:57Z"
+    }
+  },
+  {
+    "hash": "310ffcf37bb972971e2777db94c33e8d8cf2b07c782776f19f99db5e6b6d150f",
+    "item": {
+      "title": "Ethereum Treasuries Set to Outperform Bitcoin and Solana as DAT Shakeout Looms: Standard Chartered",
+      "description": "\u003cp\u003eStandard Chartered has reported that Ethereum treasuries, relative to Bitcoin-focused peers, have been better placed as DATs have cooled, citing staking yields, funding costs, scale, and mNAV normalization amid consolidation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-treasuries-set-to-outperform-bitcoin-and-solana-as-dat-shakeout-looms-standard-chartered/\"\u003eEthereum Treasuries Set to Outperform Bitcoin and Solana as DAT Shakeout Looms: Standard Chartered\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-treasuries-set-to-outperform-bitcoin-and-solana-as-dat-shakeout-looms-standard-chartered/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "News",
+        "Bitcoin",
+        "Ethereum",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15172740/1757957260-2e200485-7e33-485b-b72d-87572ea3d2f2_optimized-1.jpg"
+      },
+      "published": "2025-09-15T19:46:32Z"
+    }
+  },
+  {
+    "hash": "78ce0f58f9af89a3e913f54cdbbabdc230a963d9416944237dfb8a31f40eba7e",
+    "item": {
+      "title": "Base Now “Exploring” a Network Token – Is a Massive Airdrop Imminent?",
+      "description": "\u003cp\u003eBase has confirmed it has begun to explore a network Token, saying there are no definitive plans or timeline. TVL has reached roughly $5B, a Solana bridge has launched on testnet, and builder programs and the Base app waitlist have grown as the project has pursued broader decentralization.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/base-now-exploring-a-network-token-is-a-massive-airdrop-imminent/\"\u003eBase Now “Exploring” a Network Token – Is a Massive Airdrop Imminent?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/base-now-exploring-a-network-token-is-a-massive-airdrop-imminent/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Airdrop",
+        "Base",
+        "Coinbase"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15163924/1757954363-fea53b12-e198-43b1-a15a-e38f3ded94f4_optimized.jpg"
+      },
+      "published": "2025-09-15T19:34:09Z"
+    }
+  },
+  {
+    "hash": "b150f92ccf61a9584b802083d6c00f3a969abfe3a6be8437e9d9a4a28f18efdc",
+    "item": {
+      "title": "Trump Proposes Major SEC Shakeup: Quarterly Earnings Reports at Risk – How this Impacts Crypto Firms",
+      "description": "\u003cp\u003eTrump has revived efforts to change quarterly disclosures to six-month updates, saying it reduces costs and short-term pressure. Supporters cite long-term focus, while others warn on transparency. Earnings data and reports for crypto-exposed firms could arrive less often, subject to SEC approval.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-proposes-major-sec-shakeup-quarterly-earnings-reports-at-risk-how-this-impacts-crypto-firms/\"\u003eTrump Proposes Major SEC Shakeup: Quarterly Earnings Reports at Risk – How this Impacts Crypto Firms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-proposes-major-sec-shakeup-quarterly-earnings-reports-at-risk-how-this-impacts-crypto-firms/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "SEC",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15140821/1757945300-34de4588-28f8-435c-a2b9-2aabc958dddd_optimized.jpg"
+      },
+      "published": "2025-09-15T19:12:32Z"
+    }
+  },
+  {
+    "hash": "a49059b3b3e012c2808ade2a6c7a98e119aaf3e7c38da8930d1a85aff73c98ec",
+    "item": {
+      "title": "Shiba Inu Price Prediction: Anonymous Whale Withdraws 500 Billion SHIB From Exchange – Meme Coin Season Starting Now",
+      "description": "\u003cp\u003eWhales are loading up on SHIB again, adding weight to a bullish Shiba Inu price prediction as the token sees renewed attention from deep-pocketed investors.One major wallet just withdrew over 500 billion SHIB to cold storage – a classic sign of long-term accumulation.Data from Arkham Intelligence shows that wallet 0x2\u0026#8230;B0c6 now holds 510.4 billion SHIB, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-anonymous-whale-withdraws-500-billion-shib-from-exchange-meme-coin-season-starting-now/\"\u003eShiba Inu Price Prediction: Anonymous Whale Withdraws 500 Billion SHIB From Exchange – Meme Coin Season Starting Now\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-anonymous-whale-withdraws-500-billion-shib-from-exchange-meme-coin-season-starting-now/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "Price Prediction",
+        "Shiba inu"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15121401/1757938440-shiba-inu-price-prediction.jpg"
+      },
+      "published": "2025-09-15T19:09:58Z"
+    }
+  },
+  {
+    "hash": "b88e8d424591b18dbedb48a8c5cea804c8e2bfd10361abf3ead0252a8a13b609",
+    "item": {
+      "title": "Helius Medical Raises $500M Backed by Pantera Capital to Launch a $1.25B Solana Treasury",
+      "description": "\u003cp\u003eHelius Medical has unveiled a Solana treasury strategy after raising $500M through a Pantera-led PIPE and securing $750M in warrants, aiming to acquire SOL, capture ~7% native staking yield, and deploy capital into DeFi under new leadership guidance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/helius-medical-raises-500m-backed-by-pantera-capital-to-launch-a-1-25b-solana-treasury/\"\u003eHelius Medical Raises $500M Backed by Pantera Capital to Launch a $1.25B Solana Treasury\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/helius-medical-raises-500m-backed-by-pantera-capital-to-launch-a-1-25b-solana-treasury/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Solana",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15165929/1757955569-stock-image_optimized-18.webp"
+      },
+      "published": "2025-09-15T18:53:10Z"
+    }
+  },
+  {
+    "hash": "4883a3dc0f0f15194f81d0e8b557ae9926be680c6c69475c38bae7b4b5e05c8a",
+    "item": {
+      "title": "Solana Price Prediction: TVL Hits $13 Billion All-Time High – $500 Within 4 Weeks",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eSolana price prediction turns increasingly bullish as the network's DeFi ecosystem surges with total value locked hitting an all-time high of $13.25 billion according to DeFiLlama, fueled by an 18% jump in the past week while DEX volume surged 84% above $5 billion and Galaxy Digital accumulated 6.5M SOL worth $1.55 billion, igniting market optimism that SOL could test the $500 mark within four weeks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-tvl-hits-13-billion-all-time-high-500-within-4-weeks/\"\u003eSolana Price Prediction: TVL Hits $13 Billion All-Time High – $500 Within 4 Weeks\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-tvl-hits-13-billion-all-time-high-500-within-4-weeks/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "price analysis",
+        "price prediciton",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15122057/1757938857-solana-price-prediction.jpg"
+      },
+      "published": "2025-09-15T18:44:52Z"
+    }
   }
 ]
