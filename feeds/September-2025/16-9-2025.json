@@ -914,5 +914,155 @@
       "source": "Hacker News",
       "published": "2025-09-15T07:14:13Z"
     }
+  },
+  {
+    "hash": "29d165bc5dda4e1de1f9b069086c70db36940c733f066589d67315499840c3fc",
+    "item": {
+      "title": "Public static void main(String[] args) is dead",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45258098\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mccue.dev/pages/9-16-25-psvm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T04:42:18Z"
+    }
+  },
+  {
+    "hash": "158157403d961d1e53e666ead3b21b5636d92895b4f768858b9e539b6e61ddf4",
+    "item": {
+      "title": "Learn x86-64 assembly by writing a GUI from scratch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45221567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gaultier.github.io/blog/x11_x64.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-12T12:51:46Z"
+    }
+  },
+  {
+    "hash": "74755c24f70e981bca61e4953895eb181da42d72133980e978338801e0402f42",
+    "item": {
+      "title": "The Artistry of Avril Harrison – Scanline Artifacts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45231433\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scanlineartifacts.co.uk/2024/09/30/the-artistry-of-avril-harrison/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-13T12:15:38Z"
+    }
+  },
+  {
+    "hash": "4198527a97aa11c20a38bfd4b52b12a80cd4cb5725f96f621a11df38882e6292",
+    "item": {
+      "title": "Show HN: Pyproc – Call Python from Go Without CGO or Microservices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45257929\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/YuminosukeSato/pyproc"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T04:08:00Z"
+    }
+  },
+  {
+    "hash": "e7718148770d7d747ebfbefed1b4dc892e39b4b1f7b61d6903fce9ce6a74daf5",
+    "item": {
+      "title": "\"Your\" vs. \"My\" in user interfaces",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45257627\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T03:05:53Z"
+    }
+  },
+  {
+    "hash": "fa7d99ae160d5acf104d257383d60e4147a613f1f516fb127ef8db3ac7ba153c",
+    "item": {
+      "title": "Linux Patches Posted For Enabling The Tenstorrent Blackhole SoC",
+      "description": "Patches were posted this past weekend for enabling the mainline Linux kernel to run on the Tenstorrent Blackwhole SoC of A0 silicon on the Blackhole P100 and P150 PCIe accelerator cards...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Blackhole-SoC-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-16T04:00:00Z"
+    }
+  },
+  {
+    "hash": "52aea64692245eedab33522d0f7016c0ddbe3501655cbef4676a5ae8dca7bcf5",
+    "item": {
+      "title": "40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials",
+      "description": "Cybersecurity researchers have flagged a fresh software supply chain attack targeting the npm registry that has affected more than 40 packages that belong to multiple maintainers.\n\"The compromised versions include a function (NpmModule.updatePackage) that downloads a package tarball, modifies package.json, injects a local script (bundle.js), repacks the archive, and republishes it, enabling",
+      "links": [
+        "https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS_YOeydLAlQ9uG63pTINB3QdaSSEhATMNZfCUGatfAgVrEJImME3VxV7EVSABpR4mVnb4wDSo3_4sITiXidfobQvJENPJyUbTjkgkpgbBcr_dvM4LInO2dUsAvsmzJ-ND9s1F4jL1gv8i1t4n3CQT0sohCV8MJnrGKZVzNoLLV8j7ASliIr_c_V9QdNck/s1600/npm.jpg"
+      },
+      "published": "2025-09-16T05:00:00Z"
+    }
+  },
+  {
+    "hash": "fcc6fdd53d8971cafb2d89a4ca3b3fbd73a1d4ca983c8f10d5913568b7f7cd50",
+    "item": {
+      "title": "Winklevoss Twins Strike Settlement With SEC Over Gemini Earn Program",
+      "description": "\u003cp\u003eSEC and Gemini reached a settlement in principle over the Earn program, asking a judge to pause deadlines until Dec. 15 to finalize terms.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gemini-reaches-set-settlement-earn-program-winklevoss-twins/\"\u003eWinklevoss Twins Strike Settlement With SEC Over Gemini Earn Program\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gemini-reaches-set-settlement-earn-program-winklevoss-twins/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Gemini",
+        "SEC",
+        "Winklevoss Twins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/23043001/1753245000-sec_optimized-1.jpg"
+      },
+      "published": "2025-09-16T04:42:14Z"
+    }
+  },
+  {
+    "hash": "de6e83cbc797265d66c5b59199ee266a162ac4ca023cf7e79248f3a5159b3bb9",
+    "item": {
+      "title": "[LIVE] Crypto News Today: Latest Updates for Sept. 16, 2025 – Crypto Market Extends Pullback as Bitcoin Holds $115K, GameFi and Meme Tokens Lead Declines",
+      "description": "\u003cdiv class=\"single-post__subheader\"\u003eFollow up to the hour updates on what is happening in crypto today, September 16. Market movements, crypto news, and more!\u003c/div\u003e\n\u003cdiv class=\"single-post-new__author-top\"\u003e\n\u003cdiv class=\"single-post-new__author-top-col\"\u003e\n\u003cdiv class=\"single-post-new__author-top-info\"\u003e\n\u003cdiv class=\"single-post-new__author-top-avatar\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-sept-16-2025/\"\u003e[LIVE] Crypto News Today: Latest Updates for Sept. 16, 2025 – Crypto Market Extends Pullback as Bitcoin Holds $115K, GameFi and Meme Tokens Lead Declines\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-sept-16-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/16040028/1757995227-sep-16.jpg"
+      },
+      "published": "2025-09-16T04:02:13Z"
+    }
   }
 ]
