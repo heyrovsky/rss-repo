@@ -481,5 +481,564 @@
       "source": "Hacker News",
       "published": "2025-09-17T01:47:59Z"
     }
+  },
+  {
+    "hash": "5a06807acefacd87fc654901b3afab9cfeb287f1e385be1846fb98e8e071137d",
+    "item": {
+      "title": "Haiku OS Addressing Slow \"git status\" Performance Relative To Linux",
+      "description": "The BeOS-inspired Haiku open-source operating system project published a new blog post to outline some of their latest development activity. One of the areas they have been focusing on in the performance department has been for addressing much slower git status performance compared to Linux...",
+      "links": [
+        "https://www.phoronix.com/news/Haiku-Slow-Git-Status"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T04:00:00Z"
+    }
+  },
+  {
+    "hash": "9233e63943aee09e6ae29f2f20275526a6a02ba36d373ff88f44ef310a132463",
+    "item": {
+      "title": "GNU Midnight Commander",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45271481\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://midnight-commander.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T03:54:06Z"
+    }
+  },
+  {
+    "hash": "03c9ce0f80307b629b01fee8537225aad296a9b00bca0586159f3bc72ed4f603",
+    "item": {
+      "title": "Notion API importer, with Databases to Bases conversion bounty",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45271942\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/obsidianmd/obsidian-importer/issues/421"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T05:11:50Z"
+    }
+  },
+  {
+    "hash": "ca6a59e09d9af2d9184aeba6e1efc44bc3f5fc70b49e90bbd46f1f9b4ad22436",
+    "item": {
+      "title": "The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45271484\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T03:54:36Z"
+    }
+  },
+  {
+    "hash": "87bd179fd63e14d8b39ec8a4eeb271b3893c13455342d3dfcff9bfc59633a762",
+    "item": {
+      "title": "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45260741\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T11:22:03Z"
+    }
+  },
+  {
+    "hash": "770b6d078ef80f005f220b2de9f4ec15d330e0567d9c312c43e3688687e7f8dd",
+    "item": {
+      "title": "I just want an 80×25 console, but that's no longer possible",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45271664\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T04:26:02Z"
+    }
+  },
+  {
+    "hash": "3eb7e73da1b10f858be674aa7aeea4d8b6f4616549b23767da5cd10a21278516",
+    "item": {
+      "title": "About the security content of iOS 15.8.5 and iPadOS 15.8.5",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45270108\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.apple.com/en-us/125142"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T00:34:02Z"
+    }
+  },
+  {
+    "hash": "ce3315968b703d5883f8505378f2577d5d37910f0c07dcb29570b18e1ac830a3",
+    "item": {
+      "title": "Slow social media",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45270676\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://herman.bearblog.dev/slow-social-media/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T01:57:58Z"
+    }
+  },
+  {
+    "hash": "50db823dbbafb384450edb277c9dd569ddba21d7c1a304a9d29a1a1ef0cac501",
+    "item": {
+      "title": "I got the highest score on ARC-AGI again swapping Python for English",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45270649\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T01:53:47Z"
+    }
+  },
+  {
+    "hash": "74d055f402169cbf92578dbe0027187c03daca7ccdac6103033913bf4ec04a8d",
+    "item": {
+      "title": "AMD Open Source Driver for Vulkan project is discontinued",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45270087\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T00:31:04Z"
+    }
+  },
+  {
+    "hash": "6d0f27587a855bb135b61ef812d613401098471302d3b3299fd1458b8624934b",
+    "item": {
+      "title": "Should we drain the Everglades?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45266854\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T19:33:35Z"
+    }
+  },
+  {
+    "hash": "44045bd21066e8631379c7282ed5faa63de76576b424939aebe038a7ed5c007e",
+    "item": {
+      "title": "Meta RayBan AR glasses shows Lumus waveguide structures in leaked video",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45266215\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T18:47:04Z"
+    }
+  },
+  {
+    "hash": "8927f73e0ca4a32ff68730dfc3753bc294d48d4a9a62f7d7c837a0e4d418a690",
+    "item": {
+      "title": "Tuberculosis shaped Victorian fashion (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45247424\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/science-nature/how-tuberculosis-shaped-victorian-fashion-180959029/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T08:32:15Z"
+    }
+  },
+  {
+    "hash": "8c03532ecc583518d0c70c8e23fe2b5e250e5e0d3b21cc2ba6a8b801a4218ffd",
+    "item": {
+      "title": "Mystery in the Moon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45229322\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://engelsbergideas.com/reviews/mystery-in-the-moon/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-13T04:33:38Z"
+    }
+  },
+  {
+    "hash": "e101c970d3752ca1b194776bd3a5cf503f9a14e8d8005333ba3dbea951bb238d",
+    "item": {
+      "title": "Ozak AI Partners with Pyth Network to Deliver Real-Time Market Data Across 100+ Blockchains",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1097\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN-1024x585.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN-768x439.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN-1536x878.jpg 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eDubai, UAE, 16th September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/ozak-ai-partners-with-pyth-network-to-deliver-real-time-market-data-across-100-blockchains/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/A-large-realistic-3D-golden-Bitcoin-placed-promine_17580308064M8oCSZqVN.jpg"
+      },
+      "published": "2025-09-16T19:18:01Z"
+    }
+  },
+  {
+    "hash": "78c8e4be59bf8aa3869bcf44ab7951b1cca7a3bb15f81818f7aa2931236b7960",
+    "item": {
+      "title": "Hedera (HBAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hedera (HBAR) Price Prediction\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hedera (HBAR) price prediction for 2025, 2026-2030, we will analyze the price patterns of HBAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hedera (HBAR) Current Market Status What is Hedera (HBAR)? Hedera (HBAR) 24H Technicals HEDERA",
+      "links": [
+        "https://thenewscrypto.com/hedera-hbar-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-09-16T18:36:03Z"
+    }
+  },
+  {
+    "hash": "1a46bb2d210d0667e9697a838282f3badfbdb30c3d80b900084fdaa699ae2813",
+    "item": {
+      "title": "Cardano (ADA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano (ADA)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Cardano (ADA) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of ADA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Cardano (ADA) Current Market Status What is Cardano (ADA)? Cardano (ADA) 24H Technicals CARDANO (ADA)",
+      "links": [
+        "https://thenewscrypto.com/ada-cardano-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "ADA",
+        "Cardano",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg"
+      },
+      "published": "2025-09-16T18:31:50Z"
+    }
+  },
+  {
+    "hash": "dbd85645e3a1d95ff1cbbbfbf2a2b9bf0380e64469a70698cfdde73299573148",
+    "item": {
+      "title": "Peanut the Squirrel (PNUT) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/PNUT-Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Peanut the Squirrel (PNUT) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/PNUT-Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/PNUT-Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/PNUT-Price-prediction-design-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Peanut the Squirrel (PNUT) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of PNUT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Peanut the Squirrel (PNUT) Current Market Status What is Peanut the Squirrel (PNUT)?",
+      "links": [
+        "https://thenewscrypto.com/peanut-the-squirrel-pnut-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Peanut the Squirrel",
+        "PNUT",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/PNUT-Price-prediction-design.jpg"
+      },
+      "published": "2025-09-16T18:26:29Z"
+    }
+  },
+  {
+    "hash": "1c78f025206c31c2ae0f54c90689b0be6883fa549b89f8f9dbdfc8170519520b",
+    "item": {
+      "title": "Aerodrome Finance (AERO) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"942\" height=\"530\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Aerodrome-Finance_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Aerodrome Finance (AERO) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/Aerodrome-Finance_Price-prediction.jpg 942w, https://thenewscrypto.com/wp-content/uploads/2025/08/Aerodrome-Finance_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/Aerodrome-Finance_Price-prediction-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/08/Aerodrome-Finance_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 942px) 100vw, 942px\" /\u003e\u003c/p\u003eIn this Aerodrome Finance (AERO) price prediction 2025, 2026-2030, we will analyze the price patterns of AERO by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Aerodrome FInance (AERO) Current Market Status What is Aerodrome FInance (AERO)? Aerodrome FInance (AERO)",
+      "links": [
+        "https://thenewscrypto.com/aerodrome-finance-aero-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "AERO",
+        "Aerodrome Finance",
+        "Cryptocurrency",
+        "PricePrediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/Aerodrome-Finance_Price-prediction.jpg"
+      },
+      "published": "2025-09-16T18:10:51Z"
+    }
+  },
+  {
+    "hash": "d81607275a853c2e135f4b390c88a130447f0f43dde97d1d6c041bbb5bfe942b",
+    "item": {
+      "title": "Mantle (MNT) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mantle (MNT) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Mantle (MNT) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of MNT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Mantle (MNT) Current Market Status What is Mantle (MNT)? Mantle (MNT) 24H Technicals MANTLE (MNT)",
+      "links": [
+        "https://thenewscrypto.com/mantle-mnt-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Mantle",
+        "MNT",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg"
+      },
+      "published": "2025-09-16T18:02:04Z"
+    }
+  },
+  {
+    "hash": "dbb10f0db3cf43af76d5e7f1939cee3f29bca40c224d48f27b2d48517898c63f",
+    "item": {
+      "title": "Jupiter (JUP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/Jupiter_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Jupiter (JUP) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/Jupiter_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/Jupiter_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/Jupiter_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eJupiter (JUP) price prediction 2025, 2026-2030, we will analyze the price patterns of JUP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Jupiter (JUP) Current Market Status What is Jupiter (JUP)? JUPITER (JUP) PRICE PREDICTION 2025 Jupiter (JUP) Support",
+      "links": [
+        "https://thenewscrypto.com/jupiter-jup-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "JUP",
+        "Jupiter",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/Jupiter_Price-prediction.jpg"
+      },
+      "published": "2025-09-16T17:39:55Z"
+    }
+  },
+  {
+    "hash": "557c06332000c38e921da2a05ed08f2016d97101ec46ab567b694b5617a2f703",
+    "item": {
+      "title": "XRP (XRP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this XRP (XRP) price prediction for 2025, 2026-2030,\u0026#160;we will analyze the price patterns of XRP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION XRP (XRP) Current Market Status What is XRP (XRP)? XRP (XRP) 24H Technicals XRP (XRP)",
+      "links": [
+        "https://thenewscrypto.com/ripple-xrp-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Monisha"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg"
+      },
+      "published": "2025-09-16T17:29:29Z"
+    }
+  },
+  {
+    "hash": "34376f5d88cb8c285f5a07646685c675a3756429677fd756c9e492c86fa3fb01",
+    "item": {
+      "title": "Zircuit Launches $495K Grants Program to Accelerate Web3 Super Apps",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"900\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T-376x212.jpg 376w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eGeorge Town, Grand Cayman, 16th September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/zircuit-launches-495k-grants-program-to-accelerate-web3-super-apps/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/3b_175795401614oI2Pkh7T.jpg"
+      },
+      "published": "2025-09-16T16:04:55Z"
+    }
+  },
+  {
+    "hash": "8a05fc5536b5083344e9d50c033ca386e0199045a95e6703df06172b9ee35dae",
+    "item": {
+      "title": "How High Can XRP Price Reach If Bitcoin Achieves Pantera’s $750K Target",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Heres-Possible-XRP-Price-if-Bitcoin.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Heres-Possible-XRP-Price-if-Bitcoin.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Heres-Possible-XRP-Price-if-Bitcoin-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Heres-Possible-XRP-Price-if-Bitcoin-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePantera Capital founder Dan Morehead has projected Bitcoin could reach $750,000 within five years, raising questions about how such growth might affect correlated altcoins like XRP. During a CNBC Squawk Box interview, Morehead based his projection on Bitcoin\u0026#8217;s historical pattern of roughly doubling annually over the past 12 years. The",
+      "links": [
+        "https://thenewscrypto.com/how-high-can-xrp-price-reach-if-bitcoin-achieves-panteras-750k-target/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Heres-Possible-XRP-Price-if-Bitcoin.jpg"
+      },
+      "published": "2025-09-16T16:00:00Z"
+    }
+  },
+  {
+    "hash": "f3eb1e994be65401a7fbc2252a9036c5c2fe126ea68adbf38c4150e92ffbf973",
+    "item": {
+      "title": "RaccoonO365 Phishing Network Shut Down After Microsoft and Cloudflare Disrupt 338 Domains",
+      "description": "Microsoft's Digital Crimes Unit said it teamed up with Cloudflare to coordinate the seizure of 338 domains used by RaccoonO365, a financially motivated threat group that was behind a phishing-as-a-service (Phaas) toolkit used to steal more than 5,000 Microsoft 365 credentials from 94 countries since July 2024.\n\"Using a court order granted by the Southern District of New York, the DCU seized 338",
+      "links": [
+        "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPJ89hVCM5hxCqwxfOA086CpjwRDKWFcmTsqG8RQOa7xzhyphenhyphenWLCMBkeGChxaopcCCjqoXyGFe2HLBEgYXbl3_vWD7Hb2h3oXB2NmCQNCRvJDF_ZTolNAT-9SlL-sQZT81iBiwiqQfqAh7RLsuAimGF7ebfm5m2_GfYvIX1siyzTDRcKM3PB9AyhExRQYMiI/s1600/ms.jpg"
+      },
+      "published": "2025-09-17T04:31:00Z"
+    }
+  },
+  {
+    "hash": "5c151bbfe93d6277c9e10add4df8b5b259cd35e53930d51319f8d95058837e33",
+    "item": {
+      "title": "Coinbase Data Hack Suspect Named, Filing Alleges TaskUs Employees Earned $500K From Bribes",
+      "description": "\u003cp\u003eCoinbase court filings say TaskUs staff in India took over $500,000 in bribes to leak customer data, with hackers accessing records until early 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-data-hack-filings-allege-500k-bribes-taskus-suspect-named/\"\u003eCoinbase Data Hack Suspect Named, Filing Alleges TaskUs Employees Earned $500K From Bribes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-data-hack-filings-allege-500k-bribes-taskus-suspect-named/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Coinbase",
+        "Crypto Exchange"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17053139/1758087099-image-1758087076655_optimized.jpg"
+      },
+      "published": "2025-09-17T06:06:08Z"
+    }
+  },
+  {
+    "hash": "6f9ba3479fdfa02774838226b8dd0c88f2b198ae381c4cea27e1dcde4fea8192",
+    "item": {
+      "title": "Spanish Banking Giant Banco Santander Rolls Out Retail Crypto Services",
+      "description": "\u003cp\u003eBanco Santander’s Openbank has launched retail crypto trading in Germany with five tokens, and plans to expand the service to Spain soon.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/banco-santander-rolls-out-crypto-services-openbank/\"\u003eSpanish Banking Giant Banco Santander Rolls Out Retail Crypto Services\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/banco-santander-rolls-out-crypto-services-openbank/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Germany",
+        "Retail Investors",
+        "Spain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17043055/1758083454-stock-image_optimized-4.jpg"
+      },
+      "published": "2025-09-17T04:38:49Z"
+    }
+  },
+  {
+    "hash": "ac74f651fe1386951358b6268ca9dfbe3a64a5a33e9bcb34bae17c0b03f91848",
+    "item": {
+      "title": "[LIVE] Crypto News Today: Latest Updates for Sept. 17, 2025 – Crypto Market Rebounds as Bitcoin Tops $116K Ahead of Fed Rate Call",
+      "description": "\u003cp\u003eFollow up to the hour updates on what is happening in crypto today, September 17. Market movements, crypto news, and more!\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-sept-17-2025/\"\u003e[LIVE] Crypto News Today: Latest Updates for Sept. 17, 2025 – Crypto Market Rebounds as Bitcoin Tops $116K Ahead of Fed Rate Call\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-sept-17-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17041548/1758082548-sep-17.jpg"
+      },
+      "published": "2025-09-17T04:20:24Z"
+    }
+  },
+  {
+    "hash": "c2c1397533750ac01ef76ff2c87644ad2dc4261596204f0a28430dd6fb7cb1f2",
+    "item": {
+      "title": "Major New Korean Drama ‘To The Moon’ to Focus on Retail Crypto Investment",
+      "description": "\u003carticle class=\"text-token-text-primary w-full focus:outline-none scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" tabindex=\"-1\" data-turn-id=\"request-WEB:507d4cfa-75eb-4f9f-bbdb-c89d8049cfdf-5\" data-testid=\"conversation-turn-12\" data-scroll-anchor=\"true\" data-turn=\"assistant\"\u003e\n\u003cdiv class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\"\u003e\n\u003cdiv class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\"\u003e\n\u003cdiv class=\"flex max-w-full flex-col grow\"\u003e\n\u003cdiv class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+\u0026amp;]:mt-5\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"fba5e1e0-1706-4ceb-8733-48e1a738ee18\" data-message-model-slug=\"gpt-5\"\u003e\n\u003cdiv class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\"\u003e\n\u003cdiv class=\"markdown prose dark:prose-invert w-full break-words dark markdown-new-styling\"\u003e\n\u003cp data-start=\"0\" data-end=\"170\" data-is-last-node=\"\" data-is-only-node=\"\"\u003eSouth Korea’s MBC will premiere \u003cem data-start=\"32\" data-end=\"45\"\u003eTo The Moon\u003c/em\u003e on Sept. 19, a new prime-time drama about retail crypto investors’ struggles, starring Lee Sun-bin, Jo A-ram, and Ra Mi-ran.\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"flex min-h-[46px] justify-start\"\u003e \u003c/div\u003e\n\u003cdiv class=\"mt-3 w-full empty:hidden\"\u003e\n\u003cdiv class=\"text-center\"\u003e \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/article\u003e\n\u003cdiv class=\"pointer-events-none h-px w-px\" aria-hidden=\"true\" data-edge=\"true\"\u003e \u003c/div\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/major-new-korean-drama-to-the-moon-to-focus-on-retail-crypto-investment/\"\u003eMajor New Korean Drama ‘To The Moon’ to Focus on Retail Crypto Investment\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/major-new-korean-drama-to-the-moon-to-focus-on-retail-crypto-investment/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Retail Investors",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/16135042/1758030641-image-1758006282973_optimized.jpg"
+      },
+      "published": "2025-09-16T23:30:00Z"
+    }
   }
 ]
