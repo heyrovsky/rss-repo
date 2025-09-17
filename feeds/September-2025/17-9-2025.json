@@ -3482,5 +3482,505 @@
       },
       "published": "2025-09-17T15:09:27Z"
     }
+  },
+  {
+    "hash": "53822af41ab5605790ae6d0a324486864f337ec75211508eb9a7afc2b6fb05ec",
+    "item": {
+      "title": "Why, as a responsible adult, SimCity 2000 hits differently",
+      "description": "After years as a parent and homeowner, I sympathize more with my virtual citizens.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
+      ],
+      "categories": [
+        "Gaming",
+        "C:\\ArsGames",
+        "gaming",
+        "GOG-Ars",
+        "maxis",
+        "SIM",
+        "SimCity",
+        "simulation",
+        "Will Wright"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/sc2000-1-1152x648-1758136447.jpg"
+      },
+      "published": "2025-09-17T20:25:06Z"
+    }
+  },
+  {
+    "hash": "6a07f7d07f2b09a2ea249d97611c9279231054fe70616c286b34deeb27beacc9",
+    "item": {
+      "title": "Trump admin says Social Security database wasn’t “leaked, hacked, or shared”",
+      "description": "SSA tells Senate that NUMIDENT is safe after troubling whistleblower allegations.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/trump-admin-denies-doge-put-social-security-data-into-insecure-cloud-system/"
+      ],
+      "categories": [
+        "Policy",
+        "doge",
+        "social security administration"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/delete-doge-1152x648-1742411623.jpg"
+      },
+      "published": "2025-09-17T17:39:44Z"
+    }
+  },
+  {
+    "hash": "9522df9ba81730c7850c1e627cab61ddc47fe8941b1b334a26b0f92640881b83",
+    "item": {
+      "title": "Gemini AI solves coding problem that stumped 139 human teams at ICPC World Finals",
+      "description": "Gemini shows off at another high-level academic competition. ",
+      "links": [
+        "https://arstechnica.com/google/2025/09/google-gemini-earns-gold-medal-in-icpc-world-finals-coding-competition/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "coding",
+        "generative ai",
+        "google"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Gemini-2.5-Tulsee-1152x648.jpg"
+      },
+      "published": "2025-09-17T17:00:32Z"
+    }
+  },
+  {
+    "hash": "e2c31bb2f3b8ce0cf1b0218176892ac8e5547bee28db1c55458b65625a8bbaa3",
+    "item": {
+      "title": "Chorus One and MEV Zone Team Up to Boost Avalanche Staking Rewards",
+      "description": "\u003cp\u003e\u003cimg width=\"1125\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/kj-9.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chorus One and MEV Zone Team Up to Boost Avalanche Staking Rewards\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/kj-9.png 1125w, https://thenewscrypto.com/wp-content/uploads/2025/09/kj-9-300x113.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/kj-9-1024x386.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/kj-9-768x289.png 768w\" sizes=\"auto, (max-width: 1125px) 100vw, 1125px\" /\u003e\u003c/p\u003eChorus One, a highly decorated institutional-grade staking provider, has inked a strategic partnership with MEV Zone to enhance yield generation on the Avalanche (AVAX) network. The Chorus One partnered with MEV Zone to increase the AVAX staking yields, while simultaneously contributing to the general growth of the Avalanche network. “At",
+      "links": [
+        "https://thenewscrypto.com/chorus-one-and-mev-zone-team-up-to-boost-avalanche-staking-rewards/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/kj-9.png"
+      },
+      "published": "2025-09-17T09:00:00Z"
+    }
+  },
+  {
+    "hash": "701c0f9ab7e5fe66e58c375651f25078e84d99ab7f13a75b1dfb20061b548fa8",
+    "item": {
+      "title": "AMD \"GFX1251\" Target Added To LLVM As Latest RDNA 4.5 APU",
+      "description": "The past few months we have been intrigued by an AMD GFX1250 target added to the LLVM codebase for the AMDGPU shader compiler back-end. GFX12 is RDNA4 and GFX1250 is presumably some \"RDNA 4.5\" / \"RDNA Refresh\" part akin to GFX1150 having been for the RDNA 3.5 parts with Strix Halo / Strix Point. The prior LLVM code confirmed GFX1250 is in APU form factor but product details beyond that have been scarce. Today a new AMD GFX1251 target was merged to LLVM...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-GFX1251-LLVM-Target"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T20:47:00Z"
+    }
+  },
+  {
+    "hash": "36e14cac7338550626c413dae2a00e880ce2f32f262553d8188dc31f6a853d10",
+    "item": {
+      "title": "OpenJDK 25 \u0026 GraalVM 25 Released With 32-bit x86 Support Removed",
+      "description": "Released yesterday was the OpenJDK Java 25 release along with Oracle's GraalVM 25 alternative JVM...",
+      "links": [
+        "https://www.phoronix.com/news/OpenJDK-Java-25-GraalVM-25"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T19:12:37Z"
+    }
+  },
+  {
+    "hash": "7371f45f2d6acd2d4afdddd0ba05cab83c082e4c07d0d60b0328ff1c80f1cb4b",
+    "item": {
+      "title": "AMD Hardware Would Ideally Be Supported By ROCm For ~10 Years",
+      "description": "While down to AMD Austin yesterday for the Instinct MI355X and ROCm 7.0 launch, I had the chance to chat again with Anush Elangovan. As the VP of AI Software at AMD, talking with Anush is always insightful and technical in nature. One of the questions I posed him was around the length of hardware support with ROCm...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-ROCm-Hardware-Length"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T18:49:18Z"
+    }
+  },
+  {
+    "hash": "8f7795d583bf73c6a0e652b3b75e913eea43814249d181959ae6f60552d28a27",
+    "item": {
+      "title": "WASM 3.0 Completed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279384\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://webassembly.org/news/2025-09-17-wasm-3.0/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T18:16:53Z"
+    }
+  },
+  {
+    "hash": "1c1b4c503bebb1fa77879898cefac7271c53cd015cbf2207b3a0e0cdd7e7d7ca",
+    "item": {
+      "title": "Optimizing ClickHouse for Intel's 280 core processors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279792\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T18:46:03Z"
+    }
+  },
+  {
+    "hash": "e13f6c2b40b10ce57bcd318c091ca8ccef26b9103aa7f98539df1aaffae069a1",
+    "item": {
+      "title": "Gluon: a GPU programming language based on the same compiler stack as Triton",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45280592\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T19:50:11Z"
+    }
+  },
+  {
+    "hash": "d41ce36704eac969a886ee20410314d38e8c70c630d395f560820fbb95fda664",
+    "item": {
+      "title": "DeepMind and OpenAI win gold at ICPC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279357\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeforces.com/blog/entry/146536"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T18:15:16Z"
+    }
+  },
+  {
+    "hash": "f8a69d572b0fff9e3bc0588f830eef9be3725c3af450a0f4dfa31afe352b217a",
+    "item": {
+      "title": "Drought in Iraq reveals tombs created 2,300 years ago",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45278581\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T17:12:15Z"
+    }
+  },
+  {
+    "hash": "7ad6a360721c93d9e13cc0af6dc3c7273053a1ec1068165106d7f53ebe380023",
+    "item": {
+      "title": "The Asus gaming laptop ACPI firmware bug",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45271484\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T03:54:36Z"
+    }
+  },
+  {
+    "hash": "c3ffd82fd2126c3c20edef5b5023bf2484a7c5bb4acab3f7a49227559833be17",
+    "item": {
+      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45278279\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T16:49:37Z"
+    }
+  },
+  {
+    "hash": "a56b6f735a416148d536bf873c8927f7a6ac5a73fe728d5e989fa731a805fb8b",
+    "item": {
+      "title": "Noise cancelling a fan",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45255004\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chillphysicsenjoyer.substack.com/p/noise-cancelling-a-fan"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T21:15:15Z"
+    }
+  },
+  {
+    "hash": "098b618522903a509ea86a4e259c5c1176f9e005f8c1901a6c3551ffde37fe29",
+    "item": {
+      "title": "Famous cognitive psychology experiments that failed to replicate",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279898\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T18:55:28Z"
+    }
+  },
+  {
+    "hash": "367b397199bfb8169de319d70f3d5eafdf6ecec3b2cb27ef9e57d072481df30c",
+    "item": {
+      "title": "Anthropic irks White House with limits on models’ use",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279143\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T17:57:39Z"
+    }
+  },
+  {
+    "hash": "47c074a71548ef62a595f1a45cfe1cb8181cccd724dba9584317bde27dddd271",
+    "item": {
+      "title": "DeepSeek writes less secure code for groups China disfavors?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45278740\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T17:24:14Z"
+    }
+  },
+  {
+    "hash": "b8ab58d3fcdbc1beefac774acb9976598846424dde51eec9e0cbed3f053d088e",
+    "item": {
+      "title": "Infinite Mac: Resource Fork Roundtripping",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45258403\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T05:36:43Z"
+    }
+  },
+  {
+    "hash": "52cfdac85dd8fccf77105a93be3cdd8752e558927178ed34ed7754548f9a16b8",
+    "item": {
+      "title": "Just for fun: animating a mosaic of 90s GIFs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45257757\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alexplescan.com/posts/2025/09/15/gifs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-16T03:32:43Z"
+    }
+  },
+  {
+    "hash": "b2f414f8949119075075783f9b63e521408d731e298588a27ea67a18ed8a2d36",
+    "item": {
+      "title": "Depression reduces capacity to learn to actively avoid aversive events",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45278686\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T17:20:36Z"
+    }
+  },
+  {
+    "hash": "69544adf450d368ee6f4dd2ec57654da102ded9a3d6630ef70352a6ca58a388a",
+    "item": {
+      "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
+      "description": "The threat actor known as TA558 has been attributed to a fresh set of attacks delivering various remote access trojans (RATs) like Venom RAT to breach hotels in Brazil and Spanish-speaking markets.\nRussian cybersecurity vendor Kaspersky is tracking the activity, observed in summer 2025, to a cluster it tracks as RevengeHotels.\n\"The threat actors continue to employ phishing emails with invoice",
+      "links": [
+        "https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv_Kbokskfh0uy495zD5U2vzlJiqP4gzNk7va2HAxGv9dsZkTBjB1sRUVHSgmYrtqwvVoJbI3zq_0XOelBdJ3vIjD7opWT1F8sYal-HFXzkVy2azgqlcw3J8llS_Lc9zU-kIvId_aBVVZYR3uZGhPcmYTNXfvp85eKTL_4fg8wGnIxuqUAsdfaSHc063W-/s1600/hotel-hack.jpg"
+      },
+      "published": "2025-09-17T18:30:00Z"
+    }
+  },
+  {
+    "hash": "3920cfd647b1abd89f04dfe17e255a10ce6c399b7c5f702d67f40e4f82293c07",
+    "item": {
+      "title": "CZ Binance Backs Aster to Challenge Hyperliquid – Token Hits $300M MC in 6 Hours",
+      "description": "\u003cp\u003eCZ Binance threw his weight behind new decentralized exchange Aster backed by YZi Labs (formerly Binance Labs), BNB Chain's PancakeSwap, and other major players positioning itself as a multi-chain perpetual and spot venue designed to compete directly with Hyperliquid.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cz-binance-launches-aster-to-challenge-hyperliquid-token-hits-300m-mc-in-6-hours/\"\u003eCZ Binance Backs Aster to Challenge Hyperliquid – Token Hits $300M MC in 6 Hours\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cz-binance-launches-aster-to-challenge-hyperliquid-token-hits-300m-mc-in-6-hours/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "CZ",
+        "hyperliquid"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17204029/1758141629-stock-image_optimized-29.webp"
+      },
+      "published": "2025-09-17T20:41:55Z"
+    }
+  },
+  {
+    "hash": "09d2ee707fe0e53977e3f34462956bf98b12ba6cad22efb07a92c4e8c1db7310",
+    "item": {
+      "title": "XRP Price Prediction: XRP ETF Set to Launch This Week – $100 Breakout Finally Coming?",
+      "description": "\u003cp\u003eThe first spot XRP ETF is expected to hit the open market this week – XRP price predictions now eye $100 with TradFi exposure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-xrp-etf-set-to-launch-this-week/\"\u003eXRP Price Prediction: XRP ETF Set to Launch This Week – $100 Breakout Finally Coming? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-xrp-etf-set-to-launch-this-week/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "ETF",
+        "Price Prediction",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17132125/1758115284-xrp-price-prediction.jpg"
+      },
+      "published": "2025-09-17T20:26:00Z"
+    }
+  },
+  {
+    "hash": "26f853074a5e2afc6d5dcc93e670ed342249c30dedd6565e6543a0a2dd7e0e00",
+    "item": {
+      "title": "Bitcoin Price Prediction: Fed Cuts After Almost a Year – Is a 2020-Style Explosion Coming?",
+      "description": "\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-fed-cuts-for-first-time-in-12-months-could-btc-explode-like-2020-again/\"\u003eBitcoin Price Prediction: Fed Cuts After Almost a Year – Is a 2020-Style Explosion Coming?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-fed-cuts-for-first-time-in-12-months-could-btc-explode-like-2020-again/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17191357/1758136436-bitcoin-price-prediction-25.jpg"
+      },
+      "published": "2025-09-17T19:15:39Z"
+    }
+  },
+  {
+    "hash": "649e5415e835df77d6cb915d70c91919d271c0bcdf2069609a4cbfd3dbba1279",
+    "item": {
+      "title": "PepeNode Rips Past $1.2M in ICO – Only 24 Hours Left to Join the Funding Stage",
+      "description": "\u003cp\u003eFirst-ever meme coin virtual mining game PepeNode (PEPENODE) has surged past $1.2 million in presale funding.The milestone comes at a pivotal moment, with the market already shifting into altcoin season and a full-blown meme coin cycle likely next in line.PepeNode gives early adopters an edge because once it launches, users will be able to mine [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/pepenode-24-hours-left/\"\u003ePepeNode Rips Past $1.2M in ICO – Only 24 Hours Left to Join the Funding Stage\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/pepenode-24-hours-left/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Pepe",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17190738/1758136058-screenshot-2025-09-17-at-20-07-24.jpg"
+      },
+      "published": "2025-09-17T19:07:55Z"
+    }
+  },
+  {
+    "hash": "ba99a737c0af7f7a17a3db40e6bba13d32a8cb6b8567f8953e3ac8f14bcb0811",
+    "item": {
+      "title": "Solana Price Prediction: Helius Raises $500M for SOL Buys – Wall Street Just Getting Started",
+      "description": "\u003cp\u003eSolana has been outperforming Ethereum in the last few weeks and is now sitting at a key zone where it could teleport into fresh all-time highs. Most experts have their Solana price prediction set sky-high, with some even calling for $1,000 by the end of the year. The reason is simple, Solana is getting massive [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-helius-raises-500m-for-sol-buys-wall-street-just-getting-started/\"\u003eSolana Price Prediction: Helius Raises $500M for SOL Buys – Wall Street Just Getting Started\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-helius-raises-500m-for-sol-buys-wall-street-just-getting-started/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17183226/1758133945-solana-price-prediction-1.jpg"
+      },
+      "published": "2025-09-17T18:32:39Z"
+    }
+  },
+  {
+    "hash": "4a7db95853e208aa0e4bd26b402c56b1556d1f47747dc04cae55518ba463df5e",
+    "item": {
+      "title": "Shiba Inu Price Prediction: Shytoshi Breaks Silence After $2.3 Million Exploit – What Happens Next Could Shock Everyone",
+      "description": "\u003cp\u003eShytoshi Kusama, the mysterious figure behind Shiba Inu, has broken his silence at a pivotal moment for the project – and his return is already fueling a bullish Shiba Inu price prediction.His return follows a $2.3 million exploit on Shibarium, the project’s Layer 2 network, which sparked concerns about developer response and future progress.But in [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-shytoshi-breaks-silence-after-2-3-million-exploit-what-happens-next-could-shock-everyone/\"\u003eShiba Inu Price Prediction: Shytoshi Breaks Silence After $2.3 Million Exploit – What Happens Next Could Shock Everyone\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-shytoshi-breaks-silence-after-2-3-million-exploit-what-happens-next-could-shock-everyone/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "SHIB",
+        "Shiba inu"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17120820/1758110899-shiba-inu-price-prediction-2.jpg"
+      },
+      "published": "2025-09-17T18:21:03Z"
+    }
   }
 ]
