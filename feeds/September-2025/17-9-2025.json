@@ -2061,5 +2061,567 @@
       },
       "published": "2025-09-17T10:01:19Z"
     }
+  },
+  {
+    "hash": "1f1c79967e16eb53321d195c25c01cb9bf5288f4f788957c31b29d850767a726",
+    "item": {
+      "title": "Report: Apple inches closer to releasing an OLED touchscreen MacBook Pro",
+      "description": "More iPad-like Mac hardware would balance Apple’s push for Mac-like iPads.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/latest-round-of-credible-touchscreen-macbook-rumors-point-to-a-2026-launch/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "apple",
+        "MacBook Pro"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_1413-1152x648.jpeg"
+      },
+      "published": "2025-09-17T14:30:37Z"
+    }
+  },
+  {
+    "hash": "8dc93ba3bce09e68c0412e77d1d74cbb4f568e7d0a6e2482b52dea51f5ba13b5",
+    "item": {
+      "title": "China blocks sale of Nvidia AI chips",
+      "description": "China steps up efforts to boost semiconductor independence, compete with US.\n",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/china-blocks-sale-of-nvidia-ai-chips/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "china",
+        "NVIDIA",
+        "syndication",
+        "trump tariffs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Zijing Wu, Cheng Leng, and Tim Bradshaw, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg"
+      },
+      "published": "2025-09-17T13:08:52Z"
+    }
+  },
+  {
+    "hash": "f64edef6a7b7d0d0668d0adf39c022f28e27c9b5a1d296265fd4356ca955c083",
+    "item": {
+      "title": "New Amelia Earhart bio delves into her unconventional marriage",
+      "description": "Author Laurie Gwen Shapiro chats with Ars about her latest book, \u003cem\u003eThe Aviator and the Showman\u003c/em\u003e.",
+      "links": [
+        "https://arstechnica.com/culture/2025/09/new-amelia-earhart-bio-delves-into-her-unconventional-marriage/"
+      ],
+      "categories": [
+        "Culture",
+        "Amelia Earhart",
+        "american history",
+        "aviation",
+        "aviation history",
+        "books"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ameliaTOP-1152x648.jpg"
+      },
+      "published": "2025-09-17T11:30:17Z"
+    }
+  },
+  {
+    "hash": "d97fda5321b82cd6569d1c1473c57b828b3ef82e6e2c3b08bd10bb3e6ee2a5b9",
+    "item": {
+      "title": "iOS 26 review: A practical, yet playful, update",
+      "description": "Spotlighting the most helpful new features of iOS 26. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/ios-26-review-a-practical-yet-playful-update/"
+      ],
+      "categories": [
+        "Apple",
+        "Features",
+        "Reviews",
+        "Tech",
+        "apple",
+        "iOS",
+        "ios 26",
+        "iphone",
+        "reviews",
+        "software"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_0237-1152x648-1757967028.jpg"
+      },
+      "published": "2025-09-17T11:00:55Z"
+    }
+  },
+  {
+    "hash": "2397f9235536aef10e29cb4746e466df30f0f20e6fcb59b56d68fb98dc473f48",
+    "item": {
+      "title": "Latest Open-Source AMD Improvements Allowing For Better Llama.cpp AI Performance Against Windows 11",
+      "description": "When recently carrying out the Windows 11 25H2 vs. Ubuntu Linux benchmarks I also ended up carrying out some Llama.cpp AI benchmarks as the first time exploring the AI inferencing performance between Windows and Linux for both CPU and GPU-accelerated deployments. Here are those results for exploring the Llama.cpp performance between Windows and Linux with different large language models.",
+      "links": [
+        "https://www.phoronix.com/review/llama-cpp-windows-linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T14:48:00Z"
+    }
+  },
+  {
+    "hash": "8bccec823f452e167530e5ad37ce1c9be5ac9f301d6302b645a55b8fd7f5dfb6",
+    "item": {
+      "title": "A Quick Look At The AMD Instinct MI355X With ROCm 7.0",
+      "description": "Yesterday I was invited along with a small group of others to try out the AMD Instinct MI355X accelerator down in Austin, Texas. The AMD Instinct MI355X is fully supported with the newly-released AMD ROCm 7.0...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Instinct-MI355X-ROCm-7.0"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T13:00:00Z"
+    }
+  },
+  {
+    "hash": "cbd3d63991fe39392744ebd1b0fd106d1204360a263bea2ead62a0d7424dd49a",
+    "item": {
+      "title": "systemd 258 Released With systemd-factory-reset \u0026 Other New Tools",
+      "description": "Systemd 258 is out today as stable as the latest major feature release to this Linux init system and service manager...",
+      "links": [
+        "https://www.phoronix.com/news/systemd-258"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-17T12:21:28Z"
+    }
+  },
+  {
+    "hash": "3ea1989f580479bb5b92a07176d254960489ea39f2ea05ea6cff1cfe143a82c2",
+    "item": {
+      "title": "BlackRock Sold Over 4k Ethereum Tokens; ETH Price Correction Ahead?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/BlackRock_Sold_Over_4k_Ether_tokens_EHT_Price_Correction_Ahead.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BlackRock Sold Over 4k Ethereum Tokens; ETH Price Correction Ahead?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/BlackRock_Sold_Over_4k_Ether_tokens_EHT_Price_Correction_Ahead.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/BlackRock_Sold_Over_4k_Ether_tokens_EHT_Price_Correction_Ahead-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/BlackRock_Sold_Over_4k_Ether_tokens_EHT_Price_Correction_Ahead-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBlackRock, an investment management firm, sold more than 4,000 Ethereum tokens. These were collectively worth over $20 million. BlackRock previously bought more than 1,700 Bitcoin tokens for over $200 million. Selling Ether triggered speculation around ETH price correction ahead of rate cuts. Nevertheless, BTC price and ETH price predictions seem",
+      "links": [
+        "https://thenewscrypto.com/blackrock-sold-over-4k-ethereum-tokens-eth-price-correction-ahead/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "blackRock",
+        "BTC",
+        "ETH"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ankur Sachdev"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/BlackRock_Sold_Over_4k_Ether_tokens_EHT_Price_Correction_Ahead.jpg"
+      },
+      "published": "2025-09-17T10:11:32Z"
+    }
+  },
+  {
+    "hash": "8ca1114a999e4945ed4e874eb88c10644d0e0ec95cd4445a18f35ceb6ffe78c0",
+    "item": {
+      "title": "Bitget Unveils Six-Tier Broker Commissions with Lower Thresholds and Daily Payouts",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq.jpeg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq-300x180.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq-1024x614.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq-768x461.jpeg 768w, https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq-1536x922.jpeg 1536w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eVICTORIA, SEYCHELLES, 17th September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bitget-unveils-six-tier-broker-commissions-with-lower-thresholds-and-daily-payouts/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/20250916-155746_2_1758100875004dV7mZwq.jpeg"
+      },
+      "published": "2025-09-17T10:02:20Z"
+    }
+  },
+  {
+    "hash": "af5643a52ac3a4aee92714768d5e506883b488b38a5760aad16b7e23d85af9f3",
+    "item": {
+      "title": "MUBARAK Rockets Higher with a 1,539% Volume Explosion: Will the Bullish Rally Redefine the Charts?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/MUBARAK-Rockets-Higher-with-a-1539-Volume-Explosion-Will-the-Bullish-Rally-Redefine-the-Charts.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"MUBARAK Rockets Higher with a 1,539% Volume Explosion: Will the Bullish Rally Redefine the Charts?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/MUBARAK-Rockets-Higher-with-a-1539-Volume-Explosion-Will-the-Bullish-Rally-Redefine-the-Charts.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/MUBARAK-Rockets-Higher-with-a-1539-Volume-Explosion-Will-the-Bullish-Rally-Redefine-the-Charts-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/MUBARAK-Rockets-Higher-with-a-1539-Volume-Explosion-Will-the-Bullish-Rally-Redefine-the-Charts-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the brief 1.21% bullish spike in the crypto market, the charts are flashing green across a majority of assets. The bulls could send the price up, attempting to gain momentum. Notably, the assets like BTC and ETH are endeavouring to enter the bullish zone. Among the altcoins, MUBARAK has",
+      "links": [
+        "https://thenewscrypto.com/mubarak-rockets-higher-with-a-1539-volume-explosion-will-the-bullish-rally-redefine-the-charts/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "Mubarak"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/MUBARAK-Rockets-Higher-with-a-1539-Volume-Explosion-Will-the-Bullish-Rally-Redefine-the-Charts.jpg"
+      },
+      "published": "2025-09-17T08:39:40Z"
+    }
+  },
+  {
+    "hash": "979905dd44df5b6af7867fdcc6d4c2d417fda1186152040c5a1ab9bfd77ac6ae",
+    "item": {
+      "title": "Lyno AI Presale Surpasses $25k Milestone as Professional Traders Recognize Opportunity",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-67.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-67.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-67-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-67-768x437.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eLyno AI presale has already reached a significant mark of $25,000, which has already drawn attention to the professional traders in the context of the trading volume of the crypto market in September, which reached 168 billion. The Early Bird phase is going on with a token price of $0.050,",
+      "links": [
+        "https://thenewscrypto.com/lyno-ai-presale-surpasses-25k-milestone-as-professional-traders-recognize-opportunity/"
+      ],
+      "categories": [
+        "Press Release",
+        "LYNO AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-67.png"
+      },
+      "published": "2025-09-17T07:52:00Z"
+    }
+  },
+  {
+    "hash": "1f81ea4f2c3269e5cb447a669d2d70d171345ed6233bfa4c3fae7f0116b7ece6",
+    "item": {
+      "title": "From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience",
+      "description": "Quantum computing and AI working together will bring incredible opportunities. Together, the technologies will help us extend innovation further and faster than ever before. But, imagine the flip side, waking up to news that hackers have used a quantum computer to crack your company's encryption overnight, exposing your most sensitive data, rendering much of it untrustworthy.\nAnd with your",
+      "links": [
+        "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAihuxeLpZ2DeRZSiWomZ-RgPbipd7o9I-ZyBNigFFfnVs44SbR2nmQ7sLg_GX8HF2uZgqcdrscxPgtdVScMb3qn2NXlXpDMKP0F1QlHqvh4ALWXyvno-0y9whvbERcTsdm7fGvP2FqrMrwhAyzVBgPevz-dTucLZ51j1OzvFtuDNeK96769o4KAGpM0/s1600/cyber-webinar.jpg"
+      },
+      "published": "2025-09-17T12:56:00Z"
+    }
+  },
+  {
+    "hash": "1e039cc799a882904a80f6c723ac7a41d705197736bafb0984257e8bf419c35a",
+    "item": {
+      "title": "Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts",
+      "description": "A China-aligned threat actor known as TA415 has been attributed to spear-phishing campaigns targeting the U.S. government, think tanks, and academic organizations utilizing U.S.-China economic-themed lures.\n\"In this activity, the group masqueraded as the current Chair of the Select Committee on Strategic Competition between the United States and the Chinese Communist Party (CCP), as well as the",
+      "links": [
+        "https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmNqIAGRC-lHZt4UmR-2Sya8WTKOdff3NnKm8v-ychJrCDRAeEEtSb3V3G1Bz7aBPVz7SbvAg5PrhTgUswlpiKeWGiiQpDAD8opAWFqph5G3Tb_u6Q1Q-FW0jDeSqzfXSESo9Xq6iw100sntxIwzlpc574HXvXUUw1OKftJ4axQjwJFvUIvE0LlEVgOd5D/s1600/chinese-hackers.jpg"
+      },
+      "published": "2025-09-17T12:56:00Z"
+    }
+  },
+  {
+    "hash": "57fbe87d6dca9a4e9b9cf37cd569796b278eac74247b10d79847f23f407881bd",
+    "item": {
+      "title": "[$] Typst: a possible LaTeX replacement",
+      "description": "\u003ca href=\"https://typst.app\"\u003eTypst\u003c/a\u003e is a program for document\ntypesetting. It is especially well-suited to technical material\nincorporating elements such as mathematics, tables, and floating\nfigures. It produces high-quality results, comparable to the gold standard,\n\u003ca href=\"https://www.latex-project.org/\"\u003eLaTeX\u003c/a\u003e, with a simpler markup\nsystem and easier customization, all while compiling documents\nmore quickly. Typst is free software, Apache-2.0 licensed, and is written in Rust.",
+      "links": [
+        "https://lwn.net/Articles/1037577/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-09-17T14:30:42Z"
+    }
+  },
+  {
+    "hash": "76ce3d538feac4f4ac91f8385145f95a024d01165b9528e0de2eda241e485098",
+    "item": {
+      "title": "Systemd v258 released",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/systemd/systemd/releases/tag/v258\"\u003eSystemd\nv258\u003c/a\u003e has been released with a long list of new features and\nchanges; slice units now have basic workload management features,\nquotas for tmpfs have been added, the \"\u003ctt\u003esystemctl\u0026#160;start\u003c/tt\u003e\"\ncommand now has a verbose (\u003ctt\u003e-v\u003c/tt\u003e) option, and more. This release\nalso, finally, completely removes support for control groups v1\nsupport. LWN \u003ca href=\"https://lwn.net/Articles/1028275/\"\u003ecovered\u003c/a\u003e\nsome of systemd v258's features and changes in August.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1038458/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-17T13:57:37Z"
+    }
+  },
+  {
+    "hash": "1678d6805f872a66b01bc8e6c401de15a32204de1038c6175ce04cc8af0c0973",
+    "item": {
+      "title": "[$] Providing support for Windows 10 refugees",
+      "description": "\u003cp\u003eIn October, consumer versions of Windows\u0026#160;10 will\nstop receiving security updates. Many users who would ordinarily move\nto the next version are blocked by Windows\u0026#160;11's hardware\nrequirements unless they are willing to buy a newer PC. The \"\u003ca\nhref=\"https://endof10.org/\"\u003eEnd of 10\u003c/a\u003e\" campaign is an effort to\nconvince those users to switch to Linux rather than sticking with an\nend-of-life operating system or buying a new Windows system. At\nAkademy\u0026#160;2025, Dr. Joseph De\u0026#160;Veaugh-Geiss,\nBettina Louis,  Carolina Silva Rodé, and Nicole Teale discussed their\nwork on the campaign, its progress so far, and what's next.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1037132/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-17T13:41:32Z"
+    }
+  },
+  {
+    "hash": "d3ee178d65c331c9a7a679cb8cd9ff2431d70a220a6fc04bcc66a3ad9492b8f1",
+    "item": {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (container-tools:rhel8, kernel, and podman), \u003cb\u003eDebian\u003c/b\u003e (node-sha.js), \u003cb\u003eFedora\u003c/b\u003e (firefox, kea, and perl-JSON-XS), \u003cb\u003eMageia\u003c/b\u003e (java-1.8.0-openjdk, java-11-openjdk, java-17-openjdk, java-latest-openjdk), \u003cb\u003eOracle\u003c/b\u003e (kernel, libarchive, podman, and python-cryptography), \u003cb\u003eRed Hat\u003c/b\u003e (multiple packages, mysql:8.4, and python3.11), \u003cb\u003eSUSE\u003c/b\u003e (expat, java-1_8_0-ibm, krb5, libavif, net-tools, nginx, nvidia-open-driver-G06-signed, onefetch, pcp, rabbitmq-server313, raptor, and vim), and \u003cb\u003eUbuntu\u003c/b\u003e (libyang2, linux, linux-aws, linux-aws-5.4, linux-bluefield, linux-gcp,\n linux-gcp-5.4, linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot,\n linux-kvm, linux-raspi, linux-raspi-5.4, linux-xilinx-zynqmp, linux-aws-fips, linux-fips, linux-gcp-fips, and python-xmltodict).",
+      "links": [
+        "https://lwn.net/Articles/1038453/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-17T13:09:24Z"
+    }
+  },
+  {
+    "hash": "7b5b26383b74600db1496d948335dd9ab82bbb32a657a6896929acb6777d41aa",
+    "item": {
+      "title": "Bringing fully autonomous rides to Nashville, in partnership with Lyft",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45275415\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T13:10:45Z"
+    }
+  },
+  {
+    "hash": "3c498dedd5f4312f9b317e7a0f2246744d636e39940571cdebfb9e665b2b761f",
+    "item": {
+      "title": "Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45275354\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T13:03:24Z"
+    }
+  },
+  {
+    "hash": "ee71b5f82423f59dd2aae3ac39fc0c66bb459bd076d692de2a6805e201018580",
+    "item": {
+      "title": "Firefox 143 for Android to introduce DoH",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45275444\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.mozilla.org/en/firefox/dns-android/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T13:14:04Z"
+    }
+  },
+  {
+    "hash": "7c3d05a4e34987ff621b5a4a2bbc67842fb0d0b19b87284743cc268dd541ce65",
+    "item": {
+      "title": "Procedural Island Generation (III)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45275049\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T12:29:49Z"
+    }
+  },
+  {
+    "hash": "44da37f1e1469962d842ad3d31680aea1ea20e13e3e9a596e4cd12c46d7ff012",
+    "item": {
+      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45276262\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T14:29:10Z"
+    }
+  },
+  {
+    "hash": "f25f8e91e7453765397fd44e0fc1835180150c55e7a33951d207b3cfe4e339b3",
+    "item": {
+      "title": "SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45275582\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pointfreeco/sqlite-data"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-17T13:27:26Z"
+    }
+  },
+  {
+    "hash": "bf7ba839729de32dd1ac53e156d2f3e2ba78583ef4b236045fe709c8aa748a67",
+    "item": {
+      "title": "XeroxNostalgia.com",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45248524\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://xeroxnostalgia.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T11:40:51Z"
+    }
+  },
+  {
+    "hash": "a6453b0cc46ec37d054efbfc0ce8444496f64f3d9ecb3702edac931375e5b0ae",
+    "item": {
+      "title": "Bitcoin Price Prediction: Will Today’s FOMC Rate Cut to 4.25% Spark the Next Big Move?",
+      "description": "\u003cp\u003eBitcoin steadies at $116K as the Fed eyes its first 2025 rate cut to 4.25%. Will Powell’s guidance spark a BTC rally to $130K or a drop to $114K?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-will-todays-fomc-rate-cut-to-4-25-spark-the-next-big-move/\"\u003eBitcoin Price Prediction: Will Today’s FOMC Rate Cut to 4.25% Spark the Next Big Move?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-will-todays-fomc-rate-cut-to-4-25-spark-the-next-big-move/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26105642/1756205801-bitcoin-price-prediction-7.jpg"
+      },
+      "published": "2025-09-17T14:06:42Z"
+    }
+  },
+  {
+    "hash": "4950098f5f5084856fdd95276ecc7803c52b620b68562bae56f4437ed1230d5c",
+    "item": {
+      "title": "Pump.Fun Token Price Jumps 150%: Written Off Too Early?",
+      "description": "\u003cp\u003eThe price is up, but skepticism is back. Why now?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/written-off-too-early-pump-fun-token-price-jumps-150/\"\u003ePump.Fun Token Price Jumps 150%: Written Off Too Early?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/written-off-too-early-pump-fun-token-price-jumps-150/"
+      ],
+      "categories": [
+        "Features",
+        "Meme Coins",
+        "PUMP Token",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17115010/1758109810-pump-fun.jpg"
+      },
+      "published": "2025-09-17T13:13:08Z"
+    }
+  },
+  {
+    "hash": "1673e473b6c682d3ead1ec04c8dd79d4e60332362d22036e71a430e4f12470da",
+    "item": {
+      "title": "GOP’s Last-Ditch Move: CBDC Ban Quietly Added to Major Crypto Bill",
+      "description": "\u003cp\u003eHouse Republicans moved to merge a bill banning a U.S. central bank digital currency with the bipartisan CLARITY Act on crypto regulation, a step that faces long odds in the Senate.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gops-last-ditch-move-cbdc-ban-quietly-added-to-major-crypto-bill/\"\u003eGOP’s Last-Ditch Move: CBDC Ban Quietly Added to Major Crypto Bill\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gops-last-ditch-move-cbdc-ban-quietly-added-to-major-crypto-bill/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "CBDC",
+        "Clarity Act"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17103317/1758105197-5705c3e7-73db-416e-996f-4e3fc7413b05_optimized.jpg"
+      },
+      "published": "2025-09-17T12:35:25Z"
+    }
+  },
+  {
+    "hash": "af5c76653c6d61aa25e2b4aaaa2bd5d2774439aca403deaaef0217ff012727e2",
+    "item": {
+      "title": "Fed Rate Cut Underway – Is It Meme Coin Hunting Season? Snorter Bot Token Shows the Way",
+      "description": "\u003cp\u003eSeveral macroeconomic factors may be contributing towards a new meme coin season. As the U.S. heads into an expected rate cut at today’s FOMC meeting, the message for the economy is that growth has slowed to the point where the risk of recession now outweighs the risk of inflation.For crypto, that shift is typically bullish. [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/fed-rate-cut-underway-is-it-meme-coin-hunting-season-snorter-bot-token-shows-the-way/\"\u003eFed Rate Cut Underway – Is It Meme Coin Hunting Season? Snorter Bot Token Shows the Way\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/fed-rate-cut-underway-is-it-meme-coin-hunting-season-snorter-bot-token-shows-the-way/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Meme Coins",
+        "Presale",
+        "Snorter"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17120919/1758110958-screenshot-2025-09-17-at-15-08-57.jpg"
+      },
+      "published": "2025-09-17T12:27:17Z"
+    }
   }
 ]
