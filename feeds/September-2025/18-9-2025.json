@@ -417,5 +417,681 @@
       },
       "published": "2025-09-18T03:18:24Z"
     }
+  },
+  {
+    "hash": "418dcea68109e53c1e8e751bae841014d9ceb96c2f3354da60d3e295d99f455d",
+    "item": {
+      "title": "When Is Your Pyrex Not The Pyrex You Expect?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"830949\" data-permalink=\"https://hackaday.com/2025/09/17/when-is-your-pyrex-not-the-pyrex-you-expect/pyrex-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pyrex-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg?w=800\" /\u003e\u003c/div\u003eIt\u0026#8217;s not often that Hackaday brings you something from a cooking channel, but [I Want To Cook] has a fascinating look at Pyrex glassware that\u0026#8217;s definitely worth watching. If you \u003ca href=\"https://hackaday.com/2025/09/17/when-is-your-pyrex-not-the-pyrex-you-expect/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/when-is-your-pyrex-not-the-pyrex-you-expect/"
+      ],
+      "categories": [
+        "chemistry hacks",
+        "borosilicate glass",
+        "glass",
+        "pyrex",
+        "soda glass"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/pyrex-featured.jpg"
+      },
+      "published": "2025-09-18T05:00:14Z"
+    }
+  },
+  {
+    "hash": "2934e523fac26dbe9fb808ef24da174dc3be743874a8c9582a378eff432ca922",
+    "item": {
+      "title": "Getting the Most out of ISM Transceivers Using Math",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg 1780w, https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?resize=800,449 800w, https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?resize=1536,863 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"831015\" data-permalink=\"https://hackaday.com/2025/09/17/getting-the-most-out-of-ism-transceivers-using-math/wirelessnetworkprotocol/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg\" data-orig-size=\"1780,1000\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"wirelessNetworkProtocol\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg?w=800\" /\u003e\u003c/div\u003eWiFi is an excellent protocol, but it certainly has its weaknesses. Its range in even a normal home is relatively limited, so you could imagine the sort of performance you\u0026#8217;d \u003ca href=\"https://hackaday.com/2025/09/17/getting-the-most-out-of-ism-transceivers-using-math/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/getting-the-most-out-of-ism-transceivers-using-math/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "home networking",
+        "rfm12b",
+        "SAMD21",
+        "wireless network",
+        "wireless networking"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Fenix Guthrie"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/wirelessNetworkProtocol-e1758148592849.jpg"
+      },
+      "published": "2025-09-18T02:00:34Z"
+    }
+  },
+  {
+    "hash": "630c04c73fa402d1730d024ac0871ee5a1c4fd5f634822fc6e6a96d512db38d6",
+    "item": {
+      "title": "It’s A Variable Capacitor, But Not As We Know It",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"830913\" data-permalink=\"https://hackaday.com/2025/09/17/its-a-variable-capacitor-but-not-as-we-know-it/variable-capacitor-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"variable-capacitor-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg?w=800\" /\u003e\u003c/div\u003eRadio experimenters often need a variable capacitor to tune their circuits, as the saying goes, for maximum smoke. In decades past these were readily available from almost any scrap radio, \u003ca href=\"https://hackaday.com/2025/09/17/its-a-variable-capacitor-but-not-as-we-know-it/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/its-a-variable-capacitor-but-not-as-we-know-it/"
+      ],
+      "categories": [
+        "Parts",
+        "Radio Hacks",
+        "capacitor",
+        "radio",
+        "variable capacitor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/variable-capacitor-featured.jpg"
+      },
+      "published": "2025-09-17T23:00:29Z"
+    }
+  },
+  {
+    "hash": "9f3f47e9c4348cf6287fb788c39cf97dd1f54d15ef7f5be7e2fc592bac8a004f",
+    "item": {
+      "title": "Smooth! Non-Planar 3D Ironing",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png 1200w, https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png?resize=400,267 400w, https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png?resize=800,533 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"830849\" data-permalink=\"https://hackaday.com/2025/09/17/smooth-non-planar-3d-ironing/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png\" data-orig-size=\"1200,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png?w=800\" /\u003e\u003c/div\u003eIs 2025 finally the year of non-planar 3D printing? Maybe it won\u0026#8217;t have to be if [Ten Tech] gets his way! Ironing is the act of going over the top \u003ca href=\"https://hackaday.com/2025/09/17/smooth-non-planar-3d-ironing/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/smooth-non-planar-3d-ironing/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "3d printer",
+        "ironing",
+        "non-planar"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Elliot Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/a-different-approach-to-nonplanar-ironing-now-opensource-g4ojykchad8-mp4-shot0001_featured.png"
+      },
+      "published": "2025-09-17T20:00:19Z"
+    }
+  },
+  {
+    "hash": "69a7a65d87510ddd7e8f63a9cae302f20542e645687ef809203ddb9d6b7a600b",
+    "item": {
+      "title": "FLOSS Weekly Episode 847: This is Networking",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"483960\" data-permalink=\"https://hackaday.com/pipewire-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Pipewire\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" /\u003e\u003c/div\u003eThis week Jonathan and Rob chat with Tom Herbert about XDP2! It\u0026#8217;s the brand new framework for making networking really fast, making parsers really simple, and making hardware network acceleration \u003ca href=\"https://hackaday.com/2025/09/17/floss-weekly-episode-847-this-is-networking/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/floss-weekly-episode-847-this-is-networking/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "FLOSS Weekly",
+        "networking"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg"
+      },
+      "published": "2025-09-17T18:30:57Z"
+    }
+  },
+  {
+    "hash": "f001913a33e5f23e41dc918f72974c98433146ad070e78cd62590b474ee3552a",
+    "item": {
+      "title": "Forgotten Internet: The Story of Email",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg 3000w, https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"830713\" data-permalink=\"https://hackaday.com/2025/09/17/forgotten-internet-the-story-of-email/historyemail/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"HistoryEmail\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg?w=800\" /\u003e\u003c/div\u003eIt is a common occurrence in old movies: Our hero checks in at a hotel in some exotic locale, and the desk clerk says, \u0026#8220;Ah, Mr. Barker, there\u0026#8217;s a letter \u003ca href=\"https://hackaday.com/2025/09/17/forgotten-internet-the-story-of-email/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/forgotten-internet-the-story-of-email/"
+      ],
+      "categories": [
+        "Featured",
+        "History",
+        "Original Art",
+        "Retrocomputing",
+        "AOL",
+        "arpanet",
+        "email",
+        "imap",
+        "pop",
+        "smtp"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/HistoryEmail.jpg"
+      },
+      "published": "2025-09-17T17:00:00Z"
+    }
+  },
+  {
+    "hash": "5fc541043909c4b933a00cba48737f7e6fcc3b3d75106fe5451f707297c8d8a9",
+    "item": {
+      "title": "American Science and Surplus Ends Online Sales",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"243\" src=\"https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?resize=250,76 250w, https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?resize=400,121 400w, https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?resize=800,243 800w, https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?resize=1536,466 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"830834\" data-permalink=\"https://hackaday.com/2025/09/17/american-science-and-surplus-ends-online-sales/surplus_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg\" data-orig-size=\"1920,582\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"surplus_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg?w=800\" /\u003e\u003c/div\u003eFor nearly 90 years, American Science and Surplus has been shipping out weird and wonderful stuff to customers far and wide. In the pre-Internet days, getting their latest catalog in \u003ca href=\"https://hackaday.com/2025/09/17/american-science-and-surplus-ends-online-sales/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/17/american-science-and-surplus-ends-online-sales/"
+      ],
+      "categories": [
+        "News",
+        "mail order",
+        "store closing",
+        "surplus"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tom Nardi"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/surplus_feat.jpg"
+      },
+      "published": "2025-09-17T15:30:01Z"
+    }
+  },
+  {
+    "hash": "925f1354c7109385f6567ae7d2f7466804c4046f4b17374b9d4918586b6c153b",
+    "item": {
+      "title": "Slack has raised our charges by $195k per year",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283887\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://skyfall.dev/posts/slack"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T01:37:11Z"
+    }
+  },
+  {
+    "hash": "deaa5bfc8af9b8130714c761470266aa86d9ff8f9cca1f984f52142ec95b5f74",
+    "item": {
+      "title": "Show HN: The text disappears when you screenshot it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45284311\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://unscreenshottable.vercel.app/?text=Hello"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T02:18:45Z"
+    }
+  },
+  {
+    "hash": "c81993b3c06a345d8377ab2f1543218d86bfed40f7aaca3e2030619b87adbf68",
+    "item": {
+      "title": "European ant is the first known animal to clone members of another species",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45285780\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T05:27:01Z"
+    }
+  },
+  {
+    "hash": "eb49d74da1fbd68c6cd8aa773fd1ac96cf9856efd85239aee181f836ab87e609",
+    "item": {
+      "title": "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251111\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T15:46:02Z"
+    }
+  },
+  {
+    "hash": "0f0a6bf2baf988ac59a9300d2ef0c8b0e7457f84aa14ed107451877671649079",
+    "item": {
+      "title": "Towards a Physics Foundation Model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45284766\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2509.13805"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T03:06:08Z"
+    }
+  },
+  {
+    "hash": "cbd0718164814afd40797d38b4a3b8f1b7376b295cb4dbfd7230af316eb87de8",
+    "item": {
+      "title": "Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251940\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-15T16:48:01Z"
+    }
+  },
+  {
+    "hash": "e541004c038c58ab5d4979eff7f8f16ede45f698dc693557689554720c610051",
+    "item": {
+      "title": "Stepping Down as Libxml2 Maintainer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283196\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T00:17:20Z"
+    }
+  },
+  {
+    "hash": "0401920a6b79471500ee7c735c67835de89b92675ea4256a1e3c774c80852e4a",
+    "item": {
+      "title": "A QBasic Text Adventure Still Expanding in 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45284398\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://the-ventureweaver.itch.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T02:25:59Z"
+    }
+  },
+  {
+    "hash": "4e66b40881fe60f66d483a818c94c9081e8cbc01df8524df6f3da36b1dff3d40",
+    "item": {
+      "title": "Trump sues New York Times for $15B, says reporting hurt $TRUMP token",
+      "description": "\u003cp\u003e\u003cimg width=\"376\" height=\"212\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/05/bitcoin-reserve-376x212-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Trump net worth\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/05/bitcoin-reserve-376x212-1.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2025/05/bitcoin-reserve-376x212-1-300x169.jpg 300w\" sizes=\"(max-width: 376px) 100vw, 376px\" /\u003e\u003c/p\u003eDonald Trump sued The New York Times, four of its journalists, and book publisher Penguin Random House for $15 billion in damages in a defamation lawsuit. The lawsuit, filed Monday in a federal court in Florida, alleges their stories intentionally damaged his reputation and one of his major businesses, the",
+      "links": [
+        "https://thenewscrypto.com/trump-sues-new-york-times-for-15b-says-reporting-hurt-trump-token/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "NY times",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Helen Veronika"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/05/bitcoin-reserve-376x212-1.jpg"
+      },
+      "published": "2025-09-17T18:19:27Z"
+    }
+  },
+  {
+    "hash": "0de1d110f7db9d4d72b109f1b4f04767b78344be79b90df459068b7f5ab503a1",
+    "item": {
+      "title": "Fed expected to cut rates by 25 bps, Bitcoin and Ethereum steady",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Report_Signals_Three_US_Fed_Rate_Cuts_Amid_Rising_Inflation_Whats-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"fed rate\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Report_Signals_Three_US_Fed_Rate_Cuts_Amid_Rising_Inflation_Whats-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Report_Signals_Three_US_Fed_Rate_Cuts_Amid_Rising_Inflation_Whats-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Report_Signals_Three_US_Fed_Rate_Cuts_Amid_Rising_Inflation_Whats-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Federal Reserve announced its interest rate decision. On CNBC, Jenny Johnson, the CEO of Franklin Templeton, shared her take, betting on a small 25 basis point rate cut rather than a bigger 50 basis point one. She mentioned recent job numbers that show a softening labor market, but she",
+      "links": [
+        "https://thenewscrypto.com/fed-expected-to-cut-rates-by-25-bps-bitcoin-and-ethereum-steady/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "FED",
+        "rate cut"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Helen Veronika"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Report_Signals_Three_US_Fed_Rate_Cuts_Amid_Rising_Inflation_Whats-1.jpg"
+      },
+      "published": "2025-09-17T17:59:34Z"
+    }
+  },
+  {
+    "hash": "167e60f4cdd3e760aac0b3677dafe408945d13c69ad53a693576cf6a7920e7eb",
+    "item": {
+      "title": "Chainlink Reaches Critical Juncture as Saudi Bank Partnership Drives Institutional Adoption",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/LINK-Scarcity-Saudi-Bank-Adoption-Breakout-Coming.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/LINK-Scarcity-Saudi-Bank-Adoption-Breakout-Coming.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/LINK-Scarcity-Saudi-Bank-Adoption-Breakout-Coming-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/LINK-Scarcity-Saudi-Bank-Adoption-Breakout-Coming-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eChainlink has reached a pivotal moment as exchange supply drops to multi-year lows while major institutional partnerships gain momentum. Saudi Awwal Bank, one of Saudi Arabia\u0026#8217;s largest financial institutions managing over $100 billion in assets, will integrate multiple Chainlink services for next-generation blockchain applications. The banking partnership marks a shift",
+      "links": [
+        "https://thenewscrypto.com/chainlink-reaches-critical-juncture-as-saudi-bank-partnership-drives-institutional-adoption/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Chainlink"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/LINK-Scarcity-Saudi-Bank-Adoption-Breakout-Coming.jpg"
+      },
+      "published": "2025-09-17T17:55:00Z"
+    }
+  },
+  {
+    "hash": "a897e6c1c7e8183504eb7dbe850833b0ba240913fc2048b0d866ec86a5cc9915",
+    "item": {
+      "title": "CZ may return to Binance as BNB hits $960",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Binance-Founder-CZ-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"cz binance\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Binance-Founder-CZ-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Binance-Founder-CZ-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Binance-Founder-CZ-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSpeculation is swirling that Changpeng Zhao, or CZ, the founder of Binance. This might be gearing up for a return to the exchange nearly two years after he stepped down in November 2023. The talk started after CZ updated his X profile, changing \u0026#8220;ex-@binance\u0026#8221; to just \u0026#8220;@binance.\u0026#8221;The change comes as",
+      "links": [
+        "https://thenewscrypto.com/cz-may-return-to-binance-as-bnb-hits-960/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "BNB",
+        "CZ"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Helen Veronika"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Binance-Founder-CZ-1.jpg"
+      },
+      "published": "2025-09-17T17:32:54Z"
+    }
+  },
+  {
+    "hash": "8ca79e1a91d31efa0b47c85fd94fb39d7c5ca26dc182212ef38e683be5a8e696",
+    "item": {
+      "title": "BetFury is at SBC Summit Lisbon 2025: Affiliate Growth in Focus",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/BetFury-is-at-SBC-Summit-Lisbon.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BetFury is at SBC Summit Lisbon 2025: Affiliate Growth in Focus\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/BetFury-is-at-SBC-Summit-Lisbon.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/BetFury-is-at-SBC-Summit-Lisbon-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/BetFury-is-at-SBC-Summit-Lisbon-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCuracao, Curacao, 17th September 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/betfury-is-at-sbc-summit-lisbon-2025-affiliate-growth-in-focus/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/BetFury-is-at-SBC-Summit-Lisbon.jpg"
+      },
+      "published": "2025-09-17T17:19:28Z"
+    }
+  },
+  {
+    "hash": "0bfa833238579c2fe3c94a5503350007ac559c4c00963c70ed316d5bd7f738dc",
+    "item": {
+      "title": "Ethereum vs. Bitcoin: Bitget’s Chief Analyst Explains What Could Tip the Scales",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/What-Will-It-Take-for-Ethereum-to-Outperform-Bitcoin.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum vs. Bitcoin: Bitget’s Chief Analyst Explains What Could Tip the Scales\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/What-Will-It-Take-for-Ethereum-to-Outperform-Bitcoin.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/What-Will-It-Take-for-Ethereum-to-Outperform-Bitcoin-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/What-Will-It-Take-for-Ethereum-to-Outperform-Bitcoin-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe ETH/BTC ratio has stayed consistently below 0.05 for more than twelve months, highlighting Ethereum\u0026#8217;s inability to gain ground against Bitcoin even during periods many analysts characterized as favorable for ETH. This persistent underperformance occurs despite Ethereum achieving new all-time highs and attracting billions in exchange-traded fund investments. Bitget Chief",
+      "links": [
+        "https://thenewscrypto.com/ethereum-vs-bitcoin-bitgets-chief-analyst-explains-what-could-tip-the-scales/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/What-Will-It-Take-for-Ethereum-to-Outperform-Bitcoin.jpg"
+      },
+      "published": "2025-09-17T17:15:00Z"
+    }
+  },
+  {
+    "hash": "5038b93ae45bd165b134590ec7b8820bb96da66cca9f6173614b241b3054cab4",
+    "item": {
+      "title": "Cardano (ADA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano (ADA)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Cardano (ADA) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of ADA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Cardano (ADA) Current Market Status What is Cardano (ADA)? Cardano (ADA) 24H Technicals CARDANO (ADA)",
+      "links": [
+        "https://thenewscrypto.com/ada-cardano-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "ADA",
+        "Cardano",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg"
+      },
+      "published": "2025-09-17T17:14:15Z"
+    }
+  },
+  {
+    "hash": "d897b67f90ce97e0e4f4ac5332d0da82be0b7a4ced8e54be29d9888edc72bc51",
+    "item": {
+      "title": "Bittensor (TAO) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bittensor (TAO) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Bittensor (TAO) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of TAO by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Bittensor (TAO) Current Market Status What is Bittensor (TAO)? Bittensor (TAO) 24H Technicals BITTENSOR (TAO) PRICE",
+      "links": [
+        "https://thenewscrypto.com/bittensor-tao-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "AI",
+        "Bittensor",
+        "Crypto Market",
+        "Cryptocurrecncy",
+        "Price preddiction",
+        "TAO"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-21-at-1.21.29-PM.jpeg"
+      },
+      "published": "2025-09-17T17:10:28Z"
+    }
+  },
+  {
+    "hash": "db9158e1748d123a8e4e1bf71b763a36dc9c0bd7a0b05b1cc5b2da43dfef5524",
+    "item": {
+      "title": "VeChain (VET) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/VET-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"VET Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/VET-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/VET-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/VET-1-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this VeChain (VET) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of VET by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION VeChain (VET) Current Market Status What is VeChain (VET)? VeChain (VET) 24H Technicals VECHAIN (VET)",
+      "links": [
+        "https://thenewscrypto.com/vechain-vet-price-prediction-2/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "VeChain",
+        "VET"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/VET-1.jpg"
+      },
+      "published": "2025-09-17T17:06:05Z"
+    }
+  },
+  {
+    "hash": "0fdf2bf7446d1774e67a41a8f151da3c325f83f42586ad6fbb66a85cf2ff974c",
+    "item": {
+      "title": "Chainlink (LINK) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Chainlink (LINK) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/Link-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Chainlink (LINK) price prediction 2025, 2026-2030,\u0026#160;we will analyze the price patterns of LINK by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Chainlink (LINK) Current Market Status What is Chainlink (LINK)? Chainlink (LINK) 24H Technicals CHAINLINK (LINK) PRICE",
+      "links": [
+        "https://thenewscrypto.com/chainlink-link-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Chainlink Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/Link.jpg"
+      },
+      "published": "2025-09-17T17:01:16Z"
+    }
+  },
+  {
+    "hash": "1bba1eaebe309bf814f1b9bb4caca392a01e7037f3392bf68a27848c926bd0c0",
+    "item": {
+      "title": "Thiel-Backed Bullish Exchange Posts $108M Q2 Profit, Reversing Last Year’s Loss",
+      "description": "\u003cp\u003eBullish has reported a net profit of $108.3 million for Q2 2025, marking a major turnaround from a $116.4 million loss in the same quarter last year. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/thiel-backed-bullish-exchange-posts-108m-q2-profit-reversing-last-years-loss/\"\u003eThiel-Backed Bullish Exchange Posts $108M Q2 Profit, Reversing Last Year’s Loss\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/thiel-backed-bullish-exchange-posts-108m-q2-profit-reversing-last-years-loss/"
+      ],
+      "categories": [
+        "News",
+        "bullish",
+        "Cryptocurrency",
+        "Exchange"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/18055635/1758174995-image-1758174861392_optimized.jpg"
+      },
+      "published": "2025-09-18T05:58:07Z"
+    }
+  },
+  {
+    "hash": "c2c7e38ef53eec0d4c51f804dc7a3869d079636f5c23ebc7e770c12f964d675e",
+    "item": {
+      "title": "South Korean Custodian BDACS Launches First Fiat-Backed Won Stablecoin on AVAX",
+      "description": "\u003cp\u003eSouth Korean crypto custodian BDACS launches first Korean won–backed stablecoin dubbed KRW1, on the Avalanche blockchain.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bdacs-launches-first-fiat-backed-won-stablecoin-on-avax/\"\u003eSouth Korean Custodian BDACS Launches First Fiat-Backed Won Stablecoin on AVAX\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bdacs-launches-first-fiat-backed-won-stablecoin-on-avax/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Avalanche",
+        "South Korea",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/18052712/1758173232-image-1758166497192_optimized.jpg"
+      },
+      "published": "2025-09-18T05:33:27Z"
+    }
+  },
+  {
+    "hash": "9450c24a64ed9c4ea3fd2a4d29f1a99b41a593240ce819d15bc0c3d8dc9a42a9",
+    "item": {
+      "title": "Crypto Market Cap Edges Up 2% as Bitcoin Approaches $118K After Fed Rate Trim",
+      "description": "\u003cp\u003eThe global crypto market cap rose 2% to $4.2 trillion as Bitcoin neared $118K after the Fed’s rate cut, though Powell’s cautious tone kept gains muted.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fed-rate-trim-lifts-crypto-market-cap-bitcoin-nears-118k/\"\u003eCrypto Market Cap Edges Up 2% as Bitcoin Approaches $118K After Fed Rate Trim\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fed-rate-trim-lifts-crypto-market-cap-bitcoin-nears-118k/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "fed rate cut",
+        "Federal Reserve"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/18050329/1758171809-stock-image_optimized-6.jpg"
+      },
+      "published": "2025-09-18T05:14:10Z"
+    }
+  },
+  {
+    "hash": "c456e4a69a3e50534f9ea02a070c64c02118a3d9dd4dbc6e40a9c75a3bb37e76",
+    "item": {
+      "title": "SEC Backs Nasdaq, CBOE, NYSE Push to Simplify Crypto ETF Rules",
+      "description": "\u003cp\u003eThe SEC has approved new rules letting Nasdaq, Cboe, and NYSE fast-track crypto spot ETFs, clearing the final hurdle for broader listings.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-crypto-etf-rules-agency-backs-nasdaq-cboe-nyse-changes/\"\u003eSEC Backs Nasdaq, CBOE, NYSE Push to Simplify Crypto ETF Rules\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-crypto-etf-rules-agency-backs-nasdaq-cboe-nyse-changes/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto ETFs",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/18043057/1758169857-stock-image_optimized-5.jpg"
+      },
+      "published": "2025-09-18T04:40:45Z"
+    }
+  },
+  {
+    "hash": "47503fe26154b25096e7cd6cc7d0c1740a8c1a8d5bac3fc07c6e098c60368f8c",
+    "item": {
+      "title": "[LIVE] Crypto News Today: Latest Updates for Sept. 18, 2025 – Bitcoin Pushes Towards $118K as Fed Rate Cut Sparks Broad Crypto Rally",
+      "description": "\u003cdiv class=\"single-post__subheader\"\u003eFollow up to the hour updates on what is happening in crypto today, September 18. Market movements, crypto news, and more!\u003c/div\u003e\n\u003cdiv class=\"single-post-new__author-top\"\u003e\n\u003cdiv class=\"single-post-new__author-top-col\"\u003e\n\u003cdiv class=\"single-post-new__author-top-info\"\u003e\n\u003cdiv class=\"single-post-new__author-top-avatar\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-sept-18-2025/\"\u003e[LIVE] Crypto News Today: Latest Updates for Sept. 18, 2025 – Bitcoin Pushes Towards $118K as Fed Rate Cut Sparks Broad Crypto Rally\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-sept-18-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jai Pratap"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/18042043/1758169242-sep-18.jpg"
+      },
+      "published": "2025-09-18T04:23:47Z"
+    }
   }
 ]
