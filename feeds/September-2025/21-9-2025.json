@@ -1375,5 +1375,167 @@
       },
       "published": "2025-09-21T10:05:37Z"
     }
+  },
+  {
+    "hash": "3089f0438c59993df91433a5aa39cc216babd81ac47474e106d027e53438fbc2",
+    "item": {
+      "title": "Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections",
+      "description": "Not to be confused with AMD's Platform Security Processor (PSP), but Google's PSP Security Protocol (PSP) for encryption in-transit for TCP network connections is now ready for the mainline kernel. This initial PSP encryption support for network connections is set to arrive with the upcoming Linux 6.18 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/PSP-Encryption-Linux-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-21T13:04:00Z"
+    }
+  },
+  {
+    "hash": "9814df446e6bd00a34770d5bb6a06fb629275152e4eb40875d2a9f44b88ee0ab",
+    "item": {
+      "title": "Meta exposé author faces bankruptcy after ban on criticising company",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322050\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-21T12:15:11Z"
+    }
+  },
+  {
+    "hash": "f457835cadcdb37ca5feb9c4e2dd20e1fbb967fc3ac1a4ee20bf7fee126db256",
+    "item": {
+      "title": "Disk Utility still can't check and repair APFS volumes and containers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322623\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-21T13:37:13Z"
+    }
+  },
+  {
+    "hash": "5dd35f3af77bfb98f2324a2ae74bacdb79d08c08bc5fa16af63a917820fa44e5",
+    "item": {
+      "title": "New thermoelectric cooling breakthrough nearly doubles efficiency",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323187\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sciencedaily.com/releases/2025/09/250919085242.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-21T14:43:21Z"
+    }
+  },
+  {
+    "hash": "4d8447ec72df7b21644694be31bcef5f23b9d19d87a7fd176546fafad7747ff3",
+    "item": {
+      "title": "UUIDv7 in Postgres 18. With time extraction",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323008\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thenile.dev/blog/uuidv7"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-21T14:24:09Z"
+    }
+  },
+  {
+    "hash": "33dff0c58034299380c3b7133a01d351060c465eba3be7e836372417905e4b5b",
+    "item": {
+      "title": "Gluco data handler: Receive and visualize glucose data on Android",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45286302\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pachi81/GlucoDataHandler"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T06:43:41Z"
+    }
+  },
+  {
+    "hash": "8adfaad28311ca0cac3a7ebe6b3d1a557dcd50e610e15cc9e18e3133675b6c8e",
+    "item": {
+      "title": "Bluefin LTS Is Released",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45296550\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.projectbluefin.io/blog/bluefin-lts-ga/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-19T00:13:22Z"
+    }
+  },
+  {
+    "hash": "2cf4a86df152e423a706bda35119a698d0d806f445f252c8cc81c84759394a45",
+    "item": {
+      "title": "That DEA agent's 'credit card' could be eavesdropping on you",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322101\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.independent.co.uk/news/world/americas/dea-surveillance-hidden-cameras-federal-law-enforcement-b2828606.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-21T12:24:31Z"
+    }
+  },
+  {
+    "hash": "0ea218ff785be0abb57437206ff7abfa095f1f41cc1ead767c4af6e414d4d3e2",
+    "item": {
+      "title": "The dead weight loss of strictly isotonic regression",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45295610\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.gojiberries.io/calibration/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-18T22:08:21Z"
+    }
+  },
+  {
+    "hash": "2163e881fb33664090341ba73f18f73a0b0bd7f29bdeddff0a17ee4f2a3efa4c",
+    "item": {
+      "title": "Toyota, BYD, and Yamaha Now Accept USDT Payments in Bolivia, Tether CEO Confirms",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eToyota, BYD, and Yamaha have started accepting USDT payments in Bolivia according to Tether CEO Paolo Ardoino, as the country's Central Bank recorded $294 million in crypto payment transactions during the first six months of 2025, representing a 630% surge from $46.5 million in 2024 following Bolivia's June removal of crypto ban and regulatory framework establishment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/toyota-byd-and-yamaha-now-accept-usdt-payments-in-bolivia-tether-ceo-confirms/\"\u003eToyota, BYD, and Yamaha Now Accept USDT Payments in Bolivia, Tether CEO Confirms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/toyota-byd-and-yamaha-now-accept-usdt-payments-in-bolivia-tether-ceo-confirms/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Paolo Ardoino",
+        "USDT"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/21134910/1758462549-stock-image_optimized-39.webp"
+      },
+      "published": "2025-09-21T13:57:20Z"
+    }
+  },
+  {
+    "hash": "9228484a78a0d0b97e3ee2b599c4523f12da435100851eafa2d1d8d475bc8358",
+    "item": {
+      "title": "This Coin Already Jumped 5,507% and The Presale Only Just Started",
+      "description": "\u003cp\u003eAIAO is the token behind AlgosOne, a platform with technology that’s already shaking up the world of AI-driven trading.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/this-coin-already-jumped-5507-and-the-presale-only-just-started/\"\u003eThis Coin Already Jumped 5,507% and The Presale Only Just Started\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/this-coin-already-jumped-5507-and-the-presale-only-just-started/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/18115518/1758196518-algosone_optimized.jpg"
+      },
+      "published": "2025-09-21T12:15:00Z"
+    }
   }
 ]
