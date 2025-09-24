@@ -1195,5 +1195,159 @@
       },
       "published": "2025-09-24T03:48:47Z"
     }
+  },
+  {
+    "hash": "7d1de2474a6dbb6fd462c689bd07daca2cfd7bc3f790bad4befafa255d45a91b",
+    "item": {
+      "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
+      "description": "Cloud security company Wiz has revealed that it uncovered in-the-wild exploitation of a security flaw in a Linux utility called Pandoc as part of attacks designed to infiltrate Amazon Web Services (AWS) Instance Metadata Service (IMDS).\nThe vulnerability in question is CVE-2025-51591 (CVSS score: 6.5), which refers to a case of Server-Side Request Forgery (SSRF) that allows attackers to",
+      "links": [
+        "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKyurAVwFl0xbW7fxmPHdNxWeLJgY1Yae_r4IUGEvwD8a0825wBZI1ntXPxDQhyphenhyphenEgh7Z-mVsIjOCPPsb9Both7X-Qp9fvn6CS-2zXBQcRP5i55_6Zh89eY9LFRBQ1Ac6Cov-299GYptQgS59qKr_jDculJRDg94OoGe1PAHwe3MR5Poy3nKqQ7Fe0ydfU/s1600/aws-hack.jpg"
+      },
+      "published": "2025-09-24T07:15:00Z"
+    }
+  },
+  {
+    "hash": "ce51e9d7886f64929a91872037d4dab92e229964ba7a470a0904abefa5794094",
+    "item": {
+      "title": "State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability",
+      "description": "Libraesva has released a security update to address a vulnerability in its Email Security Gateway (ESG) solution that it said has been exploited by state-sponsored threat actors.\nThe vulnerability, tracked as CVE-2025-59689, carries a CVSS score of 6.1, indicating medium severity.\n\"Libraesva ESG is affected by a command injection flaw that can be triggered by a malicious email containing a",
+      "links": [
+        "https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikhC9o89XVtTF8APvUzHWqDjSYVUWJPe2XX1C4SYV-AZpM-D4tG75m5-N8kv1STdI9pXts2I7LgBfZclev07Umd0tUOTXvukSAjVVOhCfMGjm4wW21CR5YmfaPTAdTd0ZoZS_MQGcNYehNqOyywF3TuE-FzoHat71AHET9puQgA0PZDmDO4cqwm31n1AzD/s1600/email-hack.jpg"
+      },
+      "published": "2025-09-24T06:24:00Z"
+    }
+  },
+  {
+    "hash": "2a6c13f8937d5376f5e65387f9c82e0e91f9c53b304495138de52173eb5b16cd",
+    "item": {
+      "title": "New study shows plants and animals emit a visible light that expires at death",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45355965\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T03:27:41Z"
+    }
+  },
+  {
+    "hash": "5280051fc220eff588ff5d1d98b38fd75e3c7ec1cc0795b94a052317ec7d37aa",
+    "item": {
+      "title": "Simplifying Cross-Chain Transactions Using Intents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45312153\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.shodipoayomide.com/Simplifying-Cross-Chain-Transactions-Using-Intents"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-20T10:42:06Z"
+    }
+  },
+  {
+    "hash": "7955b637224d5cb13e84c2672fa729b627d62e708abc6c5fff6cff83c5a02c43",
+    "item": {
+      "title": "Why is modern data architecture so confusing? And what made sense for me",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332786\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.exasol.com/hub/data-warehouse/architecture/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-22T12:57:35Z"
+    }
+  },
+  {
+    "hash": "76e85d31c497a9e0fbb254c00fa1ff61bffda9f39585f156f7444d7550ed86b2",
+    "item": {
+      "title": "Processing Strings 109x Faster Than Nvidia on H100",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45319791\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ashvardanian.com/posts/stringwars-on-gpus/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-21T03:30:07Z"
+    }
+  },
+  {
+    "hash": "3967b91a2fcd6790af060965c6b5847093b95dfd2746826d9811af5d87e06315",
+    "item": {
+      "title": "Ruby Central Is Not Behaving in Good Faith, and I've Got Receipts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45357222\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jaredwhite.com/articles/ruby-central-is-not-operating-in-good-faith"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T07:05:46Z"
+    }
+  },
+  {
+    "hash": "7303b8e9a9a134e759604ffb4d445b3a047398d4c7a1699db9693433afb3fcb0",
+    "item": {
+      "title": "Crypto Asset Manager ReserveOne Files for $1B Merger with M3-Brigade SPAC",
+      "description": "\u003cp\u003eReserveOne has filed a confidential draft of Form S-4 with the SEC as part of its plan to go public through a merger with M3-Brigade Acquisition V Corp.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-asset-manager-reserveone-files-for-1b-merger-with-m3-brigade-spac/\"\u003eCrypto Asset Manager ReserveOne Files for $1B Merger with M3-Brigade SPAC\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-asset-manager-reserveone-files-for-1b-merger-with-m3-brigade-spac/"
+      ],
+      "categories": [
+        "News",
+        "Acquisition",
+        "Bitcoin",
+        "Bitcoin Treasuries"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/24082552/1758702351-image-1758702337962_optimized.jpg"
+      },
+      "published": "2025-09-24T08:27:23Z"
+    }
+  },
+  {
+    "hash": "f02ba100c6488b51ea662483a9af36751673407d4b489f3f2310185a7d8752a8",
+    "item": {
+      "title": "Crypto Millionaires Surge 40% as Market Cap Tops $3.3 Trillion: Report",
+      "description": "\u003cp\u003eThe number of cryptocurrency millionaires has jumped 40% over the past year, reaching 241,700 individuals globally.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-millionaires-surge-40-as-market-cap-tops-3-3-trillion-report/\"\u003eCrypto Millionaires Surge 40% as Market Cap Tops $3.3 Trillion: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-millionaires-surge-40-as-market-cap-tops-3-3-trillion-report/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/24063100/1758695460-image-1758695442907_optimized.jpg"
+      },
+      "published": "2025-09-24T06:32:21Z"
+    }
   }
 ]
