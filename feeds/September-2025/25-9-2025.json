@@ -1479,5 +1479,626 @@
       },
       "published": "2025-09-25T06:49:51Z"
     }
+  },
+  {
+    "hash": "41c44a63060fd5576b5bf0e2406dd7e70ae657d62544847db34cd57b9ddfa54f",
+    "item": {
+      "title": "Intel Posts New Linux Patches To Reduce Overhead Of VMSCAPE Mitigation",
+      "description": "Earlier this month the VMSCAPE CPU security vulnerability was made public and affecting both AMD and Intel processors. VMSCAPE can lead to leaking information from a user-space hypervisor via speculative side channels. An Intel engineer today posted a new set of patches for helping to reduce the mitigation costs of VMSCAPE protections on modern Intel processors...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Less-Cost-VMSCAPE"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-25T12:07:41Z"
+    }
+  },
+  {
+    "hash": "c1c95089ab5675b4cdfeb0f0351935943fc908e73b9b77349dce087f39b67047",
+    "item": {
+      "title": "Wild: A Very Fast Linker Written In Rust, Aims To Outperform Mold Linker",
+      "description": "While the Mold linker has been very impressive for its speed the past few years compared to the linkers out of the LLVM and GNU toolchain projects, there is a new high speed linker on the scene and it's written in Rust: meet Wild...",
+      "links": [
+        "https://www.phoronix.com/news/Wild-Linker"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-25T10:33:01Z"
+    }
+  },
+  {
+    "hash": "3a8f233985bcb5348c10d2222605054b008b60055009c545bde6aaae0c5b74b8",
+    "item": {
+      "title": "Intel Media Driver 2025Q3 Prepares For Panther Lake",
+      "description": "The Intel Media Driver 2025Q3 release is available today as the quarterly update to this open-source Video Acceleration API (VA-API) driver used by Intel hardware under Linux for video encode/decode...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Media-Driver-2025Q3"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-25T10:14:46Z"
+    }
+  },
+  {
+    "hash": "46fe5cf2baab75f39aa19e1001698fb6541dfb4895a4ecf53aa24027f566eeec",
+    "item": {
+      "title": "Qualcomm Begins Posting Linux Patches For Snapdragon X2 Elite, 8 Elite Gen 5 SoCs",
+      "description": "Yesterday at the Snapdragon Summit in Hawaii Qualcomm announced the Snapdragon X2 Elite SoCs for upcoming laptops. In addition Qualcomm announced the Snapdragon 8 Elite Gen 5 mobile platform too. With those announcements out there, the Qualcomm open-source engineers have been busy in rolling out their latest patches for beginning to enable these new platforms with the Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Qualcomm-X2-Elite-Linux-8EG5"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-25T09:56:32Z"
+    }
+  },
+  {
+    "hash": "4eb6bc296876fdc73d033122263652ed196b6ac4a7d1544acadef713046bf77a",
+    "item": {
+      "title": "Intel Releases IGSC 1.0 For Applying Firmware Updates To Graphics Cards",
+      "description": "Overnight Intel released IGSC 1.0 as their library for handling graphics system firmware updates for rolling out firmware updates to Intel discrete graphics card devices...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-IGSC-1.0"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-25T09:41:13Z"
+    }
+  },
+  {
+    "hash": "db4aa3c19207706bbf380562dc23be82adcbf77387055cfe43b985c8535ecc1b",
+    "item": {
+      "title": "Some interesting stuff I found on IX LANs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45370882\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T09:36:40Z"
+    }
+  },
+  {
+    "hash": "934310329358848afd72214e220e13789fce47d31e0615768ec3ee254ed2190c",
+    "item": {
+      "title": "The Theatre of Pull Requests and Code Review",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45371283\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T10:35:19Z"
+    }
+  },
+  {
+    "hash": "fa82a847b0e2b6946819556ff1ffea03660b9af708f78b90bf6333017eddd511",
+    "item": {
+      "title": "Bundler Belongs to the Ruby Community",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45371061\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T10:05:49Z"
+    }
+  },
+  {
+    "hash": "fc48f64027639d75994cabd1af857616228c9e05479a0f7ab7fea5cb5b15b487",
+    "item": {
+      "title": "The Wind, a Pole, and the Dragon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45371309\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://entropicthoughts.com/the-wind-a-pole-and-the-dragon"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T10:39:17Z"
+    }
+  },
+  {
+    "hash": "3573ef88cd11455b98da9bb55e1e0588d9f73c0a492414cc0bdaea11810554f9",
+    "item": {
+      "title": "Random Mosaic – Detecting unauthorized physical access with colored rice (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45350734\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dys2p.com/en/2021-12-tamper-evident-protection.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-23T18:08:51Z"
+    }
+  },
+  {
+    "hash": "4834378e1badb428df8226c917ee281db18ee313b25537ce6fc74b100373f89f",
+    "item": {
+      "title": "Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45370256\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T07:44:55Z"
+    }
+  },
+  {
+    "hash": "74fa02a46d3c435170fa80ec009b8c300b2eda5f8327fc4de47af8cb9556f409",
+    "item": {
+      "title": "Effect Systems vs. Print Debugging: A Pragmatic Solution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45337059\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.flix.dev/blog/effect-systems-vs-print-debugging/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-22T17:54:21Z"
+    }
+  },
+  {
+    "hash": "dda9bc6eeb632dad3e8269213a086067bdaabe7de0ba5d2bb1db8b9de1939018",
+    "item": {
+      "title": "Python-Style Kwargs in TypeScript",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45330560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://xavd.id/blog/post/python-kwargs-in-typescript/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-22T08:25:53Z"
+    }
+  },
+  {
+    "hash": "6bb52d94016181b53765679bc6b682f2873856fbcd7a9f8b42777978900b7943",
+    "item": {
+      "title": "AI Presale Buzz: Why Lyno AI Is Becoming the Top Token to Buy Before Altseason",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"AI Presale Buzz: Why Lyno AI Is Becoming the Top Token to Buy Before Altseason\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-6.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-6-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eLyno AI is quickly entering the crypto market as the altseason is near. Having its Early Bird presale stage, which is currently operational at a token price of $0.05, Lyno AI has already sold 742,543 tokens and collected $37,127. Investors are closely monitoring with the expectation of huge gains before",
+      "links": [
+        "https://thenewscrypto.com/ai-presale-buzz-why-lyno-ai-is-becoming-the-top-token-to-buy-before-altseason/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "LYNO AI",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-6.jpg"
+      },
+      "published": "2025-09-25T06:58:58Z"
+    }
+  },
+  {
+    "hash": "7c1d2cbeba8bbb70409e4e600ea68484b10a348c7b4c10659de3a38ed3479cc9",
+    "item": {
+      "title": "Best Presales in September 2025: Lyno AI Dominates Analyst Picks Alongside Ozak AI",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-2-6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Best Presales in September 2025: Lyno AI Dominates Analyst Picks Alongside Ozak AI\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-2-6.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-2-6-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe best presales in September 2025 show a tough competition in AI driven crypto projects. Lyno AI is obviously in the lead with impressive sales of tokens and impressive arbitrage strategy. Another remarkable feature of Ozak AI is its predictive agent features, whereas Nexchain is extremely impressive with its high",
+      "links": [
+        "https://thenewscrypto.com/best-presales-in-september-2025-lyno-ai-dominates-analyst-picks-alongside-ozak-ai/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "lyno",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-2-6.jpg"
+      },
+      "published": "2025-09-25T06:52:43Z"
+    }
+  },
+  {
+    "hash": "bfa4a5b0031e0e9879d1afeb41925da3815cf8db04fcecdd0357c9f378b67aec",
+    "item": {
+      "title": "ETHFI Price Explosion Backed by 57% Volume Increase Points to $2.00 Target",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/ether-Price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ETHFI Price Explosion Backed by 57% Volume Increase Points to $2.00 Target\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/ether-Price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/ether-Price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/ether-Price-analysis-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEther.fi (ETHFI) has been a stellar player in the cryptocurrency market, recording impressive returns that have drawn the interest of traders. As per CMC data, the token has soared about 12% in the past 24 hours, and it is trading at about $1.67. The trading volume has gone up by",
+      "links": [
+        "https://thenewscrypto.com/ethfi-price-explosion-backed-by-57-volume-increase-points-to-2-00-target/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Ether.fi",
+        "ETHFI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/ether-Price-analysis.jpg"
+      },
+      "published": "2025-09-25T06:28:13Z"
+    }
+  },
+  {
+    "hash": "35c5f8d7de1ed8bc41605c650b140ddc437bcc5320f6cdf5758d6f9163e90530",
+    "item": {
+      "title": "Expert Warns Web3 Community of Rising Hack Targets; Eyes are on Crypto Prices Now",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Experts-Warn-Web3-Community-of-Rising.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Expert Warns Web3 Community of Rising Hack Targets; Eyes are on Crypto Prices Now\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Experts-Warn-Web3-Community-of-Rising.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Experts-Warn-Web3-Community-of-Rising-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Experts-Warn-Web3-Community-of-Rising-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eGoPlus Security has issued a warning to the Web3 community about the rising hack attacks. It said that the industry has been targeted 3 times in the last 2 days. GoPlus Security added that coordinated hacker groups could be behind such attacks. It has issued a few recommendations for the",
+      "links": [
+        "https://thenewscrypto.com/expert-warns-web3-community-of-rising-hack-targets-eyes-are-on-crypto-prices-now/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto Price",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ankur Sachdev"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Experts-Warn-Web3-Community-of-Rising.jpg"
+      },
+      "published": "2025-09-25T05:59:22Z"
+    }
+  },
+  {
+    "hash": "94f85037d69fcaba0accedefe6b7ff634ef94c1e81979ad466a40278fccb32fa",
+    "item": {
+      "title": "Ford decides to run its Le Mans program in-house, racing in 2027",
+      "description": "Instead of contracting an outside team to campaign it, Ford Racing gets the job.",
+      "links": [
+        "https://arstechnica.com/cars/2025/09/ford-decides-to-run-its-le-mans-program-in-house-racing-in-2027/"
+      ],
+      "categories": [
+        "Cars",
+        "Ford",
+        "LMDh",
+        "Racing",
+        "World Endurance Championship"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/FordRacing_925_HOR-1152x648.jpeg"
+      },
+      "published": "2025-09-25T12:00:55Z"
+    }
+  },
+  {
+    "hash": "2f5f0468989576fc90766136c34f70df73eb29d865016deeb931daa774367d17",
+    "item": {
+      "title": "DeepMind’s robotic ballet: An AI for coordinating manufacturing robots",
+      "description": "An AI figures out how robots can get jobs done without getting in each other's way.",
+      "links": [
+        "https://arstechnica.com/science/2025/09/deepminds-robotic-ballet-an-ai-for-coordinating-manufacturing-robots/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Science",
+        "Computer science",
+        "deepmind",
+        "manufacturing",
+        "Robotics"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2223136363-1024x648.jpg"
+      },
+      "published": "2025-09-25T11:15:40Z"
+    }
+  },
+  {
+    "hash": "b826332be2695a0ed5dc849f3326ab26b8f726c10a770392f4db935b4a340b96",
+    "item": {
+      "title": "Tech Overtakes Gaming as Top DDoS Attack Target, New Gcore Radar Report Finds",
+      "description": "The latest Gcore Radar report analyzing attack data from Q1–Q2 2025, reveals a 41% year-on-year increase in total attack volume. The largest attack peaked at 2.2 Tbps, surpassing the 2 Tbps record in late 2024. Attacks are growing not only in scale but in sophistication, with longer durations, multi-layered strategies, and a shift in target industries. Technology now overtakes gaming as the most",
+      "links": [
+        "https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJocroYsopaGGyWPc2RaU-XbxD6sK8eW7A7v7iWtMnQV0gLgQ4e_F5l3koZ2pJXGyoV9cFZM88Wu9Jy-O2mQaBoD0tcMntXI85a1bnkNEW-nmvk-Z1UwouKgBGFX84F5XuZfsJlrDxCLeFmMXfJvoQUFNVMqfivdvkk0-h4Dl5seiVLsc5VIbPdV9112Q/s1600/ddos.jpg"
+      },
+      "published": "2025-09-25T10:15:00Z"
+    }
+  },
+  {
+    "hash": "441fc50a26b5838ca345edb92eefd88d15a50361d58b5befdfa49febbd8607c3",
+    "item": {
+      "title": "Will Dogecoin Reach $4? Maxi Doge Could Be First — Mine Dogecoin via SolMining",
+      "description": "\u003cp\u003eDogecoin remains the most recognized meme coin, and analysts continue to predict a price rise to $3. Trading data shows that its next resistance level lies around $0.30, while a break above $0.45 could confirm a larger rally. As market analysts observe, a long period of accumulation means its price is likely to reach the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/will-dogecoin-reach-4-maxi-doge-could-be-first-mine-dogecoin-via-solmining/\"\u003eWill Dogecoin Reach $4? Maxi Doge Could Be First — Mine Dogecoin via SolMining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/will-dogecoin-reach-4-maxi-doge-could-be-first-mine-dogecoin-via-solmining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Market",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/20074553/1758354352-f20360c6-5a1e-47c3-9962-438f7e9a7d0e_optimized.jpg"
+      },
+      "published": "2025-09-25T11:45:00Z"
+    }
+  },
+  {
+    "hash": "63f7316978a9e5bd82e75e576d19e95ddcdee5d343c73018b5a2c3d0f9b1e4c8",
+    "item": {
+      "title": "Hong Kong Sounds Alarm on Unapproved Digital Yuan Stablecoins Amid Market Surge",
+      "description": "\u003cp\u003eThe Hong Kong Monetary Authority (HKMA) has firmly denied social media rumours that the world’s first offshore yuan-pegged stablecoin has been issued in the city. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hong-kong-sounds-alarm-on-unapproved-digital-yuan-stablecoins-amid-market-surge/\"\u003eHong Kong Sounds Alarm on Unapproved Digital Yuan Stablecoins Amid Market Surge\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hong-kong-sounds-alarm-on-unapproved-digital-yuan-stablecoins-amid-market-surge/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Digital Yuan",
+        "Hong Kong",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/04/30170722/1714496842-1714496781268_processed.jpg"
+      },
+      "published": "2025-09-25T11:36:38Z"
+    }
+  },
+  {
+    "hash": "312a56ac263ab3006c5da8db45a5e57b7195022a77e7af2b2628666a2a52a919",
+    "item": {
+      "title": "The US GENIUS Act Was Enacted, and DOT Miners Officially Launched the XRP and DOGE Cloud Mining Plan",
+      "description": "\u003cp\u003eAgainst the backdrop of the accelerated reshaping of the global crypto regulatory landscape, US President Donald Trump officially signed the GENIUS Act on the 18th of this month, marking the first time that stablecoins have been included in the US federal regulatory framework. The market has paid close attention to this, especially XRP, a crypto [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/the-us-genius-act-was-enacted-and-dot-miners-officially-launched-the-xrp-and-doge-cloud-mining-plan/\"\u003eThe US GENIUS Act Was Enacted, and DOT Miners Officially Launched the XRP and DOGE Cloud Mining Plan\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/the-us-genius-act-was-enacted-and-dot-miners-officially-launched-the-xrp-and-doge-cloud-mining-plan/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Mining",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/20073747/1758353867-9f4bbcf7-6994-4f8c-813d-8b6151361a84_optimized.jpg"
+      },
+      "published": "2025-09-25T11:30:00Z"
+    }
+  },
+  {
+    "hash": "ad2b403c139ba68a379bde88c8a8bd363ff05e34c9e92d0f7f05c9853a028c07",
+    "item": {
+      "title": "From XRP Hot Spots to the Rise of Cloud Mining, the Investment Landscape in 2025 is Changing",
+      "description": "\u003cp\u003eEntering 2025, XRP has once again become a market focus. With the further clarification of crypto asset regulation in the United States and parts of Asia, and the gradual resolution of Ripple-related legal disputes, market confidence has rebounded. Recently, XRP trading volume on major exchanges has increased significantly, and with institutional investors accelerating their entry [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/from-xrp-hot-spots-to-the-rise-of-cloud-mining-the-investment-landscape-in-2025-is-changing/\"\u003eFrom XRP Hot Spots to the Rise of Cloud Mining, the Investment Landscape in 2025 is Changing\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/from-xrp-hot-spots-to-the-rise-of-cloud-mining-the-investment-landscape-in-2025-is-changing/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Market",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/20072624/1758353184-image-1758353155345_optimized.jpg"
+      },
+      "published": "2025-09-25T11:15:00Z"
+    }
+  },
+  {
+    "hash": "58bae9e0757601a60ca36804e2fdf03575282628dcfe8ba48e98e06ead194bdd",
+    "item": {
+      "title": "Ethereum Co-Founder Vitalik Buterin Introduces Fusaka: Ethereum’s Most Ambitious Scaling Solution Yet",
+      "description": "\u003cp\u003eEthereum co-founder Vitalik Buterin has unveiled Fusaka as the network\u0026#8217;s most ambitious scaling upgrade, set to activate on December 3 with revolutionary technology that eliminates the need for any single computer to download complete blockchain data. The upgrade introduces PeerDAS, allowing validator nodes to verify information by checking small random pieces rather than entire data [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-co-founder-vitalik-buterin-introduces-fusaka-ethereums-most-ambitious-scaling-solution-yet/\"\u003eEthereum Co-Founder Vitalik Buterin Introduces Fusaka: Ethereum\u0026#8217;s Most Ambitious Scaling Solution Yet\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-co-founder-vitalik-buterin-introduces-fusaka-ethereums-most-ambitious-scaling-solution-yet/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Ethereum",
+        "Vitalik Buterin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/25110549/1758798349-stock-image_optimized-50.webp"
+      },
+      "published": "2025-09-25T11:09:01Z"
+    }
+  },
+  {
+    "hash": "a46b2dc84afe96758d161a1d65462e67fa5bea6d93698920d92b32b8e29faec9",
+    "item": {
+      "title": "Siton Mining Launches XRP Cloud Mining Solution, Using XRP to Power BTC Mining Machines",
+      "description": "\u003cp\u003eSiton Mining, a leading global blockchain computing power services provider, has officially launched its XRP cloud mining solution, offering users a new investment option: simply use XRP to easily activate a BTC mining machine.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/siton-mining-launches-xrp-cloud-mining-solution-using-xrp-to-power-btc-mining-machines/\"\u003eSiton Mining Launches XRP Cloud Mining Solution, Using XRP to Power BTC Mining Machines\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/siton-mining-launches-xrp-cloud-mining-solution-using-xrp-to-power-btc-mining-machines/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/19115214/1758282734-siton-mining.jpg"
+      },
+      "published": "2025-09-25T11:00:00Z"
+    }
+  },
+  {
+    "hash": "741dc975c39e35338db8d4febb43d6a4c77758bbf27f296c56933fe7c1ecdbad",
+    "item": {
+      "title": "US Senate to Grill Coinbase Exec on Crypto Tax Rules Next Week — Regulation Incoming?",
+      "description": "\u003cp\u003eThe US Senate has convened a hearing on October 1 to examine digital asset taxation, with Coinbase’s Lawrence Zlatkin set to testify as IRS scrutiny and CAMT backlash have shaped debate over crypto policy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-senate-to-grill-coinbase-exec-on-crypto-tax-rules-next-week-regulation-incoming/\"\u003eUS Senate to Grill Coinbase Exec on Crypto Tax Rules Next Week — Regulation Incoming?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-senate-to-grill-coinbase-exec-on-crypto-tax-rules-next-week-regulation-incoming/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "Coinbase",
+        "crypto tax",
+        "US Senators"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/25104110/1758796870-image-1758795864115_optimized.jpg"
+      },
+      "published": "2025-09-25T10:45:44Z"
+    }
+  },
+  {
+    "hash": "b6285258fe5ed75415040dd3b90b9e6cb01923459a08c097057ff60cbf2ebd66",
+    "item": {
+      "title": "Circle Explores Reversible Stablecoin Transactions to Curb Fraud, Align with TradFi",
+      "description": "\u003cp\u003eCircle, the issuer behind $74 billion worth of USDC stablecoins, is exploring the possibility of enabling reversible transactions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/circle-explores-reversible-stablecoin-transactions-to-curb-fraud-align-with-tradfi/\"\u003eCircle Explores Reversible Stablecoin Transactions to Curb Fraud, Align with TradFi\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/circle-explores-reversible-stablecoin-transactions-to-curb-fraud-align-with-tradfi/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Circle",
+        "Stablecoin",
+        "USDC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/25092808/1758792488-image-1758792458894_optimized.jpg"
+      },
+      "published": "2025-09-25T09:30:08Z"
+    }
+  },
+  {
+    "hash": "27295022488956fdd28a16adbceaf564bd4d11d371a7ca2b6f5b929d8a7ca4c5",
+    "item": {
+      "title": "Nine Major Euro Banks Back MiCA-Regulated Stablecoin, Set to Launch in H2 2026",
+      "description": "\u003cp\u003eNine European banks will launch a MiCA-regulated, euro-backed stablecoin that will contribute to Europe’s strategic autonomy in payments.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nine-major-euro-banks-back-mica-regulated-stablecoin-set-to-launch-in-h2-2026/\"\u003eNine Major Euro Banks Back MiCA-Regulated Stablecoin, Set to Launch in H2 2026\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nine-major-euro-banks-back-mica-regulated-stablecoin-set-to-launch-in-h2-2026/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Europe",
+        "MiCA",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/25090613/1758791172-image-1741843610194_optimized.jpg"
+      },
+      "published": "2025-09-25T09:15:38Z"
+    }
+  },
+  {
+    "hash": "44429a5b210707036f76732764aba03392acf61b2b1da405fe9904f9e73618c4",
+    "item": {
+      "title": "GSR Seeks ETF Backed by Crypto Treasury Firms in Bold Wall Street Bid — What to Expect?",
+      "description": "\u003cp\u003eGSR has filed to launch the GSR Digital Asset Treasury Companies ETF, tracking firms with crypto holdings, as Wall Street weighs risks amid treasury stress and record $1 trillion reserves in 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gsr-seeks-etf-backed-by-crypto-treasury-firms-in-bold-wall-street-bid-what-to-expect/\"\u003eGSR Seeks ETF Backed by Crypto Treasury Firms in Bold Wall Street Bid — What to Expect?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gsr-seeks-etf-backed-by-crypto-treasury-firms-in-bold-wall-street-bid-what-to-expect/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "ETF",
+        "GSR",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/25090953/1758791393-66289652-2e17-4918-ac67-17542832ae39_optimized.jpg"
+      },
+      "published": "2025-09-25T09:15:13Z"
+    }
   }
 ]
