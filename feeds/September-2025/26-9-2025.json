@@ -2007,5 +2007,815 @@
       },
       "published": "2025-09-26T09:25:00Z"
     }
+  },
+  {
+    "hash": "6cf6cbeaa77f86fe46dc68083e7904b433faaa25e382cf4c4618b42136e8d326",
+    "item": {
+      "title": "Asus’ new ROG Xbox Ally X set to break the bank at $999.99",
+      "description": "The lower-powered ROG Xbox Ally comes in at a more reasonable $599.99.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/09/ready-for-a-1000-handheld-gaming-pc-asus-rog-xbox-ally-x-set-to-find-out/"
+      ],
+      "categories": [
+        "Gaming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ROG-Xbox-Ally-X_PR2-1152x648.jpeg"
+      },
+      "published": "2025-09-26T13:06:46Z"
+    }
+  },
+  {
+    "hash": "3baa28f2c0da007eefcf36c5747862aa6aafb78d1fd34d0704b2a5a1a0a4722d",
+    "item": {
+      "title": "Rocket Report: Keeping up with Kuiper; New Glenn’s second flight slips",
+      "description": "Amazon plans to conduct two launches of Kuiper broadband satellites just days apart.",
+      "links": [
+        "https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/"
+      ],
+      "categories": [
+        "Security",
+        "Space",
+        "ariane 6",
+        "artemis II",
+        "astra",
+        "blue origin",
+        "Firefly Aerospace",
+        "moon",
+        "NASA",
+        "new glenn",
+        "rocket report",
+        "space launch system",
+        "spacex",
+        "starship",
+        "VIPER"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/9333639-1152x648.jpg"
+      },
+      "published": "2025-09-26T12:45:58Z"
+    }
+  },
+  {
+    "hash": "9361576ac419e98beb1b463ca53392d8958e17ccb6481124d1f15d756b3ceb46",
+    "item": {
+      "title": "Raspberry Pi 500+ puts the Pi, 16GB of RAM, and a real SSD in a mechanical keyboard",
+      "description": "Keyboard uses low-profile Gateron Blue switches and an RP2040 controller.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/raspberry-pi-supercharges-its-keyboard-pc-with-16gb-ram-ssd-mechanical-switches/"
+      ],
+      "categories": [
+        "Tech",
+        "raspberry pi 400",
+        "raspberry pi 5",
+        "raspberry pi 500"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/500-clicky-1152x648.jpg"
+      },
+      "published": "2025-09-26T12:16:04Z"
+    }
+  },
+  {
+    "hash": "0fd635268ed025f5fb6bfa4654e8a4f3289e4c7a390238f0e5a8010e744f3f47",
+    "item": {
+      "title": "Fiji’s ants might be the canary in the coal mine for the insect apocalypse",
+      "description": "A new genetic technique lets museum samples track population dynamics.",
+      "links": [
+        "https://arstechnica.com/science/2025/09/fijis-ants-might-be-the-canary-in-the-coal-mine-for-the-insect-apocalypse/"
+      ],
+      "categories": [
+        "Science",
+        "ants",
+        "Biology",
+        "evolution",
+        "Fiji",
+        "insects",
+        "speciation"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-504677809-1024x648.jpg"
+      },
+      "published": "2025-09-26T11:15:11Z"
+    }
+  },
+  {
+    "hash": "e6e4b5726f9637bcb31abcfa61133b0bd98d3a6043d07a1644a65aec1af1b915",
+    "item": {
+      "title": "Linux 6.17 Gets Ready For Release With Intel Panther Lake \u0026 More Performance",
+      "description": "The Linux 6.17 kernel is tracking well for its planned stable release on Sunday. Here is a look back at some of the most interesting changes to find with this next kernel version...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-Features-Reminder"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-26T14:51:19Z"
+    }
+  },
+  {
+    "hash": "92e70a425a79ab074ec840f34b571c1dd3ab40c62b968d7b2c674a83098a888b",
+    "item": {
+      "title": "Ubuntu 25.10's Move To Rust Coreutils Is Causing Major Breakage For Some Executables",
+      "description": "I noticed a number of benchmarks failing to run on Ubuntu 25.10 this week with reported checksum errors on the files... I quickly realized it's due to the recent Rust Coreutils transition for Ubuntu 25.10 causing some major breakage for those relying on Makeself archives...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.10-Coreutils-Makeself"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-26T13:13:24Z"
+    }
+  },
+  {
+    "hash": "5ed756a65832490f6dba6d58248cdab87b5c1f9a4fb8a1258bc4baccaf2aef0d",
+    "item": {
+      "title": "New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks",
+      "description": "The Russian advanced persistent threat (APT) group known as COLDRIVER has been attributed to a fresh round of ClickFix-style attacks designed to deliver two new \"lightweight\" malware families tracked as BAITSWITCH and SIMPLEFIX.\nZscaler ThreatLabz, which detected the new multi-stage ClickFix campaign earlier this month, described BAITSWITCH as a downloader that ultimately drops SIMPLEFIX, a",
+      "links": [
+        "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisnJh-FwOR3TIH2wrmMy6LbKODML-Wuy7U6XrUHwH0JS7mIENzHrAcrRMplrmNee_xfdLqgBIb17Pa2M-EAbwNbhveObIkBCXfz2_YNRSbobJE56S8RRu1Lm4kIUXNS8FHolW6_c2fr3fQRwRu6l49yEtQcJxv9R1JodAhb-bbgrWMT6UN2jm3lzLRIo-h/s1600/russian-cyberattack.jpg"
+      },
+      "published": "2025-09-26T12:45:00Z"
+    }
+  },
+  {
+    "hash": "a3b695783adf6df53665e366254a8cbf0cea586760568d683731f30e4084b64f",
+    "item": {
+      "title": "Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions",
+      "description": "Car makers don’t trust blueprints. They smash prototypes into walls. Again and again. In controlled conditions.\nBecause design specs don’t prove survival. Crash tests do. They separate theory from reality. Cybersecurity is no different. Dashboards overflow with “critical” exposure alerts. Compliance reports tick every box.\u0026nbsp;\nBut none of that proves what matters most to a CISO:\n\nThe",
+      "links": [
+        "https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYJtSnsGL2bE5IBGl6fRHAKxJsPBYP6DnwI9UuUgccYDjOk-fXDUCD971EHNElzJ0uCHg_CFVfSOhVJ7N0CqLuqgxiQhRw9UnPXONa8m3wAWCPGr6Q_lqxc5BFFjNx0arZBFTKILhkL5Vn3k5vCMDMQa_PDwqYzZlOz62hJzLhWiCDqcVMSI0II2R2C3I/s1600/main.jpg"
+      },
+      "published": "2025-09-26T11:22:00Z"
+    }
+  },
+  {
+    "hash": "d2215fe4afdadfcf0d4705f966fbe53af5bb59536068acce769c96f6f3d0ded0",
+    "item": {
+      "title": "[$] Jumping into openSUSE Leap 16",
+      "description": "\u003cp\u003eThe openSUSE project is nearing the release of \u003ca href=\"https://get.opensuse.org/leap/16.0/\"\u003eLeap\u0026#160;16\u003c/a\u003e, its\nfirst major release since \u003ca\nhref=\"https://news.opensuse.org/2018/05/25/based-on-enterprise-code-tested-millions-of-times-opensuse-leap-15-released/\"\u003eopenSUSE\u0026#160;Leap\u0026#160;15\nin May 2018\u003c/a\u003e. This release brings some changes to the\ncore of the distribution aside from the usual software upgrades; \u003ca\nhref=\"https://lwn.net/Articles/1020408/\"\u003eYaST has been retired\u003c/a\u003e,\nSELinux has replaced AppArmor as the default mandatory access control\n(MAC) system, and more. If all goes according to plan, Leap\u0026#160;16\nfinal should be released in early October, with planned support\nthrough 2031.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1019688/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-26T14:08:23Z"
+    }
+  },
+  {
+    "hash": "bc9f3712bf21609002334feb4731e76ad5bac5cae12f00aa14bcf45c336e81c1",
+    "item": {
+      "title": "Security updates for Friday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (firefox, kernel, and thunderbird), \u003cb\u003eDebian\u003c/b\u003e (ceph and thunderbird), \u003cb\u003eFedora\u003c/b\u003e (chromium, mingw-expat, python-deepdiff, python-orderly-set, python-pip, rust-az-cvm-vtpm, rust-az-snp-vtpm, rust-az-tdx-vtpm, and trustee-guest-components), \u003cb\u003eOracle\u003c/b\u003e (aide, kernel, and thunderbird), \u003cb\u003eRed Hat\u003c/b\u003e (firefox, kernel, openssh, perl-YAML-LibYAML, and thunderbird), \u003cb\u003eSlackware\u003c/b\u003e (expat), \u003cb\u003eSUSE\u003c/b\u003e (jasper, libssh, openjpeg2, and python-pycares), and \u003cb\u003eUbuntu\u003c/b\u003e (linux-aws-6.14, linux-hwe-6.14, linux-azure, linux-hwe-6.8, linux-realtime-6.8, node-sha.js, and pcre2).",
+      "links": [
+        "https://lwn.net/Articles/1039749/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-09-26T13:51:17Z"
+    }
+  },
+  {
+    "hash": "6dd85f8147cc5f837c67f6bb8eddad2db1a94b4171f715738a2a27c82a98636a",
+    "item": {
+      "title": "This Week in Security: Randomness is Hard, SNMP Shouldn’t Be Public, and GitHub Malware Delivery",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg 800w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=400,242 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"188080\" data-permalink=\"https://hackaday.com/2016/01/26/the-dark-arts-meet-the-lulzsec-hackers/darkarts/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg\" data-orig-size=\"800,484\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"DarkArts\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" /\u003e\u003c/div\u003eRandomness is hard. To be precise, without dedicated hardware, randomness is impossible for a computer. This is actually important to keep in mind when writing software. When there\u0026#8217;s not hardware \u003ca href=\"https://hackaday.com/2025/09/26/this-week-in-security-randomness-is-hard-snmp-shouldnt-be-public-and-github-malware-delivery/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/26/this-week-in-security-randomness-is-hard-snmp-shouldnt-be-public-and-github-malware-delivery/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Security Hacks",
+        "BMC",
+        "randomness",
+        "SNMP",
+        "This Week in Security"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+      },
+      "published": "2025-09-26T14:00:09Z"
+    }
+  },
+  {
+    "hash": "fd63cae3956181cff8b20a38317cbe84bb1e2a6e46abe6fa52f747350e96334f",
+    "item": {
+      "title": "Steamboat Willie Still Tests Copyright",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"834123\" data-permalink=\"https://hackaday.com/2025/09/26/steamboat-willie-still-tests-copyright/steamboat-willie-featured-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"steamboat-willie-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg?w=800\" /\u003e\u003c/div\u003eIf you know anything about Mickey Mouse, you\u0026#8217;ll be able to tell us that his first outing was in 1928\u0026#8217;s Steamboat Willie \u0026#8212; an animated short that sees our hero \u003ca href=\"https://hackaday.com/2025/09/26/steamboat-willie-still-tests-copyright/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/26/steamboat-willie-still-tests-copyright/"
+      ],
+      "categories": [
+        "Art",
+        "News",
+        "copyright",
+        "disney",
+        "steamboat willie"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/steamboat-willie-featured.jpg"
+      },
+      "published": "2025-09-26T11:00:01Z"
+    }
+  },
+  {
+    "hash": "6c3e9aca0c3a3f75ab2bd3506fc34791309c4ac72515afd5c0edbd97df346dc2",
+    "item": {
+      "title": "A Ham-Adjacent Portable Radio Repeater",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg 1280w, https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"833769\" data-permalink=\"https://hackaday.com/2025/09/26/a-ham-adjacent-portable-radio-repeater/gmrs-repeater-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"gmrs-repeater-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg?w=800\" /\u003e\u003c/div\u003eAlthough ham radio offers a wide array of bands to transmit on, not to mention plenty of modes to communicate with, not everyone wants or needs to use all of \u003ca href=\"https://hackaday.com/2025/09/26/a-ham-adjacent-portable-radio-repeater/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/09/26/a-ham-adjacent-portable-radio-repeater/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "baofeng",
+        "battery powered",
+        "gmrs",
+        "ham",
+        "portable",
+        "radio",
+        "repeater",
+        "uhf cb",
+        "UV-5R"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/gmrs-repeater-main.jpg"
+      },
+      "published": "2025-09-26T08:00:32Z"
+    }
+  },
+  {
+    "hash": "ad8b057cea2b943552f644bf3f700c7f31f87367f2af2be047be961821b34425",
+    "item": {
+      "title": "Crypto Analyst Highlights Crucial Support for Sei Token as SEI Price Attempts Stability",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/SEI_is_holding_the_0_27_support_A_rebound_to_0_34_could_be_next.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Analyst Highlights Crucial Support for Sei Token as SEI Price Attempts Stability\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/SEI_is_holding_the_0_27_support_A_rebound_to_0_34_could_be_next.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/SEI_is_holding_the_0_27_support_A_rebound_to_0_34_could_be_next-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/SEI_is_holding_the_0_27_support_A_rebound_to_0_34_could_be_next-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA crypto analyst has highlighted that Sei token is testing a crucial support level. They further underlined the possibility for SEI price to surge in the days to come. However, SEI price is currently down, and short-term estimates show that the downtrend may continue a little longer than expected. Sei",
+      "links": [
+        "https://thenewscrypto.com/crypto-analyst-highlights-crucial-support-for-sei-token-as-sei-price-attempts-stability/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "SEI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ankur Sachdev"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/SEI_is_holding_the_0_27_support_A_rebound_to_0_34_could_be_next.jpg"
+      },
+      "published": "2025-09-26T10:49:22Z"
+    }
+  },
+  {
+    "hash": "7062772270dd4f55b7614fc36761432e5a3672386c99eea9d32bdfe604a39333",
+    "item": {
+      "title": "OFFICIAL TRUMP Price Path: Will It Glide Smoothly or Plummet Hard?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/OFFICIAL-TRUMP-Price-Path-Will-It-Glide-Smoothly-or-Plummet-Hard.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"OFFICIAL TRUMP Price Path: Will It Glide Smoothly or Plummet Hard?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/OFFICIAL-TRUMP-Price-Path-Will-It-Glide-Smoothly-or-Plummet-Hard.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/OFFICIAL-TRUMP-Price-Path-Will-It-Glide-Smoothly-or-Plummet-Hard-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/OFFICIAL-TRUMP-Price-Path-Will-It-Glide-Smoothly-or-Plummet-Hard-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto assets are exhibiting losses across the market with a drop of over 2.02%. With the overall market condition being fearful, the price action of the tokens is unclear. The largest assets, like Bitcoin (BTC) and Ethereum (ETH), hover on the downside. Among the altcoins, OFFICIAL TRUMP (TRUMP) has",
+      "links": [
+        "https://thenewscrypto.com/official-trump-price-path-will-it-glide-smoothly-or-plummet-hard/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/OFFICIAL-TRUMP-Price-Path-Will-It-Glide-Smoothly-or-Plummet-Hard.jpg"
+      },
+      "published": "2025-09-26T10:48:31Z"
+    }
+  },
+  {
+    "hash": "39a632dd387c2a78a8491ef35b969184964ca50eabbdde1c6c677b8ad41c9fdb",
+    "item": {
+      "title": "HYPE Token Shows Resilience as ETF Filing Signals Institutional Interest",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Expert-Projects-HYPE-Token1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"HYPE Token Shows Resilience as ETF Filing Signals Institutional Interest\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Expert-Projects-HYPE-Token1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Expert-Projects-HYPE-Token1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Expert-Projects-HYPE-Token1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThis week saw major events in the cryptocurrency market with Hyperliquid HYPE token. Although the price has dropped significantly, industry analysts have positive outlooks regarding the future performance trend of the digital asset. HYPE is currently trading at $42.15, which is a huge 25% drop in the last seven days",
+      "links": [
+        "https://thenewscrypto.com/hype-token-shows-resilience-as-etf-filing-signals-institutional-interest/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "HYPE",
+        "Hyperliquid (HYPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Expert-Projects-HYPE-Token1.jpg"
+      },
+      "published": "2025-09-26T10:27:47Z"
+    }
+  },
+  {
+    "hash": "acf42e13a26cad9ad9222ddf1c7db01a9cfdca524e3500b7a8a2bc4f73f9d526",
+    "item": {
+      "title": "Bears Crush Story (IP) Token with Devastating 25% Intraday Plunge",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Story-IP-price-analysis-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bears Crush Story (IP) Token with Devastating 25% Intraday Plunge\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Story-IP-price-analysis-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Story-IP-price-analysis-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Story-IP-price-analysis-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eStory (IP) is now under strong bearish pressure on the daily charts, and the altcoin is at a critical technical junction that may dictate its near-term trend. The token has fallen sharply below its 50-day exponential moving average of $8.507, indicating a change in momentum of the former bullish trend",
+      "links": [
+        "https://thenewscrypto.com/bears-crush-story-ip-token-with-devastating-25-intraday-plunge/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Story (IP)",
+        "Story Protocol (IP)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Story-IP-price-analysis-1.jpg"
+      },
+      "published": "2025-09-26T09:15:02Z"
+    }
+  },
+  {
+    "hash": "dffbadd4cf241dd3546ac368699a3ef4177e0392d2a17f46cfc9129e9eb36194",
+    "item": {
+      "title": "ChatGPT-5 Identifies 4 Coins to Buy Alongside Ethereum (ETH) for the Highest Profits in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-14.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"ChatGPT-5 Identifies 4 Coins to Buy Alongside Ethereum (ETH) for the Highest Profits in 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-14.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-14-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-14-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eEthereum isn’t just holding its ground in 2025; it’s rewriting the rules of what a maturing blockchain can achieve. With spot ETF inflows, scalability upgrades, and deepening institutional adoption, ETH has again become the benchmark for altcoin performance. But Ethereum isn’t the only story worth following this year.\u0026#160; Traders and",
+      "links": [
+        "https://thenewscrypto.com/chatgpt-5-identifies-4-coins-to-buy-alongside-ethereum-eth-for-the-highest-profits-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "ChatGPT",
+        "Little PEPE"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-14.jpg"
+      },
+      "published": "2025-09-26T09:12:24Z"
+    }
+  },
+  {
+    "hash": "d0f98e1c7fe56d5d4eead7ff8f87a50778e5e3df5af3a65cfeb33f8000f1fe7b",
+    "item": {
+      "title": "Ether Accumulation by Whale Boosting Bullish Sentiments Around ETH Price",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/This-OTC-whale-bought-60333-ETH238.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ether Accumulation by Whale Boosting Bullish Sentiments Around ETH Price\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/This-OTC-whale-bought-60333-ETH238.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/This-OTC-whale-bought-60333-ETH238-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/This-OTC-whale-bought-60333-ETH238-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAn OTC whale bought over 60k Ether over 7 days. This has boosted confidence around ETH price, which is currently below the mark of $4k, a new low in recent times. Sentiments are bullish around the Ethereum token when Spot Ethereum ETF has marked outflow for the 4th consecutive day",
+      "links": [
+        "https://thenewscrypto.com/ether-accumulation-by-whale-boosting-bullish-sentiments-around-eth-price/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETH Price",
+        "Ether",
+        "Ethereum ETF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ankur Sachdev"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/This-OTC-whale-bought-60333-ETH238.jpg"
+      },
+      "published": "2025-09-26T08:53:08Z"
+    }
+  },
+  {
+    "hash": "be4c0ab6bc5d7d75065d024c890a73ced44a0a1c6e334c0b51bfcfede7f114a3",
+    "item": {
+      "title": "The Presale That’s Breaking All the Rules: Meet Lyno AI",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-120.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-120.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-120-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-120-768x437.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe Lyno AI is disrupting the token pre-sale model in a unique way never seen before. It uses AI-based cross-chain arbitrage and automated smart contracts to offer institutional strategies to retail investors. This presale is transforming access to profit opportunities by traders across blockchains. Last Call at $0.05 Get in",
+      "links": [
+        "https://thenewscrypto.com/the-presale-thats-breaking-all-the-rules-meet-lyno-ai/"
+      ],
+      "categories": [
+        "Press Release",
+        "LYNO AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-120.png"
+      },
+      "published": "2025-09-26T08:27:00Z"
+    }
+  },
+  {
+    "hash": "cf15fac9298ec9a2e86972d2b6fc253aa87a028053dcbeda23f3f8f3ff6951ed",
+    "item": {
+      "title": "Will Bitcoin Bounce or Break at $110K–$108K? Make-or-Break Levels",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Will-Bitcoin-Bounce-or-Break-at-110K–108K-Make-or-Break-Levels.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Will Bitcoin Bounce or Break at $110K–$108K? Make-or-Break Levels\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Will-Bitcoin-Bounce-or-Break-at-110K–108K-Make-or-Break-Levels.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Will-Bitcoin-Bounce-or-Break-at-110K–108K-Make-or-Break-Levels-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Will-Bitcoin-Bounce-or-Break-at-110K–108K-Make-or-Break-Levels-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto assets have entered the bearish zone, with their price action going down. Notably, the market cap has slipped by over 1.87%, reaching $3.75 trillion. The largest asset, Bitcoin (BTC), after a series of ups and downs, is still seeking to escape the bear trap. BTC has stepped into",
+      "links": [
+        "https://thenewscrypto.com/will-bitcoin-bounce-or-break-at-110k-108k-make-or-break-levels/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "BTC price",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Will-Bitcoin-Bounce-or-Break-at-110K–108K-Make-or-Break-Levels.jpg"
+      },
+      "published": "2025-09-26T07:37:32Z"
+    }
+  },
+  {
+    "hash": "999d35b9b8fd060c11a34268d8710a2d5af5dcf9caf6ab4da67d702e22e240fb",
+    "item": {
+      "title": "How to make sense of any mess",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334001\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.howtomakesenseofanymess.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-22T14:31:40Z"
+    }
+  },
+  {
+    "hash": "902e7329cc68acbd8a9060974cf751b884dd2f7a15ad5d9119e7b0e5196ba982",
+    "item": {
+      "title": "Traefik's 10-Year Journey from Zero to Standard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45357732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://traefik.io/blog/celebrating-10-years-of-traefik"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T08:29:58Z"
+    }
+  },
+  {
+    "hash": "01b0c3944753c93560a3f1b7da1499cc604db7aa7654e4cda73762bb28156568",
+    "item": {
+      "title": "Pop OS 24.04 LTS Beta",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45384481\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://system76.com/pop/pop-beta/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-26T09:20:07Z"
+    }
+  },
+  {
+    "hash": "c2275eec584d9951c314de5ee7a747def72d6a4c939599f2bda6da782ce55550",
+    "item": {
+      "title": "DeepFabric – Generate High-Quality Synthetic Datasets at Scale",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45386872\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lukehinds.github.io/deepfabric/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-26T14:26:44Z"
+    }
+  },
+  {
+    "hash": "597b5adb2cd2dc70db09a1fe27579d1eb40d6d33abd7668108db4cb12c54ecff",
+    "item": {
+      "title": "Show HN: A little notebook for learning linear algebra with Python",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45384617\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://little-book-of.github.io/linear-algebra/books/en-US/lab.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-26T09:46:13Z"
+    }
+  },
+  {
+    "hash": "ec8ee02527b086fb7f4d86a03fccae3349d0b4a1789bdbbd6a9c4e31155e9d32",
+    "item": {
+      "title": "A story about hunting zombie tasks in a distributed environment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45350736\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://getbruin.com/blog/zombie-tasks/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-23T18:08:57Z"
+    }
+  },
+  {
+    "hash": "237a7ba9587e7af69d09f80faa45387a09c428a51545910c50535d99f2c115c6",
+    "item": {
+      "title": "'Independent' auditors overvalue credits of carbon projects, study finds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45385920\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.mongabay.com/2025/09/independent-auditors-overvalue-credits-of-carbon-projects-study-finds/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-26T12:50:26Z"
+    }
+  },
+  {
+    "hash": "2039b0e97e73702a5cb1993512a8e4e62b2d9b1810a12974793e1be782bf8577",
+    "item": {
+      "title": "CoinStats Partners with Hexens to Detect Token Smart Contract Threats For Traders",
+      "description": "\u003cp\u003eNew integration brings advanced token analysis technology to cryptocurrency traders worldwide.CoinStats has integrated Glider Token Risk, a breakthrough scanning technology from elite cybersecurity firm Hexens. The tool gives traders instant visibility into 22+ smart contract risks before they buy. Now live across the CoinStats platform.The timing is critical. Over 74,000 scam tokens launched in 2024. [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/coinstats-partners-with-hexens-to-detect-token-smart-contract-threats-for-traders/\"\u003eCoinStats Partners with Hexens to Detect Token Smart Contract Threats For Traders\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/coinstats-partners-with-hexens-to-detect-token-smart-contract-threats-for-traders/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26145423/1758898462-banner.png"
+      },
+      "published": "2025-09-26T14:58:06Z"
+    }
+  },
+  {
+    "hash": "b412c1f60e193b9a2789a007c2cac50321092446c93e205989415b1b64b1a81a",
+    "item": {
+      "title": "CEXs vs Perp DEXs: Who Will Win? Experts Weigh In",
+      "description": "\u003cp\u003eOr should we expect something new?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/cexs-vs-perp-dexs-who-will-win-experts-weigh-in/\"\u003eCEXs vs Perp DEXs: Who Will Win? Experts Weigh In\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/cexs-vs-perp-dexs-who-will-win-experts-weigh-in/"
+      ],
+      "categories": [
+        "Features",
+        "ASTER",
+        "CEXs",
+        "DEXs",
+        "hyperliquid"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26103538/1758882937-cex-and-dex.jpg"
+      },
+      "published": "2025-09-26T14:16:41Z"
+    }
+  },
+  {
+    "hash": "9de764bbb19bf3b228bd8f83c57d7a1b06bdfeee84721051226eaebd58390ac8",
+    "item": {
+      "title": "Texas Siblings Charged in Violent $8M Crypto Theft After 9-Hour Family Kidnapping",
+      "description": "\u003cp\u003eTwo Texas brothers face federal kidnapping charges after holding a Minnesota family at gunpoint for nine hours while stealing $8 million in crypto and forcing local schools to cancel their homecoming football game.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/texas-siblings-charged-in-violent-8m-crypto-theft-after-9-hour-family-kidnapping/\"\u003eTexas Siblings Charged in Violent $8M Crypto Theft After 9-Hour Family Kidnapping\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/texas-siblings-charged-in-violent-8m-crypto-theft-after-9-hour-family-kidnapping/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Kidnapping"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26124135/1758890495-image-1758890467601_optimized.webp"
+      },
+      "published": "2025-09-26T13:07:32Z"
+    }
+  },
+  {
+    "hash": "3a2fc584a4904b01dc8681fd943a9e991d0c9868e594a416bee114e0fcec5a90",
+    "item": {
+      "title": "Bitcoin Price Prediction: Google Buys Into Bitcoin Mining in $3 Billion Deal – Wall Street is Coming Fast",
+      "description": "\u003cp\u003eGoogle’s $3B bet on mining sparks speculation — Bitcoin price prediction points to a seismic Wall Street shift.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-google-buys-into-bitcoin-mining-in-3-billion-deal-wall-street-is-coming-fast/\"\u003eBitcoin Price Prediction: Google Buys Into Bitcoin Mining in $3 Billion Deal – Wall Street is Coming Fast\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-google-buys-into-bitcoin-mining-in-3-billion-deal-wall-street-is-coming-fast/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26130359/1758891838-bitcoin-price-prediction-32.jpg"
+      },
+      "published": "2025-09-26T13:05:33Z"
+    }
+  },
+  {
+    "hash": "c1c9fb4b4a108fa7d555a811b990f840e1bf40c0b4ffc1991124a1e40cd46f35",
+    "item": {
+      "title": "Crypto Treasury Stocks at Risk of 50% Crash After PIPE Deals — CryptoQuant Warns",
+      "description": "\u003cp\u003eCrypto treasury companies that raised funds through PIPE deals now confront potential 50% crashes in share prices, with CryptoQuant warning that post-lock-up investor exits are driving significant selling pressure across the sector.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-treasury-stocks-at-risk-of-50-crash-after-pipe-deals-cryptoquant-warns/\"\u003eCrypto Treasury Stocks at Risk of 50% Crash After PIPE Deals — CryptoQuant Warns\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-treasury-stocks-at-risk-of-50-crash-after-pipe-deals-cryptoquant-warns/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "PIPE",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26124443/1758890683-a09954d6-16ae-4974-a23b-67ae908984e8_optimized.jpg"
+      },
+      "published": "2025-09-26T12:47:57Z"
+    }
+  },
+  {
+    "hash": "9e49fa1f11e8fc6a2f854ea4e21fc4d8e1210f3a1fcf81e0640fa29bfcbbefc7",
+    "item": {
+      "title": "Streamer Fighting Cancer Lost $32K, But Crypto Gave Back Hope",
+      "description": "\u003cp\u003eCrypto shows it has a bright side too.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/streamer-fighting-cancer-lost-32000-crypto-brought-hope-back/\"\u003eStreamer Fighting Cancer Lost $32K, But Crypto Gave Back Hope\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/streamer-fighting-cancer-lost-32000-crypto-brought-hope-back/"
+      ],
+      "categories": [
+        "Features",
+        "Hackers",
+        "Meme Coins",
+        "Pump Fun",
+        "Scam"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26090751/1758877670-cancer-graphic-2.jpg"
+      },
+      "published": "2025-09-26T12:44:01Z"
+    }
+  },
+  {
+    "hash": "b945b6ed1b2f0ff476403db481c21ef40c22ecdd60085256082d295f4f1e7e0f",
+    "item": {
+      "title": "UK Finance and 6 Major Banks Launch Tokenized Sterling Pilot Until 2026",
+      "description": "\u003cp\u003eAs UK Finance and 6 major banks launch the tokenized sterling pilot until 2026, the two-year initiative will test use cases for tokenized deposits in payments, remortgaging, and bond settlement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uk-finance-and-6-major-banks-launch-tokenized-sterling-pilot-until-2026/\"\u003eUK Finance and 6 Major Banks Launch Tokenized Sterling Pilot Until 2026\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uk-finance-and-6-major-banks-launch-tokenized-sterling-pilot-until-2026/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bank",
+        "Tokenization",
+        "UK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26112032/1758885631-0_3-9_optimized.jpg"
+      },
+      "published": "2025-09-26T12:34:35Z"
+    }
+  },
+  {
+    "hash": "d00b32be1639af99121ce6ff13f42a3d46ce8f37156bdfdf64efaa8f78c364c3",
+    "item": {
+      "title": "Story Protocol Down 50% from ATH as Fundamentals Show Weakness – Is $5 Next?",
+      "description": "\u003cp\u003eStory Protocol (IP) price tumbled 50% over 24 hours after aggressive profit-taking drove the token down from its all-time high of $14.99 to $7.25 following a recent 120% rally that coincided with co-founder Jason Zhao's departure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/story-protocol-down-50-from-ath-as-fundamentals-show-weakness-is-5-next/\"\u003eStory Protocol Down 50% from ATH as Fundamentals Show Weakness \u0026#8211; Is $5 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/story-protocol-down-50-from-ath-as-fundamentals-show-weakness-is-5-next/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Story"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/26121015/1758888614-stock-image_optimized-55.webp"
+      },
+      "published": "2025-09-26T12:24:50Z"
+    }
   }
 ]
