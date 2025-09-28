@@ -770,5 +770,434 @@
       },
       "published": "2025-09-28T08:05:45Z"
     }
+  },
+  {
+    "hash": "375039d7e1017f5058a9190dc9c32dee477b8bdd4ad24d1467b97e9ce25f0775",
+    "item": {
+      "title": "Why I gave the world wide web away for free",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403501\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T11:17:55Z"
+    }
+  },
+  {
+    "hash": "8f23e2bdec666980113600fe3b2ce0b2be3032588d6ae3e163659a7928cc7c6b",
+    "item": {
+      "title": "Solar panels + cold = A potential problem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45401051\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.linspyre.com/ecoholics/temps.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T01:48:15Z"
+    }
+  },
+  {
+    "hash": "c334ae67280dd780f48c38259352f3a9ce6f9166d1f65c2159019773ddd6e561",
+    "item": {
+      "title": "1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403373\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=w3ma9iYx4rg"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T10:52:10Z"
+    }
+  },
+  {
+    "hash": "690bd03d1b3fd7978ba3301c059fb7d977563b5ee8e52c60219bcfe909075d3a",
+    "item": {
+      "title": "Electromechanical Calculating Machines from the 1960's",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45364370\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.mortati.com/glusker/elecmech/index.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T18:41:04Z"
+    }
+  },
+  {
+    "hash": "f57a166a625d80ca3003238653bfa49ff4277b3fef0f19bcc2a65b00d57a7cdf",
+    "item": {
+      "title": "Why do wind turbines have three blades?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45365302\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thekidshouldseethis.com/post/why-do-wind-turbines-have-three-blades"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T20:02:10Z"
+    }
+  },
+  {
+    "hash": "c4533c9c2ddd808ce4a93bcdaf065dfd495dfd24056f12d0697a4d2767d06d29",
+    "item": {
+      "title": "US Military struggling to deploy AI weapons",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403134\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T10:00:05Z"
+    }
+  },
+  {
+    "hash": "98b7313401eacdbe9a784fd814a0ea0c44916b66a22a4689f58292f067c7fafb",
+    "item": {
+      "title": "Cryptography Performance Improvements Coming For Linux 6.18",
+      "description": "Adding to the list of pull requests submitted early in advance of the Linux 6.18 merge window opening are several cryptography-related improvements. In particular, some nice performance optimizations once again for the Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-Faster-Crypto"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-28T10:09:26Z"
+    }
+  },
+  {
+    "hash": "fd823193148323d1037c5dd7445996d5d3a4d1e75680d3228a8b129960b0f15b",
+    "item": {
+      "title": "The oneAPI Construction Kit Drops Support For Vulkan",
+      "description": "Introduced two years ago was the Intel/Codeplay oneAPI Construction Kit for helping to bring SYCL support to new hardware. As part of that the oneAPI Construction Kit was brought to RISC-V and other platforms. Out this week is now oneAPI Construction Kit 5.0 and sadly it drops Vulkan API support...",
+      "links": [
+        "https://www.phoronix.com/news/oneAPI-Construction-Kit-5.0"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-28T09:52:25Z"
+    }
+  },
+  {
+    "hash": "65d7086ebd012d4881bec31597af3424f8574c424eb5338d487d6906f414acc7",
+    "item": {
+      "title": "Fish 4.1 Released With Nearly 1,400 Commits To This Rust-Based Shell",
+      "description": "Following the release earlier this year of the Fish 4.0 shell that was ported from C++ to Rust, Fish 4.1 was released this weekend as the next major feature release...",
+      "links": [
+        "https://www.phoronix.com/news/Fish-4.1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-28T09:00:00Z"
+    }
+  },
+  {
+    "hash": "e151f46c37c9535d96698c8ec5d75411071e18184cb3c6dd55974933c0d2a241",
+    "item": {
+      "title": "30 years later, I’m still obliterating planets in Master of Orion II—and you can, too",
+      "description": "There's an unparalleled purity to \u003cem\u003eMOO2\u003c/em\u003e's commitment to the fantasy.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/"
+      ],
+      "categories": [
+        "Gaming",
+        "4X",
+        "C:\\ArsGames",
+        "gog",
+        "Master of Orion II",
+        "MOO2",
+        "PC gaming",
+        "strategy"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/moo2-diplomacy-1152x648.jpg"
+      },
+      "published": "2025-09-28T11:15:59Z"
+    }
+  },
+  {
+    "hash": "44a3fbb5aa9f04e5ad1892f1aef63277e8d76600c7cbf2ea4272e1bf9d3c3c1d",
+    "item": {
+      "title": "150 million-year-old pterosaur cold case has finally been solved",
+      "description": "The storm literally snapped the bones in their wings.",
+      "links": [
+        "https://arstechnica.com/science/2025/09/150-million-year-old-pterosaur-cold-case-has-finally-been-solved/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "fossils",
+        "paleontology",
+        "pterosaurs"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Elizabeth Rayne"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1404441151-1024x648.jpg"
+      },
+      "published": "2025-09-28T11:00:03Z"
+    }
+  },
+  {
+    "hash": "c1ee547a9f0dd45d5259b62ec4c2e22f443cf74d034fdde2b1f2a067e834c17d",
+    "item": {
+      "title": "XRP Price Prediction: The First US Spot XRP ETF is About to be Listed, and the XRP Price Target is $5",
+      "description": "\u003cp\u003eMSP Miner has announced the launch of its brand-new green XRP mobile mining app, offering users a low-barrier, safe, and sustainable way to participate.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-price-prediction-the-first-us-spot-xrp-etf-is-about-to-be-listed-and-the-xrp-price-target-is-5/\"\u003eXRP Price Prediction: The First US Spot XRP ETF is About to be Listed, and the XRP Price Target is $5\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-price-prediction-the-first-us-spot-xrp-etf-is-about-to-be-listed-and-the-xrp-price-target-is-5/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/21204745/1758487664-msp-miner.jpg"
+      },
+      "published": "2025-09-28T11:45:00Z"
+    }
+  },
+  {
+    "hash": "89b517934fedd549862b943f7fe1a68d17816fe05da17546c868cd00219d556f",
+    "item": {
+      "title": "Hyperliquid’s HyperDrive DeFi Loses $773K in Account Compromise, Funds Bridged to BNB Chain and Ethereum",
+      "description": "\u003cp\u003eHyperDrive DeFi protocol suffered a $773,000 exploit affecting two accounts in its Treasury Bill market with stolen funds split between BNB Chain and Ethereum networks through bridge transfers, as the attacker exploited an arbitrary call vulnerability in the router contract stealing 672,934 USDT0 and 110,244 thBILL tokens.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hyperliquids-hyperdrive-defi-loses-773k-in-account-compromise-funds-bridged-to-bnb-chain-and-ethereum/\"\u003eHyperliquid\u0026#8217;s HyperDrive DeFi Loses $773K in Account Compromise, Funds Bridged to BNB Chain and Ethereum\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hyperliquids-hyperdrive-defi-loses-773k-in-account-compromise-funds-bridged-to-bnb-chain-and-ethereum/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto hack",
+        "hyperliquid"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/28110230/1759057349-stock-image_optimized-59.webp"
+      },
+      "published": "2025-09-28T11:30:37Z"
+    }
+  },
+  {
+    "hash": "020c6292972a69248180f0989eb50cbaa1f58a874559e07a48e9ddff5df1098b",
+    "item": {
+      "title": "XRP Mining Sparks Heated Debate, with COME Mining Cloud Mining Taking Center Stage",
+      "description": "\u003cp\u003eCOME Mining's \"XRP mining\" is essentially a subscription to a PoW cloud computing contract denominated and settled in XRP. With just one click within the app, users can participate in mining output similar to the Bitcoin network, without the need for any mining equipment or electricity.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-mining-sparks-heated-debate-with-come-mining-cloud-mining-taking-center-stage/\"\u003eXRP Mining Sparks Heated Debate, with COME Mining Cloud Mining Taking Center Stage\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-mining-sparks-heated-debate-with-come-mining-cloud-mining-taking-center-stage/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/21210634/1758488794-come-mining.jpg"
+      },
+      "published": "2025-09-28T11:30:00Z"
+    }
+  },
+  {
+    "hash": "607d5f6de23feba2fc582d3745d569efae23a305a3b48da0f7314818f9307a97",
+    "item": {
+      "title": "Ethereum Price Prediction: The $4,000 Psychological War Zone – Why ETH Must Hold This Line Against BTC’s Fear at 34",
+      "description": "\u003cp\u003eEthereum price prediction at $4,000 faces pressure from $800M ETF outflows and fear index at 34. Can ETH hold its ground or break lower?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-the-4000-psychological-war-zone-why-eth-must-hold-this-line-against-btcs-fear-at-33/\"\u003eEthereum Price Prediction: The $4,000 Psychological War Zone – Why ETH Must Hold This Line Against BTC\u0026#8217;s Fear at 34\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-the-4000-psychological-war-zone-why-eth-must-hold-this-line-against-btcs-fear-at-33/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/03121437/1756901677-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-09-28T11:17:15Z"
+    }
+  },
+  {
+    "hash": "4e64c40bcb39128a57c1fe6093185c503f96ae069edab28695b5454a4cd60c56",
+    "item": {
+      "title": "XRP Holders Share a $30 Million Prize Pool as SolMining Launches Registration Rewards",
+      "description": "\u003cp\u003eSolMining, a UK-registered green cloud mining platform, today announced a $30 million reward pool, open to global XRP holders and new users.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-holders-share-a-30-million-prize-pool-as-solmining-launches-registration-rewards/\"\u003eXRP Holders Share a $30 Million Prize Pool as SolMining Launches Registration Rewards\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-holders-share-a-30-million-prize-pool-as-solmining-launches-registration-rewards/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/21202349/1758486229-solmining.jpg"
+      },
+      "published": "2025-09-28T11:15:00Z"
+    }
+  },
+  {
+    "hash": "c9198cf198fb909adb3e4e29a7a739a5e23cf09d752b5b141feb90d1ce8ba07c",
+    "item": {
+      "title": "Samson Mow: Nations Are Entering the ‘Suddenly’ Phase of Bitcoin Adoption",
+      "description": "\u003cp\u003e“I think we’re on the tail end of gradually, and we’re at the beginning phases of suddenly,” Mow told host Danny Knowles.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/samson-mow-nations-are-entering-the-suddenly-phase-of-bitcoin-adoption/\"\u003eSamson Mow: Nations Are Entering the \u0026#8216;Suddenly\u0026#8217; Phase of Bitcoin Adoption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/samson-mow-nations-are-entering-the-suddenly-phase-of-bitcoin-adoption/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/28085623/1759049783-image-1759049595100_optimized.jpg"
+      },
+      "published": "2025-09-28T11:01:00Z"
+    }
+  },
+  {
+    "hash": "409bb4a2ca3aef5b0834c951f98d60e6a6e3210ca41e7574c923529358418763",
+    "item": {
+      "title": "XRP Returns to $3.40 All-Time High as DOT Miners Launches Multi-Coin Mining Options in Response to Market Surge",
+      "description": "\u003cp\u003eIn response to the bullish momentum, cloud mining platform DOT Miners has officially upgraded its hashpower allocation model, opening high-yield mining channels for trending assets including XRP, DOGE, and SOL.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-returns-to-3-40-all-time-high-as-dot-miners-launches-multi-coin-mining-options-in-response-to-market-surge/\"\u003eXRP Returns to $3.40 All-Time High as DOT Miners Launches Multi-Coin Mining Options in Response to Market Surge\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-returns-to-3-40-all-time-high-as-dot-miners-launches-multi-coin-mining-options-in-response-to-market-surge/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/21190342/1758481421-dot-miners.jpg"
+      },
+      "published": "2025-09-28T11:00:00Z"
+    }
+  },
+  {
+    "hash": "fb948921b82b663ad8f24b77c2e65b25987ad04df0578854fddcf9e02225f60e",
+    "item": {
+      "title": "Jump’s Firedancer Proposes Removing Solana’s Fixed Block Limits, Scaling with Validator Power",
+      "description": "\u003cp\u003eJump Trading's Firedancer team proposed eliminating Solana's fixed compute unit block limits through SIMD-0370, allowing validators to dynamically scale transaction capacity based on hardware performance rather than arbitrary protocol restrictions to create market-driven incentives where block producers continuously upgrade equipment for higher revenues.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/jumps-firedancer-proposes-removing-solanas-fixed-block-limits-scaling-with-validator-power/\"\u003eJump\u0026#8217;s Firedancer Proposes Removing Solana\u0026#8217;s Fixed Block Limits, Scaling with Validator Power\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/jumps-firedancer-proposes-removing-solanas-fixed-block-limits-scaling-with-validator-power/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Blockchain",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/28093840/1759052319-stock-image_optimized-58.webp"
+      },
+      "published": "2025-09-28T10:05:39Z"
+    }
+  },
+  {
+    "hash": "cdcab58a9aa4d9ec2a8570a7ca58087beb1897a91d650420f972486183ac467e",
+    "item": {
+      "title": "Spot Ethereum ETFs Suffer $800M in Outflows, Worst Week Since Launch",
+      "description": "\u003cp\u003eEthereum exchange-traded funds recorded their steepest weekly outflows to date, shedding nearly $800 million last week as crypto markets slipped.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/spot-ethereum-etfs-suffer-800m-in-outflows-worst-week-since-launch/\"\u003eSpot Ethereum ETFs Suffer $800M in Outflows, Worst Week Since Launch\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/spot-ethereum-etfs-suffer-800m-in-outflows-worst-week-since-launch/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Crypto ETFs",
+        "ETFs",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-09-28T10:03:00Z"
+    }
+  },
+  {
+    "hash": "9738dad1980ca198831e36f83ff35776a0e85ed68a5926cb47c8578e1caf0bb2",
+    "item": {
+      "title": "Deutsche Bank: Bitcoin Could Join Gold on Central Bank Balance Sheets by 2030",
+      "description": "\u003cp\u003eBitcoin may soon join gold as a reserve asset on central bank balance sheets, according to analysts at Deutsche Bank.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/deutsche-bank-bitcoin-could-join-gold-on-central-bank-balance-sheets-by-2030/\"\u003eDeutsche Bank: Bitcoin Could Join Gold on Central Bank Balance Sheets by 2030\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/deutsche-bank-bitcoin-could-join-gold-on-central-bank-balance-sheets-by-2030/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Gold"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/28085628/1759049787-image-1759049601453_optimized.jpg"
+      },
+      "published": "2025-09-28T09:55:25Z"
+    }
   }
 ]
