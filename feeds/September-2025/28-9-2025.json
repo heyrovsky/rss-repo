@@ -1622,5 +1622,202 @@
       },
       "published": "2025-09-28T13:25:52Z"
     }
+  },
+  {
+    "hash": "57a6030e9281d3ee51bcba45f6913b378bf90f7c844ca68e0577672960e4f188",
+    "item": {
+      "title": "Oracle's GraalVM To Shift Focus To Non-Java Languages Like Python \u0026 JavaScript",
+      "description": "GraalVM has been an interesting and performant Java JDK that over time added support for additional programming languages and execution models. Following their 2022 announcement that GraalVM CE Java code would be donated to OpenJDK, Oracle recently announced that moving forward GraalVM will focus on non-Java languages...",
+      "links": [
+        "https://www.phoronix.com/news/GraalVM-Non-Java-Future"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-28T17:07:03Z"
+    }
+  },
+  {
+    "hash": "852488708e82d157ce8f188c7cabe9226422f66b29a97dccf5fd9a9d739392c6",
+    "item": {
+      "title": "The AI coding trap",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405177\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T15:43:33Z"
+    }
+  },
+  {
+    "hash": "b08d666e388854ce7acf736868b769796d5232bc8a2f7d98c9cb7dfdf0f506b2",
+    "item": {
+      "title": "Testing \"Exotic\" P2P VPN",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405815\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.nommy.moe/blog/exotic-mesh-vpn/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T16:47:39Z"
+    }
+  },
+  {
+    "hash": "72da2b56173671a2dec7b9df7425d56e3cf74b778e0d89d35a76ec7648189299",
+    "item": {
+      "title": "When I say \"alphabetical order\", I mean \"alphabetical order\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45404022\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T13:00:16Z"
+    }
+  },
+  {
+    "hash": "a1a76dbf75e5cb365e15652ac90a193b350696708312f4f0b9895114a814d86b",
+    "item": {
+      "title": "The Weird Concept of Branchless Programming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405750\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T16:40:53Z"
+    }
+  },
+  {
+    "hash": "bd6e8ee53889122fa568ab677d15a20fbefa037b03167e9d06f98f74165228f3",
+    "item": {
+      "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405221\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T15:48:10Z"
+    }
+  },
+  {
+    "hash": "badfbb4e472883d34840d139151352e62f2f0b35994f83113bfcc0674b3fa617",
+    "item": {
+      "title": "Show HN: Built an MCP server using Cloudflare's Code Mode pattern",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405584\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/jx-codes/codemode-mcp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T16:23:51Z"
+    }
+  },
+  {
+    "hash": "32614ef0331e661c108be43d603cd8ee86c912f71a02fb154b6e01b46104e338",
+    "item": {
+      "title": "Supermicro server motherboards can be infected with unremovable malware",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45363465\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T17:32:30Z"
+    }
+  },
+  {
+    "hash": "77df1eede9977fac9e582bdee2ae89fc4b97b60ca1b9679a5e3e7e8abe9722f8",
+    "item": {
+      "title": "Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405175\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://git.lain.faith/iitalics/scm2wasm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T15:43:25Z"
+    }
+  },
+  {
+    "hash": "10093fe19cec9a5ff623ee9ec946b347328171840d7d94d63f8e3d38fe2ef15c",
+    "item": {
+      "title": "Ask HN: How Do I Get over My Existential Crisis?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405977\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45405977"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T17:07:29Z"
+    }
+  },
+  {
+    "hash": "fd0d79f23ea940a5a861dd1cc161919cd1fe087d21498bda54f0f71e9b5989aa",
+    "item": {
+      "title": "Bayesian Data Analysis, Third edition [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45406109\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sites.stat.columbia.edu/gelman/book/BDA3.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T17:23:21Z"
+    }
+  },
+  {
+    "hash": "7401fa2d2bfe3d0bf8ee710f590c4100e46365be0cfe613281782dc20636bf39",
+    "item": {
+      "title": "Rustroid, a Rust IDE for Android",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45367732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rustroid.is-a.dev/story"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T00:28:35Z"
+    }
+  },
+  {
+    "hash": "48c26d281ad0caf89d5d2b2470639531fafb75c6f1975f41f3dd0e90dd6e3c6c",
+    "item": {
+      "title": "Swiss voters back e-ID and abolish rental tax",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405675\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T16:33:47Z"
+    }
+  },
+  {
+    "hash": "cbce22319d65f55291e9d39abf41f6fbbbb98866aff5dfd6e6cfc61cceed2914",
+    "item": {
+      "title": "What's New in PostgreSQL 18 – A Devel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405055\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T15:27:18Z"
+    }
+  },
+  {
+    "hash": "b1bb983ef50dfc37deaa673d2bef5bea9517084218df0416787e14bddc20ef24",
+    "item": {
+      "title": "Denmark bans civil drones after more sightings",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45406256\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T17:40:05Z"
+    }
+  },
+  {
+    "hash": "4bf0989d436f86b7c3ed44da476152e6a458ac86e6d0b35cd08929075d910b91",
+    "item": {
+      "title": "Broker-Side SQL Filtering with RabbitMQ Streams",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45366149\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.rabbitmq.com/blog/2025/09/23/sql-filter-expressions"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-24T21:25:27Z"
+    }
   }
 ]
