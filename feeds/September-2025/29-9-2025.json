@@ -1,0 +1,243 @@
+[
+  {
+    "hash": "2db29a4a7f4fa355a0a3305abed6b885c4eda7bde0ce10c197f378df14a750c7",
+    "item": {
+      "title": "Linux 6.17 Released: Intel Panther Lake Xe3 Graphics Ready, New Optimizations",
+      "description": "As expected, Linus Torvalds just released the Linux 6.17 kernel on-schedule as the kernel version powering Ubuntu 25.10, Fedora 43, and other upcoming Linux distribution releases and rolling releases...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.17-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-28T22:01:20Z"
+    }
+  },
+  {
+    "hash": "fd90efcc353965f8ce54131463fef363b2acfe38c495eb7655acf6d769f0bf0f",
+    "item": {
+      "title": "The 6.17 kernel has been released",
+      "description": "Linus Torvalds has \u003ca href=\"https://lwn.net/ml/all/CAHk-%3DwiX38oG6%3DxFBNLO0pnjqHfxzjd6-1kZ5Nv9HfqNC2PoFA%40mail.gmail.com/\"\u003ereleased\u003c/a\u003e the 6.17 kernel.  He notes that the shortlog for the changes since -rc7 are pretty tame:\n\n\u003cblockquote class=\"bq\"\u003e\nIt's not exciting, which is all good. I think the\nbiggest patch in there is some locking fixes for some bluetooth races\nthat could cause use-after-free situations. Whee - that's about as\nexciting as it gets.\n\u003cp\u003e\nOther than that, there' the usual driver fixlets (GPU and networking\ndominate as usual, but \"dominate\" is still pretty small), there's some\nminor random other driver updates, some filesystem noise, and core\nkernel and mm.\n\u003cp\u003e\nAnd some selftest updates.\n\u003c/blockquote\u003e\n\u003cp\u003e\nSignificant features in this release include\n\u003ca href=\"https://lwn.net/Articles/1013640/\"\u003ebetter control\u003c/a\u003e over x86 Spectre\nmitigations,\nlive patching support on 64-bit Arm platforms,\na number of \u003ca\nhref=\"https://web.git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=672dcda24607\"\u003epidfd\nimprovements\u003c/a\u003e,\nthe \u003ca href=\"https://lwn.net/Articles/1023575/\"\u003eremoval\u003c/a\u003e of special support for\nuniprocessor systems,\n\u003ca href=\"https://lwn.net/Articles/1030842/\"\u003einitial support\u003c/a\u003e for proxy execution,\nexperimental large-folio support in the Btrfs filesystem,\nthe \u003ca\nhref=\"https://web.git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=662416578541\"\u003e\u003ctt\u003efile_getattr()\u003c/tt\u003e\nand \u003ctt\u003efile_setattr()\u003c/tt\u003e system calls\u003c/a\u003e, and\nsupport for the \u003ca\nhref=\"https://web.git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8f9516daedd6\"\u003eDualPI2\ncongestion-control protocol\u003c/a\u003e.\n\u003cp\u003e\nSee the LWN merge-window summaries \n(\u003ca href=\"https://lwn.net/Articles/1031713/\"\u003epart\u0026#160;1\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1032095/\"\u003epart\u0026#160;2\u003c/a\u003e) for more information.\nIn addition, KernelNewbies has a \u003ca href=\"https://kernelnewbies.org/Linux_6.17\"\u003elook at the changes\u003c/a\u003e that went into 6.17.",
+      "links": [
+        "https://lwn.net/Articles/1038266/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-09-28T23:27:43Z"
+    }
+  },
+  {
+    "hash": "e16544478227127d796bd078c19c9e88a620ba9a616b84cd4f7167b4b7a43299",
+    "item": {
+      "title": "Play snake in the URL address bar",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45408021\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://demian.ferrei.ro/snake/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T21:08:15Z"
+    }
+  },
+  {
+    "hash": "87940e55735d9be55c426ac467a4c586ee96c6a17cde56b86401447f87cb56c8",
+    "item": {
+      "title": "Go ahead, write the “stupid” code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45408617\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spikepuppet.io/posts/write-the-stupid-code/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T22:20:59Z"
+    }
+  },
+  {
+    "hash": "4f71b5cee3be30c514eaeac930fa6f322be421f848bb1247fc1a8ae414b72fcb",
+    "item": {
+      "title": "Autism may be the price of human intelligence, linked to human brain evolution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45408994\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T23:32:32Z"
+    }
+  },
+  {
+    "hash": "3ad7c5b59592323781217a31027e3b3cd2e49a9e023d3cc1e17bc3f73c8af76e",
+    "item": {
+      "title": "When I say “alphabetical order”, I mean “alphabetical order”",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45404022\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T13:00:16Z"
+    }
+  },
+  {
+    "hash": "d047dd8cc9d4104e71d51585fa52982973dcbe2c025bd19817a4279e2c2d4680",
+    "item": {
+      "title": "Farewell friends",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45408229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://humbledollar.com/forum/farewell-friends/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T21:31:10Z"
+    }
+  },
+  {
+    "hash": "b521624b679df692de40db3ec3c976bc3b93c75b7a9d776e128104dc1c550a87",
+    "item": {
+      "title": "Corral.BAS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45377787\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://basic-code.bearblog.dev/corral/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T19:31:07Z"
+    }
+  },
+  {
+    "hash": "f59a8b2d62a4e59f357961d5ecaea2527774e72f01cbf488bf72ba0a3d7dbc1e",
+    "item": {
+      "title": "Comparing Rust to Carbon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45368596\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/Articles/1036912/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T02:22:07Z"
+    }
+  },
+  {
+    "hash": "8f48e5774a38c1b75449167b91a8bdd762a48f2ff04a401a3a794b95fb96c8d8",
+    "item": {
+      "title": "Imagination as General Intelligence: Reconciling Consciousness and Free Will",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45409013\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zenodo.org/records/17109096"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T23:35:22Z"
+    }
+  },
+  {
+    "hash": "bbbc417b538fe698e0a1bab085cf22384143be2505b76f5871bfb47434a63a7c",
+    "item": {
+      "title": "How many elephants?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45371817\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://howmanyelephants.co.uk"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-25T12:00:57Z"
+    }
+  },
+  {
+    "hash": "247d846ece9a4c3b6c2fc7de211a9c0b29fe8fac15074076673ac7c00ad65647",
+    "item": {
+      "title": "Tai Lopez charged by SEC in ponzi scheme",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45408368\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T21:44:47Z"
+    }
+  },
+  {
+    "hash": "7c18f6626e7ad530342acaa1fdb2562abfc9c0bb233cd1ea9d5d439236a705cd",
+    "item": {
+      "title": "Testing “Exotic” P2P VPN",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45405815\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.nommy.moe/blog/exotic-mesh-vpn/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T16:47:39Z"
+    }
+  },
+  {
+    "hash": "5485d9ffd45c7611656d969751671b6a152b7e6733febec08fb4a8b742225e53",
+    "item": {
+      "title": "Linus Learns Analog Circuits",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45407617\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/torvalds/GuitarPedal"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T20:19:37Z"
+    }
+  },
+  {
+    "hash": "19ef979ab33235d1f16b485ab80197c62fe3ee1f5d98e8ff80b20045261dcdcf",
+    "item": {
+      "title": "Health officials in the US are sounding the alarm over drug-resistant bacteria",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45409227\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T00:16:01Z"
+    }
+  },
+  {
+    "hash": "33082f4beb1e6f78abdbfd914a80048d1382b2b5c9866a79ac9af8441324ce72",
+    "item": {
+      "title": "Shareholders Approve Kimono-Maker Marusho Hotta’s ‘Bitcoin Japan’ Rebrand",
+      "description": "\u003cp\u003eThe Japanese kimono and textiles maker Marusho Hotta is set to confirm it will change its name to Bitcoin Japan.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shareholders-approve-kimono-maker-marusho-hottas-bitcoin-japan-rebrand/\"\u003eShareholders Approve Kimono-Maker Marusho Hotta’s ‘Bitcoin Japan’ Rebrand\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shareholders-approve-kimono-maker-marusho-hottas-bitcoin-japan-rebrand/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Japan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/28132230/1759065749-image-1759043983791_optimized.jpg"
+      },
+      "published": "2025-09-28T23:30:00Z"
+    }
+  },
+  {
+    "hash": "98b4741bc7260fe8065353b0cadbb012130d0ab493dbac4b547cf5c0405486bd",
+    "item": {
+      "title": "Spot Ethereum ETFs Suffer $800M in Outflows, Worst Week Since Launch",
+      "description": "\u003cp\u003eEthereum exchange-traded funds recorded their steepest weekly outflows to date, shedding nearly $800 million last week as crypto markets slipped.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/spot-ethereum-etfs-suffer-800m-in-outflows-worst-week-since-launch/\"\u003eSpot Ethereum ETFs Suffer $800M in Outflows, Worst Week Since Launch\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/spot-ethereum-etfs-suffer-800m-in-outflows-worst-week-since-launch/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Crypto ETFs",
+        "ETFs",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/28085618/1759049778-image-1759049588633_optimized.jpg"
+      },
+      "published": "2025-09-28T10:03:00Z"
+    }
+  }
+]
