@@ -3652,5 +3652,453 @@
       },
       "published": "2025-09-29T12:34:56Z"
     }
+  },
+  {
+    "hash": "b79da8bbdfd83f847c3e16e64029636b3eb1e73ff41af3a61d775cabac88a9f1",
+    "item": {
+      "title": "F-Droid says Google’s new sideloading restrictions will kill the project",
+      "description": "F-Droid sees Google's plans as a threat to FOSS apps. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/"
+      ],
+      "categories": [
+        "Google",
+        "Tech",
+        "apps",
+        "google",
+        "open source",
+        "play store"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
+      },
+      "published": "2025-09-29T19:09:24Z"
+    }
+  },
+  {
+    "hash": "2f7226d6ebe27f39287e9d3e52fcf77f37ebe3740541374216f323bddd8ab1c8",
+    "item": {
+      "title": "[$] Development statistics for 6.17",
+      "description": "The 6.17 development cycle ended on September\u0026#160;28 with the \u003ca\nhref=\"https://lwn.net/ml/all/CAHk-=wiX38oG6=xFBNLO0pnjqHfxzjd6-1kZ5Nv9HfqNC2PoFA@mail.gmail.com/\"\u003erelease\u003c/a\u003e\nof the 6.17 kernel.  This cycle brought in 13,089 non-merge changesets, a\nslowdown from its predecessor but still within the normal bounds for recent\nkernels.  The time has come for a look at where those changes came from,\nwith a bit of a side trip into bug statistics.",
+      "links": [
+        "https://lwn.net/Articles/1038358/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-09-29T20:18:40Z"
+    }
+  },
+  {
+    "hash": "060bdee6279b2e01eb87c15c403bdd4f3490188fb9af4f3dabd1932f62937afc",
+    "item": {
+      "title": "Linux 6.18 Updating The Baseline For Marking Intel CPU Microcode As Outdated",
+      "description": "Introduced this year with the Linux 6.16 kernel was the new functionality for reporting to users when running on outdated Intel CPU microcode since it can pose security vulnerability issues and/or functionality problems. The Linux kernel support for propagating this \"old_microcode\" reporting via sysfs relies on a static list of microcode versions corresponding to different Intel CPU generations. For the Linux 6.18 kernel this list is being updated to reflect modern baselines for Intel recommendations on CPU microcode...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Old-Microcode-Linux-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-29T20:16:00Z"
+    }
+  },
+  {
+    "hash": "18688542973336ce16b4fc57ac2d60e5f9808caf2fd1bf92cb61bdf4d51fa266",
+    "item": {
+      "title": "California governor signs AI transparency bill into law",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45418428\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T20:33:14Z"
+    }
+  },
+  {
+    "hash": "0f11b107866f36a1ae253619f78abf311f6b254c9813f2fa5d622b7c2352337f",
+    "item": {
+      "title": "Nobel Laureate John Jumper: AI Is Revolutionizing Scientific Discovery [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45414933\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=2Yguz5U-Nic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T15:20:11Z"
+    }
+  },
+  {
+    "hash": "189056285bbb651a02cceedf31805b474ebb2ac5d97ade838f334204bc141505",
+    "item": {
+      "title": "Buy It in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45416080\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/buy-it-in-chatgpt/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T17:00:42Z"
+    }
+  },
+  {
+    "hash": "308312592504d22626e292bb4b21d4db8fde7586166cf487bfb3d9b218fe5567",
+    "item": {
+      "title": "A SQL Heuristic: Ors Are Expensive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45413525\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ethanseal.com/articles/ors-are-expensive"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T13:29:55Z"
+    }
+  },
+  {
+    "hash": "f0382c300649263f9cc4a995bf2e4a1e6806d1805a3de13a7ed61f3f96ae9ba6",
+    "item": {
+      "title": "What is artificial general intelligence?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45417771\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2503.23923"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T19:31:22Z"
+    }
+  },
+  {
+    "hash": "dbf7dc627caa7299bd8c1d501c11bccc578f718afeb3b9b1db5ca652a9d46ba5",
+    "item": {
+      "title": "Remember: Kurt Vonnegut Was 47",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45418269\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T20:19:54Z"
+    }
+  },
+  {
+    "hash": "84b10e5d16b9925425ba5e6128c5f3a6aee1e495a89eee936d73cfa22e5aa5e2",
+    "item": {
+      "title": "Diagnosing a Linux Performance Regression",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45417300\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://automattic.com/2024/03/14/systems-report-linux-performance-regression/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T18:46:15Z"
+    }
+  },
+  {
+    "hash": "18331723b916e497b7a1bc836e4eeb7d87bce2f1c8acf3ba0fc98a1b2547c8a7",
+    "item": {
+      "title": "What is “good taste” in software engineering?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45410940\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.seangoedecke.com/taste/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T06:41:27Z"
+    }
+  },
+  {
+    "hash": "a2d56f5dfbd95d16c1d3be2d10886b575da44a2fbbae25edff2f0d07bcc11551",
+    "item": {
+      "title": "Write the damn code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45415232\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://antonz.org/write-code/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T15:45:33Z"
+    }
+  },
+  {
+    "hash": "f54c227f760609984183f418cebeffff7c8cc134170a8923fca96b38f198059b",
+    "item": {
+      "title": "'Based on a True Story'",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45417711\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T19:24:58Z"
+    }
+  },
+  {
+    "hash": "9eb758dca665f8d048b88590c385abc80bcb57101ac37d5dfe0455c4f153774c",
+    "item": {
+      "title": "Bitcoin Price Prediction: BTC Hits $114K as Traders Eye $120K Breakout; Uptober Rally Heats Up",
+      "description": "\u003cp\u003eBitcoin rockets past $114K—Bitcoin price prediction now points to $120K as Uptober rally fuels breakout speculation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-btc-hits-114k-as-traders-eye-120k-breakout-uptober-rally-heats-up/\"\u003eBitcoin Price Prediction: BTC Hits $114K as Traders Eye $120K Breakout; Uptober Rally Heats Up\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-btc-hits-114k-as-traders-eye-120k-breakout-uptober-rally-heats-up/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17191357/1758136436-bitcoin-price-prediction-25.jpg"
+      },
+      "published": "2025-09-29T20:34:29Z"
+    }
+  },
+  {
+    "hash": "953c6a14120a947f280c2406b14b0c6b7ccd40695588db9ee21627d965789215",
+    "item": {
+      "title": "Lord Miles Isn’t Dead: Polymarket Scandal Takes New Turn",
+      "description": "\u003cp\u003eLord Miles has broken his silence — two weeks after vanishing from the internet during a 40-day fast in the desert.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/lord-miles-isnt-dead-polymarket-scandal-takes-new-turn/\"\u003eLord Miles Isn\u0026#8217;t Dead: Polymarket Scandal Takes New Turn\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/lord-miles-isnt-dead-polymarket-scandal-takes-new-turn/"
+      ],
+      "categories": [
+        "Features",
+        "Altcoins",
+        "CFTC",
+        "Crypto betting",
+        "Cryptocurrency",
+        "Lord Miles",
+        "Market",
+        "Polymarket",
+        "Regulation",
+        "SEC",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29181907/1759169944-screenshot-2025-09-20-at-03-04-29_optimized.jpg"
+      },
+      "published": "2025-09-29T19:52:33Z"
+    }
+  },
+  {
+    "hash": "618cf52f7dd7c6f05cf3f059ce4572a9fdf94ea1b7acaf889112120cedb638e0",
+    "item": {
+      "title": "HYPE Price Prediction: Cathie Wood Compares Hyperliquid to ‘Early Solana’ – Can HYPE Surge 7X to Match SOL?",
+      "description": "\u003cp\u003eHYPE price prediction has accelerated after Cathie Wood has compared Hyperliquid to early Solana. TVL has risen from ~$154M to \u003e$2.2B, stablecoins have expanded, and an NFT debut has posted high volumes, while price action has tested Fibonacci levels with targets near $52–$53 if support holds.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hype-price-prediction-cathie-wood-compares-hyperliquid-to-early-solana-as-leading-blockchain-project-can-hype-surge-7x-to-match-sol/\"\u003eHYPE Price Prediction: Cathie Wood Compares Hyperliquid to \u0026#8216;Early Solana\u0026#8217; – Can HYPE Surge 7X to Match SOL?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hype-price-prediction-cathie-wood-compares-hyperliquid-to-early-solana-as-leading-blockchain-project-can-hype-surge-7x-to-match-sol/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "hyperliquid",
+        "Price Prediction",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29185749/1759172268-chatgpt-image-sep-29-2025-07_56_14-pm_optimized-1.jpg"
+      },
+      "published": "2025-09-29T19:38:21Z"
+    }
+  },
+  {
+    "hash": "8d3fca1090a9545532cac7ebeb6965049a7471233a321c7573b79f46ca4f5057",
+    "item": {
+      "title": "Solana Price Prediction: New Firedancer Upgrade Could Make SOL the Fastest Blockchain – Can SOL Challenge Bitcoin Now?",
+      "description": "\u003cp\u003eSolana price prediction has firmed after Firedancer’s SIMD-0370 has proposed validator-driven capacity and Alpenglow has targeted 100ms finality. Debate has persisted over centralization risks as price has tested the $200 level with paths toward $255 and $330 if support has held.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-new-firedancer-upgrade-could-make-sol-the-fastest-blockchain-can-sol-challenge-bitcoin-now/\"\u003eSolana Price Prediction: New Firedancer Upgrade Could Make SOL the Fastest Blockchain – Can SOL Challenge Bitcoin Now?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-new-firedancer-upgrade-could-make-sol-the-fastest-blockchain-can-sol-challenge-bitcoin-now/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29113324/1759145603-solana-price-prediction.jpg"
+      },
+      "published": "2025-09-29T19:20:16Z"
+    }
+  },
+  {
+    "hash": "8f1f20cb471d7c649d84068d8b5550b09ce2f7e3b5d428a67be5a0ba8fd37375",
+    "item": {
+      "title": "On-Chain Data Shows Bitcoin Far From Peak as Analyst Maps $240K Bull Case",
+      "description": "\u003cp\u003eAnalysts reviewing on-chain data suggest Bitcoin remains below euphoric highs, tracking scenarios toward $157k–$300k. The market has shown smaller drawdowns since 2023, with comparisons to gold and support near $100k–$105k shaping the current spot-driven cycle.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/on-chain-data-shows-bitcoin-far-from-peak-as-analyst-maps-240k-bull-case/\"\u003eOn-Chain Data Shows Bitcoin Far From Peak as Analyst Maps $240K Bull Case\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/on-chain-data-shows-bitcoin-far-from-peak-as-analyst-maps-240k-bull-case/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29150707/1759158427-stock-image_optimized-62.webp"
+      },
+      "published": "2025-09-29T19:15:55Z"
+    }
+  },
+  {
+    "hash": "5cd9278f2871160077c46daae3140273a045c151b845ee5b90454887284f425a",
+    "item": {
+      "title": "Solana DApps Rake In $22M as Pump.fun Leads Amid $1B Liquidity Slump",
+      "description": "\u003cp\u003eSolana DeFi has reached TVL above $12B with multi-billion-dollar DEX volume and steady fees, while Pump.fun has led weekly revenue for launchpads. Activity has cooled from peaks, yet dominance has persisted amid an ongoing uptrend.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-dapps-rake-in-22m-as-pump-fun-leads-amid-1b-liquidity-slump/\"\u003eSolana DApps Rake In $22M as Pump.fun Leads Amid $1B Liquidity Slump\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-dapps-rake-in-22m-as-pump-fun-leads-amid-1b-liquidity-slump/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Meme coin",
+        "Pump Fun",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29132812/1759152491-98936d96-085c-473b-955a-caa00cda0bd2_optimized.jpg"
+      },
+      "published": "2025-09-29T19:01:39Z"
+    }
+  },
+  {
+    "hash": "356bd7694b9720bc6bf05024902c1adebdab536101d98ceb5cee2ace097da847",
+    "item": {
+      "title": "Is Massachusetts About to Create a Strategic Bitcoin Reserve? Key Hearing Set for Oct 7",
+      "description": "\u003cp\u003eMassachusetts has scheduled an October 7 hearing on a state Bitcoin reserve under S.1967, as federal and state efforts have progressed, including the BITCOIN Act and similar measures in Texas, Utah, and Wyoming, with supporters citing diversification and critics noting volatility and oversight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/is-massachusetts-about-to-create-a-bitcoin-strategic-reserve-key-hearing-set-for-oct-7/\"\u003eIs Massachusetts About to Create a Strategic Bitcoin Reserve? Key Hearing Set for Oct 7\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/is-massachusetts-about-to-create-a-bitcoin-strategic-reserve-key-hearing-set-for-oct-7/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Bitcoin Treasury",
+        "Massachusetts"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29174153/1759167712-0_2-12_optimized.jpg"
+      },
+      "published": "2025-09-29T18:45:29Z"
+    }
+  },
+  {
+    "hash": "03e2935a94bf8398a74b3c05db69972a149d2744477ecc2efc853f71115eb3d7",
+    "item": {
+      "title": "Shiba Inu Price Prediction: SHIB Supply Dries Up on Exchanges – Are Whales Silently Accumulating for a Surprise Pump?",
+      "description": "\u003cp\u003eSHIB exchange reserves have plunged to a new all-time low – Shiba Inu price predictions now eye a surge backed by smart money conviction.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-shib-supply-dries-up-on-exchanges-are-whales-silently-accumulating-for-a-surprise-pump/\"\u003eShiba Inu Price Prediction: SHIB Supply Dries Up on Exchanges – Are Whales Silently Accumulating for a Surprise Pump?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-shib-supply-dries-up-on-exchanges-are-whales-silently-accumulating-for-a-surprise-pump/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Prediction",
+        "SHIB",
+        "Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29162436/1759163075-shiba-inu-price-prediction.jpg"
+      },
+      "published": "2025-09-29T18:41:32Z"
+    }
+  },
+  {
+    "hash": "2f8a925a5340676432c0c960be82e3a317dc6b2b0f07147131c8a3b4cc4984b5",
+    "item": {
+      "title": "Plasma Price Prediction: XPL Rockets 87% in 3 Days – Can XPL Overtake Ripple’s XRP?",
+      "description": "\u003cp\u003ePlasma (XPL), a new blockchain built for lightning-fast stablecoin transfers, is exploding in popularity, fueling bullish Plasma price predictions.After launching its mainnet and hitting major exchanges, XPL surged to $1.68 — a jaw-dropping 3,260% return for those who entered at the presale price of $0.05.The hype was further amplified by its viral airdrop: users who [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/plasma-price-prediction-xpl-rockets-87-in-3-days-can-xpl-overtake-ripples-xrp/\"\u003ePlasma Price Prediction: XPL Rockets 87% in 3 Days – Can XPL Overtake Ripple\u0026#8217;s XRP?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/plasma-price-prediction-xpl-rockets-87-in-3-days-can-xpl-overtake-ripples-xrp/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Plasma",
+        "Price Prediction",
+        "Stablecoins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29132936/1759152575-plasma-price-prediction.jpg"
+      },
+      "published": "2025-09-29T18:37:04Z"
+    }
+  },
+  {
+    "hash": "463f3158b367f7fd010940e38e3688664e89b4736a3a7eb608cbc3118caecf08",
+    "item": {
+      "title": "Zohran Mamdani Has 83% Chance Of Winning NYC Mayoral Seat Following Eric Adams’ Exit: Kalshi",
+      "description": "\u003cp\u003eKalshi bettors have put Zohran Mamdani at 83% to win NYC mayor after Eric Adams has dropped out. Andrew Cuomo has polled at 16% and Curtis Sliwa at 2%. Trump has warned of funding disputes, while Mamdani has promoted fare-free buses and city-run groceries ahead of the Nov. 8 vote.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/zohran-mamdani-has-84-chance-of-winning-nyc-mayoral-seat-following-eric-adams-exit/\"\u003eZohran Mamdani Has 83% Chance Of Winning NYC Mayoral Seat Following Eric Adams\u0026#8217; Exit: Kalshi\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/zohran-mamdani-has-84-chance-of-winning-nyc-mayoral-seat-following-eric-adams-exit/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Kalshi",
+        "New York",
+        "OKX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29172905/1759166944-julia_63915_the_streets_of_new_york_overlaid_with_cryptocurrenc_da85a399-fe97-4e06-819e-1610e419aad8-png_optimized-2.jpg"
+      },
+      "published": "2025-09-29T18:32:49Z"
+    }
   }
 ]
