@@ -4135,5 +4135,777 @@
       },
       "published": "2025-09-30T15:13:09Z"
     }
+  },
+  {
+    "hash": "91f10880af68a3eb20f69da2e3986e925837e1e6636fce6ddff03b40c7d1a6a8",
+    "item": {
+      "title": "AMD Publishes Open-Source openSIL Code For Phoenix SoCs",
+      "description": "After originally hoping to publish the open-source code last year, today AMD published the initial openSIL code for enabling Phoenix SoCs to make use of this in-development CPU silicon initialization alternative to AGESA...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-openSIL-Phoenix"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-09-30T20:26:37Z"
+    }
+  },
+  {
+    "hash": "e4d3f74fe86c0d7b1c4da2f7a136205ce56ccebe2dc052d44a542e215e595075",
+    "item": {
+      "title": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
+      "description": "The chipmakers say physical attacks aren't in the threat model. Many users didn't get the memo.",
+      "links": [
+        "https://arstechnica.com/security/2025/09/intel-and-amd-trusted-enclaves-the-backbone-of-network-security-fall-to-physical-attacks/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "AMD",
+        "CPUs",
+        "Intel",
+        "sev-snp",
+        "sgx"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/enclave-cpu-spy-1152x648.jpg"
+      },
+      "published": "2025-09-30T20:25:08Z"
+    }
+  },
+  {
+    "hash": "5092c4c3fe2a4aff7dbf8bf690e4466aa580acf747719317ad20f50f597c7555",
+    "item": {
+      "title": "DeepSeek tests “sparse attention” to slash AI processing costs",
+      "description": "Chinese lab's v3.2 release explores a technique that could make running AI far less costly.",
+      "links": [
+        "https://arstechnica.com/ai/2025/09/deepseek-tests-sparse-attention-to-slash-ai-processing-costs/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI development tools",
+        "AI efficiency",
+        "AI infrastructure",
+        "AI research",
+        "Chinese AI",
+        "computational efficiency",
+        "deepseek",
+        "long-context processing",
+        "machine learning",
+        "open source",
+        "sparse attention",
+        "transformer architecture"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-1152x648.jpg"
+      },
+      "published": "2025-09-30T20:18:39Z"
+    }
+  },
+  {
+    "hash": "683975937e00c414f21b07c1dd21e4b7614378740d15a7302d205b1f09cf9540",
+    "item": {
+      "title": "After threatening ABC over Kimmel, FCC chair may eliminate TV ownership caps",
+      "description": "FCC is required to review TV rules and is more likely to scrap them under Carr.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/09/after-threatening-abc-over-kimmel-fcc-chair-may-eliminate-tv-ownership-caps/"
+      ],
+      "categories": [
+        "Policy",
+        "brendan carr",
+        "fcc ownership cap",
+        "nexstar",
+        "sinclair"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/fcc-protester-sign-1152x648-1759258999.jpg"
+      },
+      "published": "2025-09-30T19:44:25Z"
+    }
+  },
+  {
+    "hash": "9cdebd5b3b411dbcad349fa0e3fb7e737ebfcbc466f97170219d8f1c69481a4a",
+    "item": {
+      "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
+      "description": "Agent Mode in Word, Excel works like vibe coding tools but for knowledge work.",
+      "links": [
+        "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/"
+      ],
+      "categories": [
+        "AI",
+        "Tech",
+        "Anthropic",
+        "copilot",
+        "Excel",
+        "LLM",
+        "microsoft",
+        "microsoft 365",
+        "Microsoft Copilot",
+        "openai",
+        "Powerpoint",
+        "vibe coding",
+        "vibe working",
+        "vibe writing",
+        "Word"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/M365-Blog_09292025_agentMode_Hero_v1-809x455-1.webp"
+      },
+      "published": "2025-09-30T19:34:38Z"
+    }
+  },
+  {
+    "hash": "90e09eafa418d016e058dcf41ed6b05ab245550c2622855d35f86291c37a7938",
+    "item": {
+      "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
+      "description": "Signs point to a relatively mild upgrade from the 16-month-old Apple M4. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "Apple M5",
+        "ipad",
+        "ipad pro"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPad-Pro-space-black-2-up-240507-1152x648.jpg"
+      },
+      "published": "2025-09-30T19:12:15Z"
+    }
+  },
+  {
+    "hash": "a1b68f50b934ae8e1a50c6872fe0916399c95357fc11de9b63c9e6e3d208af7a",
+    "item": {
+      "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year",
+      "description": "SpaceX will reuse a Super Heavy booster with 24 previously flown Raptor engines.",
+      "links": [
+        "https://arstechnica.com/space/2025/09/spacex-has-a-few-tricks-up-its-sleeve-for-the-last-starship-flight-of-the-year/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "Commercial space",
+        "launch",
+        "reusable rocket",
+        "spacex",
+        "Starbase",
+        "starship",
+        "starship flight 11",
+        "super heavy",
+        "texas"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ship38staticfire-1152x648.jpg"
+      },
+      "published": "2025-09-30T18:36:17Z"
+    }
+  },
+  {
+    "hash": "97ba964a088f62ad0398d687a5cc98ca4f233b3c9b66a689d21802d4da138e35",
+    "item": {
+      "title": "Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks",
+      "description": "New Claude Sonnet 4.5 beats OpenAI and Google on coding tests.",
+      "links": [
+        "https://arstechnica.com/ai/2025/09/anthropic-says-its-new-ai-model-maintained-focus-for-30-hours-on-multistep-tasks/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI agents",
+        "AI assistants",
+        "AI benchmarks",
+        "AI coding",
+        "AI computer use",
+        "AI development tools",
+        "Anthropic",
+        "code agents",
+        "computer use model",
+        "Computer-Using Agent",
+        "generative ai",
+        "large language models",
+        "machine learning",
+        "open source",
+        "Programming",
+        "Simon Willison"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/sonnet45-1152x648.jpg"
+      },
+      "published": "2025-09-29T22:10:27Z"
+    }
+  },
+  {
+    "hash": "6a770b9253dc1466d8735d104c4ab56f6b4fd1e5b224327f663208bea47fa4e8",
+    "item": {
+      "title": "$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
+      "description": "A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.\n\"We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks,\" researchers Jesse De Meulemeester, David Oswald, Ingrid",
+      "links": [
+        "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdi-H6S_F-9-Ll9cV-FWKNBndi_aszei1aE8X-ejsO-Ku9vPb5f0hJkjHh21t_FM6BZrRHYUfQDytfjW1rrWr7NBAMHoS-MP19VNapiCjiSiBzITQVo-O9LUJrYiVaf48dQzgj6VN0ZyAyRWsb3aHxcSMdq06Qb6mccQ0yo3pTfEZvOd52WxaKN4V-z9qV/s1600/ram.jpg"
+      },
+      "published": "2025-09-30T18:42:00Z"
+    }
+  },
+  {
+    "hash": "4a1414645146ee07053eacc428c99cf5067c8c2df04cd688b8303ea60cf55334",
+    "item": {
+      "title": "Solana Price Eyes Higher, BNB Updates Rally, While BlockDAG Wins Traders Over With a Multi-Year BWT Alpine F1® Deal",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-135.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-135.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-135-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-135-376x212.png 376w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe crypto market is buzzing with activity as the top crypto coins push through fresh milestones. Solana (SOL) price eyes a potential run past $300 with strong fundamentals backing the move. Meanwhile, BNB updates continue to thrill traders as the coin smashes into new all-time highs above $1,000, showcasing unmatched",
+      "links": [
+        "https://thenewscrypto.com/solana-price-eyes-higher-bnb-updates-rally-while-blockdag-wins-traders-over-with-a-multi-year-bwt-alpine-f1-deal/"
+      ],
+      "categories": [
+        "Press Release",
+        "BlockDAG (BDAG)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-135.png"
+      },
+      "published": "2025-09-30T17:00:00Z"
+    }
+  },
+  {
+    "hash": "cb83cb8585302ef7f163c663df0fb7972ade34534b86f96cb68221872bb600aa",
+    "item": {
+      "title": "COTI Launches COTI Earn Loyalty Platform with 12.5M Token Rewards",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"640\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/lk-5.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"COTI Launches COTI Earn Loyalty Platform with 12.5M Token Rewards\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/lk-5.png 1280w, https://thenewscrypto.com/wp-content/uploads/2025/09/lk-5-300x150.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/lk-5-1024x512.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/09/lk-5-768x384.png 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eWith great pride, COTI, the blockchain infrastructure layer that prioritizes privacy, announces the launch\u0026#160;of COTI Earn, the COTI ecosystem\u0026#8217;s official loyalty platform. With incentives totaling 12.5 million COTI tokens, Season 001: Genesis is now live. COTI Earn converts every user interaction into Token Points (TPs), which are tokens that are",
+      "links": [
+        "https://thenewscrypto.com/coti-launches-coti-earn-loyalty-platform-with-12-5m-token-rewards/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/lk-5.png"
+      },
+      "published": "2025-09-30T15:00:00Z"
+    }
+  },
+  {
+    "hash": "4c4503d96cad6edf977f98e4236c17a2a09375b289c19fdd810e93673b430f46",
+    "item": {
+      "title": "Former Ripple Director Addresses XRP’s 10x Valuation Lead Over Chainlink",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Ex-Ripple-Director-Explains-Why-XRP1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Ex-Ripple-Director-Explains-Why-XRP1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Ex-Ripple-Director-Explains-Why-XRP1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Ex-Ripple-Director-Explains-Why-XRP1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eFormer Ripple director Matt Hamilton has addressed questions about the valuation gap between XRP and Chainlink following renewed discussions in the cryptocurrency community. The debate intensified after Swift announced plans to integrate blockchain-based shared ledger technology into its infrastructure. Swift stated it has enlisted over 30 financial institutions to assist",
+      "links": [
+        "https://thenewscrypto.com/former-ripple-director-addresses-xrps-10x-valuation-lead-over-chainlink/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Ex-Ripple-Director-Explains-Why-XRP1.jpg"
+      },
+      "published": "2025-09-30T14:55:00Z"
+    }
+  },
+  {
+    "hash": "b34b0419a9df29b224c0420282371de87c343e99400571cf05413c3211ec7f00",
+    "item": {
+      "title": "How Phase 6 Pricing and Rapid Presale Progress Position Ozak AI to Capture Investor Attention and Deliver Unprecedented ROI in 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-8.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"How Phase 6 Pricing and Rapid Presale Progress Position Ozak AI to Capture Investor Attention and Deliver Unprecedented ROI in 2025\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-8.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-8-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe presale market has proved to be competitive this year, with Ozak AI ($OZ) already hitting Stage 6 at $0.012. The project is progressing at a high rate, and there is a continuous increase in the number of investors and the demand with every step. Pressure is mounting on buyers",
+      "links": [
+        "https://thenewscrypto.com/how-phase-6-pricing-and-rapid-presale-progress-position-ozak-ai-to-capture-investor-attention-and-deliver-unprecedented-roi-in-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/unnamed-3-8.jpg"
+      },
+      "published": "2025-09-30T14:00:00Z"
+    }
+  },
+  {
+    "hash": "43cc68f60906379813055d0cc2ca3e925e97c52cea0565a46b47a91b95ee6135",
+    "item": {
+      "title": "Radicle 1.5.0 released",
+      "description": "\u003ca\nhref=\"https://radicle.xyz/2025/09/30/radicle-1.5.0\"\u003eVersion 1.5.0\u003c/a\u003e\nof the Radicle peer-to-peer Git collaboration platform has been\nreleased. This release includes better support for bare repositories,\nstructured logging, and improvements in the output of \u003ctt\u003erad patch\nshow\u003c/tt\u003e:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nThe previous output would differentiate \"updates\", where the original\nauthor creates a new revision, and \"revisions\", where another author\ncreates a revision. This could be confusing since updates are also\nrevisions. Instead, the output shows a timeline of the root of the\npatch and each new revision, without any differentiation. The revision\nidentifiers, head commit of the revision, and author are still printed\nas per usual.\n\u003c/blockquote\u003e\n\n\u003cp\u003eLWN \u003ca href=\"https://lwn.net/Articles/966869/\"\u003ecovered\u003c/a\u003e Radicle\nin March 2024.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1040236/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-09-30T19:54:48Z"
+    }
+  },
+  {
+    "hash": "55fd9f293694801cb9a12aed10ce759dc1a1290276824faafbcd862b674c6475",
+    "item": {
+      "title": "Inflammation now predicts heart disease more strongly than cholesterol",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45430498\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.empirical.health/blog/inflammation-and-heart-health/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T20:00:21Z"
+    }
+  },
+  {
+    "hash": "e4d222bbc6306b14b0607f10a3637a8264da87d175b02495804b9d1cfe147313",
+    "item": {
+      "title": "Sora 2",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45427982\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/sora-2/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T16:55:01Z"
+    }
+  },
+  {
+    "hash": "423dd0fbcdd9bbb0997c35021378416fe7e4b841cc1a00493d0e90c05e11122e",
+    "item": {
+      "title": "Boeing has started working on a 737 MAX replacement",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45428482\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T17:31:34Z"
+    }
+  },
+  {
+    "hash": "8993d9267f599056fc6f02c4f774ab664c7c85a6362ebd013dd4bb810c6bb921",
+    "item": {
+      "title": "Diff Algorithms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45430604\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flo.znkr.io/diff/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T20:09:44Z"
+    }
+  },
+  {
+    "hash": "e31735f82b8c854d888c9c37347161a93d5f3f359b58eb4dbc8ae83768a4f9ec",
+    "item": {
+      "title": "Making sure AI serves people and knowledge stays human",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45430048\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T19:23:34Z"
+    }
+  },
+  {
+    "hash": "c53219f709e6290988452821c86838c0f54166a9226e29e786608dd9d7a0363e",
+    "item": {
+      "title": "Imgur pulls out of UK as data watchdog threatens fine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45424888\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T13:01:05Z"
+    }
+  },
+  {
+    "hash": "6140f4fcd85f0cc80a44938ac4480c0388630b47ff2662127d0e05c94b361124",
+    "item": {
+      "title": "Designing agentic loops",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45426680\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T15:21:23Z"
+    }
+  },
+  {
+    "hash": "d732a04580afa825b1c261e565a6ee4bdefb1f410fcc1bd68ce0cd46407b0911",
+    "item": {
+      "title": "Prompt analytics for MCP servers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45427061\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hyprmcp.com/blog/mcp-server-prompt-analytics/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T15:50:22Z"
+    }
+  },
+  {
+    "hash": "73acdd9bdc2a538e21e5f1c33677df36e440be54a880e84ef5362dac0756451f",
+    "item": {
+      "title": "Founder sentenced to seven years in prison for fraudulent sale to JPMorgan",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45424827\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T12:53:49Z"
+    }
+  },
+  {
+    "hash": "dd3c077cf4610644c031b8b202e21dd7293bcd45ebce06bfc13b4385217650e6",
+    "item": {
+      "title": "Genomic analyses of hair from Ludwig van Beethoven (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45428020\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T16:57:07Z"
+    }
+  },
+  {
+    "hash": "0307957fa1e752ca11a0d86b81840b842658fe772810036d46498e0c6fed4145",
+    "item": {
+      "title": "Pasta Cooking Time",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45424704\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jefftk.com/p/pasta-cooking-time"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T12:40:17Z"
+    }
+  },
+  {
+    "hash": "25069cd4f9d43369bef312e3fff87ea6d16e8d5a9beacfad439eb26e142a9bf3",
+    "item": {
+      "title": "Finding and Understanding Bugs in C Compilers (2011) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45394719\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-27T10:59:30Z"
+    }
+  },
+  {
+    "hash": "a3860fa37a1adcb8c0c120108a22f8ffa91dee1d82ce78abd084e300eefcece0",
+    "item": {
+      "title": "An opinionated critique of Duolingo",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45425061\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://isomorphism.xyz/blog/2025/duolingo/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T13:19:53Z"
+    }
+  },
+  {
+    "hash": "7c4c2fc500a0eccc79ad4519f7638d99c78ce6e8154fee1a98fb3837fb63f7ce",
+    "item": {
+      "title": "Conway's pinwheel tiling",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45395495\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-27T13:19:25Z"
+    }
+  },
+  {
+    "hash": "d81a2fc5d2793bbf169a35ce6535678cf11b9cc74647bdb12050f8dc0af9cddc",
+    "item": {
+      "title": "Register allocation in the Go compiler (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45417616\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T19:14:57Z"
+    }
+  },
+  {
+    "hash": "42d983cbac3e22a64242782349e4e4bf5b9eb835e2eb6e89fcce6531c28d5242",
+    "item": {
+      "title": "Deml: Directed Acyclic Graph Elevation Markup Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45425714\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Mcmartelle/deml"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T14:12:37Z"
+    }
+  },
+  {
+    "hash": "84ce11c15f87f75ad080233a6d4b5b00f4439171c06266f2e2d52141fd0baa51",
+    "item": {
+      "title": "Explore a new digital edition of \"Printing Types\" from 1922",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45398760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-27T19:42:24Z"
+    }
+  },
+  {
+    "hash": "861d058c2585bc30930581c30b1f27a16db17af427c1905f50c6e83966d8dd81",
+    "item": {
+      "title": "Cerebras systems raises $1.1B Series G",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45427111\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cerebras.ai/press-release/series-g"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T15:54:14Z"
+    }
+  },
+  {
+    "hash": "4a30d7ef3900963a20fe14dde976a6100b123b57cb4f2809703cf4524a8e8767",
+    "item": {
+      "title": "How does lossless compression in Fuji RAF files work? (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45389716\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://capnfabs.net/posts/fuji-raf-compression-algorithm/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-26T18:43:58Z"
+    }
+  },
+  {
+    "hash": "4485698c1cc20c3f4452fd3ee8296075107a55bb7e8ff3e80ceb58da2dc999b7",
+    "item": {
+      "title": "EU Moves Toward Shock Stablecoin Ban, Threatening Major Issuers Like Circle and Paxos",
+      "description": "\u003cp\u003eEU authorities have debated stablecoin rules and have received support for an EU move toward a ban on multi-issuance models, citing liquidity and reserve risks. Discussions over MiCA safeguards and a digital euro have continued across institutions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eu-moves-toward-shock-stablecoin-ban-threatening-major-issuers-like-circle-and-paxos/\"\u003eEU Moves Toward Shock Stablecoin Ban, Threatening Major Issuers Like Circle and Paxos\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eu-moves-toward-shock-stablecoin-ban-threatening-major-issuers-like-circle-and-paxos/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Circle",
+        "ECB",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30184249/1759257768-0_3-11_optimized.jpg"
+      },
+      "published": "2025-09-30T20:50:23Z"
+    }
+  },
+  {
+    "hash": "ed0e9c72c387ce815739938d7c5a8cec0b4e8e56d63fb5ab5bc24eed5a017125",
+    "item": {
+      "title": "The Turf War Is Over For Crypto, CFTC Commissioner Caroline Pham Says",
+      "description": "\u003cp\u003eCaroline Pham has announced the end of the SEC–CFTC turf war at a joint roundtable that has examined priorities for regulatory harmonization. Remarks from agency leaders and industry voices have pointed to a new phase of coordination.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/the-turf-war-is-over-for-crypto-cftc-commissioner-caroline-pham-says/\"\u003eThe Turf War Is Over For Crypto, CFTC Commissioner Caroline Pham Says\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/the-turf-war-is-over-for-crypto-cftc-commissioner-caroline-pham-says/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "CFTC",
+        "Paul atkins",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30194441/1759261479-julia_63915_the_american_flag_overlaid_with_cryptocurrencies_974e87a4-b66a-4131-9dda-62cca6eeaf25-png.webp"
+      },
+      "published": "2025-09-30T20:11:53Z"
+    }
+  },
+  {
+    "hash": "abda567ae984c00444ffda628afd8ad7da18aa59dbe7aa9002651ab91ff6ca78",
+    "item": {
+      "title": "SEC Pushes Plan to Make Stocks Trade Like Crypto on Blockchain",
+      "description": "\u003cp\u003eThe SEC has consulted on tokenized stocks as Nasdaq has submitted a rule change and crypto platforms have engaged on blockchain models; Hester Peirce has said tokenized securities are still securities, while major market participants have questioned rights and safeguards.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-pushes-plan-to-make-stocks-trade-like-crypto-on-blockchain/\"\u003eSEC Pushes Plan to Make Stocks Trade Like Crypto on Blockchain\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-pushes-plan-to-make-stocks-trade-like-crypto-on-blockchain/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "News",
+        "Blockchain",
+        "SEC",
+        "Stocks"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30151547/1759245346-stock-image_optimized-65.webp"
+      },
+      "published": "2025-09-30T20:01:25Z"
+    }
+  },
+  {
+    "hash": "a1d3ba9ffbbe4cfef211d8ccb53afa3394df7c3d6ad98bd2419fd6d2127add36",
+    "item": {
+      "title": "Altcoin Season Watch: Aster’s +40% Week, Hyperliquid Pressure, XPL Perps",
+      "description": "\u003cp\u003eAltcoin season has unfolded with Aster, Hyperliquid, and XPL each attracting flows for different reasons. Aster has gained from listings and whale moves, Hyperliquid remains tied to derivatives, and XPL has risen through perpetuals before spot access, illustrating the rotation of speculative capital.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-aster-40-hyperliquid-pressure-xpl-perps/\"\u003eAltcoin Season Watch: Aster’s +40% Week, Hyperliquid Pressure, XPL Perps\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-aster-40-hyperliquid-pressure-xpl-perps/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30191048/1759259447-chatgpt-image-sep-30-2025-02_09_51-pm_optimized.jpg"
+      },
+      "published": "2025-09-30T19:11:38Z"
+    }
+  },
+  {
+    "hash": "bcf1b63dfc6bc80d9af659df65453e352f228bac62672915c3bd0532d688549e",
+    "item": {
+      "title": "Corrupt LA Deputy Weaponized Badge for ‘Crypto Godfather’ in Terrifying Extortion Racket",
+      "description": "\u003cp\u003eProsecutors have described how a former LA sheriff’s deputy has worked with a promoter in coercion and fraud; the case has advanced toward sentencing, adding new detail to LA … deputy … crypto links across several incidents.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/corrupt-la-deputy-weaponized-badge-for-crypto-godfather-in-terrifying-extortion-racket/\"\u003eCorrupt LA Deputy Weaponized Badge for ‘Crypto Godfather’ in Terrifying Extortion Racket\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/corrupt-la-deputy-weaponized-badge-for-crypto-godfather-in-terrifying-extortion-racket/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto crime",
+        "Police"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30113220/1759231939-0_2-13_optimized.jpg"
+      },
+      "published": "2025-09-30T18:57:40Z"
+    }
+  },
+  {
+    "hash": "326f5e2fa19d93a0ea124a2d0c3932bece034248e355f90f16a408074018fcab",
+    "item": {
+      "title": "Stripe Bridge Unveils Stablecoin Platform – Can Any Business Now Mint Its Own Token?",
+      "description": "\u003cp\u003eStripe has unveiled Open Issuance from its Bridge subsidiary, enabling businesses to create and manage customizable stablecoins with one-for-one swap liquidity, security and compliance support, and reserve choices spanning cash and U.S. Treasuries via partners such as BlackRock, Fidelity, and Superstate.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stripe-bridge-unveils-stablecoin-platform-can-any-business-now-mint-its-own-token/\"\u003eStripe Bridge Unveils Stablecoin Platform – Can Any Business Now Mint Its Own Token?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stripe-bridge-unveils-stablecoin-platform-can-any-business-now-mint-its-own-token/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Stablecoin",
+        "Stripe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30184227/1759257746-stock-image_optimized-8.jpg"
+      },
+      "published": "2025-09-30T18:42:50Z"
+    }
   }
 ]
