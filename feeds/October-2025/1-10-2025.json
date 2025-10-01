@@ -1370,5 +1370,621 @@
       },
       "published": "2025-10-01T06:32:56Z"
     }
+  },
+  {
+    "hash": "8c847d44514bc1007efca0926b5c7b2d210d6772fb8772d0d9b3aa265c34bde8",
+    "item": {
+      "title": "Why TigerBeetle is the most interesting database in the world",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45436534\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T11:33:19Z"
+    }
+  },
+  {
+    "hash": "5a020aa4258d8f0c190cfe5671dbcfc05f8482e9f2700de31d841a9b3c18da34",
+    "item": {
+      "title": "Our efforts, in part, define us",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45435825\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://weakty.com/posts/efforts/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T09:22:10Z"
+    }
+  },
+  {
+    "hash": "5107459d6fcb55bcbef8a9639ab6fb81b14f4f154b737cfdad8c86865ab0b245",
+    "item": {
+      "title": "FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45436027\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flowsynx.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T10:00:29Z"
+    }
+  },
+  {
+    "hash": "89b19463b71d26c3007613e27ca6ec9ed1308967990bbd7c7aced88a6a5106bb",
+    "item": {
+      "title": "I only use Google Sheets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45435463\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mayberay.bearblog.dev/why-i-only-use-google-sheets/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T08:06:50Z"
+    }
+  },
+  {
+    "hash": "0d65d50d5fa8f9732a4b1e4da4dfbf6ec2dec23a07cd876398bcb365867829b8",
+    "item": {
+      "title": "Leaf miners identified as oldest insect plague in the history of Earth",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45404868\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-09-leaf-miners-oldest-insect-plague.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T15:05:12Z"
+    }
+  },
+  {
+    "hash": "a8fc0f3f15cb4d9fd8d74fdb36953364440a983106b8143d8bcbf68f41c0cd1e",
+    "item": {
+      "title": "Styx Emulator Public Release",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45398591\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stumbl.ing/posts/styx-emulator-release/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-27T19:15:18Z"
+    }
+  },
+  {
+    "hash": "be07551b84c8eaa48c908f325cfc64394673364342600614c7f9d569a74d4319",
+    "item": {
+      "title": "Mesa PowerVR Driver Lands Changes For Vulkan 1.2 Support",
+      "description": "Changes merged this week to the Mesa PowerVR Vulkan driver now allow it to support all of the functionality required by the Vulkan 1.2 specification...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-1.2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-01T12:06:33Z"
+    }
+  },
+  {
+    "hash": "7509e2abdd3c2fa37e7b3a3b1751517652b6b6fb6d985db452dc811dd6e9c9ea",
+    "item": {
+      "title": "OpenZFS 2.4-rc2 Released With Linux 6.17 Support, Bug Fixes",
+      "description": "OpenZFS 2.4-rc2 was released on Tuesday as the latest stepping stone toward the big OpenZFS 2.4 feature release...",
+      "links": [
+        "https://www.phoronix.com/news/OpenZFS-2.4-rc2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-01T12:00:33Z"
+    }
+  },
+  {
+    "hash": "ceba3941802a8e931004c39c88b678c929a2c314626394a91bc2b6c2cff6329f",
+    "item": {
+      "title": "Raspberry Pi Announces Price Increases Due To Rising Memory Demand",
+      "description": "Due to rising demand around system memory being pushed up in large part by HBM for AI applications, Raspberry Pi announced price increases on select products to help offset the rising LPDDR costs...",
+      "links": [
+        "https://www.phoronix.com/news/Raspberry-Pi-Price-RAM-Demand"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-01T11:44:19Z"
+    }
+  },
+  {
+    "hash": "2c33dd28f862f0f4bd8b97739625f95f14a9231bd1f59f3f24f220b6e18c0770",
+    "item": {
+      "title": "Pump.fun Eyes Previous High as Bulls Regain Control With 20% Daily Surge",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Pump.fun-price-analysis-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pump.fun Eyes Previous High as Bulls Regain Control With 20% Daily Surge\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Pump.fun-price-analysis-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Pump.fun-price-analysis-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Pump.fun-price-analysis-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePump.fun (PUMP) has shown great resilience over the recent trading sessions, and it has made a strong recovery after reaching a critical technical level. The cryptocurrency rebounded with great force off its 50-day Exponential Moving Average (EMA) at $0.00528, which served as a solid floor in the recent pullback. This",
+      "links": [
+        "https://thenewscrypto.com/pump-fun-eyes-previous-high-as-bulls-regain-control-with-20-daily-surge/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "PUMP",
+        "Pump.fun"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Pump.fun-price-analysis-1.jpg"
+      },
+      "published": "2025-10-01T08:26:16Z"
+    }
+  },
+  {
+    "hash": "178bfb965719ec3cb5ef9dd9e29178786eaffddafa0d2ace2ce7e0eaa99c2a4d",
+    "item": {
+      "title": "Gate Group Announces Gate Technology Ltd Received the MiCA License from Malta Financial Services Authority (MFSA), Extends its Compliance Footprint in Europe",
+      "description": "\u003cp\u003e\u003cimg width=\"1201\" height=\"671\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Gate_-_MiCA_1759303661dOIqpmZfly.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Gate_-_MiCA_1759303661dOIqpmZfly.jpg 1201w, https://thenewscrypto.com/wp-content/uploads/2025/10/Gate_-_MiCA_1759303661dOIqpmZfly-300x168.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Gate_-_MiCA_1759303661dOIqpmZfly-1024x572.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/Gate_-_MiCA_1759303661dOIqpmZfly-768x429.jpg 768w\" sizes=\"auto, (max-width: 1201px) 100vw, 1201px\" /\u003e\u003c/p\u003ePanama City, Panama, 1st October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gate-group-announces-gate-technology-ltd-received-the-mica-license-from-malta-financial-services-authority-mfsa-extends-its-compliance-footprint-in-europe/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Gate_-_MiCA_1759303661dOIqpmZfly.jpg"
+      },
+      "published": "2025-10-01T07:41:36Z"
+    }
+  },
+  {
+    "hash": "8d430c6e28e367956ab170a00d1d022bfde04665164a5881187cf54a7c9b8d02",
+    "item": {
+      "title": "Sei (SEI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"1521\" height=\"857\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sei (SEI) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM.jpeg 1521w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-1024x577.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-768x433.jpeg 768w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 1521px) 100vw, 1521px\" /\u003e\u003c/p\u003eIn this Sei (SEI) price prediction 2025, 2026-2030, we will analyze the price patterns of SEI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sei (SEI) Current Market Status What is Sei (SEI)? Sei (SEI) 24H Technicals SEI (SEI)",
+      "links": [
+        "https://thenewscrypto.com/sei-sei-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM.jpeg"
+      },
+      "published": "2025-10-01T07:41:18Z"
+    }
+  },
+  {
+    "hash": "cc7e97cd47b0272457b0ea4ea58176a7215896fe36594d452e3bb82beb2bbeba",
+    "item": {
+      "title": "Sui (SUI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sui (SUI) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Sui (SUI) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of SUI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sui (SUI) Current Market Status What is Sui (SUI)? Sui (SUI) 24H Technicals SUI (SUI)",
+      "links": [
+        "https://thenewscrypto.com/sui-sui-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "SUI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/911c40d4-03d4-43f4-96a9-3448e60c5fd0.jpg"
+      },
+      "published": "2025-10-01T07:38:53Z"
+    }
+  },
+  {
+    "hash": "ad5899bf9daa38183ae327b9d55d7fe7b6cfe967b1770adff5dc9a09c86c25a1",
+    "item": {
+      "title": "Lido DAO (LDO) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/12/LDO-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Lido DAO (LDO) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/12/LDO-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/12/LDO-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/12/LDO-PREDICTION-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Lido DAO (LDO) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of LDO by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Lido DAO (LDO) Current Market Status What is Lido DAO (LDO)? Lido DAO (LDO)",
+      "links": [
+        "https://thenewscrypto.com/lido-dao-ldo-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Cryptocurrency",
+        "LDO",
+        "Lido DAO",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/12/LDO-PREDICTION.jpg"
+      },
+      "published": "2025-10-01T07:36:38Z"
+    }
+  },
+  {
+    "hash": "fcc22080ff9d659f2c37be563be865d3a541e0f5274dd6b81746d9438a52009a",
+    "item": {
+      "title": "Ethena (ENA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/05/ETHENA-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethena (ENA) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/05/ETHENA-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/05/ETHENA-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/05/ETHENA-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Ethena (ENA) price prediction 2025, 2026-2030, we will analyze the price patterns of ENA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Ethena (ENA) Current Market Status What is Ethena (ENA)? Ethena (ENA) 24H Technicals ETHENA (ENA)",
+      "links": [
+        "https://thenewscrypto.com/ethena-ena-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Cryptocurrency",
+        "ENA",
+        "Ethena",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/05/ETHENA-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-10-01T07:34:04Z"
+    }
+  },
+  {
+    "hash": "bc66c3dede8e457744eb44c2938117ebfe2ad36e44a8e160dcc558f9a216ae41",
+    "item": {
+      "title": "Binance Coin (BNB) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Coin (BNB)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Binance Coin (BNB) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of BNB by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Binance Coin (BNB) Current Market Status What is Binance Coin (BNB)? Binance Coin (BNB)",
+      "links": [
+        "https://thenewscrypto.com/binance-coin-bnb-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Binance",
+        "BNB",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg"
+      },
+      "published": "2025-10-01T07:28:52Z"
+    }
+  },
+  {
+    "hash": "585f7a61359ccf6aa38da0a9617d7496b1c0ffdb5fee96880334b84698b48f18",
+    "item": {
+      "title": "Don’t Let Presale Hype Fool You – Alfa Crypto Offers Verifiable Utility from Day One",
+      "description": "\u003cp\u003e\u003cimg width=\"2486\" height=\"1247\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2.png 2486w, https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2-300x150.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2-1024x514.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2-768x385.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2-1536x770.png 1536w, https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2-2048x1027.png 2048w\" sizes=\"auto, (max-width: 2486px) 100vw, 2486px\" /\u003e\u003c/p\u003eThe crypto market has seen countless projects raising millions in flashy presales, only to disappear without a trace. For many investors this created fatigue and skepticism: can you actually trust new tokens anymore?\u0026#160; Against this backdrop, Alfa Crypto stands out as a rare exception. It is not just an idea",
+      "links": [
+        "https://thenewscrypto.com/dont-let-presale-hype-fool-you-alfa-crypto-offers-verifiable-utility-from-day-one/"
+      ],
+      "categories": [
+        "Press Release",
+        "Alfa Crypto"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Header-image-2.png"
+      },
+      "published": "2025-10-01T06:26:28Z"
+    }
+  },
+  {
+    "hash": "2fc947f35026a5815ab291c97c0191aa3dd800ae13b10e42ae2a8ac6f70d0fe3",
+    "item": {
+      "title": "Top 100x Cryptos in October 2025: MoonBull Presale Raises $180K, Ethereum $5,000 Forecast, Chainlink US Holder Boost",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-138.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/image001-138.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-138-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-138-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/09/image001-138-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe digital asset market is once again heating up as fresh capital pours into tokens with both community strength and proven mechanics. Global market sentiment is leaning bullish, and participants are keeping close tabs on which projects can stand out in an increasingly competitive field. From Bitcoin’s resilience to altcoins",
+      "links": [
+        "https://thenewscrypto.com/top-100x-cryptos-in-october-2025-moonbull-presale-raises-180k-ethereum-5000-forecast-chainlink-us-holder-boost/"
+      ],
+      "categories": [
+        "Press Release",
+        "MoonBull"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/image001-138.png"
+      },
+      "published": "2025-10-01T05:30:00Z"
+    }
+  },
+  {
+    "hash": "45057785cd6d6a2e7c86d559dd4fe856da241cce52f9081b29adff19ac6f2bc2",
+    "item": {
+      "title": "2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising",
+      "description": "Bitdefender’s 2025 Cybersecurity Assessment Report paints a sobering picture of today’s cyber defense landscape: mounting pressure to remain silent after breaches, a gap between leadership and frontline teams, and a growing urgency to shrink the enterprise attack surface.\nThe annual research combines insights from over 1,200 IT and security professionals across six countries, along with an",
+      "links": [
+        "https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbKCOBWj-sXv47og9Nnceu2NmkXbvG1GR4ShxGuhoSws9m5hWPYRNrrtl-krCOdmErY75PuLx7ZyiE9UyuD-_fuLDE_AU6t0qiIfCfYh4TwlTTFYTUjUPMgdx0u2wNhsBQUTikkiZNSi4F3bACH9BrRlS-XQxVQQ-3siF8KnkPVjh-JKZibzxGz7kUA98/s1600/Attack-Surface.jpg"
+      },
+      "published": "2025-10-01T11:07:00Z"
+    }
+  },
+  {
+    "hash": "54139c528436a81a758ee99591c45d721e6f673cde9c719bf4efcafca8d48e8c",
+    "item": {
+      "title": "Hackers Exploit Milesight Routers to Send Phishing SMS to European Users",
+      "description": "Unknown threat actors are abusing Milesight industrial cellular routers to send SMS messages as part of a smishing campaign targeting users in European countries since at least February 2022.\nFrench cybersecurity company SEKOIA said the attackers are exploiting the cellular router's API to send malicious SMS messages containing phishing URLs, with the campaigns primarily targeting Sweden, Italy,",
+      "links": [
+        "https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLIadz7lpEjoudxIEw5FFNBNKVl8gu9ZGacbp_5Jo3zgat6YCRuR4WefKiueFow34xS04iBwr58-72CixKZmrqMp7lGowc59j8sRoymzAQ0s-HuNSEqMSM65g6f434VsFoxSfH6H5ty21XRWRfWnxaiTMpxd78O0_TDmee3e9j1BdWiSSP9gSjCTcI8TUH/s1600/sms.jpg"
+      },
+      "published": "2025-10-01T11:07:00Z"
+    }
+  },
+  {
+    "hash": "c610a85d3b48c02b26ee77e6d66756cb52dc36f6c1339027c6b2c5faf03616f6",
+    "item": {
+      "title": "New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones",
+      "description": "A previously undocumented Android banking trojan called Klopatra has compromised over 3,000 devices, with a majority of the infections reported in Spain and Italy.\nItalian fraud prevention firm Cleafy, which discovered the sophisticated malware and remote access trojan (RAT) in late August 2025, said it leverages Hidden Virtual Network Computing (VNC) for remote control of infected devices and",
+      "links": [
+        "https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8eoAYHoyoQS5TtLvI4tFLjvEn3_yHjwQJi5LTKUhk7LTGAtFsVcxp2Jt2iXrvN0YHs2PiI5zyJFwCB5pJPO5XX5VpCSuquXC5W4yElBwWNWJ2ffU8GxTfpE1roVfGsOl4DPzkw4kbZGVFFWGaxVEWY4I6KKQtvxaoA9kbzpS_qAW5kh1vTPjPhJWJxp7t/s1600/android-hacker.jpg"
+      },
+      "published": "2025-10-01T09:25:00Z"
+    }
+  },
+  {
+    "hash": "6fcfc9fab854df135b44a34edb3a1e35ac2d15013830581638754b388adc5274",
+    "item": {
+      "title": "New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
+      "description": "A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.\n\"We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks,\" researchers Jesse De Meulemeester, David Oswald, Ingrid",
+      "links": [
+        "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdi-H6S_F-9-Ll9cV-FWKNBndi_aszei1aE8X-ejsO-Ku9vPb5f0hJkjHh21t_FM6BZrRHYUfQDytfjW1rrWr7NBAMHoS-MP19VNapiCjiSiBzITQVo-O9LUJrYiVaf48dQzgj6VN0ZyAyRWsb3aHxcSMdq06Qb6mccQ0yo3pTfEZvOd52WxaKN4V-z9qV/s1600/ram.jpg"
+      },
+      "published": "2025-09-30T18:42:00Z"
+    }
+  },
+  {
+    "hash": "d95ca0f8b798d788c835f49a4d8eb164e299208a5244dcfb1725a5ce5680be47",
+    "item": {
+      "title": "SEC Greenlights Advisers Using State Trusts as Crypto Custodians — For Now",
+      "description": "\u003cp\u003eThe SEC’s Division of Investment Management has issued a no-action letter stating that investment advisers may use state trust companies as crypto custodians if proper procedures are in place.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sec-greenlights-advisers-using-state-trusts-as-crypto-custodians-for-now/\"\u003eSEC Greenlights Advisers Using State Trusts as Crypto Custodians — For Now\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sec-greenlights-advisers-using-state-trusts-as-crypto-custodians-for-now/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Paul atkins",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01112202/1759317721-544b31c0-f505-4622-95f9-5a624f92a886_optimized.jpg"
+      },
+      "published": "2025-10-01T12:02:36Z"
+    }
+  },
+  {
+    "hash": "ba65d22db67c80868f657380843db049fd7084309445f5979125054414e6b5cf",
+    "item": {
+      "title": "Why Is Crypto Up Today? – October 1, 2025",
+      "description": "\u003cp\u003eThe crypto market is up today. BTC is up to $114,540, and ETH is down to $4,139. “Bitcoin is in the process of finding a bottom,” Swissblock writes.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-up-today-october-1-2025/\"\u003eWhy Is Crypto Up Today? – October 1, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-up-today-october-1-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01095507/1759312506-why-is-crypto-up-today.jpg"
+      },
+      "published": "2025-10-01T10:34:45Z"
+    }
+  },
+  {
+    "hash": "d14bd004ff2173d2e1755c08b438e2c9c6c8f89f6b5a98c23d89251eeab81601",
+    "item": {
+      "title": "Buffett Said: “You Must Find a Way to Earn Money While You Sleep, Otherwise You Will Work Until You Die”",
+      "description": "\u003cp\u003eOne of CryptoMiningFirm’s biggest strengths is its wide range of mining contracts designed to suit different financial goals.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/buffett-said-you-must-find-a-way-to-earn-money-while-you-sleep-otherwise-you-will-work-until-you-die/\"\u003eBuffett Said: “You Must Find a Way to Earn Money While You Sleep, Otherwise You Will Work Until You Die”\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/buffett-said-you-must-find-a-way-to-earn-money-while-you-sleep-otherwise-you-will-work-until-you-die/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01103045/1759314644-cryptominingfirm.jpg"
+      },
+      "published": "2025-10-01T10:33:52Z"
+    }
+  },
+  {
+    "hash": "97c48fd13266c279d1e819eb9248387a2568f6e01c24548e3e5b52728196c831",
+    "item": {
+      "title": "Japanese Firm Metaplanet Acquires $623M in Bitcoin, Becomes 4th-Largest Corporate Holder",
+      "description": "\u003cp\u003eMetaplanet purchased 5,268 Bitcoin for $623 million bringing total holdings to 30,823 BTC worth approximately $3.3 billion at an average acquisition price of $108,038 per coin, ranking as the fourth-largest corporate Bitcoin holder globally behind Strategy's 640,031 BTC while surpassing its fiscal year 2025 target of 30,000 BTC ahead of schedule.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/japanese-firm-metaplanet-acquires-623m-in-bitcoin-becomes-4th-largest-corporate-holder/\"\u003eJapanese Firm Metaplanet Acquires $623M in Bitcoin, Becomes 4th-Largest Corporate Holder\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/japanese-firm-metaplanet-acquires-623m-in-bitcoin-becomes-4th-largest-corporate-holder/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Japan",
+        "Metaplanet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01094242/1759311762-stock-image_optimized-67.webp"
+      },
+      "published": "2025-10-01T10:07:04Z"
+    }
+  },
+  {
+    "hash": "378e56df2aa92be6c4999d117295c21d87162a686d7b90263718aecd17192f77",
+    "item": {
+      "title": "Foresight Ventures Launches $50M Fund for Stablecoin Infrastructure",
+      "description": "\u003cp\u003eForesight Ventures has launched a $50 million fund dedicated entirely to stablecoin infrastructure, marking the first initiative of its kind.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/foresight-ventures-launches-50m-fund-for-stablecoin-infrastructure/\"\u003eForesight Ventures Launches $50M Fund for Stablecoin Infrastructure\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/foresight-ventures-launches-50m-fund-for-stablecoin-infrastructure/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "funding",
+        "Stablecoin",
+        "Venture Capital"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01091632/1759310191-image-1759310039245_optimized.jpg"
+      },
+      "published": "2025-10-01T10:05:45Z"
+    }
+  },
+  {
+    "hash": "98f3dc87855516112e8670471f49dc4ad14658d5c79469baeb942c5e66322864",
+    "item": {
+      "title": "CoinShares to Acquire FCA-Regulated Bastion to Boost Active Crypto Strategies",
+      "description": "\u003cp\u003eCoinShares is set to acquire Bastion Asset Management, a UK-based, FCA-regulated firm known for its systematic crypto investment strategies.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinshares-to-acquire-fca-regulated-bastion-to-boost-active-crypto-strategies/\"\u003eCoinShares to Acquire FCA-Regulated Bastion to Boost Active Crypto Strategies\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinshares-to-acquire-fca-regulated-bastion-to-boost-active-crypto-strategies/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "CoinShares",
+        "FCA",
+        "UK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01091636/1759310195-image-1759309956654_optimized.jpg"
+      },
+      "published": "2025-10-01T09:30:31Z"
+    }
+  },
+  {
+    "hash": "ace58b0b7a380647b292739e6be363e23e9660212ad0b38ecc3af116009a24b2",
+    "item": {
+      "title": "Trump Family-Affiliated Company Pumps $2.5M into Dogecoin Mining Expansion – $1 Doge Next?",
+      "description": "\u003cp\u003eThumzup Media Corporation has provided DogeHash Technologies with a $2.5 million loan to expand Dogecoin mining capacity ahead of its pending acquisition of the mining firm. The financing will support deployment of more than 500 new ASIC miners, potentially bringing total operational rigs to over 4,000 by year-end, according to a Tuesday announcement from the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-family-affiliated-company-pumps-2-5m-into-dogecoin-mining-expansion-1-doge-next/\"\u003eTrump Family-Affiliated Company Pumps $2.5M into Dogecoin Mining Expansion – $1 Doge Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-family-affiliated-company-pumps-2-5m-into-dogecoin-mining-expansion-1-doge-next/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Dogecoin",
+        "Mining",
+        "Trump Family"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01081848/1759306727-stock-image_optimized-66.webp"
+      },
+      "published": "2025-10-01T09:14:14Z"
+    }
   }
 ]
