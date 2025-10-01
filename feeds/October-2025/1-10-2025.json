@@ -2876,5 +2876,861 @@
       },
       "published": "2025-10-01T12:24:30Z"
     }
+  },
+  {
+    "hash": "b1eeb7c72323ee3a247f46be7c6c38141e216609313ca347cb6468db9739d4a3",
+    "item": {
+      "title": "UK once again demands backdoor to Apple’s encrypted cloud storage",
+      "description": "New order in September narrowed access request down to data of UK citizens.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/10/uk-once-again-demands-backdoor-to-apples-encrypted-cloud-storage/"
+      ],
+      "categories": [
+        "Apple",
+        "Policy",
+        "apple",
+        "backdoor",
+        "iCloud Advanced Data Protection",
+        "syndication",
+        "uk"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Anna Gross and Tim Bradshaw, Financial Times"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/iclouduk-1152x648.jpg"
+      },
+      "published": "2025-10-01T15:40:03Z"
+    }
+  },
+  {
+    "hash": "81b738feeecc6726ea60164381c1cd4afd895a47d812a038067c730770f4ac3b",
+    "item": {
+      "title": "How automakers are reacting to the end of the $7,500 EV tax credit",
+      "description": "Tesla is raising lease prices; Ford and GM may have found a loophole.",
+      "links": [
+        "https://arstechnica.com/cars/2025/10/its-october-1-so-the-electric-vehicle-tax-credit-is-dead-now/"
+      ],
+      "categories": [
+        "Cars",
+        "EV adoption",
+        "Ford",
+        "General Motors",
+        "IRS clean vehicle tax credit",
+        "Tesla"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365310049-1152x648.jpg"
+      },
+      "published": "2025-10-01T15:00:56Z"
+    }
+  },
+  {
+    "hash": "c50909df1bb3a04cd953f9c8a4cf26bc17ce5cfd1ac201211fd31ad1accd1a63",
+    "item": {
+      "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
+      "description": "In yet another piece of research, academics from Georgia Institute of Technology and Purdue University have demonstrated that the security guarantees offered by Intel's Software Guard eXtensions (SGX) can be bypassed on DDR4 systems to passively decrypt sensitive data.\nSGX is designed as a hardware feature in Intel server processors that allows applications to be run in a Trusted Execution",
+      "links": [
+        "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYOQta_yh5wJCkXtBTERyRojdN7qcYaN2utDcbn1PZz0eiZrhJ4OUZWctjBmrtw6DimCvf4bBBj9HOVc8fhmGfqVlorcbAaazAN4DMCs8jDs3DAW60GRos6wkpDxYLNyLNaEVlWYgMd19kibOzeKswSI5jmzAllx2xBMs49uHLYTsrKgtTrv_l6BPwYOBU/s1600/wiretap.jpg"
+      },
+      "published": "2025-10-01T17:20:00Z"
+    }
+  },
+  {
+    "hash": "5152611bd0c9714350fa0d747ea49478437c8743e3e5a9bc4e945edb94d1bce2",
+    "item": {
+      "title": "Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake",
+      "description": "Microsoft on Tuesday unveiled the expansion of its Sentinel Security Incidents and Event Management solution (SIEM) as a unified agentic platform with the general availability of the Sentinel data lake.\nIn addition, the tech giant said it's also releasing a public preview of Sentinel Graph and Sentinel Model Context Protocol (MCP) server to turn telemetry into a security graph and allow AI",
+      "links": [
+        "https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjODv1x9nadL35dXJtorVVICES-z40rVgJ6gAlNhEltWGjgfRz0iuS7BR7YBeFZOv6wFAAYO_bZJokdQJl12xTofzMHk0u7ek10oKlZkSI9-ZRhViVPJXs0LlFkDTDwM3E96cPxpPyRJ9WuvlzYNejxuXLamxgUSS4q6c17rb8Qw6DsJrTx-p3XH_21hxF4/s1600/ms-sentinel.jpg"
+      },
+      "published": "2025-09-30T13:00:00Z"
+    }
+  },
+  {
+    "hash": "71555d58a0392956ed5be1c807fb5a7d2a3e86a6971a54636f20dac0574aa444",
+    "item": {
+      "title": "Alpine Linux plans /usr merge",
+      "description": "\u003cp\u003eThe Alpine Linux project has \u003ca\nhref=\"https://alpinelinux.org/posts/2025-10-01-usr-merge.html\"\u003eannounced\u003c/a\u003e\nplans to change its base filesystem hierarchy:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eIn the future, \u003ctt\u003e/lib\u003c/tt\u003e, \u003ctt\u003e/bin\u003c/tt\u003e, and \u003ctt\u003e/sbin\u003c/tt\u003e\nwill be symbolic links to their \u003ctt\u003e/usr\u003c/tt\u003e counterparts, and every package\nshall be installed under the \u003ctt\u003e/usr\u003c/tt\u003e paths. For now,\n\u003ctt\u003e/usr/bin\u003c/tt\u003e and \u003ctt\u003e/usr/sbin\u003c/tt\u003e will continue to be independent paths,\nbut that might change if the Filesystem Hierarchy Standard (FHS) gets\nupdated.\n\u003c/blockquote\u003e\n\n\u003cp\u003eThe merge will take place in the upcoming Alpine\u0026#160;3.23 release\nplanned for November; non-merged systems will be considered\nunsupported when 3.22 is at its end of life in May 2027.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1040410/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-10-01T17:52:43Z"
+    }
+  },
+  {
+    "hash": "4387a1cf84b0d075e1c5f1c5e6774526eb6c6b5209d5ded16bfe3008eb76d128",
+    "item": {
+      "title": "AGNT Hub Launches X Mini Apps and Opens the Next Chapter for Native Web3 on X",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50-376x212.jpg 376w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eAGNT Hub, the team building a native Web3 execution layer inside X (formerly Twitter), announced the introduction of X Mini Apps – lightweight in-feed applications that turn crypto attention into repeatable onchain engagement and mark the next step for Web3 activity inside X. The Rise of X Mini Apps and",
+      "links": [
+        "https://thenewscrypto.com/agnt-hub-launches-x-mini-apps-and-opens-the-next-chapter-for-native-web3-on-x/"
+      ],
+      "categories": [
+        "Press Release",
+        "AGNT Hub"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/IMAGE-2025-10-01-09_58_50.jpg"
+      },
+      "published": "2025-10-01T14:00:00Z"
+    }
+  },
+  {
+    "hash": "efac1bc4d09fc7d571b29baeed73176f6d65c4fd65969799ecf5035d9968d313",
+    "item": {
+      "title": "SimpleFX Relaunches First Deposit Bonus",
+      "description": "\u003cp\u003e\u003cimg width=\"1224\" height=\"700\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/freepik__cyberpunk-futuristic-digital-artwork-of-c_1756727409B51xLfyxgN.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/freepik__cyberpunk-futuristic-digital-artwork-of-c_1756727409B51xLfyxgN.jpeg 1224w, https://thenewscrypto.com/wp-content/uploads/2025/10/freepik__cyberpunk-futuristic-digital-artwork-of-c_1756727409B51xLfyxgN-300x172.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/freepik__cyberpunk-futuristic-digital-artwork-of-c_1756727409B51xLfyxgN-1024x586.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/freepik__cyberpunk-futuristic-digital-artwork-of-c_1756727409B51xLfyxgN-768x439.jpeg 768w\" sizes=\"(max-width: 1224px) 100vw, 1224px\" /\u003e\u003c/p\u003eKingstown, Saint Vincent and the Grenadines, 1st October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/simplefx-relaunches-first-deposit-bonus/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/freepik__cyberpunk-futuristic-digital-artwork-of-c_1756727409B51xLfyxgN.jpeg"
+      },
+      "published": "2025-10-01T12:47:20Z"
+    }
+  },
+  {
+    "hash": "5a0ee97274f5f482c36b37fe8a6de8752769b8aa9f013ca5454374c39c3d9903",
+    "item": {
+      "title": "Investing $250 in Ozak AI Now—What To Expect if the Token Strengthens to $1 or Beyond",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-4.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-4.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-4-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-4-768x437.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe Ozak AI ($OZ) presale is still going on, and thousands of investors are lining up early before the subsequent rise. Even a small investment will have exposure to huge gains at the present presale price of $0.012 per token. As an example, investing 250 in Ozak AI today will",
+      "links": [
+        "https://thenewscrypto.com/investing-250-in-ozak-ai-now-what-to-expect-if-the-token-strengthens-to-1-or-beyond/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-4.png"
+      },
+      "published": "2025-10-01T12:45:00Z"
+    }
+  },
+  {
+    "hash": "95dcf82150526c2194ded4363a6f00bba9c96761c0dfd7e93d4d6e980760d3f8",
+    "item": {
+      "title": "BNB Chain Hackers Strike With Wallet-Draining Scam on Official X Account",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/BNB_Chains_official_X_account_hacked_CZ_warns_of_phishing_links.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BNB Chain Hackers Strike With Wallet-Draining Scam on Official X Account\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/BNB_Chains_official_X_account_hacked_CZ_warns_of_phishing_links.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/BNB_Chains_official_X_account_hacked_CZ_warns_of_phishing_links-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/BNB_Chains_official_X_account_hacked_CZ_warns_of_phishing_links-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe official X account of BNB Chain was hacked by hackers who posted links that led to fraudulent transactions among cryptocurrency users in their digital wallets. On Wednesday, the phishing websites were distributed using the compromised account with almost four million followers. The founder of Binance, Changpeng Zhao, was the",
+      "links": [
+        "https://thenewscrypto.com/bnb-chain-hackers-strike-with-wallet-draining-scam-on-official-x-account/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "BNB",
+        "BNB Chain",
+        "Hack"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/BNB_Chains_official_X_account_hacked_CZ_warns_of_phishing_links.jpg"
+      },
+      "published": "2025-10-01T12:36:14Z"
+    }
+  },
+  {
+    "hash": "49e15cf37bd4dbbf88b5f4f641d00c014dcf449a16c29f7290a420b3358c9cb9",
+    "item": {
+      "title": "KoinBX Launches First AI-Powered Assistant To Revolutionize Crypto Trading in India",
+      "description": "\u003cp\u003e\u003cimg width=\"744\" height=\"496\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001.gif\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" /\u003e\u003c/p\u003eKoinBX, India\u0026#8217;s most trusted and fastest growing cryptocurrency exchange, today announced the launch of its new AI-powered assistant. This innovative assistant is designed to provide users with quick responses around KoinBX trading platform, including prices of crypto assets, further solidifying KoinBX\u0026#8217;s position as a leader in the Indian crypto market.",
+      "links": [
+        "https://thenewscrypto.com/koinbx-launches-first-ai-powered-assistant-to-revolutionize-crypto-trading-in-india/"
+      ],
+      "categories": [
+        "Press Release",
+        "KoinBX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001.gif"
+      },
+      "published": "2025-10-01T12:13:32Z"
+    }
+  },
+  {
+    "hash": "ae461a34c6002c981f07dfcfbbf593e25bd0eaa00b47867d5eeeffc9f547dce1",
+    "item": {
+      "title": "TokenFi and New to The Street Announce National Media Partnership to Reach 219M+ Households",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML.jpeg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML-1024x576.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML-768x432.jpeg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML-1536x864.jpeg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML-376x212.jpeg 376w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eMiami, Florida, 1st October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/tokenfi-and-new-to-the-street-announce-national-media-partnership-to-reach-219m-households/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/IMG_6486_1759285071fi4R8hI4ML.jpeg"
+      },
+      "published": "2025-10-01T11:46:29Z"
+    }
+  },
+  {
+    "hash": "dcbf8ddbec481cb273f3bd0a375c3dd787d4107f0e649f703fd7a76ca5147396",
+    "item": {
+      "title": "Projecting Potential ROI: Turning $1,200 Into $120,000 by Investing in Ozak AI’s Presale at $0.012",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-3.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-3.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-3-300x172.png 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eThe crypto market often thrives on speculation and grand visions, yet not every project depends on just hype alone. This is true in the case of Ozak AI, a project (that combines blockchain with artificial intelligence) whose presale success has caught the attention of potential investors. The project\u0026#8217;s current presale",
+      "links": [
+        "https://thenewscrypto.com/projecting-potential-roi-turning-1200-into-120000-by-investing-in-ozak-ais-presale-at-0-012/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-3.png"
+      },
+      "published": "2025-10-01T11:33:46Z"
+    }
+  },
+  {
+    "hash": "d467be40024a0c184278d65f045e9c10ea511b90d927436df0c6ff79ff468c86",
+    "item": {
+      "title": "XXKK Exchange Launches 90,000 USDT Global Trading Competition",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"454\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-2.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-2.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-2-300x181.png 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eXXKK Exchange, a leading global digital asset trading platform, announced the launch of its 90,000 USDT Global Trading Competition, inviting traders worldwide to showcase their strategies, compete for top rankings, and share substantial rewards.  The competition will take place in two stages: Participants can register during the signup period and",
+      "links": [
+        "https://thenewscrypto.com/xxkk-exchange-launches-90000-usdt-global-trading-competition/"
+      ],
+      "categories": [
+        "Press Release",
+        "XXKK Exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-2.png"
+      },
+      "published": "2025-10-01T10:43:34Z"
+    }
+  },
+  {
+    "hash": "bbae0dcf85904f146248d818870f046b5f9639ca1aa8a2aea1963bfd42132bb5",
+    "item": {
+      "title": "XRP Price Targets $6 by 2026 While Lyno AI Presale ROI Projections Hit 200x",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-1.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-1-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-1-768x437.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eXRP is hitting the headlines with its price increase to 2.78 and institutionalization taking its treasury to 1.72 billion. Analysts believe that the token can reach up to $6 by the year 2026. In the meantime, Lyno AI promises even greater returns and draws the interest of investors with its",
+      "links": [
+        "https://thenewscrypto.com/xrp-price-targets-6-by-2026-while-lyno-ai-presale-roi-projections-hit-200x/"
+      ],
+      "categories": [
+        "Press Release",
+        "LYNO AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-1.png"
+      },
+      "published": "2025-10-01T10:42:00Z"
+    }
+  },
+  {
+    "hash": "0a879ad8e21b3eb5d607dfb3a21e8c6f55b3d5e7069969a821f252b937dce95f",
+    "item": {
+      "title": "More ASUS Motherboards Will Have Working Sensor Monitoring With Linux 6.18",
+      "description": "The hardware monitoring \"HWMON\" subsystem updates have been sent out for the Linux 6.18 kernel with some notable additions...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-HWMON"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-01T18:00:00Z"
+    }
+  },
+  {
+    "hash": "52b49bfbce55fee0d3d68dac6def197967a0ae68e6e5410f7dc4606537d625d9",
+    "item": {
+      "title": "Intel Arc Pro B50, Raspberry Pi 500+, Strix Halo \u0026 Other September Highlights",
+      "description": "During the month of September on Phoronix were 271 original Linux/open-source news articles and another 19 featured Linux hardware reviews and benchmark articles, all written by your's truly. Here is a look back at what excited Linux enthusiasts the most on Phoronix during September...",
+      "links": [
+        "https://www.phoronix.com/news/September-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-01T17:00:00Z"
+    }
+  },
+  {
+    "hash": "4f052d295780fe532fe91ee85b77c56421b7a57b34419fd78db3ad5648c0e94e",
+    "item": {
+      "title": "EXT4, EROFS \u0026 NTFS3 File-System Drivers Ready With Improvements For Linux 6.18",
+      "description": "In addition to XFS enabling online fsck by default, Bcachefs being stripped from the mainline Linux kernel, and Btrfs improvements making for a notable first few days of the Linux 6.18 window, there's more. The EXT4, EROFS, and NTFS3 drivers are bringing the latest batch of file-system changes for Linux 6.18...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-EXT4-EROFS-NTFS3"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-01T14:51:27Z"
+    }
+  },
+  {
+    "hash": "18567338a30f87c4bd324740652f54a09a7cdff8342fd5daafdcd7d3ee9e321e",
+    "item": {
+      "title": "Show HN: Autism Simulator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438346\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://autism-simulator.vercel.app/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T14:48:31Z"
+    }
+  },
+  {
+    "hash": "0d9ec92f524eaeb002f34bc31e74a10cdaeda9418b8737e7bcb45f4dade166a0",
+    "item": {
+      "title": "Building the heap: racking 30 petabytes of hard drives for pretraining",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438496\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://si.inc/posts/the-heap/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T15:00:41Z"
+    }
+  },
+  {
+    "hash": "59b157bdbb59a9e5660b8e0ca5fdf64c6258b61193c7f86c8eb0adee26d9e813",
+    "item": {
+      "title": "Stop Avoiding Politics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440571\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T17:36:43Z"
+    }
+  },
+  {
+    "hash": "079581ad4c1f336e336c6e5ea36f5cc7f8e35a990b893942cda45dbe6286103e",
+    "item": {
+      "title": "Ask HN: Who is hiring? (October 2025)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438503\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45438503"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T15:01:06Z"
+    }
+  },
+  {
+    "hash": "416a55a9dc3d9a94da8d0fec7c5c8b8c6c084cb6326edcec325c96241cd6bfb2",
+    "item": {
+      "title": "Fossabot: AI code review for Dependabot/Renovate on breaking changes and impacts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45439721\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fossa.com/blog/fossabot-dependency-upgrade-ai-agent/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T16:30:16Z"
+    }
+  },
+  {
+    "hash": "59094f19b73988ea81d9d03ef2f7c034dc7963317963cc96086f5995930d36b6",
+    "item": {
+      "title": "OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440431\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.opentslm.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T17:25:33Z"
+    }
+  },
+  {
+    "hash": "fe97cc2db2fab0064c6211f47102cbdc05992ed50cd70c6229a89c5c2cf63eb3",
+    "item": {
+      "title": "Ask HN: Who wants to be hired? (October 2025)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438501\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45438501"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T15:01:06Z"
+    }
+  },
+  {
+    "hash": "a472870e934ae324e9d55c251f05d9f619e56d0e5055ac74341215bc091eaebd",
+    "item": {
+      "title": "Walmart U.S. moves to eliminate synthetic dyes across all private brand foods",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440028\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://corporate.walmart.com/news/2025/10/01/walmart-u-s-moves-to-eliminate-synthetic-dyes-across-all-private-brand-food-products"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T16:54:05Z"
+    }
+  },
+  {
+    "hash": "586f9bce9e56fbeb6880a97cbb632637fde5b5261d79e77be41c731e10384156",
+    "item": {
+      "title": "Why Tech Inevitability is Self-Defeating",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440212\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T17:09:20Z"
+    }
+  },
+  {
+    "hash": "fd943f1f1c1af0d512ef792ab3b378a43a35672b20f119fc989eb4c0b258ba4f",
+    "item": {
+      "title": "MIT technology can see microbes from 90 meters away",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438704\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.asimov.press/p/hyperspectral"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T15:15:44Z"
+    }
+  },
+  {
+    "hash": "05a97e196556a78e7a704cf4edb03c2fbdd681a7ba50047a41d20176735de28f",
+    "item": {
+      "title": "Ask HN: What is nowadays (opensource) way of converting HTML to PDF?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45404760\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45404760"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T14:52:54Z"
+    }
+  },
+  {
+    "hash": "bf93b8c791d9ee63b4616e8994d3eb89595f90fed64f1b30fbbc1b1cc6be3185",
+    "item": {
+      "title": "DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45439883\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T16:42:50Z"
+    }
+  },
+  {
+    "hash": "c8a68ad5532aab8e58e26b643941961a7355ab2a64af563dd77bf4158233964d",
+    "item": {
+      "title": "Codeberg Reaches 300k Projects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45439955\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeberg.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T16:48:20Z"
+    }
+  },
+  {
+    "hash": "cf4a3217ed211e6edea971685f663c825476b1004b3b7d3b95958e0e7b0efcde",
+    "item": {
+      "title": "Show HN: Glide, an extensible, keyboard-focused web browser",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45430294\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.craigie.dev/introducing-glide/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T19:43:08Z"
+    }
+  },
+  {
+    "hash": "d9d41672cb9243e652f906f5cb714cab83c2fe51ad1a3e2f0560a306b7d0735f",
+    "item": {
+      "title": "Galileo Bad, Archimedes Good",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403225\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://intellectualmathematics.com/blog/galileo-bad-archimedes-good/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-28T10:21:22Z"
+    }
+  },
+  {
+    "hash": "928f67adec7a0aff7ab008aa261baaa0eedc332925bf90b36dd7ce7439fd161a",
+    "item": {
+      "title": "Solar leads EU electricity generation as renewables hit 54%",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440387\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T17:22:43Z"
+    }
+  },
+  {
+    "hash": "c1a78ed197be8bc463aa1365aae21c823a3087076f93544cae8c0ce7de60d2c8",
+    "item": {
+      "title": "Why Is Python So Popular in 2025? – The PyCharm Blog",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440005\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T16:52:21Z"
+    }
+  },
+  {
+    "hash": "ca32f979507638a6b20df3c08b77e4b6ace5a6f581ea72332e3b817fe849c2c3",
+    "item": {
+      "title": "No more \"check mail from other accounts\" in Gmail web",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45439670\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.google.com/mail/answer/16604719?hl=en"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T16:25:58Z"
+    }
+  },
+  {
+    "hash": "4c4f5343f7e5ebda4b72df8f70ff25cdb83ca945542c8a2744e3e3fa6b180ac0",
+    "item": {
+      "title": "Supreme Court lets Fed Governor Cook keep job pending oral argument in January",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440207\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T17:08:41Z"
+    }
+  },
+  {
+    "hash": "8ad7f00c32d23a0b5bebe9d4cb995a75b1b1500dd643186e2ed97ea0683ea129",
+    "item": {
+      "title": "How did Renaissance fairs begin?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45398277\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.history.com/articles/renaissance-fair-origins"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-27T18:30:02Z"
+    }
+  },
+  {
+    "hash": "a5a468fe277b1719b74c62564574a0f77e9d5ea96e84a32fbb86ca3bc0663ccb",
+    "item": {
+      "title": "Why Did Tether Just Move $1B in Bitcoin? Here’s What Traders Need to Know",
+      "description": "\u003cp\u003eAfter a ~$1B BTC transfer associated with Bitfinex, Tether holdings are estimated around 109,410 while markets evaluate how Bitcoin exposure affects reserve quality, liquidity under stress, USDT stability, and regulatory scrutiny across jurisdictions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-did-tether-just-move-1b-in-bitcoin-heres-what-traders-need-to-know/\"\u003eWhy Did Tether Just Move $1B in Bitcoin? Here’s What Traders Need to Know\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-did-tether-just-move-1b-in-bitcoin-heres-what-traders-need-to-know/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Tether",
+        "USDT"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01170351/1759338231-image-1759338038221_optimized.jpg"
+      },
+      "published": "2025-10-01T17:56:51Z"
+    }
+  },
+  {
+    "hash": "06da536f3d345a25b9abd1e1309f54d6132c493e48ef1fdd4b2c4a1afb24ca0a",
+    "item": {
+      "title": "Dogecoin Price Prediction: History Says a Huge Pump Is About to Happen Right Now – Will DOGE Repeat Its 2017 and 2021 Breakouts?",
+      "description": "\u003cp\u003eDogecoin has shown signs of life with a fresh 24-hour jump – and one popular analyst now sees a familiar pattern forming, supporting a bullish Dogecoin price prediction.Trader EtherNasyional, followed by more than 26,000 users on X, shared a chart revealing that DOGE may be repeating the same setup seen before its 2017 and 2021 [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-history-says-a-huge-pump-is-about-to-happen-right-now-will-doge-repeat-its-2017-and-2021-breakouts/\"\u003eDogecoin Price Prediction: History Says a Huge Pump Is About to Happen Right Now – Will DOGE Repeat Its 2017 and 2021 Breakouts?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-history-says-a-huge-pump-is-about-to-happen-right-now-will-doge-repeat-its-2017-and-2021-breakouts/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01115652/1759319812-dogecoin-price-prediction-4.jpg"
+      },
+      "published": "2025-10-01T17:35:15Z"
+    }
+  },
+  {
+    "hash": "37f6d2ae56081afc536d6649f94e5caea9d8213ef76691541f3a0507ed9e08d8",
+    "item": {
+      "title": "Solana Price Prediction: Nasdaq Firm Goes All In on SOL – Can This Be the Catalyst for a $500 Target?",
+      "description": "\u003cp\u003eNasdaq-listed Solana treasury company Upexi has expanded its advisory board – Solana price predictions now eye $500 with growing institutional backing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-nasdaq-firm-goes-all-in-on-sol-can-this-be-the-catalyst-for-a-500-target/\"\u003eSolana Price Prediction: Nasdaq Firm Goes All In on SOL – Can This Be the Catalyst for a $500 Target?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-nasdaq-firm-goes-all-in-on-sol-can-this-be-the-catalyst-for-a-500-target/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Solana",
+        "Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01154823/1759333703-solana-price-prediction.jpg"
+      },
+      "published": "2025-10-01T17:21:59Z"
+    }
+  },
+  {
+    "hash": "497a2daba0e2f15d3181fa11376b99d4b8bde28ef778051108b6822c05ad89f9",
+    "item": {
+      "title": "Shiba Inu Price Prediction: SHIB Exploded 833% Last October – Can It Repeat That Moonshot in 30 Days?",
+      "description": "\u003cp\u003eShiba Inu price prediction has reviewed SHIB’s 5% October gain, its historically strong October performance, a test of resistance near $0.0000123, and firmer RSI, MACD, and volume, outlining potential levels at $0.0000136–$0.0000180 while noting broader market context.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-shib-exploded-833-last-october-can-it-repeat-that-moonshot-in-30-days/\"\u003eShiba Inu Price Prediction: SHIB Exploded 833% Last October – Can It Repeat That Moonshot in 30 Days?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-shib-exploded-833-last-october-can-it-repeat-that-moonshot-in-30-days/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "SHIB"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01131249/1759324368-shiba-inu-price-prediction.jpg"
+      },
+      "published": "2025-10-01T16:02:57Z"
+    }
+  },
+  {
+    "hash": "36fff22e9dd0c5bdbcc49dc68799f05037c23b70df8318f343c810ecdcf45d9f",
+    "item": {
+      "title": "Zcash +35%, Pudgy Penguins Climbs, Sonic Gains – Altcoin Season Targets Catalysts",
+      "description": "\u003cp\u003eAltcoin season has concentrated flows into Zcash, Pudgy Penguins, and Sonic. ZEC has broken resistance with renewed privacy interest, PENGU has sustained volume via brand momentum, and SONIC has seen listing-driven demand as traders have sought higher-beta exposure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-brings-zcash-pudgy-penguins-and-sonic-into-focus/\"\u003eZcash +35%, Pudgy Penguins Climbs, Sonic Gains – Altcoin Season Targets Catalysts\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-brings-zcash-pudgy-penguins-and-sonic-into-focus/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01154130/1759333289-ea95233a-4a76-49c2-9915-5c23eea47080_optimized.jpg"
+      },
+      "published": "2025-10-01T15:47:11Z"
+    }
+  },
+  {
+    "hash": "f338eaab17e8c673ff6c6d9a369ebbad198d1d147def91f7e653a3e011a51b58",
+    "item": {
+      "title": "2025’s Cloud-Mining Platform: FleetMining Offers XRP, BTC, and ETH Holders Novel Avenues",
+      "description": "\u003cp\u003eWith the innovation and sustainable energy value the company holds dear, FleetMining is dedicated to making cryptocurrency mining simple, affordable, and environmentally friendly. Looking towards a more freely decentralized future for digital financial assets, we hope that everybody on Earth can participate in it.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/2025s-cloud-mining-platform-fleetmining-offers-xrp-btc-and-eth-holders-novel-avenues/\"\u003e2025’s Cloud-Mining Platform: FleetMining Offers XRP, BTC, and ETH Holders Novel Avenues\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/2025s-cloud-mining-platform-fleetmining-offers-xrp-btc-and-eth-holders-novel-avenues/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01153934/1759333174-fleetmining.jpg"
+      },
+      "published": "2025-10-01T15:43:02Z"
+    }
+  },
+  {
+    "hash": "e995ec8a0a7276095fc4e2c09d728c760ff605719f0e6b32ba504908c613d73b",
+    "item": {
+      "title": "The Era of “Easy Money” from Bitcoin Reserves is Over. True Crypto Investment Begins Now.",
+      "description": "\u003cp\u003eAbandon the illusion of \"easy gains\" and embrace the true promise of crypto investing—GoldenMining is ready to join you in this new era of maturity, challenges, and rewards.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/the-era-of-easy-money-from-bitcoin-reserves-is-over-true-crypto-investment-begins-now/\"\u003eThe Era of \u0026#8220;Easy Money\u0026#8221; from Bitcoin Reserves is Over. True Crypto Investment Begins Now.\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/the-era-of-easy-money-from-bitcoin-reserves-is-over-true-crypto-investment-begins-now/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/01151935/1759331975-goldenmining.jpg"
+      },
+      "published": "2025-10-01T15:22:49Z"
+    }
+  },
+  {
+    "hash": "aacff991200011fbcabfc20b4468ad25136bd934c641debf5b051634862a32fd",
+    "item": {
+      "title": "Mega Matrix to Expand $2B Digital Asset Treasury into Multi-Stablecoin Framework",
+      "description": "\u003cp\u003eMega Matrix has expanded its $2B digital asset treasury with a dual-engine mix of stablecoins and governance tokens across Ethena, Hyperliquid, Aster, and Sky under SEC-compliant structures, seeking steady DeFi income and protocol participation while reducing single-token reliance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/mega-matrix-expands-2b-multi-stablecoin-treasury/\"\u003eMega Matrix to Expand $2B Digital Asset Treasury into Multi-Stablecoin Framework\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/mega-matrix-expands-2b-multi-stablecoin-treasury/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "DeFi",
+        "Digital Asset Treasury",
+        "Mega Matrix"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/09/12134458/1757684698-what-is-real-world-asset-tokenization.jpg"
+      },
+      "published": "2025-10-01T15:13:12Z"
+    }
+  },
+  {
+    "hash": "ac45e3ecc655b94f20c04e95c70209902e7b449e394e79530884af0311dd4698",
+    "item": {
+      "title": "SunPerp Becomes First Perpetual Futures DEX on TRON, Nears $30M TVL: CryptoQuant",
+      "description": "\u003cp\u003eSunPerp has launched on TRON as a perpetual futures DEX, supporting BTC, ETH, SOL, XRP, DOGE, and BNB with USDT settlement. CryptoQuant has reported near-$30M TVL, strong deposit activity, deep aggregated liquidity, millisecond matching, and zero-gas trading designed for frequent strategies.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sunperp-becomes-first-perpetual-futures-dex-on-tron-hits-30m-tvl-cryptoquant/\"\u003eSunPerp Becomes First Perpetual Futures DEX on TRON, Nears $30M TVL: CryptoQuant\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sunperp-becomes-first-perpetual-futures-dex-on-tron-hits-30m-tvl-cryptoquant/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "CryptoQuant",
+        "DEX",
+        "Tron"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22165130/1745340689-1724249679-tron-koers_optimized.webp"
+      },
+      "published": "2025-10-01T13:12:39Z"
+    }
   }
 ]
