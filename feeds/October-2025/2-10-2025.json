@@ -3389,5 +3389,410 @@
       },
       "published": "2025-10-02T15:14:24Z"
     }
+  },
+  {
+    "hash": "79eb080a5c025a1781d82216726f226d6dfbe606a4e5a19d9e0f88a29d2c0ec3",
+    "item": {
+      "title": "Linux 6.18 To More Reliably Handle 255+ vCPUs On AMD EPYC Servers",
+      "description": "For those wanting to run virtual machines with more than 255 vCPUs on modern AMD EPYC servers, an important code refactoring was merged for Linux 6.18 to ensure the proper topology information is exposed to KVM guest VMs...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-Better-EPYC-256-vCPU"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-02T20:55:00Z"
+    }
+  },
+  {
+    "hash": "47865c1789e68b58451fe7c6365fe623a5d333a055fc26524e7d0495d804a5ea",
+    "item": {
+      "title": "Linus Torvalds Vents Over \"Completely Crazy Rust Format Checking\"",
+      "description": "After Linus Torvalds yesterday shot down RISC-V big endian prospects for the Linux kernel, today he has used his authority to wage a war on \"crazy\" Rust code formatting as well as to critique poor text formatting...",
+      "links": [
+        "https://www.phoronix.com/news/Linus-Torvalds-Rust-Formatting"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-02T20:14:00Z"
+    }
+  },
+  {
+    "hash": "ed7bf62d9bcef504e36e95db6f892ebf339fbe0e313e7ddfcdd5de88ccb95353",
+    "item": {
+      "title": "ZLUDA 5 Released With An Offline Compiler For CUDA On Non-NVIDIA GPUs",
+      "description": "ZLUDA 5 is out today as the newest version of this open-source software for running CUDA software on non-NVIDIA GPUs...",
+      "links": [
+        "https://www.phoronix.com/news/ZLUDA-5-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-02T18:32:08Z"
+    }
+  },
+  {
+    "hash": "0c89a09fab4f979e5d13caf02c3ce905ba663acfe8df1de65f12fe773fd2fd62",
+    "item": {
+      "title": "Babel is why I keep blogging with Emacs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453222\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://entropicthoughts.com/why-stick-to-emacs-blog"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:06:41Z"
+    }
+  },
+  {
+    "hash": "302f53cbd72c72114daa41a8e5e5a90326d9f21cd7cb2b07aab03c18958b5795",
+    "item": {
+      "title": "Playball – Watch MLB games from a terminal",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451577\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/paaatrick/playball"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T16:09:15Z"
+    }
+  },
+  {
+    "hash": "3c7369fe59f8e063c4349f4d18f305e4cc34c272d3ad2a680890c037bb41f18c",
+    "item": {
+      "title": "Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45454460\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T19:39:08Z"
+    }
+  },
+  {
+    "hash": "bc600374e7a03453da4ba2bdba81a5587901be21101aaaaf0e7eae5517f3387f",
+    "item": {
+      "title": "Why most product planning is bad and what to do about it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45454374\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.railway.com/p/product-planning-improvement"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T19:34:08Z"
+    }
+  },
+  {
+    "hash": "5c56d5cb9e653cac9927fc64c0a7a236be6d9108296c40c8a3208dc116ddeed4",
+    "item": {
+      "title": "RISC-V Conditional Moves",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45413059\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.corsix.org/content/riscv-conditional-moves"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T12:47:45Z"
+    }
+  },
+  {
+    "hash": "62806f7213ffea36c8527b1a3aa1df5079ff998b5da420196a54c532eff17600",
+    "item": {
+      "title": "Gemini 3.0 Pro – early tests",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453448\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/chetaslua/status/1973694615518880236"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:26:57Z"
+    }
+  },
+  {
+    "hash": "1c4a5b17af93375a93f3e6deb398da52c1c861e9bef2f7dce1dbd9703f859b23",
+    "item": {
+      "title": "A simple habit that saves my evenings",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45412870\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T12:29:29Z"
+    }
+  },
+  {
+    "hash": "3489add7436f035cb90a951e549d927a75c286ec13c386379160c253b8eaa91e",
+    "item": {
+      "title": "The Answer (1954)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453299\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sfshortstories.com/?p=5983"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:13:24Z"
+    }
+  },
+  {
+    "hash": "417e569dd7ee4828eae1ba93ec31b1fd2073c7d0a986b1714364f49ec1230aff",
+    "item": {
+      "title": "Show HN: Traceroute Visualizer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45411514\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kriztalz.sh/traceroute-visualizer/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-29T08:31:36Z"
+    }
+  },
+  {
+    "hash": "f924fb81260aaefb0ce176a36336ea5b9da70fb2b9494771bdfad7f06d592a20",
+    "item": {
+      "title": "Email immutability matters more in a world with AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453135\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.fastmail.com/blog/not-written-with-ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:00:27Z"
+    }
+  },
+  {
+    "hash": "f594de2106cf8cf3d8e5fe609d2bf167d9fbd73c14eb7e67d83cdeb85338feee",
+    "item": {
+      "title": "Potential issues in curl found using AI assisted tools",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45449348\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mastodon.social/@bagder/115241241075258997"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T13:29:55Z"
+    }
+  },
+  {
+    "hash": "c4ac7723f7572349b73f0ad9523d625b86d7289b2aa310c3ae28107e2eb31e20",
+    "item": {
+      "title": "OpenAI's H1 2025: $4.3B in income, $13.5B in loss",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453586\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:37:28Z"
+    }
+  },
+  {
+    "hash": "d6a9996868c9d0c2dddf0026ead878500ba25e9e1087f860e17ef8aff0221dc1",
+    "item": {
+      "title": "Zcash (ZEC) Explodes 100% as Privacy Coin Demand Surges Amid Uptober Rally",
+      "description": "\u003cp\u003eZcash has more than doubled, reaching its highest since April 2022 as privacy demand, zk-SNARK momentum, and Grayscale access have lifted volume and market cap above $1.8B, while EU AML rules have planned restrictions on privacy coins by 2027.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/zcash-zec-explodes-100-as-privacy-coin-demand-surges-amid-uptober-rally/\"\u003eZcash (ZEC) Explodes 100% as Privacy Coin Demand Surges Amid Uptober Rally\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/zcash-zec-explodes-100-as-privacy-coin-demand-surges-amid-uptober-rally/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Privacy",
+        "zcash"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02202303/1759436583-0_2-15_optimized.jpg"
+      },
+      "published": "2025-10-02T21:02:16Z"
+    }
+  },
+  {
+    "hash": "d114c884c93636ef1e5ff468b92848489f87305b129305cfb52911fdfe685efd",
+    "item": {
+      "title": "Sharps Technology Unveils $100M Solana Buyback – Are Treasury Firms Turning Sour on SOL?",
+      "description": "\u003cp\u003eSharps Technology has approved a $100M repurchase and secured a $400M PIPE supporting its Solana treasury, alongside an MoU for discounted SOL. STSS has declined while SOL has gained, reflecting divergent trends into Q4.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sharps-technology-unveils-100m-solana-buyback-are-treasury-firms-turning-sour-on-sol/\"\u003eSharps Technology Unveils $100M Solana Buyback – Are Treasury Firms Turning Sour on SOL?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sharps-technology-unveils-100m-solana-buyback-are-treasury-firms-turning-sour-on-sol/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Buyback Program",
+        "Digital Asset Treasury",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02163140/1759422699-c67bc426-539e-49ff-9aca-3c89a76f97e3_optimized.jpg"
+      },
+      "published": "2025-10-02T20:51:18Z"
+    }
+  },
+  {
+    "hash": "eb8d9f9c3460bb74c4c5bbdf07235a32b8110f74971c4da6b1aaf51975b06641",
+    "item": {
+      "title": "PUMP Price Prediction: Key Indicator Just Flashed Green – PUMP is About to Explode Higher",
+      "description": "\u003cp\u003ePump.fun’s native token has jumped 32% in the past 7 days, and technical indicators now point to even bigger gains ahead, supporting a bullish Pump price prediction.The surge follows a major spotlight from ARK Invest, which featured Pump.fun in its latest ARK Disrupt newsletter.The ARK Research Institute described the platform as “TikTok for Crypto,” highlighting [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pump-price-prediction-key-indicator-just-flashed-green-pump-is-about-to-explode-higher/\"\u003ePUMP Price Prediction: Key Indicator Just Flashed Green – PUMP is About to Explode Higher\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pump-price-prediction-key-indicator-just-flashed-green-pump-is-about-to-explode-higher/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "Price Prediction",
+        "PUMP Token",
+        "pump.fun"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02121620/1759407380-pump-price-prediction.jpg"
+      },
+      "published": "2025-10-02T19:08:56Z"
+    }
+  },
+  {
+    "hash": "0d6584966df6e5d46dadbfa3edbf1f8d1c9012ff727347e5fcd1070786d97404",
+    "item": {
+      "title": "Pantera Capital Founder Dan Morehead Refusing To Cooperate In Tax Avoidance Probe, Senator Claims",
+      "description": "\u003cp\u003ePantera Capital has drawn attention after Sen. Ron Wyden has alleged founder Dan Morehead has avoided more than $100M in U.S. taxes by misrepresenting residency and using a Puerto Rico program, and has requested a response by Oct. 15 regarding treatment of gains reportedly realized around his move.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pantera-capital-founder-dan-morehead-refusing-to-cooperate-in-tax-evasion-probe-senator-claims/\"\u003ePantera Capital Founder Dan Morehead Refusing To Cooperate In Tax Avoidance Probe, Senator Claims\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pantera-capital-founder-dan-morehead-refusing-to-cooperate-in-tax-evasion-probe-senator-claims/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Pantera Capital",
+        "Taxes",
+        "US Senators"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02182317/1759429397-julia_63915_the_senate_building_in_washington_d-c-_overlaid_wit_9d4a1c3d-ed6c-4d70-b1ff-11227cf844d5-png_optimized.jpg"
+      },
+      "published": "2025-10-02T19:01:13Z"
+    }
+  },
+  {
+    "hash": "c2a244e6f2848a725bed5dd371e1ddf7b0966cc7ceb582208274aa1446f2debc",
+    "item": {
+      "title": "Cardano Price Prediction: End of 2025 Roadmap Revealed – Could ADA Be the Most Undervalued Altcoin Right Now?",
+      "description": "\u003cp\u003eCardano price prediction has reflected rising institutional access via Hashdex’s index ETF and the Foundation’s 2025 roadmap with liquidity and governance plans. ADA has held support, has tested mid-channel resistance near $0.90, and has eyed $1–$1.30 if strength has persisted.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-end-of-2025-roadmap-revealed-could-ada-be-the-most-undervalued-altcoin-right-now/\"\u003eCardano Price Prediction: End of 2025 Roadmap Revealed – Could ADA Be the Most Undervalued Altcoin Right Now?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-end-of-2025-roadmap-revealed-could-ada-be-the-most-undervalued-altcoin-right-now/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cardano",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/23143521/1758638120-cardano-price-prediction.jpg"
+      },
+      "published": "2025-10-02T18:40:58Z"
+    }
+  },
+  {
+    "hash": "5cfff2cb9a9cfb896735f412ea04c2c3744d35f9246bdb6cdd695d7197732ead",
+    "item": {
+      "title": "‘Uptober’ Kickoff: Meme Coins Rebound to $81B as Snorter Bot Token Nears Presale Close in 18 Days",
+      "description": "\u003cp\u003eWith Bitcoin and meme coins having advanced to start Uptober, Snorter has been described as a Solana Telegram trading bot that has tracked new mints, liquidity, and safety filters for early discovery, while its presale has moved toward completion and traders have weighed a 2025 meme coin cycle.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/uptober-meme-caps-81b-snorter-presale-nears-close/\"\u003e‘Uptober’ Kickoff: Meme Coins Rebound to $81B as Snorter Bot Token Nears Presale Close in 18 Days\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/uptober-meme-caps-81b-snorter-presale-nears-close/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Snorter"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02183240/1759429959-image-63-1024x1024-1.jpg"
+      },
+      "published": "2025-10-02T18:37:24Z"
+    }
+  },
+  {
+    "hash": "3e71defe48a387aa5dbc0ae0e960fddcb789c4f5f048208f3f167d18af67af87",
+    "item": {
+      "title": "Dogecoin Leads ‘Uptober’ Meme Coin Rally With Analyst Eyeing $1.56 Target – But This Jacked Up Pup Could Run Even Harder",
+      "description": "\u003cp\u003eMeme coins have rebounded to open October, and Maxi Doge has been presented as a challenger to Dogecoin, detailing presale allocation focused on marketing, third-party audits, and staking terms, while analyst projections for DOGE have been discussed for possible sector effects.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-leads-uptober-maxi-doge-hype-builds/\"\u003eDogecoin Leads ‘Uptober’ Meme Coin Rally With Analyst Eyeing $1.56 Target – But This Jacked Up Pup Could Run Even Harder\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-leads-uptober-maxi-doge-hype-builds/"
+      ],
+      "categories": [
+        "News",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Maxi Doge"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02182515/1759429514-image-60-1024x1024-1.jpg"
+      },
+      "published": "2025-10-02T18:30:31Z"
+    }
+  },
+  {
+    "hash": "f8c7b19054dadbdc753a79b4fafa37a61582960a7db36e84c20a050acabb4e8b",
+    "item": {
+      "title": "LunarCrush Data: XRP Conversation Surges on Ondo OUSG Launch – Sustainable or Spike?",
+      "description": "\u003cp\u003eLunarCrush metrics covering XRP have reported sharp mention growth, a Galaxy Score of 68, improved AltRank, and higher social dominance as Ripple collaborates with Ondo Finance to add OUSG tokenized Treasuries to the XRP Ledger using RLUSD for settlement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/treasure-hunt-lunarcrush-data-tracks-how-ondo-deal-sends-xrp-mentions-soaring/\"\u003eLunarCrush Data: XRP Conversation Surges on Ondo OUSG Launch – Sustainable or Spike?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/treasure-hunt-lunarcrush-data-tracks-how-ondo-deal-sends-xrp-mentions-soaring/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Ondo",
+        "Tokenization",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02170045/1759424445-image-1759424418935_optimized.jpg"
+      },
+      "published": "2025-10-02T18:21:16Z"
+    }
   }
 ]
