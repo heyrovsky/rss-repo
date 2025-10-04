@@ -680,5 +680,123 @@
       },
       "published": "2025-10-03T22:10:32Z"
     }
+  },
+  {
+    "hash": "63dc0cdb84811f21a3484a4245663ac45c5623865b9f11d766e6db54511991be",
+    "item": {
+      "title": "Notice: Brief Server Downtime Overnight",
+      "description": "Just a friendly heads-up that some brief downtime of Phoronix.com will happen overnight due to replacing a drive in the web server's RAID array...",
+      "links": [
+        "https://www.phoronix.com/news/Brief-Downtime-RAID-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-04T01:00:00Z"
+    }
+  },
+  {
+    "hash": "1ea1613dd4ec2ed47d229b96a25dbb032d4f5f573ec19048baecdfdc15984064",
+    "item": {
+      "title": "Linux 6.18 Device Tree Prepares For Arm C1 Nano / Pro / Premium / Ultra CPUs",
+      "description": "In addition to the Arm and RISC-V SoC changes and new platforms/machines added for the Linux 6.18 kernel, the separate Device Tree pull request was merged for this next kernel version that also now adds the strings for the upcoming Arm C1 Nano, Pro, Premium, and Ultra processor cores...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-Device-Tree"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-03T13:47:24Z"
+    }
+  },
+  {
+    "hash": "2882a5b6cd9814cc4796c73871053c676e3420e3af0611b4629d1e855f340866",
+    "item": {
+      "title": "Track which Electron apps slow down macOS 26 Tahoe",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469468\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://avarayr.github.io/shamelectron/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T00:45:40Z"
+    }
+  },
+  {
+    "hash": "d26f45a8520d691dd345ecc3990879788a7c8454c16efe659844e482aa4f9995",
+    "item": {
+      "title": "Binary Formats Gallery",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469285\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://formats.kaitai.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T00:19:02Z"
+    }
+  },
+  {
+    "hash": "5741748242c5ae7c30bc0474b991eb4a7d350a247316e9fef451004399ebf474",
+    "item": {
+      "title": "AI predicts antibiotic's IBD mechanism–scientists later confirm",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T01:09:37Z"
+    }
+  },
+  {
+    "hash": "73664b68d1daa6f031fa6797d3bcc49405a92b0771131cde8102a5693bbd4bab",
+    "item": {
+      "title": "Discrete Fourier Transform",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45422315\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nima101.github.io/dft"
+      ],
+      "source": "Hacker News",
+      "published": "2025-09-30T05:46:34Z"
+    }
+  },
+  {
+    "hash": "e3861d2faae92c961bdb88466fe1b2b7e874b5ef28b24576c39ccbe968a271d1",
+    "item": {
+      "title": "Old Stockholm Telephone Tower",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45447057\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T07:12:18Z"
+    }
+  },
+  {
+    "hash": "975e176e27b990487d9ce0f2f3c66030205582d4a9a9896ad3b3d0a8a4bc6ba8",
+    "item": {
+      "title": "Against the Uncritical Adoption of 'AI' Technologies in Academia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45468579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zenodo.org/records/17065099"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T22:29:15Z"
+    }
+  },
+  {
+    "hash": "ed142fe006ccb7dcdbbc713abfa00274407f7022ef9c2242f8e785d1d562c7a0",
+    "item": {
+      "title": "Discord customer service data breach leaks user info and scanned photo IDs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469436\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T00:39:04Z"
+    }
   }
 ]
