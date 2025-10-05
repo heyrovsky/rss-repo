@@ -1393,5 +1393,285 @@
       },
       "published": "2025-10-05T10:06:20Z"
     }
+  },
+  {
+    "hash": "693e85b3b966943b76c87607ec27f81dec95777a54f395170edcd8fffef3be07",
+    "item": {
+      "title": "Linux 6.18 DRM Pull Includes New Tyr \u0026 Rocket Drivers, More AMD \u0026 Intel GPU Enhancements",
+      "description": "The Direct Rendering Manager \"DRM\" pull request ended up leading to Linus Torvalds complaining over text and Rust code formatting but in the end he pulled all of these kernel graphics driver updates and also the associated \"accel\" accelerator subsystem drivers too...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-DRM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-05T13:34:19Z"
+    }
+  },
+  {
+    "hash": "cb6f4d1889da31858406df93faba329a5ec140998a8f6a1c0fde55da49d863b8",
+    "item": {
+      "title": "Retiring Test-Ipv6.com",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45481609\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://retire.test-ipv6.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T14:11:37Z"
+    }
+  },
+  {
+    "hash": "3b5620f2ae81b7a23372382009797131fb8e29c91fb2a59d90b8b750e1a79f9e",
+    "item": {
+      "title": "The deadline isn't when AI outsmarts us – it's when we stop using our own minds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480622\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theargumentmag.com/p/you-have-18-months"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T11:08:25Z"
+    }
+  },
+  {
+    "hash": "44f5352577028331be587d74dbc87b73700d7b7897e890504d479d8f082a73fe",
+    "item": {
+      "title": "Show HN: Pyscn – Python code quality analyzer for vibe coders",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45481298\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ludo-technologies/pyscn"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T13:22:31Z"
+    }
+  },
+  {
+    "hash": "029094e952878563843e1f8d051294781541445bffd9c1a7c11806eda3323b3b",
+    "item": {
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45481008\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T12:27:11Z"
+    }
+  },
+  {
+    "hash": "e4058b1996f3f5af34331e2ef6bcd4068a2894b5729706728c7fa123d77f88e6",
+    "item": {
+      "title": "Experimental and Theoretical Confirmation of Covalent Bonding in α-Pu",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45444926\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202501798"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T23:42:00Z"
+    }
+  },
+  {
+    "hash": "8d63c137fb48e25bf7812de56a802fdcd269370bd747193c500bb3a98656fd6a",
+    "item": {
+      "title": "Self hosting 10TB in S3 on a framework laptop and disks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480317\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T09:51:26Z"
+    }
+  },
+  {
+    "hash": "7fe0c8cbd2eaa3ebe49bbf0e35dc9058711bd36e8eb242ca3dcc0cd0795b565b",
+    "item": {
+      "title": "I do not want to be a programmer anymore",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45481490\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T13:53:41Z"
+    }
+  },
+  {
+    "hash": "118a48a6eaa75ad6a28f6d2ea46c2547c72543998c81a7f80eb825c539f63395",
+    "item": {
+      "title": "Which Table Format Do LLMs Understand Best?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45458455\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.improvingagents.com/blog/best-input-data-format-for-llms"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T02:59:18Z"
+    }
+  },
+  {
+    "hash": "db704d60125d55de10be0cadf49881513a0a72bf68c11629af960135739a4d9b",
+    "item": {
+      "title": "Benefits of choosing email over messaging",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45479820\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.spinellis.gr/blog/20250926/?li"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T08:12:24Z"
+    }
+  },
+  {
+    "hash": "aac6eb07d469c30afb5bba58db58be01e41803cbe9a1d4672d0f35be23f3345c",
+    "item": {
+      "title": "1Password CLI Vulnerability (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45478553\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codeberg.org/manchicken/1password-cli-vuln-disclosure"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T03:01:50Z"
+    }
+  },
+  {
+    "hash": "12afaf38a77a22393a530dc310a46531d7bb19bbb3741c201b14495783103a37",
+    "item": {
+      "title": "Hobby Hilbert Simplex",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480414\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T10:14:40Z"
+    }
+  },
+  {
+    "hash": "94cfd64ac47eb4a1ec6db221cd8c1d7864549485a34f50aa5a53b095f3fb17e7",
+    "item": {
+      "title": "Best Crypto Presale 2025: MAGACOIN FINANCE Surpasses $14.5M While DOGE and LINK Investors Pile In",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"800\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/MAGACOIN.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Best Crypto Presale 2025: MAGACOIN FINANCE Surpasses $14.5M While DOGE and LINK Investors Pile In\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/MAGACOIN.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/10/MAGACOIN-300x200.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/MAGACOIN-1024x683.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/MAGACOIN-768x512.png 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eMAGACOIN FINANCE’s presale success has hit the headlines. Its presale just crossed $14.5 million, drawing attention from retail backers and big wallets alike. What makes matters more compelling: whales and smart money from DOGE and LINK communities are reportedly redirecting capital into this rising presale. As speculation swirls around institutional",
+      "links": [
+        "https://thenewscrypto.com/best-crypto-presale-2025-magacoin-finance-surpasses-14-5m-while-doge-and-link-investors-pile-in/"
+      ],
+      "categories": [
+        "Press Release",
+        "Crypto",
+        "DOGE",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/MAGACOIN.png"
+      },
+      "published": "2025-10-05T07:08:49Z"
+    }
+  },
+  {
+    "hash": "e23d97d3b68b0cf4abc82794b9f6701f4ad83cfa93be0298ce33bb6f9c7f21b8",
+    "item": {
+      "title": "Traders Flip Bearish on Solana (SOL) Meme Coins as New Ethereum Token Flashes 18720% Potential",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-5.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Traders Flip Bearish on Solana (SOL) Meme Coins as New Ethereum Token Flashes 18720% Potential\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-5.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-5-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-5-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eTraders are growing cautious about the Solana (SOL) meme coin market just as a new Ethereum (ETH) based token, Little Pepe (LILPEPE), shows the kind of early strength that has analysts talking about a possible 19,720% upside. In months, this shift has created one of the most interesting rotations in",
+      "links": [
+        "https://thenewscrypto.com/traders-flip-bearish-on-solana-sol-meme-coins-as-new-ethereum-token-flashes-18720-potential/"
+      ],
+      "categories": [
+        "Press Release",
+        "Little Pepe ($LILPEPE)",
+        "memecoin",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-5.jpg"
+      },
+      "published": "2025-10-05T06:59:48Z"
+    }
+  },
+  {
+    "hash": "12835f9f43dcf5b17618dc0a9dc62b7c9f1d84948cff598043d0fc575fa4dc56",
+    "item": {
+      "title": "Teen Crypto Trader Who Made $1.2M on Solana Meme Coins Pivots to New Ethereum-Based Token Going Viral, and So Should You: Here’s Why",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"290\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-4.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Teen Crypto Trader Who Made $1.2M on Solana Meme Coins Pivots to New Ethereum-Based Token Going Viral, and So Should You: Here\u0026#039;s Why\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-4.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-4-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-4-376x212.jpg 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eA teenage crypto trader who pocketed $1.2 million by riding the Solana meme coin wave has just shifted gears to an Ethereum-based token that is gaining viral momentum. The coin is Little Pepe, now in its presale Stage 13 at $0.0022 at the time of writing. This is a significant",
+      "links": [
+        "https://thenewscrypto.com/teen-crypto-trader-who-made-1-2m-on-solana-meme-coins-pivots-to-new-ethereum-based-token-going-viral-and-so-should-you-heres-why/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Little PEPE",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-4.jpg"
+      },
+      "published": "2025-10-05T06:55:17Z"
+    }
+  },
+  {
+    "hash": "a4ea1030fe4a6e8327fb526282da5764940095837d6864d7b6c48e36039a2e65",
+    "item": {
+      "title": "Hedera (HBAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hedera (HBAR) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hedera (HBAR) price prediction for 2025, 2026-2030, we will analyze the price patterns of HBAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hedera (HBAR) Current Market Status What is Hedera (HBAR)? Hedera (HBAR) 24H Technicals HEDERA",
+      "links": [
+        "https://thenewscrypto.com/hedera-hbar-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-10-04T16:43:30Z"
+    }
+  },
+  {
+    "hash": "6c6fd64f0b35254ea733854921a0207c2de61c6f41dd30cf09901fdba9751a28",
+    "item": {
+      "title": "Bitcoin Price Prediction: After ATH, Only $128,000 Stands Between BTC and an Exponential Rise to $160,000",
+      "description": "\u003cp\u003eBitcoin price prediction: BTC consolidates near $124K, with $128K as the final hurdle before a potential breakout toward $160K.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-after-ath-only-128000-stands-between-btc-and-an-exponential-rise-to-160000/\"\u003eBitcoin Price Prediction: After ATH, Only $128,000 Stands Between BTC and an Exponential Rise to $160,000\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-after-ath-only-128000-stands-between-btc-and-an-exponential-rise-to-160000/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/22171914/1755883153-bitcoin-price-prediction-5.jpg"
+      },
+      "published": "2025-10-05T14:57:33Z"
+    }
   }
 ]
