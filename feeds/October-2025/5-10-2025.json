@@ -918,5 +918,480 @@
       },
       "published": "2025-10-04T09:09:00Z"
     }
+  },
+  {
+    "hash": "da15c03eff48c5b6b7df15cdcab184c6ede25563efb5978a2b566b205a5ff90e",
+    "item": {
+      "title": "Improved Diagnostics For GCC 16 - Including Support For Outputting To HTML",
+      "description": "Next year's GCC 16 compiler release is continuing the trend of enhancing the compiler diagnostics support, including new features like optionally outputting compiler error/warning diagnostics to HTML format for better analysis...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-16-Diagnostics"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-05T10:39:00Z"
+    }
+  },
+  {
+    "hash": "bf38b2fe039418f7a5e0d4f999d788170cc8aa52a64526ae5d71ce885da1c0aa",
+    "item": {
+      "title": "Haptic Touchpad Support Makes It Into Linux 6.18",
+      "description": "The HID changes have been merged for Linux 6.18 and are headlined by initial support in the mainline kernel for haptic touchpad handling...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-HID"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-05T10:17:37Z"
+    }
+  },
+  {
+    "hash": "bcc8dba15bb10c55875b81ee0d646d200b2eae3cd075ac015eb6c8a5a10f09ea",
+    "item": {
+      "title": "Case-Insensitive OverlayFS Support Merged For Linux 6.18",
+      "description": "For benefiting container usage on Linux, support for case-folding / case insensitive files and folder support has been added to OverlayFS...",
+      "links": [
+        "https://www.phoronix.com/news/Case-Insensitive-Overlay-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-05T10:00:06Z"
+    }
+  },
+  {
+    "hash": "c52b054a112ecf0885239406e9e50734b6fbdf9e78f3ed7c6b3ecaf0bd1c3b5a",
+    "item": {
+      "title": "AMD Versal TRNG Driver Upstreamed To Linux 6.18, Intel Adds New Telemetry For QAT Gen6",
+      "description": "All of the crypto subsystem changes have been merged for the in-development Linux 6.18 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-Crypto"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-05T09:43:28Z"
+    }
+  },
+  {
+    "hash": "cae08fe61610e8b1c8ec1b28ffce9bcd0a0b566419b9d0b52a3feddd22b617d5",
+    "item": {
+      "title": "Personal data storage is an idea whose time has come",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480106\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.muni.town/personal-data-storage-idea/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T09:07:38Z"
+    }
+  },
+  {
+    "hash": "4edd2cacad033b4665e6a5da6fdc822e36ca0b4b0fd5b6d6510a1defb0217c4d",
+    "item": {
+      "title": "Beginner Guide to VPS Hetzner and Coolify",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480506\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T10:39:12Z"
+    }
+  },
+  {
+    "hash": "bf6ac5a8cc23d1aef26902e06f34621152eb5da3ffa02bf41f66a47ca16be876",
+    "item": {
+      "title": "Managing context on the Claude Developer Platform",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45479006\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/context-management"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T05:20:08Z"
+    }
+  },
+  {
+    "hash": "e1b312fcfd2c8362e2fea03bc0c70d9ffbb001ef96968196b8e5789876e19464",
+    "item": {
+      "title": "Social Cooling (2017)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45479165\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.socialcooling.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T06:01:24Z"
+    }
+  },
+  {
+    "hash": "7661bf03b7b7d575640c8ebe9a47778448a4fd0e37b9dac44713b843e6dd4b08",
+    "item": {
+      "title": "Leveling Up My Homelab",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45442221\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cweagans.net/2025/09/leveling-up-my-homelab/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T19:32:49Z"
+    }
+  },
+  {
+    "hash": "0fb213ddf99a345c2517429699393fb3db3edec289696b910b76731958ca3ac3",
+    "item": {
+      "title": "Comparing a RISC and a CISC with Similar Hardware Organization (1991)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45452480\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dl.acm.org/doi/pdf/10.1145/106972.107003"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T17:12:57Z"
+    }
+  },
+  {
+    "hash": "34f4372d1a00a41d01fb54843e93d2f8618bd2b140884fed554b237297088de1",
+    "item": {
+      "title": "Skills I Was Missing as a MongoDB User",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45450918\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.mongodb.com/company/blog/technical/10-skills-was-missing-as-mongodb-user"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T15:21:39Z"
+    }
+  },
+  {
+    "hash": "9c504fe0c9a9f026b4f429f3effbbfa828c648ce99d0ea882b2e33d86bdeb680",
+    "item": {
+      "title": "Show HN: 2D Spine Animation AI for Game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438288\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.godmodeai.co/ai-spine-animation"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-01T14:42:03Z"
+    }
+  },
+  {
+    "hash": "1db4b6b343468ee7460b8714bb44b01f9698f7093b587b814e49ba5d08247e6f",
+    "item": {
+      "title": "Laptops create systems. Phones feed algorithms. The asymmetry determines power",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480620\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zakelfassi.com/command-interface-device-power"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T11:07:53Z"
+    }
+  },
+  {
+    "hash": "49b5707b84ec5b46a815c5e90186d56ae8a4a27f0fe317993caac124a9a79470",
+    "item": {
+      "title": "Bitwise Files S-1 for Aptos ETF, CEO Cites ‘Momentum in Aptos Ecosystem’",
+      "description": "\u003cp\u003eCrypto asset manager Bitwise filed an S-1 registration for an Aptos ETF to formalize its proposal following initial administrative steps to register the trust entity in Delaware, as Bitwise CEO Hunter Horsley confirmed the filing citing that Aptos Layer-1 blockchain has led development activities among new blockchain entrants by over 897% while expressing enthusiasm about \"the momentum in the Aptos ecosystem.\"\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitwise-files-s-1-for-aptos-etf-ceo-cites-momentum-in-aptos-ecosystem/\"\u003eBitwise Files S-1 for Aptos ETF, CEO Cites \u0026#8216;Momentum in Aptos Ecosystem\u0026#8217;\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitwise-files-s-1-for-aptos-etf-ceo-cites-momentum-in-aptos-ecosystem/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Aptos",
+        "Bitwise",
+        "ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05114658/1759664817-stock-image_optimized-81.webp"
+      },
+      "published": "2025-10-05T12:02:34Z"
+    }
+  },
+  {
+    "hash": "ec38341654f2bd6b374d47fd4b2b1ea95d38ce5c35960752a0db12226a321942",
+    "item": {
+      "title": "XRP Price Prediction: CLS Mining Enables XRP Holders to Seize Market Opportunities",
+      "description": "\u003cp\u003eClSMining is a leading cloud mining service provider, committed to providing users around the world with a secure, convenient, and efficient way to acquire digital assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-price-prediction-cls-mining-enables-xrp-holders-to-seize-market-opportunities/\"\u003eXRP Price Prediction: CLS Mining Enables XRP Holders to Seize Market Opportunities\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-price-prediction-cls-mining-enables-xrp-holders-to-seize-market-opportunities/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/04211551/1759612550-cls-mining.jpg"
+      },
+      "published": "2025-10-05T12:00:00Z"
+    }
+  },
+  {
+    "hash": "e6ea96ba7dd5ab41f86e0c5fc6844c2fb1986dbda5c31e873f8851eafba8b796",
+    "item": {
+      "title": "US Government Shutdown Crisis: Financial Market Turmoil Intensifies, But Investors Flock to H Mining",
+      "description": "\u003cp\u003eConfronted with the instability of traditional financial markets, global investors are rapidly turning their attention to the cryptocurrency sector, specifically to cloud mining platforms like H Mining.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/us-government-shutdown-crisis-financial-market-turmoil-intensifies-but-investors-flock-to-h-mining/\"\u003eUS Government Shutdown Crisis: Financial Market Turmoil Intensifies, But Investors Flock to H Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/us-government-shutdown-crisis-financial-market-turmoil-intensifies-but-investors-flock-to-h-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/04205913/1759611553-h-mining.jpg"
+      },
+      "published": "2025-10-05T11:45:00Z"
+    }
+  },
+  {
+    "hash": "ae3b23420794eaeefb5803a88e9258c8e749f9f7ed4336bda51bb81bd01a69aa",
+    "item": {
+      "title": "XRP Price Surge Spurs Altcoin Rally, IOTA Miner Cloud Mining Offers Fresh Opportunities",
+      "description": "\u003cp\u003eIn response to the bullish market momentum, the cloud mining platform IOTA Miner has completed an upgrade and now supports high-yield XRP mining projects.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-price-surge-spurs-altcoin-rally-iota-miner-cloud-mining-offers-fresh-opportunities/\"\u003eXRP Price Surge Spurs Altcoin Rally, IOTA Miner Cloud Mining Offers Fresh Opportunities\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-price-surge-spurs-altcoin-rally-iota-miner-cloud-mining-offers-fresh-opportunities/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/04203514/1759610114-iota-miner.jpg"
+      },
+      "published": "2025-10-05T11:30:00Z"
+    }
+  },
+  {
+    "hash": "d672d45b5edd80a5da6c15cae8fe114b441c4c44618715da4951cca6474d571f",
+    "item": {
+      "title": "Bitwise CIO: Solana Will Be Wall Street’s Go-To Network for Stablecoins and Tokenization",
+      "description": "\u003cp\u003eBitwise CIO believes Solana’s speed positions it as Wall Street’s preferred blockchain for stablecoins and tokenization.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitwise-cio-solana-will-be-wall-streets-go-to-network-for-stablecoins-and-tokenization/\"\u003eBitwise CIO: Solana Will Be Wall Street’s Go-To Network for Stablecoins and Tokenization\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitwise-cio-solana-will-be-wall-streets-go-to-network-for-stablecoins-and-tokenization/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitwise",
+        "SOL",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05081611/1759652171-image-1759649782820_optimized.jpg"
+      },
+      "published": "2025-10-05T11:23:00Z"
+    }
+  },
+  {
+    "hash": "ce0a1f906cc85ba3d230fc0ca088dc74663e0596267acaccf4b26bdb01775b4b",
+    "item": {
+      "title": "Ethereum-Based Mutuum Finance (MUTM) Token Surpasses 740M Allocated and Solidifies Investor Confidence with 250% Token Growth",
+      "description": "\u003cp\u003eIn a year when many crypto presales have fizzled out after short bursts of momentum, Mutuum Finance (MUTM) has quietly built a very different story.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ethereum-based-mutuum-finance-mutm-token-surpasses-740m-allocated-and-solidifies-investor-confidence-with-250-token-growth/\"\u003eEthereum-Based Mutuum Finance (MUTM) Token Surpasses 740M Allocated and Solidifies Investor Confidence with 250% Token Growth\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ethereum-based-mutuum-finance-mutm-token-surpasses-740m-allocated-and-solidifies-investor-confidence-with-250-token-growth/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/04202028/1759609228-mutuum-finance.jpg"
+      },
+      "published": "2025-10-05T11:15:00Z"
+    }
+  },
+  {
+    "hash": "8f7594575de72434d9ab9c8e63fe60c49909aad5a68e3fdf13cbcc44cb4aa123",
+    "item": {
+      "title": "Why Cardano (ADA) Holders Are Betting Big on BlockchainFX’s Multi-Asset Future",
+      "description": "\u003cp\u003eCardano holders join BlockchainFX for daily USDT rewards, multi-asset trading, and professional tools. The ongoing presale has raised $8.5M.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/why-cardano-ada-holders-are-betting-big-on-blockchainfxs-multi-asset-future/\"\u003eWhy Cardano (ADA) Holders Are Betting Big on BlockchainFX\u0026#8217;s Multi-Asset Future\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/why-cardano-ada-holders-are-betting-big-on-blockchainfxs-multi-asset-future/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/02205617/1759438577-blockchainfx.jpg"
+      },
+      "published": "2025-10-05T11:00:00Z"
+    }
+  },
+  {
+    "hash": "fe9ede380b289e68db51e23666652c39f0f6fd51b4eb5f686b0f1a7d08518e15",
+    "item": {
+      "title": "Stripe CEO: Stablecoins Will Force Banks to Offer Competitive Deposit Yields",
+      "description": "\u003cp\u003eStripe CEO Patrick Collison believes the growing popularity of stablecoins will eventually force banks to raise deposit yields or risk losing customers. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stripe-ceo-stablecoins-will-force-banks-to-offer-competitive-deposit-yields/\"\u003eStripe CEO: Stablecoins Will Force Banks to Offer Competitive Deposit Yields\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stripe-ceo-stablecoins-will-force-banks-to-offer-competitive-deposit-yields/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Stablecoin",
+        "Stripe",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05081616/1759652176-image-1759649791221_optimized.jpg"
+      },
+      "published": "2025-10-05T10:58:00Z"
+    }
+  },
+  {
+    "hash": "80dc522b85067195d7d9a5d6114aab1d2c26abceebf800b5f08f1a7f8956b03a",
+    "item": {
+      "title": "VanEck Warns of ETH Dilution Risk as Digital Asset Treasuries Reach $135B",
+      "description": "\u003cp\u003eDigital asset treasuries have surged to approximately $135 billion in total holdings with investment firm VanEck cautioning that Ethereum holders face growing dilution risks as the network's economics shift away from fee-driven yields toward monetary asset status.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/vaneck-warns-of-eth-dilution-risk-as-digital-asset-treasuries-reach-135b/\"\u003eVanEck Warns of ETH Dilution Risk as Digital Asset Treasuries Reach $135B\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/vaneck-warns-of-eth-dilution-risk-as-digital-asset-treasuries-reach-135b/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Ethereum",
+        "VanEck"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05095539/1759658139-stock-image_optimized-80.webp"
+      },
+      "published": "2025-10-05T10:56:00Z"
+    }
+  },
+  {
+    "hash": "a7bab2c33930386a4558183b3c04b54061b05dfe04042014848790abe1551e35",
+    "item": {
+      "title": "Bitcoin Hits $125K as Exchange Balances Drop to Six-Year Low",
+      "description": "\u003cp\u003eBitcoin surged to a new all-time high above $125,700 on Sunday morning, breaking past its previous record of $124,500 set in August.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-hits-125k-as-exchange-balances-drop-to-six-year-low/\"\u003eBitcoin Hits $125K as Exchange Balances Drop to Six-Year Low\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-hits-125k-as-exchange-balances-drop-to-six-year-low/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05081627/1759652187-image-1759651861739_optimized.jpg"
+      },
+      "published": "2025-10-05T10:13:46Z"
+    }
+  },
+  {
+    "hash": "8c281a7ae04f8b6cbe5b634247ba44fc27123ace0c3ea2efac993ff9eec027b7",
+    "item": {
+      "title": "While Traders HODL, Germany Loses $3.6B Dumping 50K BTC Before $125K ATH",
+      "description": "\u003cp\u003eGermany has missed out on nearly $3.6 billion in potential profits after selling its seized Bitcoin stash well before the asset’s explosive surge past $125,000.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/while-traders-hodl-germany-loses-3-6b-dumping-50k-btc-before-125k-ath/\"\u003eWhile Traders HODL, Germany Loses $3.6B Dumping 50K BTC Before $125K ATH\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/while-traders-hodl-germany-loses-3-6b-dumping-50k-btc-before-125k-ath/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Germany"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05081620/1759652180-image-1759650945265_optimized.jpg"
+      },
+      "published": "2025-10-05T10:11:27Z"
+    }
+  },
+  {
+    "hash": "ba8c6259fe8e62afc06de0e8c97dd4dd56a632bcfd240ed4ed00a0049d1a29c5",
+    "item": {
+      "title": "Sam Bankman-Fried Says Handing FTX to CEO John Ray Was ‘Biggest Mistake’ in Prison Interview",
+      "description": "\u003cp\u003eSam Bankman-Fried stated in exclusive prison interviews that handing FTX to CEO John Ray III was \"the single biggest mistake I made by far\" claiming he signed over control at 4:24 am on November 11, 2022 under extreme pressure from Sullivan \u0026amp; Cromwell and company advisers.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sbf-says-handing-ftx-to-ceo-john-ray-was-biggest-mistake-in-prison-interview/\"\u003eSam Bankman-Fried Says Handing FTX to CEO John Ray Was \u0026#8216;Biggest Mistake\u0026#8217; in Prison Interview\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sbf-says-handing-ftx-to-ceo-john-ray-was-biggest-mistake-in-prison-interview/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Sam Bankman-Fried"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/05091956/1759655996-stock-image_optimized-79.webp"
+      },
+      "published": "2025-10-05T10:06:20Z"
+    }
   }
 ]
