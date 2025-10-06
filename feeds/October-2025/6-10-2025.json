@@ -976,5 +976,558 @@
       },
       "published": "2025-10-06T06:30:09Z"
     }
+  },
+  {
+    "hash": "b19e50f71a8e19ab218aecb5e9bfb05fe05b6d120970fd8c5ad7fe2e6c823648",
+    "item": {
+      "title": "Linux 6.18 Adds Two New x86 Platform Drivers, New AMD PMF Capabilities",
+      "description": "The x86 platform drivers area of the Linux kernel continues to see a lot of code churn for supporting new laptops and enhancing support for existing laptop models. Plus the likes of AMD PMF and Intel PMC continue to see ongoing improvements too...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-x86-Platform-Drivers"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-06T10:17:21Z"
+    }
+  },
+  {
+    "hash": "53ea572a13180f0897367e29b3ffe6609eb4b1c25817102767b84c8496815dfe",
+    "item": {
+      "title": "Intel TDX Will Now Work With Linux's Kexec - Except For Early CPUs With Known Bug",
+      "description": "The Intel Trust Domain Extensions (TDX) updates for the Linux 6.18 kernel allow it to work with Kexec for being able to load and boot into a new kernel from another currently running kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-TDX-Plus-Kexec"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-06T10:04:25Z"
+    }
+  },
+  {
+    "hash": "d1886c739c3f2e286ad446515f66d05fcf26111aa8ba8fa363ca77a0efea73b0",
+    "item": {
+      "title": "VFIO Platform Driver Saved From Removal, NVIDIA GB300 Support Added",
+      "description": "The VFIO subsystem updates were merged last week for the ongoing Linux 6.18 merge window...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-VFIO"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-06T09:45:15Z"
+    }
+  },
+  {
+    "hash": "8254f52a3a1b29246b2053825d449172388059d43841b82723fd0184c6ad1e2c",
+    "item": {
+      "title": "Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489533\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nobelprize.org/prizes/medicine/2025/press-release/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T09:41:16Z"
+    }
+  },
+  {
+    "hash": "20141450764d738da2482cf9772483e8acbb5d50cd3f049950caee708346e64c",
+    "item": {
+      "title": "Build a VPN Tunnel with Wintun on Windows – Part 1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489581\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://0xmm.in/posts/peer-to-peer-windows-part1/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T09:49:33Z"
+    }
+  },
+  {
+    "hash": "5ef0c1afb36647016545c4b1107f680ec343dab3da512c050ad4b1a33523c86d",
+    "item": {
+      "title": "Delimited Continuations in Lone Lisp",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45459466\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T05:52:06Z"
+    }
+  },
+  {
+    "hash": "b0e2b7ef6396580f35a283d47331ac0ecddedf4e0a7d954444a8d1353bf4153f",
+    "item": {
+      "title": "IRonCub: A Humanoid Robot Designed to Fly Like Iron Man",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453818\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/ironcub-jet-powered-flying-robot"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:54:12Z"
+    }
+  },
+  {
+    "hash": "653b4079c611d37a4aaba022575db059aee152237029aba5fc53b3b0aa77282c",
+    "item": {
+      "title": "⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm \u0026 More",
+      "description": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field.\nThis recap cuts through the noise to share what really matters—key trends, warning signs, and stories shaping today’s security landscape. Whether you’re defending systems or just keeping up, these highlights help you spot what’s coming",
+      "links": [
+        "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-16ZOwFFzhbYAdpEvzFJqYHRoFcNnOR2NWEDpwL2ya7TeCBsyoRMa2rA5-ibME3xrn_xwEtR9LWQvMfI57HQJI977nOqnoBypqL2-U7PWROlxUEjhGTh_pz6WLk72Mlhczrz-mH9qVfy_hB5Ke6RSnUB340E02Y6mdwxWNn4TffGzRe4fUUfkYH3o2hW7/s1600/recap-mainn.jpg"
+      },
+      "published": "2025-10-06T11:38:00Z"
+    }
+  },
+  {
+    "hash": "852c3b317d1ac2d715c8c8c05a95db7566a6cdbc18994990268f5fd8d4b33662",
+    "item": {
+      "title": "5 Critical Questions For Adopting an AI Security Solution",
+      "description": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
+      "links": [
+        "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfz3KCjm0Q8FYWkOgHENEAln0t4oa66D-4TJdIrkM-0yEpSksS9oZ_JlWBd68weRkQDK5M3Suy3BcNPfNmq89gP3hcMRDjcekzXMyctxdXoW8NZzvBv1KXshfrnCkRg6P7GgyhotfR06-URHB31CcC4eZLfsm-u8E2sA1PP4F3PDcE5Q1e-5WVDNJoI_0X/s1600/ai-cybersecurity.jpg"
+      },
+      "published": "2025-10-06T11:38:00Z"
+    }
+  },
+  {
+    "hash": "8ecce18e6bdc6b27dffea0130cb54f76585419d7e0eb7363172b0c8c0d60b79e",
+    "item": {
+      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
+      "description": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite that it said has been exploited in the recent wave of Cl0p data theft attacks.\nThe vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
+      "links": [
+        "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45_vX3mA13QmCC3yLMn-k1mUEB2XZ1iLaS4Bft_m3UGI2ovVIXPBSK_Dk0tcv_h1jrLw85E9yR_cNFYKruGcrlAechzkw1-DgT6AqL3CtyXWOQIO5tW_nHqTums9SvLA5s-ZTxxx7o6_NclIvpKZShXjyCOi4zWBU_Em12NW5QX3Q0GIoeBIUsI2XCLTt/s1600/oracle.jpg"
+      },
+      "published": "2025-10-06T11:37:00Z"
+    }
+  },
+  {
+    "hash": "919409fb4faf7c2977425366c04153afb9b872dd3db4787e38ef6ab6a365939e",
+    "item": {
+      "title": "Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers",
+      "description": "Cybersecurity researchers have shed light on a Chinese-speaking cybercrime group codenamed UAT-8099 that has been attributed to search engine optimization (SEO) fraud and theft of high-value credentials, configuration files, and certificate data.\u0026nbsp;\nThe attacks are designed to target Microsoft Internet Information Services (IIS) servers, with most of the infections reported in India, Thailand",
+      "links": [
+        "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5lq1VwGPxErqaYK5Or5Qfb2Dtmn7IhLPFWGw009bD563o4PaYVAg57qBcDMO7dNIth5f0ltofaFuJ1g8bfK7Z-ixBKQVoXZbUx5rtxHSW8agab1DQ8DW5ZSOyO9n7YpAaEV41QRizEjQR2Gm86_L3Nh5JFbKpzq7tzKe4BgSFKM5y9N0ZE50NaSpK2qF9/s1600/scams.jpg"
+      },
+      "published": "2025-10-06T11:36:00Z"
+    }
+  },
+  {
+    "hash": "00ee14dae9cd806822a7c72e818ba364770f83764d81b078d1ac1cc745a58708",
+    "item": {
+      "title": "Landlord “World Travel” Season Wraps Up: A Global Showdown of Strategy and Wealth",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"379\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-18.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-18.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-18-300x151.png 300w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eAs the curtain fell on October 2, the latest Landlord season — “World Travel” — officially came to a close.Launched on September 26, this season marked one of Landlord’s most ambitious updates yet, featuring a global city-based map system and deeper layers of strategic gameplay that drew players from all",
+      "links": [
+        "https://thenewscrypto.com/landlord-world-travel-season-wraps-up-a-global-showdown-of-strategy-and-wealth/"
+      ],
+      "categories": [
+        "Press Release",
+        "World Trave"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-18.png"
+      },
+      "published": "2025-10-06T07:58:00Z"
+    }
+  },
+  {
+    "hash": "24018f228529c939451276a17c6daade9258a75521cdb3b034ce3818d3f0bc52",
+    "item": {
+      "title": "$125K Showdown: Will Bitcoin (BTC) Falter or Flip Resistance to New Support?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/125K-Showdown-Will-Bitcoin-BTC-Falter-or-Flip-Resistance-to-New-Support.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"$125K Showdown: Will Bitcoin (BTC) Falter or Flip Resistance to New Support?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/125K-Showdown-Will-Bitcoin-BTC-Falter-or-Flip-Resistance-to-New-Support.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/125K-Showdown-Will-Bitcoin-BTC-Falter-or-Flip-Resistance-to-New-Support-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/125K-Showdown-Will-Bitcoin-BTC-Falter-or-Flip-Resistance-to-New-Support-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe broader market cap has reached $4.24 trillion, with neutral sentiment enduring in the market. All the major crypto token prices are charted, with a few painted in green. Notably, Bitcoin (BTC), the largest asset, has been slowly attempting to gain momentum. With a series of ups and downs, the",
+      "links": [
+        "https://thenewscrypto.com/125k-showdown-will-bitcoin-btc-falter-or-flip-resistance-to-new-support/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "BTC price",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/125K-Showdown-Will-Bitcoin-BTC-Falter-or-Flip-Resistance-to-New-Support.jpg"
+      },
+      "published": "2025-10-06T07:48:24Z"
+    }
+  },
+  {
+    "hash": "35ec6fc30c177013901e96e4dd8fe0eee13962470b3acacb30135c9527bbc7b7",
+    "item": {
+      "title": "MandalaChain Presale Gains Momentum — Why Whales Are Accumulating MDL",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-17.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-17.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-17-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-17-768x437.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe presale of MandalaChain is rocketing with crypto whales purchasing the tokens. The second round began with a price of 0.027 per token. Over 4 million dollars have been raised in less than 48 hours, and 5.1 percent of the tokens have been sold. The MandalaChain Substrate-Polkadot backbone as a",
+      "links": [
+        "https://thenewscrypto.com/mandalachain-presale-gains-momentum-why-whales-are-accumulating-mdl/"
+      ],
+      "categories": [
+        "Press Release",
+        "MandalaChain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-17.png"
+      },
+      "published": "2025-10-06T07:38:00Z"
+    }
+  },
+  {
+    "hash": "a0785045e9e1cc72b91b3922cd873faeac3156a9f0f6ddb73112df4fe17bcef1",
+    "item": {
+      "title": "Best Presale Tokens To Buy in October 2025: MandalaChain Leads the List",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-16.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-16.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-16-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-16-768x437.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe most recent blockchain presales are attracting the attention of investors interested in getting in early. MandalChain (KPG) is at the heart of this hype and it is currently in its second presale. Having sold 5.1 percent of tokens and raised 2.3 million dollars, MandalaChain is a top presale in",
+      "links": [
+        "https://thenewscrypto.com/best-presale-tokens-to-buy-in-october-2025-mandalachain-leads-the-list/"
+      ],
+      "categories": [
+        "Press Release",
+        "MandalaChain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-16.png"
+      },
+      "published": "2025-10-06T06:38:19Z"
+    }
+  },
+  {
+    "hash": "9f7398946cb50d295178b0feec8a8b7a4e5f47992a64668eee593edb9e957eec",
+    "item": {
+      "title": "Bill Morgan Expresses Confidence on XRP Price, Highlights Yearly Growth of Ripple Token",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Like-a-year-ago-when-you-missed1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bill Morgan Expresses Confidence on XRP Price, Highlights Yearly Growth of Ripple Token\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Like-a-year-ago-when-you-missed1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Like-a-year-ago-when-you-missed1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Like-a-year-ago-when-you-missed1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBill Morgan recently responded to a community member, highlighting the yearly growth in the XRP price. The Ripple token surged significantly over the past 7 days. It is likely to regain a new high this year if rate cuts and ETF approvals fall in place. A wallet just transferred over",
+      "links": [
+        "https://thenewscrypto.com/bill-morgan-expresses-confidence-on-xrp-price-highlights-yearly-growth-of-ripple-token/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ankur Sachdev"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Like-a-year-ago-when-you-missed1.jpg"
+      },
+      "published": "2025-10-06T06:05:26Z"
+    }
+  },
+  {
+    "hash": "050e7f67c218ecf340b62724e62753958d0c71a52f6d0772b6124158281b606c",
+    "item": {
+      "title": "Blazpay Crypto Presale Explained: How $1,000 Could Turn Into $1 Million",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Blazpay-Crypto-Presale-Explained.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Blazpay Crypto Presale Explained: How $1,000 Could Turn Into $1 Million\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Blazpay-Crypto-Presale-Explained.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Blazpay-Crypto-Presale-Explained-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Blazpay-Crypto-Presale-Explained-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn today’s rapidly growing digital asset market, the search for the best crypto presale has become a priority for traders and enthusiasts who don’t want to miss the next big wave. While giants like Bitcoin and Ethereum dominate headlines, history shows that some of the most impressive gains have come",
+      "links": [
+        "https://thenewscrypto.com/blazpay-crypto-presale-explained-how-1000-could-turn-into-1-million/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Blazpay-Crypto-Presale-Explained.jpg"
+      },
+      "published": "2025-10-05T17:00:00Z"
+    }
+  },
+  {
+    "hash": "531f7da2a4e092d007dff7fcbbb4115f97886ff025507156fc346172ef33aeb7",
+    "item": {
+      "title": "Here’s the real reason Endurance sank",
+      "description": "The ship wasn't designed to withstand the powerful ice compression forces—and Shackleton knew it",
+      "links": [
+        "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/"
+      ],
+      "categories": [
+        "Science",
+        "Archaeology",
+        "Endurance shipwreck",
+        "maritime history",
+        "Sir Ernest Shackleton"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/endurance5-1152x648.jpg"
+      },
+      "published": "2025-10-06T10:00:40Z"
+    }
+  },
+  {
+    "hash": "ab8f7cc73e8744d94bef3f3190f18f4632baf775964b622e4a27a63bb77eaf24",
+    "item": {
+      "title": "OpenSSH 10.1 released",
+      "description": "\u003ca href=\"https://lwn.net/ml/all/dd12623ae86aa5eb@cvs.openbsd.org\"\u003eOpenSSH 10.1\u003c/a\u003e has\nbeen released.  Along with \"\u003cq\u003ea minor security fix\u003c/q\u003e\" and some other bug\nfixes, this release disallows control characters in user names passed via\nthe command line, adds better logging around certificate refusals, and a\nnew \u003ctt\u003eRefuseConnection\u003c/tt\u003e server configuration option.",
+      "links": [
+        "https://lwn.net/Articles/1040870/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-10-06T09:23:59Z"
+    }
+  },
+  {
+    "hash": "1a8fd433d57d8647e562747c053428b914ed06275976ddde529d63e7f9a30dc4",
+    "item": {
+      "title": "Bitcoin’s Surge Led to Widespread Liquidations, Prompting Investors to Turn to Arc Miner",
+      "description": "\u003cp\u003eSome investors have begun to turn to cloud mining platforms like Arc Miner that feature \"daily settlement\" in order to seek more stable passive income.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoins-surge-led-to-widespread-liquidations-prompting-investors-to-turn-to-arc-miner/\"\u003eBitcoin’s Surge Led to Widespread Liquidations, Prompting Investors to Turn to Arc Miner\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoins-surge-led-to-widespread-liquidations-prompting-investors-to-turn-to-arc-miner/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06111018/1759749018-arc-miner.jpg"
+      },
+      "published": "2025-10-06T11:13:41Z"
+    }
+  },
+  {
+    "hash": "e0c53f2d439b102cf039a1832835e0a176070e4fb8d097b0342e9f1760b344da",
+    "item": {
+      "title": "After Recent Crypto Shakeout, Which Coin Rises Next?",
+      "description": "\u003cp\u003ePresale projects like XYZ often have the highest odds of breaking out, as they combine early-stage momentum with undervalued entry points before listing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/after-recent-crypto-shakeout-which-coin-rises-next/\"\u003eAfter Recent Crypto Shakeout, Which Coin Rises Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/after-recent-crypto-shakeout-which-coin-rises-next/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06100003/1759744802-xyzverse.jpg"
+      },
+      "published": "2025-10-06T10:57:51Z"
+    }
+  },
+  {
+    "hash": "86e9c1e6c359d0dc77464d8d7d6aa5224d1258d7b6fd9d94ff6e2921caa0b148",
+    "item": {
+      "title": "DefiLlama to Delist Aster Volume Data Over Suspected Wash Trading",
+      "description": "\u003cp\u003eDeFiLlama removed perpetual futures volume data for Aster, a decentralized exchange backed by figures linked to former Binance CEO Changpeng Zhao, after detecting trading volumes that mirrored Binance's nearly 1:1 across multiple trading pairs with co-founder 0xngmi announcing the delisting on October 5, 2025 citing concerns over data integrity as correlation patterns appeared even more extreme for assets like ETH.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/defillama-to-delist-aster-volume-data-over-suspected-wash-trading/\"\u003eDefiLlama to Delist Aster Volume Data Over Suspected Wash Trading\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/defillama-to-delist-aster-volume-data-over-suspected-wash-trading/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "ASTER",
+        "hyperliquid"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06094855/1759744135-stock-image_optimized-1.webp"
+      },
+      "published": "2025-10-06T10:13:45Z"
+    }
+  },
+  {
+    "hash": "fe60553481f5526d2bcb1d3dc6f0db142aca041f53d41902fcd52fcbcceb602d",
+    "item": {
+      "title": "Why Is Crypto Down Today? – October 6, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today. BTC fell to $123,375 and ETH to $4,535. Bitcoin at “$145,000 by year‑end is very doable.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-october-6-2025/\"\u003eWhy Is Crypto Down Today? – October 6, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-october-6-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06092523/1759742722-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-10-06T09:57:34Z"
+    }
+  },
+  {
+    "hash": "ccda57b5f05bede82679e1f4d20e88c60b482a5e2b83c50d98f52f4a86c7e8c3",
+    "item": {
+      "title": "EU Plans to Give ESMA Greater Powers Over Crypto and Stock Market Supervision",
+      "description": "\u003cp\u003eThe European Commission plans to shift oversight of stock exchanges, crypto firms, and clearing houses to ESMA.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eu-plans-to-give-esma-greater-powers-over-crypto-and-stock-market-supervision/\"\u003eEU Plans to Give ESMA Greater Powers Over Crypto and Stock Market Supervision\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eu-plans-to-give-esma-greater-powers-over-crypto-and-stock-market-supervision/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ESMA",
+        "EU",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06080122/1759737681-image-1759737039091_optimized.jpg"
+      },
+      "published": "2025-10-06T09:50:54Z"
+    }
+  },
+  {
+    "hash": "8ff3cfddbc984e34ff9ce792bbc54f3329bb70a18c73d83f62880bcaf1e0a783",
+    "item": {
+      "title": "US National Debt Nears $38 Trillion, Adds $6B Daily as Gold and Bitcoin Hit ATH – Is BTC the Answer?",
+      "description": "\u003cp\u003eThe United States' national debt has surged to $37.88 trillion as of October 2, 2025, growing at a rate of $69,891 per second or approximately $6 billion daily adding $2.2 trillion since October 2024.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-national-debt-nears-38-trillion-adds-6b-daily-as-gold-and-bitcoin-hit-ath-is-btc-the-answer/\"\u003eUS National Debt Nears $38 Trillion, Adds $6B Daily as Gold and Bitcoin Hit ATH – Is BTC the Answer?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-national-debt-nears-38-trillion-adds-6b-daily-as-gold-and-bitcoin-hit-ath-is-btc-the-answer/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06081249/1759738368-stock-image_optimized.webp"
+      },
+      "published": "2025-10-06T09:49:46Z"
+    }
+  },
+  {
+    "hash": "7c76b0882b786289041f73e10fe8049ca689760d8978e3fb91675c91b001c9cd",
+    "item": {
+      "title": "Multicoin Exec Says GENIUS Act Will End Banks’ ‘Rip-Off’ of Retail Depositors with Low Rates",
+      "description": "\u003cp\u003eMulticoin Capital managing partner Tushar Jain predicted that the GENIUS Act will trigger a competitive upheaval in retail banking with major technology companies like Meta, Google, and Apple poised to challenge traditional banks by offering stablecoin products with superior yields and user experiences leveraging their massive distribution networks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/multicoin-exec-says-genius-act-will-end-banks-rip-off-of-retail-depositors-with-low-rates/\"\u003eMulticoin Exec Says GENIUS Act Will End Banks\u0026#8217; \u0026#8216;Rip-Off\u0026#8217; of Retail Depositors with Low Rates\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/multicoin-exec-says-genius-act-will-end-banks-rip-off-of-retail-depositors-with-low-rates/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06065104/1759733464-image-1759733438674_optimized.webp"
+      },
+      "published": "2025-10-06T09:48:33Z"
+    }
   }
 ]
