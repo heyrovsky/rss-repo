@@ -3100,5 +3100,719 @@
       },
       "published": "2025-10-06T12:56:25Z"
     }
+  },
+  {
+    "hash": "7829d52700dee87e86f1abb8a0c93084d8d21ee9b08ae7d6b16a9f239423a6f8",
+    "item": {
+      "title": "OpenAI wants to make ChatGPT into a universal app frontend",
+      "description": "Spotify, Canva, Zillow among today's launch partners, more coming later this year.",
+      "links": [
+        "https://arstechnica.com/ai/2025/10/openai-wants-to-make-chatgpt-into-a-universal-app-frontend/"
+      ],
+      "categories": [
+        "AI",
+        "apps",
+        "canva",
+        "ChatGPT",
+        "dev days",
+        "figma",
+        "openai",
+        "SDK",
+        "spotify",
+        "Zillow"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/appgpt-1152x648.png"
+      },
+      "published": "2025-10-06T19:10:44Z"
+    }
+  },
+  {
+    "hash": "385a4b3222848867339660f5dd1b980b40ee4cce19237a7b60615680d1124c10",
+    "item": {
+      "title": "The neurons that let us see what isn’t there",
+      "description": "A standard optical illusion triggers specific neurons in the visual system of mice.",
+      "links": [
+        "https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "Neuroscience",
+        "optical illusions",
+        "visual system"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Federica Sgorbissa"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Kanizsa_triangle-1152x648.png"
+      },
+      "published": "2025-10-06T18:45:22Z"
+    }
+  },
+  {
+    "hash": "e72113fd23b7e8629098ff143fcc0b62cc2ce46952f9ceed026a9819ba0eb8b2",
+    "item": {
+      "title": "Important Patch Series For Nouveau Driver Will Help With NVK Performance",
+      "description": "A patch series posted today for Nouveau, the open-source NVIDIA kernel driver within the mainline Linux tree, can help overcome some performance obstacles currently observed with the Mesa NVK Vulkan driver...",
+      "links": [
+        "https://www.phoronix.com/news/Nouveau-Larger-Page-Sizes"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-06T20:15:00Z"
+    }
+  },
+  {
+    "hash": "66d096a6336a2b106b3b66dede77277425ae55fc3de4a6892d7c5e37a191149d",
+    "item": {
+      "title": "Linux 6.18 Works Around An Intel Xeon 6 PCIe Performance Issue",
+      "description": "The PCI subsystem updates were merged today for the in-development Linux 6.18 kernel. The PCI changes this cycle are mostly a random assortment of different changes to the wide assortment of PCIe drivers. Standing out is a workaround for dealing with a possible PCI Express performance issue for latest-generation Xeon 6 servers...",
+      "links": [
+        "https://www.phoronix.com/news/Xeon-6-PCIe-Workaround-Linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-06T18:57:06Z"
+    }
+  },
+  {
+    "hash": "eca583151de776810faf686dc65cf6ddea4ed6ae95a60e11bca2aecf5befa196",
+    "item": {
+      "title": "U-Boot v2025.10 released",
+      "description": "Version 2025.10 of the \u003ca href=\"https://u-boot.org/\"\u003eU-Boot\u003c/a\u003e boot loader\nhas been released with new features, including Python tooling improvements,\ncleanups for implicit header inclusions, better support for numerous Arm\nplatforms, support for new RISC-V platforms, better documentation, and\nmore.  Maintainer Tom Rini also reports on some project news:\n\n\u003cblockquote class=\"bq\"\u003e\nAs I mentioned with the v2025.07\nrelease, I was looking for a few people to step up and help with the\noverall organization and management of the project. To that end, Peter\nRobinson and Neil Armstrong have stepped up and have been helping me.\nThis has been part of the process for the project to join up under the\nSoftware Freedom Conservancy's (SFC) umbrella and have a legal entity\nthat can help the project work with other legal entities on things like\ndonations.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1041023/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-10-06T20:52:06Z"
+    }
+  },
+  {
+    "hash": "aa0db47b124ed988dc7c0f2a33d0ea8bea58fca9b9e8596c2ce41ff65e3964e1",
+    "item": {
+      "title": "OpenZL: An open source format-aware compression framework",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45492803\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T16:01:58Z"
+    }
+  },
+  {
+    "hash": "1795702d19721a4cb910914661eb007be6db0149e1b22312fdc41a7aaf475912",
+    "item": {
+      "title": "Valorant's 128-Tick Servers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45496146\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://technology.riotgames.com/news/valorants-128-tick-servers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T20:47:25Z"
+    }
+  },
+  {
+    "hash": "28e22f7815e7cd93d9b9435529a98249ab3e2ba15fed9734429bd1c8086dc2f9",
+    "item": {
+      "title": "Kirigami-inspired parachute falls on target",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45449015\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T12:54:13Z"
+    }
+  },
+  {
+    "hash": "ffb19086a0cc708ae62e3395675675b4ed677b70ef25171ad3c1859ef84aa256",
+    "item": {
+      "title": "Apps SDK",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45494558\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.openai.com/apps-sdk/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T18:27:33Z"
+    }
+  },
+  {
+    "hash": "14f34f59042b177b13b70a12da51ed9ec79c9293be5b9be00c2fb7056266cf78",
+    "item": {
+      "title": "Show HN: I've build a platform for writing technical/scientific documents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489999\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.monsterwriter.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T10:58:14Z"
+    }
+  },
+  {
+    "hash": "20ebc8d60aed21c0530c5d18e069310afe9e9d8f338e4fd5649e975c9893749a",
+    "item": {
+      "title": "My Life in Ambigrammia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45495711\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T20:07:25Z"
+    }
+  },
+  {
+    "hash": "db811905e2ec948220fec2fc26a8b7dadabf6f7d4c3363ca351910ecf11489dc",
+    "item": {
+      "title": "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469376\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://windscribe.com/blog/the-vpn-relationship-map/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T00:30:44Z"
+    }
+  },
+  {
+    "hash": "3c372771079fca590f42c38e3430d87a027739b5ecb17923c1ad5a658897e9c1",
+    "item": {
+      "title": "Mister Macintosh",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45458050\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://folklore.org/Mister_Macintosh.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T02:03:16Z"
+    }
+  },
+  {
+    "hash": "d8952bba006248674ad014742d69541d9645f443d6eb9f1bc372d84d372011b1",
+    "item": {
+      "title": "Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475623\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://reiner.org/cuckoo-hashing"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T18:45:55Z"
+    }
+  },
+  {
+    "hash": "7f0f9334d5827cf1cc1d2cd83494ecbe03b6f5560707a5bf92b41e11fb05abce",
+    "item": {
+      "title": "Writing high-performance matrix multiplication kernels for Blackwell",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451217\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.jax.dev/en/latest/pallas/gpu/blackwell_matmul.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T15:43:01Z"
+    }
+  },
+  {
+    "hash": "e6797656b4b3c66d902900543550acac6a277e7d82685c4ade3383d987d308d1",
+    "item": {
+      "title": "Ink deformation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45465824\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.inkandswitch.com/ink/notes/ink-deformation-review/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T18:01:59Z"
+    }
+  },
+  {
+    "hash": "7c14bcdd763f29aa8ec898afac07fc8fbf4848a96278dc2a32d8fee991c60e6b",
+    "item": {
+      "title": "OpenAI ChatKit",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45493718\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/openai/chatkit-js"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T17:23:20Z"
+    }
+  },
+  {
+    "hash": "ec1a5e8413e675c66530c9e3f204b72004a24e1c6975d239d7af025bc3445d9a",
+    "item": {
+      "title": "It's just a virus, the E.R. told him – days later, he was dead",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45487519\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T03:57:26Z"
+    }
+  },
+  {
+    "hash": "6bdf87564380f94788930c86a4b61e0af305477fd029f654f75791be4e79d7cc",
+    "item": {
+      "title": "Beginnings: The Dempster Dumpster",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45493713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.classicrefusetrucks.com/albums/DE/DE01.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T17:22:48Z"
+    }
+  },
+  {
+    "hash": "c058a3320d81570fee88dc6095a94fae20d5550f3b7df3c65818899663615136",
+    "item": {
+      "title": "Sharpie found a way to make pens more cheaply by manufacturing them in the U.S.",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45480354\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-05T10:01:00Z"
+    }
+  },
+  {
+    "hash": "d1cb03df21de119d14c297d868c8fcd4a04149aa56237d17694ba568a3581cd8",
+    "item": {
+      "title": "OpenAI DevDay 2025: Opening keynote [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45493432\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=hS1YqcewH0c"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T17:00:05Z"
+    }
+  },
+  {
+    "hash": "2acb090c10f8d510522ae390cf59365c69c31ef7a021484d4ef846763431d279",
+    "item": {
+      "title": "La Quête du Temps, Vacheron Constantin timepiece at the Louvre",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45463932\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/news/features/2025-10-03/at-the-louvre-vacheron-constantin-showcases-the-art-of-luxury-watches"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T15:16:26Z"
+    }
+  },
+  {
+    "hash": "cb9527fb31bb6bd0211f35b4c7c5d03f4e8697f37beec26054b22c42ec988451",
+    "item": {
+      "title": "Battering RAM – Low-cost interposer attacks on confidential computing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45488713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://batteringram.eu/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T07:47:17Z"
+    }
+  },
+  {
+    "hash": "7f8256d3e121c44ff4876ddb6b764b5a6fa0d618e1d0496c964c98dfb0091e42",
+    "item": {
+      "title": "The Hunt for Huntington's",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nehalslearnings.substack.com/p/the-hunt-for-huntingtons"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T18:19:28Z"
+    }
+  },
+  {
+    "hash": "a0a05c3005accbe559c4fc4a42759db0fc8e03e7f19538977b93c6b9c25f6d11",
+    "item": {
+      "title": "Bitcoin Breaks $125K Record as Fastest Layer-2 Bitcoin Hyper Explodes to Nearly $22M – More Massive Whale Buys",
+      "description": "\u003cp\u003eAfter setting its previous all-time high in mid-August, Bitcoin (BTC) has now broken that record again, climbing to $125,506 as “Uptober” kicks off. It’s showing no signs of slowing down as it enters what has historically been its strongest quarter.At the same time, its fastest Layer-2, Bitcoin Hyper (HYPER), is attracting accelerating inflows, with more [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/bitcoin-125k-bitcoin-hyper-nears-22m-whale-buys/\"\u003eBitcoin Breaks $125K Record as Fastest Layer-2 Bitcoin Hyper Explodes to Nearly $22M – More Massive Whale Buys\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/bitcoin-125k-bitcoin-hyper-nears-22m-whale-buys/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-10-06T21:07:15Z"
+    }
+  },
+  {
+    "hash": "ee1777a45b0c391e613031d6687607e375008cb4dce5511aa9787c63cb4e2c00",
+    "item": {
+      "title": "XRP Price Prediction: V-Shaped Rebound Sends XRP Toward Breakout – Something Big is About to Happen",
+      "description": "\u003cp\u003eXRP price prediction has assessed XRP reclaiming $3 with resistance at $3.17–$3.36 and possible targets near $3.60–$4.00 if momentum holds. Traders have weighed CME’s 24/7 crypto plan and upcoming ETF deadlines while monitoring support around $2.94 and an RSI near overbought.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-v-shaped-rebound-sends-xrp-toward-breakout-something-big-is-about-to-happen/\"\u003eXRP Price Prediction: V-Shaped Rebound Sends XRP Toward Breakout – Something Big is About to Happen\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-v-shaped-rebound-sends-xrp-toward-breakout-something-big-is-about-to-happen/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06181605/1759774564-xasxas.jpg"
+      },
+      "published": "2025-10-06T21:00:40Z"
+    }
+  },
+  {
+    "hash": "7c74242d8ef29387ef38dda6a1cce0388eebab29314deceb92b7195661b3449e",
+    "item": {
+      "title": "Real Estate Giant Opendoor to Accept Bitcoin and Crypto for Home Buying, CEO Confirms",
+      "description": "\u003cp\u003eOpendoor has confirmed plans to support crypto for property purchases—to evaluate and Accept payments, including Bitcoin—as BTC has rallied and adoption has grown across real estate and luxury sectors. Timing and supported coins beyond Bitcoin have not been disclosed.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/real-estate-giant-opendoor-to-accept-bitcoin-and-crypto-for-home-buying-ceo-confirms/\"\u003eReal Estate Giant Opendoor to Accept Bitcoin and Crypto for Home Buying, CEO Confirms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/real-estate-giant-opendoor-to-accept-bitcoin-and-crypto-for-home-buying-ceo-confirms/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "Crypto Payment"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06172454/1759771493-image-1759771469115_optimized.webp"
+      },
+      "published": "2025-10-06T20:57:23Z"
+    }
+  },
+  {
+    "hash": "19740dea3915577da5fa981acd577948bb69048c6a21d7e092b07ecc35881122",
+    "item": {
+      "title": "74% of Polymarket Bettors Predict U.S. Government Shutdown To Last Past Mid-October, Odds",
+      "description": "\u003cp\u003ePolymarket bettors have indicated that the U.S. government shutdown has likely continued past October 15, reflecting a shift since early October as Congress has considered a stopgap bill and industry groups have urged bipartisan progress on crypto policy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/75-of-polymarket-bettors-predict-u-s-government-shutdown-to-last-past-mid-october-odds/\"\u003e74% of Polymarket Bettors Predict U.S. Government Shutdown To Last Past Mid-October, Odds\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/75-of-polymarket-bettors-predict-u-s-government-shutdown-to-last-past-mid-october-odds/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Congress",
+        "Polymarket",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06192449/1759778689-julia_63915_the_capitol_building_washington_d-c-_overlaid_with__12d2938e-9d9b-4c18-928e-59d895c9019d-png_optimized.jpg"
+      },
+      "published": "2025-10-06T20:47:08Z"
+    }
+  },
+  {
+    "hash": "21862f0b4f660058b78bcd06dee7cfc212b82edf065d964a1cc70b5d61fcd46f",
+    "item": {
+      "title": "Sanctions-Defying Ruble-Backed Stablecoin Explodes to $500M – Is This Russia’s Answer to the Dollar?",
+      "description": "\u003cp\u003eStablecoin A7A5, pegged to the Ruble, has reached a $500M market cap and about 43% of the non-dollar segment. EU penalties are prepared as Elliptic and TRM Labs have reported $1B-plus daily flows and links to sanctioned entities and cross-border trade.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sanctions-defying-ruble-backed-stablecoin-explodes-to-500m-is-this-russias-answer-to-the-dollar/\"\u003eSanctions-Defying Ruble-Backed Stablecoin Explodes to $500M – Is This Russia’s Answer to the Dollar?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sanctions-defying-ruble-backed-stablecoin-explodes-to-500m-is-this-russias-answer-to-the-dollar/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Rubble",
+        "Russia",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06172345/1759771425-0_1-16_optimized.jpg"
+      },
+      "published": "2025-10-06T20:38:15Z"
+    }
+  },
+  {
+    "hash": "723e1cb00f42993ae1682df9bb532f2584e831f89e6217d6ffd9fd154e520b4b",
+    "item": {
+      "title": "Has Uptober Peaked? Why Billion‑Dollar ETF Inflows Might Not Shield Bitcoin from a Pullback",
+      "description": "\u003cp\u003eBitcoin has moved above $125K through Uptober, backed by $3.24B in weekly U.S. spot ETF net inflows. Market participation has concentrated in Bitcoin as altcoins have lagged, with open interest plateauing and funding having compressed.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/has-uptober-peaked-why-billion-dollar-etf-inflows-might-not-shield-bitcoin-from-a-pullback/\"\u003eHas Uptober Peaked? Why Billion‑Dollar ETF Inflows Might Not Shield Bitcoin from a Pullback\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/has-uptober-peaked-why-billion-dollar-etf-inflows-might-not-shield-bitcoin-from-a-pullback/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Altcoin",
+        "Bitcoin",
+        "ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06172532/1759771532-image-1759771435183_optimized.jpg"
+      },
+      "published": "2025-10-06T20:26:11Z"
+    }
+  },
+  {
+    "hash": "f1dcf4423e58588400d4c987e8b671a20c06ef30231366baa3b4ec816541d93f",
+    "item": {
+      "title": "Bitcoin’s Record High: What Will Happen Next, and Is It Unwise to Invest Now?",
+      "description": "\u003cp\u003eBitcoin's hit an all-time high — and since 2013, this digital asset has risen by an average of 79%.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/bitcoins-record-high-what-will-happen-next-and-is-it-unwise-to-invest-now/\"\u003eBitcoin\u0026#8217;s Record High: What Will Happen Next, and Is It Unwise to Invest Now?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/bitcoins-record-high-what-will-happen-next-and-is-it-unwise-to-invest-now/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Altcoins",
+        "Bitcoin",
+        "bitcoin acquisition",
+        "Bitcoin ATH",
+        "Bitcoin ETF",
+        "Bitcoin ETFs",
+        "Cryptocurrency",
+        "Donald Trump",
+        "ETF",
+        "Ethereum",
+        "JPMorgan",
+        "Market",
+        "Morgan Stanley",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06182006/1759774805-image-1759773987424_optimized.jpg"
+      },
+      "published": "2025-10-06T20:10:05Z"
+    }
+  },
+  {
+    "hash": "c0e200ce5e1e38c3e4f7edeabc1c482d26de7b81400293fc79161d47219d88a6",
+    "item": {
+      "title": "Strategy Reports $3.9B in Bitcoin Fair Value Appreciation in Q3 2025",
+      "description": "\u003cp\u003eStrategy has reported a $3.9B unrealized gain as Bitcoin’s Q3 rally has raised the fair value of 640,031 BTC to $47.35B. The firm has made no new purchases during Sept 29–Oct 5 and has kept extensive ATM and preferred stock programs available for future issuance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strategy-reports-3-9-billion-in-bitcoin-fair-value-appreciation-in-q3-2025/\"\u003eStrategy Reports $3.9B in Bitcoin Fair Value Appreciation in Q3 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strategy-reports-3-9-billion-in-bitcoin-fair-value-appreciation-in-q3-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/12055309/1757656389-stock-image_optimized-1.jpg"
+      },
+      "published": "2025-10-06T20:04:59Z"
+    }
+  },
+  {
+    "hash": "5001f466f627b26f343e90e0d5c432d41d26ea963b0b818eca895e7eb8259dee",
+    "item": {
+      "title": "Pepe Price Prediction: PEPE Approaches Key Support – Next Move Could Double Your Money",
+      "description": "\u003cp\u003ePEPE has climbed 8% over the past week, with trading volumes soaring past $700 million in a single day, fueling renewed interest and a bullish Pepe price prediction.A strong technical setup is forming, and momentum is building as meme coins return to the spotlight.The recent approval of a Dogecoin ETF, the first of its kind [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-price-prediction-pepe-approaches-key-support-next-move-could-double-your-money/\"\u003ePepe Price Prediction: PEPE Approaches Key Support – Next Move Could Double Your Money\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-price-prediction-pepe-approaches-key-support-next-move-could-double-your-money/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "PEPE News",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06122412/1759753451-pepe.jpg"
+      },
+      "published": "2025-10-06T19:59:32Z"
+    }
+  },
+  {
+    "hash": "9eae09170bd2553e56d831a2c3dfed38c8f395e9d86deeb0396aa1ec28a20d66",
+    "item": {
+      "title": "Dogecoin Price Prediction: Massive Whale Accumulation Detected – Explosive Rally is Next",
+      "description": "\u003cp\u003eDOGE has jumped 12% in the past week, and with whale wallets on the move, momentum is building behind a bullish Dogecoin price prediction.Big money is flowing in as institutional interest ramps up, adding serious weight to the recent breakout.Top analyst Ali Martinez has flagged a sharp spike in whale accumulation – a sign that [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-massive-whale-accumulation-detected-explosive-rally-is-next/\"\u003eDogecoin Price Prediction: Massive Whale Accumulation Detected – Explosive Rally is Next\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-massive-whale-accumulation-detected-explosive-rally-is-next/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "DOGE Price",
+        "Dogecoin",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06121608/1759752967-dogecoin.jpg"
+      },
+      "published": "2025-10-06T19:50:24Z"
+    }
+  },
+  {
+    "hash": "c9c999e266d20b633095e75e54918f2687ee9978af5777bc6c216d6a7726c85e",
+    "item": {
+      "title": "Stellar’s Denelle Dixon Warns Against “Railroad” Monopolies in Blockchain Infrastructure",
+      "description": "\u003cp\u003eStellar CEO Denelle Dixon has argued that proprietary blockchains have echoed past monopolies, has urged builders and policymakers to back open, permissionless networks, and has stressed that today’s choices have shaped fees, access, and interoperability across global finance. networks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stellars-denelle-dixon-warns-against-railroad-monopolies-in-blockchain-infrastructure/\"\u003eStellar’s Denelle Dixon Warns Against “Railroad” Monopolies in Blockchain Infrastructure\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stellars-denelle-dixon-warns-against-railroad-monopolies-in-blockchain-infrastructure/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Blockchain",
+        "Denelle Dixon",
+        "Stellar"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/12154340/1747064620-image-10-1_optimized.webp"
+      },
+      "published": "2025-10-06T19:50:06Z"
+    }
+  },
+  {
+    "hash": "b529c8e1deba7f1f491dada7d6f9db67e86f0c66e97673613e87f052df65ff3a",
+    "item": {
+      "title": "$6 Billion Floods Crypto in One Week – Institutions Going All-In on Bitcoin, ETH, SOL",
+      "description": "\u003cp\u003eDigital assets investment products have seen a record $5.95B in weekly inflows as Bitcoin, Ethereum and Solana have led allocations. U.S. flows, shifting rate expectations and a shutdown backdrop have coincided with an AUM peak of $254B and continued spot ETF demand.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/6-billion-floods-crypto-in-one-week-institutions-going-all-in-on-bitcoin-eth-sol/\"\u003e$6 Billion Floods Crypto in One Week – Institutions Going All-In on Bitcoin, ETH, SOL\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/6-billion-floods-crypto-in-one-week-institutions-going-all-in-on-bitcoin-eth-sol/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "CoinShares",
+        "Crypto Investment"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06120838/1759752517-stock-image_optimized-2.webp"
+      },
+      "published": "2025-10-06T19:41:50Z"
+    }
+  },
+  {
+    "hash": "64ed5f55f47af5a528c9f1a32d488e7599eeaebf00b6cd1ee6ec3322039c3192",
+    "item": {
+      "title": "Crypto Hedge Fund Predicts Ethereum’s “Next Revaluation Phase” if Liquidity Keeps Rising – $ETH to 10K Realistic?",
+      "description": "\u003cp\u003eEthereum market signals have pointed to tightening liquidity: exchange reserves have declined, netflows have stayed negative, and ETFs have drawn strong inflows. With M2 expansion and renewed institutional interest, price has retested major resistance into Q4.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-hedge-fund-predicts-ethereums-next-revaluation-phase-if-liquidity-keeps-rising-eth-to-10k-realistic/\"\u003eCrypto Hedge Fund Predicts Ethereum\u0026#8217;s \u0026#8220;Next Revaluation Phase\u0026#8221; if Liquidity Keeps Rising – $ETH to 10K Realistic?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-hedge-fund-predicts-ethereums-next-revaluation-phase-if-liquidity-keeps-rising-eth-to-10k-realistic/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "News",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06151713/1759763832-stock-image_optimized-4.webp"
+      },
+      "published": "2025-10-06T19:31:04Z"
+    }
+  },
+  {
+    "hash": "af1320daa2f305e97578c1cf3ce45e054e509e31e110364c3ad614b910d06982",
+    "item": {
+      "title": "Banking Giant Issues Dire Warning: Stablecoins Could Drain $1 Trillion From Global Banks by 2028",
+      "description": "\u003cp\u003eStandard Chartered has said stablecoins have functioned as USD accounts in EM, projecting $1.22T by 2028 and a $1T drain from deposits. The U.S. GENIUS Act has set rules and the Bank of England has proposed caps, as EM Banks have faced pressure in high-inflation markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/banking-giant-issues-dire-warning-stablecoins-could-drain-1-trillion-from-global-banks-by-2028/\"\u003eBanking Giant Issues Dire Warning: Stablecoins Could Drain $1 Trillion From Global Banks by 2028\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/banking-giant-issues-dire-warning-stablecoins-could-drain-1-trillion-from-global-banks-by-2028/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bank",
+        "Stablecoin",
+        "Standard Chartered"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06143939/1759761579-c20c5b97-3e0b-4ce2-8988-f78defe15bf6_optimized.jpg"
+      },
+      "published": "2025-10-06T18:28:21Z"
+    }
   }
 ]
