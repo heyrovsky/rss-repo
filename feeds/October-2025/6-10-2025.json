@@ -758,5 +758,223 @@
       },
       "published": "2025-10-06T04:38:10Z"
     }
+  },
+  {
+    "hash": "8a793959e3ce51e1d26ac6e0e5248c908b5f8d67fa32c14fd4f7d87e9db52a98",
+    "item": {
+      "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
+      "description": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military.\nTracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
+      "links": [
+        "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnxCYsEXKdQeC582l2xUR18p9qT9PP-_OwgroBPjibHEFWoZPrqTUckH1p0-NMSw0TV5lT6ih4jyxHy3BTV_6ApzqRCK5RAHSJU0S78WyrtWGyecrbDmCy9yrDDnA128PXV_zPCEjOHxyMbYfd52xiy2RMqZJrG1XMGW8urAl3WmkwbZNCAcpg5yTt7p-a/s1600/zimbra-email-hacking.jpg"
+      },
+      "published": "2025-10-06T06:01:00Z"
+    }
+  },
+  {
+    "hash": "b6cc3d7b374ef491cc26ef138092bcec1321026e4e13bbc184060e4dfe127088",
+    "item": {
+      "title": "Structured Procrastination",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45488261\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://structuredprocrastination.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T06:35:36Z"
+    }
+  },
+  {
+    "hash": "d4f2f164050a2aeae64e0c20d2ec2f571b3c9df1b2394b239d50dccc2cacee2f",
+    "item": {
+      "title": "Battering RAM – Low-Cost Interposer Attacks on Confidential Computing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45488713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://batteringram.eu/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T07:47:17Z"
+    }
+  },
+  {
+    "hash": "efe83efc75cfffa6f0729cb86c046f26ff7ad63a216b8fa53eee751e16f609e4",
+    "item": {
+      "title": "Flightcontrol: AWS PaaS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45488441\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.flightcontrol.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T07:07:11Z"
+    }
+  },
+  {
+    "hash": "ab17f694332e66096cd991ec57205182e317c7c22bf49e91f6d6fb90993c6817",
+    "item": {
+      "title": "Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489174\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://demodesk.com/careers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T08:49:30Z"
+    }
+  },
+  {
+    "hash": "0c271b8031a4e069b6eab41f2f6fb53c6710055132ecd93415581f92ba49ed52",
+    "item": {
+      "title": "Basic Math Textbook: The Napkin Project",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45456965\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://web.evanchen.cc/napkin.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-02T23:46:40Z"
+    }
+  },
+  {
+    "hash": "bf458a1813d420c33739d7a8095a23dccf6d9a86e78333af43582851c87fa7a1",
+    "item": {
+      "title": "Gem.coop",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45487771\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gem.coop/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T04:59:39Z"
+    }
+  },
+  {
+    "hash": "0c4f1e596873a17837291d4606da0e2c5d4206f1a765ef4b2e0207ee69b864bc",
+    "item": {
+      "title": "It's Just a Virus, the E.R. Told Him. Days Later, He Was Dead",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45487519\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T03:57:26Z"
+    }
+  },
+  {
+    "hash": "0cb4619128de8c9f1786d318b31b38ebdd10b4400a8b8cff41b3dab8444bb083",
+    "item": {
+      "title": "Retrocide Mono – A monospaced font with no decenders",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469658\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://geonot.github.io/retrocide-mono/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T01:24:35Z"
+    }
+  },
+  {
+    "hash": "dfa3ea07e56fed2d42e4ee4b45daa49cf8c1e87c774ad22e605e63cb8b66b564",
+    "item": {
+      "title": "Orcas are bringing humans gifts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469541\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newscientist.com/article/2486216-orcas-are-bringing-humans-gifts-what-does-it-mean/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-04T01:00:00Z"
+    }
+  },
+  {
+    "hash": "c956d6893809914387df6ffe2eacd420ca27bfa9b4bab74021d8e71eea8c48ec",
+    "item": {
+      "title": "Zürich voters ban noisy leaf blowers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45488729\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T07:50:22Z"
+    }
+  },
+  {
+    "hash": "aba35f2046397d7c090cca0c757877919497cc97ca8ad578c2dc7dd075f2f9fe",
+    "item": {
+      "title": "From Tether to STBL: Reeve Collins Charts the Future of Stablecoins and Web3",
+      "description": "\u003cp\u003eTether co-founder Reeve Collins shares insights on how his new governance token, STBL, aims to disrupt traditional stablecoin models.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/from-tether-to-stbl-reeve-collins-charts-the-future-of-stablecoins-and-web3/\"\u003eFrom Tether to STBL: Reeve Collins Charts the Future of Stablecoins and Web3\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/from-tether-to-stbl-reeve-collins-charts-the-future-of-stablecoins-and-web3/"
+      ],
+      "categories": [
+        "Exclusives",
+        "Stablecoin",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06083115/1759739474-reeve-collins.jpg"
+      },
+      "published": "2025-10-06T08:33:21Z"
+    }
+  },
+  {
+    "hash": "caf9445ec2fbf1d92ea5710c2116765e1c96d232400067cd4d283ac6bd57f491",
+    "item": {
+      "title": "Unity Patches Android Game Vulnerability That Risked Crypto User Security",
+      "description": "\u003cp\u003eUnity Technologies has released a security patch for its game engine, addressing a vulnerability that could have exposed crypto users to potential attacks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/unity-patches-android-game-vulnerability-that-risked-crypto-user-security/\"\u003eUnity Patches Android Game Vulnerability That Risked Crypto User Security\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/unity-patches-android-game-vulnerability-that-risked-crypto-user-security/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Hack",
+        "phishing attack",
+        "Scam"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06072248/1759735368-image-1759735169512_optimized.jpg"
+      },
+      "published": "2025-10-06T07:24:52Z"
+    }
+  },
+  {
+    "hash": "7ce2277a04f9aed7ccbd925dbe6f7672afd7e2e4a0c0f19cfff50404afd7f027",
+    "item": {
+      "title": "Fiscal Fears Fuel Flight to Bitcoin, Gold as Major Currencies Falter",
+      "description": "\u003cp\u003eMounting fiscal uncertainty in major economies is accelerating a shift into Bitcoin, gold, and silver, as investors brace for further currency debasement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fiscal-fears-fuel-flight-to-bitcoin-gold-as-major-currencies-falter/\"\u003eFiscal Fears Fuel Flight to Bitcoin, Gold as Major Currencies Falter\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fiscal-fears-fuel-flight-to-bitcoin-gold-as-major-currencies-falter/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Gold"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06062856/1759732135-image-1759732088561_optimized.jpg"
+      },
+      "published": "2025-10-06T06:30:09Z"
+    }
   }
 ]
