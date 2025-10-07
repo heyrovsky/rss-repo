@@ -2082,5 +2082,725 @@
       },
       "published": "2025-10-07T09:46:34Z"
     }
+  },
+  {
+    "hash": "1f603f1e7237b2976145c5fcc65c3fad2a6aabf5e0b3208addef91ed11cc31e0",
+    "item": {
+      "title": "The Many Memory Management Improvements In Linux 6.18",
+      "description": "The many memory management \"MM\" changes were recently merged into the Linux 6.18 kernel, consisting of a number of interesting patch series...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-MM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-07T14:45:33Z"
+    }
+  },
+  {
+    "hash": "93f8f1f25d1c8d370aa549a0b558f316312a3f24f9f864c457735cd180c841e2",
+    "item": {
+      "title": "Qualcomm Acquires Arduino, Announces Arduino UNO Q Built On Dragonwing",
+      "description": "Qualcomm announced today that they are acquiring Arduino, the popular open-source hardware/electronics prototyping platform for single-board micro-controllers...",
+      "links": [
+        "https://www.phoronix.com/news/Qualcomm-Acquires-Arduino"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-07T14:00:00Z"
+    }
+  },
+  {
+    "hash": "502e33a0ca98534ceb092c6a958cd232d3576c50d35806c850cf5b61f4c4c8a2",
+    "item": {
+      "title": "Linear Address Space Separation Revised Following Prior Intel Engineer's Departure",
+      "description": "Being worked on for the past roughly three years has been Linear Address Space Separation \"LASS\" for the Linux kernel as a security improvement in light of Spectre/Meltdown...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-LASS-v10"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-07T13:01:17Z"
+    }
+  },
+  {
+    "hash": "4efd3f58be7c5bdfdb7fc459ca1d5819aad326f2dbe90128251e6a6ffee2f48b",
+    "item": {
+      "title": "Realtek ECC Engine Driver Upstreamed For Linux 6.18",
+      "description": "The Memory Technology Device \"MTD\" subsystem updates are merged for the in-development Linux 6.18 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-MTD"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-07T12:20:00Z"
+    }
+  },
+  {
+    "hash": "5609968970592d861278f1b82b81a199a0e6f7bd45f44d840eeb3858e17d4f47",
+    "item": {
+      "title": "[$] Progress on defeating lifetime-end pointer zapping",
+      "description": "\u003cp\u003e\nPaul McKenney gave a remote presentation at\n\u003ca href=\"https://kangrejos.com/\"\u003e\nKangrejos\u0026#160;2025\u003c/a\u003e following up on the\ntalk he gave \u003ca href=\"https://lwn.net/Articles/993484/\"\u003elast year\u003c/a\u003e about the\nlifetime-end-pointer-zapping problem: certain common patterns for multithreaded code are\ntechnically undefined behavior, and changes to the C and \u003cspan style=\"whitespace:nowrap;\"\u003eC++\u003c/span\u003e specifications\nwill be needed to correct that. Those changes could also impact code that uses\nunsafe Rust, such as the kernel's Rust bindings. Progress on the problem has been slow,\nbut McKenney believes that a solution is near at hand.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1038757/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-10-07T15:04:16Z"
+    }
+  },
+  {
+    "hash": "ad9856a6c79234c0fc67308f6b148025ef4d2c39aa196a7da79a5b8c78df8089",
+    "item": {
+      "title": "[$] Highlights from systemd v258: part two",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/systemd/systemd/releases/tag/v258\"\u003eSystemd\nv258\u003c/a\u003e was released on September\u0026#160;17 after more than nine months\nof development. LWN has already \u003ca\nhref=\"https://lwn.net/Articles/1028275/\"\u003ecovered\u003c/a\u003e some of the\nfeatures and changes being readied for v258 before it was final. Now\nthat the release is out, it is time to look at more of what came in\nv258, including a sandbox shell, new boot options, service-level disk\nquotas, and enhancements to \u003ctt\u003esystemd-resolved\u003c/tt\u003e.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1039481/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-10-07T14:54:50Z"
+    }
+  },
+  {
+    "hash": "4e3df355d4c753fdeed394b7f4b33a375323320d923dbda1dc9327b9f47dba2f",
+    "item": {
+      "title": "Fasset Wins Malaysian License to Launch Stablecoin-Powered Islamic Digital Bank",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Fasset_wins_Malaysia_license_for_stablecoin_powered_‘Islamic_digital.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Fasset Wins Malaysian License to Launch Stablecoin-Powered Islamic Digital Bank\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Fasset_wins_Malaysia_license_for_stablecoin_powered_‘Islamic_digital.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Fasset_wins_Malaysia_license_for_stablecoin_powered_‘Islamic_digital-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Fasset_wins_Malaysia_license_for_stablecoin_powered_‘Islamic_digital-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eDubai-based fintech company Fasset has acquired regulatory clearance from Malaysia\u0026#8217;s Labuan Financial Services Authority to establish a digital banking service combining Islamic finance principles with the help of stablecoins.  The provisional license allows the financial technology company to work within a controlled regulatory environment while developing Shariah-compliant products for underserved",
+      "links": [
+        "https://thenewscrypto.com/fasset-wins-malaysian-license-to-launch-stablecoin-powered-islamic-digital-bank/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Malaysia",
+        "Stablecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Fasset_wins_Malaysia_license_for_stablecoin_powered_‘Islamic_digital.jpg"
+      },
+      "published": "2025-10-07T09:56:53Z"
+    }
+  },
+  {
+    "hash": "6c8f082bcfbe2179bbbd230dc284ea0401c6bb6b1478af323783ebc700cfbde1",
+    "item": {
+      "title": "PancakeSwap (CAKE) Activity Explodes 135% with $5 Bullish Target in Sight",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/PancakeSwap-CAKE-Activity-Explodes-135-with-5-Bullish-Target-in-Sight.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PancakeSwap (CAKE) Activity Explodes 135% with $5 Bullish Target in Sight\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/PancakeSwap-CAKE-Activity-Explodes-135-with-5-Bullish-Target-in-Sight.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/PancakeSwap-CAKE-Activity-Explodes-135-with-5-Bullish-Target-in-Sight-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/PancakeSwap-CAKE-Activity-Explodes-135-with-5-Bullish-Target-in-Sight-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAfter a brief 1.49% spike in the crypto market, the new trading day began with a recovery attempt. Most of the digital assets have been brought into the green zone, with some still in the red zone. The assets, like Bitcoin, Ethereum, and BNB, have emerged as the trending coins",
+      "links": [
+        "https://thenewscrypto.com/pancakeswap-cake-activity-explodes-135-with-5-bullish-target-in-sight/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "CAKE",
+        "Cryptocurrency",
+        "PancakeSwap"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/PancakeSwap-CAKE-Activity-Explodes-135-with-5-Bullish-Target-in-Sight.jpg"
+      },
+      "published": "2025-10-07T07:23:15Z"
+    }
+  },
+  {
+    "hash": "e7ab9b3ef4050f5eee2773c44af0bd8e2fd4338436a8399b55c943e0b53efa1e",
+    "item": {
+      "title": "It’s Prime Day 2025 part two, and here are the best deals we could find",
+      "description": "We've got deals on keyboards, laptops, accessories, and all kinds of stuff!",
+      "links": [
+        "https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/"
+      ],
+      "categories": [
+        "Shopping",
+        "Amazon Prime",
+        "Amazon Prime Day",
+        "prime day",
+        "shopping"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ars Staff"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1496117734-1152x648.jpg"
+      },
+      "published": "2025-10-07T13:00:25Z"
+    }
+  },
+  {
+    "hash": "62f23d75cf09a3828107554dbbd0e75fc00b4e38162083ef5280c382b8d94291",
+    "item": {
+      "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
+      "description": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe malicious activity involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that",
+      "links": [
+        "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_E80fLCTOyE9oZStmxUkAY2S7iogIJtqgN9qDKEY2NFBEvyufU3MpJ_e4Hna3sat5lynYV7L1LjCyPYnlouSfeCS06lhZf1az_bkxxXLXFIBETvrGS57yUrmiDQACc6eD9ByzSRyUgsObte06i0mm85QhnuApnq97MmG7pZgk0PAtMj_d0voohEhP2x-8/s1600/oracle-cyberattack.jpg"
+      },
+      "published": "2025-10-07T05:12:00Z"
+    }
+  },
+  {
+    "hash": "e65a9b46a5f01a95e4ce707c080ac3a3cf6fdfc2df47bb661bbc8c199cfb8465",
+    "item": {
+      "title": "Qualcomm to Acquire Arduino",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502541\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T13:00:08Z"
+    }
+  },
+  {
+    "hash": "111063ee3f66881bf2ca4d631eafe27f540c58e3cb1294bcd0d9626ecf58064f",
+    "item": {
+      "title": "The evolution of Lua, continued [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502502\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lua.org/doc/cola.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T12:54:14Z"
+    }
+  },
+  {
+    "hash": "df50606e147f5068a63cd03f7e4089bb8409d8b67cbe4ff6bc7412ffb2616dad",
+    "item": {
+      "title": "Erlang ARM32 JIT is born",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502543\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T13:00:25Z"
+    }
+  },
+  {
+    "hash": "90092c0597e21f5f70fd82497a75ba8cbc90f4eacf6df09607c67bdb718c6f07",
+    "item": {
+      "title": "Tcl-Lang Showcase",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502784\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wiki.tcl-lang.org/page/Showcase"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T13:25:33Z"
+    }
+  },
+  {
+    "hash": "8074c936d46c8adb260f9b2c97c0b9738607d64c2774e51a37f7a31ef20b0b27",
+    "item": {
+      "title": "Chess.com Regional Pricing: A Case Study",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45490629\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mobeigi.com/blog/economics/chesscom-regional-pricing/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T12:29:26Z"
+    }
+  },
+  {
+    "hash": "3deaf74ead1083a18233c9819eebdb2d16cfe2b72200c062553891137e7db13f",
+    "item": {
+      "title": "disk-perf-git-and-pnpm aims to prove that something is wrong with APFS on macOS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502173\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T12:14:16Z"
+    }
+  },
+  {
+    "hash": "6d4de6ef9d5d775b8bfb81811f23cb433598e98db183e33c70f47280918286c7",
+    "item": {
+      "title": "Reconstruction of Konrad Zuse's Z3 Computer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45467600\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T20:47:04Z"
+    }
+  },
+  {
+    "hash": "59b207b4a4bfcbdeec0f3dcdbcb5c0f0b10062967dac137a042f6423e3e73cb2",
+    "item": {
+      "title": "Show HN: Greenonion.ai – AI-Powered Design Assistant",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45500560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://exuberant-premise-723012.framer.app/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T08:04:49Z"
+    }
+  },
+  {
+    "hash": "59327cdf93dfb0becd8f846f79a91eee7014005169fcbc43d16d6c132c8acce7",
+    "item": {
+      "title": "Provision (YC S22) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502387\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T12:41:40Z"
+    }
+  },
+  {
+    "hash": "46754bbf8c06ac7699a1dd04259f7d6e38f30cf6e1c4ea0e80b84d2a2c8cb0f5",
+    "item": {
+      "title": "3M May Escape Toxic Chemical, PFAS Manufacturing Legacy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502748\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T13:22:04Z"
+    }
+  },
+  {
+    "hash": "fdebbd4cb5c46ee70e4b934f3c31d7cece3d7885ecf9787a1dd490545ec513e2",
+    "item": {
+      "title": "Who needs Git when you have 1M context windows?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45462877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-03T13:37:34Z"
+    }
+  },
+  {
+    "hash": "9b3970e0a399257294ef9621e977f4caba2b6ec44b108ca61aba81261562a9ff",
+    "item": {
+      "title": "Ahab's Arithmetic: The Mathematics of Moby-Dick",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489874\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720\u0026context=jhm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T10:38:21Z"
+    }
+  },
+  {
+    "hash": "d8a098fecee0bc3a8f421544662eec220a93a72118e8d6f6f4fbf7c4f4ad6758",
+    "item": {
+      "title": "Devpush – Open-source and self-hostable alternative to Vercel, Render, Netlify",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45501279\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/hunvreus/devpush"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T10:07:50Z"
+    }
+  },
+  {
+    "hash": "d98ce200cb9d677077da946098e6e412a929e5012be853217610c41aa41f0baf",
+    "item": {
+      "title": "Show HN: Blueprintor for Hardware Engineering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502979\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.zima.run/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T13:42:49Z"
+    }
+  },
+  {
+    "hash": "9ef2896f0044c3fc4fe9dfbb45804871fbae9956ba80d64d80995a96fc8d172b",
+    "item": {
+      "title": "A mechanic offered a reason why no one wants to work in the industry",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45500699\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T08:27:41Z"
+    }
+  },
+  {
+    "hash": "9dc93f0bc73792cc21de47f2b558a7d814795a4492f7f7a7073cdc058f631000",
+    "item": {
+      "title": "No account? No Windows 11, Microsoft says as another loophole snaps shut",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45503726\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T14:45:54Z"
+    }
+  },
+  {
+    "hash": "cb46440f24e5934bf98d49375ef523fd15c4cfe3ba29348cd9275bb5e5351285",
+    "item": {
+      "title": "Dubai Regulator VARA Sanctions 19 Crypto Firms Operating Without Licenses – Fines Up to $163K Each",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eDubai's Virtual Assets Regulatory Authority sanctioned 19 crypto firms for operating without licenses, issuing fines between AED 100,000-600,000 ($27K-$163K) as UAE ranks first globally in crypto adoption with 210% growth and 25.3% ownership rate.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dubai-regulator-vara-sanctions-19-crypto-firms-operating-without-licenses-fines-up-to-163k-each/\"\u003eDubai Regulator VARA Sanctions 19 Crypto Firms Operating Without Licenses – Fines Up to $163K Each\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dubai-regulator-vara-sanctions-19-crypto-firms-operating-without-licenses-fines-up-to-163k-each/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Dubai",
+        "VARA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07132346/1759843425-chatgpt-image-oct-7-2025-02_23_17-pm_optimized.webp"
+      },
+      "published": "2025-10-07T14:48:33Z"
+    }
+  },
+  {
+    "hash": "254b9dac5896631f8d4ad1c7ee342369e036d8881e7a21a321f8e5f9894735e8",
+    "item": {
+      "title": "Bitcoin Becomes a “Cornerstone of Financial Security,” to Join Central Bank Reserves: Deutsche Bank",
+      "description": "\u003cp\u003eBitcoin’s path to becoming a central bank reserve asset may no longer be far-fetched, according to Deutsche Bank analyst.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-becomes-a-cornerstone-of-financial-security-to-join-central-bank-reserves-deutsche-bank/\"\u003eBitcoin Becomes a “Cornerstone of Financial Security,” to Join Central Bank Reserves: Deutsche Bank\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-becomes-a-cornerstone-of-financial-security-to-join-central-bank-reserves-deutsche-bank/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bank",
+        "Bitcoin",
+        "Central Bank"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07125053/1759841452-image-1759841333968_optimized.jpg"
+      },
+      "published": "2025-10-07T14:44:41Z"
+    }
+  },
+  {
+    "hash": "7306d8beb53db4128796b6325b973a08af59812703bb6103e71e3f37a1fe8d07",
+    "item": {
+      "title": "AI Ransomware Attacks Surge as Groups Leverage Automation to Target Victims – Is Your Crypto Secure?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eNine AI-powered ransomware groups emerged in the past 12 months using polymorphic malware and automated social engineering as global crypto scam losses surged to $4.6 billion in 2024 and authorities dismantled 87 AI-driven scam rings in Q1 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ai-ransomware-attacks-surge-as-groups-leverage-automation-to-target-victims-is-your-crypto-secure/\"\u003eAI Ransomware Attacks Surge as Groups Leverage Automation to Target Victims – Is Your Crypto Secure?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ai-ransomware-attacks-surge-as-groups-leverage-automation-to-target-victims-is-your-crypto-secure/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "AI",
+        "deepfake"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07085928/1759827567-chatgpt-image-oct-7-2025-09_58_50-am_optimized.webp"
+      },
+      "published": "2025-10-07T14:42:18Z"
+    }
+  },
+  {
+    "hash": "24901fa093ae3e0fe332dda28240a9e1ea975e3522f3b42d6675ea6b32414dec",
+    "item": {
+      "title": "Kraken Adds WLD \u0026 WLFI Token Pairs; Upgrades Margin Trading With Up to 10x Leverage",
+      "description": "\u003cp\u003eKraken has enhanced its margin trading platform by introducing WLD \u0026amp; WLFI token pairs and offering up to 10x margin leverage. Learn all about it in this article.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/kraken-adds-wld-wlfi-token-pairs-upgrades-margin-trading-with-up-to-10x-leverage/\"\u003eKraken Adds WLD \u0026amp; WLFI Token Pairs; Upgrades Margin Trading With Up to 10x Leverage\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/kraken-adds-wld-wlfi-token-pairs-upgrades-margin-trading-with-up-to-10x-leverage/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Kraken",
+        "WLD"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07143427/1759847666-wld.png"
+      },
+      "published": "2025-10-07T14:37:20Z"
+    }
+  },
+  {
+    "hash": "4fe2879b8f702eb4e1fd6355587d61f418f80a77b069c2b8bb86299f3e452bda",
+    "item": {
+      "title": "Explore Early-Stage Crypto Opportunities with Kraken Launch: A Legion-Exclusive Partnership",
+      "description": "\u003cp\u003eKraken Launch is democratizing crypto fundraising through an exclusive partnership with Legion. Read more about Kraken’s new token launchpad here.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/explore-early-stage-crypto-opportunities-with-kraken-launch-a-legion-exclusive-partnership/\"\u003eExplore Early-Stage Crypto Opportunities with Kraken Launch: A Legion-Exclusive Partnership\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/explore-early-stage-crypto-opportunities-with-kraken-launch-a-legion-exclusive-partnership/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Kraken"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07142134/1759846893-kraken.png"
+      },
+      "published": "2025-10-07T14:27:13Z"
+    }
+  },
+  {
+    "hash": "af5a98ccbc17d78ff57ae57cb2250b8cd2228432f1d141204a6c094cc1099f7b",
+    "item": {
+      "title": "ADA’s Bullish Flag Pattern Draws Attention; OPTO Miner Launches ADA Hashrate Contracts to Boost Long-Term Opportunities",
+      "description": "\u003cp\u003eOPTO Miner, a UK-registered, compliant cloud mining platform, launched ADA contracts. Investors can activate mining contracts using their existing ADA without having to sell their tokens.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/adas-bullish-flag-pattern-draws-attention-opto-miner-launches-ada-hashrate-contracts-to-boost-long-term-opportunities/\"\u003eADA\u0026#8217;s Bullish Flag Pattern Draws Attention; OPTO Miner Launches ADA Hashrate Contracts to Boost Long-Term Opportunities\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/adas-bullish-flag-pattern-draws-attention-opto-miner-launches-ada-hashrate-contracts-to-boost-long-term-opportunities/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07141042/1759846241-opto-miner.jpg"
+      },
+      "published": "2025-10-07T14:14:34Z"
+    }
+  },
+  {
+    "hash": "b814eb2fa31aba4b0232e28091d35aac8351494e91f26172e0d1778afccfd8dd",
+    "item": {
+      "title": "Meanwhile Raises $82M to Scale Bitcoin-Based Life Insurance and Retirement Products",
+      "description": "\u003cp\u003eMeanwhile, the first regulated Bitcoin life insurer, has raised $82 million in new capital to expand its suite of Bitcoin-denominated savings, life insurance, and annuity products. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/meanwhile-raises-82m-to-scale-bitcoin-based-life-insurance-and-retirement-products/\"\u003eMeanwhile Raises $82M to Scale Bitcoin-Based Life Insurance and Retirement Products\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/meanwhile-raises-82m-to-scale-bitcoin-based-life-insurance-and-retirement-products/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "funding",
+        "Life Insurance",
+        "Meanwhile"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/06/10092918/1749547757-funding_optimized.jpg"
+      },
+      "published": "2025-10-07T14:07:38Z"
+    }
+  },
+  {
+    "hash": "184295243efaaa2ad48f1f04e10bb6cc1e573cbe5121cc73080537ca98faafe9",
+    "item": {
+      "title": "Can ETH Become the Next Value Haven? Siton Mining Launches ETH Contracts, Ushering in a New Era",
+      "description": "\u003cp\u003eSiton Mining—the world's leading intelligent cloud mining platform—officially launches its exclusive ETH mining contract service.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/can-eth-become-the-next-value-haven-siton-mining-launches-eth-contracts-ushering-in-a-new-era/\"\u003eCan ETH Become the Next Value Haven? Siton Mining Launches ETH Contracts, Ushering in a New Era\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/can-eth-become-the-next-value-haven-siton-mining-launches-eth-contracts-ushering-in-a-new-era/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07135506/1759845306-siton-mining.jpg"
+      },
+      "published": "2025-10-07T13:56:29Z"
+    }
+  },
+  {
+    "hash": "dac18635f7318ab0734b33dafe2e45e5ac5991e0dfa87af831a125d23ccbc825",
+    "item": {
+      "title": "Bitcoin Price Prediction: New All-Time High Hits as Telegram Billionaire Says $1M BTC Is Coming",
+      "description": "\u003cp\u003eBitcoin’s next leg up? Telegram mogul’s $1M call shakes markets – Bitcoin price prediction eyes parabolic surge.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-new-all-time-high-hits-as-telegram-billionaire-says-1m-btc-is-coming/\"\u003eBitcoin Price Prediction: New All-Time High Hits as Telegram Billionaire Says $1M BTC Is Coming\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-new-all-time-high-hits-as-telegram-billionaire-says-1m-btc-is-coming/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07131735/1759843054-bitcoin-price-prediction-39.jpg"
+      },
+      "published": "2025-10-07T13:19:33Z"
+    }
+  },
+  {
+    "hash": "310b873085a23d51ac90e1f991afe4840c6611f9cafbf69cdebfd04f31b343ba",
+    "item": {
+      "title": "BNB Hits Second ATH This Month, Crosses $1,300 Barrier – Is $1,500 Next?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eBinance Coin surged past $1,300 for its second all-time high this month with a 19% weekly gain, flipping XRP to become the third-largest cryptocurrency at $154 billion market cap as BNB Chain topped all blockchains in 24-hour fees.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bnb-hits-second-ath-this-month-crosses-1300-barrier-is-1500-next/\"\u003eBNB Hits Second ATH This Month, Crosses $1,300 Barrier \u0026#8211; Is $1,500 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bnb-hits-second-ath-this-month-crosses-1300-barrier-is-1500-next/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Binance Coin",
+        "BNB"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07123716/1759840635-stock-image_optimized-7.webp"
+      },
+      "published": "2025-10-07T13:13:13Z"
+    }
+  },
+  {
+    "hash": "36f7e16614eb5026b172b7adfc639ea6c8a7d43f35209a5f64d5b9ca012bae1d",
+    "item": {
+      "title": "RipplecoinMining Launches Cloud Computing Services, Enabling BTC/DOGE Cloud Mining and Ushering in a New Multi-Currency Era",
+      "description": "\u003cp\u003eWith zero barriers to entry, AI-powered scheduling, and a secure and transparent mechanism, RipplecoinMining helps users easily join the trend of digital asset appreciation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/ripplecoinmining-launches-cloud-computing-services-enabling-btc-doge-cloud-mining-and-ushering-in-a-new-multi-currency-era/\"\u003eRipplecoinMining Launches Cloud Computing Services, Enabling BTC/DOGE Cloud Mining and Ushering in a New Multi-Currency Era\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/ripplecoinmining-launches-cloud-computing-services-enabling-btc-doge-cloud-mining-and-ushering-in-a-new-multi-currency-era/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07130459/1759842298-ripplecoinmining.jpg"
+      },
+      "published": "2025-10-07T13:06:09Z"
+    }
+  },
+  {
+    "hash": "175561c26d167470db7e15f8f05c0263bf5ee13e475708102acf0557ada369c3",
+    "item": {
+      "title": "Institutions and ETFs Now Hold 12.5M ETH, Over 10% of Ethereum Supply",
+      "description": "\u003cp\u003eInstitutional demand for Ethereum is hitting new highs, with treasury firms and exchange-traded funds now holding roughly 10.31% of ETH’s total supply.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/institutions-and-etfs-now-hold-12-5m-eth-over-10-of-ethereum-supply/\"\u003eInstitutions and ETFs Now Hold 12.5M ETH, Over 10% of Ethereum Supply\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/institutions-and-etfs-now-hold-12-5m-eth-over-10-of-ethereum-supply/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ETFs",
+        "Ethereum",
+        "Ethereum ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07112004/1759836003-0_0_optimized-1.jpg"
+      },
+      "published": "2025-10-07T12:29:30Z"
+    }
+  },
+  {
+    "hash": "4992123a2bbc3e42d7b055be50fa0b2aec25dd7e20490112fb4f7aaca9ea6136",
+    "item": {
+      "title": "Can’t Mine XRP? Explore New Avenues with Mint Miner Cloud Mining",
+      "description": "\u003cp\u003eXRP’s value extends far beyond its price, powering fast remittances, loyalty rewards, and institutional finance. The cloud mining solution provided by Mint Miner opens up novel opportunities for XRP investors.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/cant-mine-xrp-explore-new-avenues-with-mint-miner-cloud-mining/\"\u003eCan\u0026#8217;t Mine XRP? Explore New Avenues with Mint Miner Cloud Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/cant-mine-xrp-explore-new-avenues-with-mint-miner-cloud-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/07121106/1759839065-mint-miner.jpg"
+      },
+      "published": "2025-10-07T12:18:26Z"
+    }
   }
 ]
