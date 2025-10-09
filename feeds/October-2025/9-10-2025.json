@@ -3141,5 +3141,767 @@
       },
       "published": "2025-10-09T13:14:13Z"
     }
+  },
+  {
+    "hash": "7e1a0fdd0799f7195d9b333db7e429a77ac54257e26f148dc2463fbf3021df04",
+    "item": {
+      "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
+      "description": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.\n\"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
+      "links": [
+        "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOEstrhyphenhyphenCizrJ5PlhokPBRwlpC1NBlLi1ZOZIPhyphenhyphenPzYz_G9Ym0BQ-3RfmcK-GWOnK4TpboCcI9WU5r_ZbK5Jl97nD7MIAEOFyjyByLvCzyMl-jOGCe4VA1tnpnFTeT40m9GfbTiIdaCm_iS5fW-Fse_Hvq2TadRhGUQ6FcoRGLUaFYdD-RFNaMA7i60-IU/s1600/chinese.jpg"
+      },
+      "published": "2025-10-09T17:19:00Z"
+    }
+  },
+  {
+    "hash": "08d707dbdf226a48494bf14a2645e874866306832329267e43aeac86b9c846b9",
+    "item": {
+      "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
+      "description": "A rapidly evolving Android spyware campaign called ClayRat has targeted users in Russia using a mix of Telegram channels and lookalike phishing websites by impersonating popular apps like WhatsApp, Google Photos, TikTok, and YouTube as lures to install them.\n\"Once active, the spyware can exfiltrate SMS messages, call logs, notifications, and device information; taking photos with the front",
+      "links": [
+        "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBW7NzBs5DgAJ2IJw5cj7fUW4lCbGH00TXlg15BFhceJegdd3WWB7zOuuRrNArH4wFRUIcoxzLyybLpU-m2SRJrK1cey_QlfvhRmOO3pSJkPHQPxOLOHz80pP-n-tmpT-1Kt4GX9kPR_HJkiTiWGZewCE6yxuhRg1juJOSx45L6NXuuo7_8Qmfe3O4rpPd/s1600/spyware.jpg"
+      },
+      "published": "2025-10-09T15:30:00Z"
+    }
+  },
+  {
+    "hash": "4703bccb2bcd21dbd4acc8120b99aec625dd2ea3f09f4be1056df9f9bbac6568",
+    "item": {
+      "title": "[$] Gccrs after libcore",
+      "description": "Despite its increasing popularity, the Rust programming language is still\nsupported by a single compiler, the LLVM-based rustc.  At the \u003ca\nhref=\"https://conf.gnu-tools-cauldron.org/opo25/\"\u003e2025 GNU Tools\nCauldron\u003c/a\u003e, Pierre-Emmanuel Patry said that a lot of people are waiting\nfor a GCC-based Rust compiler before jumping into the language.  Patry, who\nis working on just that compiler (known as \"gccrs\"), provided an update on\nthe status of that project and what is coming next.",
+      "links": [
+        "https://lwn.net/Articles/1040197/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-10-09T17:10:11Z"
+    }
+  },
+  {
+    "hash": "5338d1c91386b74e4f3fc8bff509f503bbe82538405d858544e1c16e8be27edc",
+    "item": {
+      "title": "[$] Last-minute /boot boost for Fedora 43",
+      "description": "\u003cp\u003eSudden increases in the size of Fedora's \u003ca\nhref=\"https://static.lwn.net/kerneldoc/filesystems/ramfs-rootfs-initramfs.html#what-is-initramfs\"\u003einitramfs\u003c/a\u003e\nfiles have prompted the project to fast-track a proposal to increase\nthe default size of the \u003ctt\u003e/boot\u003c/tt\u003e partition for new installs of\nFedora\u0026#160;43 and later. The project has also walked back a few\nchanges that have contributed to larger initramfs files, but the\never-increasing size of firmware means that the need for more room is\nunavoidable. The Fedora Engineering Steering Council (FESCo) has\napproved a last-minute \u003ca\nhref=\"https://fedoraproject.org/wiki/Changes/2GbootPartition\"\u003echange\u003c/a\u003e\njust before the final freeze for Fedora\u0026#160;43 to increase the\ndefault size of the \u003ctt\u003e/boot\u003c/tt\u003e partition from 1GB to 2GB; this\nwill leave plenty of space for kernels and initramfs images if a user\nis installing from scratch, but it is of no help for users upgrading\nfrom Fedora\u0026#160;42.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1041078/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-10-09T15:44:22Z"
+    }
+  },
+  {
+    "hash": "9eff5185217a858dd08a89f569378d4dd4833a4ec7e5fde9128502101da32aab",
+    "item": {
+      "title": "Ubuntu 25.10 released",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://lists.ubuntu.com/archives/ubuntu-announce/2025-October/000318.html\"\u003eUbuntu\n25.10\u003c/a\u003e, \"Questing Quokka\", has been released. This release includes\nLinux\u0026#160;6.17, GNOME\u0026#160;49, GCC\u0026#160;15, Python\u0026#160;3.13.7,\nRust\u0026#160;1.85, and more. This release also features Rust-based\nimplementations of sudo and coreutils; LWN \u003ca\nhref=\"https://lwn.net/Articles/1014002/\"\u003ecovered\u003c/a\u003e the switch to the\nRust-based tools in March. The 25.10 version of Ubuntu flavors\nEdubuntu, Kubuntu, Lubuntu, Ubuntu Budgie, Ubuntu Cinnamon, Ubuntu\nKylin, Ubuntu MATE, Ubuntu Studio, and Xubuntu have \u003ca\nhref=\"https://discourse.ubuntu.com/t/questing-quokka-release-notes/59220#heading--official-flavours\"\u003ealso\nbeen released\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1041405/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-10-09T15:26:01Z"
+    }
+  },
+  {
+    "hash": "f0fa48018ae7590f6a94aa25c896a86e154b9f62148a4ddd6afcecec9717b486",
+    "item": {
+      "title": "Musk’s X posts on ketamine, Putin spur release of his security clearances",
+      "description": "Conditions of Elon Musk’s top-secret clearances may soon be exposed.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/10/musks-x-posts-on-ketamine-putin-spur-release-of-his-security-clearances/"
+      ],
+      "categories": [
+        "Policy",
+        "department of government efficiency",
+        "doge",
+        "Elon Musk",
+        "spacex",
+        "starlink",
+        "Twitter",
+        "vladimir putin",
+        "X"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2217198061-1024x648.jpg"
+      },
+      "published": "2025-10-09T16:12:00Z"
+    }
+  },
+  {
+    "hash": "34100a3a898d8d3406f28cb23e86e0bbc64708bd45a03c294e0a228cf2ff827b",
+    "item": {
+      "title": "Not a game: Cards Against Humanity avoids tariffs by ditching rules, explaining jokes",
+      "description": "You absolutely, definitely cannot play it.",
+      "links": [
+        "https://arstechnica.com/culture/2025/10/to-avoid-tariffs-cards-against-humanity-becomes-information-material-not-a-game/"
+      ],
+      "categories": [
+        "Culture",
+        "cards against humanity",
+        "jokes",
+        "tariffs",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/explain-the-joke-1152x648-1759955604.jpg"
+      },
+      "published": "2025-10-08T20:51:22Z"
+    }
+  },
+  {
+    "hash": "73311b4ef75824dd4794f134fc49392faf3a0ae84e54c1b99a959bc53204c605",
+    "item": {
+      "title": "BTCC Exchange Hits 10M Users and $1.15T Q3 Trading Volume, Accelerating Global Expansion",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"900\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1-376x212.jpg 376w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eVILNIUS, Lithuania, 9th October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/btcc-exchange-hits-10m-users-and-1-15t-q3-trading-volume-accelerating-global-expansion/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/EN_1600x900_5_1760005812TR2jiPjyF1.jpg"
+      },
+      "published": "2025-10-09T13:49:00Z"
+    }
+  },
+  {
+    "hash": "4cf8a9643eb826337444e56e6f83e279605ae75a45d56a0474b1dbbbabd0a65e",
+    "item": {
+      "title": "Bearish Winds for Four (FORM): Could the 17% Drop Trigger a Market-Moving Death Cross?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Winds-for-Four-FORM-Could-the-17-Drop-Trigger-a-Market-Moving-Death-Cross.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bearish Winds for Four (FORM): Could the 17% Drop Trigger a Market-Moving Death Cross?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Winds-for-Four-FORM-Could-the-17-Drop-Trigger-a-Market-Moving-Death-Cross.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Winds-for-Four-FORM-Could-the-17-Drop-Trigger-a-Market-Moving-Death-Cross-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Winds-for-Four-FORM-Could-the-17-Drop-Trigger-a-Market-Moving-Death-Cross-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market is reddish in shade, and with the prolonged bearish trend, the market cap is settled at $4.18 trillion. The brief bullish spike is not gaining enough momentum to flash the green light. With this swing in the market, the assets are tired of moving up and down,",
+      "links": [
+        "https://thenewscrypto.com/bearish-winds-for-four-form-could-the-17-drop-trigger-a-market-moving-death-cross/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Crypto",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Winds-for-Four-FORM-Could-the-17-Drop-Trigger-a-Market-Moving-Death-Cross.jpg"
+      },
+      "published": "2025-10-09T13:34:07Z"
+    }
+  },
+  {
+    "hash": "f457700885c11aedf31a1f775ebad2b2f9fcdc0c6129be1a17522505743dd6c1",
+    "item": {
+      "title": "SoftBank’s PayPay Snaps Up 40% of Binance Japan in Digital Finance Power Play",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/SoftBanks-PayPay-acquires-40-stake-in-Binance-Japan.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SoftBank\u0026#039;s PayPay Snaps Up 40% of Binance Japan in Digital Finance Power Play\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/SoftBanks-PayPay-acquires-40-stake-in-Binance-Japan.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/SoftBanks-PayPay-acquires-40-stake-in-Binance-Japan-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/SoftBanks-PayPay-acquires-40-stake-in-Binance-Japan-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePayPay, a payment service from SoftBank Group, has acquired a major minority stake in Binance\u0026#8217;s business in Japan, allowing the Findex ecosystem to make strides into crypto services. This investment recognizes PayPay as an influential player in Japan\u0026#8217;s rapidly evolving digital asset market, and it increases Binance\u0026#8217;s footprint in the",
+      "links": [
+        "https://thenewscrypto.com/softbanks-paypay-snaps-up-40-of-binance-japan-in-digital-finance-power-play/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Binance",
+        "Japan",
+        "SoftBank"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/SoftBanks-PayPay-acquires-40-stake-in-Binance-Japan.jpg"
+      },
+      "published": "2025-10-09T11:11:33Z"
+    }
+  },
+  {
+    "hash": "dbb68ea2e4deaca71de314d3d560c5b247232f8d606f2081dbea7163f2b8f4ad",
+    "item": {
+      "title": "Mantle (MNT) Price: Is It Heading Toward $3 or Is the Red Light Zone Approaching?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Mantle-MNT-Price-Is-It-Heading-Toward-3-or-Is-the-Red-Light-Zone-Approaching.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mantle (MNT) Price: Is It Heading Toward $3 or Is the Red Light Zone Approaching?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Mantle-MNT-Price-Is-It-Heading-Toward-3-or-Is-the-Red-Light-Zone-Approaching.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Mantle-MNT-Price-Is-It-Heading-Toward-3-or-Is-the-Red-Light-Zone-Approaching-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Mantle-MNT-Price-Is-It-Heading-Toward-3-or-Is-the-Red-Light-Zone-Approaching-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe digital assets in the market are oscillating between green and red price ranges. With the broader neutral sentiment, the largest assets, Bitcoin (BTC) and Ethereum (ETH), are attempting to enter the upward track, currently trading at $121.6K and $4.3K. Among the altcoins, Mantle (MNT) has registered a 6.7% surge,",
+      "links": [
+        "https://thenewscrypto.com/mantle-mnt-price-is-it-heading-toward-3-or-is-the-red-light-zone-approaching/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "Mantle",
+        "MNT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Mantle-MNT-Price-Is-It-Heading-Toward-3-or-Is-the-Red-Light-Zone-Approaching.jpg"
+      },
+      "published": "2025-10-09T10:55:54Z"
+    }
+  },
+  {
+    "hash": "3f10d863f849547ad3316c0921530f777a63b513ff878722a31c29dadceeff60",
+    "item": {
+      "title": "Bepay Money Powers Bitcoin 2140 Forum in Dubai, Showcasing Bepay Business Merchant Solutions for Global Commerce",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bepay Money Powers Bitcoin 2140 Forum in Dubai, Showcasing Bepay Business Merchant Solutions for Global Commerce\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1-376x212.png 376w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eThe Bitcoin 2140 Forum arrives at Dubai Knowledge Park, powered by bepay money, the global cross-border payment platform. Under the theme “Pioneering the Path to Bitcoin\u0026#8217;s Future,” the forum brings together 60+ world-class speakers, 50+ leading Bitcoin projects, 200+ global experts, and 10K+ BTC representations, including institutional and merchant participants",
+      "links": [
+        "https://thenewscrypto.com/bepay-money-powers-bitcoin-2140-forum-in-dubai-showcasing-bepay-business-merchant-solutions-for-global-commerce/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bepay",
+        "Blockchain",
+        "Dubai"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Merchant-1.png"
+      },
+      "published": "2025-10-09T10:30:00Z"
+    }
+  },
+  {
+    "hash": "d8d3efac9dee76d3a9758434de46b635998b101724c6c9a3acfed890e4a97333",
+    "item": {
+      "title": "MEXC Concludes “Race to Zero” Event, Unlocking 1 BTC Prize Pool",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"299\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-10.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"MEXC Concludes \u0026quot;Race to Zero\u0026quot; Event, Unlocking 1 BTC Prize Pool\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-10.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-10-300x175.png 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, has successfully concluded its \u0026#8220;Race to Zero\u0026#8221; event, attracting 134,349 registered users and unlocking a 1 BTC prize pool (valued at 122,194.64 USDT), reflecting strong community interest in the platform\u0026#8217;s innovative events. The event featured a unique \u0026#8220;Race to Zero\u0026#8221; gameplay where participants competed",
+      "links": [
+        "https://thenewscrypto.com/mexc-concludes-race-to-zero-event-unlocking-1-btc-prize-pool/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-10.png"
+      },
+      "published": "2025-10-09T10:24:02Z"
+    }
+  },
+  {
+    "hash": "700c42da881ffcb4f549cb217b833d023b1da8d68cf16d55d117249fe98d6694",
+    "item": {
+      "title": "A small number of samples can poison LLMs of any size",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529587\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/research/small-samples-poison"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:04:04Z"
+    }
+  },
+  {
+    "hash": "6e54ffb69f54ccff7fba58f7c01a1a38c8be907d7091abc1478dbf6ae1827c14",
+    "item": {
+      "title": "Rubygems.org AWS Root Access Event – September 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530832\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T17:48:23Z"
+    }
+  },
+  {
+    "hash": "a1940d9b8037a23e12d1bcc8c6fe7eab9954f2f0fbfd96a72e069600877b7479",
+    "item": {
+      "title": "New nanotherapy clears amyloid-β reversing Alzheimer's in mice",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45528308\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T14:36:52Z"
+    }
+  },
+  {
+    "hash": "8c2c74ff1b487eb0842101081d0e810ea6a08ccdcfd210c34e86bffeb0bda9f4",
+    "item": {
+      "title": "Show HN: I've built a tiny hand-held keyboard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529393\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/mafik/keyer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T15:51:20Z"
+    }
+  },
+  {
+    "hash": "61ba8b74d43a18b1454a4f84167ee88d6e7af1bb96a45eb9b2ea995bcadd90d4",
+    "item": {
+      "title": "My First Contribution to Linux",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45490652\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vkoskiv.com/first-linux-patch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T12:31:32Z"
+    }
+  },
+  {
+    "hash": "c19072576e29712b60ec29342aea98e8d5756850fe6d6be945c2bfd8fec78010",
+    "item": {
+      "title": "Fireman Sam (Commodore 64)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530172\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:49:31Z"
+    }
+  },
+  {
+    "hash": "ef36e4b32f731d0a5528e6883f3c417cdbd95128a02e043d2d2e6a27de9153dd",
+    "item": {
+      "title": "ESP32 and Termux",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530261\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.gavide.dev/blog/esp32-and-termux"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:56:52Z"
+    }
+  },
+  {
+    "hash": "f2028f1f451bb75f62f56c0bec5d565ec20a75d2910bc423996af3d338a7d55a",
+    "item": {
+      "title": "Subway Builder: A Realistic Subway Simulation Game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530744\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.subwaybuilder.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T17:38:29Z"
+    }
+  },
+  {
+    "hash": "7467bc375421e7919c447d747af474f3890f48ebd5b4b6feb4daee3380ffacc7",
+    "item": {
+      "title": "Launch HN: Extend (YC W23) – Turn your messiest documents into data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529628\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.extend.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:06:49Z"
+    }
+  },
+  {
+    "hash": "9a8e4336156df1539412b50539418fc4708f986c64535731ba24117038e24353",
+    "item": {
+      "title": "Cybersecurity Training Programs Don't Prevent Phishing Scams",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529577\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:03:06Z"
+    }
+  },
+  {
+    "hash": "e01327ab186e6be83760f3b78be5ceac3585a105aca8ea38dc8c52dd0b36dfe6",
+    "item": {
+      "title": "Goiaba: An experimental Go compiler, written in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529748\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/raphamorim/goiaba"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:15:08Z"
+    }
+  },
+  {
+    "hash": "82dcd2303079cd2726f43a0325c047ae696ed8ba44050f67722c68da0981d975",
+    "item": {
+      "title": "Python 3.14 Is Here. How Fast Is It? – Miguelgrinberg.com",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529764\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:16:06Z"
+    }
+  },
+  {
+    "hash": "ce7a193641b013f184ded9a99f125c43ba8ac2f3670491f2f96cd6e08c2ad909",
+    "item": {
+      "title": "Incident with Webhooks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45528735\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.githubstatus.com/incidents/k7bhmjkblcwp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T15:05:52Z"
+    }
+  },
+  {
+    "hash": "5d172378f0b859d8bd656be7f459debd6b43ef3d9d58f3244ebccc2db705ec99",
+    "item": {
+      "title": "Programmer in Wonderland",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529483\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://binaryigor.com/programmer-in-wonderland.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T15:56:47Z"
+    }
+  },
+  {
+    "hash": "c4aca1c0dd507bdad060d9c6034d952f1a3cfd59268b1113a2987373bb635bc5",
+    "item": {
+      "title": "Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530234\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/economy/federal-budget-fiscal-2025-e8d21595"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T16:55:03Z"
+    }
+  },
+  {
+    "hash": "6c0003a00cc01a275c14fc14a8baef8c24954bb57741d45bbc2384e5fa537136",
+    "item": {
+      "title": "Linux Seeing First LED Driver Written In Rust",
+      "description": "The expanse of Rust-written kernel drivers for Linux continues. Posted to the Linux kernel mailing list is the first LED kernel driver written in the Rust programming language...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Rust-LED-Driver-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-09T18:06:26Z"
+    }
+  },
+  {
+    "hash": "7b4c72cec17edaf1023742d94d9b73fb78fb7e6421582242dc61f25c82dbec6e",
+    "item": {
+      "title": "First in UAE – Bybit Snags SCA License, Unlocking Regulated Trading and Custody",
+      "description": "\u003cp\u003eBybit has received an SCA License from the UAE’s national securities regulator, extending coverage beyond Dubai’s VARA and permitting regulated trading, brokerage, custody, and fiat conversion for retail and institutional users across the UAE mainland.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bybit-becomes-first-crypto-exchange-to-secure-uae-sca-virtual-asset-license/\"\u003eFirst in UAE – Bybit Snags SCA License, Unlocking Regulated Trading and Custody\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bybit-becomes-first-crypto-exchange-to-secure-uae-sca-virtual-asset-license/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "ByBit",
+        "Dubai",
+        "UAE"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09170659/1760029619-image-1760029586025_optimized.webp"
+      },
+      "published": "2025-10-09T18:02:04Z"
+    }
+  },
+  {
+    "hash": "1a0313fcb5c60a72d1e6e60af85c00a5249627ad94937cd73f57908d6a54b380",
+    "item": {
+      "title": "“Working on It”: Senator Lummis Backs Jack Dorsey’s Push for a Bitcoin Tax Exemption",
+      "description": "\u003cp\u003eSenator Cynthia Lummis has supported Jack Dorsey’s call for a Bitcoin tax exemption on everyday transactions, stating she is working on the issue. The proposal would revive a failed legislative push.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/working-on-it-senator-lummis-backs-jack-dorseys-push-for-a-bitcoin-tax-exemption/\"\u003e“Working on It”: Senator Lummis Backs Jack Dorsey’s Push for a Bitcoin Tax Exemption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/working-on-it-senator-lummis-backs-jack-dorseys-push-for-a-bitcoin-tax-exemption/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Crypto Regulation News",
+        "Bitcoin",
+        "crypto tax",
+        "Cynthia Lummis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09134719/1760017639-781eee48-e9c5-4122-9de1-6e9a9327d355_optimized.jpg"
+      },
+      "published": "2025-10-09T17:47:23Z"
+    }
+  },
+  {
+    "hash": "11edf3aa0dcf864361ff2128193c5ea0071198d9a30ac72937a3bc98edef55b8",
+    "item": {
+      "title": "BONK Price Prediction: 400% Breakout Looms as BONK Overtakes DOGE and SHIB in Trader Watchlists",
+      "description": "\u003cp\u003eBONK price prediction has detailed BONK’s decline during “Rektober,” while analysts have maintained a constructive outlook. Accumulation, mid-range RSI, a potential MACD crossover, and exchange outflows have supported the thesis as Solana’s advance has continued toward prior highs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonk-price-prediction-400-breakout-looms-as-bonk-overtakes-doge-and-shib-in-trader-watchlists/\"\u003eBONK Price Prediction: 400% Breakout Looms as BONK Overtakes DOGE and SHIB in Trader Watchlists\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonk-price-prediction-400-breakout-looms-as-bonk-overtakes-doge-and-shib-in-trader-watchlists/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bonk"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09144502/1760021101-bonk-price-prediction.jpg"
+      },
+      "published": "2025-10-09T17:25:45Z"
+    }
+  },
+  {
+    "hash": "4a81fa877fe735070f4db168b29f640ad5429a1775b73f7319775171d85bfe31",
+    "item": {
+      "title": "Only 11 Days Left to Join the Snorter Bot Token Presale – Possible 11.3x Jump in 2025?",
+      "description": "\u003cp\u003eSnorter Bot Token has entered its final 11-day presale window after raising about $4.5M, positioning a Solana-based trading bot with multichain plans; analysts have projected $0.93–$1.21 near-term and up to $1.98 next year, with a 110% dynamic APY noted for staking.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/11-days-left-snorter-bot-token-presale/\"\u003eOnly 11 Days Left to Join the Snorter Bot Token Presale – Possible 11.3x Jump in 2025?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/11-days-left-snorter-bot-token-presale/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Snorter"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09171405/1760030044-image-187-48-1024x1024-1.jpg"
+      },
+      "published": "2025-10-09T17:19:24Z"
+    }
+  },
+  {
+    "hash": "8e14b39e9ec875b9211d37540eac38ac476f6ad26771a0875629ff806ba49e0d",
+    "item": {
+      "title": "Pepe Price Prediction: Analyst Sees 13x Upside by 2026 and One Token Lets You Mine It",
+      "description": "\u003cp\u003ePepeNode has outlined a mine-to-earn strategy game and early staking with a dynamic APY, enabling passive PEPE accumulation as an analyst has projected a possible multi-cycle advance for PEPE through 2026–2027, citing broadening-wedge behavior and prior rallies.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/pepe-price-prediction-analyst-sees-13x-upside-by-2026-and-one-token-lets-you-mine-it/\"\u003ePepe Price Prediction: Analyst Sees 13x Upside by 2026 and One Token Lets You Mine It\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/pepe-price-prediction-analyst-sees-13x-upside-by-2026-and-one-token-lets-you-mine-it/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Meme Coins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09170446/1760029485-image-187-47-1024x1024-1.jpg"
+      },
+      "published": "2025-10-09T17:12:08Z"
+    }
+  },
+  {
+    "hash": "ea8d581a96740f4df98c248664ef413e3c7b6e08f2d005fe464553f368038a8b",
+    "item": {
+      "title": "AMINA Bank Launches Polygon POL Staking for Institutions – Compliance First, Yield Up to 15%",
+      "description": "\u003cp\u003ePolygon has expanded its institutional footprint as FINMA-supervised AMINA Bank has offered regulated POL staking to qualified clients in Switzerland, with a Polygon Foundation boost on rewards and a framework addressing risks such as slashing and lockups.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/amina-bank-launches-institutional-staking-services-for-polygons-pol-token-under-finma-regulation/\"\u003eAMINA Bank Launches Polygon POL Staking for Institutions – Compliance First, Yield Up to 15%\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/amina-bank-launches-institutional-staking-services-for-polygons-pol-token-under-finma-regulation/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "AMINA Bank",
+        "Polygon",
+        "Staking"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/22155054/1745337053-image-1745335448774_optimized.webp"
+      },
+      "published": "2025-10-09T17:01:20Z"
+    }
+  },
+  {
+    "hash": "851f6ad85d10165f498312c7d70a84e1684ebaea21c0841a469afbfd48c30413",
+    "item": {
+      "title": "Dogecoin Price Prediction 2025 — Can DOGE Hit $1 as TRON and Cardano See Whale Activity Rise?",
+      "description": "\u003cp\u003eDogecoin consolidates near $0.25 as TRON’s TVL hits $6.37B and Cardano’s whale activity grows, signaling bullish sentiment in Q4 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/dogecoin-price-prediction-2025-can-doge-hit-1-as-tron-and-cardano-see-whale-activity-rise/\"\u003eDogecoin Price Prediction 2025 — Can DOGE Hit $1 as TRON and Cardano See Whale Activity Rise?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/dogecoin-price-prediction-2025-can-doge-hit-1-as-tron-and-cardano-see-whale-activity-rise/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09165410/1760028849-dogecoin.jpg"
+      },
+      "published": "2025-10-09T17:00:06Z"
+    }
+  },
+  {
+    "hash": "cf84e1988c0859a688a10fbf1054a922ca5ddc770951e23d6eaffcf86ae493bb",
+    "item": {
+      "title": "Arc Miner Launches a Free Mining Application, Allowing Users to Mine Easily at Home",
+      "description": "\u003cp\u003eOn October 8th, the renowned UK-based Arc Miner platform announced a new free cloud mining program, open to users worldwide with no initial capital required. This program, with free computing power, simplified operations, and instant settlement, lowers the barrier to entry for mining Bitcoin and other major cryptocurrencies, making it ideal for crypto enthusiasts seeking [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/arc-miner-launches-a-free-mining-application-allowing-users-to-mine-easily-at-home/\"\u003eArc Miner Launches a Free Mining Application, Allowing Users to Mine Easily at Home\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/arc-miner-launches-a-free-mining-application-allowing-users-to-mine-easily-at-home/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09163411/1760027650-arc-miner.jpg"
+      },
+      "published": "2025-10-09T16:38:36Z"
+    }
+  },
+  {
+    "hash": "01b8541383b1f8cf6972eeb2cb3b3d96c87fa31fdefcc070050433b57e579098",
+    "item": {
+      "title": "Zcash Powers Altcoin Season – Monero Tracks, DoubleZero Rallies on Policy Catalyst",
+      "description": "\u003cp\u003eAltcoin Season has concentrated in privacy and policy plays. Zcash has led on strong volumes and a sustained breakout, Monero has tracked the theme after reclaiming its 200-day average, and DoubleZero has seen active trading following an SEC no-action letter.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/zcash-leads-altcoin-season-monero-and-doublezero-join-the-move/\"\u003eZcash Powers Altcoin Season – Monero Tracks, DoubleZero Rallies on Policy Catalyst\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/zcash-leads-altcoin-season-monero-and-doublezero-join-the-move/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09162345/1760027024-chatgpt-image-oct-9-2025-11_22_52-am_optimized.jpg"
+      },
+      "published": "2025-10-09T16:28:02Z"
+    }
+  },
+  {
+    "hash": "b3e4f317c7e0505fbc13624f8d67e64ec54182f4abd37548c97c2f4f04ceaba1",
+    "item": {
+      "title": "Illicit Crypto Holdings Top $75B as Bitcoin Dominates: Chainalysis",
+      "description": "\u003cp\u003eChainalysis has estimated nearly $15B in balances held by illicit entities and more than $60B downstream, noting bitcoin’s value share, faster account turnover, and exchange off-ramps as policymakers and investigators have pursued quicker, coordinated asset recoveries.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/illicit-crypto-holdings-top-75b-as-bitcoin-dominates-chainalysis/\"\u003eIllicit Crypto Holdings Top $75B as Bitcoin Dominates: Chainalysis\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/illicit-crypto-holdings-top-75b-as-bitcoin-dominates-chainalysis/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "Chainalysis",
+        "Crime"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/01152746/1743521265-hacker_optimized.jpg"
+      },
+      "published": "2025-10-09T16:10:42Z"
+    }
   }
 ]
