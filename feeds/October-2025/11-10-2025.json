@@ -1233,5 +1233,563 @@
       },
       "published": "2025-10-11T08:14:26Z"
     }
+  },
+  {
+    "hash": "8018be9a235b2dff820d7d40da05efaea105e57162e54c4967ff244119e36c43",
+    "item": {
+      "title": "How close are we to solid state batteries for electric vehicles?",
+      "description": "Superionic materials promise greater range, faster charges and more safety.",
+      "links": [
+        "https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/"
+      ],
+      "categories": [
+        "Cars",
+        "EVs",
+        "solid state batteries",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "M. Mitchell Waldrop, Knowable Magazine"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/solid-state-batteries-1600x600-1-1152x600.jpg"
+      },
+      "published": "2025-10-11T10:30:59Z"
+    }
+  },
+  {
+    "hash": "513c35bd0fade88aff9f62744e43afe617e8486ff69a37226eed326917fa5970",
+    "item": {
+      "title": "Intel Simplifying P-State Driver's Energy Model For Newer Core Ultra CPUs",
+      "description": "Intel engineer and Linux power management subsystem maintainer Rafael Wysocki posted a set of patches this week to simplify the energy model used by Core Ultra hybrid systems with a mix of P and E cores while lacking SMT support, such as with the current Lunar Lake SoCs and upcoming Panther Lake...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-P-State-Simplify-Energy"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-11T10:35:00Z"
+    }
+  },
+  {
+    "hash": "01f8c0dc9aeaa11573c23cf51532d0945790a9f7380619a3261ecb10e7191378",
+    "item": {
+      "title": "Ubuntu 25.10 Fix Pending For Broken Flatpak Support",
+      "description": "Besides last-minute breakage with some executables over the switch to Rust Coreutils, Ubuntu 25.10 ended up shipping with broken Flatpak support...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-25.10-Broken-Flatpaks"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-11T10:25:00Z"
+    }
+  },
+  {
+    "hash": "2ea8db46f90de66aa1bb379932d3cc0e7c8688bcbfc24d2bcd44385bfd291d6e",
+    "item": {
+      "title": "Phosh 0.50 Released, GNOME App Aims To Help You Learn Assembly",
+      "description": "For going along with the recent release of the GNOME 49 desktop, Phosh 0.50 has been released for this Wayland compositor focused on mobile devices...",
+      "links": [
+        "https://www.phoronix.com/news/Phosh-0.50-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-11T10:17:00Z"
+    }
+  },
+  {
+    "hash": "41f4a1ceac19639a3dfe4761f6215746502dbef38909c8b0e922c2fb7dc9ca95",
+    "item": {
+      "title": "KDE Plasma 6.5 Fixing Some Of The Most Common Crashes, Other Bugs Fixed Too",
+      "description": "KDE developer Nate Graham describes this week as having seen a \"massive amount of stability work\" for the Plasma 6.5 desktop. Among the many fixes to land this week for this next Plasma desktop release were fixing the second and third most common causes of Plasma crashes. Additionally, the most prolific common crash scenario was discovered to be caused by third-party code...",
+      "links": [
+        "https://www.phoronix.com/news/Plasma-6.5-Crash-Fixes"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-11T09:59:46Z"
+    }
+  },
+  {
+    "hash": "3ecc0ac4915013831294476baa000817cca98b2474a85680af1dc0e82be652d1",
+    "item": {
+      "title": "Toasty Subwoofer Limps Back to Life",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"399\" src=\"https://hackaday.com/wp-content/uploads/2025/10/pcb.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/pcb.png 800w, https://hackaday.com/wp-content/uploads/2025/10/pcb.png?resize=250,125 250w, https://hackaday.com/wp-content/uploads/2025/10/pcb.png?resize=400,200 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"854936\" data-permalink=\"https://hackaday.com/2025/10/11/toasty-subwoofer-limps-back-to-life/pcb-90/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/pcb.png\" data-orig-size=\"800,399\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pcb\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/pcb.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/pcb.png?w=800\" /\u003e\u003c/div\u003e[JohnAudioTech] noticed there was no bass on the TV at his parents\u0026#8217; house. That led to the discovery of a blown fuse and a corresponding repair. When he opened it \u003ca href=\"https://hackaday.com/2025/10/11/toasty-subwoofer-limps-back-to-life/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/11/toasty-subwoofer-limps-back-to-life/"
+      ],
+      "categories": [
+        "Repair Hacks",
+        "Teardown",
+        "repair",
+        "subwoofer"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/pcb.png"
+      },
+      "published": "2025-10-11T11:00:47Z"
+    }
+  },
+  {
+    "hash": "378ded9e904ea0945d8d4ed28fca4543ee24a3faf023138990e118482759af48",
+    "item": {
+      "title": "The Electret Preamp You Might Need",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"848951\" data-permalink=\"https://hackaday.com/2025/10/11/the-electret-preamp-you-might-need/electret-preamp-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"electret-preamp-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg?w=800\" /\u003e\u003c/div\u003eElectret capsules can be found in some of the highest quality microphones for studio use, as well as in some of the very cheapest microphone capsules on the market. More \u003ca href=\"https://hackaday.com/2025/10/11/the-electret-preamp-you-might-need/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/11/the-electret-preamp-you-might-need/"
+      ],
+      "categories": [
+        "home entertainment hacks",
+        "audio",
+        "electret",
+        "microphone",
+        "preamp"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/electret-preamp-featured.jpg"
+      },
+      "published": "2025-10-11T08:00:10Z"
+    }
+  },
+  {
+    "hash": "378333848a3f93e37f4a830e19c3743d4bc9f24279c3b05ce602bdc55d3fbf6a",
+    "item": {
+      "title": "Programming Space Game for x86 in Assembly Without an Operating System",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Some assembly code\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png 1719w, https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"854906\" data-permalink=\"https://hackaday.com/2025/10/10/programming-space-game-for-x86-in-assembly-without-an-operating-system/space-game-for-x86-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png\" data-orig-size=\"1719,967\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Space-Game-for-x86-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png?w=800\" /\u003e\u003c/div\u003eIn this video our hacker [Inkbox] shows us how to create a computer game that runs directly on computer hardware, without an operating system! [Inkbox] briefly explains what BIOS is, \u003ca href=\"https://hackaday.com/2025/10/10/programming-space-game-for-x86-in-assembly-without-an-operating-system/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/10/programming-space-game-for-x86-in-assembly-without-an-operating-system/"
+      ],
+      "categories": [
+        "computer hacks",
+        "Games",
+        "Software Hacks",
+        "UEFI",
+        "x86 assembly"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Space-Game-for-x86-banner.png"
+      },
+      "published": "2025-10-11T05:00:28Z"
+    }
+  },
+  {
+    "hash": "d8f57b70f58538e1351f7833391c69446942a483547c38ce68dfc792855c7339",
+    "item": {
+      "title": "Your LLM Won’t Stop Lying Any Time Soon",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg 3519w, https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?resize=250,145 250w, https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?resize=400,232 400w, https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?resize=800,464 800w, https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?resize=1536,890 1536w, https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?resize=2048,1187 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"574216\" data-permalink=\"https://hackaday.com/chatgpt-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg\" data-orig-size=\"3519,2039\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"ChatGPT\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?w=800\" /\u003e\u003c/div\u003eResearchers call it \u0026#8220;hallucination\u0026#8221;; you might more accurately refer to it as confabulation, hornswaggle, hogwash, or just plain BS. Anyone who has used an LLM has encountered it; some people \u003ca href=\"https://hackaday.com/2025/10/10/your-llm-wont-stop-lying-any-time-soon/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/10/your-llm-wont-stop-lying-any-time-soon/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "ai",
+        "ChatGPT",
+        "LLM",
+        "machine hallucination"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg"
+      },
+      "published": "2025-10-11T02:00:37Z"
+    }
+  },
+  {
+    "hash": "021f48ebf3a535a1e1e42c3b89a98adb8f5918a6ad57ce6cc31bd8be278998b0",
+    "item": {
+      "title": "PLA Gears Fail To Fail In 3D Printed Bicycle Drivetrain",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"251\" src=\"https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?resize=250,78 250w, https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?resize=400,125 400w, https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?resize=800,251 800w, https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?resize=1536,482 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"864976\" data-permalink=\"https://hackaday.com/2025/10/10/pla-gears-fail-to-fail-in-3d-printed-bicycle-drivetrain/printedgearbikefeat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg\" data-orig-size=\"1920,602\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"PrintedGearBikeFeat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg?w=800\" /\u003e\u003c/div\u003eAnyone who has ever snapped a chain or a crank knows how much torque a bicycle\u0026#8217;s power train has to absorb on a daily basis; it\u0026#8217;s really more than one \u003ca href=\"https://hackaday.com/2025/10/10/pla-gears-fail-to-fail-in-3d-printed-bicycle-drivetrain/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/10/pla-gears-fail-to-fail-in-3d-printed-bicycle-drivetrain/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "Transportation Hacks",
+        "3D printed gears",
+        "bicycles",
+        "bike hacks"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/PrintedGearBikeFeat-e1760036863170.jpg"
+      },
+      "published": "2025-10-10T23:00:02Z"
+    }
+  },
+  {
+    "hash": "7f8b6ce39170f8a4e1cbbe860e698d5f432c0c3c8b4611a4a55a95806daf4735",
+    "item": {
+      "title": "The \u003coutput\u003e Tag",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45547566\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://denodell.com/blog/html-best-kept-secret-output-tag"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T08:27:26Z"
+    }
+  },
+  {
+    "hash": "4f833706436f319b21b41d27b475c821f8a2f085b13be0bf845d820d618b3c67",
+    "item": {
+      "title": "Daniel Kahneman opted for assisted suicide in Switzerland",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45547492\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T08:09:15Z"
+    }
+  },
+  {
+    "hash": "b567a3084e53106a3880bd55c1aa4727a71ce472c25207db871802f1abc6d3db",
+    "item": {
+      "title": "Vietnam Airlines Data Breach",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45547807\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://haveibeenpwned.com/Breach/VietnamAirlines"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T09:40:10Z"
+    }
+  },
+  {
+    "hash": "8f48bf478d06e073251044af23f09d651aa8fbc1764b5062d2994f368ce43c99",
+    "item": {
+      "title": "The World Trade Center Under Construction Through Photos, 1966-1979",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45498055\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rarehistoricalphotos.com/twin-towers-construction-photographs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T00:40:26Z"
+    }
+  },
+  {
+    "hash": "bde8d3a0925fcd84a21c6031678c648821c5e38ed14b0991f643d88c09f090be",
+    "item": {
+      "title": "Learn Turbo Pascal – a video series originally released on VHS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45548457\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=UOtonwG3DXM"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T11:57:58Z"
+    }
+  },
+  {
+    "hash": "801527997b315755a116d2387eedca0487992a544254ba5a2a3840c1ecd39b5c",
+    "item": {
+      "title": "Automated code reviews via mutation testing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45496625\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/mbj/mutant"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T21:40:35Z"
+    }
+  },
+  {
+    "hash": "c67e86b2b9ddcc73deaa625da54ed09751e54be74a0bc112cccaa664445e4043",
+    "item": {
+      "title": "A molecular motor minimizes energy waste",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45517717\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://physics.aps.org/articles/v18/167"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-08T16:09:08Z"
+    }
+  },
+  {
+    "hash": "a62a66336608b9ee1154d0db318d1197ac073fcaf3e55e1bb3bfe06a139fce66",
+    "item": {
+      "title": "Superpowers: I'm using coding agents in October 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45547344\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.fsck.com/2025/10/09/superpowers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T07:29:23Z"
+    }
+  },
+  {
+    "hash": "c30fe1a820179b9a35421a0505243c12157fce09889846e22fcd2d4d23dfbc92",
+    "item": {
+      "title": "Let's Take Esoteric Programming Languages Seriously",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45514060\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://feelingof.com/episodes/078/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-08T09:34:59Z"
+    }
+  },
+  {
+    "hash": "e3a13645a6acadd60cdcc4573dec7055730920b60a8d4d3df23e3040276218c1",
+    "item": {
+      "title": "A New Opportunity for XRP Investors: Easily Participate in Cloud Mining through PAXMINING",
+      "description": "\u003cp\u003eThe PAXMINING cloud mining platform offers XRP investors a new way to participate, allowing their assets to be efficiently utilized and enabling a more flexible investment strategy.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/a-new-opportunity-for-xrp-investors-easily-participate-in-cloud-mining-through-paxmining/\"\u003eA New Opportunity for XRP Investors: Easily Participate in Cloud Mining through PAXMINING\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/a-new-opportunity-for-xrp-investors-easily-participate-in-cloud-mining-through-paxmining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/10214358/1760132637-paxmining.jpg"
+      },
+      "published": "2025-10-11T12:00:00Z"
+    }
+  },
+  {
+    "hash": "bf7f5d069569f5272792f774484e6456110fdf98087cc44d82e8d0603a65b44f",
+    "item": {
+      "title": "IOTA Miner: A New Path for BTC, XRP, and BNB Investors",
+      "description": "\u003cp\u003eIOTA Miner is a cloud-based mining application that allows users to remotely rent computing power from the platform to mine Bitcoin (BTC), eliminating the need to purchase expensive mining equipment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/iota-miner-a-new-path-for-btc-xrp-and-bnb-investors/\"\u003eIOTA Miner: A New Path for BTC, XRP, and BNB Investors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/iota-miner-a-new-path-for-btc-xrp-and-bnb-investors/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/10150326/1760108605-iota-miner.jpg"
+      },
+      "published": "2025-10-11T11:45:00Z"
+    }
+  },
+  {
+    "hash": "f1ff3642eacbac7bc4883f85d76221a100587618a79ef43bf45bbad1fa578ba6",
+    "item": {
+      "title": "XRP Price Prediction: XRP is Expected to Surpass $30 by 2026, and Holders Can Have Their Coins Work for Them Using Arc Miner",
+      "description": "\u003cp\u003eArc Miner is a leading global cloud mining service provider, providing fast, secure, and eco-friendly cryptocurrency mining solutions to 7 million users in over 100 countries.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-price-prediction-xrp-is-expected-to-surpass-30-by-2026-and-holders-can-have-their-coins-work-for-them-using-arc-miner/\"\u003eXRP Price Prediction: XRP is Expected to Surpass $30 by 2026, and Holders Can Have Their Coins Work for Them Using Arc Miner\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-price-prediction-xrp-is-expected-to-surpass-30-by-2026-and-holders-can-have-their-coins-work-for-them-using-arc-miner/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/10145345/1760108024-arc-miner.jpg"
+      },
+      "published": "2025-10-11T11:30:00Z"
+    }
+  },
+  {
+    "hash": "6cff6230b3f5b82d2d90d05d46e69ecea23ea1e29e7a88d905c436a8c2a02b1d",
+    "item": {
+      "title": "YZi Labs-Backed Perp DEX Aster Delays Airdrop Over Data Issues",
+      "description": "\u003cp\u003eAster (ASTER), the DEX backed by YZi Labs, has postponed its upcoming airdrop after identifying “potential data inconsistencies.” \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/yzi-labs-backed-perp-dex-aster-delays-airdrop-over-data-issues/\"\u003eYZi Labs-Backed Perp DEX Aster Delays Airdrop Over Data Issues\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/yzi-labs-backed-perp-dex-aster-delays-airdrop-over-data-issues/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Airdrop",
+        "ASTER",
+        "DEX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/11085930/1760173169-0_0-2_optimized.jpg"
+      },
+      "published": "2025-10-11T11:20:00Z"
+    }
+  },
+  {
+    "hash": "00b15d64927b401cb86cc74567ff7f477215170319c56e8c2562d3613b1be13d",
+    "item": {
+      "title": "Quid Miner Cloud Mining App: A New Era of Free Cryptocurrency Mining with One Click on Your Smartphone",
+      "description": "\u003cp\u003eWhen you rest, Quid Miner is working for you; when you focus on your life, computing power is growing your wealth.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/quid-miner-cloud-mining-app-a-new-era-of-free-cryptocurrency-mining-with-one-click-on-your-smartphone/\"\u003eQuid Miner Cloud Mining App: A New Era of Free Cryptocurrency Mining with One Click on Your Smartphone\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/quid-miner-cloud-mining-app-a-new-era-of-free-cryptocurrency-mining-with-one-click-on-your-smartphone/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/10141729/1760105848-quid-miner.jpg"
+      },
+      "published": "2025-10-11T11:15:00Z"
+    }
+  },
+  {
+    "hash": "4eb5cbc68c2ce8ad305b311a19bf5a27bbcefda4f37c6a4835653738b4024064",
+    "item": {
+      "title": "Why SpacePay (SPY) Presale Should Not Be Missed: The Most Anticipated Crypto Solutions Are Finally Here",
+      "description": "\u003cp\u003eSpacePay makes crypto payments simple and fast with instant conversions. The SPY presale shows real solutions and strong future plans.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/why-spacepay-spy-presale-should-not-be-missed-the-most-anticipated-crypto-solutions-are-finally-here/\"\u003eWhy SpacePay (SPY) Presale Should Not Be Missed: The Most Anticipated Crypto Solutions Are Finally Here\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/why-spacepay-spy-presale-should-not-be-missed-the-most-anticipated-crypto-solutions-are-finally-here/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Presale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/10122323/1760099003-spacepay.jpg"
+      },
+      "published": "2025-10-11T11:00:00Z"
+    }
+  },
+  {
+    "hash": "e57373d98f742ee935083cfd2eafd426b5e96d00a121e76ccf4b1539da9b2ad6",
+    "item": {
+      "title": "Bitcoin Could Rebound 21% This Week as October Trends Favor Recovery, Economist Says",
+      "description": "\u003cp\u003eBitcoin could climb as much as 21% in the next seven days if October’s historical patterns hold, according to economist Timothy Peterson.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-could-rebound-21-this-week-as-october-trends-favor-recovery-economist-says/\"\u003eBitcoin Could Rebound 21% This Week as October Trends Favor Recovery, Economist Says\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-could-rebound-21-this-week-as-october-trends-favor-recovery-economist-says/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/11085915/1760173154-image-1760170127764_optimized.jpg"
+      },
+      "published": "2025-10-11T10:05:00Z"
+    }
+  },
+  {
+    "hash": "2118c8b3e39f43705a0ab61077c7083d340bd195284d7c37020e6ff30abde0c5",
+    "item": {
+      "title": "Ethereum Price Prediction: Is the Flash Crash a Buying Opportunity for Long-Term ETH Holders?",
+      "description": "\u003cp\u003eIs Ethereum’s $3,500 dip a buying opportunity? Funding rates flip negative as ETH price prediction turns speculative.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-is-the-flash-crash-a-buying-opportunity-for-long-term-eth-holders/\"\u003eEthereum Price Prediction: Is the Flash Crash a Buying Opportunity for Long-Term ETH Holders?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-is-the-flash-crash-a-buying-opportunity-for-long-term-eth-holders/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/03121219/1759493538-image-1759493486229_optimized.png"
+      },
+      "published": "2025-10-11T09:28:26Z"
+    }
+  },
+  {
+    "hash": "8ad587e937c37af3beea945851bd45bc63ae30900ca7f043b50aa2fd6f087765",
+    "item": {
+      "title": "Trump’s 100% China Tariff Triggers $20B Wipeout, 1.6M Crypto Traders Liquidated",
+      "description": "\u003cp\u003eOver 1.66 million crypto traders were liquidated as the market experienced a sharp downturn, wiping out a staggering $19.33 billion in positions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trumps-100-china-tariff-triggers-20b-wipeout-1-6m-crypto-traders-liquidated/\"\u003eTrump’s 100% China Tariff Triggers $20B Wipeout, 1.6M Crypto Traders Liquidated\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trumps-100-china-tariff-triggers-20b-wipeout-1-6m-crypto-traders-liquidated/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "China",
+        "tariffs",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/11085923/1760173163-358d60c3-cc59-40d2-9424-ffb4eeb39f97_optimized.jpg"
+      },
+      "published": "2025-10-11T09:12:35Z"
+    }
   }
 ]
