@@ -1339,5 +1339,254 @@
       },
       "published": "2025-10-14T02:58:24Z"
     }
+  },
+  {
+    "hash": "15846a659f20e985ca8934226b1fdb7147088d8ee10a1ceb3e2cab39da2542f5",
+    "item": {
+      "title": "SpaceX finally got exactly what it needed from Starship V2",
+      "description": "This was the last flight of SpaceX's second-gen Starship design. Version 3 arrives next year.",
+      "links": [
+        "https://arstechnica.com/space/2025/10/after-year-of-hardships-spacexs-starship-finally-flirts-with-perfection/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "launch",
+        "NASA",
+        "spacex",
+        "Starbase",
+        "starship",
+        "starship flight 11",
+        "super heavy",
+        "texas"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11recap1-1152x648.jpg"
+      },
+      "published": "2025-10-14T07:05:16Z"
+    }
+  },
+  {
+    "hash": "2c4d13fcb4e0f3d1ae0b43a4b2aacf0b42cd9df7208d929ab932e6821041e09c",
+    "item": {
+      "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
+      "description": "Cybersecurity researchers have identified several malicious packages across npm, Python, and Ruby ecosystems that leverage Discord as a command-and-control (C2) channel to transmit stolen data to actor-controlled webhooks.\nWebhooks on Discord are a way to post messages to channels in the platform without requiring a bot user or authentication, making them an attractive mechanism for attackers to",
+      "links": [
+        "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZzhEf1_tZLt8fgAl6YS7Wah-9L3Z7Tcs0L3zK5ilyxOaEcBFpj0-vA58YFSIEJqBVxCQFLf_JYVjfzRP4VpOUJJxF1qYg3cuLWtupeoMLpZY_f1r2-Yy5Na4taLHsDAS9DeY3yqefQkUs8ltjV4Ckg2vdXTIjDSOr8Sv5AVSEMC8WFzp8wWnddg-0QWDu/s1600/data.jpg"
+      },
+      "published": "2025-10-14T07:09:00Z"
+    }
+  },
+  {
+    "hash": "340929abc5cd8d8e6850f2f9ea9faa6d06907dc5bf8c2cf00f8438e5b501ae91",
+    "item": {
+      "title": "Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain",
+      "description": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it",
+      "links": [
+        "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuj2qXooTKDuCllVA-M9rA4zrxasH5zIdp6lm-BsS66td0H5rfmJDpWkHmzBlu72tUzQbvv5VBofkRfhpoU60REAndnUxabWWmQH9Udy8NWuJCWWwVzt1gny0Bu8siufR0XpIwJrkBjwKiQk7sOu4gn76qFA8iqMXWJKyakCk3kSOC9McQEmd7kAF0lx60/s1600/malware-click.jpg"
+      },
+      "published": "2025-10-14T05:28:00Z"
+    }
+  },
+  {
+    "hash": "9c07961724793e3be6eebf77f7b15adad73cf6dc487164e10ed67fc669c3a055",
+    "item": {
+      "title": "Why Study Programming Languages",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45576623\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://people.csail.mit.edu/rachit/post/why-study-programming-languages/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T05:36:57Z"
+    }
+  },
+  {
+    "hash": "7f2a1687a580b45245526f2eb66774b0fff327ecb8498a0bff0039794a79638e",
+    "item": {
+      "title": "Why the push for Agentic when models can barely follow a simple instruction?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45577080\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T07:08:02Z"
+    }
+  },
+  {
+    "hash": "96bfd8085b4cbbb542d4d459b701db7a72d50180d5fe0abb2f015d63dda2ab9f",
+    "item": {
+      "title": "All in on MatMul? Don’t Put All Your Tensors in One Basket!",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521418\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sigarch.org/dont-put-all-your-tensors-in-one-basket-hardware-lottery/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-08T22:41:06Z"
+    }
+  },
+  {
+    "hash": "da1d23d97894dc5abcfeecc5cf0e2e5b6f96fd0f282a3b2a47acf26d38746c72",
+    "item": {
+      "title": "A Draft of the ImageMagick Field Guide",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45503721\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://joeldare.com/imagemagick-field-guide.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T14:45:43Z"
+    }
+  },
+  {
+    "hash": "69eb7ffb2a007dae7ff9667c9020091ef31c750e5420f386ec04567aee95336f",
+    "item": {
+      "title": "Binance’s 2018 $200K Cancer Donation to Malta Now Worth $39M, Still Unclaimed – Coinbase Exec",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eBinance's $200,000 BNB donation to Malta's cancer fund in 2018 remains unclaimed and is now valued at approximately $39 million according to Coinbase executive Conor Grogan, who urged Maltese officials to access the funds that could cover medical specialist salaries as the last update came in 2021.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binances-2018-200k-cancer-donation-to-malta-now-worth-39m-still-unclaimed-coinbase-exec/\"\u003eBinance\u0026#8217;s 2018 $200K Cancer Donation to Malta Now Worth $39M, Still Unclaimed – Coinbase Exec\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binances-2018-200k-cancer-donation-to-malta-now-worth-39m-still-unclaimed-coinbase-exec/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "BNB",
+        "Donation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/14074325/1760427804-chatgpt-image-oct-14-2025-08_42_33-am_optimized.webp"
+      },
+      "published": "2025-10-14T08:58:08Z"
+    }
+  },
+  {
+    "hash": "4c3176b84c48a7a69205fd07279bbf4076b9a0cba1c4f1c7bdd41349fee1db07",
+    "item": {
+      "title": "Solana to Develop Korean Won-Pegged Stablecoins Via Partnership",
+      "description": "\u003cp\u003eSolana and Wavebridge signed an MoU to make stablecoins adopted within regulated financial markets, and create institutional-grade tokenization products.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-to-develop-korean-won-pegged-stablecoins-via-partnership/\"\u003eSolana to Develop Korean Won-Pegged Stablecoins Via Partnership\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-to-develop-korean-won-pegged-stablecoins-via-partnership/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Solana",
+        "South Korea",
+        "Stablecoins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/14083453/1760430892-image-1754900743071_optimized.jpg"
+      },
+      "published": "2025-10-14T08:48:05Z"
+    }
+  },
+  {
+    "hash": "810970ece30a18338c9498b3af1c4c11af3b0f35b550e8c4b8dccbcce20c0087",
+    "item": {
+      "title": "California Becomes First State to Protect Unclaimed Crypto from Forced Liquidation",
+      "description": "\u003cp\u003eCalifornia has become the first US state to formally protect unclaimed cryptocurrencies from being forcibly converted to cash.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/california-becomes-first-state-to-protect-unclaimed-crypto-from-forced-liquidation/\"\u003eCalifornia Becomes First State to Protect Unclaimed Crypto from Forced Liquidation\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/california-becomes-first-state-to-protect-unclaimed-crypto-from-forced-liquidation/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "California",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/14071334/1760426014-image-1760425857822_optimized.jpg"
+      },
+      "published": "2025-10-14T07:18:13Z"
+    }
+  },
+  {
+    "hash": "c01d9336b73d777ce966d4e2be3770f364aedfd96dd1da5faa8d65e96ba4ccba",
+    "item": {
+      "title": "Bitcoin Drops Below $112K as Traders Eye Powell’s Speech — What’s Going On?",
+      "description": "\u003cp\u003eBitcoin slid nearly 3% on Tuesday as traders awaited Powell’s speech for policy cues, with renewed US-China tensions and crypto losses weighing on sentiment.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-drops-below-112k-as-traders-eye-powell-speech-whats-going-on/\"\u003eBitcoin Drops Below $112K as Traders Eye Powell’s Speech — What’s Going On?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-drops-below-112k-as-traders-eye-powell-speech-whats-going-on/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Jerome Powell"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/14070856/1760425735-stock-image_optimized-14.jpg"
+      },
+      "published": "2025-10-14T07:16:42Z"
+    }
+  },
+  {
+    "hash": "ee97b115cf530ffdae8df71ffa536c932799cfa5ef92b377ca1fc2378393aaad",
+    "item": {
+      "title": "Russian Economist: BTC Will Hit $120k-$130k Again Before End of Year",
+      "description": "\u003cp\u003eA Russian economist claims that Bitcoin (BTC) prices will rise up to the $120k to $130k levels again before the end of 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/russian-economist-btc-will-hit-120k-130k-again-before-end-of-year/\"\u003eRussian Economist: BTC Will Hit $120k-$130k Again Before End of Year\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/russian-economist-btc-will-hit-120k-130k-again-before-end-of-year/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin Price",
+        "Russia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Alper"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13132625/1760361984-image-1760340117687_optimized.jpg"
+      },
+      "published": "2025-10-13T23:30:00Z"
+    }
   }
 ]
