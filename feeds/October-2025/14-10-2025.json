@@ -602,5 +602,218 @@
       },
       "published": "2025-10-13T21:37:42Z"
     }
+  },
+  {
+    "hash": "794a83056c6aef26d57e8da3ab8aa63ef29572331b7a7cef946ed609b76c5434",
+    "item": {
+      "title": "Building the LEM’s Legs",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"392\" src=\"https://hackaday.com/wp-content/uploads/2025/10/lem.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/lem.png 800w, https://hackaday.com/wp-content/uploads/2025/10/lem.png?resize=250,123 250w, https://hackaday.com/wp-content/uploads/2025/10/lem.png?resize=400,196 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"864951\" data-permalink=\"https://hackaday.com/2025/10/13/building-the-lems-legs/lem-7/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/lem.png\" data-orig-size=\"800,392\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"lem\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/lem.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/lem.png?w=800\" /\u003e\u003c/div\u003eIf you built a car in, say, Germany, for use in Canada, you could assume that the roads will be more or less the same. Gravity will work the same. \u003ca href=\"https://hackaday.com/2025/10/13/building-the-lems-legs/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/building-the-lems-legs/"
+      ],
+      "categories": [
+        "Space",
+        "apollo",
+        "Apollo Lunar Module"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/lem.png"
+      },
+      "published": "2025-10-14T02:00:21Z"
+    }
+  },
+  {
+    "hash": "2195218a62fe7e34b8e5d9cbb3d0c5e5ffb1271a63d3717d5ec30c7e0087425c",
+    "item": {
+      "title": "Etching Atomically Fine Needle Points",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A metal needle tip comes to a point against a white background. A scale bar in the lower left shows a 300 micrometer length.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png 1624w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866516\" data-permalink=\"https://hackaday.com/2025/10/13/etching-atomically-fine-needle-points/reprap_micron_needle_point/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png\" data-orig-size=\"1624,914\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"reprap_micron_needle_point\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?w=800\" /\u003e\u003c/div\u003e[Vik Olliver] has been extending the lower resolution limits of 3D printers with the RepRapMicron project, which aims to print structures with a feature size of ten micrometers. A molten \u003ca href=\"https://hackaday.com/2025/10/13/etching-atomically-fine-needle-points/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/etching-atomically-fine-needle-points/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "chemistry hacks",
+        "electrochemical",
+        "etching",
+        "microneedle",
+        "RepRapMicron"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png"
+      },
+      "published": "2025-10-13T23:00:27Z"
+    }
+  },
+  {
+    "hash": "2283a6e229848bc959bc433e76f1c4df68805f5922919dd5f7b06ba489f9195d",
+    "item": {
+      "title": "SMD Soldering with Big Iron",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png 800w, https://hackaday.com/wp-content/uploads/2025/10/smd.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/smd.png?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"865188\" data-permalink=\"https://hackaday.com/2025/10/13/smd-soldering-with-big-iron/smd-16/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"smd\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png?w=800\" /\u003e\u003c/div\u003eYou have some fine pitch soldering to do, but all you have on hand is a big soldering iron. What do you do? There are a few possible answers, but \u003ca href=\"https://hackaday.com/2025/10/13/smd-soldering-with-big-iron/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/smd-soldering-with-big-iron/"
+      ],
+      "categories": [
+        "Tool Hacks",
+        "smd soldering",
+        "soldering iron"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/smd.png"
+      },
+      "published": "2025-10-13T20:00:31Z"
+    }
+  },
+  {
+    "hash": "5a056ce5f872023371893b75ca919c397b48bfe54c7e6db969773dbe75ff1634",
+    "item": {
+      "title": "There are sensitive internal links in the clear on GEO satellites [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45575391\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T01:48:56Z"
+    }
+  },
+  {
+    "hash": "ac98c0b35ea53fe1821c8408e4cf2cd1d37146370b9cf51dc57de712e52b9f5d",
+    "item": {
+      "title": "Modifying a Casio F-Series Digital Watch (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45575742\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://shellzine.net/casio-f-series-mods/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T02:48:09Z"
+    }
+  },
+  {
+    "hash": "56e44904a9f34b1a0ccb23bcd4f7bb2dd1582b0a691c24513665332a258ae896",
+    "item": {
+      "title": "Sony PlayStation 2 fixing frenzy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574247\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://retrohax.net/sony-playstation-2-fixing-frenzy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T23:02:06Z"
+    }
+  },
+  {
+    "hash": "89680f890e199b3c7c07688972a61d62c1e5d8a555b2f091aeb40f58663c7dcb",
+    "item": {
+      "title": "Show HN: AI toy I worked on is in stores",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45558375\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.walmart.com/ip/SANTA-SMAGICAL-PHONE/16364964771"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-12T14:15:21Z"
+    }
+  },
+  {
+    "hash": "24830477b2641e28bc9d803798f0813f45c2ecd2d2c74402188c3baf404a8a96",
+    "item": {
+      "title": "No science, no startups: The innovation engine we're switching off",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45567877\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T13:02:20Z"
+    }
+  },
+  {
+    "hash": "4ed11af948eff3ed1b0793b60fedbaa07d24f7e5fc3bc75ceb74df1ddac98a04",
+    "item": {
+      "title": "StreamingVLM: Real-Time Understanding for Infinite Video Streams",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574705\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2510.09608"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T00:02:18Z"
+    }
+  },
+  {
+    "hash": "b4e41e73f2b8071091675effdcb40a8630662ebc1aa07f48733cc118cbfa58c3",
+    "item": {
+      "title": "America is getting an AI gold rush instead of a factory boom",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568915\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T14:48:47Z"
+    }
+  },
+  {
+    "hash": "658814c1ecd8f19faa6bca6cf7914ab187be3d6df0080a6b30351b1a0e189216",
+    "item": {
+      "title": "America's future could hinge on whether AI slightly disappoints",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45570973\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T17:24:51Z"
+    }
+  },
+  {
+    "hash": "6e3ae259d028f05295945348f0a425d827c9c51799a5d138f6a735aba345f1cf",
+    "item": {
+      "title": "Legends of the games industry: Roger Dean",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568708\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T14:29:06Z"
+    }
+  },
+  {
+    "hash": "1ecda1d440ad6f547c8ec9fd715134613a786b669cd63df46de6de3ec633d0c4",
+    "item": {
+      "title": "Congress Won’t Pass A Funding Bill Until November, Majority of Polymarket Bettors Say",
+      "description": "\u003cp\u003eThe majority of Polymarket bettors predict that Congress won’t pass a spending bill until November, a new poll on the decentralized prediction market says.Polymarket Bettors Eye November Funding Bill TimelineAccording to the poll, 84% of participating Polymarket bettors believe that Congress will pass a funding bill by November 30.Meanwhile, just 30% of bettors predict a [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/congress-wont-pass-a-funding-bill-until-november-majorty-of-polymarket-bettors-say/\"\u003eCongress Won\u0026#8217;t Pass A Funding Bill Until November, Majority of Polymarket Bettors Say\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/congress-wont-pass-a-funding-bill-until-november-majorty-of-polymarket-bettors-say/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Congress",
+        "Donald Trump",
+        "Polymarket"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/14025000/1760410199-julia_63915_a_gavel_on_congress_desk_1c975393-baa8-4621-8847-106864bc21a0-png_optimized.png"
+      },
+      "published": "2025-10-14T02:58:24Z"
+    }
   }
 ]
