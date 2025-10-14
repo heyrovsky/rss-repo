@@ -1,0 +1,606 @@
+[
+  {
+    "hash": "ad17ea465d29e9e882cb004da3a70a4abe4f9c5e50f1e1c10270b3274527216d",
+    "item": {
+      "title": "Hackers can steal 2FA codes and private messages from Android phones",
+      "description": "Malicious app required to make \"Pixnapping\" attack work requires no permissions.",
+      "links": [
+        "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Google",
+        "Security",
+        "android",
+        "pixnapping",
+        "privacy",
+        "side channel"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-1152x648.jpg"
+      },
+      "published": "2025-10-13T21:36:35Z"
+    }
+  },
+  {
+    "hash": "535a49082d696c6019b0db191835ee45859288e4e0c98ad3f40d0739758039e8",
+    "item": {
+      "title": "Measles outbreak in SC sends 150 unvaccinated kids into 21-day quarantine",
+      "description": "The outbreak includes at least seven confirmed cases, but some are clearly being missed.",
+      "links": [
+        "https://arstechnica.com/health/2025/10/over-150-unvaccinated-kids-quarantined-for-21-days-in-sc-measles-outbreak/"
+      ],
+      "categories": [
+        "Health",
+        "anti-vaccine",
+        "measles",
+        "MMR",
+        "outbreak",
+        "public health",
+        "South Carolina",
+        "vaccine"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg"
+      },
+      "published": "2025-10-13T20:48:21Z"
+    }
+  },
+  {
+    "hash": "8a3e926d00135d9cb6a1e174fc6bf3c4c7750f756367b19f41f94c3542a000f6",
+    "item": {
+      "title": "AMD \u0026 Intel Mark x86 Ecosystem Advisory Group's Anniversary: FRED, ACE, AVX10, ChkTag",
+      "description": "It's been one year already since Intel and AMD formed the x86 Ecosystem Advisory Group in cooperation with other industry stakeholders. Today both companies are marking the first anniversary while reaffirming their commitment to the group...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Intel-One-Year-x86-Eco"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-14T00:20:00Z"
+    }
+  },
+  {
+    "hash": "f89de75ff71e00669b53058dfb1e17f8d8d3e4eef1d60ebcb1953625b50404b7",
+    "item": {
+      "title": "Uv overtakes pip in CI (for Wagtail users)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45490775\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wagtail.org/blog/uv-overtakes-pip-in-ci/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-06T12:45:51Z"
+    }
+  },
+  {
+    "hash": "132cc48e186c1986e6370938b518344f57c413e9915cc7f61c254b6b45377a5c",
+    "item": {
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574393\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T23:21:23Z"
+    }
+  },
+  {
+    "hash": "6040597f94111c82e79f3dbf132b5217a6c2db7d91db007dd0adcbb7a8aa0af6",
+    "item": {
+      "title": "Sony Playstation 2 fixing frenzy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574247\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://retrohax.net/sony-playstation-2-fixing-frenzy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T23:02:06Z"
+    }
+  },
+  {
+    "hash": "65b07926e73d748a86a554075498426ae03aa3f3313f3b923214e787d135988d",
+    "item": {
+      "title": "Accidentally Made a Zig Dotenv Parser",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45518649\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-08T17:39:00Z"
+    }
+  },
+  {
+    "hash": "76f9ed63a4cf65e54938a7a9b2896e9515de915a6898de0cbf309e31fa94f7bd",
+    "item": {
+      "title": "LLMs are getting better at character-level text manipulation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45572478\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.burkert.me/posts/llm_evolution_character_manipulation/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T19:39:14Z"
+    }
+  },
+  {
+    "hash": "48fe9de028200350d813741b974712395ac1c27ec89d7f5964f66c21f9858e4b",
+    "item": {
+      "title": "Don't Be a Sucker (1943) [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45573025\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=vGAqYNFQdZ4"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T20:31:47Z"
+    }
+  },
+  {
+    "hash": "1a11238bb0c0df3d9929f1cbe054ea558a391d31c4a587b681ca5f046cf084ec",
+    "item": {
+      "title": "Hackers can steal 2FA codes and private messages from Android phones",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574613\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T23:49:55Z"
+    }
+  },
+  {
+    "hash": "7caf1ab002877046800c0f7323f5a92e5e0e8ef0dfeef984daeeee4185ea873d",
+    "item": {
+      "title": "Thoughts on Omarchy: Slick Distro, Complicated Ethics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45573244\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T20:54:25Z"
+    }
+  },
+  {
+    "hash": "e8a0980bae222d6517404808a8325b529adcffea6e7dbbb9b366b281b665104b",
+    "item": {
+      "title": "Systems as Mirrors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45555757\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iamstelios.com/blog/systems-as-mirrors/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-12T06:21:41Z"
+    }
+  },
+  {
+    "hash": "9cad75ff5527f4b8e9f64c516779c13ab52636f932819816c7b2425085222f23",
+    "item": {
+      "title": "Elliptic Curve Method for Integer Factorization:The Palm Jumeirah Analogy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45497771\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codingpirate.com/elliptic-curve-method-visualization-for-integer-factorization-the-palm-jumeirah-as-an-analogy-via-63aec62b29bd"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-07T00:03:54Z"
+    }
+  },
+  {
+    "hash": "bc175970cfdb9c3bfce3249f55749cfb37ea6452fe732e2f829ccabec00d4ebd",
+    "item": {
+      "title": "SpaceX launches Starship megarocket on 11th test flight",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574886\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnn.com/science/live-news/spacex-starship-flight-11-launch-10-13-25"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T00:31:27Z"
+    }
+  },
+  {
+    "hash": "2322c43337216a32d754893bc7f8bb4bd7907c61476e83ac2ce21f334aa56f89",
+    "item": {
+      "title": "Etching Atomically Fine Needle Points",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A metal needle tip comes to a point against a white background. A scale bar in the lower left shows a 300 micrometer length.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png 1624w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"866516\" data-permalink=\"https://hackaday.com/2025/10/13/etching-atomically-fine-needle-points/reprap_micron_needle_point/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png\" data-orig-size=\"1624,914\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"reprap_micron_needle_point\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png?w=800\" /\u003e\u003c/div\u003e[Vik Olliver] has been extending the lower resolution limits of 3D printers with the RepRapMicron project, which aims to print structures with a feature size of ten micrometers. A molten \u003ca href=\"https://hackaday.com/2025/10/13/etching-atomically-fine-needle-points/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/etching-atomically-fine-needle-points/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "chemistry hacks",
+        "electrochemical",
+        "etching",
+        "microneedle",
+        "RepRapMicron"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/reprap_micron_needle_point.png"
+      },
+      "published": "2025-10-13T23:00:27Z"
+    }
+  },
+  {
+    "hash": "7a9eca22b26abb4607cb723935aa475b56e3812de9b953d821bd08707de3704d",
+    "item": {
+      "title": "SMD Soldering with Big Iron",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png 800w, https://hackaday.com/wp-content/uploads/2025/10/smd.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/smd.png?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"865188\" data-permalink=\"https://hackaday.com/2025/10/13/smd-soldering-with-big-iron/smd-16/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"smd\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/smd.png?w=800\" /\u003e\u003c/div\u003eYou have some fine pitch soldering to do, but all you have on hand is a big soldering iron. What do you do? There are a few possible answers, but \u003ca href=\"https://hackaday.com/2025/10/13/smd-soldering-with-big-iron/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/smd-soldering-with-big-iron/"
+      ],
+      "categories": [
+        "Tool Hacks",
+        "smd soldering",
+        "soldering iron"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/smd.png"
+      },
+      "published": "2025-10-13T20:00:31Z"
+    }
+  },
+  {
+    "hash": "4572a58e5eacf58d3691c0200d0da52a1655766a0cda3dbb608d0bab05b4d3de",
+    "item": {
+      "title": "Waverider: Scanning Spectra One Pixel at a Time",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"waverider\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png 1500w, https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866559\" data-permalink=\"https://hackaday.com/2025/10/13/waverider-scanning-spectra-one-pixel-at-a-time/cam1-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png\" data-orig-size=\"1500,843\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"cam1-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png?w=800\" /\u003e\u003c/div\u003eHyperspectral cameras aren\u0026#8217;t commonplace items; they capture spectral data for each of their pixels. While commercial hyperspectral cameras often start in the tens of thousands of dollars, [anfractuosity] decided to \u003ca href=\"https://hackaday.com/2025/10/13/waverider-scanning-spectra-one-pixel-at-a-time/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/waverider-scanning-spectra-one-pixel-at-a-time/"
+      ],
+      "categories": [
+        "hardware",
+        "camera",
+        "hyperspectral",
+        "pi pico",
+        "single pixel camera",
+        "TMC2130"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Matt Varian"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/cam1-banner.png"
+      },
+      "published": "2025-10-13T17:00:00Z"
+    }
+  },
+  {
+    "hash": "bb20ca2355e8147ccb264b6646951d38e0c6dfb33ac2ed06d17d361dba57dc58",
+    "item": {
+      "title": "Give Your Microscope Polarized $5 Shades to Fight Glare",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"429\" src=\"https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg 1072w, https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg?resize=250,134 250w, https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg?resize=400,215 400w, https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg?resize=800,429 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866551\" data-permalink=\"https://hackaday.com/2025/10/13/give-your-microscope-polarized-5-shades-to-fight-glare/polarized_film_microscope_northwestrepair_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg\" data-orig-size=\"1072,575\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"polarized_film_microscope_northwestrepair_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg?w=800\" /\u003e\u003c/div\u003eWho doesn\u0026#8217;t know the problem of glare when trying to ogle a PCB underneath a microscope of some description? Even with a ring light, you find yourself struggling to make \u003ca href=\"https://hackaday.com/2025/10/13/give-your-microscope-polarized-5-shades-to-fight-glare/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/give-your-microscope-polarized-5-shades-to-fight-glare/"
+      ],
+      "categories": [
+        "Tool Hacks",
+        "glare",
+        "microscope",
+        "polarizing film"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/polarized_film_microscope_northwestrepair_youtube.jpg"
+      },
+      "published": "2025-10-13T14:00:00Z"
+    }
+  },
+  {
+    "hash": "984ada5f55c8db9223a118ae8ee1df7d116cd9dd1855a60a52924357d6c8d8df",
+    "item": {
+      "title": "Deforming a Mirror for Adaptive Optics",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A vertically-mounted black disk with a concentric pattern of reflective disks is illuminated under a red light. A large number of copper wires run away from the the disk to a breadboard.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png 2251w, https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?resize=1536,863 1536w, https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?resize=2048,1151 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"865242\" data-permalink=\"https://hackaday.com/2025/10/13/deforming-a-mirror-for-adaptive-optics/deformable_mirror/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png\" data-orig-size=\"2251,1265\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"deformable_mirror\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png?w=800\" /\u003e\u003c/div\u003eAs frustrating as having an atmosphere can be for physicists, it’s just as bad for astronomers, who have to deal with clouds, atmospheric absorption of certain wavelengths, and other irritations. \u003ca href=\"https://hackaday.com/2025/10/13/deforming-a-mirror-for-adaptive-optics/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/deforming-a-mirror-for-adaptive-optics/"
+      ],
+      "categories": [
+        "Science",
+        "adaptive optics",
+        "curved mirror",
+        "deformation",
+        "huygens optics",
+        "linear actuator",
+        "optics"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/deformable_mirror.png"
+      },
+      "published": "2025-10-13T11:00:43Z"
+    }
+  },
+  {
+    "hash": "6a0b52e9de1f7a6111db42f8aacafcf891145f4f28dc036541e3875b4cb43897",
+    "item": {
+      "title": "SLM Co-extruding Hotend Makes Poopless Prints",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866601\" data-permalink=\"https://hackaday.com/2025/10/13/slm-co-extruding-hotend-makes-poopless-prints/roetz-end-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"roetz-end-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg?w=800\" /\u003e\u003c/div\u003eEveryone loves colourful 3D prints, but nobody loves prime towers, \u0026#8220;printer poop\u0026#8221; and all the plastic waste associated with most multi-material setups. Over the years, there\u0026#8217;s been no shortage of \u003ca href=\"https://hackaday.com/2025/10/13/slm-co-extruding-hotend-makes-poopless-prints/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/13/slm-co-extruding-hotend-makes-poopless-prints/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "coextrusion",
+        "mixing hotend",
+        "Multicolor 3D printing",
+        "multimaterial"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/roetz-end-feat.jpg"
+      },
+      "published": "2025-10-13T08:00:28Z"
+    }
+  },
+  {
+    "hash": "03b0eba397f3724be1a2fa6ce3b00e3afd5281e66f0f4d8c937bf9b4ea8cf2c6",
+    "item": {
+      "title": "Making a 2-Transistor AM Radio with a Philips Electronic Engineer EE8 Kit from 1966",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"[Anthony] holding the EE8 kit\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg 1681w, https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866526\" data-permalink=\"https://hackaday.com/2025/10/12/making-a-2-transistor-am-radio-with-a-philips-electronic-engineer-ee8-kit-from-1966/ee8-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg\" data-orig-size=\"1681,946\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"EE8-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg?w=800\" /\u003e\u003c/div\u003eBack in 1966, a suitable toy for a geeky kid was a radio kit. You could find simple crystal radio sets or some more advanced ones. But some lucky kids \u003ca href=\"https://hackaday.com/2025/10/12/making-a-2-transistor-am-radio-with-a-philips-electronic-engineer-ee8-kit-from-1966/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/12/making-a-2-transistor-am-radio-with-a-philips-electronic-engineer-ee8-kit-from-1966/"
+      ],
+      "categories": [
+        "hardware",
+        "Radio Hacks",
+        "am radio",
+        "Philips Electronic Engineer EE8 Kit",
+        "transistor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/EE8-banner.jpg"
+      },
+      "published": "2025-10-13T05:00:58Z"
+    }
+  },
+  {
+    "hash": "deb38485a360e33ea1f5b0affab2a49e64f4830418b82d970c715d7ea720aa1f",
+    "item": {
+      "title": "Crypto Price Prediction Today 13 October – XRP, Cardano, PENGU",
+      "description": "\u003cp\u003eCrypto price prediction today has reported that XRP, ADA, and PENGU have risen after oversold conditions, with ETF filings, technical momentum, and ecosystem updates cited as factors. A mine-to-earn token, PEPENODE, has also attracted funds and staking participation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-price-prediction-today-13-october-xrp-cardano-pengu/\"\u003eCrypto Price Prediction Today 13 October – XRP, Cardano, PENGU\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-price-prediction-today-13-october-xrp-cardano-pengu/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cardano",
+        "PENGU",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13112100/1760354459-crypto-price-prediction.jpg"
+      },
+      "published": "2025-10-13T23:30:00Z"
+    }
+  },
+  {
+    "hash": "577619cbb6539b11ef7558440e3753df8ac293670fe83fa8997466d0b8163d1e",
+    "item": {
+      "title": "XRP Price Prediction: SEC Filings Hint at Imminent ETF Launch – Is This XRP’s Moment to Hit $1,000?",
+      "description": "\u003cp\u003eSeveral spot XRP ETF issuers have submitted amended S-1 filings, this time with tickers – XRP price predictions now verge on a potential $1,000 catalyst.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-sec-filings-hint-at-imminent-etf-launch-is-this-xrps-moment-to-hit-1000/\"\u003eXRP Price Prediction: SEC Filings Hint at Imminent ETF Launch – Is This XRP’s Moment to Hit $1,000?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-sec-filings-hint-at-imminent-etf-launch-is-this-xrps-moment-to-hit-1000/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ETF",
+        "Price Prediction",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13131812/1760361491-xrp-price-prediction.jpg"
+      },
+      "published": "2025-10-13T23:24:00Z"
+    }
+  },
+  {
+    "hash": "0d441143d185ed05cc6e5650c17c206f07d50ae10a9b4d20b37fe98f9030a506",
+    "item": {
+      "title": "BNB Price Prediction: Nasdaq CEO Calls It “Most Overlooked Blue-Chip” – Is it the Next Ethereum?",
+      "description": "\u003cp\u003eThe head of a Nasdaq-listed company has made an interesting comment about BNB Chain, as it called it an “overlooked blue-chip.” This reflects growing institutional awareness about the positive prospects of this smart contracts network, which favors a bullish BNB price prediction.David Namdar, Chief Executive Officer at CEA Industries, said that BNB’s latest positive performance [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bnb-price-prediction-nasdaq-ceo-calls-it-most-overlooked-blue-chip-is-it-the-next-ethereum/\"\u003eBNB Price Prediction: Nasdaq CEO Calls It “Most Overlooked Blue-Chip” – Is it the Next Ethereum?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bnb-price-prediction-nasdaq-ceo-calls-it-most-overlooked-blue-chip-is-it-the-next-ethereum/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Binance Coin",
+        "BNB Chain",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13112027/1760354426-bnb-price-prediction.jpg"
+      },
+      "published": "2025-10-13T23:24:00Z"
+    }
+  },
+  {
+    "hash": "87ba9127b969fcf834f12e1687e1da555163866523c04e9754e0f67359ee097d",
+    "item": {
+      "title": "Bitcoin Price Prediction: Trump, BlackRock, and Strategy Fuel Renewed Optimism as Bulls Target $122K",
+      "description": "\u003cp\u003eBitcoin price prediction: BTC nears $115K as Strategy buys $27M, Trump joins Bitcoin billionaires, and BlackRock’s $94B ETF fuels bullish momentum.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-trump-blackrock-and-strategy-fuel-renewed-optimism-as-bulls-target-122k/\"\u003eBitcoin Price Prediction: Trump, BlackRock, and Strategy Fuel Renewed Optimism as Bulls Target $122K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-trump-blackrock-and-strategy-fuel-renewed-optimism-as-bulls-target-122k/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/22171914/1755883153-bitcoin-price-prediction-5.jpg"
+      },
+      "published": "2025-10-13T22:57:40Z"
+    }
+  },
+  {
+    "hash": "301d70b0763663c7f014a9e110ba2b0d103ce47473334656ee0e27a1ae87dc46",
+    "item": {
+      "title": "Solana Price Prediction: While Other Coins Crashed, Whales Bought SOL – $500 is the First Target",
+      "description": "\u003cp\u003eSolana appears to be down but not out, as whale accumulation underscores continued confidence in bullish Solana price predictions. Despite the US-China trade war–driven liquidation event that wiped out bullish setups for most altcoins, SOL has reaffirmed historical support at $173.Whales seem to be treating the 24% weekly decline as a discount, with a sharp [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-while-other-coins-crashed-whales-bought-sol-500-is-the-first-target/\"\u003eSolana Price Prediction: While Other Coins Crashed, Whales Bought SOL – $500 is the First Target\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-while-other-coins-crashed-whales-bought-sol-500-is-the-first-target/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Solana",
+        "Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13162931/1760372970-solana-price-prediction-1.jpg"
+      },
+      "published": "2025-10-13T22:31:00Z"
+    }
+  },
+  {
+    "hash": "65118474bc806e3f8e2c2e2f65365c32fdd0caba176cace7b8517285ce9633dc",
+    "item": {
+      "title": "Best Crypto to Buy Now 13 October – XRP, Solana, Cardano",
+      "description": "\u003cp\u003eBest Crypto has been reviewed in a volatile week where Bitcoin has set a new ATH and a tariff shock has sparked a drawdown. XRP, Solana, and Cardano have shown renewed momentum and technical structures that have suggested scope for further gains as sentiment has stabilized.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-13-october-xrp-solana-cardano/\"\u003eBest Crypto to Buy Now 13 October – XRP, Solana, Cardano\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-13-october-xrp-solana-cardano/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Cardano",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13102059/Best-Crypto-to-Buy-Now-4.jpg"
+      },
+      "published": "2025-10-13T22:30:00Z"
+    }
+  },
+  {
+    "hash": "40a3f1eb19917dd3ca74eaa6cce0bf10d6c98d04f7f17272db3bb5c6c05f7597",
+    "item": {
+      "title": "New ChatGPT Predicts the Price of XRP, Dogecoin, PEPE by the End of 2025",
+      "description": "\u003cp\u003eChatGPT predicts XRP, Dogecoin, and Pepe have shown setups consistent with past rallies, citing October seasonality, legal outcomes for Ripple, technical formations, and payments integrations. Projections have outlined potential year-end ranges and conditions for reclaiming highs.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/new-chatgpt-predicts-the-price-of-xrp-dogecoin-pepe-by-the-end-of-2025/\"\u003eNew ChatGPT Predicts the Price of XRP, Dogecoin, PEPE by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/new-chatgpt-predicts-the-price-of-xrp-dogecoin-pepe-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Pepe",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13111615/ChatGPT-Predicts-the-Price-.jpg"
+      },
+      "published": "2025-10-13T22:30:00Z"
+    }
+  },
+  {
+    "hash": "287f439f50eefd06e8c9c981ab3ab958ed0be2bf231a8122e96512fc688d1ca6",
+    "item": {
+      "title": "LINK Price Prediction: Chainlink Expands With 14 Integrations as Oracle System Helps Aave Earn $1.6M –  Rally to $30 Next?",
+      "description": "\u003cp\u003eLINK price prediction has assessed Chainlink’s rebound, 14 new integrations across 11 chains, OEV-driven $1.6M for Aave during liquidations, and institutional pilots via Swift/UBS. Technicals have pointed to a Wave (5) move with resistance near $21.88–$23.11 and a potential $32 target.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/link-price-prediction-chainlink-expands-with-14-integrations-as-oracle-system-helps-aave-earn-1-6m-rally-to-30-next/\"\u003eLINK Price Prediction: Chainlink Expands With 14 Integrations as Oracle System Helps Aave Earn $1.6M –  Rally to $30 Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/link-price-prediction-chainlink-expands-with-14-integrations-as-oracle-system-helps-aave-earn-1-6m-rally-to-30-next/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ChainLink",
+        "Link"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/13185925/1760381964-chatgpt-image-oct-13-2025-07_57_39-pm_optimized.jpg"
+      },
+      "published": "2025-10-13T21:37:42Z"
+    }
+  }
+]
