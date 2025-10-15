@@ -1679,5 +1679,429 @@
       },
       "published": "2025-10-15T04:52:51Z"
     }
+  },
+  {
+    "hash": "49638fee03d104440da72ef35c37d4647dae39935ca0a6611c05142d8bd4b764",
+    "item": {
+      "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+      "description": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.\nThe shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.\n\"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK",
+      "links": [
+        "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbStyTHoDcDIi2hOYUUE0gL0ICoN_VfOwuMpKAjzXx2aYFQsNUm4sdBWjCezEi3M33IAhZ_t70GwUVVBcVy5tdU5Qnxcn-OAoOONXq_W-QPvJwR6aOmEBRvpuV-ZHH1a9LXqLbNcTqOpUZ5Bc-FA5uGhVxGq07e71OF7_0ducIZLm8_ScQ4XSE-95Syw0O/s1600/ics-hacking.jpg"
+      },
+      "published": "2025-10-15T06:50:00Z"
+    }
+  },
+  {
+    "hash": "bf1b3d6d1e6e2f21d1f0b26b11f110e30cb149478b320276884a28942ea94ccc",
+    "item": {
+      "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+      "description": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
+      "links": [
+        "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht-AlrRupsMmlNlQlln5yqtv-DvYv2IfyBuNhgh4zrPXpmewDg_wxCOOk1J9EDKzx4CJCp9gcPGr-d2yXiDE9gAX8BRTdPbrerxnMNA3bXL08JBlDQq_yaEjM6euVOazBKAU3IM-54TtpKaEpp-Qtk-fSsd9B_vfjBv47M7eoe3qQQMCAqtFwXyPrUPO4S/s1600/cookie-shell.jpg"
+      },
+      "published": "2025-10-15T06:16:00Z"
+    }
+  },
+  {
+    "hash": "7670c9d69d7a0f736e44ba8fdfb3fa6639d71c5df08070fe686c322745dfb9e0",
+    "item": {
+      "title": "Pixnapping Attack",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588594\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.pixnapping.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T06:05:51Z"
+    }
+  },
+  {
+    "hash": "a3fb83b34d09616f60cd1f4ac92ca221d9551dc26be879b7032fc73657476ffa",
+    "item": {
+      "title": "Show HN: Firm, a text-based work management system",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588959\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/42futures/firm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T07:01:53Z"
+    }
+  },
+  {
+    "hash": "f7a634b40550387913de2acb002231885b25a7ed24e9fcb8b98e950e57dd1c03",
+    "item": {
+      "title": "Updating Desktop Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45555749\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tritium.legal/blog/update"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-12T06:19:54Z"
+    }
+  },
+  {
+    "hash": "576f057f2cff85131629263dc5a150ecd91fb489eb55c7e8541823734c440b29",
+    "item": {
+      "title": "Just Talk to It – The No-Bs Way of Agentic Engineering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588689\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://steipete.me/posts/just-talk-to-it"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T06:21:04Z"
+    }
+  },
+  {
+    "hash": "e26755bf41b880415af38dfab1dc7b0a6ccacf7ec63ccc70e27a9282f17033e8",
+    "item": {
+      "title": "A Early History of Algebraic Data Types",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45526846\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hillelwayne.com/post/algdt-history/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T12:42:06Z"
+    }
+  },
+  {
+    "hash": "c0ed3d125328f155999e73dc52985fa15d3f03d0e6ce4b0ee79848276ee94172",
+    "item": {
+      "title": "You Can't Mock Reality: Testing a 3D Rendering Pipeline in Blender",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45528104\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://medium.com/@egorich42/you-cant-mock-reality-testing-a-3d-rendering-pipeline-in-blender-9c5b93e0076e"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T14:21:47Z"
+    }
+  },
+  {
+    "hash": "9837804a1dbc64542bad3129bf2d4ccf3162aada35463d946d7ad748431df6ed",
+    "item": {
+      "title": "Europe's Digital Sovereignty Paradox – \"Chat Control\" Update",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45589327\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.process-one.net/blog/chat-control-update-oct-2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T07:52:40Z"
+    }
+  },
+  {
+    "hash": "c2f0b3284eca5fd0d07ac736c9a7d218de94a63969ba48d2bbc943a463407c51",
+    "item": {
+      "title": "Factorio Running on Mobile",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp 1280w, https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp?resize=800,600 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"866716\" data-permalink=\"https://hackaday.com/2025/10/15/factorio-running-on-mobile/factorio-mobile-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp\" data-orig-size=\"1280,960\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"factorio-mobile-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp?w=800\" /\u003e\u003c/div\u003eAs a video game, DOOM has achieved cult status not just for its legendary gameplay and milestone developments but also because it\u0026#8217;s the piece of software that\u0026#8217;s likely been ported \u003ca href=\"https://hackaday.com/2025/10/15/factorio-running-on-mobile/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/15/factorio-running-on-mobile/"
+      ],
+      "categories": [
+        "Games",
+        "box86/box64",
+        "gaming",
+        "linux",
+        "mobile",
+        "phone",
+        "port",
+        "postmarketos",
+        "steam",
+        "swap"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/factorio-mobile-main.webp"
+      },
+      "published": "2025-10-15T08:00:27Z"
+    }
+  },
+  {
+    "hash": "f52173c3f75ad2ecf698a224d46109d009b191a3b74379bbfc0e9268fd19bd29",
+    "item": {
+      "title": "A Record Lathe For Analog Audio Perfection",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"866562\" data-permalink=\"https://hackaday.com/2025/10/14/a-record-lathe-for-analog-audio-perfection/vinyl-lathe-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"vinyl-lathe-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg?w=800\" /\u003e\u003c/div\u003eIt\u0026#8217;s no secret that here at Hackaday we\u0026#8217;ve at times been tempted to poke fun at the world of audiophiles, a place where engineering sometimes takes second place to outright \u003ca href=\"https://hackaday.com/2025/10/14/a-record-lathe-for-analog-audio-perfection/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/14/a-record-lathe-for-analog-audio-perfection/"
+      ],
+      "categories": [
+        "home entertainment hacks",
+        "audio",
+        "record lathe",
+        "vinyl"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/vinyl-lathe-featured.jpg"
+      },
+      "published": "2025-10-15T05:00:42Z"
+    }
+  },
+  {
+    "hash": "8135b852af271a1776be52987cd7e3b20237e55438e4c1bdde3403d14b7c3377",
+    "item": {
+      "title": "C Project Turns Into Full-Fledged OS",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png 1067w, https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png?resize=250,187 250w, https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png?resize=800,600 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866732\" data-permalink=\"https://hackaday.com/2025/10/14/c-project-turns-into-full-fledged-os/mooseos-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png\" data-orig-size=\"1067,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"mooseos-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png?w=800\" /\u003e\u003c/div\u003eWhile some of us may have learned C in order to interact with embedded electronics or deep with computing hardware of some sort, others learn C for the challenge alone. \u003ca href=\"https://hackaday.com/2025/10/14/c-project-turns-into-full-fledged-os/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/14/c-project-turns-into-full-fledged-os/"
+      ],
+      "categories": [
+        "Software Development",
+        "assembly",
+        "bare metal",
+        "c++",
+        "file system",
+        "kernel",
+        "mooseos",
+        "operating system",
+        "qemu",
+        "virtual machine"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/mooseos-main.png"
+      },
+      "published": "2025-10-15T02:00:21Z"
+    }
+  },
+  {
+    "hash": "9ac844808a72b4d33978525947c847738b1b15efcbab530d0b7c7c70d63b1433",
+    "item": {
+      "title": "Ben Eater Explains How Aircraft Systems Communicate With the ARINC 429 Protocol",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A photo of the old mechanical and new digital altimeters\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg 1537w, https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866622\" data-permalink=\"https://hackaday.com/2025/10/14/ben-eater-explains-how-aircraft-systems-communicate-with-the-arinc-429-protocol/ben-eater-altimeter-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg\" data-orig-size=\"1537,864\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Ben-Eater-altimeter-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg?w=800\" /\u003e\u003c/div\u003eOver on his YouTube channel the inimitable [Ben Eater] takes a look at an electronic altimeter which replaces an old mechanical altimeter in an airplane. The old altimeter was entirely \u003ca href=\"https://hackaday.com/2025/10/14/ben-eater-explains-how-aircraft-systems-communicate-with-the-arinc-429-protocol/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/14/ben-eater-explains-how-aircraft-systems-communicate-with-the-arinc-429-protocol/"
+      ],
+      "categories": [
+        "hardware",
+        "Misc Hacks",
+        "aircraft",
+        "ARINC 429 Protocol",
+        "communication protocol",
+        "MD23-215 Multifunction Digital Counter Drum Altimeter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Ben-Eater-altimeter-banner.jpg"
+      },
+      "published": "2025-10-14T23:00:27Z"
+    }
+  },
+  {
+    "hash": "c7d696b74c9abe9251bd35a12465776eb5fc4102884bd282e3d6a1c2ba804163",
+    "item": {
+      "title": "Ripple Partners With Absa Bank to Launch Digital Asset Custody in South Africa",
+      "description": "\u003cp\u003eRipple has entered into a strategic partnership with Absa Bank to provide digital asset custody services for institutional clients.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-partners-with-absa-bank-to-launch-digital-asset-custody-in-south-africa/\"\u003eRipple Partners With Absa Bank to Launch Digital Asset Custody in South Africa\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-partners-with-absa-bank-to-launch-digital-asset-custody-in-south-africa/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Bank",
+        "Ripple"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15082829/1760516909-4c1a459d-9278-46b4-8291-2667d7e0e804_optimized.jpg"
+      },
+      "published": "2025-10-15T08:54:56Z"
+    }
+  },
+  {
+    "hash": "2c51ed51d9fb95774997d1200da09c637da798171574a55e40dd573837ebb310",
+    "item": {
+      "title": "Fed’s QT to End Soon, But Powell Warns Congress Threatens Rate Control Stability – Crypto at Risk?",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eFederal Reserve Chair Jerome Powell announced the central bank's three-year campaign to shrink its $6.6 trillion balance sheet could end within months while warning Congress against eliminating the Fed's ability to pay interest on reserves, as gold hit record $4,200 up 59% year-to-date.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/feds-qt-to-end-soon-but-powell-warns-congress-threatens-rate-control-stability-crypto-at-risk/\"\u003eFed\u0026#8217;s QT to End Soon, But Powell Warns Congress Threatens Rate Control Stability – Crypto at Risk?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/feds-qt-to-end-soon-but-powell-warns-congress-threatens-rate-control-stability-crypto-at-risk/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15082612/1760516772-stock-image_optimized-32.webp"
+      },
+      "published": "2025-10-15T08:48:56Z"
+    }
+  },
+  {
+    "hash": "6468f3ab7af2dd033141ba1a7274a558a872160ed09a940568b8c5c0bc0ed893",
+    "item": {
+      "title": "NYC Mayor Establishes ‘Nation’s-First’ Crypto-Centric Office Ahead of His Exit",
+      "description": "\u003cp\u003eBitcoin NYC Mayor Adams established the “nation’s first-ever” municipal office for crypto and blockchain to position the city as the global crypto hub.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nyc-mayor-establishes-nations-first-crypto-centric-office-ahead-of-his-exit/\"\u003eNYC Mayor Establishes ‘Nation’s-First’ Crypto-Centric Office Ahead of His Exit\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nyc-mayor-establishes-nations-first-crypto-centric-office-ahead-of-his-exit/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "New York",
+        "NYC Mayor"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15080112/1760515271-image-1760513574234_optimized.jpg"
+      },
+      "published": "2025-10-15T08:18:51Z"
+    }
+  },
+  {
+    "hash": "e638c1d98e45ebd1272c8857642ca3804c7a6188457ae1b482b83e7df8a54e4f",
+    "item": {
+      "title": "U.S. ETF Industry Tops $12.7 Trillion as Crypto Products Continue to Attract Inflows: ETFGI",
+      "description": "\u003cp\u003eThe U.S. exchange-traded-fund industry climbed to a record $12.70 trillion in assets at the end of September, according to new data from ETFGI, marking a 22.7 percent increase from $10.35 trillion at the close of 2024.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/u-s-etf-industry-tops-12-7-trillion-as-crypto-products-continue-to-attract-inflows-etfgi/\"\u003eU.S. ETF Industry Tops $12.7 Trillion as Crypto Products Continue to Attract Inflows: ETFGI\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/u-s-etf-industry-tops-12-7-trillion-as-crypto-products-continue-to-attract-inflows-etfgi/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto ETPs",
+        "ETFGI",
+        "Grayscale Investments"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15071503/1760512502-1711648454-1711648432055_processed_optimized.jpeg"
+      },
+      "published": "2025-10-15T07:22:07Z"
+    }
+  },
+  {
+    "hash": "9081b11965ee30b36325713c16141b13b0a122ef874d262d9d7136a265012ccc",
+    "item": {
+      "title": "‘Bitcoin Jesus’ Roger Ver Settles $50M Tax Case With US DOJ Over Undeclared Holdings",
+      "description": "\u003cp\u003eRoger Ver settled with the US DOJ, admitting he hid Bitcoin holdings when renouncing US citizenship in 2014.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-jesus-roger-ver-settles-50m-tax-case-with-us-doj-over-undeclared-holdings/\"\u003e‘Bitcoin Jesus’ Roger Ver Settles $50M Tax Case With US DOJ Over Undeclared Holdings\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-jesus-roger-ver-settles-50m-tax-case-with-us-doj-over-undeclared-holdings/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "DOJ",
+        "Regulation",
+        "Roger Ver"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15070014/1760511613-0_1-1_optimized-2.jpg"
+      },
+      "published": "2025-10-15T07:04:11Z"
+    }
+  },
+  {
+    "hash": "c1e87b0d4fec06365fadfa52748856e14e34439dee503efc9df20f4be8092083",
+    "item": {
+      "title": "Coinbase Infuses Fresh Investment into Indian Crypto Exchange CoinDCX at $2.45B Valuation",
+      "description": "\u003cp\u003eCoinbase’s new investment is an extension of CoinDCX’s previous fundraise and values CoinDCX at $2.45 billion post-money.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-infuses-fresh-investment-into-indian-crypto-exchange-coindcx-at-2-45b-valuation/\"\u003eCoinbase Infuses Fresh Investment into Indian Crypto Exchange CoinDCX at $2.45B Valuation\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-infuses-fresh-investment-into-indian-crypto-exchange-coindcx-at-2-45b-valuation/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Coinbase",
+        "CoinDCX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15063546/1760510145-image-1760507419814_optimized.jpg"
+      },
+      "published": "2025-10-15T06:41:57Z"
+    }
+  },
+  {
+    "hash": "a5b44980340af08e2b1836cb3cb9f5b8c7d936a337afbf442ef9b3f27cb38ccd",
+    "item": {
+      "title": "Sam Bankman-Fried Accuses Biden Admin of Going After Him for Donating to Republicans",
+      "description": "\u003cp\u003eSam Bankman-Fried says his 2022 arrest was politically driven after he shifted donations toward Republicans and lost favor with the Biden administration.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sam-bankman-fried-alleges-biden-admin-retaliated-over-gop-support/\"\u003eSam Bankman-Fried Accuses Biden Admin of Going After Him for Donating to Republicans\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sam-bankman-fried-alleges-biden-admin-retaliated-over-gop-support/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Joe Biden",
+        "Sam Bankman-Fried",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/15060618/1760508378-image-1760508357179_optimized.jpg"
+      },
+      "published": "2025-10-15T06:14:34Z"
+    }
   }
 ]
