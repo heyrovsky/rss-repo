@@ -2997,5 +2997,683 @@
       },
       "published": "2025-10-16T10:49:56Z"
     }
+  },
+  {
+    "hash": "9a69bf2983a56102efba76441b70f6314ebb679533ed63e60082be233274278b",
+    "item": {
+      "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
+      "description": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.\nThe activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,",
+      "links": [
+        "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAkWqyP-kjx3tsDRbhwCbgbYrCfv0bhsscLPeraWfsWXD0mN158-j8SWyraPNsbVa9_Iv_lMsOFckxYCbc6jtrVSE2qvKzDpErsFoHG-kp5NiCwBuPi72zjnxP1WUqdLiGnBfw4JaDD2QKdPy0PAG4YIhFZxuS6IlbfEjpvgtKVlqaKMz2aSSl_gFfOia/s1600/hacker-blockchain.jpg"
+      },
+      "published": "2025-10-16T14:56:00Z"
+    }
+  },
+  {
+    "hash": "2cd5301c08f18decc183c52b1710fb93bb2195e249e7cc757d0fdcd3fb58fcd2",
+    "item": {
+      "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
+      "description": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
+      "links": [
+        "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Cqqc3mBcDOatMdIAwK7axB-G3tdExlMXQISJXk_UOZIaHOI8KYKQLB4Z_HoriweeSJIEQrRFRzxMoiM5otP53eXbIbyplVZ2Ozcuw-1Do3iybM2o-Gtm-EM45k6t_vMlMbiCXumAZtQLm56SpTlqsfkkwNCB96RyMyUp8eCHnEInlvKwsyq9FY7tquu1/s1600/blockchain-malware.jpg"
+      },
+      "published": "2025-10-16T14:52:00Z"
+    }
+  },
+  {
+    "hash": "c13439b6a4e993f58a228c656cc520e2a3971ed134a7c7560b38d9fb6ae2ee01",
+    "item": {
+      "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
+      "description": "An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.\n\"This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely",
+      "links": [
+        "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-cDOtGBRZfQEbBlDLNhFzLj2mAPT6gHnq3bEnJD-FcJ0ci_C9GdgiHyOIg9S0XYwu6aOX-JPwAtjK953a7yjE-RYyTGziZLHi0nzZJlWsBakdMcDYuI4EVNkx0Xv67lsGmB7S-nJbNn1kcb6PK54WxA5us3KsZrVIyfk579v9SkQpNo_iNadEM_FN09I/s1600/linux.jpg"
+      },
+      "published": "2025-10-16T14:28:00Z"
+    }
+  },
+  {
+    "hash": "5b897d81d9d684ae4894ba55d98600d0d7da42735a275dbf488b01fae01e171e",
+    "item": {
+      "title": "Open source GZDoom community splinters after creator inserts AI-generated code",
+      "description": "\u003cem\u003eUZDoom\u003c/em\u003e fork promises to fix other top-down leadership problems with the decades-old mod.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/"
+      ],
+      "categories": [
+        "AI",
+        "Gaming",
+        "civil war",
+        "developers",
+        "disagreement",
+        "Doom",
+        "gzdoom",
+        "id Software",
+        "open source"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/gzdoom-1152x648.png"
+      },
+      "published": "2025-10-16T16:48:00Z"
+    }
+  },
+  {
+    "hash": "e738b649d556f83dc70397f327c806cabba90565454fcf4772f3175fa44b510d",
+    "item": {
+      "title": "OpenAI thinks Elon Musk funded its biggest critics—who also hate Musk",
+      "description": "“Cutthroat” OpenAI accused of exploiting Musk fight to intimidate and silence critics.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/10/openai-thinks-elon-musk-funded-its-biggest-critics-who-also-hate-musk/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "AI safety",
+        "Artificial Intelligence",
+        "Elon Musk",
+        "openai",
+        "xAI"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2198388525-1024x648.jpg"
+      },
+      "published": "2025-10-16T16:32:36Z"
+    }
+  },
+  {
+    "hash": "af18f2119c710dbe699ae4bcddb6fa7e05a00b0e435e1c3bf956125eb5b0fddc",
+    "item": {
+      "title": "SpaceX has plans to launch Falcon Heavy from California—if anyone wants it to",
+      "description": "There's no big rush to bring SpaceX's Falcon Heavy to Vandenberg Space Force Base.",
+      "links": [
+        "https://arstechnica.com/space/2025/10/spacex-has-plans-to-launch-falcon-heavy-from-california-if-anyone-wants-it-to/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "Commercial space",
+        "falcon 9",
+        "falcon heavy",
+        "launch",
+        "military space",
+        "slc-6",
+        "space force",
+        "spacex",
+        "Vandenberg space force base"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2211835625-1152x648.jpg"
+      },
+      "published": "2025-10-16T15:40:14Z"
+    }
+  },
+  {
+    "hash": "5706908bea1923eba00a808855ce6aa64687f97343b1b19da1310bdf42b1128a",
+    "item": {
+      "title": "Antarctica is starting to look a lot like Greenland—and that isn’t good",
+      "description": "Global warming is awakening sleeping giants of ice at the South Pole.",
+      "links": [
+        "https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/"
+      ],
+      "categories": [
+        "Science",
+        "Antarctica",
+        "climate change",
+        "glaciers",
+        "global warming",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Bob Berwyn, Inside Climate News"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/shoesmith-1152x648.jpg"
+      },
+      "published": "2025-10-16T14:19:04Z"
+    }
+  },
+  {
+    "hash": "08aa7a2595fb68646a2b152d019ea228cb86bbf06173b2c1cf13fcbfe7765247",
+    "item": {
+      "title": "Seascape Launches First Tokenized BNB Treasury Strategy on Binance Smart Chain",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1080\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w-376x212.jpg 376w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eSingapore, Singapore, 16th October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/seascape-launches-first-tokenized-bnb-treasury-strategy-on-binance-smart-chain/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/1760459084915_11_1760459235aJUS32ik3w.jpg"
+      },
+      "published": "2025-10-16T13:05:28Z"
+    }
+  },
+  {
+    "hash": "2cd667d74715e37742788b619371e4232e81462bedf55e4164b82aac35b8fe27",
+    "item": {
+      "title": "Apex Fusion Launches REPDROP to Reward Genuine Ecosystem Contributors",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Apex Fusion Launches REPDROP to Reward Genuine Ecosystem Contributors\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/sae-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe first REPDROP, a Reputation System Drop that recognizes sincere contributors and supporters of the Apex ecosystem, has been launched by Apex Fusion, the multi-layer blockchain ecosystem that unites the UTxO and EVM networks. The REPDROP signifies the conclusion of Apex Fusion\u0026#8217;s first roadmap and the start of a new",
+      "links": [
+        "https://thenewscrypto.com/apex-fusion-launches-repdrop-to-reward-genuine-ecosystem-contributors/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/sae.jpg"
+      },
+      "published": "2025-10-16T13:00:00Z"
+    }
+  },
+  {
+    "hash": "bd32e8aae895b2b7c820db8a570a5ab61446b67293a7e5895305b94a10bb043a",
+    "item": {
+      "title": "MEXC Celebrates ZEROBASE (ZBT) Listing With Airdrop+ Event Featuring 55,000 USDT Prize Pool",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"456\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-46.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-46.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-46-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-46-768x449.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e MEXC, a leading global cryptocurrency exchange, announced it will list ZEROBASE (ZBT) in the Innovation Zone at 13:00 on Oct 17, 2025 (UTC). To celebrate the listing, MEXC is launching an Airdrop+ event featuring a 55,000 USDT prize pool, open to both new and existing users. ZEROBASE is a decentralized",
+      "links": [
+        "https://thenewscrypto.com/mexc-celebrates-zerobase-zbt-listing-with-airdrop-event-featuring-55000-usdt-prize-pool/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-46.png"
+      },
+      "published": "2025-10-16T13:00:00Z"
+    }
+  },
+  {
+    "hash": "b66d21e903545970d8f4b7237d736ffbe84da3ca8d3bde938d373081e64f3db9",
+    "item": {
+      "title": "Nizhny Novgorod Blockchain Hub Unveils Crypto Yolka to Culminate Strategic Annual Cycle and Launch Community-Voted Investment Fund",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"269\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-14.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Nizhny Novgorod Blockchain Hub Unveils Crypto Yolka to Culminate Strategic Annual Cycle and Launch Community-Voted Investment Fund\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-14.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-14-300x158.png 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe Blockchain Division community, in partnership with Barter Smartplace, has announced the Crypto Yolka (Crypto Tree)—the capstone event of 2025, scheduled for December 19th at the Corner Place business center. This gathering marks the final, crucial point in a year-long series of strategic meetings aimed at establishing Nizhny Novgorod as",
+      "links": [
+        "https://thenewscrypto.com/nizhny-novgorod-blockchain-hub-unveils-crypto-yolka-to-culminate-strategic-annual-cycle-and-launch-community-voted-investment-fund/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Nizhny"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-14.png"
+      },
+      "published": "2025-10-16T12:03:52Z"
+    }
+  },
+  {
+    "hash": "5f6eb8eb1547f1176d7eda600885fab76fa1e694360bc0064b3771ccf942d513",
+    "item": {
+      "title": "Kraken Expands US Derivatives Footprint with Small Exchanges Purchase",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/After-acquiring-NinjaTrader1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Kraken Expands US Derivatives Footprint with Small Exchanges Purchase\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/After-acquiring-NinjaTrader1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/After-acquiring-NinjaTrader1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/After-acquiring-NinjaTrader1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eKraken, a cryptocurrency platform, has acquired Small Exchange, an IG Group subsidiary, in a deal worth $100 million, its second big derivatives acquisition of the year. The acquisition provides Kraken with a CFTC-licensed designated contract market maker license, allowing regulated derivatives trading in the United States within the country. The",
+      "links": [
+        "https://thenewscrypto.com/kraken-expands-us-derivatives-footprint-with-small-exchanges-purchase/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "CFTC",
+        "Kraken"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/After-acquiring-NinjaTrader1.jpg"
+      },
+      "published": "2025-10-16T11:50:16Z"
+    }
+  },
+  {
+    "hash": "baa29fed0af02c1735b3319a45a792852801be1362f1c26b857f1c43ca786dc3",
+    "item": {
+      "title": "Crypto Investing 101: Why Beginners Should Consider Ozak AI at $0.012 Before Bitcoin at $123K or Ethereum at $4,551",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-2-4.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Investing 101: Why Beginners Should Consider Ozak AI at $0.012 Before Bitcoin at $123K or Ethereum at $4,551\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-2-4.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-2-4-300x171.png 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eWhen new investors enter crypto, they usually have a dilemma: do they become part of more established cryptos such as Bitcoin and Ethereum, or pursue early-stage projects with greater growth potential? Bitcoin is trading at around $111,483.05 and Ethereum at $3,974.23, both with promising market space but low potential for",
+      "links": [
+        "https://thenewscrypto.com/crypto-investing-101-why-beginners-should-consider-ozak-ai-at-0-012-before-bitcoin-at-123k-or-ethereum-at-4551/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "Crypto",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-2-4.png"
+      },
+      "published": "2025-10-16T11:30:00Z"
+    }
+  },
+  {
+    "hash": "79c290fd2e4e56c3fd6848432af20030f7aee427033a2c3ffce5a0f10cc824c7",
+    "item": {
+      "title": "Bearish Clouds Hover Over Dogecoin: Is a Comeback Still on the Cards?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Clouds-Hover-Over-Dogecoin-Is-a-Comeback-Still-on-the-Cards.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bearish Clouds Hover Over Dogecoin: Is a Comeback Still on the Cards?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Clouds-Hover-Over-Dogecoin-Is-a-Comeback-Still-on-the-Cards.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Clouds-Hover-Over-Dogecoin-Is-a-Comeback-Still-on-the-Cards-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Clouds-Hover-Over-Dogecoin-Is-a-Comeback-Still-on-the-Cards-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe overall crypto market is sleeping red, with fear sentiment lingering across the assets, losing the positive traction. Following suit, the memecoin market cap has settled at around $63.8 billion, after losing over 4.6%. Among the tokens, the dog-themed Dogecoin (DOGE) has posted a 2.88% loss in the last 24",
+      "links": [
+        "https://thenewscrypto.com/bearish-clouds-hover-over-dogecoin-is-a-comeback-still-on-the-cards/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "DOGE",
+        "Dogecoin",
+        "memecoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Bearish-Clouds-Hover-Over-Dogecoin-Is-a-Comeback-Still-on-the-Cards.jpg"
+      },
+      "published": "2025-10-16T10:53:14Z"
+    }
+  },
+  {
+    "hash": "5de3db321fb4391ebf0ed29f5c5fdf2cce9e9465f783c8730765384d4f9e7b0d",
+    "item": {
+      "title": "KuCoin Secures Global #1 Spot on CER.live with Perfect Cybersecurity Score",
+      "description": "\u003cp\u003e\u003cimg width=\"1400\" height=\"800\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/lk-3.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"KuCoin Secures Global #1 Spot on CER.live with Perfect Cybersecurity Score\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/lk-3.png 1400w, https://thenewscrypto.com/wp-content/uploads/2025/10/lk-3-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/lk-3-1024x585.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/lk-3-768x439.png 768w\" sizes=\"auto, (max-width: 1400px) 100vw, 1400px\" /\u003e\u003c/p\u003eBy retaining its top-tier position on CER.live, an independent platform that is well-known for evaluating exchange security and transparency, KuCoin, a major global cryptocurrency platform that is founded on trust, has now strengthened its leadership in the field of cybersecurity. By receiving this certification, KuCoin has shown its commitment to",
+      "links": [
+        "https://thenewscrypto.com/kucoin-secures-global-1-spot-on-cer-live-with-perfect-cybersecurity-score/"
+      ],
+      "categories": [
+        "Exchange News",
+        "exchange",
+        "KuCoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/lk-3.png"
+      },
+      "published": "2025-10-16T10:00:00Z"
+    }
+  },
+  {
+    "hash": "facd4a82046b8453a402029d288e8380d77d522a6eaa747472e43c84bb9bfe37",
+    "item": {
+      "title": "Linux Affected By Decade Old Bug In Software RAID Around O_DIRECT Usage",
+      "description": "A Phoronix reader pointed out a bug report from 2015 now getting renewed interest... Linux software RAID via MD RAID, DRBD, LVM RAID, and similar software-based solutions can be broken from user-space around O_DIRECT usage. The issue is that these RAID arrays can be put silently into an inconsistent state across disks...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-RAID-Bug-O-DIRECT"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-16T18:07:50Z"
+    }
+  },
+  {
+    "hash": "b39ef4434fef8a5471cabb039cec34c07fa9e3ef10898f1d5d876b420c77dfd8",
+    "item": {
+      "title": "Claude Skills",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45607117\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/skills"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T16:05:47Z"
+    }
+  },
+  {
+    "hash": "fa7ce2f98b86f1936cda285f4ffde263d0c50a3f9c1c866d8011e084409381ef",
+    "item": {
+      "title": "Gemini 3.0 spotted in the wild through A/B testing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45607758\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T16:54:26Z"
+    }
+  },
+  {
+    "hash": "c9eeb17c68723c00508ff308a7375f5e090833ef7020528cfc2b67ae2e9915b8",
+    "item": {
+      "title": "Codex Is Live in Zed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606698\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zed.dev/blog/codex-is-live-in-zed"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T15:36:39Z"
+    }
+  },
+  {
+    "hash": "00c060c4ad054c73f78449236a3913d8807ecf53d035582a3032348e9a9a9484",
+    "item": {
+      "title": "Video game union workers rally against $55B private acquisition of EA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606394\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T15:12:19Z"
+    }
+  },
+  {
+    "hash": "695554238b66b25d7897e6724d2e68b280971c0ae6eca01d168a0457e6a5c3dc",
+    "item": {
+      "title": "Launch HN: Inkeep (YC W23) – Collaborative agent builder for devs and non-devs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604700\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/inkeep/agents"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T12:50:08Z"
+    }
+  },
+  {
+    "hash": "2e02268d9b08dd5aebc272c5569696859081cd41e1e307f2c6b0a3fe997882ef",
+    "item": {
+      "title": "Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608285\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T17:36:18Z"
+    }
+  },
+  {
+    "hash": "ad959268f6bffc3366148c87b939fbfedaa47407a8e83c1a76556302bbfd0342",
+    "item": {
+      "title": "Why more SaaS companies are hiring chief trust officers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606602\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T15:29:06Z"
+    }
+  },
+  {
+    "hash": "97333a739b2cf2fc42a9a1ef2a6c713a1252b4151993219629e05f3981e5c956",
+    "item": {
+      "title": "Electricity can heal wounds three times as fast (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604779\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T12:59:08Z"
+    }
+  },
+  {
+    "hash": "dacb71fdaf92f46d5433416ab1ea35f558ca7f17222e62a299c1b7bec18e3919",
+    "item": {
+      "title": "How to tame a user interface using a spreadsheet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T00:11:59Z"
+    }
+  },
+  {
+    "hash": "8049b537fa76a426e5b0756da948b3e363256b649213c6c6b5e4bba2d903c2bf",
+    "item": {
+      "title": "Improving the Trustworthiness of JavaScript on the Web",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606070\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T14:50:04Z"
+    }
+  },
+  {
+    "hash": "0142b1b70a610a71ec650be07b44467ffb67da2d09372511392ceed7e67e34a3",
+    "item": {
+      "title": "SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45607822\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cognition.ai/blog/swe-grep"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T16:59:30Z"
+    }
+  },
+  {
+    "hash": "281be21f47e72f38a81d01c607583e4f7cfa691d3a455d2c4ee6492d03a8be8d",
+    "item": {
+      "title": "RTFM: A Real-Time Frame Model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606775\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.worldlabs.ai/blog/rtfm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T15:41:53Z"
+    }
+  },
+  {
+    "hash": "fcaecd9406cdea803c08fc466c3c91a7b3b6e916b7fb0c19fcba12da2290d10c",
+    "item": {
+      "title": "Skibidi Toilet and the monstrous digital",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604372\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://journal.media-culture.org.au/index.php/mcjournal/article/view/3108"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T12:11:18Z"
+    }
+  },
+  {
+    "hash": "ffdee4bba94febe97ff8b17e4d9c767183164e73b8a1a32a74238720f3d29856",
+    "item": {
+      "title": "How America got hooked on ultraprocessed foods",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605921\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T14:39:17Z"
+    }
+  },
+  {
+    "hash": "d3ceaf41ce4a78d62f90c893707bb83e0d1d7ae8e5f2779e6385362e3c5204fd",
+    "item": {
+      "title": "Ripple’s $1B GTreasury Deal Targets Multi-Trillion Corporate Treasury Market",
+      "description": "\u003cp\u003eRipple has announced a $1 billion acquisition of GTreasury, pairing blockchain payments with decades of treasury operations. The move has positioned Ripple to serve finance teams with 24/7 settlement, following 2025 deals for Hidden Road and Rail; closing has awaited approval.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-breaks-into-corporate-treasury-with-1b-gtreasury-acquisition/\"\u003eRipple’s $1B GTreasury Deal Targets Multi-Trillion Corporate Treasury Market\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-breaks-into-corporate-treasury-with-1b-gtreasury-acquisition/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Acquisition",
+        "Ripple"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/22151239/1755875559-ripplemining_optimized.jpg"
+      },
+      "published": "2025-10-16T17:56:04Z"
+    }
+  },
+  {
+    "hash": "ff2a09939ada39bf9c91bd7e420cd97d1d3ef35ffc6b3e89150169e5ac2924b2",
+    "item": {
+      "title": "Coinbase Launches Global USDC Payouts and Payment Links – What Changes for Merchants",
+      "description": "\u003cp\u003eCoinbase has introduced USDC payouts and payment links in Coinbase Business, so companies can send to wallets or email with instant settlement, no network fees on Base, and no chargebacks; a Payouts API and Payment Links API support automation, with accounting syncs and 4.1% APY on balances.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-unveils-global-business-payment-tools-for-the-digital-economy/\"\u003eCoinbase Launches Global USDC Payouts and Payment Links – What Changes for Merchants\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-unveils-global-business-payment-tools-for-the-digital-economy/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Finance News",
+        "News",
+        "Coinbase",
+        "Payments",
+        "USDC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06200956/1759781395-new-and-upcoming-coinbase-listings.webp"
+      },
+      "published": "2025-10-16T17:35:21Z"
+    }
+  },
+  {
+    "hash": "4ffaf16337a0abc1c0069e9cd9009423894c00aae161e6559e3e480379017a6c",
+    "item": {
+      "title": "Altcoin Season Index Slips To 28 While DeXe Advances, Tron Stabilizes, And Jupiter’s Activity Rises",
+      "description": "\u003cp\u003eAltcoin season has remained narrow near 28 while rotation has continued across select names. DeXe has risen about 5% to ~$7.12, Tron has held the $0.32 base, and Jupiter has stayed flat with turnover near $43M, as trading has been shaped more by participation than headline rallies.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-index-slips-to-28-while-dexe-advances-tron-stabilizes-and-jupiters-activity-rises/\"\u003eAltcoin Season Index Slips To 28 While DeXe Advances, Tron Stabilizes, And Jupiter’s Activity Rises\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-index-slips-to-28-while-dexe-advances-tron-stabilizes-and-jupiters-activity-rises/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/16143810/1760625489-image-1760625396501_optimized.jpg"
+      },
+      "published": "2025-10-16T17:17:35Z"
+    }
+  },
+  {
+    "hash": "90d75665a8b6ba1fa8d4f8988ded9ec71f3614b099c5406cc51d98c1c938cb43",
+    "item": {
+      "title": "WisdomTree Gains FCA Approval to Offer Bitcoin and Ethereum ETPs to UK Retail Investors",
+      "description": "\u003cp\u003eWisdomTree products on the LSE have received FCA approval, making Physical Bitcoin and Ethereum ETPs available to UK retail investors via regulated platforms. A survey has found 39% would invest if access came via banks or platforms; the Bitcoin MER has been set at 0.15% through 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/wisdomtree-gains-fca-approval-to-offer-bitcoin-and-ethereum-etps-to-uk-retail-investors/\"\u003eWisdomTree Gains FCA Approval to Offer Bitcoin and Ethereum ETPs to UK Retail Investors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/wisdomtree-gains-fca-approval-to-offer-bitcoin-and-ethereum-etps-to-uk-retail-investors/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto ETPs",
+        "FCA",
+        "Wisdomtree"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/17151512/1742224511-image-1742215437023_optimized.webp"
+      },
+      "published": "2025-10-16T12:55:57Z"
+    }
   }
 ]
