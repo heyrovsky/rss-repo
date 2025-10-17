@@ -1319,5 +1319,735 @@
       },
       "published": "2025-10-17T07:44:14Z"
     }
+  },
+  {
+    "hash": "0bc9aa81fba50fabf3e1fc18a1800ea6c60dce7438ea5d3fc13d93fb0813daf9",
+    "item": {
+      "title": "Rocket Report: China launches with no advance warning; Europe’s drone ship",
+      "description": "Starlink, Kuiper, and the US military all saw additions to their mega-constellations this week.",
+      "links": [
+        "https://arstechnica.com/space/2025/10/rocket-report-a-nearly-perfect-flight-for-starship-chinas-surprise-launch/"
+      ],
+      "categories": [
+        "Space",
+        "rocket report"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11-presplash-1152x648.jpg"
+      },
+      "published": "2025-10-17T11:00:49Z"
+    }
+  },
+  {
+    "hash": "c8bfa4f5a8f190c75a75458bd314081a31c5e6bdddce72c4fb2ef43ff37fcc67",
+    "item": {
+      "title": "Yes, everything online sucks now—but it doesn’t have to",
+      "description": "Ars chats with Cory Doctorow about his new book \u003cem\u003eEnshittification\u003c/em\u003e.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/"
+      ],
+      "categories": [
+        "Culture",
+        "Features",
+        "Tech",
+        "books",
+        "Cory Doctorow",
+        "enshittification",
+        "online culture"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory1-1152x648-1759765718.jpg"
+      },
+      "published": "2025-10-17T10:30:59Z"
+    }
+  },
+  {
+    "hash": "517eec7978f4be08b042b265c34a225842902a86ff6ee05e36f020db019d68f6",
+    "item": {
+      "title": "New Linux Kernel Patches From Intel Delivering +18% Database Performance",
+      "description": "In addition to the recent Linux kernel patches out of Intel for Cache Aware Scheduling for better performance, separately, another interesting new patch series was sent out this week for the Linux kernel. The patches rework some low-level Linux kernel memory management code and at least for database workloads the early benchmarks are showing possible 14~18% faster database performance with PostgreSQL...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-MM-CID-Faster-DBs"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-17T10:45:52Z"
+    }
+  },
+  {
+    "hash": "efd3cb8ebe00f36f466764521f2c072b51df880a44e955c5b4bd9084e9f047c7",
+    "item": {
+      "title": "Fedora Cloud Looks To Switch /boot To Btrfs Subvolume",
+      "description": "With Fedora 43 releasing in the coming weeks, Fedora stakeholders are beginning to plot their feature ideas for next year's Fedora 44 release. One of the early F44 feature submissions pending approval is switching /boot on Fedora Cloud images to being a Btrfs file-system subvolume...",
+      "links": [
+        "https://www.phoronix.com/news/Fedora-Cloud-Btrfs-Boot-Subvol"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-17T10:28:52Z"
+    }
+  },
+  {
+    "hash": "4982bd7b441bf6f96e1ddf08a740415288d4ae4425f8bdf19d2306c6730d388b",
+    "item": {
+      "title": "Intel Vulkan Driver Adds Support For Xe Driver's Low Latency Hint",
+      "description": "One of the early changes merged for the in-development Mesa 26.0 is adding support to Intel's \"ANV\" open-source Vulkan driver for supporting the low-latency hint supported by the modern Intel Xe kernel graphics driver...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-ANV-Xe-Low-Latency-Hint"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-17T10:16:12Z"
+    }
+  },
+  {
+    "hash": "bfd3898fd24da4a79df925c2ad8c9326959b0282dfc37d42471cc169a2b3bd4e",
+    "item": {
+      "title": "Linux Graphics Driver Fixes Readied For Linux 6.18-rc2",
+      "description": "Ahead of the Linux 6.18-rc2 release on Sunday, the Direct Rendering Manager (DRM) fixes for the week were sent out today. There is the usual assortment of different kernel graphics driver fixes, mostly with the Intel and AMD drivers as usual. In particular a few Intel driver fixes make this week's pull worth mentioning...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc2-DRM-Fixes"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-17T09:57:50Z"
+    }
+  },
+  {
+    "hash": "82eeb86b4e06735a92a1e83f4c4970fc442c1226cf6eddef6f21e96556ecd3c8",
+    "item": {
+      "title": "Identity Security: Your First and Last Line of Defense",
+      "description": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
+      "links": [
+        "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrf3SNrJtA9ogAsUh8Md4fU4yC0HCkGJbedZ6jQUivAuuAkYP0vrpjnQrjhTE0Bwkf7yEj2fkgxaP6XaAO4R8ARGp30JUatnhiOlnrJqahuczssni_ET7ZJRFaNqDCcAGwjnzs345KXNIl1UJYWIGr1PRNp-8z_9IZ_8k4YL9hKUq7nII0BO6wOA8aRSQ/s1600/is.jpg"
+      },
+      "published": "2025-10-17T11:00:00Z"
+    }
+  },
+  {
+    "hash": "c728a101a26738d8b871ebbd48d510087b5afd3de6784aae18dee30830e59204",
+    "item": {
+      "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
+      "description": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
+      "links": [
+        "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wXElZ2cOoqWu0KvQRLkdOMEVEy2OErFfkGWokp1gdNCJH8_MxEnR1RMopVgNuFWuAxiCiP90_YEcQe_XEKxadsliIouePVm63amvt2JV3tORO8EQmNCh2ylwY4eQgJPNWR5aoQMPWdefC1wL_HSYTS1dFnjaAQNF3sXQbkeJxY3q7tCu4j4DaPXpJBPY/s1600/exploit.jpg"
+      },
+      "published": "2025-10-17T09:25:00Z"
+    }
+  },
+  {
+    "hash": "c86f5b58d67007752ad0856e78b3b50edf5b516e6ff1a775320673afd852e983",
+    "item": {
+      "title": "Ethereum (ETH) Battles Below $4K: Will the Bulls Turn the Tide or Let It Stay Stuck?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-ETH-Battles-Below-4K-Will-the-Bulls-Turn-the-Tide-or-Let-It-Stay-Stuck.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Battles Below $4K: Will the Bulls Turn the Tide or Let It Stay Stuck?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-ETH-Battles-Below-4K-Will-the-Bulls-Turn-the-Tide-or-Let-It-Stay-Stuck.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-ETH-Battles-Below-4K-Will-the-Bulls-Turn-the-Tide-or-Let-It-Stay-Stuck-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-ETH-Battles-Below-4K-Will-the-Bulls-Turn-the-Tide-or-Let-It-Stay-Stuck-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith a 2.13% dip, the global crypto market cap has settled at $3.68 trillion and started the new trading day with fear sentiment. All the major assets have lost momentum and charted in red, including the largest asset, Bitcoin (BTC), which has slipped below the $110K, and currently trades at",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-battles-below-4k-will-the-bulls-turn-the-tide-or-let-it-stay-stuck/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-ETH-Battles-Below-4K-Will-the-Bulls-Turn-the-Tide-or-Let-It-Stay-Stuck.jpg"
+      },
+      "published": "2025-10-17T06:38:38Z"
+    }
+  },
+  {
+    "hash": "1e21b1e75ec9b28e12b03e2b330ececb5279d42990cd6120c1dbe5fe3e9b3a65",
+    "item": {
+      "title": "Top 12 Cryptos To Invest in After the October Market Shake-up – Blazpay Presale Leads 2025’s AI Boom",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"441\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-14.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-14.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-14-300x170.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-14-768x434.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-14-376x212.jpg 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe crypto market has just endured a turbulent October, with even the largest names like Bitcoin, Ethereum, Solana, and XRP suffering steep swings as macro pressures and liquidations rattled investor confidence.Yet despite the chaos, one presale project is gaining serious traction: Blazpay ($BLAZ). With its Phase 1 presale live, integrated",
+      "links": [
+        "https://thenewscrypto.com/top-12-cryptos-to-invest-in-after-the-october-market-shake-up-blazpay-presale-leads-2025s-ai-boom/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-14.jpg"
+      },
+      "published": "2025-10-17T01:00:00Z"
+    }
+  },
+  {
+    "hash": "90ee5fdf6d20812af0a119b30cd15d0ee6b439c492d92bd07b103b529d5f3249",
+    "item": {
+      "title": "Top 5 Cryptos To Invest In Before 2025’s Rally — Blazpay Presale Phase 1 Nears Sellout as BNB, Chainlink, and Hedera Gain Momentum",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"425\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-13.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-13.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-13-300x163.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-13-768x418.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe crypto market is heating up again, and 2025 is shaping up to be the year of intelligence, interoperability, and innovation. As investors hunt for the best coin to invest in, one trend stands above the rest: AI-powered automation and real utility are replacing hype-driven speculation. From established giants like",
+      "links": [
+        "https://thenewscrypto.com/top-5-cryptos-to-invest-in-before-2025s-rally-blazpay-presale-phase-1-nears-sellout-as-bnb-chainlink-and-hedera-gain-momentum/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-13.jpg"
+      },
+      "published": "2025-10-16T22:00:00Z"
+    }
+  },
+  {
+    "hash": "b184dc2fd84f6a25a664795cf6d5936fa128324d01f575eaade53f3ca485ad4f",
+    "item": {
+      "title": "Site of Secret 1950s Cold War Iceworm Project Rediscovered",
+      "description": "\u003cdiv\u003e\u003cimg width=\"708\" height=\"522\" src=\"https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg?w=708\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg 708w, https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg?resize=250,184 250w, https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg?resize=400,295 400w\" sizes=\"(max-width: 708px) 100vw, 708px\" data-attachment-id=\"868213\" data-permalink=\"https://hackaday.com/2025/10/17/site-of-secret-1950s-cold-war-iceworm-project-rediscovered/camp_century_pm2anuclearpowerplant/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg\" data-orig-size=\"708,522\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"camp_century_PM2Anuclearpowerplant\" data-image-description=\"\u0026lt;p\u0026gt;https://commons.wikimedia.org/wiki/File:PM2Anuclearpowerplant.jpg\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg?w=708\" /\u003e\u003c/div\u003eThe overall theme of the early part of the Cold War was that of subterfuge \u0026#8212; with scientific missions often providing excellent cover for placing missiles right on the USSR\u0026#8217;s \u003ca href=\"https://hackaday.com/2025/10/17/site-of-secret-1950s-cold-war-iceworm-project-rediscovered/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/17/site-of-secret-1950s-cold-war-iceworm-project-rediscovered/"
+      ],
+      "categories": [
+        "History",
+        "Science",
+        "cold war",
+        "Nuclear Reactor",
+        "Synthetic aperture radar"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/camp_century_PM2Anuclearpowerplant.jpg"
+      },
+      "published": "2025-10-17T11:00:13Z"
+    }
+  },
+  {
+    "hash": "2c39e70dc5553a048ad1798794103c27df81d2698ed2445dfc455ae5a679c5b8",
+    "item": {
+      "title": "A New Golden Age of Browser Games",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png 1422w, https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"866692\" data-permalink=\"https://hackaday.com/2025/10/17/a-new-golden-age-of-browser-games/celeste-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png\" data-orig-size=\"1422,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"celeste-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png?w=800\" /\u003e\u003c/div\u003eArguably, the golden age of browser gaming occurred in the 00s mostly revolving around Adobe Flash. This was an era with high creativity and a low barrier of entry, and \u003ca href=\"https://hackaday.com/2025/10/17/a-new-golden-age-of-browser-games/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/17/a-new-golden-age-of-browser-games/"
+      ],
+      "categories": [
+        "Games",
+        "Software Development",
+        ".NET",
+        "browser",
+        "browser gaming",
+        "celeste",
+        "gaming",
+        "port",
+        "Terraria",
+        "wasm",
+        "webassembly"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/celeste-main.png"
+      },
+      "published": "2025-10-17T08:00:14Z"
+    }
+  },
+  {
+    "hash": "0c53d26be38a092b7cb8764c020cb4bb27c43cf39dc31ea476fd65351f46bb22",
+    "item": {
+      "title": "Chicken Squisher 3000: Squish-Proof Security",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Chicken Squisher 3000\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png 2867w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?resize=2048,1152 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866875\" data-permalink=\"https://hackaday.com/2025/10/16/chicken-squisher-3000-squish-proof-security/screenshot-2025-10-14-at-3-05-46-pm-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png\" data-orig-size=\"2867,1613\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-10-14 at 3.05.46 PM-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png?w=800\" /\u003e\u003c/div\u003eKeeping chickens in predator-prone areas demands serious fortifications, but even the most robust coop can become a hassle without automation. That\u0026#8217;s where [lcamtuf] steps in with his Chicken Squisher 3000, \u003ca href=\"https://hackaday.com/2025/10/16/chicken-squisher-3000-squish-proof-security/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/16/chicken-squisher-3000-squish-proof-security/"
+      ],
+      "categories": [
+        "hardware",
+        "a6009",
+        "avr16dd14",
+        "chicken coop",
+        "chicken coop door",
+        "drv8231"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Matt Varian"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-3.05.46-PM-banner.png"
+      },
+      "published": "2025-10-17T05:00:59Z"
+    }
+  },
+  {
+    "hash": "8d45e5be0aed439d2c275c4e550c141d67f2b2b445c8d1b144848bceba7aa009",
+    "item": {
+      "title": "A Deep Dive into Molten Bismuth",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"868251\" data-permalink=\"https://hackaday.com/2025/10/16/a-deep-dive-into-molten-bismuth/bismuth-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"bismuth-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg?w=800\" /\u003e\u003c/div\u003eBismuth is known for a few things: its low melting point, high density, and psychedelic hopper crystals. A literal deep-dive into any molten metal would be a terrible idea, regardless \u003ca href=\"https://hackaday.com/2025/10/16/a-deep-dive-into-molten-bismuth/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/16/a-deep-dive-into-molten-bismuth/"
+      ],
+      "categories": [
+        "chemistry hacks",
+        "Science",
+        "bismuth",
+        "crystallography"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/bismuth-featured.jpg"
+      },
+      "published": "2025-10-17T02:00:10Z"
+    }
+  },
+  {
+    "hash": "7834515831fea33cb4be8cd83d9e687f15a63eefcfa259e120d5d44578d530f8",
+    "item": {
+      "title": "Positive Results with Negative Resistance",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2025/10/neg.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/neg.png 800w, https://hackaday.com/wp-content/uploads/2025/10/neg.png?resize=250,145 250w, https://hackaday.com/wp-content/uploads/2025/10/neg.png?resize=400,232 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"865278\" data-permalink=\"https://hackaday.com/2025/10/16/positive-results-with-negative-resistance/neg-3/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/neg.png\" data-orig-size=\"800,464\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"neg\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/neg.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/neg.png?w=800\" /\u003e\u003c/div\u003eTry an experiment. Next time you are in a room with someone, ask them to name everything in the room. Only certain kinds of people will say \u0026#8220;air\u0026#8221; or \u0026#8220;light.\u0026#8221; \u003ca href=\"https://hackaday.com/2025/10/16/positive-results-with-negative-resistance/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/16/positive-results-with-negative-resistance/"
+      ],
+      "categories": [
+        "Misc Hacks",
+        "negative resistance",
+        "relaxation oscillator"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/neg.png"
+      },
+      "published": "2025-10-16T23:00:47Z"
+    }
+  },
+  {
+    "hash": "052f51127c25a1f4afa7ea627156911631962aff0f61adb92ca12a850fefa3b8",
+    "item": {
+      "title": "After Trucking Them Home, Old Solar Panels Keep On Trucking",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"867047\" data-permalink=\"https://hackaday.com/2025/10/16/after-trucking-them-home-old-solar-panels-keep-on-trucking/used-solar-panels-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"used-solar-panels-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg?w=800\" /\u003e\u003c/div\u003eThe fact that there exist in our world flat rocks that make lightning when you point them at the sun is one of the most unappreciated bits of wizardry in \u003ca href=\"https://hackaday.com/2025/10/16/after-trucking-them-home-old-solar-panels-keep-on-trucking/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/16/after-trucking-them-home-old-solar-panels-keep-on-trucking/"
+      ],
+      "categories": [
+        "Solar Hacks",
+        "reuse",
+        "solar panel",
+        "solar power"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/used-solar-panels-feat.jpg"
+      },
+      "published": "2025-10-16T20:00:39Z"
+    }
+  },
+  {
+    "hash": "50b5f3d0db690352a2d91c9870440b10bc361ce41f613f822fa7d84492e83dc6",
+    "item": {
+      "title": "3x performance for 1/4 of the price by migrating from AWS to Hetzner",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45614922\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T10:00:21Z"
+    }
+  },
+  {
+    "hash": "092ab008b1d0b429d27dcfa4b637453f30dc631aa5a39301a9149cef4721ed5d",
+    "item": {
+      "title": "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45614713\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T09:15:25Z"
+    }
+  },
+  {
+    "hash": "f6dc7e7544273bd72d83f1d7f36945eeb3be221b7bd303077b84dc58ef14276a",
+    "item": {
+      "title": "Reworking Memory Management in CRuby",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45557669\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-12T12:18:18Z"
+    }
+  },
+  {
+    "hash": "89e1a6ef6d0f35f1c0c853ec385d52b05632a055ed4a84fd430cf9d1e769d5be",
+    "item": {
+      "title": "Let's Write a Macro in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45540398\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://hackeryarn.com/post/rust-macros-1/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-10T15:57:14Z"
+    }
+  },
+  {
+    "hash": "caffa6bdf182070f6663ce0bbf0c2096cca5a132a903b66ee8a515fd02931d59",
+    "item": {
+      "title": "Virtual Memory for Real-time RISC-V systems using hPMP",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45537698\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2504.04498"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-10T11:34:30Z"
+    }
+  },
+  {
+    "hash": "19942715c96a7d8433311686f7694adc21e005b162c448b354816ef3420f9dfe",
+    "item": {
+      "title": "Frank founder Charlie Javice sentenced for JPMorgan fraud",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45614547\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/c4gwj15djdxo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T08:48:19Z"
+    }
+  },
+  {
+    "hash": "dfa9f0975bc7fe46759325618b396c84bbf28cb2502519e74df68eb80e6699cd",
+    "item": {
+      "title": "The XRP Era Has Arrived. Capitalize On the Cloud Mining Boom with LTC CloudMining",
+      "description": "\u003cp\u003eJust as XRP has steadily grown in the crypto market, LTCCloudMining provides secure, transparent, and stable cloud mining services to users worldwide.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/the-xrp-era-has-arrived-capitalize-on-the-cloud-mining-boom-with-ltc-cloudmining/\"\u003eThe XRP Era Has Arrived. Capitalize On the Cloud Mining Boom with LTC CloudMining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/the-xrp-era-has-arrived-capitalize-on-the-cloud-mining-boom-with-ltc-cloudmining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17120301/1760702580-ltc-cloudmining.jpg"
+      },
+      "published": "2025-10-17T12:06:04Z"
+    }
+  },
+  {
+    "hash": "b26d002dcf7219e8a00586f321091afacfd485a22dd10e9d1bfc3de6f04dc3f9",
+    "item": {
+      "title": "XRP is Facing Significant Selling Pressure, And XRP Holders Are Turning to FedMining to Avoid Market Volatility",
+      "description": "\u003cp\u003eFaced with this round of market turmoil, a growing number of XRP holders are turning to the FedMining cloud mining platform, using stable hashrate contracts to mitigate market uncertainty.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/xrp-is-facing-significant-selling-pressure-and-xrp-holders-are-turning-to-fedmining-to-avoid-market-volatility/\"\u003eXRP is Facing Significant Selling Pressure, And XRP Holders Are Turning to FedMining to Avoid Market Volatility\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/xrp-is-facing-significant-selling-pressure-and-xrp-holders-are-turning-to-fedmining-to-avoid-market-volatility/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17114318/1760701397-fedmining.jpg"
+      },
+      "published": "2025-10-17T11:46:54Z"
+    }
+  },
+  {
+    "hash": "9ad21d4656fb570ff3e74ff820dc618add5e835e6a91b953b161575f3e12c3b9",
+    "item": {
+      "title": "Bitcoin Price Prediction: Real Estate Mogul Grant Cardone Buys More BTC During the Crash – What Does He Know?",
+      "description": "\u003cp\u003eReal estate mogul Grant Cardone is buying more — Bitcoin price prediction hints at a potential turnaround after the $103K breakdown.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-real-estate-mogul-grant-cardone-buys-more-btc-during-the-crash-what-does-he-know/\"\u003eBitcoin Price Prediction: Real Estate Mogul Grant Cardone Buys More BTC During the Crash – What Does He Know?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-real-estate-mogul-grant-cardone-buys-more-btc-during-the-crash-what-does-he-know/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17113308/1760700787-bitcoin-price-prediction-48.jpg"
+      },
+      "published": "2025-10-17T11:36:40Z"
+    }
+  },
+  {
+    "hash": "8f9860a71a14c8d0178b8671cb57988074455a294f665426ca3f6afaa1aa9d4e",
+    "item": {
+      "title": "American Retirees Use XRP For Stable Investment Path Through Find Mining",
+      "description": "\u003cp\u003eWith rising economic uncertainty in the United States and inflationary pressures on retirement savings, more and more retirees are looking for safe, compliant, and sustainable ways to generate additional cash flow. Find Mining, a London-based crypto mining platform regulated by the UK Financial Conduct Authority, is at the center of this trend.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/american-retirees-use-xrp-for-stable-investment-path-through-find-mining/\"\u003eAmerican Retirees Use XRP For Stable Investment Path Through Find Mining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/american-retirees-use-xrp-for-stable-investment-path-through-find-mining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17113035/1760700634-find-mining.jpg"
+      },
+      "published": "2025-10-17T11:33:10Z"
+    }
+  },
+  {
+    "hash": "c908956080decc97e834898bc9ca2cd9479ece9c1df51e65040c46dc35cb94e6",
+    "item": {
+      "title": "[LIVE] Bitcoin Price Updates, October 17: Fear Index Crashes to Yearly Lows, BTC Dips Below $105K, Is A Drop To $100K Next?",
+      "description": "\u003cp\u003eBitcoin crashes 14% from ATH as all 12 ETFs post outflows in synchronized selling. Will $106K hold or is $100K next?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-bitcoin-price-updates-fear-index-crashes-to-yearly-lows-is-a-drop-to-100k-near/\"\u003e[LIVE] Bitcoin Price Updates, October 17: Fear Index Crashes to Yearly Lows, BTC Dips Below $105K, Is A Drop To $100K Next?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-bitcoin-price-updates-fear-index-crashes-to-yearly-lows-is-a-drop-to-100k-near/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17105315/1760698394-bitcion-price-live-updates.jpg"
+      },
+      "published": "2025-10-17T11:10:28Z"
+    }
+  },
+  {
+    "hash": "8e924a46cfeeba5a2ce79a066197045f48261cef7da55bce4c9608bb5bfae420",
+    "item": {
+      "title": "Crypto Funding Surges Past $19B in 2025 as October Raises Hit $2.5B",
+      "description": "\u003cp\u003eCrypto fundraising accelerated sharply in October, with 27 blockchain and digital asset companies securing more than $2.5 billion.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-funding-surges-past-19b-in-2025-as-october-raises-hit-2-5b/\"\u003eCrypto Funding Surges Past $19B in 2025 as October Raises Hit $2.5B\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-funding-surges-past-19b-in-2025-as-october-raises-hit-2-5b/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cryptocurrency",
+        "funding",
+        "VC Funding"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17102035/1760696435-image-1760696325641_optimized.jpg"
+      },
+      "published": "2025-10-17T10:59:44Z"
+    }
+  },
+  {
+    "hash": "90f1446a49f53566041f0b3cf29c46ba655efb0c0564f007d77a59c874e63428",
+    "item": {
+      "title": "Why Is Crypto Down Today? – October 17, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today. BTC fell to $105,732 and ETH to $3,764. “A break below $99,900 could lead to a much deeper correction.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-october-17-2025/\"\u003eWhy Is Crypto Down Today? – October 17, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-october-17-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17103347/1760697226-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-10-17T10:45:40Z"
+    }
+  },
+  {
+    "hash": "f6f7ebbc4756ace2120addae9ac9ebf92d31151428620ee243fefa2e9029d26d",
+    "item": {
+      "title": "France Hits Binance and Coinbase with AML Checks Ahead of EU License Decisions",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eFrance is conducting anti-money laundering inspections on dozens of crypto exchanges including Binance and Coinhouse as regulators determine which of over 100 registered entities will receive EU-wide MiCA operating permits, with only Deblock, GOin, Bitstack, and CACEIS approved ahead of June 2026 deadline.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/france-hits-binance-and-coinbase-with-aml-checks-ahead-of-eu-license-decisions/\"\u003eFrance Hits Binance and Coinbase with AML Checks Ahead of EU License Decisions\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/france-hits-binance-and-coinbase-with-aml-checks-ahead-of-eu-license-decisions/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Binance",
+        "Coinbase",
+        "France"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17093125/1760693485-image-1760693460425_optimized.webp"
+      },
+      "published": "2025-10-17T09:37:51Z"
+    }
+  },
+  {
+    "hash": "8569e2d276df00e02e9d4b1008bd31f3cf4eb8648905262ff890599d67492aa9",
+    "item": {
+      "title": "North Korea Weaponizes Blockchain for Stealth Hacks, Poses as Job Recruiters",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eNorth Korean threat group Famous Chollima is using blockchain technology to hide malware payloads in smart contracts through EtherHiding techniques, posing as job recruiters to target crypto professionals as the regime stole $1.3 billion across 47 incidents in 2024 and $2.2 billion in H1 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/north-korea-weaponizes-blockchain-for-stealth-hacks-poses-as-job-recruiters/\"\u003eNorth Korea Weaponizes Blockchain for Stealth Hacks, Poses as Job Recruiters\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/north-korea-weaponizes-blockchain-for-stealth-hacks-poses-as-job-recruiters/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Hackers",
+        "North Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17083621/1760690180-image-1760690155499_optimized.webp"
+      },
+      "published": "2025-10-17T09:36:18Z"
+    }
+  },
+  {
+    "hash": "edda685ef9027139e8ba060c4ed4547fcc64a75f1395d63d98577d8d99fa4e8d",
+    "item": {
+      "title": "Crypto Frozen in Fear, F\u0026G Index Drops 42 Points in A Week, Is Another Price Crash Imminent?",
+      "description": "\u003cp\u003eThe crypto market has entered a deep state of fear, with sentiment collapsing sharply over the past week.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-frozen-in-fear-fg-index-drops-42-points-in-a-week-is-another-price-crash-imminent/\"\u003eCrypto Frozen in Fear, F\u0026amp;G Index Drops 42 Points in A Week, Is Another Price Crash Imminent?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-frozen-in-fear-fg-index-drops-42-points-in-a-week-is-another-price-crash-imminent/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17092926/1760693365-image-1760693346132_optimized.jpg"
+      },
+      "published": "2025-10-17T09:35:30Z"
+    }
   }
 ]
