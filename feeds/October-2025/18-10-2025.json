@@ -2362,5 +2362,226 @@
       },
       "published": "2025-10-18T15:09:57Z"
     }
+  },
+  {
+    "hash": "c593f3fd856d3cd53fe1e9733dcf439928741d018ae23393bc709fe1787bc501",
+    "item": {
+      "title": "New Code Merged For Linux 6.18 To Address Linus Torvalds' Rust Formatting Critique",
+      "description": "Back during the Linux 6.18 merge window Linus Torvalds commented on \"mindless and completely crazy Rust format checking\" and that the RUst format checking \"is all bass-ackwards garbage\" with condensing multi-line import statements into single lines. Merged minutes ago to Linux Git ahead of tomorrow's Linux 6.18-rc2 are fixes to the Rust format checking and updated guidelines to address Torvalds' criticism...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc2-Rust"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-18T20:43:28Z"
+    }
+  },
+  {
+    "hash": "de53e54ca6f0a1345a7e05c3a42252eff0f25082de30ed81ec08ae563056b1b0",
+    "item": {
+      "title": "Root System Drawings",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45627394\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://images.wur.nl/digital/collection/coll13/search"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T13:52:24Z"
+    }
+  },
+  {
+    "hash": "92719e4d9aa7cb746c39f7c5d1a1f535703e7363f3f6243dd9bee8b4a829f4e3",
+    "item": {
+      "title": "Chen-Ning Yang, Nobel laureate, dies at 103",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45625229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T05:47:14Z"
+    }
+  },
+  {
+    "hash": "669590a88d5ef70ce36767908830304a68b9658598ee84f9973fd44d2dcb47d3",
+    "item": {
+      "title": "Is Postgres read heavy or write heavy?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45619108\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T17:06:16Z"
+    }
+  },
+  {
+    "hash": "e3e99618122d955ff672ab30d5284cd361ba1f62c46110eb963a5cc6ae0155ce",
+    "item": {
+      "title": "How to sequence your DNA for \u003c$2k",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45629970\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T19:58:25Z"
+    }
+  },
+  {
+    "hash": "0b910d97de353fa031edfbc0f98c0a743419456d4cee949b20c681aa5d5715d2",
+    "item": {
+      "title": "Solution to CIA’s kryptos sculpture is found in Smithsonian vault",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45603876\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T10:56:50Z"
+    }
+  },
+  {
+    "hash": "8b11ac42dad0349c41fb3eb606a949addbc8182ed9040a0ff655de3045469e1f",
+    "item": {
+      "title": "Using CUE to unify IoT sensor data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45627048\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T13:08:30Z"
+    }
+  },
+  {
+    "hash": "5b910a48e55769dc8acd3bd4030c025f251f0f7ce6f5c2287c517151372a0a82",
+    "item": {
+      "title": "Secret diplomatic message deciphered after 350 years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T15:56:05Z"
+    }
+  },
+  {
+    "hash": "a1c2c648804e6849772f243ba22563189e135504a1559976d884f07edd9cd60d",
+    "item": {
+      "title": "K8s with 1M nodes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45611252\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bchess.github.io/k8s-1m/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T22:04:57Z"
+    }
+  },
+  {
+    "hash": "fb407783db688be91e0cd7e7047fa402c4efdd52ba567e32e149afaa314a651b",
+    "item": {
+      "title": "Ripgrep 15.0",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45627324\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T13:44:02Z"
+    }
+  },
+  {
+    "hash": "97c22741d9e15cdcde3b9b5384743c72eca329a3d1efc3ebb830b57ef6676803",
+    "item": {
+      "title": "Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45613898\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T06:39:09Z"
+    }
+  },
+  {
+    "hash": "56c875ac90483b3bafdf24808de02ba1423c171ceeb6427d1d2a83a715d91f69",
+    "item": {
+      "title": "Why the open social web matters now",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583999\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://werd.io/why-the-open-social-web-matters-now/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T19:50:57Z"
+    }
+  },
+  {
+    "hash": "ff3dcfa8c830a2158e382357552e487fc9be11dffbc61f2ad5478060e9529612",
+    "item": {
+      "title": "Coral NPU: A full-stack platform for Edge AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45600470\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T01:25:28Z"
+    }
+  },
+  {
+    "hash": "c5d55e8a120a9606e181a52769777e2813e18ca4ce51adde84c58c5401ea1f5d",
+    "item": {
+      "title": "SQL Anti-Patterns",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45626985\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T12:56:50Z"
+    }
+  },
+  {
+    "hash": "c814902a7537d514a1df18279f60732ff01e4ae94d0c4c07bab4b413abbe237c",
+    "item": {
+      "title": "Attention is a luxury good",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45628190\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://seths.blog/2025/10/attention-is-a-luxury-good/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T15:39:47Z"
+    }
+  },
+  {
+    "hash": "7384abfb3804a81ad6557da58b81cd0cb8505a1e77a468e5d9ce82a9dcede815",
+    "item": {
+      "title": "Carbonized 1,300-Year-Old Bread Loaves Unearthed in Turkey",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45569692\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ancientist.com/1300-year-old-communion-bread-unearthed-in-karaman-a-loaf-for-the-farmer-christ/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T15:48:33Z"
+    }
+  },
+  {
+    "hash": "82dfec2cbfeec4cabafa1be1ccdba91d4512a5874b404cb81ffe45dcee2eb331",
+    "item": {
+      "title": "When you opened a screen shot of a video in Paint, the video was playing in it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45609986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T19:57:41Z"
+    }
+  },
+  {
+    "hash": "d92df7723c1498892b264e3166e57564fd102982f89597785d77bce21a36e91a",
+    "item": {
+      "title": "The Hunt for the World's Oldest Story",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566857\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/magazine/2025/10/20/review-the-roots-of-ancient-mythology-books"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T10:35:58Z"
+    }
   }
 ]
