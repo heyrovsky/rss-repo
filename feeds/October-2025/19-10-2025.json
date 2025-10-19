@@ -704,5 +704,375 @@
       "source": "Hacker News",
       "published": "2025-10-13T12:00:48Z"
     }
+  },
+  {
+    "hash": "c7352802be1e75730049658a5648f3218aae8ecdab0d1d8988b9ae515e434c3b",
+    "item": {
+      "title": "AYANEO 3 Modular Handheld Console Prepares For Better Linux Support With New Driver",
+      "description": "There has already been hardware monitoring support and other functionality in place under Linux for various AYANEO devices while a new platform driver is being worked on for the new AYANEO 3 device...",
+      "links": [
+        "https://www.phoronix.com/news/AYANEO-3-Linux-Platform-Driver"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-19T10:43:12Z"
+    }
+  },
+  {
+    "hash": "5fbdfaa186b679865d1f3a83d3f97be981550b1ad557609d56222c43eb7e602e",
+    "item": {
+      "title": "GCC Front-End Patches Updated For Algol 68 Programming Language",
+      "description": "At the start of the calendar year there was a proposal for a new GCC front-end for the Algol 68 programming language. GCC developers deferred merging Algol 68 support into GCC for this rarely talked about vintage programming language. But as talked about back at the GNU Tools Cauldron 2025, the developer is still working on the support. Sure enough, this week brought a new version of this GCC front-end...",
+      "links": [
+        "https://www.phoronix.com/news/Algol-68-GCC-Patches-Updated"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-19T10:28:51Z"
+    }
+  },
+  {
+    "hash": "05d69d5724638a2c30fc87a9c2d5565b762aec0db68d348ee7ecfec84881fde0",
+    "item": {
+      "title": "Multi-Kernel Architecture Patches Updated For The Linux Kernel",
+      "description": "Posted to the Linux kernel mailing list one month ago were patches for a multi-kernel architecture design to allow multiple independent kernel instances to co-exist on the same single physical machine. This could let some CPU cores be running real-time \"RT\" kernels or other non-traditional uses between CPU cores. It wasn't clear how far the multi-kernel patches would get especially with some initial negative views toward it and Bytedance separately proposing \"Parker\" for multi-kernel usage just days later. In any event, today a second version of the multi-kernel Linux patches were posted...",
+      "links": [
+        "https://www.phoronix.com/news/Multi-Kernel-Linux-v2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-19T10:10:42Z"
+    }
+  },
+  {
+    "hash": "9ad2cb86c624d7011d05df40f8eaa02de3e953d68a15e58a37fd17905b2d93a6",
+    "item": {
+      "title": "Decoding a 350 Year Old Coded Message",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2025/10/code.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/code.png 800w, https://hackaday.com/wp-content/uploads/2025/10/code.png?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2025/10/code.png?resize=400,267 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"868572\" data-permalink=\"https://hackaday.com/2025/10/19/decoding-a-350-year-old-coded-message/code-13/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/code.png\" data-orig-size=\"800,533\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"code\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/code.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/code.png?w=800\" /\u003e\u003c/div\u003eUsually, a story about hacking a coded message will have some computer element or, at least, a machine like an Enigma. But [Ruth Selman] recently posted a challenge asking if \u003ca href=\"https://hackaday.com/2025/10/19/decoding-a-350-year-old-coded-message/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/19/decoding-a-350-year-old-coded-message/"
+      ],
+      "categories": [
+        "Misc Hacks",
+        "classical cryptography",
+        "cryptography"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/code.png"
+      },
+      "published": "2025-10-19T11:00:00Z"
+    }
+  },
+  {
+    "hash": "7e6ac6373fa4e4ffd2fd1413c9585f3f6300b0ac275b5c7aa120a3aad65fc050",
+    "item": {
+      "title": "JLCPCB Locking Accounts, Mentions “Risky IP Addresses, Activities”",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"363\" src=\"https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Screenshot of the email received: Hi there, Upon a thorough review by our Risk Control Team, we are sorry to inform you that, your account access will be permanently disabled on December 13th, 2025 due to compliance policy requirements. Before this date, you may: 1) Complete any existing orders. 2) Pickup components from your parts inventory. 3) Withdraw your remaining account balance (JLC Balance) 4) Back up your historical Gerber Files or any other information. Please note that after December 13th, 2025, your account will be permanently locked and cannot be reopened. Best Regards, The JLCPCB Risk Control Team\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png 1280w, https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png?resize=250,113 250w, https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png?resize=400,181 400w, https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png?resize=800,363 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"868583\" data-permalink=\"https://hackaday.com/2025/10/19/jlcpcb-locking-accounts-mentions-risky-ip-addresses-activities/hadimg_jlcpcb_denial_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png\" data-orig-size=\"1280,580\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"hadimg_jlcpcb_denial_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png?w=800\" /\u003e\u003c/div\u003eIn the past week, a few forum and Reddit threads have popped up, with people stating that JLCPCB has emailed them with a notice, saying their accounts are set up \u003ca href=\"https://hackaday.com/2025/10/19/jlcpcb-locking-accounts-mentions-risky-ip-addresses-activities/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/19/jlcpcb-locking-accounts-mentions-risky-ip-addresses-activities/"
+      ],
+      "categories": [
+        "News",
+        "PCB Hacks",
+        "export",
+        "export restrictions",
+        "JLCPCB",
+        "regulatory compliance"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Arya Voronova"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/hadimg_jlcpcb_denial_feat.png"
+      },
+      "published": "2025-10-19T08:00:00Z"
+    }
+  },
+  {
+    "hash": "7d70b1485ff56732eb7fc1cddd8f231acb56f11d15630ebe76e9536f5d7f74f3",
+    "item": {
+      "title": "Was The Napier Nomad The Most Complex Aero Engine Ever Made?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png 1309w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"868354\" data-permalink=\"https://hackaday.com/2025/10/18/was-the-napier-nomad-the-most-complex-aero-engine-ever-made/screenshot-2025-10-17-101403-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png\" data-orig-size=\"1309,736\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-10-17 101403-featured\" data-image-description=\"\u0026lt;p\u0026gt;https://www.youtube.com/watch?v=J7Sdb022Vsk\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png?w=800\" /\u003e\u003c/div\u003eFrom 1945 to 1955, a British aeronautical company called Napier \u0026#38; Son produced not just one but two versions of an intricate hybrid piston engine, which they named the Napier \u003ca href=\"https://hackaday.com/2025/10/18/was-the-napier-nomad-the-most-complex-aero-engine-ever-made/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/18/was-the-napier-nomad-the-most-complex-aero-engine-ever-made/"
+      ],
+      "categories": [
+        "Transportation Hacks",
+        "aero engine",
+        "diesel engine",
+        "Gas turbine",
+        "napier",
+        "two-stroke"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dave Rowntree"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-17-101403-featured.png"
+      },
+      "published": "2025-10-19T05:00:00Z"
+    }
+  },
+  {
+    "hash": "7bca24eaa583cafb3462fa4e3c1e1359c3ce5fca8ed43d91115c5e32211e3f71",
+    "item": {
+      "title": "2025 Component Abuse Challenge: A Self-Charging LED Flasher By Burkhard Kainka",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A hand holding the circuit in its active state\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg 1573w, https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"866950\" data-permalink=\"https://hackaday.com/2025/10/18/2025-component-abuse-challenge-a-self-charging-led-flasher-by-burkhard-kainka/self-charging-led-flasher-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg\" data-orig-size=\"1573,885\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Self-Charging-LED-Flasher-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg?w=800\" /\u003e\u003c/div\u003e[Tito] entered a Self-Charging LED Flasher into the Component Abuse Challenge. It\u0026#8217;s a simple re-build of a design by the unstoppable [Burkhard Kainka], and while [Tito] doesn\u0026#8217;t explain its workings \u003ca href=\"https://hackaday.com/2025/10/18/2025-component-abuse-challenge-a-self-charging-led-flasher-by-burkhard-kainka/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/18/2025-component-abuse-challenge-a-self-charging-led-flasher-by-burkhard-kainka/"
+      ],
+      "categories": [
+        "contests",
+        "hardware",
+        "LED Hacks",
+        "das blinken lights",
+        "led",
+        "self powered"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Self-Charging-LED-Flasher-banner.jpg"
+      },
+      "published": "2025-10-19T02:00:00Z"
+    }
+  },
+  {
+    "hash": "d4d4d8ae4079f6aed8ec974433ab6134ced34bae99e302c9652172465a5d3252",
+    "item": {
+      "title": "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45633453\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://demo.duckui.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-19T11:19:38Z"
+    }
+  },
+  {
+    "hash": "0512f715b84d2948a4214398b6922be324ba08d32dd9b39bd353c184060cb600",
+    "item": {
+      "title": "The Case for the Return of Fine-Tuning",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45633081\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-19T09:41:25Z"
+    }
+  },
+  {
+    "hash": "30596ae7758ba7a0fa2b8c52143787421a88c22539404c9ea5af76c5f247ce2b",
+    "item": {
+      "title": "Jupyter Collaboration has a history slider",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45563589\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.jupyter.org/exploring-a-documents-timeline-in-jupyterlab-6084f96db263"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T00:50:45Z"
+    }
+  },
+  {
+    "hash": "aaf7fbc47657cdd29bdc509bb916b625ca0eacf2af5fa106fbab158cd827fdbe",
+    "item": {
+      "title": "How one of the longest dinosaur trackways in the world was uncovered in the UK",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45577266\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.co.uk/news/resources/idt-5f8c77b0-92bc-40f2-bf21-6793abbe5ffe"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T07:44:56Z"
+    }
+  },
+  {
+    "hash": "66ead786934d92a010b3643a663f28d26d84d6cbd4e80449df1667da087ca468",
+    "item": {
+      "title": "Did Space Debris Hit A United Flight Over The Rockies Thursday?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45633191\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-19T10:07:38Z"
+    }
+  },
+  {
+    "hash": "a2d157e8199d5ade91098367468161370e47fe19e42b7f84c641d8722dd53a39",
+    "item": {
+      "title": "BQN \"Macros\" with •Decompose (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45544330\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://saltysylvi.github.io/blog/bqn-macros.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-10T22:04:18Z"
+    }
+  },
+  {
+    "hash": "585f93a94b1a6d8b535331db1ccba51c229f6ce72a60d6d006ff9be4f3641856",
+    "item": {
+      "title": "Space junk falls on Western Australian minesite",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45632738\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-19T08:14:04Z"
+    }
+  },
+  {
+    "hash": "3f74ecd2a0d856e1d311e7675b0089425929f9b77e8169a1890a90df7aa65038",
+    "item": {
+      "title": "UK Tax Authority Sends 65,000 Crypto ‘Nudge Letters’ to Suspected Tax Evaders",
+      "description": "\u003cp\u003eHMRC sent 65,000 warning letters to crypto investors, a 134% jump from last year, signaling tougher enforcement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uk-tax-authority-sends-65000-crypto-nudge-letters-to-suspected-tax-evaders/\"\u003eUK Tax Authority Sends 65,000 Crypto ‘Nudge Letters’ to Suspected Tax Evaders\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uk-tax-authority-sends-65000-crypto-nudge-letters-to-suspected-tax-evaders/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Tax",
+        "UK",
+        "UK Crypto"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/19091710/1760865430-image-1760863595956_optimized.jpg"
+      },
+      "published": "2025-10-19T11:38:00Z"
+    }
+  },
+  {
+    "hash": "5195717a765a54043138141d098490f294b1fa91d73ab4e5bd37543dad421868",
+    "item": {
+      "title": "Quid Miner Launches Smartphone Cloud Mining App: Lets Everyone Join the Future of Digital Economy",
+      "description": "\u003cp\u003eQuid Miner allows everyone, from busy office workers to parents picking up their children, to participate in the future of the digital economy without realizing it.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/quid-miner-launches-smartphone-cloud-mining-app-lets-everyone-reach-fresh-opportunities/\"\u003eQuid Miner Launches Smartphone Cloud Mining App: Lets Everyone Join the Future of Digital Economy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/quid-miner-launches-smartphone-cloud-mining-app-lets-everyone-reach-fresh-opportunities/"
+      ],
+      "categories": [
+        "Press Releases",
+        "blockchain cloud mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17214155/1760737314-quid-miner.jpg"
+      },
+      "published": "2025-10-19T11:15:00Z"
+    }
+  },
+  {
+    "hash": "5345fd86223e84adf5924b5ee130d66c0ea3142db06055365c65968e1cc85167",
+    "item": {
+      "title": "Seize the XRP Boom and Unlock the Potential from LTC CloudMining",
+      "description": "\u003cp\u003eLTC CloudMining offers a revolutionary way to increase value through XRP cloud mining for investors who want to break free from traditional, high-cost trading techniques.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/seize-the-xrp-boom-and-unlock-the-potential-from-ltc-cloudmining/\"\u003eSeize the XRP Boom and Unlock the Potential from LTC CloudMining\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/seize-the-xrp-boom-and-unlock-the-potential-from-ltc-cloudmining/"
+      ],
+      "categories": [
+        "Press Releases",
+        "xrp mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/17151646/1760714206-ltc-cloudmining.jpg"
+      },
+      "published": "2025-10-19T11:00:00Z"
+    }
+  },
+  {
+    "hash": "7603397c1026e0a39ca39ca437bca1fad1465491e80d327bf8221992eda3f351",
+    "item": {
+      "title": "Fundstrat’s Tom Lee Says Treasury Hype Fades, But Backs $1.5B Ether Buy",
+      "description": "\u003cp\u003eFundstrat’s Tom Lee believes the recent excitement around digital asset treasuries (DATs) is cooling, but his confidence in Ethereum remains firm. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fundstrats-tom-lee-says-treasury-hype-fades-but-backs-1-5b-ether-buy/\"\u003eFundstrat’s Tom Lee Says Treasury Hype Fades, But Backs $1.5B Ether Buy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fundstrats-tom-lee-says-treasury-hype-fades-but-backs-1-5b-ether-buy/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "BitMine",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/19091719/1760865438-image-1760863614989_optimized.jpg"
+      },
+      "published": "2025-10-19T10:26:00Z"
+    }
+  },
+  {
+    "hash": "721a6b28c537c2c9700c290a0f380a6a470654bf6d72538143244db958750cce",
+    "item": {
+      "title": "OpenSea to Launch SEA Token in Q1 2026, Allocating 50% to Community",
+      "description": "\u003cp\u003eOpenSea CEO Devin Finzer has confirmed that the company will launch its long-awaited SEA token in the first quarter of 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/opensea-to-launch-sea-token-in-q1-2026-allocating-50-to-community/\"\u003eOpenSea to Launch SEA Token in Q1 2026, Allocating 50% to Community\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/opensea-to-launch-sea-token-in-q1-2026-allocating-50-to-community/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Opensea",
+        "Token"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/19091714/1760865434-image-1760863606581_optimized.jpg"
+      },
+      "published": "2025-10-19T09:41:07Z"
+    }
   }
 ]
