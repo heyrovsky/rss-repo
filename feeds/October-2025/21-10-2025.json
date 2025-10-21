@@ -1,0 +1,274 @@
+[
+  {
+    "hash": "8d52a1385dc3385d4a3be9a345be07442c3b571dd09a8e70db7abc50967e233c",
+    "item": {
+      "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
+      "description": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
+      "links": [
+        "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Policy",
+        "Security",
+        "espionage",
+        "NSO",
+        "pegasus"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg"
+      },
+      "published": "2025-10-20T22:18:22Z"
+    }
+  },
+  {
+    "hash": "d0964c1ce368205396621c40c3677da164e7fe1ac2c6046e6955a20c60d41873",
+    "item": {
+      "title": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
+      "description": "\"The president wants to make sure we beat the Chinese.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/"
+      ],
+      "categories": [
+        "Space",
+        "administrator",
+        "duffy",
+        "NASA",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg"
+      },
+      "published": "2025-10-20T21:53:54Z"
+    }
+  },
+  {
+    "hash": "5cf73694e047577a627628b488dde3407ddefb4ab3c17e46572154f640bd0545",
+    "item": {
+      "title": "Claude Code gets a web version—but it’s the new sandboxing that really matters",
+      "description": "Sandboxing lessens hassle, but fire-and-forget agentic tools still pose risks.",
+      "links": [
+        "https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/"
+      ],
+      "categories": [
+        "AI",
+        "agentic AI",
+        "AI Agent",
+        "Anthropic",
+        "Claude",
+        "Claude Code",
+        "coding",
+        "developer",
+        "GitHub",
+        "LLM",
+        "Programming"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-20-at-3.36.24-PM.png"
+      },
+      "published": "2025-10-20T20:45:26Z"
+    }
+  },
+  {
+    "hash": "9db82c611879ad920def033a17187c3034b680c3ff5c2feaa64c15a377d58663",
+    "item": {
+      "title": "With deadline looming, 6 of 9 universities reject Trump’s “compact” to remake higher ed",
+      "description": "But Trump is pressuring the others.",
+      "links": [
+        "https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/"
+      ],
+      "categories": [
+        "Culture",
+        "education",
+        "higher ed",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-588709290-1152x648.jpg"
+      },
+      "published": "2025-10-17T22:14:59Z"
+    }
+  },
+  {
+    "hash": "85dead9d10f3b18b1f291fc4738660d2ec539226d35c42c32d9f5abf9d764752",
+    "item": {
+      "title": "Tellusim Core SDK Opens Up For Use By OSI-Approved Open-Source Projects",
+      "description": "Over the weekend we wrote about the visually-impressive Tellusim Core SDK being posted to GitHub as a C++ SDK for high-end graphics and compute. The downside was that the Tellusim Core SKD was rather restrictive in only being free for education, free for companies with less than $200k USD in annual revenue, and evaluation purposes. Or you needed to obtain a negotiated license for the software. As a pleasant surprise, OSI-approved open-source projects not backed by for-profit organizations can now openly use this superb graphics SDK...",
+      "links": [
+        "https://www.phoronix.com/news/Tellusim-Core-SDK-OSI-Open"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-21T00:27:29Z"
+    }
+  },
+  {
+    "hash": "3a742497d10d1bf9d2b75efddb3dc9ffdf97ac5e0e3e0db95c92f84d16a778e7",
+    "item": {
+      "title": "Patches Posted To Allow Hibernation Cancellation On Linux",
+      "description": "Currently on Linux if you are putting the system into hibernation, there isn't a way to interrupt it and cancel it if you change your mind, even with most systems taking a number of seconds to successfully hibernate. But a new patch series sent out this weekend would introduce that capability...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Hibernation-Cancellation"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-20T21:45:14Z"
+    }
+  },
+  {
+    "hash": "ed2aa40a4e37de8bd2a2379fe97498afcd334fcf29651b8a0b27e7a93f04c559",
+    "item": {
+      "title": "Building a message queue with only two UNIX signals",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650178\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T22:22:45Z"
+    }
+  },
+  {
+    "hash": "c5e27eb7f30a63345b3d58e40ec76368a9d60944f6bbafce6c7fc26a7150ad68",
+    "item": {
+      "title": "My trick for getting consistent classification from LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45571423\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://verdik.substack.com/p/how-to-get-consistent-classification"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T18:01:07Z"
+    }
+  },
+  {
+    "hash": "5d29f0ad68c5336b44b5a47a62ed560b43dfe9b88ce77a07d36c6e0c7e840e9e",
+    "item": {
+      "title": "Americans can't afford their cars any more and Wall Street is worried",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650831\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.telegraph.co.uk/business/2025/10/20/americans-cant-afford-cars-any-more-wall-street-worried/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T23:46:05Z"
+    }
+  },
+  {
+    "hash": "8cc0bdef7929ab2828b2c921ee3b950171ced8afcce59c62ab86838834c9645d",
+    "item": {
+      "title": "Today is when the Amazon brain drain sent AWS down the spout",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45649178\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T20:50:03Z"
+    }
+  },
+  {
+    "hash": "46c932e99f6f33eed91ad660d70d55313f35792d891be4ed4fe079ea28b0322c",
+    "item": {
+      "title": "Art Must Act",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45612223\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T00:28:01Z"
+    }
+  },
+  {
+    "hash": "bd1caa2cd16a21a6a6bffcb31c23681f12179e7d7b8ef907020bf117268b3efb",
+    "item": {
+      "title": "The scariest \"user support\" email I've ever received",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45589715\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T08:47:32Z"
+    }
+  },
+  {
+    "hash": "4b4401560ae0c503249b65eee8fda32f401223ba77ab03ec30dc45640ed749b7",
+    "item": {
+      "title": "Atomic-Scale Protein Filters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45594403\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://press.asimov.com/articles/filters"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T15:49:13Z"
+    }
+  },
+  {
+    "hash": "fe99e1b18f5b2367133770b129433bd86fe0853fed6adcbf003d0cadd84b169e",
+    "item": {
+      "title": "Old Is Gold: Optimizing Single-Threaded Applications with Exgen-Malloc",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588116\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2510.10219"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T04:33:36Z"
+    }
+  },
+  {
+    "hash": "a7233039ddbb9cf6a55610323cb24fed4375b3fb201ea9ee1a9613a3ec200aa1",
+    "item": {
+      "title": "Solana Founder Unveils ‘Percolator’ Perp DEX – A Direct Shot at Aster and Hyperliquid",
+      "description": "\u003cp\u003eSolana co-founder Anatoly Yakovenko has unveiled Percolator on Solana, presenting an implementation-ready DEX design for native Perp markets. The release has arrived as Solana’s perp volumes have softened while Hyperliquid and Aster have expanded their share.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-founder-unveils-percolator-perp-dex-a-direct-shot-at-aster-and-hyperliquid/\"\u003eSolana Founder Unveils ‘Percolator’ Perp DEX – A Direct Shot at Aster and Hyperliquid\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-founder-unveils-percolator-perp-dex-a-direct-shot-at-aster-and-hyperliquid/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "ASTER",
+        "DEX",
+        "hyperliquid",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/20212445/1760995484-d713f620-2be4-4609-96c2-962d1c1d5f9c_optimized.jpg"
+      },
+      "published": "2025-10-20T21:41:56Z"
+    }
+  }
+]
