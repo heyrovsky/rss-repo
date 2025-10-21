@@ -270,5 +270,199 @@
       },
       "published": "2025-10-20T21:41:56Z"
     }
+  },
+  {
+    "hash": "33dd9e43d11f4d61f0ca1adf1be8937b2c014757ebccc1a79a232fd9db12fb6e",
+    "item": {
+      "title": "[$] The RubyGems.org takeover",
+      "description": "\u003cp\u003eIn September, a group of long-time maintainers of Ruby packaging tools\nprojects had their GitHub privileges revoked by nonprofit corporation \u003ca\nhref=\"https://rubycentral.org/\"\u003eRuby Central\u003c/a\u003e\nin what many people are calling a\nhostile takeover. Ruby Central and its board members have issued\nseveral public statements that have, so far, failed to satisfy many in\nthe Ruby community. In response, some of the former contributors to\nRubyGems are working on an alternative service called \u003ca\nhref=\"https://gem.coop/\"\u003egem.coop\u003c/a\u003e. On October\u0026#160;17, ownership\nof the \u003ca\nhref=\"https://en.wikipedia.org/wiki/RubyGems\"\u003eRubyGems\u003c/a\u003e and\n\u003ca href=\"https://bundler.io/\"\u003eBundler\u003c/a\u003e\nrepositories was handed over to the Ruby core team, even though those projects had never been part of core Ruby\npreviously. The takeover and subsequent events have raised a number of\nquestions in the Ruby community.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1040778/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-10-20T20:45:54Z"
+    }
+  },
+  {
+    "hash": "e868495d1bb00c2df60ce83facde0e80bf8281d1541146c1db21370b843ec005",
+    "item": {
+      "title": "AMD ROCm 7.9 Running In Early Tests On Ryzen AI Max \"Strix Halo\"",
+      "description": "The most unexpected surprise today was AMD releasing ROCm 7.9 as a new technology preview / development branch for the open-source ROCm GPU compute stack just one month after formally releasing ROCm 7.0. While not a fan of how they handled the version discontinuity, ROCm 7.9 has been working out well in my very initial tests on AMD Ryzen AI Max \"Strix Halo\"...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-ROCm-7.9-Strix-Halo"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-21T01:30:53Z"
+    }
+  },
+  {
+    "hash": "e0b140a76483650460491deac770df9f8e9c7809849422558d97df26336770b9",
+    "item": {
+      "title": "AWS multiple services outage in us-east-1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://health.aws.amazon.com/health/status?ts=20251020"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T07:22:28Z"
+    }
+  },
+  {
+    "hash": "8b4e101d427d54cb010bae9bddf06e5ae8c8326b7e81926b901f48497a5fda61",
+    "item": {
+      "title": "Results from blood test for 50 cancers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623509\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/c205g21n1zzo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T23:54:40Z"
+    }
+  },
+  {
+    "hash": "aa5a3f69cb911f45028dbeb170229b97f5ff3b9c6baad5612d7819afc6ac217b",
+    "item": {
+      "title": "Why UUIDs won't protect your secrets",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650617\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alexsci.com/blog/uuids-and-idor/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T23:16:41Z"
+    }
+  },
+  {
+    "hash": "cef562cb536f58a07229ada94552116ff9a7ddb0a530575ae9164fd5d98face0",
+    "item": {
+      "title": "Argentine peso weakens to fresh low despite US interventions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45651516\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-21T01:35:30Z"
+    }
+  },
+  {
+    "hash": "144bc45944c322d22218322418b8ed9609afbe2293d0e801b21a3b0671fcef2d",
+    "item": {
+      "title": "Show HN: I'm making a detective game built on Wikipedia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45617948\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://detective.wiki/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-17T15:34:04Z"
+    }
+  },
+  {
+    "hash": "2311fa68193562f22c5054f2f1464a3b369ac973202dc6960f51bd8d51fda2f1",
+    "item": {
+      "title": "I made a small LED panel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529120\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.stavros.io/posts/really-small-led-panel/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-09T15:31:38Z"
+    }
+  },
+  {
+    "hash": "77decb2a9528a211668e484e3a3977c54f46cf8faffe5511cb6070bb0f6f780a",
+    "item": {
+      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45651485\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-21T01:29:03Z"
+    }
+  },
+  {
+    "hash": "410056b4e1f16bd396fd4a454946c07f468b33b48c332bf578765b68cd5b5e1b",
+    "item": {
+      "title": "The scariest \"user support\" email I've received",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45589715\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T08:47:32Z"
+    }
+  },
+  {
+    "hash": "fca897c31efd89e60f0f311cd6030b11f60376186e81f478c7e7f7699ad393af",
+    "item": {
+      "title": "Old Computer Challenge – Modern Web for the ZX Spectrum",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650792\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://0x00.cl/blog/2025/occ-2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T23:40:25Z"
+    }
+  },
+  {
+    "hash": "2856710e9a62ea1cc285d2f9626b2d8b9d15c663516a48aee9fe2c4cb7015757",
+    "item": {
+      "title": "Bitcoin Price Prediction: Japan’s Crypto Banking Shift and AI Trading Boom Fuel Bullish Outlook",
+      "description": "\u003cp\u003eJapan may soon let banks trade Bitcoin, AI bots like Grok and DeepSeek outperform rivals, and Bolivia adopts blockchain—all boosting Bitcoin’s bullish outlook.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-japans-crypto-banking-shift-and-ai-trading-boom-fuel-bullish-outlook/\"\u003eBitcoin Price Prediction: Japan’s Crypto Banking Shift and AI Trading Boom Fuel Bullish Outlook\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-japans-crypto-banking-shift-and-ai-trading-boom-fuel-bullish-outlook/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/30122804/1759235283-bitcoin-price-prediction-34.jpg"
+      },
+      "published": "2025-10-21T02:40:12Z"
+    }
+  },
+  {
+    "hash": "375a198f3cc31b57f30ec10db9dcbba7f4cf97cbb95c53a722b3fb3eef77ec21",
+    "item": {
+      "title": "U.S. Government Shutdown Won’t End Until End of November, Polymarket Bettors Predict",
+      "description": "\u003cp\u003eThe U.S. government shutdown may drag on for almost another month to become the longest in American history, Polymarket bettors predict.Majority Of Polymarket Bettors Predict Lengthy ShutdownAccording to the decentralized prediction market’s website, 25% of Polymarket bettors predict that the U.S. government shutdown will last until at least November 16.Should the prediction come true, it [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/u-s-government-shutdown-wont-end-until-end-of-november-polymarket-bettors-predict/\"\u003eU.S. Government Shutdown Won\u0026#8217;t End Until End of November, Polymarket Bettors Predict\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/u-s-government-shutdown-wont-end-until-end-of-november-polymarket-bettors-predict/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Congress",
+        "Crypto Policy",
+        "Polymarket"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/21003144/1761006703-julia_63915_the_capitol_building_washington_d-c-_overlaid_with__e1e980a7-0f33-4036-ab20-f4fe158a8e2d-png_optimized.jpg"
+      },
+      "published": "2025-10-21T00:56:55Z"
+    }
   }
 ]
