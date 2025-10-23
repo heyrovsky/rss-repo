@@ -3712,5 +3712,602 @@
       },
       "published": "2025-10-23T15:27:28Z"
     }
+  },
+  {
+    "hash": "6ce9cf0d8d46c4cf868a1ca9833a45e66376560c34dc2d20737722b0599d40e1",
+    "item": {
+      "title": "Date bug affects Ubuntu 25.10 automatic updates",
+      "description": "\u003cp\u003eThe Ubuntu Project has \u003ca\nhref=\"https://lists.ubuntu.com/archives/ubuntu-security-announce/2025-October/009890.html\"\u003eannounced\u003c/a\u003e\nthat a bug in the Rust-based \u003ca\nhref=\"https://uutils.github.io/\"\u003euutils\u003c/a\u003e version of the\n\u003ctt\u003edate\u003c/tt\u003e command shipped with Ubuntu\u0026#160;25.10 broke automatic\nupdates:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eSome Ubuntu 25.10 systems have been unable to automatically check\nfor available software updates. Affected machines include cloud\ndeployments, container images, Ubuntu Desktop and Ubuntu Server\ninstalls.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eThe announcement includes remediation instructions for those\naffected by the bug. Systems with the \u003ctt\u003erust-coreutils\u003c/tt\u003e package\nversion 0.2.2-0ubuntu2 or earlier have the bug, it is fixed in\n0.2.2-0ubuntu2.1 or later. It does not impact manual updates using the\n\u003ctt\u003eapt\u003c/tt\u003e command or other utilities.\u003c/p\u003e\n\n\u003cp\u003eUbuntu embarked on a project to \"oxidize\" the distribution by\nswitching to uutils and \u003ca\nhref=\"https://github.com/trifectatechfoundation/sudo-rs?tab=readme-ov-file#sudo-rs\"\u003esudo-rs\u003c/a\u003e\nfor the 25.10 release, and to see if the Rust-based utilities would be\nsuitable for the long-term-release slated for next April. LWN \u003ca\nhref=\"https://lwn.net/Articles/1014002/\"\u003ecovered\u003c/a\u003e that project in\nMarch.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1043103/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-10-23T20:34:27Z"
+    }
+  },
+  {
+    "hash": "08e8785012daa6c41e202c88b7ae5127da3081b553c1bb189dfac4e1b0eee8c4",
+    "item": {
+      "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant",
+      "description": "\"Mico\" literally tries to put a face on Microsoft's chatbot-turned-assistant.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/"
+      ],
+      "categories": [
+        "Tech",
+        "copilot",
+        "microsoft",
+        "windows 11",
+        "windows 11 25h2"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-1152x648.jpeg"
+      },
+      "published": "2025-10-23T18:48:52Z"
+    }
+  },
+  {
+    "hash": "8986e9fcafd2b432526cacbc9baa2f75e55535f5f279df3e936e532b52d9e367",
+    "item": {
+      "title": "The first people to set foot in Australia were fossil hunters",
+      "description": "Europeans weren't the first people to collect fossils in Australia.",
+      "links": [
+        "https://arstechnica.com/science/2025/10/the-first-people-to-set-foot-in-australia-were-fossil-hunters/"
+      ],
+      "categories": [
+        "Science",
+        "aboriginal australians",
+        "ancient people did stuff",
+        "Archaeology",
+        "australia",
+        "biological archaeology",
+        "Megafauna",
+        "megafaunal extinction"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kiona N. Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rsosSimosthenurus_occidentalis-1152x648-1761239043.jpg"
+      },
+      "published": "2025-10-23T17:04:16Z"
+    }
+  },
+  {
+    "hash": "1e9ec1dcbfdc6b43a53d2b0cc8aa431373da8fb2ea9b41517eeeb5749dcd4e7f",
+    "item": {
+      "title": "CS2 item market loses nearly $2B in value overnight due to “trade up” update",
+      "description": "Once rare $14K knife now sells for $7K, some common guns jump from $10 to over $100.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/"
+      ],
+      "categories": [
+        "Gaming",
+        "counter-strike 2",
+        "CS@",
+        "CS2",
+        "items",
+        "Marketplace",
+        "trading",
+        "Valve"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cs2knife-1152x648.png"
+      },
+      "published": "2025-10-23T16:40:22Z"
+    }
+  },
+  {
+    "hash": "19279695a4c8f80c6d2d5c357bbbe1fa894a0511ae39b984e3e85ee310e5ddf4",
+    "item": {
+      "title": "Trezor Launches Trezor Safe 7: First Hardware Wallet With Transparent Secure Element",
+      "description": "\u003cp\u003e\u003cimg width=\"1730\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI.jpg 1730w, https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI-300x200.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI-1024x682.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI-768x511.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI-1536x1023.jpg 1536w\" sizes=\"(max-width: 1730px) 100vw, 1730px\" /\u003e\u003c/p\u003ePrague, Czech Republic, 23rd October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/trezor-launches-trezor-safe-7-first-hardware-wallet-with-transparent-secure-element/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/marekprihoda-TBD-010_1761225727o4tSHBhNmI.jpg"
+      },
+      "published": "2025-10-23T16:08:18Z"
+    }
+  },
+  {
+    "hash": "05235f9d23bba63eaf6745297d2408d0a41439a8dd03b9b7178853510ec2162f",
+    "item": {
+      "title": "Which Crypto Will Explode After October? Bitcoin, Ethereum Drop While Blazpay Rises as Top AI Presale",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"490\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-37.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-37.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-37-300x188.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-37-768x482.jpg 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eOctober 2025 is rapidly reshaping the crypto landscape. As the industry’s familiar blue-chip names \u0026#8211; Bitcoin and Ethereum among them \u0026#8211; experience short-term declines and slowed momentum, investors are asking one decisive question: Which crypto will explode after October? In this shifting market environment, the narrative is turning toward early-stage,",
+      "links": [
+        "https://thenewscrypto.com/which-crypto-will-explode-after-october-bitcoin-ethereum-drop-while-blazpay-rises-as-top-ai-presale/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-37.jpg"
+      },
+      "published": "2025-10-23T16:00:00Z"
+    }
+  },
+  {
+    "hash": "6ab968220e9fca495efca820fe3c3896a179cb0e04efb8573b7aa89a5c14cbcb",
+    "item": {
+      "title": "Chorus One, Morpho \u0026 Steakhouse Launch Risk-Managed Stablecoin Yield Platform for Institutional Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-62.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-62.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-62-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-62-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-62-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eChorus One is taking stablecoin yield generation to a new level. The institutional staking provider has joined forces with Morpho and Steakhouse Financial to launch Chorus One Earn, a non-custodial stablecoin yield platform designed for institutional investors, DAOs, and on-chain treasuries. The new product gives investors the ability to earn",
+      "links": [
+        "https://thenewscrypto.com/chorus-one-morpho-steakhouse-launch-risk-managed-stablecoin-yield-platform-for-institutional-investors/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Chorus One",
+        "DeFi"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-62.png"
+      },
+      "published": "2025-10-23T14:17:47Z"
+    }
+  },
+  {
+    "hash": "00152f6c48d99e8fa491776d1d7ced946b8f39f391a1978ef08a9a9cbe4c169e",
+    "item": {
+      "title": "Roba Shatters Closed Systems: The People’s Robotics Platform Launches To Dominate $218b Industry",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/PR-2_2_1761218201nBCl9PWM84.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/PR-2_2_1761218201nBCl9PWM84.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/10/PR-2_2_1761218201nBCl9PWM84-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/PR-2_2_1761218201nBCl9PWM84-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/PR-2_2_1761218201nBCl9PWM84-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eDubai, United Arab Emirates, 23rd October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/roba-shatters-closed-systems-the-peoples-robotics-platform-launches-to-dominate-218b-industry/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/PR-2_2_1761218201nBCl9PWM84.jpg"
+      },
+      "published": "2025-10-23T14:01:15Z"
+    }
+  },
+  {
+    "hash": "ec31e6f9fd93ec8396f60ee9150b20aeba0c15de40f5581b44f1b2e8070569c4",
+    "item": {
+      "title": "AMD Radeon AI PRO R9700 Hitting Retailers Next Week For $1299 USD",
+      "description": "Back in May AMD announced the Radeon AI PRO R9700 with 128 AI accelerators, 32GB of GDDR6 video memory, and other advantages for this AI-focused RDNA4 based graphics card over the RDNA3-based Radeon PRO W7900. The Radeon AI PRO R9700 was supposed to be available in July while today AMD announced it will be going on sale next week...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Radeon-AI-PRO-R9700-1299"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T19:14:48Z"
+    }
+  },
+  {
+    "hash": "e1224bafd538b2036c1888f867e6483b84697ec8acc6d261b9a9d090c7cdfeb7",
+    "item": {
+      "title": "Linux's Proposed Cache Aware Scheduling Benchmarks Show Big Potential On AMD EPYC Turin",
+      "description": "The past number of months has seen a lot of work by Intel Linux kernel engineers on cache-aware scheduling / load balancing for helping modern CPUs that have multiple caches. With cache aware scheduling, tasks that will likely share resources could be aggregated into the same cache domain to enjoy better cache locality. With the cache aware scheduling patches recently updated and now working past the \"request for comments\" stage, I was eager to try out these new patches. Especially with a 44% time reduction reported for one of the benchmarks, I was eager to run some tests and the first of those results are being shared today.",
+      "links": [
+        "https://www.phoronix.com/review/cache-aware-scheduling-amd-turin"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T17:00:00Z"
+    }
+  },
+  {
+    "hash": "5ba041dee1b860bda32448509bb4af03c8f0856edeac13725bba637e4a01f5bb",
+    "item": {
+      "title": "Trump pardons convicted Binance founder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683152\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T15:41:48Z"
+    }
+  },
+  {
+    "hash": "ec950bc7aa9474c5a0b6b7ea81f667052ab9c764c476d28799513b8646b39fdf",
+    "item": {
+      "title": "Can \"second life\" EV batteries work as grid-scale energy storage?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685007\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.volts.wtf/p/can-second-life-ev-batteries-work"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T18:15:45Z"
+    }
+  },
+  {
+    "hash": "a22839153a7d52e03039dfba109ecd7fe7997c7f6ed055780f7564c18446cbde",
+    "item": {
+      "title": "What happened to Apple's legendary attention to detail?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685551\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T19:05:24Z"
+    }
+  },
+  {
+    "hash": "e98b36cc66b74cb879a15461e3604156d7af23a830dffc124c2a8e1aedcf3a99",
+    "item": {
+      "title": "New updates and more access to Google Earth AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684155\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T16:58:04Z"
+    }
+  },
+  {
+    "hash": "e96057bd808cba0c4d965c5d49ae28f46f03611714fb982b083d9d47838cd163",
+    "item": {
+      "title": "Kaitai Struct: declarative binary format parsing language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580795\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kaitai.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T14:51:29Z"
+    }
+  },
+  {
+    "hash": "e72d4dd02c170d17028bdb862d13f3a1b4209be926855f7991dd23cd005a80e8",
+    "item": {
+      "title": "Pyscripter – open-source Python IDE written in Delphi",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639618\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/pyscripter/pyscripter"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T02:03:40Z"
+    }
+  },
+  {
+    "hash": "90500540fa7be805bdf1917145266512a6f64036f39516792a674a104893a3ad",
+    "item": {
+      "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684934\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T18:09:37Z"
+    }
+  },
+  {
+    "hash": "efc5b620be1c1352e811f3d531edc06d04e4ad4a5834f753d831e0f34df99992",
+    "item": {
+      "title": "Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685793\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://opensnowcat.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T19:24:04Z"
+    }
+  },
+  {
+    "hash": "75de5ec46e7dee0a8b553006e7ac166df3de4accaf6f1cd5f219cc9e8384e6f4",
+    "item": {
+      "title": "How count-min sketches work – frequencies, but without the actual data",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45671569\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.instantdb.com/essays/count_min_sketch"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T16:27:26Z"
+    }
+  },
+  {
+    "hash": "57fb9c6a59eb33ce6a1cbbabb9026abea21745b010bba9a9e851204cb8efc635",
+    "item": {
+      "title": "OpenAI acquires Sky.app",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684236\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openai.com/index/openai-acquires-software-applications-incorporated"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T17:04:17Z"
+    }
+  },
+  {
+    "hash": "d3ae8c7cfd7869341da259d4dca616d70c2a198a1555553c1f92da40308423b4",
+    "item": {
+      "title": "Show HN: Git for LLMs – a context management interface",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45682776\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twigg.ai"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T15:12:57Z"
+    }
+  },
+  {
+    "hash": "355bfd00665f662e98dd629ac59c0e7915cb1ee1a353f62878425978efbb6acc",
+    "item": {
+      "title": "The OS/2 Display Driver Zoo",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583291\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T18:35:59Z"
+    }
+  },
+  {
+    "hash": "468aac1406927119fe512c6faa69631ccf71a1d769c8857606711f0884887fd4",
+    "item": {
+      "title": "US probes Waymo robotaxis over school bus safety",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681147\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T12:40:57Z"
+    }
+  },
+  {
+    "hash": "997582c5a6dab012a38b6e0a742f8ecb13a20e070f17df8eecfb1390b937cb6b",
+    "item": {
+      "title": "Expanding Our Use of Google Cloud TPUs and Services",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686790\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T20:39:41Z"
+    }
+  },
+  {
+    "hash": "235fe7852305deb106b1d0106832eab82a2adb1c1f92713d56d44b8dd0bba457",
+    "item": {
+      "title": "The Muscular Compassion of \"Paper Girl\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686083\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T19:43:44Z"
+    }
+  },
+  {
+    "hash": "1f1b0bcae8e379d8eccbe00ef64f84dbd93a1dfa5ccded253eba12ade08aace9",
+    "item": {
+      "title": "OpenMaxIO: Forked UI for MinIO Object Storage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684736\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/OpenMaxIO/openmaxio-object-browser"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T17:52:18Z"
+    }
+  },
+  {
+    "hash": "cccff647f2480599a1dd226ce764fd3e68570f7b9bdc39ccc9635b0fd704be90",
+    "item": {
+      "title": "U.S. In ‘Excellent Position’ To Pass Crypto Market Structure Legislation This Year, David Sacks Says",
+      "description": "\u003cp\u003eDavid Sacks has said the U.S. is in an excellent position to pass crypto market structure rules this year with bipartisan support. Senate Democrats have met industry CEOs, and Brian Armstrong has said Thanksgiving has been floated as a timeline, while some groups have voiced DeFi concerns in DC now.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/u-s-in-excellent-position-to-pass-crypto-market-structure-legislation-this-year-david-sacks-says/\"\u003eU.S. In \u0026#8216;Excellent Position\u0026#8217; To Pass Crypto Market Structure Legislation This Year, David Sacks Says\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/u-s-in-excellent-position-to-pass-crypto-market-structure-legislation-this-year-david-sacks-says/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto Policy",
+        "Senate Bill",
+        "White House"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23201442/1761250480-julia_63915_the_white_house_overlaid_with_cryptocurrencies_52313222-03c6-431e-8743-ff14d89f6913-png.webp"
+      },
+      "published": "2025-10-23T20:40:26Z"
+    }
+  },
+  {
+    "hash": "449c8a181bb07121704774a6a71e522a29e83f9a5d4199d76ddcbcad28b25b9a",
+    "item": {
+      "title": "CZ Pardon Sparks Backlash as Trump Accused of Corruption",
+      "description": "\u003cp\u003eChangpeng Zhao's pardon is being celebrated on Crypto Twitter, but the president's been accused of putting his business interests ahead of the American people.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/cz-pardon-sparks-backlash-as-trump-accused-of-corruption/\"\u003eCZ Pardon Sparks Backlash as Trump Accused of Corruption\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/cz-pardon-sparks-backlash-as-trump-accused-of-corruption/"
+      ],
+      "categories": [
+        "Features",
+        "Altcoins",
+        "anti-money laundering",
+        "Binance",
+        "Binance Coin",
+        "Blockchain",
+        "BNB",
+        "CEXs",
+        "Changpeng Zhao",
+        "Cryptocurrency",
+        "CZ",
+        "Donald Trump",
+        "Elizabeth Warren",
+        "Exchange",
+        "Market",
+        "Regulation",
+        "Trump",
+        "USA",
+        "World Liberty Financial"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23181148/1761243106-cz-america_optimized.jpg"
+      },
+      "published": "2025-10-23T20:33:38Z"
+    }
+  },
+  {
+    "hash": "78f8165ec7aa45944cc37fbcc74ce220e63ef35518de40bfb15627d51434ff71",
+    "item": {
+      "title": "Turkey Leads MENA with $200B in Crypto Volume – but Chainalysis Warns It’s ‘All Speculation’",
+      "description": "\u003cp\u003eNew Chainalysis figures show Turkey maintaining strong crypto volume despite stricter oversight. Retail activity has cooled amid KYC and transfer caps, while institutional investors and altcoin trading have continued to expand across the MENA region.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/turkey-leads-mena-with-200b-in-crypto-volume-but-chainalysis-warns-its-all-speculation/\"\u003eTurkey Leads MENA with $200B in Crypto Volume – but Chainalysis Warns It’s ‘All Speculation’\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/turkey-leads-mena-with-200b-in-crypto-volume-but-chainalysis-warns-its-all-speculation/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Chainalysis",
+        "Stablecoin",
+        "Turkey"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23143012/1761229811-0_3-20_optimized.jpg"
+      },
+      "published": "2025-10-23T20:31:00Z"
+    }
+  },
+  {
+    "hash": "a8f67636d9ff965a47e4beae73c3a591328d13110bbb75b9a9a4aa3ddad73e42",
+    "item": {
+      "title": "Stop Being Republicans’ Lapdog’ – Crypto CEOs Face Senate Fury as Bill Stalls",
+      "description": "\u003cp\u003eCrypto executives have faced sharp questioning from Democratic senators as negotiations over the market structure bill have slowed. While CEOs have reported progress, the Senate remains divided on timing and process, leaving the bill’s future in question after earlier House passage.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stop-being-republicans-lapdog-crypto-ceos-face-senate-fury-as-bill-stalls/\"\u003eStop Being Republicans\u0026#8217; Lapdog\u0026#8217; – Crypto CEOs Face Senate Fury as Bill Stalls\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stop-being-republicans-lapdog-crypto-ceos-face-senate-fury-as-bill-stalls/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Clarity Act"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23175041/1761241841-image-1761241813997_optimized.webp"
+      },
+      "published": "2025-10-23T19:27:50Z"
+    }
+  },
+  {
+    "hash": "5cb33d3c2e6570e24d0f69ad9e22cde8fc3d701cfb991c22cfe1df38591a0abf",
+    "item": {
+      "title": "Base Chain Activity Jumps 22.5%, But Bitcoin Hyper is the Only Layer-2 With Solana Speed, Bitcoin Security",
+      "description": "\u003cp\u003eBase has grown transactions month over month and outlined plans for a Solana bridge. Bitcoin Hyper has combined SVM throughput with Bitcoin settlement, drawn $24.6M in presale funds, and reported over 1B HYPER tokens staked, positioning it for high-performance, high-trust apps.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/base-activity-up-22-5-bitcoin-hyper-solana-speed/\"\u003eBase Chain Activity Jumps 22.5%, But Bitcoin Hyper is the Only Layer-2 With Solana Speed, Bitcoin Security\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/base-activity-up-22-5-bitcoin-hyper-solana-speed/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "bitcoin hyper",
+        "Crypto ICO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23182311/1761243791-image-187-350-1024x1024-1.jpg"
+      },
+      "published": "2025-10-23T18:26:13Z"
+    }
+  },
+  {
+    "hash": "90b9e3abcd3258ad4eefccb25d8f2d86c864f0f5242347f05908d0e58f7e1a2f",
+    "item": {
+      "title": "Snorter Bot Token Last 4 Days to Buy at List Price, Funding Hits $5.4M",
+      "description": "\u003cp\u003eSnorter Bot Token has extended a 7-day window to buy at $0.1083, with funding having reached $5.4M and claims set for Oct 27 at 2 p.m. UTC. Built on Solana, the bot has offered 0.85% fees and copy trading, while staking has held 24.5M SNORT as investors have compared its path with Banana Gun widely.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/snorter-bot-token-last-4-days-list-price-funding-5-4m/\"\u003eSnorter Bot Token Last 4 Days to Buy at List Price, Funding Hits $5.4M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/snorter-bot-token-last-4-days-list-price-funding-5-4m/"
+      ],
+      "categories": [
+        "Press Releases",
+        "best crypto 2025",
+        "Crypto ICO",
+        "Snorter"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23172547/1761240347-image-187-346-5-1024x1024-1.jpg"
+      },
+      "published": "2025-10-23T18:20:36Z"
+    }
   }
 ]
