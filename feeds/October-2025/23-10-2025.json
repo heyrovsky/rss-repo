@@ -651,5 +651,82 @@
       },
       "published": "2025-10-22T21:16:39Z"
     }
+  },
+  {
+    "hash": "bc31fcac20f25661acf851314ba78dee0926f0edff9d5296715759a15f0a20da",
+    "item": {
+      "title": "Oracle OCI Compute E6 Benchmarks For Leading AMD EPYC Turin Performance In The Cloud",
+      "description": "Oracle recently launched their E6 compute shape for Oracle Cloud and powered by AMD EPYC 9005 \"Turin\" processors. Oracle Cloud Infrastructure also launched their Compute Cloud@Customer X11 and Private Cloud Appliance X11 platforms that are all powered by the E6 compute shape with 5th Gen AMD EPYC. For those curious about the performance and value of the Oracle Cloud E6 shape compared to prior-gen E5 as well as alternatives from Amazon AWS, Microsoft Azure, and Google Cloud, these benchmarks are geared for you.",
+      "links": [
+        "https://www.phoronix.com/review/oracle-e6-amd-epyc-cloud"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T00:40:00Z"
+    }
+  },
+  {
+    "hash": "3204e92327c03b85c7d2234bffa0de0dba533e5f73f034a233a0d0800eb1cbcd",
+    "item": {
+      "title": "Run interactive commands in Gemini CLI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605823\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T14:31:13Z"
+    }
+  },
+  {
+    "hash": "bf08c8f0e9ad0f504d3670beb2c2d7e394586e211d99ae11cee069ecff0580da",
+    "item": {
+      "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45673130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ian.sh/fia"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T18:21:54Z"
+    }
+  },
+  {
+    "hash": "31e124fc8561ca7b259824bccde7534b830cef10c18f8f2b331d399110cb5924",
+    "item": {
+      "title": "Show HN: Semantic Art – Uses natural language prompts to find real artwork",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45671953\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.semantic.art/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T16:55:44Z"
+    }
+  },
+  {
+    "hash": "392f39ea3ff0d1cd1c2d0ad1e05f7d522c147063d1fb6abe7936f6c4fa20f6e1",
+    "item": {
+      "title": "The first interstellar software update: The hack that saved Voyager 1 [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45561640\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=p0K7u3B_8rY"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-12T20:31:57Z"
+    }
+  },
+  {
+    "hash": "4669ba215ad1918b86c447b163bf140778ca28e35f60d451efd2f653b8303c7d",
+    "item": {
+      "title": "Derek Sivers's database and web apps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605778\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/sivers/sivers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T14:27:52Z"
+    }
   }
 ]
