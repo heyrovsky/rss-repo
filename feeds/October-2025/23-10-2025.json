@@ -1,0 +1,655 @@
+[
+  {
+    "hash": "3053fab72f9089fa6a368b5b921228d38f19f1ce02e2b16b9f0b754c0fe3d660",
+    "item": {
+      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+      "description": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
+      "links": [
+        "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg"
+      },
+      "published": "2025-10-22T22:35:41Z"
+    }
+  },
+  {
+    "hash": "989aac297663bb9c1d3f4eb77e55f70fc464e20cc65341b861645631604ef560",
+    "item": {
+      "title": "Tesla profits fall 37% in Q3 despite healthy sales",
+      "description": "A loss of regulatory credits and increased expenses didn't help.",
+      "links": [
+        "https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/"
+      ],
+      "categories": [
+        "Cars",
+        "Tesla earnings"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/tesladown-1024x648.jpg"
+      },
+      "published": "2025-10-22T21:42:47Z"
+    }
+  },
+  {
+    "hash": "3d9dc3b64001cf44d6b27f8da4d6486d2441df79362da2bfdc4119e0506be42d",
+    "item": {
+      "title": "This may be the most bonkers tech job listing I’ve ever seen",
+      "description": "Don't even apply if you're not a Tier 1 \"A-player.\"",
+      "links": [
+        "https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/"
+      ],
+      "categories": [
+        "Culture",
+        "996",
+        "icon",
+        "Silicon Valley",
+        "work"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1149297973-1152x648-1761164087.jpg"
+      },
+      "published": "2025-10-22T20:45:23Z"
+    }
+  },
+  {
+    "hash": "1bdd59289d0167e25ac7535eef0773a9a946ed8b21656231b70a60a078d69438",
+    "item": {
+      "title": "General Motors will integrate AI into its cars, plus new hands-free assist",
+      "description": "Do we want LLMs in our cars? GM thinks we do.",
+      "links": [
+        "https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/"
+      ],
+      "categories": [
+        "AI",
+        "Cars",
+        "cadillac",
+        "gemini",
+        "General Motors"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Chad Kirchner"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1776398279-1152x648.jpg"
+      },
+      "published": "2025-10-22T20:29:11Z"
+    }
+  },
+  {
+    "hash": "ee766700cc033999aaac789732127c8b8b472b0cc45680bb40166ec2dc3de4ff",
+    "item": {
+      "title": "Health plan enrollment period is set to be horrifying for everyone this year",
+      "description": "Some marketplace premiums could more than double. Employer-based plans are soaring.",
+      "links": [
+        "https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/"
+      ],
+      "categories": [
+        "Health",
+        "ACA",
+        "health insurance",
+        "KFF",
+        "Marketplace",
+        "premiums"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-148302547-1152x648.jpg"
+      },
+      "published": "2025-10-22T20:23:35Z"
+    }
+  },
+  {
+    "hash": "31f5f97cca63f92a6b91aed12facf4c67ff8e3bde24d15e733ad6ad6af256c29",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for October 23, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1042221/\"\u003eFront\u003c/a\u003e: Git 3.0 topics; Lazy imports for Python; RubyGems; LLMs for patch review; DebugFS.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1042223/\"\u003eBriefs\u003c/a\u003e: Fedora AI policy; OpenBSD 7.8; DigiKam 8.8.0; Forgejo 13.0; KDE Plasma 6.5; RubyGems; Valkey 9.0.0; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1042224/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1042221/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-10-23T00:12:53Z"
+    }
+  },
+  {
+    "hash": "23390c3d217726e8b2ded361f6991ec787220fcb33f7228f91f3453f8397eb6e",
+    "item": {
+      "title": "OpenZFS 2.4-rc3 Released With New Workarounds For Linux 6.18",
+      "description": "OpenZFS 2.4 stable should be out in the near future while out today is the third release candidate for this ZFS file-system implementation for Linux and FreeBSD operating systems...",
+      "links": [
+        "https://www.phoronix.com/news/OpenZFS-2.4-rc3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T00:14:16Z"
+    }
+  },
+  {
+    "hash": "b3b61a9ef8e673e0b65c79755886eb3acbbdb2a374462a278cd1d6c4544bd39e",
+    "item": {
+      "title": "Google Develops Code Prefetch Insertion Optimizer For Faster Intel GNR \u0026 AMD Turin Performance",
+      "description": "Google engineer Rahman Lavaee today announced their work on a prototype software implementation to automatically insert optimal code prefetches into binaries for faster performance, especially for the latest Intel Granite Rapids and AMD Turin processors with new prefetching instructions...",
+      "links": [
+        "https://www.phoronix.com/news/Propeller-Prefetch-Insertion"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-22T21:43:08Z"
+    }
+  },
+  {
+    "hash": "574a358cf16231e4bdd7a588dd98a71c119e86b4cdbe20afe1fbd9fef1a7a7d2",
+    "item": {
+      "title": "Tinkercad in Color",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/bot3d.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/bot3d.png 800w, https://hackaday.com/wp-content/uploads/2025/10/bot3d.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/bot3d.png?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"871280\" data-permalink=\"https://hackaday.com/2025/10/22/tinkercad-in-color/bot3d/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/bot3d.png\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"bot3d\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/bot3d.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/bot3d.png?w=800\" /\u003e\u003c/div\u003eTinkercad is famous for having lots of colors in the interface. But once you export an STL, that file is notoriously monochrome. If you are printing with a single color \u003ca href=\"https://hackaday.com/2025/10/22/tinkercad-in-color/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/tinkercad-in-color/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "Multicolor 3D printing",
+        "tinkercad"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/bot3d.png"
+      },
+      "published": "2025-10-22T23:00:09Z"
+    }
+  },
+  {
+    "hash": "ef91eef3b7f8d8961d03d42221cd067fff780ff551f381532721458db80e875e",
+    "item": {
+      "title": "Handheld PC Build Is Pleasantly Chunky",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"868744\" data-permalink=\"https://hackaday.com/2025/10/22/handheld-pc-build-is-pleasantly-chunky/assembling-mutantc-v5-1-12-36-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Assembling mutantC v5.1 12-36 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png?w=800\" /\u003e\u003c/div\u003eThe cool thing about building your own computer is that you don\u0026#8217;t have to adhere to industry norms of form and function. You can build whatever chunky, awesome thing your \u003ca href=\"https://hackaday.com/2025/10/22/handheld-pc-build-is-pleasantly-chunky/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/handheld-pc-build-is-pleasantly-chunky/"
+      ],
+      "categories": [
+        "Cyberdecks",
+        "cyberdeck",
+        "raspberry pi"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Assembling-mutantC-v5.1-12-36-screenshot.png"
+      },
+      "published": "2025-10-22T20:00:30Z"
+    }
+  },
+  {
+    "hash": "5ff2d0e360501efa62bf64c420757b0e33f0ec6abae71ed01b57ad5904137eae",
+    "item": {
+      "title": "FLOSS Weekly Episode 852: Sir, This is a Wendy’s",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"483960\" data-permalink=\"https://hackaday.com/pipewire-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Pipewire\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg?w=800\" /\u003e\u003c/div\u003eThis week Jonathan talks to Robert Wolff about DevEco! How did this developer group come to be, and what is its purpose? What are the lessons learned about building communities \u003ca href=\"https://hackaday.com/2025/10/22/floss-weekly-episode-852-sir-this-is-a-wendys/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/floss-weekly-episode-852-sir-this-is-a-wendys/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "Slider",
+        "Software Development",
+        "FLOSS Weekly"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg"
+      },
+      "published": "2025-10-22T18:30:18Z"
+    }
+  },
+  {
+    "hash": "32bd14852c4eff863a675ac0ad287a422eb28407c12714aa99704587ceff30b5",
+    "item": {
+      "title": "Kitchen Bench Splash Guard Powered By Arduino",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg 1280w, https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"868717\" data-permalink=\"https://hackaday.com/2025/10/22/kitchen-bench-splash-guard-powered-by-arduino/arduino_splash_guard_1/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"arduino_splash_guard_1\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;re blessed with high water pressure at home, you probably love how it helps blast grime from your dishes and provides a pleasant washing experience. However, it can also \u003ca href=\"https://hackaday.com/2025/10/22/kitchen-bench-splash-guard-powered-by-arduino/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/kitchen-bench-splash-guard-powered-by-arduino/"
+      ],
+      "categories": [
+        "home hacks",
+        "arduino",
+        "kitchen",
+        "kitchen hacks",
+        "sink"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/arduino_splash_guard_1.jpg"
+      },
+      "published": "2025-10-22T15:30:15Z"
+    }
+  },
+  {
+    "hash": "2c45cf352273b7ef15414e4a4692500bdd2581db715da1ed159c5ab298811351",
+    "item": {
+      "title": "What Happened To Running What You Wanted On Your Own Machine?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg 3000w, https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871594\" data-permalink=\"https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/ownmachine/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"OwnMachine\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg?w=800\" /\u003e\u003c/div\u003eWhen the microcomputer first landed in homes some forty years ago, it came with a simple freedom—you could run whatever software you could get your hands on. Floppy disk from \u003ca href=\"https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/"
+      ],
+      "categories": [
+        "Current Events",
+        "Featured",
+        "Misc Hacks",
+        "Original Art",
+        "Slider",
+        "android",
+        "app store",
+        "console",
+        "iphone",
+        "Microsoft store",
+        "video games",
+        "walled garden",
+        "windows"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/OwnMachine.jpg"
+      },
+      "published": "2025-10-22T14:00:45Z"
+    }
+  },
+  {
+    "hash": "f524ab77950b351f9737b4aa8cd94abf9d9a989a4ff677ade22d8f48e3d75f57",
+    "item": {
+      "title": "World’s Cheapest ARM Debugger Is Actually RISC-V",
+      "description": "\u003cdiv\u003e\u003cimg width=\"503\" height=\"283\" src=\"https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png?w=503\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png 503w, https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png?resize=400,225 400w\" sizes=\"auto, (max-width: 503px) 100vw, 503px\" data-attachment-id=\"868665\" data-permalink=\"https://hackaday.com/2025/10/22/worlds-cheapest-arm-debugger-is-actually-risc-v/cmsis_dap_interface-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png\" data-orig-size=\"503,283\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"CMSIS_DAP_INTERFACE-featured\" data-image-description=\"\u0026lt;p\u0026gt;https://bogdanthegeek.github.io/blog/projects/v003-dap\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png?w=503\" /\u003e\u003c/div\u003e[bogdanthegeek] has a lot of experience with the ARM platform, and their latest escapade into working with cheap ARM chips recovered from disposable vapes involved a realization that it was \u003ca href=\"https://hackaday.com/2025/10/22/worlds-cheapest-arm-debugger-is-actually-risc-v/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/worlds-cheapest-arm-debugger-is-actually-risc-v/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "arm",
+        "ch32fun",
+        "CH32V003",
+        "CMSIS-DAP",
+        "DAPLink",
+        "low-speed",
+        "RISC-V",
+        "usb"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dave Rowntree"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/CMSIS_DAP_INTERFACE-featured.png"
+      },
+      "published": "2025-10-22T11:00:00Z"
+    }
+  },
+  {
+    "hash": "49d987e6775cfabf7d0c7d12682837e1aa44248ed81b3804706191490abcf8c6",
+    "item": {
+      "title": "POV Globe Takes to the Skies",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"868530\" data-permalink=\"https://hackaday.com/2025/10/22/pov-globe-takes-to-the-skies/flying_pov_globe_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"flying_POV_globe_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg?w=800\" /\u003e\u003c/div\u003eLED billboards are cyberpunk-dystopian enough for most, but it can get worse. For example, this project by [Concept Crafted Creations] that takes the whole concept and takes it airborn (literally) \u003ca href=\"https://hackaday.com/2025/10/22/pov-globe-takes-to-the-skies/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/22/pov-globe-takes-to-the-skies/"
+      ],
+      "categories": [
+        "drone hacks",
+        "drone",
+        "persistance of vision",
+        "POV display",
+        "POV globe",
+        "quadcopter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/flying_POV_globe_feat.jpg"
+      },
+      "published": "2025-10-22T08:00:17Z"
+    }
+  },
+  {
+    "hash": "a365e5ba632442e213cab90f819247a9e3e3b173387e9c291da4cb96e5c9eff9",
+    "item": {
+      "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45674166\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/character-ai/Ovi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T19:42:36Z"
+    }
+  },
+  {
+    "hash": "b6a7fcb3c46fbe2c346e9e4c5f79271643126a963a9bc8afae4db732400db57a",
+    "item": {
+      "title": "Google flags Immich sites as dangerous",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45675015\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://immich.app/blog/google-flags-immich-as-dangerous"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T20:53:49Z"
+    }
+  },
+  {
+    "hash": "9026e435ec270a026d13fa3f5e7ed3125558852e19063abc683efcd8273c0b90",
+    "item": {
+      "title": "Play abstract strategy board games online with friends or against bots",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45609478\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://abstractboardgames.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T19:12:47Z"
+    }
+  },
+  {
+    "hash": "3700cd5f99aa7a2d49110c485aa92a9d133c89cf624b5218c73dfe39166036df",
+    "item": {
+      "title": "Common yeast can survive Martian conditions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45586006\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-10-common-yeast-survive-martian-conditions.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T22:57:36Z"
+    }
+  },
+  {
+    "hash": "1c9dbbc948893cc9b98f1e3e08a838c0ac18c37556602c982edb634c9b9b91ed",
+    "item": {
+      "title": "VortexNet: Neural network based on fluid dynamics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45676162\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/samim23/vortexnet"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T22:51:58Z"
+    }
+  },
+  {
+    "hash": "adb21a1bf7171a1367c95590c61d1815193a16dd3942330ff366ef2ec3d2bb5a",
+    "item": {
+      "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658928\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/karpathy/status/1980397031542989305"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-21T17:43:16Z"
+    }
+  },
+  {
+    "hash": "2a71abfdf782126bc78aecc2015cd178cefad62219c5855f64c50b91bd0fb602",
+    "item": {
+      "title": "YASA beats own power density record pushing electric motor to 59kW/kg benchmark",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45675020\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T20:54:37Z"
+    }
+  },
+  {
+    "hash": "9edc3f6dc9515178529df688657bb62186323f5ef6a78c6db4321f63cad405e8",
+    "item": {
+      "title": "Iceland reports the presence of mosquitoes as climate warms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45675851\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T22:15:29Z"
+    }
+  },
+  {
+    "hash": "1dea59d0d11e17e13210d06bb987a07e962f7f41b5b71bf51b737431c052a328",
+    "item": {
+      "title": "LibCube: Find new sounds from audio synths easier",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45628169\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/cslr/libcube-public/wiki"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-18T15:37:08Z"
+    }
+  },
+  {
+    "hash": "862fe8204f64c30513d35949367f5c122f936f2d2203b9b148f8048572115e22",
+    "item": {
+      "title": "I, Sharpie",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45599864\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.commonplace.org/p/chris-griswold-i-sharpie"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T23:57:14Z"
+    }
+  },
+  {
+    "hash": "849668d6016b875683a872e69424a97f8907766889098166b53f63ac963ee574",
+    "item": {
+      "title": "Criticisms of “The Body Keeps the Score”",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45673479\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T18:49:04Z"
+    }
+  },
+  {
+    "hash": "a6ec5389a37341ebfe8d448cc63db303073d337bbd47af2763f23661ad52d62a",
+    "item": {
+      "title": "Enchanting Imposters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45665617\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://daily.jstor.org/enchanting-imposters/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T06:41:09Z"
+    }
+  },
+  {
+    "hash": "59a203e11cf0ed941d09d007141a2393d1747402a4b6c2201d1225c75708be64",
+    "item": {
+      "title": "Rethinking CQRS: An Interview on OpenCQRS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45674923\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T20:46:06Z"
+    }
+  },
+  {
+    "hash": "3eea4c161a7b09830dc8aa86fbe07ff155622cc3d2b50a1f84d7b7a27f46bafb",
+    "item": {
+      "title": "Vertiginous Accounts: Travels in the Air (1871 edition)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45665622\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://publicdomainreview.org/collection/travels-in-the-air/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T06:41:42Z"
+    }
+  },
+  {
+    "hash": "ae1f1a2108043fe50a489509857f60efa29a3122f2c451ac5b65800f746d4a0f",
+    "item": {
+      "title": "Perplexity AI Predicts the Price of BNB Coin, Ripple, Solana by the End of 2025",
+      "description": "\u003cp\u003ePerplexity AI predicts renewed strength for XRP, Cardano, and BNB as crypto markets stabilize after tariff-driven volatility. Analysts have viewed the recent correction as a healthy reset ahead of possible Fed easing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-bnb-coin-ripple-solana-by-the-end-of-2025/\"\u003ePerplexity AI Predicts the Price of BNB Coin, Ripple, Solana by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-bnb-coin-ripple-solana-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "BNB",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/22155626/Perplexity-AI-Predicts-the-Price-2.jpg"
+      },
+      "published": "2025-10-22T22:35:00Z"
+    }
+  },
+  {
+    "hash": "6ad82bcf5e42034fe5a86c0767c17422ba010846e6d222573fdfe175e3bcf47c",
+    "item": {
+      "title": "Best Crypto to Buy Now, October 22 – XRP, Solana, Tron",
+      "description": "\u003cp\u003eBest crypto prospects have been reassessed after the recent dip. Bitcoin has reached $126,080 before a tariff-driven slide, while analysts have evaluated XRP’s cross-border payments role, Solana’s ETF watch, TRON’s resilience, and presale HYPER ahead of the Federal Reserve’s next decision.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-october-22-xrp-solana-tron/\"\u003eBest Crypto to Buy Now, October 22 – XRP, Solana, Tron\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-october-22-xrp-solana-tron/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Solana",
+        "Tron",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/22135933/Best-Crypto-To-Buy-Now-1-2.jpg"
+      },
+      "published": "2025-10-22T22:30:00Z"
+    }
+  },
+  {
+    "hash": "a99a2e25ec62f0ab39911ee28dea045b2cfbd500838c713170b9317f80443d15",
+    "item": {
+      "title": "Kadena Shuts Down – How a 77% Crash and Cash Burn Ended One of Crypto’s Most Ambitious Projects",
+      "description": "\u003cp\u003eKadena has announced a shutdown after running out of funds, though the proof-of-work chain has kept operating. KDA has fallen 77% in a month and over 99% from its 2021 high as exchanges have begun delisting. The team has planned a new binary and a community handover.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/kadena-shuts-down-how-a-65-crash-and-cash-burn-ended-one-of-cryptos-most-ambitious-projects/\"\u003eKadena Shuts Down – How a 77% Crash and Cash Burn Ended One of Crypto’s Most Ambitious Projects\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/kadena-shuts-down-how-a-65-crash-and-cash-burn-ended-one-of-cryptos-most-ambitious-projects/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto price crash",
+        "Layer 1"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/22213126/1761168685-0_0-23_optimized.jpg"
+      },
+      "published": "2025-10-22T21:49:34Z"
+    }
+  },
+  {
+    "hash": "e5eba64d0a9e4fc5893e5e3dad5b691b1df79c523f12645e4e9220b913d33748",
+    "item": {
+      "title": "How Crypto Exchanges Use AI to Power Next-Gen Trading Tools – Can Traders Really Trust Them?",
+      "description": "\u003cp\u003eAI in crypto has been implemented across leading exchanges. Bitget has introduced a chat agent for execution and insights, Kraken has announced Capitalise.ai integration for no-code automation, and Binance has provided adaptive UI, hourly token reports, and sentiment-driven signals for traders.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/how-crypto-exchanges-use-ai-to-power-next-gen-trading-tools/\"\u003eHow Crypto Exchanges Use AI to Power Next-Gen Trading Tools – Can Traders Really Trust Them?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/how-crypto-exchanges-use-ai-to-power-next-gen-trading-tools/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Technology News",
+        "Ai Crypto",
+        "Binance",
+        "Crypto exchanges"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/22204211/1761165730-generated-image-october-22-2025-2_39pm_optimized-1.png"
+      },
+      "published": "2025-10-22T21:16:39Z"
+    }
+  }
+]
