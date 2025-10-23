@@ -1549,5 +1549,615 @@
       },
       "published": "2025-10-23T06:43:41Z"
     }
+  },
+  {
+    "hash": "84decbad102421d8ecb1f9e2b6d763cfed33bde48779f0fd6f75f4236accb0e0",
+    "item": {
+      "title": "We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened",
+      "description": "From scanning emails to building fansites, Atlas can ably automate some web-based tasks.",
+      "links": [
+        "https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/"
+      ],
+      "categories": [
+        "AI",
+        "Features",
+        "agent mode",
+        "ATLAS",
+        "automation",
+        "ChatGPT",
+        "openai",
+        "web browser"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2022302070-1152x648.jpg"
+      },
+      "published": "2025-10-23T11:00:08Z"
+    }
+  },
+  {
+    "hash": "2668be62e3552c9884ec26f130bf6a7908574edcc7a2ffdfcd0173d4fa3c4cb4",
+    "item": {
+      "title": "PyTorch Monarch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680237\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pytorch.org/blog/introducing-pytorch-monarch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T10:15:12Z"
+    }
+  },
+  {
+    "hash": "d6107f45f010b85c0c29fdeedfe08129bac197853db40f0240e9bdf0f7e0da66",
+    "item": {
+      "title": "Nango (YC W23) is hiring Staff Back end Engs (remote)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680847\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nango.dev/careers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T12:00:11Z"
+    }
+  },
+  {
+    "hash": "2f3dcfa958e7b9e286d9c22bce7c23db9150231031a69d1055d74c3c20a2fb2a",
+    "item": {
+      "title": "The Game Theory of How Algorithms Can Drive Up Prices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680695\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T11:38:49Z"
+    }
+  },
+  {
+    "hash": "0d8a05d6b7d8bc32f8e3ebdeef76e90caf87e73a2e7b736480de1abe08da93f9",
+    "item": {
+      "title": "Egg prices vs. Consumer Price Index since 1980",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680390\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fred.stlouisfed.org/graph/?g=1Nm5b"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T10:49:02Z"
+    }
+  },
+  {
+    "hash": "203a28f1d2ba2316803f1139d9fc280ca4898575c57c8f49eb01babd817babf2",
+    "item": {
+      "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680547\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T11:15:44Z"
+    }
+  },
+  {
+    "hash": "e116dc46cf622d6dc773a07f0fae3b4f9b950ae16f1beaf790b9f4512986e9b0",
+    "item": {
+      "title": "Power-over-Skin: Full-Body Wearables Powered by Intra-Body RF Energy (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639338\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dl.acm.org/doi/10.1145/3654777.3676394"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-20T00:56:54Z"
+    }
+  },
+  {
+    "hash": "d17509b83f0eecfdb535cd15dd48ccdbfb6a1383e4caf151f72d5f2544c6776c",
+    "item": {
+      "title": "A Distributed Emulation Environment for In-Memory Computing Systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566088\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.arxiv.org/pdf/2510.08257"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-13T08:27:15Z"
+    }
+  },
+  {
+    "hash": "948ddf6a97c0467a8ab6fd027adc1b9fe5865302ca3fe5949170f5569dea5877",
+    "item": {
+      "title": "ESWIN Launching EBC7702 Mini-DTX RISC-V Board With Dual-Die EIC7702X SoC",
+      "description": "For those looking for a new RISC-V desktop option, ESWIN is launching a EBC7702 mini-DTX board powered by the EIC7702X dual-die SoC. The EBC7702 Mini-DTX is aiming for developers who want RISC-V under their desk for working on AI and other development tasks...",
+      "links": [
+        "https://www.phoronix.com/news/ESWIN-EBC7702-Mini-DTX-RISC-V"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T10:25:05Z"
+    }
+  },
+  {
+    "hash": "be7e66d1c35c39093a5ced303c08cd02d86e8deb7da786cde0cf38c5457b7cdb",
+    "item": {
+      "title": "Linux Looks To Orphan Its ISDN Subsystem",
+      "description": "Integrated Services Digital Network (ISDN) usage is long obsolete even where it had enjoyed some successes in the likes of Germany and Norway. With no activity in years to the ISDN and mISDN subsystem code for the Linux kernel, a patch was sent out today for orphaning the code...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-2025-Orphan-ISDN-mISDN"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T10:09:06Z"
+    }
+  },
+  {
+    "hash": "fbd68dedaf6e54d9c955f131ecfe9f31a1a05b9a2553c1a71fa3794b30f52d99",
+    "item": {
+      "title": "Qualcomm Plumbing \"SSR\" Support To Deal With Crashes On AI Accelerators",
+      "description": "Crashes on NPUs and AI accelerators are unfortunately a thing and yet another obstacle to worry about it with modern computing. Qualcomm developers have sent out patches for Sub-System Restart \"SSR\" functionality for their Qualcomm AI Accelerator (QAIC) driver for Linux to handle restarts when workload crashes occur on their AI accelerator hardware...",
+      "links": [
+        "https://www.phoronix.com/news/Qualcomm-QAIC-SSR-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T09:55:07Z"
+    }
+  },
+  {
+    "hash": "35574901eb0d952ae64998c6233ce4859a342a878319b1d682deb67d42488c5d",
+    "item": {
+      "title": "Mesa 25.3-rc2 Release Led By Intel, AMD Radeon \u0026 NVK Driver Fixes",
+      "description": "The second weekly release candidate of Mesa 25.3 is now available for testing ahead of the official release in the coming weeks for this quarterly feature update to this set of open-source OpenGL, OpenCL, and Vulkan graphics drivers...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-25.3-rc2-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-23T09:46:58Z"
+    }
+  },
+  {
+    "hash": "8ff19a4204603af18fc9bd219b34b45734b03dfff12b3f9b3e10140eaca56dfc",
+    "item": {
+      "title": "Google Claims First Verifiable Quantum Advantage, What it Means for Bitcoin?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.28.21-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Google Claims First Verifiable Quantum Advantage, What it Means for Bitcoin?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.28.21-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.28.21-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.28.21-PM-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eGoogle researchers claimed to have achieved the first verifiable quantum advantage by mapping out a molecule\u0026#8217;s structure 13,000 times quicker than the most powerful supercomputers currently available. According to Google, the experiment used their Willow Quantum processor in conjunction with \u0026#8220;quantum echoes,\u0026#8221; a method that employs focused waves to image an object",
+      "links": [
+        "https://thenewscrypto.com/google-claims-first-verifiable-quantum-advantage-what-it-means-for-bitcoin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.28.21-PM.jpeg"
+      },
+      "published": "2025-10-23T08:27:43Z"
+    }
+  },
+  {
+    "hash": "ba740b8abea31384aa9e14b77dfb9dc81ff3b6ed7bae942fa6dbbef7592628a4",
+    "item": {
+      "title": "Decoding Ozak AI Price Predictions for 2025-2027: Potential Returns and Key Market Drivers",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-60.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-60.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-60-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-60-768x437.png 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eOzak AI, an AI-powered crypto project, is being hailed for its advanced technicalities. The ecosystem is grounded in some of the modern fundamentals, including, but not limited to, the fusion of AI tools, decentralized infrastructure, and tokenized growth. Simultaneously, stealing the spotlight is the utility token of Ozak AI, which",
+      "links": [
+        "https://thenewscrypto.com/decoding-ozak-ai-price-predictions-for-2025-2027-potential-returns-and-key-market-drivers/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-60.png"
+      },
+      "published": "2025-10-23T08:08:00Z"
+    }
+  },
+  {
+    "hash": "c58fd2d9e013fa5392f601968e804bec62d47ec39ffbe1ad88936da6ef75adca",
+    "item": {
+      "title": "Jupiter Partners with Kalshi to Launch Solana-Based Predictions Market Product",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.07.04-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Jupiter Partners with Kalshi to Launch Solana-Based Prediction Market\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.07.04-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.07.04-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.07.04-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eJupiter, a decentralized exchange aggregator based on Solana, is working with Kalshi to develop a new native predictions market product, and it aims to launch it before the year ends. On Wednesday, Jupiter said that its Jupiter Prediction Market beta version has just gone live. Users will be able to bet\u0026#160;on",
+      "links": [
+        "https://thenewscrypto.com/jupiter-partners-with-kalshi-to-launch-solana-based-prediction-market/"
+      ],
+      "categories": [
+        "Exchange News",
+        "exchange",
+        "Jupiter"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-1.07.04-PM.jpeg"
+      },
+      "published": "2025-10-23T07:39:32Z"
+    }
+  },
+  {
+    "hash": "de4fb6bc93a1b141a294c6c8c2897e54defb4ef8bb7301757756a08dcb47facf",
+    "item": {
+      "title": "Hyperliquid Strategies Eyes Raising $1B to Boost HYPE Token Treasury",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-12.51.50-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hyperliquid Strategies Eyes Raising $1B to Boost HYPE Token Treasury\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-12.51.50-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-12.51.50-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-12.51.50-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn an S-1 registration statement submitted to the U.S. Securities and Exchange Commission (SEC), the newly formed digital asset treasury firm Hyperliquid Strategies has announced its intention to raise $1 billion for several objectives, one of which is the accumulation of Hyperliquid\u0026#8217;s native token HYPE. Rorschach I LLC, a special purpose acquisition",
+      "links": [
+        "https://thenewscrypto.com/hyperliquid-strategies-eyes-raising-1b-to-boost-hype-token-treasury/"
+      ],
+      "categories": [
+        "Market News",
+        "Blockchain",
+        "Hyperliquid"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Nayazunissa"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-12.51.50-PM.jpeg"
+      },
+      "published": "2025-10-23T07:26:42Z"
+    }
+  },
+  {
+    "hash": "ab33d187f5c88ec2e9fa03102554baa539737d0ebe8d746db330d482e9ddee2e",
+    "item": {
+      "title": "From Small Investor to Millionaire: How Ozak AI’s Explosive Growth Could Change the Lives of Young Investors",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"430\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-59.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-59.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-59-300x172.png 300w\" sizes=\"auto, (max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eIn the cryptocurrency world, when you invest and how you plan matters a lot. One project that’s getting a lot of attention from young investors is Ozak AI, which is currently very cheap at just $0.012. Unlike expensive options like Bitcoin, Ethereum, and Solana, Ozak AI gives small investors a",
+      "links": [
+        "https://thenewscrypto.com/from-small-investor-to-millionaire-how-ozak-ais-explosive-growth-could-change-the-lives-of-young-investors/"
+      ],
+      "categories": [
+        "Press Release",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-59.png"
+      },
+      "published": "2025-10-23T07:04:01Z"
+    }
+  },
+  {
+    "hash": "e8ea011fa83a231d4395f0b49eec1bb4fe0948b0a3a028b9f8362cd5ef176e5b",
+    "item": {
+      "title": "MEXC Q3 2025 Report Highlights Market Leadership Across New Listings, Security, and Ecosystem Growth",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"456\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-58.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-58.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-58-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-58-768x449.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eGlobal cryptocurrency exchange MEXC has published its Q3 2025 Ecosystem \u0026#38; Growth Report, highlighting sustained expansion in listings, user activity, product innovation, security, and ecosystem partnerships. Despite heightened global volatility and tightening liquidity conditions, MEXC recorded strong gains across every key metric, reinforcing its position as one of the world’s",
+      "links": [
+        "https://thenewscrypto.com/mexc-q3-2025-report-highlights-market-leadership-across-new-listings-security-and-ecosystem-growth/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-58.png"
+      },
+      "published": "2025-10-23T07:00:00Z"
+    }
+  },
+  {
+    "hash": "2e9862c4fd68a20269ba36c09cf3e3b69e5b8f05b07cc868d01db0635e65c789",
+    "item": {
+      "title": "PEPE Price Alert: Could the Death Cross Push It Toward $0.0000060?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/PEPE-Price-Alert-Could-the-Death-Cross-Push-It-Toward-0.0000060.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"PEPE Price Alert: Could the Death Cross Push It Toward $0.0000060?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/PEPE-Price-Alert-Could-the-Death-Cross-Push-It-Toward-0.0000060.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/PEPE-Price-Alert-Could-the-Death-Cross-Push-It-Toward-0.0000060-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/PEPE-Price-Alert-Could-the-Death-Cross-Push-It-Toward-0.0000060-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAfter a series of declines, the crypto market is attempting to bounce back, but is facing rejection with mixed signals lingering in the market. Meanwhile, the meme coin’s market cap is currently holding at around $60.9 billion, after a 1.6% loss. Among them, PEPE, the frog-themed meme token, has registered",
+      "links": [
+        "https://thenewscrypto.com/pepe-price-alert-could-the-death-cross-push-it-toward-0-0000060/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "Meme Coin",
+        "PEPE",
+        "PEPE Price"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/PEPE-Price-Alert-Could-the-Death-Cross-Push-It-Toward-0.0000060.jpg"
+      },
+      "published": "2025-10-23T06:46:26Z"
+    }
+  },
+  {
+    "hash": "a97eda77fd6fafdace49abd267833d24eac812ee0d335e0d2f2b0baef8a64b53",
+    "item": {
+      "title": "Argentum AI Collaborates with MolKet to Advance Quantum Molecular Simulations and Drug Discovery",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Argentum AI Collaborates with MolKet to Advance Quantum Molecular Simulations and Drug Discovery\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA strategic alliance between MolKet, a scientific computing firm that specializes in quantum molecular simulations, and Argentum AI (AAI), a prominent decentralized compute marketplace offering high-security cross-border compute, was announced today. With this partnership, AAI\u0026#8217;s platform capabilities are now significantly extended into the scientific computing and pharmaceutical industries. Through this collaboration,",
+      "links": [
+        "https://thenewscrypto.com/argentum-ai-collaborates-with-molket-to-advance-quantum-molecular-simulations-and-drug-discovery/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-06-25-at-1.56.03-AM-1.jpeg"
+      },
+      "published": "2025-10-23T06:10:56Z"
+    }
+  },
+  {
+    "hash": "1b1555c1dc25d72394c076425af646ae3bf61dd171ed5c07559628b84560d830",
+    "item": {
+      "title": "Bybit Reports Record-Breaking Volume Surge for Mantle (MNT) After Roadmap Launch",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/03/CEO-of-BYBIT-Executive-Summary-on-Hacked-Funds.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bybit Reports Record-Breaking Volume Surge for Mantle (MNT) After Roadmap Launch\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/03/CEO-of-BYBIT-Executive-Summary-on-Hacked-Funds.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/03/CEO-of-BYBIT-Executive-Summary-on-Hacked-Funds-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/03/CEO-of-BYBIT-Executive-Summary-on-Hacked-Funds-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAfter the complete implementation of the Bybit x Mantle Roadmap, Bybit, the second-largest cryptocurrency exchange in the world based on trading volume, today revealed record-breaking performance for Mantle (MNT). With outstanding user engagement and consistent investor trust, MNT became one of Bybit\u0026#8217;s fastest-growing and most frequently traded assets between July",
+      "links": [
+        "https://thenewscrypto.com/bybit-reports-record-breaking-volume-surge-for-mantle-mnt-after-roadmap-launch/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Bybit",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/03/CEO-of-BYBIT-Executive-Summary-on-Hacked-Funds.jpg"
+      },
+      "published": "2025-10-22T19:39:01Z"
+    }
+  },
+  {
+    "hash": "2bd30b81f10f86779135c70efe63ca655620c2a87d6cdeb569e8772af4a288aa",
+    "item": {
+      "title": "Cardano Holds Bullish Pattern Despite Price Dip, Analyst Targets $2.96",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Expert_Says_Cardano_Maintains_Clear_Uptrend_Signs_Predicts_333.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Expert_Says_Cardano_Maintains_Clear_Uptrend_Signs_Predicts_333.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Expert_Says_Cardano_Maintains_Clear_Uptrend_Signs_Predicts_333-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Expert_Says_Cardano_Maintains_Clear_Uptrend_Signs_Predicts_333-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCardano continues to show signs of an uptrend despite recent price weakness, according to technical analysis from market observer Javon Marks. The analyst points to a pattern of higher highs and higher lows that remains intact after the token\u0026#8217;s breakout. ADA currently changes hands at $0.635 after declining nearly 2%",
+      "links": [
+        "https://thenewscrypto.com/cardano-holds-bullish-pattern-despite-price-dip-analyst-targets-2-96/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Cardano"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Expert_Says_Cardano_Maintains_Clear_Uptrend_Signs_Predicts_333.jpg"
+      },
+      "published": "2025-10-22T19:15:00Z"
+    }
+  },
+  {
+    "hash": "11b49c4f7296f2c0602bb36916311160a193ed4327420368e85acfec8da39e24",
+    "item": {
+      "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+      "description": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
+      "links": [
+        "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQXR3hJJeyu725GU64q2P5FS-Dd_Q0tHPYl3PQ1dCsQSc0mth8d5AZI7OMRrluhhS6WXIWRkVhGwtuA4KJoEv16v7m2v1SqGmByyRUMI_zoB2H0VNri0x4TjuklCtV1K21ZdIPmbr2a6ZwMQNva6rCii54DI2vhn4kRYgtbrKq22MccEK-eeyMy2gvNw/s1600/git.jpg"
+      },
+      "published": "2025-10-23T11:00:00Z"
+    }
+  },
+  {
+    "hash": "f36127e3603d8d941cd6f9c69a5a1a638a74e53b952c744c3c4b31d0db972972",
+    "item": {
+      "title": "Why Does the FCC Care About Computers?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"774\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2025/10/rfi.png?w=774\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/rfi.png 800w, https://hackaday.com/wp-content/uploads/2025/10/rfi.png?resize=250,202 250w, https://hackaday.com/wp-content/uploads/2025/10/rfi.png?resize=400,323 400w, https://hackaday.com/wp-content/uploads/2025/10/rfi.png?resize=774,625 774w\" sizes=\"(max-width: 774px) 100vw, 774px\" data-attachment-id=\"871323\" data-permalink=\"https://hackaday.com/2025/10/23/why-does-the-fcc-care-about-computers/rfi-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/rfi.png\" data-orig-size=\"800,646\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"rfi\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/rfi.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/rfi.png?w=774\" /\u003e\u003c/div\u003eUnless you are over a certain age, you probably take it for granted that electronic gadgets you buy have some FCC marking on them. But it wasn\u0026#8217;t always true. [Ernie] \u003ca href=\"https://hackaday.com/2025/10/23/why-does-the-fcc-care-about-computers/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/23/why-does-the-fcc-care-about-computers/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "fcc",
+        "RFI"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/rfi.png"
+      },
+      "published": "2025-10-23T11:00:00Z"
+    }
+  },
+  {
+    "hash": "8e893389b388a67bd128da073b4fb693540e455d0d8e561a4f5b59a07e65c7cb",
+    "item": {
+      "title": "Making a Clock With a Retooled Unihiker K10",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png 1238w, https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png?resize=400,226 400w, https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png?resize=800,451 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"868735\" data-permalink=\"https://hackaday.com/2025/10/23/making-a-clock-with-a-retooled-unihiker-k10/making-a-retro-analog-ntp-clock-with-unihiker-k10-arduino-ide-tutorial-7-23-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png\" data-orig-size=\"1238,698\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Making a Retro Analog NTP Clock with Unihiker K10 Arduino IDE Tutorial 7-23 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png?w=800\" /\u003e\u003c/div\u003eThe Unihiker K10 is intended to be a small single-board solution for light AI and machine learning tasks. However, you don\u0026#8217;t have to use it in that way if you don\u0026#8217;t \u003ca href=\"https://hackaday.com/2025/10/23/making-a-clock-with-a-retooled-unihiker-k10/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/23/making-a-clock-with-a-retooled-unihiker-k10/"
+      ],
+      "categories": [
+        "clock hacks",
+        "Microcontrollers",
+        "clock",
+        "network time",
+        "ntp",
+        "unihiker k10"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Making-a-Retro-Analog-NTP-Clock-with-Unihiker-K10-Arduino-IDE-Tutorial-7-23-screenshot-e1760921220344.png"
+      },
+      "published": "2025-10-23T08:00:46Z"
+    }
+  },
+  {
+    "hash": "d1e08c94572b6f411cbe8e5aba6c57c04347fa20c8128457fe622b14c009de60",
+    "item": {
+      "title": "Ledger Unveils ‘Ledger Signers’ with New Nano Gen5, Announces Enterprise Multisig",
+      "description": "\u003cp\u003eMajor crypto wallet maker Ledger has announced that its wallets are now 'signers', with the first of its kind, Ledger Nano Gen5, ready to ship. The company has highlighted several features designed to safeguard finances and digital identities, it said.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ledger-unveils-ledger-signers-with-new-nano-gen5-announces-enterprise-multisig/\"\u003eLedger Unveils ‘Ledger Signers’ with New Nano Gen5, Announces Enterprise Multisig\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ledger-unveils-ledger-signers-with-new-nano-gen5-announces-enterprise-multisig/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Ledger",
+        "Wallet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23114444/1761219883-ledger.jpg"
+      },
+      "published": "2025-10-23T12:07:29Z"
+    }
+  },
+  {
+    "hash": "61b297684927f795ba5425db9dd1f09ed41cea173576c73e80864264da471fd1",
+    "item": {
+      "title": "Ethereum Price Prediction: As ETH ETFs Accumulate, Is The ETH Price About to Pump This October?",
+      "description": "\u003cp\u003eInstitutions are still betting on ETH, loading up on its ETFs with each decline– Ethereum price predictions could still see an “uptober” pump.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-as-eth-etfs-accumulate-is-the-eth-price-about-to-pump-this-october/\"\u003eEthereum Price Prediction: As ETH ETFs Accumulate, Is The ETH Price About to Pump This October?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-as-eth-etfs-accumulate-is-the-eth-price-about-to-pump-this-october/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ETF",
+        "Ethereum",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23113915/1761219554-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-10-23T11:45:46Z"
+    }
+  },
+  {
+    "hash": "ba602cc7600595f8ed4b9344a2be641539b4164bec6f41c1822a74de94542515",
+    "item": {
+      "title": "EU Approves New Sanctions on Russia Targeting LNG, Banks, and Crypto Exchanges",
+      "description": "\u003cp\u003eThe EU approved a new sanctions package banning Russian LNG imports and tightening banking and crypto restrictions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eu-approves-new-sanctions-on-russia-targeting-lng-banks-and-crypto-exchanges/\"\u003eEU Approves New Sanctions on Russia Targeting LNG, Banks, and Crypto Exchanges\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eu-approves-new-sanctions-on-russia-targeting-lng-banks-and-crypto-exchanges/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "EU",
+        "Europe",
+        "Russia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23094732/1761212851-image-1761212740056_optimized.jpg"
+      },
+      "published": "2025-10-23T10:40:00Z"
+    }
+  },
+  {
+    "hash": "9a50954062427725fcbf80f4d6ce06521f1ad5475dfe74f08acc68ea98ff74c8",
+    "item": {
+      "title": "Why Is Crypto Up Today? – October 23, 2025",
+      "description": "\u003cp\u003eThe crypto market is up today. BTC is up to $109,789, and ETH rose to $3,875. “Historically, this structure often precedes the onset of a mid-term bearish phase, as weaker hands begin to capitulate.”\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-up-today-october-23-2025/\"\u003eWhy Is Crypto Up Today? – October 23, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-up-today-october-23-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23101739/1761214658-why-is-crypto-up-today.jpg"
+      },
+      "published": "2025-10-23T10:25:01Z"
+    }
   }
 ]
