@@ -506,5 +506,96 @@
       },
       "published": "2025-10-23T22:00:44Z"
     }
+  },
+  {
+    "hash": "2bd73370225e8d4a04506c460c37d0ee7a80a9577d381a15e6ce311d55764ed2",
+    "item": {
+      "title": "Intel Begins Adding Nova Lake Xe3P To Linux OpenGL/Vulkan Drivers - Some Will Lack Ray-Tracing",
+      "description": "Intel recently began sending out Xe3P kernel graphics driver patches for Nova Lake that will begin landing in the upcoming Linux 6.19 kernel cycle. Now on the user-space side, merged today for Mesa 26.0 were the first enablement patches for Xe3P Nova Lake for their open-source OpenGL and Vulkan drivers on Linux...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Nova-Lake-Mesa-Xe3P"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-24T00:36:00Z"
+    }
+  },
+  {
+    "hash": "793ba2e65e57ea0b995536becf176b71cf227ee2b1961c669a5735e37801ab4f",
+    "item": {
+      "title": "Computer Science Courses That Don't Exist, but Should (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690045\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://prog21.dadgum.com/210.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T02:22:07Z"
+    }
+  },
+  {
+    "hash": "67116eb5fce2cc133994190fbc44a6b2546d2d96619e2511526200a12eff53e5",
+    "item": {
+      "title": "Deepstaria Enigmatica",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545860\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Deepstaria_enigmatica"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-11T01:49:07Z"
+    }
+  },
+  {
+    "hash": "05e2a5936892788e1a24fe8377112d29541972a7fd3063419605c8a5287093bc",
+    "item": {
+      "title": "Benchmarking Postgres 17 vs. 18",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45581305\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://planetscale.com/blog/benchmarking-postgres-17-vs-18"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-14T15:35:44Z"
+    }
+  },
+  {
+    "hash": "cf27a27fdc4d99a2a6535e01917c4762cafefdf32a42b51f84ed6ea91f7970ce",
+    "item": {
+      "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45689241\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T00:24:11Z"
+    }
+  },
+  {
+    "hash": "88149a4a202c1250ed431abf5926992a6061657d799d5448df6d48d6bd61a047",
+    "item": {
+      "title": "Sen. Warren Slams Trump’s CZ Pardon Decision, While Supporters Rally Behind Binance Founder",
+      "description": "\u003cp\u003eSen. Elizabeth Warren condemned President Trump’s pardon of Binance founder Changpeng Zhao, calling it a clear case of political corruption.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/elizabeth-warren-slamps-president-trump-decision-to-pardon-changpeng-zhao/\"\u003eSen. Warren Slams Trump’s CZ Pardon Decision, While Supporters Rally Behind Binance Founder\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/elizabeth-warren-slamps-president-trump-decision-to-pardon-changpeng-zhao/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "CZ",
+        "Elizabeth Warren",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/24020806/1761271685-stock-image_optimized-7.jpg"
+      },
+      "published": "2025-10-24T02:16:19Z"
+    }
   }
 ]
