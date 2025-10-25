@@ -1,0 +1,475 @@
+[
+  {
+    "hash": "b0bd79d75d47fe6e59238f7cbc3f069fd58107e654266446ab550bcee7dfaf1d",
+    "item": {
+      "title": "Rust Coreutils 0.3 Released With Some Major Speed-Ups, Better GNU Compatibility",
+      "description": "The uutils project announced tonight the release of Rust Coreutils 0.3, another step forward for this Rust version alternative to GNU Coreutils that has been attracting a lot of interest lately due to Ubuntu 25.10 now using it by default...",
+      "links": [
+        "https://www.phoronix.com/news/Rust-Coreutils-0.3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-25T00:21:09Z"
+    }
+  },
+  {
+    "hash": "0f6d9213866ee70785f100dd43f237e8a6c2d17b13e2f58a3f488896b89079a6",
+    "item": {
+      "title": "Making a Cardboard Airplane Wing",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png 1920w, https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"871877\" data-permalink=\"https://hackaday.com/2025/10/24/making-a-cardboard-airplane-wing/carboardairplanewingfeatured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"CarboardAirplaneWingFeatured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png?w=800\" /\u003e\u003c/div\u003eIdeally, an aircraft would be made of something reasonably strong, light, and weather resistant. Cardboard, is none of those things. But that did not stop [PeterSripol] from building an ultralight \u003ca href=\"https://hackaday.com/2025/10/24/making-a-cardboard-airplane-wing/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/making-a-cardboard-airplane-wing/"
+      ],
+      "categories": [
+        "Transportation Hacks",
+        "aviation",
+        "cardboard",
+        "peter sripol",
+        "ultralight"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Fenix Guthrie"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/CarboardAirplaneWingFeatured.png"
+      },
+      "published": "2025-10-24T23:00:22Z"
+    }
+  },
+  {
+    "hash": "6be6b01a5a0635d2a36737b1f4bd9b656d3041594e709cb6330dbbc5e58d7d5c",
+    "item": {
+      "title": "Tiny UPS Keeps WiFi Online",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg 1024w, https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg?resize=800,600 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871668\" data-permalink=\"https://hackaday.com/2025/10/24/tiny-ups-keeps-wifi-online/wifi-ups-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg\" data-orig-size=\"1024,768\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"wifi-ups-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg?w=800\" /\u003e\u003c/div\u003eFor any mission-critical computer system, it\u0026#8217;s a good idea to think about how the system will handle power outages. At the very least it\u0026#8217;s a good idea to give the \u003ca href=\"https://hackaday.com/2025/10/24/tiny-ups-keeps-wifi-online/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/tiny-ups-keeps-wifi-online/"
+      ],
+      "categories": [
+        "Battery Hacks",
+        "diy",
+        "internet",
+        "lithium",
+        "modem",
+        "power outage",
+        "router",
+        "ups",
+        "wi-fi"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/wifi-ups-main.jpg"
+      },
+      "published": "2025-10-24T20:00:10Z"
+    }
+  },
+  {
+    "hash": "dd17488c7bbe7d257a07b08e6af9ad5d73c84a5d71311a7e66ceba7fbd19ba9f",
+    "item": {
+      "title": "The Isetta TTL Computer Makes Some Noise",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871632\" data-permalink=\"https://hackaday.com/2025/10/24/the-isetta-ttl-computer-makes-some-noise/isetta-ttl-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"isetta-ttl-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg?w=800\" /\u003e\u003c/div\u003eOur Hackaday colleague [Bil Herd] is known for being the mind behind the Commodore 128, a machine which famously had both a 6502 and a Z80 processor on board. The \u003ca href=\"https://hackaday.com/2025/10/24/the-isetta-ttl-computer-makes-some-noise/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/the-isetta-ttl-computer-makes-some-noise/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "homebrew computer",
+        "isetta",
+        "SymbOS",
+        "TTL computer"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/isetta-ttl-featured.jpg"
+      },
+      "published": "2025-10-24T18:30:08Z"
+    }
+  },
+  {
+    "hash": "5c97d55c74261d7f86689a9f43542ffa849e7ddee0e783c676889043563a8cdc",
+    "item": {
+      "title": "Hackaday Podcast Episode 343: Double Component Abuse, a Tinkercad Twofer, and a Pair of Rants",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg 3000w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"202654\" data-permalink=\"https://hackaday.com/2016/05/02/blue-ribbon-microphone/microphone/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Microphone\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" /\u003e\u003c/div\u003eThis week, Hackaday\u0026#8217;s Elliot Williams and Kristina Panos met up across the universe to bring you the latest news, mystery sound, and of course, a big bunch of hacks from \u003ca href=\"https://hackaday.com/2025/10/24/hackaday-podcast-episode-343-double-component-abuse-a-tinkercad-twofer-and-a-pair-of-rants/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/hackaday-podcast-episode-343-double-component-abuse-a-tinkercad-twofer-and-a-pair-of-rants/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Podcasts",
+        "Hackaday Podcast"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Kristina Panos"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg"
+      },
+      "published": "2025-10-24T16:00:30Z"
+    }
+  },
+  {
+    "hash": "3caa8a2bd1aa0b2b95d2ef3c833e0585cf619b285b85caf463e334b747ce5fca",
+    "item": {
+      "title": "Making WiFi Sound Like Dial-Up Internet",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871221\" data-permalink=\"https://hackaday.com/2025/10/24/making-wifi-sound-like-dial-up-internet/making-wi-fi-sound-like-dial-up-internet-2-56-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Making Wi-Fi Sound Like Dial-Up Internet 2-56 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png?w=800\" /\u003e\u003c/div\u003eDial-up modems had a distinctive sound when connecting, with the glittering, screeching song becoming a familiar melody to those jumping online in the early days of the Internet. Modern digital \u003ca href=\"https://hackaday.com/2025/10/24/making-wifi-sound-like-dial-up-internet/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/making-wifi-sound-like-dial-up-internet/"
+      ],
+      "categories": [
+        "classic hacks",
+        "internet hacks",
+        "dial-up",
+        "dialup",
+        "modem",
+        "wifi"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Making-Wi-Fi-Sound-Like-Dial-Up-Internet-2-56-screenshot.png"
+      },
+      "published": "2025-10-24T15:30:00Z"
+    }
+  },
+  {
+    "hash": "89f89265ee9b2ae5bbda9477494f76e74012f40542da3fcf8b17046a6ea61d69",
+    "item": {
+      "title": "This Week in Security: Court Orders, GlassWorm, TARmageddon, and It was DNS",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg 800w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=400,242 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"188080\" data-permalink=\"https://hackaday.com/2016/01/26/the-dark-arts-meet-the-lulzsec-hackers/darkarts/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg\" data-orig-size=\"800,484\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"DarkArts\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" /\u003e\u003c/div\u003eThis week, a US federal court has ruled that NSO Group is no longer allowed to use Pegasus spyware against users of WhatsApp. And for their trouble, NSO was also \u003ca href=\"https://hackaday.com/2025/10/24/this-week-in-security-court-orders-glassworm-tarmageddon-and-it-was-dns/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/this-week-in-security-court-orders-glassworm-tarmageddon-and-it-was-dns/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Security Hacks",
+        "CVSS",
+        "GlassWorm",
+        "It Was DNS",
+        "This Week in Security"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+      },
+      "published": "2025-10-24T14:00:22Z"
+    }
+  },
+  {
+    "hash": "37e87f4ea771bc7ffd55ae287101e5d6c5237a2c7cc429a625718a06d0254a78",
+    "item": {
+      "title": "Robot Phone Home…Or Else",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/10/vac.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/vac.png 800w, https://hackaday.com/wp-content/uploads/2025/10/vac.png?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/10/vac.png?resize=400,300 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871149\" data-permalink=\"https://hackaday.com/2025/10/24/robot-phone-home-or-else/vac-11/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/vac.png\" data-orig-size=\"800,600\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"vac\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/vac.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/vac.png?w=800\" /\u003e\u003c/div\u003eWe would have enjoyed [Harishankar\u0026#8217;s] tear down of a robot vacuum cleaner, even if it didn\u0026#8217;t have a savage twist at the end. Turns out, the company deliberately bricked his \u003ca href=\"https://hackaday.com/2025/10/24/robot-phone-home-or-else/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/24/robot-phone-home-or-else/"
+      ],
+      "categories": [
+        "Network Hacks",
+        "Reverse Engineering",
+        "Robots Hacks",
+        "robot vacuum",
+        "telemetry"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/vac.png"
+      },
+      "published": "2025-10-24T11:00:46Z"
+    }
+  },
+  {
+    "hash": "c7e9c05f986fb0827e829d4b4d6af4bb87cb9306e05230139e312e853cf57246",
+    "item": {
+      "title": "Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem",
+      "description": "In new research, AI models show a troubling tendency to agree with whatever the user says.",
+      "links": [
+        "https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/"
+      ],
+      "categories": [
+        "AI",
+        "AI sycophancy",
+        "facts",
+        "hallucination",
+        "made up",
+        "sycophancy"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2195752979-1152x648.jpg"
+      },
+      "published": "2025-10-24T22:26:30Z"
+    }
+  },
+  {
+    "hash": "256a15e4493d4589f595705fa171f31bd0476c3864e71d814fce189ffb07df04",
+    "item": {
+      "title": "A single point of failure triggered the Amazon outage affecting millions",
+      "description": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Tech",
+        "Amazon",
+        "AWS",
+        "EC2",
+        "race conditions"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg"
+      },
+      "published": "2025-10-24T21:53:20Z"
+    }
+  },
+  {
+    "hash": "b562f6a48462311beb17d2fc1306a2880e991ff9f8bdbff78342170dfb6c99b1",
+    "item": {
+      "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital",
+      "description": "The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.",
+      "links": [
+        "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/"
+      ],
+      "categories": [
+        "Health",
+        "case report",
+        "cortisol",
+        "herbal supplements",
+        "hormones",
+        "supplements"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg"
+      },
+      "published": "2025-10-24T21:29:30Z"
+    }
+  },
+  {
+    "hash": "de1cd775b459e0a266dba699c2bcac453cd6478d1787c0cf161eefa3218b97b1",
+    "item": {
+      "title": "Clinical trial of a technique that could give everyone the best antibodies",
+      "description": "If we ID the DNA for a great antibody, anyone can now make it.",
+      "links": [
+        "https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/"
+      ],
+      "categories": [
+        "Policy",
+        "Science",
+        "antibodies",
+        "Biology",
+        "DNA",
+        "electroporation",
+        "medicine",
+        "plasmid"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/abstractdna-1152x648.jpg"
+      },
+      "published": "2025-10-24T20:58:11Z"
+    }
+  },
+  {
+    "hash": "2b3dc903c35885ce6dce435b3a0b0698a49e63a98a5fcca628b72f4e53b0688d",
+    "item": {
+      "title": "Vibe Coding in the 90s",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45700266\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ssg.dev/vibe-coding-in-the-90s/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T23:53:27Z"
+    }
+  },
+  {
+    "hash": "071fa8fa88663f2902db55334ba27db5a3c4d916314d8b1ccfbe4a134e067b04",
+    "item": {
+      "title": "Harnessing America's Heat Pump Moment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45698554\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T20:05:07Z"
+    }
+  },
+  {
+    "hash": "6bfc2e65087d578cc63ca9e09ddc666e5ca7ceec42215d4968a4b483d3ef88e8",
+    "item": {
+      "title": "MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45698909\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T20:48:46Z"
+    }
+  },
+  {
+    "hash": "d08d64533a4ab0a2675d00254cbe0a12cfd8718dda755b685a945c2fb40cdfca",
+    "item": {
+      "title": "New OSM file format: 30% smaller than PBF, 5x faster to import",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45699725\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T22:23:50Z"
+    }
+  },
+  {
+    "hash": "6c74e6502003ccfe842e54060b34cfdec47d12c392b22354f5e91843e3fe224b",
+    "item": {
+      "title": "Many Factorials in Lambda Calculus",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45593532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://text.marvinborner.de/2025-10-08-12.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-15T14:51:08Z"
+    }
+  },
+  {
+    "hash": "8f8a7cbfad0e37ed447f1e29653de253eba56ba5c4a8a3b168eeb734a1923aa1",
+    "item": {
+      "title": "Notes on using LaTeX to generate formulae",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605020\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eli.thegreenplace.net/2025/notes-on-using-latex-to-generate-formulae/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-16T13:21:10Z"
+    }
+  },
+  {
+    "hash": "a156a9c770f694e5d7779200faa62f90e106a043e8a134ffa851fb35a13a2cc2",
+    "item": {
+      "title": "Trending Crypto to Buy Today, October 24 – XRP, ZEC, IP",
+      "description": "\u003cp\u003eEarly October’s (“Uptober”) buy signals in crypto markets proved fleeting. Within mere days, prices tumbled sharply following President Trump’s announcement of a 100% tariff on Chinese imports, sparking a broad shift toward risk aversion ahead of the Federal Reserve’s upcoming FOMC meeting. Still, many market observers view the pullback as a natural correction, a period [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trending-crypto-to-buy-today-october-24-xrp-zec-ip/\"\u003eTrending Crypto to Buy Today, October 24 – XRP, ZEC, IP\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trending-crypto-to-buy-today-october-24-xrp-zec-ip/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Ripple",
+        "Story"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/24135603/Trending-Crypto-To-Buy-Today.jpg"
+      },
+      "published": "2025-10-24T22:35:00Z"
+    }
+  },
+  {
+    "hash": "85140523cbd84e2370ccfab7e015050e4bbaef2ba4f2153538ee788ffd623686",
+    "item": {
+      "title": "Microsoft’s Copilot AI Predicts the Price of SOL, XRP, BNB by the End of October 2025",
+      "description": "\u003cp\u003eCopilot AI Predicts new highs for Solana, XRP, and BNB this quarter. Markets have absorbed a tariff shock, awaited the next FOMC signal, and tracked ETF prospects, while technicals have shown consolidations and breakouts across major tokens.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/microsofts-copilot-ai-predicts-the-price-of-sol-xrp-bnb-by-the-end-of-october-2025/\"\u003eMicrosoft’s Copilot AI Predicts the Price of SOL, XRP, BNB by the End of October 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/microsofts-copilot-ai-predicts-the-price-of-sol-xrp-bnb-by-the-end-of-october-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "BNB",
+        "SOL"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/24153626/Microsofts-Copilot-AI-Predicts-the-Price.jpg"
+      },
+      "published": "2025-10-24T22:30:00Z"
+    }
+  },
+  {
+    "hash": "c4854d44f44c6f8e9f81876d720cfcd50725dd1016dd287a062703638b2aa17f",
+    "item": {
+      "title": "SBF Polymarket Odds Shot Up After Trump Pardoned CZ – But Will The Momentum Last?",
+      "description": "\u003cp\u003eOn Polymarket, bettors tracking pardon outcomes have moved odds for SBF from 6% to 12.5% within a day before settling near 9.7%. The shifts have come as he has appealed his 2023 conviction and a November 3 New York court date has neared.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sbf-pardon-odds-shoot-up-on-polymarket-following-cz-pardon/\"\u003eSBF Polymarket Odds Shot Up After Trump Pardoned CZ – But Will The Momentum Last?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sbf-pardon-odds-shoot-up-on-polymarket-following-cz-pardon/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "CZ",
+        "FTX",
+        "SBF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/24210610/1761339970-julia_63915_the_white_house_overlaid_with_cryptocurrencies_8dc1ddd7-ee91-48b0-8ce8-bd38e1754eac-png_optimized.jpg"
+      },
+      "published": "2025-10-24T21:09:59Z"
+    }
+  }
+]
