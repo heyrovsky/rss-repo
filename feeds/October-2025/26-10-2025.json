@@ -159,5 +159,231 @@
       "source": "Hacker News",
       "published": "2025-10-23T00:30:35Z"
     }
+  },
+  {
+    "hash": "9ad46a097f3bed0fc18d00a31957a53a399012512d6ad8d0c7596658fdc89a55",
+    "item": {
+      "title": "A Simple $25 Robot Based on the ESP32",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A photo of the robot and the controller\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg 3089w, https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?resize=2048,1152 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"872039\" data-permalink=\"https://hackaday.com/2025/10/25/a-simple-25-robot-based-on-the-esp32/cheap-robot-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg\" data-orig-size=\"3089,1737\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"cheap-robot-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg?w=800\" /\u003e\u003c/div\u003e[Paul McCabe] wrote in to let us know about his $25 robot. This small wheeled robot is based on an ESP32 and made using cardboard and hot glue. You drive \u003ca href=\"https://hackaday.com/2025/10/25/a-simple-25-robot-based-on-the-esp32/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/25/a-simple-25-robot-based-on-the-esp32/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "bluetooth",
+        "cheap robot",
+        "ESP32"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/cheap-robot-banner.jpg"
+      },
+      "published": "2025-10-26T02:00:16Z"
+    }
+  },
+  {
+    "hash": "6ae0afa8612eec941042db8bc79ff5da47a82f4acc17b4bb1d3727c0cf3b3b32",
+    "item": {
+      "title": "What if Tinkercad was Self-Hosted?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"544\" src=\"https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png 800w, https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png?resize=250,170 250w, https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png?resize=400,272 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871932\" data-permalink=\"https://hackaday.com/2025/10/25/what-if-tinkercad-was-self-hosted/cad_a56a8b/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png\" data-orig-size=\"800,544\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"cad_a56a8b\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png?w=800\" /\u003e\u003c/div\u003eWhile we use a lot of CAD tools, many of us are fans of Tinkercad \u0026#8212; especially for working with kids or just doing something quick. But many people dislike \u003ca href=\"https://hackaday.com/2025/10/25/what-if-tinkercad-was-self-hosted/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/25/what-if-tinkercad-was-self-hosted/"
+      ],
+      "categories": [
+        "Software Hacks",
+        "cad",
+        "tinkercad"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/cad_a56a8b.png"
+      },
+      "published": "2025-10-25T23:00:20Z"
+    }
+  },
+  {
+    "hash": "66a33109cc155aabb82399032f47d40c60ad04a1789076f027d57023806596a3",
+    "item": {
+      "title": "Thermite Pottery Fires Itself",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A clay mug is placed on a fire brick. Portions of the mug are glowing orange hot, and the heat is spreading across the surface. Some portions of the mug have cooled, and the heat has not reached other parts.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png 1687w, https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871968\" data-permalink=\"https://hackaday.com/2025/10/25/thermite-pottery-fires-itself/self_firing_clay/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png\" data-orig-size=\"1687,949\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"self_firing_clay\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png?w=800\" /\u003e\u003c/div\u003eFinely powdered aluminium can make almost anything more pyrotechnically interesting, from fireworks to machine shop cleanups – even ceramics, as [Degree of Freedom] discovered. He was experimenting with mixing aluminium \u003ca href=\"https://hackaday.com/2025/10/25/thermite-pottery-fires-itself/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/25/thermite-pottery-fires-itself/"
+      ],
+      "categories": [
+        "Art",
+        "chemistry hacks",
+        "alumina",
+        "ceramic",
+        "pottery",
+        "Thermite"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/self_firing_clay.png"
+      },
+      "published": "2025-10-25T20:00:37Z"
+    }
+  },
+  {
+    "hash": "942b9cec6a5a4e653067d635539b131eaf5144293eadb19e673740358fdc6c72",
+    "item": {
+      "title": "Relay Computer Knows the Sequence",
+      "description": "\u003cdiv\u003e\u003cimg width=\"769\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2025/10/relay.png?w=769\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/relay.png 800w, https://hackaday.com/wp-content/uploads/2025/10/relay.png?resize=250,203 250w, https://hackaday.com/wp-content/uploads/2025/10/relay.png?resize=400,325 400w, https://hackaday.com/wp-content/uploads/2025/10/relay.png?resize=769,625 769w\" sizes=\"auto, (max-width: 769px) 100vw, 769px\" data-attachment-id=\"871189\" data-permalink=\"https://hackaday.com/2025/10/25/relay-computer-knows-the-sequence/relay-12/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/relay.png\" data-orig-size=\"800,650\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"relay\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/relay.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/relay.png?w=769\" /\u003e\u003c/div\u003eWhen we first saw [DiPDoT\u0026#8217;s] homebrew computer, we thought it was an Altair 8800. But, no. While it has a very familiar front panel, the working parts are all based \u003ca href=\"https://hackaday.com/2025/10/25/relay-computer-knows-the-sequence/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/25/relay-computer-knows-the-sequence/"
+      ],
+      "categories": [
+        "Retrocomputing"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/relay.png"
+      },
+      "published": "2025-10-25T17:00:14Z"
+    }
+  },
+  {
+    "hash": "40934a7e995e7bf5b237611b9f61eb4f8e81360f3658a6e5f64eebe0cf13ad8d",
+    "item": {
+      "title": "Get Ready for Supercon",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png 2160w, https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?resize=250,125 250w, https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?resize=400,200 400w, https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?resize=800,400 800w, https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?resize=1536,768 1536w, https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?resize=2048,1024 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"833647\" data-permalink=\"https://hackaday.com/2025/09/23/2025-hackaday-superconference-announcing-our-workshops-and-tickets/2025_supercon_header/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png\" data-orig-size=\"2160,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"2025_supercon_header\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png?w=800\" /\u003e\u003c/div\u003eIt’s just about all we can think about over here: the week leading up to the 2025 Superconference. From what we hear, it’s all-hands-on over in Pasadena right now, as \u003ca href=\"https://hackaday.com/2025/10/25/get-ready-for-supercon/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/25/get-ready-for-supercon/"
+      ],
+      "categories": [
+        "cons",
+        "Hackaday Columns",
+        "News",
+        "2025 Hackaday Superconference",
+        "newsletter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Elliot Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png"
+      },
+      "published": "2025-10-25T14:00:04Z"
+    }
+  },
+  {
+    "hash": "af4f2f69141c825ae6e90aeb6c5cc9e975fa9bb3a13503703b0dcbda96bab405",
+    "item": {
+      "title": "Identifying Fake Small-Signal Transistors",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"412\" src=\"https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg 1980w, https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?resize=250,129 250w, https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?resize=400,206 400w, https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?resize=800,412 800w, https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?resize=1536,791 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"871752\" data-permalink=\"https://hackaday.com/2025/10/25/identifying-fake-small-signal-transistors/fake_bc547c_hjf/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg\" data-orig-size=\"1980,1020\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"fake_bc547c_hjf\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg?w=800\" /\u003e\u003c/div\u003eIt\u0026#8217;s rather amazing how many electronic components you can buy right now are not quite the genuine parts that they are sold as. Outside of dedicated platforms like Mouser, Digikey \u003ca href=\"https://hackaday.com/2025/10/25/identifying-fake-small-signal-transistors/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/10/25/identifying-fake-small-signal-transistors/"
+      ],
+      "categories": [
+        "Parts",
+        "fake parts",
+        "transistors"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/fake_bc547c_hjf.jpg"
+      },
+      "published": "2025-10-25T11:00:28Z"
+    }
+  },
+  {
+    "hash": "51547cdc0159867247e7c4404b14e369f9701ccd6b7e95c0a54b9723a9ac7555",
+    "item": {
+      "title": "A worker fell into a nuclear reactor pool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45708292\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-26T01:15:43Z"
+    }
+  },
+  {
+    "hash": "d7cd27fa04ff040062485e40d311ac60630b49db3f39ad2838440132702989c3",
+    "item": {
+      "title": "Pico-Banana-400k",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45708524\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/apple/pico-banana-400k"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-26T02:01:17Z"
+    }
+  },
+  {
+    "hash": "d10d250fb0449918061f7894d0d84f83dbcd215db10137f64225e2c60ecf09d2",
+    "item": {
+      "title": "PCB Edge USB C Connector Library",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45708686\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/AnasMalas/pcb-edge-usb-c"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-26T02:31:54Z"
+    }
+  },
+  {
+    "hash": "b23e1072e1d3de997defaefd74217d1758417890bbb855b0331b723749fc139e",
+    "item": {
+      "title": "I'm drowning in AI features I never asked for and I hate it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45708066\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-26T00:29:51Z"
+    }
+  },
+  {
+    "hash": "e94ea96817b9ac4da6531efdb5c546dca577367109b91c2b2bdc2f56164e1edc",
+    "item": {
+      "title": "NextSilicon reveals new processor chip in challenge to Intel, AMD",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45676376\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T23:18:52Z"
+    }
+  },
+  {
+    "hash": "e4352dca7a08ff41ffaf0043e2eb72ef6a668954bad9d088626b8fbcebb07c77",
+    "item": {
+      "title": "Ubios: China's Alternative to UEFI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686707\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pbxscience.com/ubios-chinas-alternative-to-uefi-and-the-new-era-of-firmware-standards/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T20:32:42Z"
+    }
   }
 ]
