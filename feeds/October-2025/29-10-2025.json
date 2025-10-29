@@ -1118,5 +1118,530 @@
       },
       "published": "2025-10-28T21:45:42Z"
     }
+  },
+  {
+    "hash": "e726c42c58b12dbc00b0bbffdb1072e437b5df0b21979103d46189b3051e072e",
+    "item": {
+      "title": "AMD XDNA Linux Driver Preps For New Ryzen AI \"NPU3A\" Revision",
+      "description": "Yesterday the GitHub-hosted AMD XDNA driver code saw a new tagged release as version 202610.2.21.17. That itself wasn't too interesting but while diving into there is new yet-to-be-merged code for a new \"NPU3A\" revision to their NPU3 IP in Ryzen AI...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Ryzen-AI-XDNA-NPU3A"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-29T10:47:24Z"
+    }
+  },
+  {
+    "hash": "51739a2fd146cdcd56126f5c55156fece0fdc8064608f46fd366fa0d343884e9",
+    "item": {
+      "title": "Apple Plans To Open-Source An LLVM Tool To Security Harden Large C++ Codebases",
+      "description": "An engineer on Apple's static security tools team announced publicly that they have prototyped a tool to apply security hardening across entire C++ codebases. Ultimately their plan is to open-source and upstream this static analysis based tool into LLVM...",
+      "links": [
+        "https://www.phoronix.com/news/Apple-CPP-Security-Harden-Tool"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-29T10:24:17Z"
+    }
+  },
+  {
+    "hash": "0b89f4e8f7b23a879b7a9d87b0b54622cdbbb82817e3105a2f58f3629cc0f971",
+    "item": {
+      "title": "AMD Updates Zen 3 / Zen 4 CPU Microcode For Systems Lacking Microcode Signing Fix",
+      "description": "AMD this week uploaded new Family 19h CPU microcode for Zen 3 and Zen 4 processors to the linux-firmware.git repoository that in turn is pulled by the Linux distributions for offering the latest firmware/microcode to users...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Zen-3-Zen-4-Microcode-Sign"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-29T10:11:56Z"
+    }
+  },
+  {
+    "hash": "4bfba103cee49d0e0995960fb1af3a6cecc30cddf943e8bdb5d5026394ff3d48",
+    "item": {
+      "title": "SUSE Linux Enterprise 16 Announced: \"Enterprise Linux That Integrates Agentic AI\"",
+      "description": "SUSE today formally announced SUSE Linux Enterprise Server 16. Given we are in the year 2025, SUSE is heavy on hyping up AI capabilities with SLES 16...",
+      "links": [
+        "https://www.phoronix.com/news/SUSE-SLES-16-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-29T09:55:03Z"
+    }
+  },
+  {
+    "hash": "0c64d4f59b164cd22af00746e963b5751876f59081a150aa7c4c4745f6cdd638",
+    "item": {
+      "title": "AWS to bare metal two years later: Answering your questions about leaving AWS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45745281\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T11:14:38Z"
+    }
+  },
+  {
+    "hash": "c05d8c39f3c51a2b141571803e001e8a08f1edd338579baf62d32d52605508ca",
+    "item": {
+      "title": "SpiderMonkey Garbage Collector",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45744395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://firefox-source-docs.mozilla.org/js/gc.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T09:06:36Z"
+    }
+  },
+  {
+    "hash": "73f6c3852808d6f15f0708cf184f346208be1895e5c8b5b340105699c8f3dc52",
+    "item": {
+      "title": "Continuous Nvidia CUDA Profiling in Production",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45669377\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-22T14:05:54Z"
+    }
+  },
+  {
+    "hash": "1383f78ebb53db72f52275e37b50461567b5a17564bb81fb1441439604f4883c",
+    "item": {
+      "title": "YouTube is taking down videos on performing nonstandard Windows 11 installs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45744503\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T09:26:09Z"
+    }
+  },
+  {
+    "hash": "455dd4f31daf969df896916cdc6a3e636428342eced8c48204b404b15ba6878d",
+    "item": {
+      "title": "Wheeled Inverted Pendulum Model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45701400\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://scaron.info/robotics/wheeled-inverted-pendulum-model.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-25T04:41:01Z"
+    }
+  },
+  {
+    "hash": "dc65e0d3a3ac27720e901606e66fd3ac271cc6c14c546741be0e03c6be3884f1",
+    "item": {
+      "title": "Bepay Money Powers a Landmark Bitcoin 2140 Forum in Dubai—Unveiling $1 Million Bitcoin Rewards and Next-Gen Merchant Solution",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-26.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"bepay money Powers a Landmark Bitcoin 2140 Forum in Dubai—Unveiling $1 Million Bitcoin Rewards and Next-Gen Merchant Solution\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-26.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-26-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-26-376x212.png 376w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe Bitcoin 2140 Forum, powered by bepay money and organized by Giakaa Capital, concluded successfully at Dubai Knowledge Park, marking a historic milestone in Bitcoin’s institutional evolution and cross-border financial innovation.Under the theme “Pioneering the Path to Bitcoin’s Future,” the forum brought together 1,000+ global professionals, including 60+ world-class speakers,",
+      "links": [
+        "https://thenewscrypto.com/bepay-money-powers-a-landmark-bitcoin-2140-forum-in-dubai-unveiling-1-million-bitcoin-rewards-and-next-gen-merchant-solution/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bepay",
+        "Bitcoin",
+        "Blockchain",
+        "Dubai"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-26.png"
+      },
+      "published": "2025-10-29T08:46:31Z"
+    }
+  },
+  {
+    "hash": "3033bf6d994661e756297259e2696b885bdbd8e2e1ab37740512b3120ff5f647",
+    "item": {
+      "title": "Visa Expands Stablecoin Support Across Multiple Blockchains",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Visa-to-start-supporting-stablecoins-on-four-blockchains.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Visa Expands Stablecoin Support Across Multiple Blockchains\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Visa-to-start-supporting-stablecoins-on-four-blockchains.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Visa-to-start-supporting-stablecoins-on-four-blockchains-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Visa-to-start-supporting-stablecoins-on-four-blockchains-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eVisa is set to incorporate four new stablecoins that work on distinct blockchain networks into its cryptocurrency expansion effort. The payment processing giant shared the intention during its latest earnings call, a key milestone in the drive for mainstream digital commerce. CEO Ryan McInerney said the firm would support two",
+      "links": [
+        "https://thenewscrypto.com/visa-expands-stablecoin-support-across-multiple-blockchains/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Blockchain",
+        "Stablecoin",
+        "Visa"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Visa-to-start-supporting-stablecoins-on-four-blockchains.jpg"
+      },
+      "published": "2025-10-29T07:20:15Z"
+    }
+  },
+  {
+    "hash": "96e2ba3c0d4aa4b5f36c15b9a19e3511dda29169a0e46c46952e787b6ca84289",
+    "item": {
+      "title": "Solana (SOL) Battle: Will Bulls Charge Past $200 or Bears Hold the Line?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-SOL-Battle-Will-Bulls-Charge-Past-200-or-Bears-Hold-the-Line.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Solana (SOL) Battle: Will Bulls Charge Past $200 or Bears Hold the Line?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-SOL-Battle-Will-Bulls-Charge-Past-200-or-Bears-Hold-the-Line.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-SOL-Battle-Will-Bulls-Charge-Past-200-or-Bears-Hold-the-Line-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-SOL-Battle-Will-Bulls-Charge-Past-200-or-Bears-Hold-the-Line-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market’s rollercoaster ride has pushed the digital assets to lose momentum, enter a bearish zone. With the fear sentiment flourishing, all the prices are charted in red, including Bitcoin (BTC) and Ethereum (ETH). They are hovering around $112.9K and $4K. Among the altcoin pack, Solana (SOL) has seen",
+      "links": [
+        "https://thenewscrypto.com/solana-sol-battle-will-bulls-charge-past-200-or-bears-hold-the-line/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "SOL",
+        "SOL Price",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-SOL-Battle-Will-Bulls-Charge-Past-200-or-Bears-Hold-the-Line.jpg"
+      },
+      "published": "2025-10-29T06:23:54Z"
+    }
+  },
+  {
+    "hash": "0aea2501a831743f38fbf4ac7118f0330a92ac054911dd6eb1b3abc707b3a253",
+    "item": {
+      "title": "Hedera (HBAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hedera (HBAR) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hedera (HBAR) price prediction for 2025, 2026-2030, we will analyze the price patterns of HBAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hedera (HBAR) Current Market Status What is Hedera (HBAR)? Hedera (HBAR) 24H Technicals HEDERA",
+      "links": [
+        "https://thenewscrypto.com/hedera-hbar-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-10-29T05:52:45Z"
+    }
+  },
+  {
+    "hash": "8ed638ab240b16f17678ea269286f1bb5c4a615eb11225f1267c26b364b58d3b",
+    "item": {
+      "title": "Bepay Money Powers Invest Web3 Forum 2025 in Dubai, Launches $1 Million Bitcoin Rewards and Merchant Settlement Innovations",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"288\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-25.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bepay Money Powers Invest Web3 Forum 2025 in Dubai, Launches $1 Million Bitcoin Rewards and Merchant Settlement Innovations\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-25.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-25-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-25-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eThe Invest Web3 Forum 2025, powered by bepay money in partnership with Giakaa Capital, concluded its 3rd and most successful edition at Dubai Knowledge Park. The forum united representatives managing over $500 billion in assets, alongside 80+ institutional investors, 100+ Web3 projects, and 2,000+ industry leaders from 50+ countries, marking",
+      "links": [
+        "https://thenewscrypto.com/bepay-money-powers-invest-web3-forum-2025-in-dubai-launches-1-million-bitcoin-rewards-and-merchant-settlement-innovations/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bepay",
+        "Blockchain",
+        "Dubai",
+        "Web3"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/unnamed-25.png"
+      },
+      "published": "2025-10-29T05:46:14Z"
+    }
+  },
+  {
+    "hash": "2a7a3dc7a9f4f8b01d06ddda2c7ca1f0ae9d948f979a34fd6ef9c4ae4ceae380",
+    "item": {
+      "title": "Ethereum Price Prediction: Bulls Target $7,000 in Early 2026 as Viral ETH Layer-2 Meme Coin Explodes",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-Price-Prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Price Prediction: Bulls Target $7,000 in Early 2026 as Viral ETH Layer-2 Meme Coin Explodes\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-Price-Prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-Price-Prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-Price-Prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEthereum price prediction is in the spotlight as the token breaks out of recent downtrends. With capital flowing in and market sentiment positive, ETH bulls target a potential rally to $7,000. However, the buzz isn’t limited to Ethereum; a viral ETH Layer-2 meme project, Little Pepe (LILPEPE), is turning heads.",
+      "links": [
+        "https://thenewscrypto.com/ethereum-price-prediction-bulls-target-7000-in-early-2026-as-viral-eth-layer-2-meme-coin-explodes/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "ETHEREUM",
+        "Little Pepe (LILPEPE)"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Ethereum-Price-Prediction.jpg"
+      },
+      "published": "2025-10-29T03:40:24Z"
+    }
+  },
+  {
+    "hash": "f9986f093932b011a06391a56847198b845a09877bb44acb71456ae3feafea29",
+    "item": {
+      "title": "Discover Practical AI Tactics for GRC — Join the Free Expert Webinar",
+      "description": "Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It's no longer a future concept—it's here, and it's already reshaping how teams operate.\nAI's capabilities are profound: it's speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more",
+      "links": [
+        "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD6spgwTwHUJ0TIDuL_yYHZY4G2OU4oMy85RnoVRg3J1URpCNQTBZjObkutPjxXWyuyyPYxoVMkYdq8OeItqsFb8T2NzMwfufoXLgdIP7dC2vxfxvXCJnEt7k9JyZd07T8mMOlfk1sMG9DeamSnm62zVxdGkxjLDf2AdE2mdjq6FPQSkV4cmn9R2anowO5/s1600/grc.jpg"
+      },
+      "published": "2025-10-29T10:16:00Z"
+    }
+  },
+  {
+    "hash": "79eb7d801b8000fc77c43517929715cb2a3409e5579eb142b0dcae696f6442c9",
+    "item": {
+      "title": "10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux",
+      "description": "Cybersecurity researchers have discovered a set of 10 malicious npm packages that are designed to deliver an information stealer targeting Windows, Linux, and macOS systems.\n\"The malware uses four layers of obfuscation to hide its payload, displays a fake CAPTCHA to appear legitimate, fingerprints victims by IP address, and downloads a 24MB PyInstaller-packaged information stealer that harvests",
+      "links": [
+        "https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUpZVfLPbWlZD8KMyaBn9nC53lUdBTLrXPQYMZoh4b9XiWsIyOlJYzRFzR4UTvcMBZFqSQE2H3f7GBoYIPiBxp2_jZgVYLyN11PnZ2pDY6l3DaNGeRV3mLW2oAglMTpCCgJlucrEGQVl1D9ZnrAuBDCimVIUqpdNu51wsyDaonpdBKJ4OW3VmwtCgJ3Psk/s1600/npm-malware.jpg"
+      },
+      "published": "2025-10-29T08:34:00Z"
+    }
+  },
+  {
+    "hash": "a25e38524e69426bd4b2dd78006be2266ca3e493d4987f967a65831793f86bb8",
+    "item": {
+      "title": "Crypto’s Next Billion Users Are in the Global South, Says Deobank WeFi CEO",
+      "description": "\u003cp\u003eCrypto adoption is expanding fastest in emerging markets like Nigeria, the Philippines and Argentina, says WeFi CEO Maksym Sakharov.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/cryptos-next-billion-users-are-in-the-global-south-says-deobank-wefi-ceo/\"\u003eCrypto\u0026#8217;s Next Billion Users Are in the Global South, Says Deobank WeFi CEO\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/cryptos-next-billion-users-are-in-the-global-south-says-deobank-wefi-ceo/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Africa",
+        "Bitcoin",
+        "Blockchain",
+        "WeFi"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jeffrey Gogo"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/29063854/1761719932-maksym-sakharov_v3.jpg"
+      },
+      "published": "2025-10-29T11:47:27Z"
+    }
+  },
+  {
+    "hash": "80cbc24cad1ac68b6a403d4ee25ea85c31ba289e38d7913787072c557c5321ca",
+    "item": {
+      "title": "Norway Sees 30% Surge in Crypto Tax Reporting — $4B in Digital Assets Declared",
+      "description": "\u003cp\u003eNorway's crypto tax reporting has surged by 30%, as over 73,000 residents declared more than $4 billion in digital assets on 2024 tax returns, following efforts by the Norwegian Tax Administration.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/norway-sees-30-surge-in-crypto-tax-reporting-4b-in-digital-assets-declared/\"\u003eNorway Sees 30% Surge in Crypto Tax Reporting — $4B in Digital Assets Declared\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/norway-sees-30-surge-in-crypto-tax-reporting-4b-in-digital-assets-declared/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "crypto tax",
+        "Norway"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/29094401/1761731041-0_2-26_optimized.jpg"
+      },
+      "published": "2025-10-29T11:43:21Z"
+    }
+  },
+  {
+    "hash": "cea324fcd3bcdf0098792084be47e8c7c7136cf55241ec324e8f3af0c4f71265",
+    "item": {
+      "title": "BitMine Adds $113 Million in Ethereum to Corporate Treasury, Onchain Data Shows",
+      "description": "\u003cp\u003eBitMine Immersion Technologies has reportedly added 27,316 ETH, worth roughly $113 million, to its corporate treasury this week.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitmine-adds-113-million-in-ethereum-to-corporate-treasury-onchain-data-shows/\"\u003eBitMine Adds $113 Million in Ethereum to Corporate Treasury, Onchain Data Shows\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitmine-adds-113-million-in-ethereum-to-corporate-treasury-onchain-data-shows/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Adoption",
+        "BitMine",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/29091543/1761729342-b9915a0e-ad44-424b-a815-0311e1a0f3ed_optimized.jpg"
+      },
+      "published": "2025-10-29T11:40:17Z"
+    }
+  },
+  {
+    "hash": "f2f2fd2092b75b3b2e43a3ab919f803fd122de15ffd2848e217c50a92d110f6e",
+    "item": {
+      "title": "Bitcoin Price Prediction: BTC Price Pumps $2K Ahead of FOMC Meeting, Has a Rally Started?",
+      "description": "\u003cp\u003eBitcoin jumps $2K ahead of the Fed’s rate decision. Will a dovish FOMC trigger a rally, or will resistance near $115K cap BTC’s short-term momentum?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-btc-price-pumps-2k-ahead-of-fomc-meeting-has-a-rally-started/\"\u003eBitcoin Price Prediction: BTC Price Pumps $2K Ahead of FOMC Meeting, Has a Rally Started?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-btc-price-pumps-2k-ahead-of-fomc-meeting-has-a-rally-started/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17191357/1758136436-bitcoin-price-prediction-25.jpg"
+      },
+      "published": "2025-10-29T11:20:38Z"
+    }
+  },
+  {
+    "hash": "ccc424eb77434a7d1f20ae5bed3e4df66573a3581747d216919d4baa77249d7e",
+    "item": {
+      "title": "Big Week for Bitcoin as Federal Reserve Decision on Interest Rates Looms",
+      "description": "\u003cp\u003eGenerally speaking, lower interest rates are good news for Bitcoin — for multiple reasons. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/big-week-for-bitcoin-as-federal-reserve-decision-on-interest-rates-looms/\"\u003eBig Week for Bitcoin as Federal Reserve Decision on Interest Rates Looms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/big-week-for-bitcoin-as-federal-reserve-decision-on-interest-rates-looms/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Altcoins",
+        "Artificial Intelligence",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Donald Trump",
+        "Economics",
+        "Federal Reserve",
+        "Inflation",
+        "Jerome Powell",
+        "Macroeconomics",
+        "Market",
+        "Regulation",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/29060053/1761717652-image-1761717608073_optimized.jpg"
+      },
+      "published": "2025-10-29T11:00:40Z"
+    }
+  },
+  {
+    "hash": "7a04a75e21fe418369c7929ed0bc86cd2e7907de32e0bec6b958deb48be193e5",
+    "item": {
+      "title": "Australia Might Reclassify Stablecoins as Financial Products Requiring Licensing",
+      "description": "\u003cp\u003eAustralia's securities regulator reclassified stablecoins, wrapped tokens, and digital wallets as financial products requiring licensing, providing the industry an eight-month transition period as the government advances comprehensive digital asset reforms.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/australia-rmight-reclassify-stablecoins-as-financial-products-requiring-licensing/\"\u003eAustralia Might Reclassify Stablecoins as Financial Products Requiring Licensing\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/australia-rmight-reclassify-stablecoins-as-financial-products-requiring-licensing/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Australia",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/29084643/1761727603-image-1761727579671_optimized.jpg"
+      },
+      "published": "2025-10-29T09:25:22Z"
+    }
+  },
+  {
+    "hash": "71f7a0bf6c444ad82057b70515f55cdd6a173adb5bd9905f2de425c6da6993b1",
+    "item": {
+      "title": "China Jails Five for $166M Crypto Money Laundering Scheme",
+      "description": "\u003cp\u003eBeijing court sentences five to prison for laundering $166 million through USDT stablecoins as Chinese authorities deploy advanced blockchain forensics to crack down on crypto-enabled financial crime.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/china-jails-five-for-166m-crypto-money-laundering-scheme/\"\u003eChina Jails Five for $166M Crypto Money Laundering Scheme\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/china-jails-five-for-166m-crypto-money-laundering-scheme/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "China",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/29091606/1761729365-image-1761729246610_optimized.jpg"
+      },
+      "published": "2025-10-29T09:17:32Z"
+    }
   }
 ]
