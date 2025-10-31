@@ -1307,5 +1307,443 @@
       },
       "published": "2025-10-31T06:15:19Z"
     }
+  },
+  {
+    "hash": "8225d91fc635833cf138e36f83f8b0a8924be7aaae459fc3106c95c2cfd84c38",
+    "item": {
+      "title": "AMD Windows Driver Changes For RX 5000/6000 Series Won't Impact Linux Users",
+      "description": "Over the past day there have been many reports of AMD planning to no longer provide game optimizations for the Radeon RX 5000 and RX 6000 series graphics cards for their Microsoft Windows driver. Surprisingly many in the Linux community still seem to think it will impact the Linux drivers, but long story short, there is no real concern for Linux users/gamers...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Windows-RX-5000-6000-Game"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-31T10:51:09Z"
+    }
+  },
+  {
+    "hash": "4a6f776778d28ed447a0ba561839fa015235e4178cccea22f675859456457279",
+    "item": {
+      "title": "Linux 6.18-rc4 Fixes Another Performance Regression In The Power Management Code",
+      "description": "Last week there was a fix for a \"serious performance regression\" in the Linux kernel's power management code that affected some Intel-powered Chromebooks. This week the power management fixes ahead of Linux 6.18-rc4 is addressing another performance regression...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc4-PM-Perf-Fix"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-31T10:36:00Z"
+    }
+  },
+  {
+    "hash": "771c587e338e049e56a67140ca7a0352a85da591fd232f2f787046382474ac12",
+    "item": {
+      "title": "AerynOS 2025.10 ISOs Released - GNOME 49, Switches Back To GNU libstdc++",
+      "description": "AerynOS 2025.10 ISOs were released today for closing out the month of October. AerynOS as a reminder is the Linux distribution that was started by Ikey Doherty and originally known as Serpent OS that has since evolved into an open-source team effort...",
+      "links": [
+        "https://www.phoronix.com/news/AerynOS-2025.10-ISOs"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-31T10:12:48Z"
+    }
+  },
+  {
+    "hash": "a0eaa6090b8d154dc61922b3c0f03e5d4ff72080ef7428945b7e0abde9292bf6",
+    "item": {
+      "title": "Krita Lands Basic HDR Support On Wayland",
+      "description": "The KDE/Qt-aligned Krita digital painting application is the latest creative app now supporting high dynamic range (HDR) on Linux when using Wayland...",
+      "links": [
+        "https://www.phoronix.com/news/Krita-HDR-Wayland-Support"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-31T10:04:03Z"
+    }
+  },
+  {
+    "hash": "07b2c9ba0a0c512f10c9f85c3e8b44f91ed02dd1429543203a2ebd196bf67abc",
+    "item": {
+      "title": "Vulkan 1.4.331 Brings Two New Extensions",
+      "description": "Just one week after Vulkan 1.4.330 brought five new extensions, Vulkan 1.4.331 is now available with another two new extensions for this high performance graphics and compute API...",
+      "links": [
+        "https://www.phoronix.com/news/Vulkan-1.4.331-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-10-31T09:48:47Z"
+    }
+  },
+  {
+    "hash": "baeaacea576cf21d3ec340888624dd7929e666b0a8a697b8bfabefe7adf3bb5b",
+    "item": {
+      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
+      "description": "MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.\nThis shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance",
+      "links": [
+        "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqekRxhqSIMwXW-91BTf99RLxdfwXB5-1vhEwnAeSX55XbaEU2fhjyDONSC1rnBDBMseaqYwmBpe4nYpyDlg7m9cmg5u-934M1hZSWzihqR7Ll0acZ7jqLUcL6m9S8h-KZPMqLDyC5x3kTr4rZ3q6uUA7Lt4nWYlwr3ddJnK4AofUxhkKVl4PI0CJXoI8/s1600/TurnSecurityIntoGrowth.png"
+      },
+      "published": "2025-10-31T11:30:00Z"
+    }
+  },
+  {
+    "hash": "7fb6a2e5f9167707aa621f35182f371e3f56cca616ef5e3eb9c2c3e38cea73fc",
+    "item": {
+      "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
+      "links": [
+        "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA0I1Jx6uIEdkIQQM9RnxL2Ki39vb2gH7eog9Bm7oLXHB3Ia60PLtDJsEuqlPrOsZLL9UJZ3YnnlRxxQv0zGB_pNQcpQvDlxnFR1c6_iN-NzNkRMt3sW38md0OI8cJDfVQ5wp6rvZD32HiKk_NuHiFdTbo0mQRf8BfoNVFmp283z-01nb_Z7oGhyqSdE4P/s1600/ms.jpg"
+      },
+      "published": "2025-10-31T08:46:00Z"
+    }
+  },
+  {
+    "hash": "bedef3b7a39310f645bfcad983d34026989eb57784ee3b480a091d6fd5e02bec",
+    "item": {
+      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
+      "description": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong. ",
+      "links": [
+        "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/"
+      ],
+      "categories": [
+        "AI",
+        "Features",
+        "Google",
+        "Tech",
+        "google",
+        "Google Gemini",
+        "Google Home"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-1152x648.jpg"
+      },
+      "published": "2025-10-31T11:30:22Z"
+    }
+  },
+  {
+    "hash": "42b8adf1151812dbf83159487d54c1f405d2a3e08d50a4ae7376fb71a0be83e3",
+    "item": {
+      "title": "Rocket Report: SpaceX surpasses shuttle launch total; Skyroot has big ambitions",
+      "description": "“I do think we’re rapidly approaching the point where it will be a significant impact.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/"
+      ],
+      "categories": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/1646px-Soyuz_tm-31_transported_to_launch_pad-1152x648.jpg"
+      },
+      "published": "2025-10-31T11:00:58Z"
+    }
+  },
+  {
+    "hash": "aae22fb9e6db12691ce554595e30f30fe6bdfadf87477685880895c6ddfb86d8",
+    "item": {
+      "title": "Market Watcher Predicts XRP Will Lead Rally Against ETH Following Falling Wedge Setup",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Analyst_Says_Ethereum_Will_Soon_Explode_But_Shares_Why_He_Thinks.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Analyst_Says_Ethereum_Will_Soon_Explode_But_Shares_Why_He_Thinks.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Analyst_Says_Ethereum_Will_Soon_Explode_But_Shares_Why_He_Thinks-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Analyst_Says_Ethereum_Will_Soon_Explode_But_Shares_Why_He_Thinks-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMarket analyst CryptoBull has suggested that while Ethereum appears ready for strong price movement, XRP may deliver superior returns in the near term. The commentary arrives as both assets go through recovery attempts following recent market volatility. During the October 27 rebound, Ethereum climbed 9.57% to surpass $4,200 while XRP",
+      "links": [
+        "https://thenewscrypto.com/market-watcher-predicts-xrp-will-lead-rally-against-eth-following-falling-wedge-setup/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Analyst_Says_Ethereum_Will_Soon_Explode_But_Shares_Why_He_Thinks.jpg"
+      },
+      "published": "2025-10-31T08:30:12Z"
+    }
+  },
+  {
+    "hash": "74a0ab1545686083e2003a0562a222eceef765430b0f96e0523cb005c968475f",
+    "item": {
+      "title": "Revolut Slashes Crypto Barriers With Zero-Fee Dollar-Stablecoin Swaps",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Revolut_rolls_out_1_1_USD_to_stablecoin_swaps_as_fintechs_warm_to.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Revolut Slashes Crypto Barriers With Zero-Fee Dollar-Stablecoin Swaps\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Revolut_rolls_out_1_1_USD_to_stablecoin_swaps_as_fintechs_warm_to.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Revolut_rolls_out_1_1_USD_to_stablecoin_swaps_as_fintechs_warm_to-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Revolut_rolls_out_1_1_USD_to_stablecoin_swaps_as_fintechs_warm_to-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eRevolut, a digital banking platform, has introduced free currency exchange between US dollars and stablecoins to its 65 million users worldwide. The neobank is now providing precise one-to-one transactions, eliminating the customary spreads and transaction expenses that generally come with cryptocurrency on-ramping and off-ramping operations. The new service on the",
+      "links": [
+        "https://thenewscrypto.com/revolut-slashes-crypto-barriers-with-zero-fee-dollar-stablecoin-swaps/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Revolut",
+        "USDC",
+        "USDT"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Revolut_rolls_out_1_1_USD_to_stablecoin_swaps_as_fintechs_warm_to.jpg"
+      },
+      "published": "2025-10-31T08:21:31Z"
+    }
+  },
+  {
+    "hash": "e6c2971744d9a8f50a87c6047090a1d201643c5ada8f2b409eb60d0b366974d9",
+    "item": {
+      "title": "Second Edition of Bitcoin Mena Set to Take Place at Adnec Centre Abu Dhabi in December",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bitcoin-MENA-2025-in-Abu-Dhabi.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Second Edition of Bitcoin Mena Set to Take Place at Adnec Centre Abu Dhabi in December\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bitcoin-MENA-2025-in-Abu-Dhabi.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bitcoin-MENA-2025-in-Abu-Dhabi-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bitcoin-MENA-2025-in-Abu-Dhabi-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBuilding on the landmark success of the inaugural Bitcoin MENA conference in December 2024, ADNEC Group \u0026#38; BTC Inc Group today announced the return of Bitcoin MENA to Abu Dhabi for a second edition, set to take place on December 8-9, 2025. Scheduled to open the day after the Abu",
+      "links": [
+        "https://thenewscrypto.com/second-edition-of-bitcoin-mena-set-to-take-place-at-adnec-centre-abu-dhabi-in-december/"
+      ],
+      "categories": [
+        "Press Release",
+        "Abu Dhabi",
+        "Bitcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Bitcoin-MENA-2025-in-Abu-Dhabi.jpg"
+      },
+      "published": "2025-10-31T08:16:39Z"
+    }
+  },
+  {
+    "hash": "dd553030c2c55c2f8477f3b30a584cb8769fc268668c26d59b01843a6b19d17a",
+    "item": {
+      "title": "Bear Pressure Mounts: Will Ethereum (ETH) Bulls Revive Momentum or Face a Breakdown Below $3.5K?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bear-Pressure-Mounts-Will-Ethereum-ETH-Bulls-Revive-Momentum-or-Face-a-Breakdown-Below-3.5K.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bear Pressure Mounts: Will Ethereum (ETH) Bulls Revive Momentum or Face a Breakdown Below $3.5K?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Bear-Pressure-Mounts-Will-Ethereum-ETH-Bulls-Revive-Momentum-or-Face-a-Breakdown-Below-3.5K.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bear-Pressure-Mounts-Will-Ethereum-ETH-Bulls-Revive-Momentum-or-Face-a-Breakdown-Below-3.5K-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Bear-Pressure-Mounts-Will-Ethereum-ETH-Bulls-Revive-Momentum-or-Face-a-Breakdown-Below-3.5K-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe active bearish sentiment lingering across the digital asset is pushing their prices down to deepen the red charts. The largest asset, Bitcoin (BTC) is currently hovering at around $109.6K, while Ethereum (ETH), the largest altcoin is trading on the downside, under pressure. The sturdy bearish wave of the asset",
+      "links": [
+        "https://thenewscrypto.com/bear-pressure-mounts-will-ethereum-eth-bulls-revive-momentum-or-face-a-breakdown-below-3-5k/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Bear-Pressure-Mounts-Will-Ethereum-ETH-Bulls-Revive-Momentum-or-Face-a-Breakdown-Below-3.5K.jpg"
+      },
+      "published": "2025-10-31T07:06:58Z"
+    }
+  },
+  {
+    "hash": "bd43f36f1e83a20ebbfb8066f18aab27a565ab21e87e4053369622761d1471f0",
+    "item": {
+      "title": "Crypto AI Revolution: Top 7 Best Crypto Coins To Buy Now Before Prices Skyrocket",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"530\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-71.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-71.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-71-300x204.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-71-768x522.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-71-220x150.png 220w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eIn a market dominated by innovation and volatility, Crypto AI has emerged as the driving force behind the next wave of digital wealth creation. Investors are actively searching for the Best Crypto Coins to Buy Now, as the combination of artificial intelligence and blockchain creates massive upside potential. While established",
+      "links": [
+        "https://thenewscrypto.com/crypto-ai-revolution-top-7-best-crypto-coins-to-buy-now-before-prices-skyrocket/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-71.png"
+      },
+      "published": "2025-10-31T06:30:00Z"
+    }
+  },
+  {
+    "hash": "6a37e348b1e1bacac93fc6ebcc4ff66e0baa9a7c20a45713f3db32f521319963",
+    "item": {
+      "title": "DOGS (DOGS) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"DOGS (DOGS) Price Prediction 2024, 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/08/Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/08/Price-prediction-design-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this DOGS (DOGS) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of DOGS by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION DOGS (DOGS) Current Market Status What is DOGS (DOGS)? DOGS (DOGS) 24H Technicals DOGS (DOGS)",
+      "links": [
+        "https://thenewscrypto.com/dogs-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "DOGS",
+        "Meme Coin",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/08/Price-prediction-design.jpg"
+      },
+      "published": "2025-10-31T05:56:58Z"
+    }
+  },
+  {
+    "hash": "4da68dcd84bde9278cca43dfa2263bf8c87b1d8320d2515f3b3e3fff059123c3",
+    "item": {
+      "title": "Reasoning Models Reason Well, Until They Don't",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45769971\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2510.22371"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T09:23:41Z"
+    }
+  },
+  {
+    "hash": "3e34cb3e57cfd3877faedc898cbf2d1735fd1c049cbfb0ac2794875b35416210",
+    "item": {
+      "title": "In Orbit You Have to Slow Down to Speed Up",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45693698\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T11:55:59Z"
+    }
+  },
+  {
+    "hash": "2711156e2d3398526fb18f13b862851da84a7b9e1926950bd23dd28c2bb93460",
+    "item": {
+      "title": "Bertie the Brain",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45691697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Bertie_the_Brain"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T07:00:57Z"
+    }
+  },
+  {
+    "hash": "164962a9d56f6147ce7caafc08d39b8b4041d324e9c0adec9df7c63f1714ddf1",
+    "item": {
+      "title": "Claude Is Down",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45770317\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://status.claude.com/incidents/s5f75jhwjs6g"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T10:15:24Z"
+    }
+  },
+  {
+    "hash": "29fe8c3fd5983c9b72dfc23adba6a81c378f5f863e9bab3e3978b999af86e994",
+    "item": {
+      "title": "dYdX President Confirms US Market Entry With Expanded Trading",
+      "description": "\u003cp data-start=\"600\" data-end=\"843\"\u003edYdX is officially entering the U.S. market, slashing fees and expanding its trading suite after a year of major upgrades, strategic acquisitions, and evolving tokenomics. Here’s what the decentralized exchange has planned for 2025 and beyond.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dydx-president-confirms-us-market-entry-with-expanded-trading/\"\u003edYdX President Confirms US Market Entry With Expanded Trading\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dydx-president-confirms-us-market-entry-with-expanded-trading/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Exchange",
+        "dydx"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/31100450/1761905089-image-1761905044910_optimized.jpg"
+      },
+      "published": "2025-10-31T12:03:36Z"
+    }
+  },
+  {
+    "hash": "af591904f58b6d69bb80a5c17d55decdd635f3f442d28435d4e7fa91c7c5d362",
+    "item": {
+      "title": "US Senators Push to Finalize Crypto Market Bill as Shutdown Standoff Deepens: Report",
+      "description": "\u003cp\u003eWith October ending, senators are racing to finalize crypto rules that could decide the fate of stablecoins, exchanges, and investor protections, even as government shutdown slows federal operations\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-senators-crypto-market-bill-shutdown/\"\u003eUS Senators Push to Finalize Crypto Market Bill as Shutdown Standoff Deepens: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-senators-crypto-market-bill-shutdown/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Clarity Act",
+        "Regulation",
+        "US Senators"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/31112942/1761910181-0_2-28_optimized.jpg"
+      },
+      "published": "2025-10-31T12:02:07Z"
+    }
   }
 ]
