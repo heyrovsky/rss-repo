@@ -3139,5 +3139,489 @@
       },
       "published": "2025-10-31T15:11:34Z"
     }
+  },
+  {
+    "hash": "2e44f078756973f7aa928f7801dffa1b5c70c73951075f95349811c286e0b14f",
+    "item": {
+      "title": "Blue Origin test-fires second New Glenn rocket ahead of launch next month",
+      "description": "New Glenn will soon meet its payloads: Two NASA probes to study Martian climate change.",
+      "links": [
+        "https://arstechnica.com/space/2025/10/blue-origin-test-fires-second-new-glenn-rocket-ahead-of-launch-next-month/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "blue origin",
+        "Commercial space",
+        "escapade",
+        "launch",
+        "Mars",
+        "NASA",
+        "new glenn"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ng2hotfire-1152x648.jpg"
+      },
+      "published": "2025-10-31T19:10:53Z"
+    }
+  },
+  {
+    "hash": "0d0a543dcc3d97dca31f9ce86033d0b08209a583e4623ec1ac26f7672ab34c0c",
+    "item": {
+      "title": "Sam Altman wants a refund for his $50,000 Tesla Roadster deposit",
+      "description": "Altman is just the latest in a string of people to want their money back.",
+      "links": [
+        "https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/"
+      ],
+      "categories": [
+        "Cars",
+        "sam altman",
+        "tesla roadster"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/Roadster_Hero-1-1152x648.jpg"
+      },
+      "published": "2025-10-31T18:33:53Z"
+    }
+  },
+  {
+    "hash": "36256dc80c4da4f6ee29a0b2d8aa3d5b60fd9aae4a41ae5f8d3efe85a2a2895f",
+    "item": {
+      "title": "AT\u0026T sues ad industry watchdog instead of pulling ads that slam T-Mobile",
+      "description": "National Advertising Division said AT\u0026#038;T ad and press release broke program rule.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/10/att-sues-ad-industry-watchdog-instead-of-pulling-ads-that-slam-t-mobile/"
+      ],
+      "categories": [
+        "Policy",
+        "AT\u0026T",
+        "national advertising division",
+        "t-mobile"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-1152x648-1745953050.jpg"
+      },
+      "published": "2025-10-31T18:23:09Z"
+    }
+  },
+  {
+    "hash": "581ef0b45d7af03fcbfab959418c819ffb4509011a5661b52308b224a49173cf",
+    "item": {
+      "title": "SpaceX teases simplified Starship as alarms sound over Moon landing delays",
+      "description": "\"SpaceX shares the goal of returning to the Moon as expeditiously as possible.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/10/as-pressure-mounts-spacex-insists-starship-is-fastest-path-to-moon-landing/"
+      ],
+      "categories": [
+        "Space",
+        "artemis",
+        "artemis iii",
+        "china",
+        "Commercial space",
+        "launch",
+        "moon",
+        "NASA",
+        "spacex",
+        "starship"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/07_24_25_HLS_on_surface_elevator_down_4d48994673-1152x648.jpg"
+      },
+      "published": "2025-10-31T13:39:02Z"
+    }
+  },
+  {
+    "hash": "c6dd07af4e8c521c9e9ae2b8e4411fd7ee464682385f98c78eadc4f5c0f231ef",
+    "item": {
+      "title": "[$] Mergiraf: syntax-aware merging for Git",
+      "description": "\u003cp\u003e\nThe idea of automatic syntax-aware merging in version-control systems goes back to\n\u003ca href=\"https://link.springer.com/chapter/10.1007/3-540-60578-9_14\"\u003e\n2005 or earlier\u003c/a\u003e, but initial implementations were\noften language-specific and slow.\n\u003ca href=\"https://mergiraf.org/introduction.html\"\u003e\nMergiraf\u003c/a\u003e is a merge-conflict resolver that uses a generic algorithm plus a\nsmall amount of language-specific knowledge\nto solve conflicts that Git's default strategy cannot.\nThe project's contributors have been working on the\ntool for just under a year, but it already\n\u003ca href=\"https://mergiraf.org/languages.html\"\u003e\nsupports 33 languages\u003c/a\u003e, including C,\nPython, Rust, and even\n\u003ca href=\"https://en.wikipedia.org/wiki/SystemVerilog\"\u003e\nSystemVerilog\u003c/a\u003e.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1042355/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-10-31T19:30:00Z"
+    }
+  },
+  {
+    "hash": "50c943d7ddff5bfd4b265bb91d42add462b52f25fb9a2c49ea60f4376130cf2e",
+    "item": {
+      "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
+      "description": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
+      "links": [
+        "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qKVY4KhOkzIkeCDV1BiboPN3n7qh-ElZ2YzQyfHE2ctgVFmcv7KPDcx1Chvc3KxNeMuirmxfoFRlOb_YAPkCds2Pw9H0_dOPmrJPFfmGFglSXLIM6Ycu0nesaNh8hfTvfQ7lKTAp-GOCaRJylT-wId8Sb_urjjXxpqVgkrjUZ4VJboCJ7Fhk4yVZpOiS/s1600/flaws.jpg"
+      },
+      "published": "2025-10-31T17:19:00Z"
+    }
+  },
+  {
+    "hash": "8a3fa0a2a45f7b0da978b236ff36353ffb1318bac89375bafba8823d342e6228",
+    "item": {
+      "title": "Futurelock: A subtle risk in async Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774086\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rfd.shared.oxide.computer/rfd/0609"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T16:49:26Z"
+    }
+  },
+  {
+    "hash": "43b951caec2a6ddc99a4e722c294c99d7a8aabed08fd51bc51d71612924b6893",
+    "item": {
+      "title": "Use DuckDB-WASM to query TB of data in browser",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774571\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T17:37:15Z"
+    }
+  },
+  {
+    "hash": "cb8497d40534596fe3ea022ff0b77cccd8f113fa2b7c3c7ac294e6619a270f8c",
+    "item": {
+      "title": "Hacking India's largest automaker: Tata Motors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45741569\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eaton-works.com/2025/10/28/tata-motors-hack/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T01:31:56Z"
+    }
+  },
+  {
+    "hash": "c7c70adbf4174b2c2fada0adbbd9fa3bc61db8a558cc4134e85621311b33d633",
+    "item": {
+      "title": "Perfetto: Swiss army knife for Linux client tracing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771019\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lalitm.com/perfetto-swiss-army-knife/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T11:54:00Z"
+    }
+  },
+  {
+    "hash": "82bac8ec64bd5ed240ea2933460a965a41d4716c90fda165b5c4b704391125cf",
+    "item": {
+      "title": "x86 architecture 1 byte opcodes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774724\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sandpile.org/x86/opc_1.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T17:49:16Z"
+    }
+  },
+  {
+    "hash": "a8369bb92feb53f41627f86e793819cace20aa6ea5fc272ca12686d1b0569968",
+    "item": {
+      "title": "The 1924 New Mexico regional banking panic",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681514\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T13:22:15Z"
+    }
+  },
+  {
+    "hash": "f1a34933da77b2485aad0d50456d72579f76f43d1fb73f0c77f22bcfc8811fa0",
+    "item": {
+      "title": "How to build silos and decrease collaboration on purpose",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45775642\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T19:16:05Z"
+    }
+  },
+  {
+    "hash": "a9737dcdf91c5e40449748cff579445c52a410a8c8739495a6ac2a348e163fa4",
+    "item": {
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45766501\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T23:12:10Z"
+    }
+  },
+  {
+    "hash": "2ac2bcca4e3798a2721ba007adfcd58b52c41c94d9e2b7f54672ce22e43873f1",
+    "item": {
+      "title": "Llamafile Returns",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45753850\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.mozilla.ai/llamafile-returns/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T22:21:12Z"
+    }
+  },
+  {
+    "hash": "90379821b58343cbdcd2c65ac07bb830258b6e038597d3c46190d06766f5859f",
+    "item": {
+      "title": "Signs of introspection in large language models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45762064\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/research/introspection"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T16:45:06Z"
+    }
+  },
+  {
+    "hash": "0f354c1dc2129e95c627b61dac1dcd54b59ae8147da0110d0285045fa3f038ff",
+    "item": {
+      "title": "How We Found 7 TiB of Memory Just Sitting Around",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45763359\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T18:25:05Z"
+    }
+  },
+  {
+    "hash": "f6961b26a5a4007e20badea030d070b6a8b54730ce25d2b70b3b55b3813e4786",
+    "item": {
+      "title": "History's first public hack: rats, rats, rats",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722089\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.rigb.org/explore-science/explore/blog/historys-first-public-hack-rats-rats-rats"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-27T15:29:17Z"
+    }
+  },
+  {
+    "hash": "643d41c3eb83bebffc8788106dd49dafdb148744bf0e591b99c8efcbea0205ff",
+    "item": {
+      "title": "If a pilot ejects, what is the autopilot programmed to do? (2018)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45765596\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T21:27:17Z"
+    }
+  },
+  {
+    "hash": "584d535db8ed4eeab0d120ff4815e7635939aadeeac7a684df6a1ace1635b8aa",
+    "item": {
+      "title": "AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45767916\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T03:07:48Z"
+    }
+  },
+  {
+    "hash": "13d2eb6e67248394af3fcc8c498b8488ca637a2862ba447cc791200e11b5b807",
+    "item": {
+      "title": "Claude outage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45770317\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://status.claude.com/incidents/s5f75jhwjs6g"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T10:15:24Z"
+    }
+  },
+  {
+    "hash": "b0d76d2a20f34fdd199b2540d0958fd68877f17afec8b8663f293fbe54704c50",
+    "item": {
+      "title": "The Most Anticipated BNB Launch of 2025: $BALZ Brings the Meme Migration Home",
+      "description": "\u003cp\u003e\u003cimg width=\"1889\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38.jpg 1889w, https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38-300x183.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38-1024x624.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38-768x468.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38-1536x937.jpg 1536w\" sizes=\"(max-width: 1889px) 100vw, 1889px\" /\u003e\u003c/p\u003eSingapore, Singapore, 31st October 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/the-most-anticipated-bnb-launch-of-2025-balz-brings-the-meme-migration-home/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/FAF_IMAGE_1761910117mIMBDB6U38.jpg"
+      },
+      "published": "2025-10-31T15:52:18Z"
+    }
+  },
+  {
+    "hash": "b7aaaa1bf90a8e6e34858a282b239867c78c4b99f99ef1cea550c0de583b8b60",
+    "item": {
+      "title": "$FIGHT Presale on Holoworld Skyrockets to $183M, Surpassing Goal by 12,000%",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-07-at-9.53.03-PM-3.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"$FIGHT Presale on Holoworld Skyrockets to $183M, Surpassing Goal by 12,000%\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-07-at-9.53.03-PM-3.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-07-at-9.53.03-PM-3-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-07-at-9.53.03-PM-3-376x212.jpeg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Phase 2\u0026#160;of the Holoworld presale for FIGHT, the leading combat sports token, is now over. Over 500K app sign-ups with partner Fight.id have resulted from strong demand for FIGHT, pushing the funding\u0026#160;amount to more than 100 times its $1.5M goal. The web3 ecosystem\u0026#160;that connects fans of combat sports is",
+      "links": [
+        "https://thenewscrypto.com/fight-presale-on-holoworld-skyrockets-to-183m-surpassing-goal-by-12000/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Imran"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-07-at-9.53.03-PM-3.jpeg"
+      },
+      "published": "2025-10-31T13:38:01Z"
+    }
+  },
+  {
+    "hash": "1dd49729c75cf1c853531acbd8c5e9ad94aa4198dd18b920c3dc0a0e94c98ab0",
+    "item": {
+      "title": "Blazpay Dominates the Best Crypto Presale of 2025 as Solana and Avalanche Race for Next Big Crypto Coin Status",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"390\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-70.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/image001-70.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-70-300x150.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/image001-70-768x384.jpg 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe crypto market is heating up as Blazpay’s Phase 2 presale surges past $966,000 raised, positioning it among the Best Crypto Presales of 2025. With just 24 hours remaining before its next price jump, investors are rushing to secure early entry at $0.0075 per BLAZ token. Meanwhile, established blockchain giants",
+      "links": [
+        "https://thenewscrypto.com/blazpay-dominates-the-best-crypto-presale-of-2025-as-solana-and-avalanche-race-for-next-big-crypto-coin-status/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/image001-70.jpg"
+      },
+      "published": "2025-10-31T12:30:00Z"
+    }
+  },
+  {
+    "hash": "c7efc01173959a656c924e18c42e63bc9edc0da82a22fda631399e13b6aa51b3",
+    "item": {
+      "title": "Multichain Liquidators Win Key Ruling as New York Court Extends Freeze on Stolen USDC",
+      "description": "\u003cp\u003eStolen in the massive 2023 Multichain breach that shook cross-chain trust, the ruling of freezing the USDC signals a stronger legal path for recovering digital assets lost in major crypto exploits.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/multichain-liquidators-win-ruling-freeze-63m-stolen-usdc/\"\u003eMultichain Liquidators Win Key Ruling as New York Court Extends Freeze on Stolen USDC\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/multichain-liquidators-win-ruling-freeze-63m-stolen-usdc/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi News",
+        "Circle",
+        "Crypto hack",
+        "USDC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/31205127/1761943887-1f1377bb-80bb-4be4-b6a6-f56b4e900bc2_optimized.jpg"
+      },
+      "published": "2025-10-31T20:53:21Z"
+    }
+  },
+  {
+    "hash": "f7ecb79b2c3b1e66d130b9d002097dfad19000b4389d1af079d1710e7901a831",
+    "item": {
+      "title": "Crypto Banking Rules Face Overhaul as Global Regulators Sound the Alarm on Stablecoins",
+      "description": "\u003cp\u003eRegulators are overhauling crypto banking rules to reduce risk and improve transparency, creating a framework that could reshape how stablecoin issuers operate and strengthen the long-term stability of the U.S. digital-asset market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-banking-rules-stablecoins-regulators/\"\u003eCrypto Banking Rules Face Overhaul as Global Regulators Sound the Alarm on Stablecoins\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-banking-rules-stablecoins-regulators/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Regulation News",
+        "Banking",
+        "Crypto bill",
+        "Regulation",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/31201157/1761941516-0_1-25_optimized.jpg"
+      },
+      "published": "2025-10-31T20:15:17Z"
+    }
+  },
+  {
+    "hash": "1f0038859b2a54f6095c8a1b275a0533c1d6d4f564e80977f2030b2b20f0fabd",
+    "item": {
+      "title": "Singapore Freezes $150M in Assets Tied to Alleged Bitcoin Fraud Kingpin",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eSingapore authorities seized $150 million in assets connected to Chen Zhi as U.S. and UK prosecutors pursue criminal charges over an alleged $14.4 billion Bitcoin fraud operation involving forced labor and cryptocurrency laundering.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/singapore-freezes-150m-in-assets-tied-to-alleged-bitcoin-fraud-kingpin/\"\u003eSingapore Freezes $150M in Assets Tied to Alleged Bitcoin Fraud Kingpin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/singapore-freezes-150m-in-assets-tied-to-alleged-bitcoin-fraud-kingpin/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Singapore"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/31153444/1761924884-image-1761924857189_optimized.jpg"
+      },
+      "published": "2025-10-31T19:37:48Z"
+    }
   }
 ]
