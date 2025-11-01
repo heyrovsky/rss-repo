@@ -2086,5 +2086,190 @@
       "source": "Hacker News",
       "published": "2025-11-01T14:20:38Z"
     }
+  },
+  {
+    "hash": "5cc3ff476d9674b5ba0003517c8f67def85780b5157893fde1e9f8626f37ad74",
+    "item": {
+      "title": "Debian to require Rust as of May 2026",
+      "description": "Julian Andres Klode has \u003ca\nhref=\"https://lwn.net/ml/all/20251031213541.GA73786@debian.org\"\u003eannounced\u003c/a\u003e that the\nDebian APT package-management tool will acquire \"\u003cq\u003ehard Rust\ndependencies\u003c/q\u003e sometime after May 2026.  \"\u003cq\u003eIf you maintain a port\nwithout a working Rust toolchain, please ensure it has one within the next\n6 months, or sunset the port.\u003c/q\u003e\"",
+      "links": [
+        "https://lwn.net/Articles/1044496/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-01T18:42:46Z"
+    }
+  },
+  {
+    "hash": "400380e894a2e7e47aa950bc7fbc46f0ba3134fef7f4daa5add1c8551ecbfbf8",
+    "item": {
+      "title": "Beginner-friendly, unofficial documentation for Helix text editor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45784596\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://helix-editor.vercel.app/start-here/basics/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T19:33:48Z"
+    }
+  },
+  {
+    "hash": "4d9fd3c26c17b0c2a17ca7683e0c5f1f8d47c175f7c9a6e8862505a8112184d0",
+    "item": {
+      "title": "Claude Code Can Debug Low-Level Cryptography",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45784179\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://words.filippo.io/claude-debugging/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T18:41:56Z"
+    }
+  },
+  {
+    "hash": "5faa8790209e1b237184007be91c0e3936afbb3a1101872f96f4d07b188e9761",
+    "item": {
+      "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45730940\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-28T09:56:37Z"
+    }
+  },
+  {
+    "hash": "508a0e34161e1e5367bf22edd5ab6224188bf44a8131e1727d6d9d8bb73f5537",
+    "item": {
+      "title": "Dating: A Mysterious Constellation of Facts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45761746\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynomight.net/dating/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T16:20:35Z"
+    }
+  },
+  {
+    "hash": "16ad26199bb5ff1b3e817c0342394f289e08b04db17391577bc009dc8dbc8c35",
+    "item": {
+      "title": "Word2vec-style vector arithmetic on docs embeddings",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45784455\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://technicalwriting.dev/embeddings/arithmetic/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T19:14:58Z"
+    }
+  },
+  {
+    "hash": "047db32e54886da47ca589b6391727a51e3c01b46193865cecbeeca6b792a3d2",
+    "item": {
+      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45762160\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T16:52:46Z"
+    }
+  },
+  {
+    "hash": "22a947f23afa6efc31e2939603278ae2078bd5e60d610479fec04ba88fccd24c",
+    "item": {
+      "title": "The hardest program I've ever written (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45742886\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T05:14:33Z"
+    }
+  },
+  {
+    "hash": "62017d41c6a708733b9e15d5aadb62758ca5eb28179cc8bfc8ded0cee780499d",
+    "item": {
+      "title": "Nutella maker in hazelnut stand-off with Turkish dealers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45781076\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ft.com/content/4826dfd2-8d8e-4316-931f-974f604a3899"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T12:20:44Z"
+    }
+  },
+  {
+    "hash": "2ab0fdf0e0b79a5f001be00b7c8e72a3e73589fa0684f27a74da09eb20b9ecc7",
+    "item": {
+      "title": "Ask HN: Where to begin with \"modern\" Emacs?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45783376\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45783376"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T17:13:04Z"
+    }
+  },
+  {
+    "hash": "1c282a14f5739a198e24b4e0534f952f26283f7f2088f4262f3f5a5e332fd1b2",
+    "item": {
+      "title": "Reconfigurable Analog Computers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45783835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2510.25942"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T18:03:56Z"
+    }
+  },
+  {
+    "hash": "923b206d62408c74aae04ff5bab9b7079f0305e4537961a02bf2342dbde272a8",
+    "item": {
+      "title": "Czech police forced to turn off facial recognition cameras at the Prague airport",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45784185\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T18:42:39Z"
+    }
+  },
+  {
+    "hash": "862e7d2d15a1bdcbb97ec097850bf6bfbf5ebadcf811286e9888c689b9404242",
+    "item": {
+      "title": "NJVL: Nim's New Intermediate Representation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45755495\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-30T01:44:25Z"
+    }
+  },
+  {
+    "hash": "cf31786ee82f6f91f4a435d30d7aec190c158c611c02018e7e033cec5459c039",
+    "item": {
+      "title": "Self-help gets philosophical",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45783440\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T17:21:08Z"
+    }
+  },
+  {
+    "hash": "14a8019f514e37f5f019ebf8d2d6c03c33398e8541e86a3541f50f3131b9e47b",
+    "item": {
+      "title": "Sanders: Government should break up OpenAI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45784644\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T19:40:04Z"
+    }
   }
 ]
