@@ -658,5 +658,414 @@
       },
       "published": "2025-11-02T08:18:00Z"
     }
+  },
+  {
+    "hash": "cfc1cf2ae84f5986a66f715be3086157c89340ed1f83370936f0dc27813606f0",
+    "item": {
+      "title": "Linux 6.18-rc4 Introducing More AMD 6 Model IDs, Other x86 Fixes",
+      "description": "Merged this weekend ahead of the Linux 6.18-rc4 test kernel release due out later today is the \"x86/fixes\" for the week. There are a few notable changes on the x86 (x86_64) side of the kernel this week for Linux 6.18...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc4-x86-Fixes"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-02T11:07:00Z"
+    }
+  },
+  {
+    "hash": "d56146401b27c8ea3a2866d28fa2121f6329ed0492d28162598a1465c382220d",
+    "item": {
+      "title": "Perforator 0.0.7 Released With New Features For Continuous Performance Profiling",
+      "description": "Open-sourced at the start of the calendar year was Perforator as a continuous profiling tool to find code inefficiencies. Yandex who open-sourced it claimed that it could lead businesses to saving \"billions of dollars a year on server infrastructure.\" It's been a few months since the last feature release but out this weekend is Perforator 0.0.7...",
+      "links": [
+        "https://www.phoronix.com/news/Perforator-0.0.7"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-02T10:52:14Z"
+    }
+  },
+  {
+    "hash": "836bbf7318e08e92acaf25c766afc816db7646ddd5a1d586db43a23db6f48082",
+    "item": {
+      "title": "Mock – An API creation and testing utility: Examples",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45789556\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dhuan.github.io/mock/latest/examples.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T11:30:50Z"
+    }
+  },
+  {
+    "hash": "6683eee5793e44690c6b14dc2c125da2622cef00798126a1e1b0746562cdcdd7",
+    "item": {
+      "title": "Backpropagation is a leaky abstraction (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787993\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T05:20:12Z"
+    }
+  },
+  {
+    "hash": "fd4d1b6d7e23f3bc7ba28aff9e9a67806722a59cdfa554e49ddaa6d08b11ad76",
+    "item": {
+      "title": "We reduced a container image from 800GB to 2GB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45719237\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sealos.io/blog/reduce-container-image-size-case-study"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-27T10:15:24Z"
+    }
+  },
+  {
+    "hash": "30771decddae1c6288dc7ca9bdeff4ce696b52f99b839150f25221ff0ba3d8a0",
+    "item": {
+      "title": "When O3 is 2x slower than O2",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45740688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cat-solstice.github.io/test-pqueue/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-28T23:29:47Z"
+    }
+  },
+  {
+    "hash": "ed65d02fcfa6d0678541a0c645dc97e11d2529ba53709cf345931267d379d87d",
+    "item": {
+      "title": "Your URL Is Your State",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45789474\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T11:12:58Z"
+    }
+  },
+  {
+    "hash": "54625c5985cf8e0bffdafc6e795662f4e5380ea26b93005410d2d8b188a54c51",
+    "item": {
+      "title": "Welcome to hell; please drive carefully",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45726718\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://2earth.github.io/website/20251026.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-27T21:47:07Z"
+    }
+  },
+  {
+    "hash": "31b4aab44b3e77a9474d4895fd6ad9787b48e106f683403c9f9bc751f92f0df3",
+    "item": {
+      "title": "Context engineering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788842\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chrisloy.dev/post/2025/08/03/context-engineering"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T08:52:23Z"
+    }
+  },
+  {
+    "hash": "ad9de1a1e670162de3356086d35dbca7fbed3ecb52e21a100c88cc137e26fb66",
+    "item": {
+      "title": "Building A DIY Ryzen-Based PC!",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png 1920w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"872600\" data-permalink=\"https://hackaday.com/2025/11/02/building-a-diy-ryzen-based-pc/screenshot-from-2025-10-23-16-57-27/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot From 2025-10-23 16-57-27\" data-image-description=\"\u0026lt;p\u0026gt;https://www.youtube.com/watch?v=9TmLN8_jEKs\u0026lt;/p\u0026gt;\n\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png?w=800\" /\u003e\u003c/div\u003eThis project gives a whole new meaning to DIY PC. We don\u0026#8217;t know how capable you were as a teenager, but could you have designed your own Ryzen-based mini PC? Whilst \u003ca href=\"https://hackaday.com/2025/11/02/building-a-diy-ryzen-based-pc/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/02/building-a-diy-ryzen-based-pc/"
+      ],
+      "categories": [
+        "computer hacks",
+        "diy",
+        "pc",
+        "Ryzen",
+        "SBC"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dave Rowntree"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Screenshot-From-2025-10-23-16-57-27.png"
+      },
+      "published": "2025-11-02T12:00:26Z"
+    }
+  },
+  {
+    "hash": "afc7c2d7cc94187bcd46f09cd44397febf00bad6aec633099c859e1875d03eca",
+    "item": {
+      "title": "Building a Xenon Lamp for Spectroscopy",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"An aluminium box is visible on the left side of the image, with a power supply on the right side, and a lamp ballast in the middle. A man\u0026#039;s hand is holding the end of an optical fiber in the lower left corner, and it is emitting a white light.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png 2243w, https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?resize=2048,1151 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"873218\" data-permalink=\"https://hackaday.com/2025/11/02/building-a-xenon-lamp-for-spectroscopy/xenon_spectroscopy_lamp/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png\" data-orig-size=\"2243,1261\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"xenon_spectroscopy_lamp\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png?w=800\" /\u003e\u003c/div\u003eBefore a spectrometer can do any useful work, it needs to be calibrated to identify wavelengths correctly. This is usually done by detecting several characteristic peaks or dips in a \u003ca href=\"https://hackaday.com/2025/11/02/building-a-xenon-lamp-for-spectroscopy/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/02/building-a-xenon-lamp-for-spectroscopy/"
+      ],
+      "categories": [
+        "Science",
+        "fiber optic",
+        "headlamp",
+        "headlight",
+        "optics",
+        "spectrometer",
+        "xenon"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/xenon_spectroscopy_lamp.png"
+      },
+      "published": "2025-11-02T08:00:18Z"
+    }
+  },
+  {
+    "hash": "26eef8db734d93300b11ed938cf567f3f8ac829d8f3bf127b6b348dcf551763e",
+    "item": {
+      "title": "Multitasking On The Humble Z80 CPU",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png 1280w, https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"872900\" data-permalink=\"https://hackaday.com/2025/11/01/multitasking-on-the-humble-z80-cpu/multitasking-on-a-z80-cpu-12-31-screenshot-3/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Multitasking on a Z80 CPU 12-31 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png?w=800\" /\u003e\u003c/div\u003eMultitasking is something we take for granted these days. Just about every computer we use, from our desktops to our phones, is capable of multitasking. It might sound silly to \u003ca href=\"https://hackaday.com/2025/11/01/multitasking-on-the-humble-z80-cpu/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/01/multitasking-on-the-humble-z80-cpu/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "multitasking",
+        "tec-1g",
+        "z80"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Multitasking-on-a-Z80-CPU-12-31-screenshot-2.png"
+      },
+      "published": "2025-11-02T05:00:07Z"
+    }
+  },
+  {
+    "hash": "d7433718a44aec8afb2e463c5b77aab02e7ee368a072c37d852aa7940858766b",
+    "item": {
+      "title": "An Audio Brick For Your Smart Home",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png 823w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png?resize=400,226 400w, https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png?resize=800,451 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"872652\" data-permalink=\"https://hackaday.com/2025/11/01/an-audio-brick-for-your-smart-home/screenshot-2025-10-30-122157/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png\" data-orig-size=\"823,464\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-10-30 122157\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;ve ever wanted to pump sound to all the rooms of your house, you might use any one of a number of commercial solutions. Or, you could go the \u003ca href=\"https://hackaday.com/2025/11/01/an-audio-brick-for-your-smart-home/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/01/an-audio-brick-for-your-smart-home/"
+      ],
+      "categories": [
+        "Misc Hacks",
+        "audio",
+        "ESP32",
+        "snapcast"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Screenshot-2025-10-30-122157-e1761787360406.png"
+      },
+      "published": "2025-11-02T02:00:44Z"
+    }
+  },
+  {
+    "hash": "43a5a36568949729124595f5dd2a01b643a878bd4551fcbe31c05226d65af363",
+    "item": {
+      "title": "Building a PV Solar-Powered Quadcopter",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"421\" src=\"https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg 1198w, https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg?resize=250,131 250w, https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg?resize=400,210 400w, https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg?resize=800,421 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"872510\" data-permalink=\"https://hackaday.com/2025/11/01/building-a-pv-solar-powered-quadcopter/solar_quadcopter_luke_maximo_bell_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg\" data-orig-size=\"1198,630\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"solar_quadcopter_luke_maximo_bell_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg?w=800\" /\u003e\u003c/div\u003eOne of the most frustrating parts about flying a quadcopter is having to regularly swap battery packs, as this massively limits what you can do with said quadcopter, never mind \u003ca href=\"https://hackaday.com/2025/11/01/building-a-pv-solar-powered-quadcopter/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/01/building-a-pv-solar-powered-quadcopter/"
+      ],
+      "categories": [
+        "green hacks",
+        "pv solar",
+        "quadcopter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/solar_quadcopter_luke_maximo_bell_youtube.jpg"
+      },
+      "published": "2025-11-01T23:00:46Z"
+    }
+  },
+  {
+    "hash": "90c807b7976396ac1464c9339dc3f682642994ad125efb4a91769137d893159c",
+    "item": {
+      "title": "2025 Component Abuse Challenge: A Transistor As A Voltage Reference",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"872757\" data-permalink=\"https://hackaday.com/2025/11/01/2025-component-abuse-challenge-a-transistor-as-a-voltage-reference/be-junction-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"be-junction-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg?w=800\" /\u003e\u003c/div\u003eFor our 2025 Component Abuse Challenge there have been a set of entries which merely use a component for a purpose it wasn\u0026#8217;t quite intended, and another which push misuse \u003ca href=\"https://hackaday.com/2025/11/01/2025-component-abuse-challenge-a-transistor-as-a-voltage-reference/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/01/2025-component-abuse-challenge-a-transistor-as-a-voltage-reference/"
+      ],
+      "categories": [
+        "contests",
+        "2025 Component Abuse Challenge",
+        "reverse breakdown",
+        "transistor"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/be-junction-featured.jpg"
+      },
+      "published": "2025-11-01T20:00:26Z"
+    }
+  },
+  {
+    "hash": "6a79e9ef7059aa16c06c38794e05fa232c26ac9fe3b661c1136e822a2320360a",
+    "item": {
+      "title": "DIY Pinball Machine Uses Every Skill",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png 1366w, https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"873022\" data-permalink=\"https://hackaday.com/2025/11/01/diy-pinball-machine-uses-every-skill/pinball-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png\" data-orig-size=\"1366,768\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pinball-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png?w=800\" /\u003e\u003c/div\u003ePinball machines have something for everyone. They\u0026#8217;re engaging, fast-paced games available in a variety of sizes and difficulties, and legend has it that they can be played even while deaf \u003ca href=\"https://hackaday.com/2025/11/01/diy-pinball-machine-uses-every-skill/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/01/diy-pinball-machine-uses-every-skill/"
+      ],
+      "categories": [
+        "Games",
+        "3d printing",
+        "arduino",
+        "art",
+        "game",
+        "Laser cutting",
+        "pinball",
+        "solenoid",
+        "target"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/pinball-main.png"
+      },
+      "published": "2025-11-01T17:00:09Z"
+    }
+  },
+  {
+    "hash": "d15f23d859254d014794114060b755074473e56eed35f34344dd746625ade67e",
+    "item": {
+      "title": "XRP Price Prediction: $2.60 Resistance the Last Hurdle Before A Potential Move to $3.00",
+      "description": "\u003cp\u003eXRP nears $2.60 resistance as traders await a breakout. A close above $2.72 could target $3.00, while a drop below $2.54 risks fall to $2.02.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-2-60-resistance-the-last-hurdle-before-a-potential-move-to-3-00/\"\u003eXRP Price Prediction: $2.60 Resistance the Last Hurdle Before A Potential Move to $3.00\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-2-60-resistance-the-last-hurdle-before-a-potential-move-to-3-00/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/23111800/1761218279-xrp-price-prediction-3.jpg"
+      },
+      "published": "2025-11-02T12:06:01Z"
+    }
+  },
+  {
+    "hash": "a3e188768f0cf5d956f4d4039ecc3648e00ea8e90e5ec31376b15e773a6dfd8a",
+    "item": {
+      "title": "Ethereum Price Prediction: December 2025 Forecast Points to $4,500 based on Bullish Indicators",
+      "description": "\u003cp\u003eEthereum consolidates near $3,866 as bullish patterns form. Analysts see a potential $4,500 breakout by December 2025 if $4,000 resistance gives way.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-december-2025-forecast-points-to-4500-based-on-bullish-indicators/\"\u003eEthereum Price Prediction: December 2025 Forecast Points to $4,500 based on Bullish Indicators\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-december-2025-forecast-points-to-4500-based-on-bullish-indicators/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/29125439/1759150478-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-11-02T11:42:41Z"
+    }
+  },
+  {
+    "hash": "19f6c2d3b7437b9956f7bb3036b4e3603812debcd076779d86e1330761734ced",
+    "item": {
+      "title": "Bitcoin Price Prediction: Is Kiyosaki’s Crash Warning the Catalyst for a Major BTC Price Movement?",
+      "description": "\u003cp\u003eRobert Kiyosaki warns of a “massive crash,” yet Bitcoin holds $110K support. Is this fear-driven caution a setup for BTC’s next big move?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-is-kiyosakis-crash-warning-the-catalyst-for-a-major-btc-price-movement/\"\u003eBitcoin Price Prediction: Is Kiyosaki\u0026#8217;s Crash Warning the Catalyst for a Major BTC Price Movement?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-is-kiyosakis-crash-warning-the-catalyst-for-a-major-btc-price-movement/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17191357/1758136436-bitcoin-price-prediction-25.jpg"
+      },
+      "published": "2025-11-02T11:07:53Z"
+    }
+  },
+  {
+    "hash": "8c1fb3c38217aa4dbbe25d26ca23d534622d0f33d1ee6734d60a09c065e41056",
+    "item": {
+      "title": "Arca’s Jeff Dorman Slams Coinbase CEO for Prediction Market Stunt on Earnings Call",
+      "description": "\u003cp\u003eArca’s Jeff Dorman criticized Coinbase CEO Brian Armstrong for referencing prediction market bets during the company’s earnings call.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/arcas-jeff-dorman-slams-coinbase-ceo-for-prediction-market-stunt-on-earnings-call/\"\u003eArca’s Jeff Dorman Slams Coinbase CEO for Prediction Market Stunt on Earnings Call\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/arcas-jeff-dorman-slams-coinbase-ceo-for-prediction-market-stunt-on-earnings-call/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Brian Armstrong",
+        "Coinbase",
+        "Polymarket"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/02080333/1762070613-image-1762070434575_optimized.jpg"
+      },
+      "published": "2025-11-02T10:10:00Z"
+    }
   }
 ]
