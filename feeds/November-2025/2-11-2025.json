@@ -1581,5 +1581,282 @@
       },
       "published": "2025-11-02T12:00:26Z"
     }
+  },
+  {
+    "hash": "b9f60d3aeadaf773e01bbf700b380fa59964042873c41768e7c563b695cedc19",
+    "item": {
+      "title": "Linux 6.18-rc4 Released: \"None Of It Looks Particularly Scary\"",
+      "description": "Linus Torvalds just released Linux 6.18-rc4 as the latest weekly test release. Linux 6.18 is looking to be in good shape for potentially releasing on-time at the end of November otherwise the first week of December...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc4-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-02T19:54:54Z"
+    }
+  },
+  {
+    "hash": "935b6c01926ecd02ac5ddccaddfbab276471584753a4991dd1762368425d71b9",
+    "item": {
+      "title": "2025 Component Abuse Challenge: A Piezo Disk Powers A Transmitter",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"872824\" data-permalink=\"https://hackaday.com/2025/11/02/2025-component-abuse-challenge-a-piezo-disk-powers-a-transmitter/crystal-tx-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"crystal-tx-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg?w=800\" /\u003e\u003c/div\u003eA piezo disk transducer is a handy part for reproducing beeps and boops, and can also function as a rudimentary microphone. Being a piezoelectric element, it can also generate usable \u003ca href=\"https://hackaday.com/2025/11/02/2025-component-abuse-challenge-a-piezo-disk-powers-a-transmitter/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/02/2025-component-abuse-challenge-a-piezo-disk-powers-a-transmitter/"
+      ],
+      "categories": [
+        "contests",
+        "Radio Hacks",
+        "crystal",
+        "piezo disk",
+        "transmitter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/crystal-tx-featured.jpg"
+      },
+      "published": "2025-11-02T21:00:36Z"
+    }
+  },
+  {
+    "hash": "9d89cf4aac3e6ae007a08a74020eb6df52fa2b674dfe651864e4692285d1ac9c",
+    "item": {
+      "title": "Pi Zero Powers A Little Indoor Rover",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png 1498w, https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"872917\" data-permalink=\"https://hackaday.com/2025/11/02/pi-zero-powers-a-little-indoor-rover/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png\" data-orig-size=\"1498,843\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png?w=800\" /\u003e\u003c/div\u003eNot every robot has to be big. Sometimes, you can build something fun that\u0026#8217;s better sized for exploring your tabletop rather than the wastelands of Mars. To that end, [philosiraptor] \u003ca href=\"https://hackaday.com/2025/11/02/pi-zero-powers-a-little-indoor-rover/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/02/pi-zero-powers-a-little-indoor-rover/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "Pi",
+        "raspberry pi",
+        "rover"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/295802925-89f5a9b1-f8a2-4b84-8dcb-f21032d63584_d4f0f7-e1761881646244.png"
+      },
+      "published": "2025-11-02T18:00:15Z"
+    }
+  },
+  {
+    "hash": "5840c310c4778b812a7454d9ee485d9268c0f7e5cd3596599eb89ccbef36718d",
+    "item": {
+      "title": "Building a Rubik’s Cube That Solves Itself",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"872640\" data-permalink=\"https://hackaday.com/2025/11/02/building-a-rubiks-cube-that-solves-itself/building-a-self-solving-rubiks-cube-part-1-6-42-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Building a Self Solving Rubik\u0026#8217;s Cube (PART 1) 6-42 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;re really good, it\u0026#8217;s possible to solve a Rubik\u0026#8217;s Cube in under 10 seconds. For the rest of us, though, it can be an exceedingly tedious task. For that \u003ca href=\"https://hackaday.com/2025/11/02/building-a-rubiks-cube-that-solves-itself/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/02/building-a-rubiks-cube-that-solves-itself/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "robot",
+        "Rubik",
+        "rubiks cube",
+        "solver"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/Building-a-Self-Solving-Rubiks-Cube-PART-1-6-42-screenshot.png"
+      },
+      "published": "2025-11-02T15:00:32Z"
+    }
+  },
+  {
+    "hash": "f41681f39be74876033f392b7501a1c294149cf009406d03880178d61827d06a",
+    "item": {
+      "title": "'This is the big one' – tech firms bet on electrifying rail",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792958\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/czdjg92y00no"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T20:04:15Z"
+    }
+  },
+  {
+    "hash": "cbf48e4579518fc17bb39beed2c35ae10542672ab18f379483e44f48a57a12f9",
+    "item": {
+      "title": "Lisp: Notes on its Past and Future (1980)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T19:05:32Z"
+    }
+  },
+  {
+    "hash": "0c665b9898dc0ab70bb54c9dbd04a19dde037c9615be40191ef797c81b82d4f2",
+    "item": {
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45789424\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T11:01:23Z"
+    }
+  },
+  {
+    "hash": "186cbeb982c75828fb0f9aea8ae2f704fe4a9a3b7e22298cb1cc0dc7167abab6",
+    "item": {
+      "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792373\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T18:37:38Z"
+    }
+  },
+  {
+    "hash": "ebf9f02e43f79be205668f82e6b04e77588a35e3280c4aade8f2487ec4ab9f4d",
+    "item": {
+      "title": "Linux gamers on Steam cross over the 3% mark",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792503\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T18:54:59Z"
+    }
+  },
+  {
+    "hash": "ec7a2242dd8450b67ec96823aad34bf45976b2d3956d62608bc48a12308778a8",
+    "item": {
+      "title": "Why don't you use dependent types?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45790827\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T15:06:36Z"
+    }
+  },
+  {
+    "hash": "46bad6c0ace1d99e0ff25f52eb8823a55f71df272595adb183a147368122e781",
+    "item": {
+      "title": "Anti-cybercrime laws are being weaponized to repress journalism",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792209\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T18:12:49Z"
+    }
+  },
+  {
+    "hash": "18a86b4474f1ee563dc75d9cc73f10a2f1890073fb9c2acfab46c236c24f4171",
+    "item": {
+      "title": "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792166\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T18:06:15Z"
+    }
+  },
+  {
+    "hash": "2900228f508ca1b0d80b62db4817d29a84ae1a9a6e6285fa7d829bea6decfea5",
+    "item": {
+      "title": "Solar-powered QR reading postboxes being rolled out across UK",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45745415\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cgln72rgrero"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T11:32:27Z"
+    }
+  },
+  {
+    "hash": "1378bf640132854a56c85d22938542f0bc419ddeb9206779950f82eef1300b14",
+    "item": {
+      "title": "Printed circuit board substrates derived from lignocellulose nanofibrils",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722570\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/s41598-025-91653-1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-27T16:03:54Z"
+    }
+  },
+  {
+    "hash": "6b53a6244b670427adbe0aa42cf29fa9d378d65d798eadc1a9f40aa89aba3fd8",
+    "item": {
+      "title": "Autodesk's John Walker Explained HP and IBM in 1991 (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45745382\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T11:28:17Z"
+    }
+  },
+  {
+    "hash": "9cfc6804d52a6a853a2410447199fe910fda6bf4ac5458bf91d3fc04a606ad40",
+    "item": {
+      "title": "Notes by djb on using Fil-C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788040\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cr.yp.to/2025/fil-c.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T05:32:02Z"
+    }
+  },
+  {
+    "hash": "41ea54fe9439b22900346e9a50a35630561a14bbfbc4ca7fa5df0a0fa09ded95",
+    "item": {
+      "title": "Rats filmed snatching bats from air",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45730366\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-28T08:29:13Z"
+    }
+  },
+  {
+    "hash": "48eae50a621b1393764ff5cc955ce6c7330a66e414053a0e2f11d62e7cffbea4",
+    "item": {
+      "title": "React-Native-Godot",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792429\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/borndotcom/react-native-godot"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T18:45:35Z"
+    }
+  },
+  {
+    "hash": "38ce47f845c16a1eee5e136ffec7f9f5f78edaad75888288ccc642b9770a6d68",
+    "item": {
+      "title": "MTurk is 20 years old today – what did you create with it?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45792951\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45792951"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T20:02:31Z"
+    }
   }
 ]
