@@ -2205,5 +2205,819 @@
       },
       "published": "2025-11-03T12:54:28Z"
     }
+  },
+  {
+    "hash": "fb3e03667bc399d4f6e5588c21e9b3da3d75f39c6242292ad846b7cf434fe084",
+    "item": {
+      "title": "OpenAI signs massive AI compute deal with Amazon",
+      "description": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
+      "links": [
+        "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "AI chips",
+        "AI infrastructure",
+        "Amazon",
+        "AWS",
+        "chatbots",
+        "datacenters",
+        "generative ai",
+        "google",
+        "large language models",
+        "machine learning",
+        "microsoft",
+        "NVIDIA",
+        "openai",
+        "oracle",
+        "sam altman"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-1152x648.jpg"
+      },
+      "published": "2025-11-03T17:23:11Z"
+    }
+  },
+  {
+    "hash": "3de9fbac1c3a40b5fdd3306e6cdc8ca6f1c1dde1164f95e6f89b3de87c04e623",
+    "item": {
+      "title": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
+      "description": "The Athena plan lays out a blueprint for Isaacman's tenure at NASA.",
+      "links": [
+        "https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/"
+      ],
+      "categories": [
+        "Space",
+        "duffy",
+        "isaacman",
+        "nasa administrator",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg-1152x648.jpg"
+      },
+      "published": "2025-11-03T16:53:45Z"
+    }
+  },
+  {
+    "hash": "656448383d57bd96699be7ba27166bd348f0b6a7819c38b59d941284fad8b0d3",
+    "item": {
+      "title": "[$] An explicit thread-safety proposal for Python",
+      "description": "\u003cp\u003e\nPython already has several ways to run programs concurrently —\nincluding asynchronous functions, threads, subinterpreters, and multiprocessing\n— but all of those options have drawbacks of one kind or another.\n\u003ca href=\"https://peps.python.org/pep-0703/\"\u003e\nPEP\u0026#160;703\u003c/a\u003e (\"Making the Global Interpreter Lock Optional in CPython\")\n\u003ca href=\"https://lwn.net/Articles/940780/\"\u003eremoved a major barrier\u003c/a\u003e to running Python\nthreads in parallel, but also exposed Python programmers to the same tricky\nsynchronization problems found in other languages supporting multithreaded\nprograms. A new draft proposal\nby Mark Shannon,\n\u003ca href=\"https://pep-previews--4579.org.readthedocs.build/pep-0805/\"\u003e\nPEP\u0026#160;805\u003c/a\u003e (\"Safe Parallel Python\"), suggests a way for the CPython runtime\nto cut down on concurrency bugs, making it more practical for Python programmers\nto use versions of the language without the global interpreter lock (GIL).\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1043568/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-11-03T17:44:17Z"
+    }
+  },
+  {
+    "hash": "7e4acf71e4a58b7eedb99f4509773fda6b7f4879856b57e5a02ab8ddf64e104a",
+    "item": {
+      "title": "Devuan 6.0 released",
+      "description": "\u003ca href=\"https://lwn.net/ml/all/0babed59-acb2-42a9-8203-d0cd83578194@gmail.com\"\u003eVersion\n6.0 (\"Excalibur\")\u003c/a\u003e of the systemd-averse Devuan distribution has been\nreleased.  It is based on Debian\u0026#160;13 (\"trixie\"), and includes some of\nthe significant changes from that release, including the merged\n\u003ctt\u003e/usr\u003c/tt\u003e hierarchy.  See \u003ca\nhref=\"https://files.devuan.org/devuan_excalibur/Release_notes.txt\"\u003ethe\nrelease notes\u003c/a\u003e for details.",
+      "links": [
+        "https://lwn.net/Articles/1044823/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-03T15:18:26Z"
+    }
+  },
+  {
+    "hash": "a429498537d38f847b6fce4aeec050e904f1c7623c140e87b1c08092d7a0a2ae",
+    "item": {
+      "title": "[$] Namespace reference counting and listns()",
+      "description": "The kernel's \u003ca href=\"https://lwn.net/Articles/531114/\"\u003enamespaces feature\u003c/a\u003e is, among\nother things, a key part of the implementation of containers.  Like much in\nthe kernel, though, the namespace API evolved over time; there was no\ndesign at the outset.  As a result, this API has some rough edges and\nmissing features.  Christian Brauner is working to straighten out the\nnamespace situation somewhat with \u003ca\nhref=\"https://lwn.net/ml/all/20251029-work-namespace-nstree-listns-v4-0-2e6f823ebdc0@kernel.org\"\u003ethis\ndaunting 72-part patch series\u003c/a\u003e that, among other things, adds a new\nsystem call to allow user space to query the namespaces present on the\nsystem.",
+      "links": [
+        "https://lwn.net/Articles/1043824/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-03T15:13:24Z"
+    }
+  },
+  {
+    "hash": "55255eec6def71160248b70b7140f135dfb6132bac578a3315e27ec028634267",
+    "item": {
+      "title": "Can Ethereum Break $5,000 Before 2025 Listings as Blazpay Presale Surges Past $1M – Top Crypto to Invest In Right Now",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"390\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-11.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-11.jpg 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-11-300x150.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-11-768x384.jpg 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eThe crypto market continues to show resilience in late 2025, with Ethereum (ETH) holding steady near the $3,800 mark while Blazpay accelerates through Phase 3 of its high-demand presale. Both coins represent different stages of blockchain evolution: Ethereum as the established smart contract giant and Blazpay as one of the",
+      "links": [
+        "https://thenewscrypto.com/can-ethereum-break-5000-before-2025-listings-as-blazpay-presale-surges-past-1m-top-crypto-to-invest-in-right-now/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blazpay"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-11.jpg"
+      },
+      "published": "2025-11-03T13:30:00Z"
+    }
+  },
+  {
+    "hash": "436d6c4684f5dadbe29af25ca914e57b6c0eab86de37dca8e3ff9f7bc276f869",
+    "item": {
+      "title": "You’ll Regret Not Buying Ozak AI at $0.012 — Phase 6 Ending Fast as Presale Nears $4M",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Is-Now-the-Time-to-Switch-From-ETH.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"You’ll Regret Not Buying Ozak AI at $0.012 — Phase 6 Ending Fast as Presale Nears $4M\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Is-Now-the-Time-to-Switch-From-ETH.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Is-Now-the-Time-to-Switch-From-ETH-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Is-Now-the-Time-to-Switch-From-ETH-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eEarly investors who accumulated Ozak AI tokens in pre-sale Phase 1 have already recorded a 12x growth. Longer holding, and they may attain 1,000x ROI on the base investment. However, investors accumulating $OZ in Phase 6 still stand a chance to earn significant multipliers. For instance, a rise from $0.012",
+      "links": [
+        "https://thenewscrypto.com/youll-regret-not-buying-ozak-ai-at-0-012-phase-6-ending-fast-as-presale-nears-4m/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Is-Now-the-Time-to-Switch-From-ETH.jpg"
+      },
+      "published": "2025-11-03T12:50:00Z"
+    }
+  },
+  {
+    "hash": "5aeded1801f900fe75dc4026a386f013f2eb66d3f0487aec79123eeb6e13ab90",
+    "item": {
+      "title": "Analysts Predict Ozak AI Could Surge From $0.012 to $4.50 by 2027 — Early Investors Eye 37,000% ROI Before Next Bull Peak",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/ETH-Whales-Are-Shifting-Profits.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Analysts Predict Ozak AI Could Surge From $0.012 to $4.50 by 2027 — Early Investors Eye 37,000% ROI Before Next Bull Peak\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/ETH-Whales-Are-Shifting-Profits.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/ETH-Whales-Are-Shifting-Profits-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/ETH-Whales-Are-Shifting-Profits-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn the cryptocurrency circles, Ozak AI is making headlines as analysts forecast a possible price explosion from its current Stage 6 presale pricing of $0.012 to $4.50 by 2027. A 37,000% return on such an increase would transform little investments into potentially transformative profits.\u0026#160; Given that 988 million tokens have",
+      "links": [
+        "https://thenewscrypto.com/analysts-predict-ozak-ai-could-surge-from-0-012-to-4-50-by-2027-early-investors-eye-37000-roi-before-next-bull-peak/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/ETH-Whales-Are-Shifting-Profits.jpg"
+      },
+      "published": "2025-11-03T11:42:41Z"
+    }
+  },
+  {
+    "hash": "e7482f8b5ea9332bf0902e33191ca338e40a55fdfd69e59795c050acd77f07af",
+    "item": {
+      "title": "Trump Defends Crypto Industry While Denying Personal Connection to CZ",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Trump-again-denied-ties-to-Binance-co-founder-CZ-amid1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Trump Defends Crypto Industry While Denying Personal Connection to CZ\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Trump-again-denied-ties-to-Binance-co-founder-CZ-amid1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Trump-again-denied-ties-to-Binance-co-founder-CZ-amid1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Trump-again-denied-ties-to-Binance-co-founder-CZ-amid1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003ePresident of the United States, Donald Trump, defended his controversial pardon of Changpeng \u0026#8220;CZ\u0026#8221; Zhao, co-founder of the cryptocurrency exchange platform Binance, claiming he has no ties to the cryptocurrency executive. During a 60 Minutes interview on CBS News\u0026#8217;, which aired on Sunday, Trump rejected accusations that the pardon was",
+      "links": [
+        "https://thenewscrypto.com/trump-defends-crypto-industry-while-denying-personal-connection-to-cz/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Binance",
+        "CZ",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Trump-again-denied-ties-to-Binance-co-founder-CZ-amid1.jpg"
+      },
+      "published": "2025-11-03T11:36:17Z"
+    }
+  },
+  {
+    "hash": "dfc95a2bc52501819af00060fe63ccbc1621d946d1bd8b8d9fb302a58228c7e8",
+    "item": {
+      "title": "Hyperliquid (HYPE) Breakdown Alert: Are the Bears Lining Up for a Drop to $20?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Hyperliquid-HYPE-Breakdown-Alert-Are-the-Bears-Lining-Up-for-a-Drop-to-20.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hyperliquid (HYPE) Breakdown Alert: Are the Bears Lining Up for a Drop to $20?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Hyperliquid-HYPE-Breakdown-Alert-Are-the-Bears-Lining-Up-for-a-Drop-to-20.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Hyperliquid-HYPE-Breakdown-Alert-Are-the-Bears-Lining-Up-for-a-Drop-to-20-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Hyperliquid-HYPE-Breakdown-Alert-Are-the-Bears-Lining-Up-for-a-Drop-to-20-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the solid 3.44% drop in the crypto market, the bears have reinforced their position. The majority of the assets are in the red zone, visiting their former support.\u0026#160; Bitcoin and Ethereum are in a downtrend, currently trading at around $107.4K and $3.7K. Among the altcoins, Hyperliquid (HYPE) followed suit",
+      "links": [
+        "https://thenewscrypto.com/hyperliquid-hype-breakdown-alert-are-the-bears-lining-up-for-a-drop-to-20/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "HYPE",
+        "Hyperliquid"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Hyperliquid-HYPE-Breakdown-Alert-Are-the-Bears-Lining-Up-for-a-Drop-to-20.jpg"
+      },
+      "published": "2025-11-03T11:34:32Z"
+    }
+  },
+  {
+    "hash": "e0e4232440af373828c2815f3b1a86623587d68b413b6041f1622f5745a53d50",
+    "item": {
+      "title": "Changpeng Zhao’s $2.5M Aster Bet Sends Token Soaring 30% in Hours",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Changpeng Zhao\u0026#039;s $2.5M Aster Bet Sends Token Soaring 30% in Hours\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eChangpeng Zhao, the co-founder of Binance, caused a major surge in the prices of Aster tokens when he announced that he personally invested in the cryptocurrency. The former exchange chief disclosed that he had bought more than 2 million Aster tokens valued at around $2.5 million with his own money",
+      "links": [
+        "https://thenewscrypto.com/changpeng-zhaos-2-5m-aster-bet-sends-token-soaring-30-in-hours/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Aster",
+        "Changpeng Zhao"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2.jpg"
+      },
+      "published": "2025-11-03T09:28:20Z"
+    }
+  },
+  {
+    "hash": "39956256f02ae71a1683418927e57aca8f61eccb8554a28556a2152e69512326",
+    "item": {
+      "title": "The Need for Private Value and How Some Projects are Redefining the Digital Economy Using This Ethos",
+      "description": "\u003cp\u003e\u003cimg width=\"878\" height=\"492\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.jpg 878w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-300x168.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-768x430.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-376x212.jpg 376w\" sizes=\"auto, (max-width: 878px) 100vw, 878px\" /\u003e\u003c/p\u003eMoney has always mirrored the society that uses it, and the advent of the digital dollar has been no exception. To this point, the last few years have seen stablecoins become the backbone of digital finance, with on-chain settlement volumes exceeding $1.2 trillion per month during September alone (and their",
+      "links": [
+        "https://thenewscrypto.com/the-need-for-private-value-and-how-some-projects-are-redefining-the-digital-economy-using-this-ethos/"
+      ],
+      "categories": [
+        "Market News",
+        "Stablecoin",
+        "USDC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.jpg"
+      },
+      "published": "2025-11-03T09:14:35Z"
+    }
+  },
+  {
+    "hash": "66557fff41d8575b4b2a3fb16417b0bebcaeff09976a10a5c7eafa498f58bfb7",
+    "item": {
+      "title": "Git 2.52-rc0 Starts Working On SHA1-SHA256 Interop, Hints For New Default Branch Name",
+      "description": "The first test release of the Git 2.52 distributed revision control system is now available. As has been a common trend, Git 2.52 is making further preparations in anticipation of the big Git 3.0 milestone...",
+      "links": [
+        "https://www.phoronix.com/news/Git-2.52-rc0-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-03T17:28:31Z"
+    }
+  },
+  {
+    "hash": "979481a1c570bdf4fe08682861ef7e9a2bbcb6647fb381a62b6627b7a4132330",
+    "item": {
+      "title": "Flatpak 1.17 Adds Support For Sideloading From OCI Images, flatpak+HTTPS URIs",
+      "description": "Flatpak 1.17 is out today as the newest feature release for this Linux app sandboxing/distribution tech. Flatpak 1.17 brings a number of exciting new features...",
+      "links": [
+        "https://www.phoronix.com/news/Flatpak-1.17"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-03T16:39:52Z"
+    }
+  },
+  {
+    "hash": "02275bf5ded457c9f5f660b95088cba814c9819465b2089f48fd2493e899fe92",
+    "item": {
+      "title": "AMD Radeon AI PRO R9700 Offers Competitive Workstation Graphics Performance/Value",
+      "description": "Last week the AMD Radeon PRO R9700 officially began shipping for that new AI-minded workstation/professional graphics card built on RDNA4 and packing 32GB of RAM to accommodate large language models (LLMs) especially with multi-GPU configurations. While the focus of the product has been all about AI workloads, you may be wondering about the graphics capabilities of the Radeon AI PRO R9700 given the lack of any other \"Radeon PRO 9000\" series product at this point. In today's testing is a look at the workstation graphics capabilities for the AMD Radeon AI PRO R9700.",
+      "links": [
+        "https://www.phoronix.com/review/radeon-ai-pro-r9700-graphics"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-03T15:20:00Z"
+    }
+  },
+  {
+    "hash": "40d31e1ce69e2b612202d8cd00e2488c7c176d2fc08634bd1fff8c048bcaa1ac",
+    "item": {
+      "title": "Ask HN: Who is hiring? (November 2025)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800465\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45800465"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T16:00:00Z"
+    }
+  },
+  {
+    "hash": "a47df561429635661649f40e022914b9e3e32ff938b3aa5b8c00ea7398a3fe17",
+    "item": {
+      "title": "Learning to read Arthur Whitney's C to become smart (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800777\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://needleful.net/blog/2024/01/arthur_whitney.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T16:23:11Z"
+    }
+  },
+  {
+    "hash": "e124b64c0693cd995b1cbd73e1f981517211d1d763c75dce47226baefb9a9e8f",
+    "item": {
+      "title": "The Case That A.I. Is Thinking",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45802029\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T17:55:10Z"
+    }
+  },
+  {
+    "hash": "f1a5537be4f2aa870f6e06bfb8b99177de75c088037ec4be7f91a4b1220635e3",
+    "item": {
+      "title": "Ask HN: Who wants to be hired? (November 2025)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800464\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45800464"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T16:00:00Z"
+    }
+  },
+  {
+    "hash": "bef70ee19c7ab99b3e2fdba6416e62fe19c2de3cb9224bf61c218ed4b97b398d",
+    "item": {
+      "title": "Robert Hooke's \"Cyberpunk” Letter to Gottfried Leibniz",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800308\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T15:45:31Z"
+    }
+  },
+  {
+    "hash": "9e8a6f8b5a2854f2cf381822429f3238dd95694ea6b93a8ca9230ca5e9ab8dd8",
+    "item": {
+      "title": "State of Terminal Emulators in 2025: The Errant Champions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799478\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T14:40:51Z"
+    }
+  },
+  {
+    "hash": "1e8bc25d0da4da5bc6a9997d81aaad4f04d6f98a19dfb4c1173af409f8323639",
+    "item": {
+      "title": "The Continual Learning Problem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45701810\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jessylin.com/2025/10/20/continual-learning/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-25T06:45:20Z"
+    }
+  },
+  {
+    "hash": "4d152bd9b4adbaf6c75fd7a3a84e472b62ec926031fe579340fc29c2113df98d",
+    "item": {
+      "title": "Why We Migrated from Python to Node.js",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800955\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.yakkomajuri.com/blog/python-to-node"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T16:35:44Z"
+    }
+  },
+  {
+    "hash": "a1f5569fc710f7e18a60d32f84bc47ee4448076380ab705f99ef71a3c844ba1f",
+    "item": {
+      "title": "Measuring characteristics of TCP connections at Internet scale",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45746289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cloudflare.com/measuring-network-connections-at-scale/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T13:00:53Z"
+    }
+  },
+  {
+    "hash": "85c5b23caae59bfd6b331e4158f15ee7c1fcdcfe0e56b31b118fbf7e96441c2d",
+    "item": {
+      "title": "No Socials November",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45801096\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bjhess.com/posts/no-socials-november"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T16:45:12Z"
+    }
+  },
+  {
+    "hash": "ea45e996cd88afb464893258959b4999dabfcf225696150859fabcb7b3557333",
+    "item": {
+      "title": "Harder, Better, Faster, Stronger Version of Uber H3 in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680602\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-23T11:23:51Z"
+    }
+  },
+  {
+    "hash": "b105497c372082e169c702239439e21958b5f5f0f41874b51c48403356a32154",
+    "item": {
+      "title": "The problem with farmed seafood",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798898\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nautil.us/the-problem-with-farmed-seafood-1243674/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:48:39Z"
+    }
+  },
+  {
+    "hash": "dbc5992bd49ca98f17cc2bd045f05d20112a09eba7296e751a4f57840d912942",
+    "item": {
+      "title": "Show HN: FinBodhi – Local-first, double-entry app/PWA for your financial journey",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800117\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://finbodhi.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T15:29:13Z"
+    }
+  },
+  {
+    "hash": "e49eae9cf1fa8098204c463164436dd20b77def650a140ddf116f212467a163b",
+    "item": {
+      "title": "Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800967\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T16:36:29Z"
+    }
+  },
+  {
+    "hash": "acec77747afa41e37d361defa1bc7bf6b228a062478a1e43fe653bd33cd6b4dd",
+    "item": {
+      "title": "OpenAI signs $38B cloud computing deal with Amazon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799211\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T14:20:05Z"
+    }
+  },
+  {
+    "hash": "2c449c4072d4c9acb35867c42a639b6a7eaa6c3e6fc9e55acd005b522ced9a56",
+    "item": {
+      "title": "Dogecoin Price Prediction: Whales Dump $440M – Is This the Final Warning Before a Full-Scale Collapse?",
+      "description": "\u003cp\u003eSmart money appears to be lowering exposure to Dogecoin as analysts refocus on deeper lows – Dogecoin price predictions now eye a crash.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-whales-dump-440m-is-this-the-final-warning-before-a-full-scale-collapse/\"\u003eDogecoin Price Prediction: Whales Dump $440M – Is This the Final Warning Before a Full-Scale Collapse?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-whales-dump-440m-is-this-the-final-warning-before-a-full-scale-collapse/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Price Prediction",
+        "Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/06121608/1759752967-dogecoin.jpg"
+      },
+      "published": "2025-11-03T17:59:57Z"
+    }
+  },
+  {
+    "hash": "a7adca5e4056d6961c344e8fd9724fe467c41bc23d2fb2d84c5261b8a994eea5",
+    "item": {
+      "title": "Altcoin Season Slips To 25 – MemeCore, $TRUMP, And Zcash Hold Interest",
+      "description": "\u003cp\u003eAltcoin season has cooled, with the index having slipped to 25, while activity has concentrated in MemeCore, OFFICIAL TRUMP and Zcash. Traders have focused on liquid venues, narrative clarity and upcoming supply shifts, keeping select tokens active as broader participation has lagged.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-slips-to-25-while-memecore-trump-and-zcash-hold-interest/\"\u003eAltcoin Season Slips To 25 – MemeCore, $TRUMP, And Zcash Hold Interest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-slips-to-25-while-memecore-trump-and-zcash-hold-interest/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03175008/1762192207-chatgpt-image-nov-3-2025-12_48_44-pm_optimized.jpg"
+      },
+      "published": "2025-11-03T17:50:28Z"
+    }
+  },
+  {
+    "hash": "f6e043606715d2b998106b0fcf6fa924721a757e3a882ddce2d547bd9925d79f",
+    "item": {
+      "title": "Aster Price Prediction: Billionaire Binance Founder CZ Buys In With His Own Money – Can ASTER 10x Quickly?",
+      "description": "\u003cp\u003eTrading volumes for ASTER have surged over 1,100% in the past 24 hours, fueled by a surprise $2 million investment from Binance’s former CEO Changpeng Zhao – boosting confidence in a bullish Aster price prediction. Aster jumped from $0.92 to $1.26 for a 36% single-day spike at some point, but has progressively retreated to $1, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aster-price-prediction-billionaire-binance-founder-cz-buys-in-with-his-own-money-can-aster-10x-quickly/\"\u003eAster Price Prediction: Billionaire Binance Founder CZ Buys In With His Own Money – Can ASTER 10x Quickly?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aster-price-prediction-billionaire-binance-founder-cz-buys-in-with-his-own-money-can-aster-10x-quickly/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ASTER",
+        "CZ",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03120730/1762171649-aster-price-prediction-1.jpg"
+      },
+      "published": "2025-11-03T17:32:09Z"
+    }
+  },
+  {
+    "hash": "23ae8db0738adab43d1573b31b793738feba5a5a7351b030f9c617aa79ad105d",
+    "item": {
+      "title": "FTSE Russell Brings Its Indices Onchain Through Chainlink’s DataLink – Turning Point for Institutional Finance?",
+      "description": "\u003cp\u003eChainlink has partnered with FTSE Russell to publish benchmarks onchain via DataLink, bringing equity, FX, and digital asset indices to multiple blockchains for verified use by institutions and dApps in tokenized products and data-driven markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ftse-russell-brings-its-indices-onchain-through-chainlinks-datalink-turning-point-for-institutional-finance/\"\u003eFTSE Russell Brings Its Indices Onchain Through Chainlink’s DataLink – Turning Point for Institutional Finance?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ftse-russell-brings-its-indices-onchain-through-chainlinks-datalink-turning-point-for-institutional-finance/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "ChainLink",
+        "Datalink",
+        "FTSE Russell"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/09/12124515/1757681114-what-is-blockchain-technology_optimized.webp"
+      },
+      "published": "2025-11-03T16:49:44Z"
+    }
+  },
+  {
+    "hash": "a079422e2aa37d3b2d198a624cf99d5c097c2af2469f89c4fcf9cc3793370b0d",
+    "item": {
+      "title": "EU Plans to Give ESMA Direct Power Over Crypto Exchanges",
+      "description": "\u003cp\u003eThe European Commission is advancing plans to centralize crypto exchange oversight under ESMA, ending fragmented national regulation as Germany signals support while smaller financial centers resist the shift.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eu-plans-to-give-esma-direct-power-over-crypto-exchanges/\"\u003eEU Plans to Give ESMA Direct Power Over Crypto Exchanges\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eu-plans-to-give-esma-direct-power-over-crypto-exchanges/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "ESMA",
+        "Europe",
+        "MiCA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03102239/1762165359-image-1762165328728_optimized.jpg"
+      },
+      "published": "2025-11-03T16:19:06Z"
+    }
+  },
+  {
+    "hash": "3b3b3a927b7da33de556949e75eacd82057812e852445c90ed30faa40ef3a96f",
+    "item": {
+      "title": "Stablecoins Win Big Under MiCA: Zerohash Secures EU License",
+      "description": "\u003cp\u003eZerohash has secured an EU license under the MiCA framework, marking a major development for stablecoins in Europe and raising questions about the future of the Digital Euro.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stablecoins-mica-zerohash-license-digital-euro/\"\u003eStablecoins Win Big Under MiCA: Zerohash Secures EU License\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stablecoins-mica-zerohash-license-digital-euro/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "MiCA",
+        "Stablecoin",
+        "zerohash"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03152609/1762183568-0_0-31_optimized.jpg"
+      },
+      "published": "2025-11-03T16:17:55Z"
+    }
+  },
+  {
+    "hash": "2afc2c9b6944f1b12cb6bb403838385234c3079131a1d9b87f38a3c9b45ff142",
+    "item": {
+      "title": "Animoca Brands Eyes $1 Billion Nasdaq Debut Through Reverse Merger",
+      "description": "\u003cp class=\"whitespace-normal break-words\"\u003eAnimoca Brands advances plans for a $1 billion Nasdaq debut through a reverse merger with Currenc Group, positioning the blockchain developer for renewed public market access after its 2020 ASX delisting.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/animoca-brands-eyes-1-billion-nasdaq-debut-through-reverse-merger/\"\u003eAnimoca Brands Eyes $1 Billion Nasdaq Debut Through Reverse Merger\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/animoca-brands-eyes-1-billion-nasdaq-debut-through-reverse-merger/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Nasdaq"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03134702/1762177621-stock-image_optimized-4.jpg"
+      },
+      "published": "2025-11-03T16:04:44Z"
+    }
+  },
+  {
+    "hash": "21371b792187cd62093a852f8a4ebb8625b3735dc769f49629a7e09779b713bb",
+    "item": {
+      "title": "‘Not Kidnapped, Lawfully Detained’: Nigerians Fire Back as CZ Reignites Binance Controversy",
+      "description": "\u003cp\u003eBinance founder has reignited controversy by accusing Nigerian authorities of kidnapping, prompting Nigeria to publicly defend the legality of its detention of a former executive.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cz-nigeria-binance-kidnap-controversy/\"\u003e‘Not Kidnapped, Lawfully Detained’: Nigerians Fire Back as CZ Reignites Binance Controversy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cz-nigeria-binance-kidnap-controversy/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Binance",
+        "Changpeng Zhao",
+        "Nigeria"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03134958/1762177797-d1297caa-55f1-450c-b6c9-f551411af744-1_optimized.jpg"
+      },
+      "published": "2025-11-03T16:02:43Z"
+    }
+  },
+  {
+    "hash": "24ca583488535535e213c60b8949016eb9781bfbdf26a321620c224e917f1eec",
+    "item": {
+      "title": "$116M in Crypto Assets Gone – Balancer Suffers One of DeFi’s Largest Exploits",
+      "description": "\u003cp\u003eBalancer Protocol has been exploited for over $116 million across multiple blockchains in a coordinated attack, triggering panic withdrawals and security responses from major DeFi platforms including Lido and Aave.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/116m-in-crypto-assets-gone-balancer-suffers-one-of-defis-largest-exploits/\"\u003e$116M in Crypto Assets Gone – Balancer Suffers One of DeFi’s Largest Exploits\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/116m-in-crypto-assets-gone-balancer-suffers-one-of-defis-largest-exploits/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto hack",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03123613/1762173373-image-1762173351851_optimized.jpg"
+      },
+      "published": "2025-11-03T15:59:22Z"
+    }
+  },
+  {
+    "hash": "70b956ed01579c7c855ae048fa641e82b52c5b223388609c66550faa9e523c7c",
+    "item": {
+      "title": "Archax CEO Graham Rodford on Regulation, Tokenization, and the Future of Digital Markets",
+      "description": "\u003cp\u003eArchax has obtained FCA authorization as the UK’s first regulated digital securities exchange, broker, and custodian, has processed $500M+ in tokenized instruments, and has announced plans to acquire DDA to expand regulated access across Germany and France.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/archax-ceo-graham-rodford-on-regulation-tokenization-and-the-future-of-digital-markets/\"\u003eArchax CEO Graham Rodford on Regulation, Tokenization, and the Future of Digital Markets\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/archax-ceo-graham-rodford-on-regulation-tokenization-and-the-future-of-digital-markets/"
+      ],
+      "categories": [
+        "Exclusives",
+        "Archax",
+        "FCA",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03141932/1762179572-graham-rodford_720.jpg"
+      },
+      "published": "2025-11-03T15:57:46Z"
+    }
+  },
+  {
+    "hash": "0175fe06622e55309780e51018b10f0ee4636b413065698507ffba78ccd7cc27",
+    "item": {
+      "title": "Ethereum Price Prediction: Rich Dad Poor Dad Author Warns of November Crash – But ETH Could Soar While Everything Else Crashes",
+      "description": "\u003cp\u003eEthereum Price Prediction has examined Robert Kiyosaki’s latest crash warning alongside ETH’s technical set-up, with RSI in oversold territory. A defense of support has pointed to a rebound toward 3,900, while a break has suggested further losses and pressure across major altcoins.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-rich-dad-poor-dad-author-warns-of-november-crash-but-eth-could-soar-while-everything-else-crashes/\"\u003eEthereum Price Prediction: Rich Dad Poor Dad Author Warns of November Crash – But ETH Could Soar While Everything Else Crashes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-rich-dad-poor-dad-author-warns-of-november-crash-but-eth-could-soar-while-everything-else-crashes/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Cryptocurrency",
+        "ETH",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03101956/1762165195-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-11-03T15:11:08Z"
+    }
   }
 ]
