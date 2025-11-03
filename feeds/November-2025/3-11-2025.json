@@ -1519,5 +1519,691 @@
       },
       "published": "2025-11-03T09:13:30Z"
     }
+  },
+  {
+    "hash": "bb3c4254270ad5d9fa49f525ca139c7ed3cfc9abc94da319c4d2ab54f93853a7",
+    "item": {
+      "title": "Disruption to science will last longer than the US government shutdown",
+      "description": "The consequences of the shutdown extend far beyond a lapse in funding.",
+      "links": [
+        "https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/"
+      ],
+      "categories": [
+        "Science",
+        "government shutdown",
+        "Science policy",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kenneth M. Evans, The Conversation"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-1152x648.jpg"
+      },
+      "published": "2025-11-03T14:45:11Z"
+    }
+  },
+  {
+    "hash": "7521cfdedaf1933c9051c6f5271afa1181b9d0d3bbdd2e1fcd99e9dcbb79a251",
+    "item": {
+      "title": "Internet Archive’s legal fights are over, but its founder mourns what was lost",
+      "description": "\"We survived, but it wiped out the library,\" Internet Archive's founder says.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/"
+      ],
+      "categories": [
+        "Features",
+        "Policy",
+        "copyright act",
+        "copyright law",
+        "digital library",
+        "Internet Archive",
+        "online archive",
+        "online library",
+        "wayback machine"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-10-22-Internet-Archive-1-Trillion-web-pages-375-1152x648.jpg"
+      },
+      "published": "2025-11-03T12:00:51Z"
+    }
+  },
+  {
+    "hash": "2a981b54d8569170703a18164ab7acb5c168b766a14eaf0ee6c5cb6ad1106515",
+    "item": {
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "description": "The highest-scoring \u003cem\u003eBoggle\u003c/em\u003e board, catching high-speed snake bites in action, and more.",
+      "links": [
+        "https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/"
+      ],
+      "categories": [
+        "Science",
+        "Archeology",
+        "Food science",
+        "geophysics",
+        "Mars",
+        "planetary geology",
+        "research roundup",
+        "snakes"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/karnak1-1152x648-1759588364.jpg"
+      },
+      "published": "2025-11-01T16:38:09Z"
+    }
+  },
+  {
+    "hash": "5344529ee4008e83cdac2ddc578349d1abe8375a0ef8e46611085b672abd3ebb",
+    "item": {
+      "title": "RadeonSI ACO vs. LLVM Backends For AMD Strix Halo",
+      "description": "With the RadeonSI Gallium3D driver now defaulting to the ACO compiler back-end for all Radeon GPUs rather than the conventional AMDGPU LLVM shader compiler back-end, I ran some quick comparison benchmarks on AMD Ryzen AI Max+ \"Strix Halo\" with Radeon 8060S Graphics for comparison...",
+      "links": [
+        "https://www.phoronix.com/news/RadeonSI-ACO-LLVM-Strix-Halo"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-03T13:52:21Z"
+    }
+  },
+  {
+    "hash": "bb7eed3c2f533d021c75f1900809d970cbb9c39f0734d7012db97a59197c7418",
+    "item": {
+      "title": "Linux 6.19 To Support Microsoft's ACPI Fan Extensions",
+      "description": "A few weeks back I reported on Linux kernel patches surfacing for implementing Microsoft's ACPI Fan Extensions. This should help some HP devices and hardware from other OEMs for obtaining fan information reporting under Linux. The good news now is that the patches should be part of the upcoming Linux 6.19 kernel cycle...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-MS-ACPI-Fan-Ext"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-03T11:29:01Z"
+    }
+  },
+  {
+    "hash": "6df312dc444fad51315b371609e86ca9f5ea24101e785516921de0ef97d63045",
+    "item": {
+      "title": "Why Nextcloud feels slow to use",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798681\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:21:09Z"
+    }
+  },
+  {
+    "hash": "df978b7f39849c0001c84afb395fe6de7e9c42d83b44fadb0cef4b815f15cf1b",
+    "item": {
+      "title": "VimGraph",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798838\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:40:47Z"
+    }
+  },
+  {
+    "hash": "2c226fc40840dd0390887775fd485d128a5296b813aff8ea3904185f1c1942af",
+    "item": {
+      "title": "The Problem with Farmed Seafood",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798898\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nautil.us/the-problem-with-farmed-seafood-1243674/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:48:39Z"
+    }
+  },
+  {
+    "hash": "c217842d6b4af865b8b8671eee0ea5598fb02c6a8e6244da051fa0652045fbb7",
+    "item": {
+      "title": "WebAssembly (WASM) arch support for the Linux kernel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45783074\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/joelseverin/linux-wasm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T16:39:05Z"
+    }
+  },
+  {
+    "hash": "99d16fc7adc1e63813b28ccfbceed0fbd431f0150e2ef2eb7143b88ab2380a30",
+    "item": {
+      "title": "Uv Crash Course",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799652\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lernerpython.com/uv-crash-course/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T14:54:12Z"
+    }
+  },
+  {
+    "hash": "2122e83869b5550d076555bac7da5786c0506c1fc3fcca2a78ec8c2b4e06691d",
+    "item": {
+      "title": "The Case Against PGVector",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798479\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alex-jacobs.com/posts/the-case-against-pgvector/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T12:50:27Z"
+    }
+  },
+  {
+    "hash": "bc37bae0943f0a719f7647b8c95262c6ba6d75e70a888ad9656f1c1009c52822",
+    "item": {
+      "title": "A collection of links that existed about Anguilla as of 2003",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798892\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://web.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:47:27Z"
+    }
+  },
+  {
+    "hash": "fd1252cfab8ece5367f75ccde881f7860a4370fa20c5c5a7bfd8031dff7aa78f",
+    "item": {
+      "title": "Show HN: a Rust ray tracer that runs on any GPU – even in the browser",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798871\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/tchauffi/rust-rasterizer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:45:15Z"
+    }
+  },
+  {
+    "hash": "4efbcf595371d3ac705c0d0511deff44722524d1941a65c7e6e65775ace8f82d",
+    "item": {
+      "title": "Offline Math: Converting LaTeX to SVG with MathJax",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798746\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:29:17Z"
+    }
+  },
+  {
+    "hash": "6eb150ec26b1fe503f19e63fdcd30e6f0215061d63011527b6ab53c5ef4e0a3b",
+    "item": {
+      "title": "OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798193\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/ServiceStack/llms"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T12:05:28Z"
+    }
+  },
+  {
+    "hash": "d63394da81cbad126cbd62c63aac25f1e0eb8398916c701bbc98dc8862410039",
+    "item": {
+      "title": "A visualization of the RGB space covered by named colors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codepen.io/meodai/full/zdgXJj/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-29T16:09:39Z"
+    }
+  },
+  {
+    "hash": "6c4fcb3d4207bdd2b5650299953144bfae7e00ba20671def86f6a495288acba1",
+    "item": {
+      "title": "Geonum – geometric number library for unlimited dimensions with O(1) complexity",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799096\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/mxfactorial/geonum"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T14:10:57Z"
+    }
+  },
+  {
+    "hash": "013e04e61a9630b71126dbc6cbed47ddeb4409c647547d05b04ccd2800a8fbcd",
+    "item": {
+      "title": "Google suspended my company's Google cloud account for the third time",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798827\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:39:18Z"
+    }
+  },
+  {
+    "hash": "9ece3917dd1433a6b940b59e587fe9ca4f700128c8679f36d43f3a641e873902",
+    "item": {
+      "title": "A turn lane in Rhododendron",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45714336\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.greentape.pub/p/a-turn-lane-in-rhododendron"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-26T18:58:31Z"
+    }
+  },
+  {
+    "hash": "6fd41df65379cb22dfaa1cfd739ff096c29562cca1de2ea693894f4c8672a33b",
+    "item": {
+      "title": "Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798881\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://skyfall-gs.jayinnn.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:46:19Z"
+    }
+  },
+  {
+    "hash": "7a8c6329e255457fafec46c8ec3a819551b7ed62fb7f748ea8d42b148f396ac5",
+    "item": {
+      "title": "Fish in the Wrong Place",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45720024\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lrb.co.uk/the-paper/v47/n19/oliver-cussen/fish-in-the-wrong-place"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-27T12:05:16Z"
+    }
+  },
+  {
+    "hash": "07fdef3a233777c19f1560c96dd3eb0c6437a7d09a5b1beda1f1aca0b5110e89",
+    "item": {
+      "title": "I analyzed 180M jobs to see what jobs AI is replacing today",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798489\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T12:52:18Z"
+    }
+  },
+  {
+    "hash": "912652215f408c3fd876607f43a5aa97d706fab11a6bfab475bc21ae050d668d",
+    "item": {
+      "title": "An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798741\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T13:28:37Z"
+    }
+  },
+  {
+    "hash": "be064ce857436d8045bdbb883b6c4e989908066fedebff458b029a78f53a233e",
+    "item": {
+      "title": "FurtherAI (YC W24) Is Hiring Across Software and AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45793652\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45793652"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T21:35:02Z"
+    }
+  },
+  {
+    "hash": "e4f0759628ca6f97df54290751a26b3554b16f4470d8e95e36f1ee503e84a30c",
+    "item": {
+      "title": "Türkiye will not sell rare earth elements to the USA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799110\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T14:12:15Z"
+    }
+  },
+  {
+    "hash": "457056ddd17c61e097d3c579a97be1fe7df23bab17832a6228c0ac280a963f5d",
+    "item": {
+      "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
+      "description": "Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and ultimately steal cargo freight.\nThe threat cluster, believed to be active since at least June 2025 according to Proofpoint, is said to be collaborating with organized crime groups to break into entities in the",
+      "links": [
+        "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbX8J0_0T47YXAz7Dd3-oMDVE4jIN0KXLb0QHkdJOWEk1wS2tdrwCXtpfTtDW1YHXbqE2HMyNm4L6QZc3cEKQDnDGBAtiZL6CUlj0G1rGy3-9MFgpov7t3u4CtYJbkk3UDi_05qp5ScoXOKcn3duBXop74yVHiPN2epcn7CpoKQOZjwtVBAjrHj79iPxx/s1600/hacking-trucks.jpg"
+      },
+      "published": "2025-11-03T13:18:00Z"
+    }
+  },
+  {
+    "hash": "db3cd81cc546d9a7821f1a9e832d185de24abb6fe798c0a0101ae3cda04ce0da",
+    "item": {
+      "title": "⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool \u0026 More",
+      "description": "Cyberattacks are getting smarter and harder to stop. This week, hackers used sneaky tools, tricked trusted systems, and quickly took advantage of new security problems—some just hours after being found. No system was fully safe.\nFrom spying and fake job scams to strong ransomware and tricky phishing, the attacks came from all sides. Even encrypted backups and secure areas were put to the test.",
+      "links": [
+        "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmxVKba9Dgqm0Z67Kl0gXQXbPMhT_CbvxnNMtnrhn5s0I5wZm8o0I3Dk60ddk0MoEngtBfkLe12knwd9jV8AV7YaVP6fYcy60zKhCu3PomuZ7ZJttgXYf4CL3db0WcIuBkrUKeQmtQNF_rPMhVDVeEYaEwo15yvQbsllKM6cPyXlu_60E2rkpauhfITDR/s1600/recap.jpg"
+      },
+      "published": "2025-11-03T12:56:00Z"
+    }
+  },
+  {
+    "hash": "7cac75c62221a9d8eb2c47bdc291b79a4fb1e06f1cd999f0a9066a0e0b45cfbe",
+    "item": {
+      "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
+      "description": "Security Operations Centers (SOC) today are overwhelmed. Analysts handle thousands of alerts every day, spending much time chasing false positives and adjusting detection rules reactively. SOCs often lack the environmental context and relevant threat intelligence needed to quickly verify which alerts are truly malicious. As a result, analysts spend excessive time manually triaging alerts, the",
+      "links": [
+        "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ9mDhJ4SDGuA35c4k39ETwA8rFT03x3IsKZM37FHB4-uz_qMA4n2BfzZk_8UqkBuL-wA6NWx3i3f3CGin1cIF2JJI6n3xbX1T_FAeMJqkHJXoPVl4OqVgvQ_9OtnEWm8dIpev6_EkLTCpddCzFb4lixW4cfZGES7vhsivpUAFn1pHT6JqilriOZDAIQ/s1600/xmcyber.png"
+      },
+      "published": "2025-11-03T11:56:00Z"
+    }
+  },
+  {
+    "hash": "2641ff389ae04fc6fae86185cb240789efcc6345dc417e789cb59e1d612cdaee",
+    "item": {
+      "title": "A new kernel port — to WebAssembly",
+      "description": "Joel Severin has \u003ca\nhref=\"https://lwn.net/ml/all/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se\"\u003eannounced\u003c/a\u003e\nthe availability of his port of the Linux kernel to WebAssembly; one can go\nto \u003ca href=\"https://joelseverin.github.io/linux-wasm/\"\u003ethis page\u003c/a\u003e and\nwatch it boot in a browser.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tWasm is similar to every other arch in Linux, but also\n\tdifferent. One important difference is that there is no way to\n\tsuspend execution of a task. There is a way around this though:\n\tLinux supports up to 8k CPUs (or possibly more...). We can just\n\tspin up a new CPU dedicated to each user task (process/thread) and\n\tnever preempt it\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1044786/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-03T14:55:00Z"
+    }
+  },
+  {
+    "hash": "33dc25d4f617c721c1e6c6a6e6feb3026d54751c019badf46f48741243ced304",
+    "item": {
+      "title": "Security updates for Monday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (.NET 8.0, .NET 9.0, and webkit2gtk3), \u003cb\u003eDebian\u003c/b\u003e (ruby-rack, strongswan, ublock-origin, and wordpress), \u003cb\u003eFedora\u003c/b\u003e (firefox, kea, openapi-python-client, openbao, python-uv-build, qt5-qtbase, ruby, ruff, rust-astral-tokio-tar, rust-attribute-derive, rust-attribute-derive-macro, rust-backon, rust-collection_literals, rust-get-size-derive2, rust-get-size2, rust-interpolator, rust-manyhow, rust-manyhow-macros, rust-proc-macro-utils, rust-quote-use, rust-quote-use-macros, rust-reqsign, rust-reqsign-aws-v4, rust-reqsign-command-execute-tokio, rust-reqsign-core, rust-reqsign-file-read-tokio, rust-reqsign-http-send-reqwest, rust-tikv-jemalloc-sys, rust-tikv-jemallocator, samba, skopeo, sssd, Thunar, unbound, uv, vgrep, and xorg-x11-server-Xwayland), \u003cb\u003eMageia\u003c/b\u003e (bind, libtiff, sope, and transfig), \u003cb\u003eOracle\u003c/b\u003e (compat-libtiff3, kernel, libtiff, redis, redis:6, and redis:7), \u003cb\u003eRed Hat\u003c/b\u003e (kernel, kernel-rt, libssh, xorg-x11-server, and xorg-x11-server-Xwayland), \u003cb\u003eSlackware\u003c/b\u003e (seamonkey), \u003cb\u003eSUSE\u003c/b\u003e (bind, chromedriver, chromium, colord, coreboot-utils, git-bug, ImageMagick, java-11-openj9, java-17-openj9, java-21-openj9, java-25-openj9, kea, libmozjs-115-0, libmozjs-140-0, libssh, libtiff-devel-32bit, nodejs18, ongres-scram, poppler, python311-starlette, rav1e, squid, strongswan, webkit2gtk3, xorg-x11-server, and xwayland), and \u003cb\u003eUbuntu\u003c/b\u003e (linux-gcp-6.14 and linux-hwe-6.8).",
+      "links": [
+        "https://lwn.net/Articles/1044763/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-03T13:15:02Z"
+    }
+  },
+  {
+    "hash": "cc52c782b660b74e627150cb51aa83982edbccd0c4ccb92e5ec07aecbc155b5a",
+    "item": {
+      "title": "Changpeng Zhao’s $2.5M Aster Bet Sends Token Soaring 30% in Hours",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Changpeng Zhao\u0026#039;s $2.5M Aster Bet Sends Token Soaring 30% in Hours\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eChangpeng Zhao, the co-founder of Binance, caused a major surge in the prices of Aster tokens when he announced that he personally invested in the cryptocurrency. The former exchange chief disclosed that he had bought more than 2 million Aster tokens valued at around $2.5 million with his own money",
+      "links": [
+        "https://thenewscrypto.com/changpeng-zhaos-2-5m-aster-bet-sends-token-soaring-30-in-hours/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Aster",
+        "Changpeng Zhao"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Aster-token-goes-flying-after-CZ-reveals-2.jpg"
+      },
+      "published": "2025-11-03T09:28:20Z"
+    }
+  },
+  {
+    "hash": "ffacdfbe9f9be25ac3d50ea5f3c3b0e6164865c22acb428b90e0c419bf516644",
+    "item": {
+      "title": "The Need for Private Value and How Some Projects are Redefining the Digital Economy Using This Ethos",
+      "description": "\u003cp\u003e\u003cimg width=\"878\" height=\"492\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.jpg 878w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-300x168.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-768x430.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-376x212.jpg 376w\" sizes=\"(max-width: 878px) 100vw, 878px\" /\u003e\u003c/p\u003eMoney has always mirrored the society that uses it, and the advent of the digital dollar has been no exception. To this point, the last few years have seen stablecoins become the backbone of digital finance, with on-chain settlement volumes exceeding $1.2 trillion per month during September alone (and their",
+      "links": [
+        "https://thenewscrypto.com/the-need-for-private-value-and-how-some-projects-are-redefining-the-digital-economy-using-this-ethos/"
+      ],
+      "categories": [
+        "Market News",
+        "Stablecoin",
+        "USDC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.jpg"
+      },
+      "published": "2025-11-03T09:14:35Z"
+    }
+  },
+  {
+    "hash": "eefab07a4e40c948a6346f0bde52197ce855a8822b31cb0b59e230be2dc66854",
+    "item": {
+      "title": "Here Are the Top 4 Ethena-Based DeFi Projects To Keep an Eye Out for in the Near Term!",
+      "description": "\u003cp\u003e\u003cimg width=\"928\" height=\"490\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8.jpg 928w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8-300x158.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8-768x406.jpg 768w\" sizes=\"auto, (max-width: 928px) 100vw, 928px\" /\u003e\u003c/p\u003eThe crypto stablecoin arena has a new rising star, and its name is Ethena. This is thanks, in large part, to its flagship synthetic dollar, USDe, which has been one of the top-performing assets among the crypto top 100 in recent months.\u0026#160; By August 2025, USDe’s supply had surged to",
+      "links": [
+        "https://thenewscrypto.com/here-are-the-top-4-ethena-based-defi-projects-to-keep-an-eye-out-for-in-the-near-term/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi",
+        "Ethena"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8.jpg"
+      },
+      "published": "2025-11-03T08:53:34Z"
+    }
+  },
+  {
+    "hash": "515966c881560dc06940c5a92872c69bd9416f95582a983e1d1c177ba005e7d3",
+    "item": {
+      "title": "Tea-Fi Redefines DeFi: One SuperApp. Infinite Yield. Powered by $TEA",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/main_17621554116S38JOAnyN.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/main_17621554116S38JOAnyN.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/11/main_17621554116S38JOAnyN-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/main_17621554116S38JOAnyN-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/main_17621554116S38JOAnyN-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eHong-Kong, Hong Kong SAR, 3rd November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/tea-fi-redefines-defi-one-superapp-infinite-yield-powered-by-tea/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/main_17621554116S38JOAnyN.jpg"
+      },
+      "published": "2025-11-03T08:09:57Z"
+    }
+  },
+  {
+    "hash": "11b0e9336e59fcd628fc452052fd5ecbe950b7ce06c8f78778ab9b487cd5b3b3",
+    "item": {
+      "title": "Gate Group Announces Official Launch of Gate Australia, Expanding Global Compliance Footprint",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj-376x212.jpg 376w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003ePanama City, Panama, 3rd November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/gate-group-announces-official-launch-of-gate-australia-expanding-global-compliance-footprint/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/EN_1762153951gBztzUZelj.jpg"
+      },
+      "published": "2025-11-03T07:37:45Z"
+    }
+  },
+  {
+    "hash": "5d7fb5a80dbe1fd2ad2dea3428e3e1eba11282673e4bd2e60eb7e3156466c8cf",
+    "item": {
+      "title": "Bored Ape NFTs Return With ‘Otherside’. Can They Save the Metaverse?",
+      "description": "\u003cp\u003eYuga Labs will launch its Otherside metaverse on November 12, as part of efforts to reignite interest in its infamous Bored Ape NFTs brand.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/bored-ape-nfts-return-with-otherside-can-they-save-the-metaverse/\"\u003eBored Ape NFTs Return With \u0026#8216;Otherside\u0026#8217;. Can They Save the Metaverse?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/bored-ape-nfts-return-with-otherside-can-they-save-the-metaverse/"
+      ],
+      "categories": [
+        "Features",
+        "BAYC",
+        "Blockchain",
+        "Metaverse",
+        "NFTs",
+        "Yuga Labs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Jeffrey Gogo"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/31084703/1761900421-bored-apes.jpg"
+      },
+      "published": "2025-11-03T13:32:35Z"
+    }
+  },
+  {
+    "hash": "f9da43cece72ed386b749f55febfdd262d669858c2c67721fd923fefb9313c8f",
+    "item": {
+      "title": "Billionaire Michael Saylor’s Strategy Keeps Buying Bitcoin — Adds 397 BTC for $45.6M",
+      "description": "\u003cp\u003eStrategy, the software-intelligence company led by billionaire executive chairman Michael Saylor, has once again expanded its Bitcoin holdings.  \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/billionaire-michael-saylors-strategy-keeps-buying-bitcoin-adds-397-btc-for-45-6m/\"\u003eBillionaire Michael Saylor’s Strategy Keeps Buying Bitcoin — Adds 397 BTC for $45.6M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/billionaire-michael-saylors-strategy-keeps-buying-bitcoin-adds-397-btc-for-45-6m/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07091159/1757236319-1740455603-billionaire-michael-saylor-eyes-more-bitcoin-is-a-supply-squeeze-incoming_optimized.jpg"
+      },
+      "published": "2025-11-03T13:29:17Z"
+    }
+  },
+  {
+    "hash": "bdf1444c2be8dcc3b44ed6629c87bad094b92d2902b964613c9e6abde2727281",
+    "item": {
+      "title": "Why Is Crypto Down Today? – November 3, 2025",
+      "description": "\u003cp\u003eThe crypto market is in decline today, with total market capitalization dropping by 3.5% to $3.69 trillion, according to data from CoinMarketCap.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-november-3-2025/\"\u003eWhy Is Crypto Down Today? – November 3, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-november-3-2025/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03125845/1762174724-nov-03_720.jpg"
+      },
+      "published": "2025-11-03T13:01:38Z"
+    }
+  },
+  {
+    "hash": "bcd88ef76a1dd5405b78f47e662321ba47f18488b5000495f671e0ae16a1afd7",
+    "item": {
+      "title": "France Advances Tax Proposal Targeting Crypto as “Unproductive Wealth” – Will it Pass the Senate Vote?",
+      "description": "\u003cp\u003eFrance's National Assembly has passed an amendment for France's crypto tax, which redefines digital assets as \"unproductive wealth\" alongside yachts and art, potentially taxing unrealized gains.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/france-crypto-tax-unproductive-wealth/\"\u003eFrance Advances Tax Proposal Targeting Crypto as “Unproductive Wealth” \u0026#8211; Will it Pass the Senate Vote?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/france-crypto-tax-unproductive-wealth/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "crypto tax",
+        "France",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/03110350/1762167829-0_3-30_optimized.jpg"
+      },
+      "published": "2025-11-03T12:54:28Z"
+    }
   }
 ]
