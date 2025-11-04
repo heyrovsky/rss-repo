@@ -2387,5 +2387,526 @@
       },
       "published": "2025-11-04T09:25:43Z"
     }
+  },
+  {
+    "hash": "d4693d234895567658050b21f94108b7995b368703242b5c4040b2d4ba9c1930",
+    "item": {
+      "title": "[$] Julia 1.12 brings progress on standalone binaries and more",
+      "description": "\u003ca href=\"https://julialang.org/\"\u003eJulia\u003c/a\u003e is a modern programming\nlanguage that is of particular interest to scientists due to its high\nperformance combined with language features such as Lisp-style macros, an\nadvanced type system, and multiple dispatch. We last \u003ca\nhref=\"https://lwn.net/Articles/1006117/\"\u003elooked at Julia\u003c/a\u003e in January on the occasion of\nits 1.11\u0026#160;release. Early in October \u003ca\nhref=\"https://julialang.org/blog/2025/10/julia-1.12-highlights\"\u003eJulia\u0026#160;1.12\nappeared\u003c/a\u003e, bringing a handful of quality-of-life improvements for Julia\nprogrammers, most notably support, though still experimental and limited,\nfor the creation of binaries.",
+      "links": [
+        "https://lwn.net/Articles/1044280/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jake"
+        }
+      ],
+      "published": "2025-11-04T14:50:14Z"
+    }
+  },
+  {
+    "hash": "d8a7286e400d5ba07edd995d46acf823f842bd77f64fa2bc99bfc75bcb7c3602",
+    "item": {
+      "title": "Security updates for Tuesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (dcmtk, geographiclib, gimp, pure-ftpd, and ruby-rack), \u003cb\u003eFedora\u003c/b\u003e (dotnet9.0), \u003cb\u003eOracle\u003c/b\u003e (expat, kernel, tigervnc, xorg-x11-server, and xorg-x11-server-Xwayland), \u003cb\u003eRed Hat\u003c/b\u003e (git, mariadb:10.5, multiple packages, osbuild-composer, pcs, sssd, and tigervnc), \u003cb\u003eSUSE\u003c/b\u003e (kernel and redis), and \u003cb\u003eUbuntu\u003c/b\u003e (google-guest-agent).",
+      "links": [
+        "https://lwn.net/Articles/1044949/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-04T14:21:09Z"
+    }
+  },
+  {
+    "hash": "3042972f8fbdde68f26b853833a52b331f773a8b453ebc5e8c8278a5043e3b85",
+    "item": {
+      "title": "CHERIoT 1.0 released",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/CHERIoT-Platform/cheriot-sail/releases/tag/v1.0\"\u003eVersion\n1.0\u003c/a\u003e of the Capability Hardware Extension to RISC-V for IoT\n(CHERIoT) specification has been released. CHERIoT is a\nhardware-software system for secure embedded devices, and the\nspecification provides a full description of the ISA and its intended\nuse by \u003ca\nhref=\"https://github.com/CHERIoT-Platform/cheriot-rtos/?tab=readme-ov-file#cheriot-rtos\"\u003eCHERIoT\nRTOS\u003c/a\u003e. David Chisnall has written a \u003ca\nhref=\"https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html\"\u003eblog\npost\u003c/a\u003e about the release that explains its significance as well as plans\nfor CHERIoT 2.0 and beyond:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eThe last change that we made to the ISA was in December 2024, so we\nare confident that this is a stable release that we can support in\nhardware for a long time. This specification was implemented by the\n1.0 release of CHERIoT Ibex and by CHERIoT Kudu (which has not yet had\nan official release). These two implementations demonstrate that the\nISA scales from three-stage single-issue pipelines to six-stage\ndual-issue pipelines, roughly the same range of microarchitectures\nsupported by Arm's M profile.\u003c/p\u003e\n\n\u003cp\u003eWe at SCI have the first of our ICENI chips, which use the CHERIoT\nIbex core, on the way back from the fab now and will be scaling up to\nmass production in the new year. I am not allowed to speak for other\nfolks building CHERIoT silicon, but I expect 2026 to be an exciting\nyear for the CHERIoT project!\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1044915/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-04T13:46:30Z"
+    }
+  },
+  {
+    "hash": "9b284a63513843f1abb5daeadaee055d756a50f72049830f04c98361e2ac6f77",
+    "item": {
+      "title": "Mevolaxy Launches Mobile App and Announces Record Payouts",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ-376x212.jpg 376w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eLos Angeles, USA, 4th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/mevolaxy-launches-mobile-app-and-announces-record-payouts/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image-2_1762248070VbdMo0tTWZ.jpg"
+      },
+      "published": "2025-11-04T10:49:37Z"
+    }
+  },
+  {
+    "hash": "f07a282e94d0ae1cab9788bac034e0e39b2c5e455c52e0e92002d610b3e48a8b",
+    "item": {
+      "title": "MEXC Doubles Down on High-Growth Markets at Blockchain Life 2025",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-6.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-6.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-6-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-6-768x448.png 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange serving over 40 million users worldwide, concluded a strategic presence at Blockchain Life 2025 as Diamond Sponsor, reinforcing its expansion into high-growth markets across MENA, CIS, Europe, and the Indo-Pak region. The October 28–29 event at Dubai\u0026#8217;s Festival Arena drew over 16,000 blockchain industry",
+      "links": [
+        "https://thenewscrypto.com/mexc-doubles-down-on-high-growth-markets-at-blockchain-life-2025/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-6.png"
+      },
+      "published": "2025-11-04T10:00:00Z"
+    }
+  },
+  {
+    "hash": "e685b01737b753dc749a8cb7dee33019be7bba52525ae44e0fe74991febebc7f",
+    "item": {
+      "title": "MEXC’s USDf Unbound Campaign Concludes With Over 200,000 Participants and $50 Million Daily Trading Volume",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-5.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-5.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-5-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-5-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, announced the successful conclusion of its USDf Unbound Campaign, which ran from October 3 to November 2, 2025. The month-long initiative attracted over 200,000 participants and recorded more than $50 million in daily trading volume for FF, driving a 136% increase in FF and",
+      "links": [
+        "https://thenewscrypto.com/mexcs-usdf-unbound-campaign-concludes-with-over-200000-participants-and-50-million-daily-trading-volume/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-5.png"
+      },
+      "published": "2025-11-04T10:00:00Z"
+    }
+  },
+  {
+    "hash": "313b1f86d49c6ac20b3db3abc177f212840e0f8dbb09a044abe399b9e9241b68",
+    "item": {
+      "title": "Strategy Goes European with New Stock to Buy More Bitcoins",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Strategy-files-IPO-for-euro.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Strategy Goes European with New Stock to Buy More Bitcoins\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Strategy-files-IPO-for-euro.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Strategy-files-IPO-for-euro-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Strategy-files-IPO-for-euro-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Strategy by Michael Saylor has revealed intentions to launch a euro-based stock offering as another bold move in its Bitcoin accumulation campaign. The crypto treasury company submitted a preliminary public offering of 3.5 million perpetual shares under the STRE ticker to European investors on Monday. Expanding Bitcoin Treasury Through",
+      "links": [
+        "https://thenewscrypto.com/strategy-goes-european-with-new-stock-to-buy-more-bitcoins/"
+      ],
+      "categories": [
+        "Editors News",
+        "Market Updates",
+        "Bitcoin",
+        "Europe",
+        "strategy"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Strategy-files-IPO-for-euro.jpg"
+      },
+      "published": "2025-11-04T09:54:12Z"
+    }
+  },
+  {
+    "hash": "c3f22176ddaccb8a45d4bcc746129308a2eccdcc85386ef3b423726cbf707cd9",
+    "item": {
+      "title": "Crypto Market Rallies, But Ozak AI at $0.012 Could Deliver 400x Gains That BTC and ETH Can’t Match",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Be-the-One-Who-Missed-It-Again.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Crypto Market Rallies, But Ozak AI at $0.012 Could Deliver 400x Gains That BTC and ETH Can’t Match\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Be-the-One-Who-Missed-It-Again.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Be-the-One-Who-Missed-It-Again-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Be-the-One-Who-Missed-It-Again-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eAs the crypto market is bullish right now after the recent crash, major cryptocurrencies like Bitcoin and Ethereum are moving into a bullish trend. Bitcoin has surged past $108,000 and is currently trading at $108,604. Ethereum has passed the $3,800 mark and is now trading at $3,829. Both the major",
+      "links": [
+        "https://thenewscrypto.com/crypto-market-rallies-but-ozak-ai-at-0-012-could-deliver-400x-gains-that-btc-and-eth-cant-match/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Cryptocurrency",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Be-the-One-Who-Missed-It-Again.jpg"
+      },
+      "published": "2025-11-04T09:30:00Z"
+    }
+  },
+  {
+    "hash": "4a776fb5793f2e5249a50736ed18830015d5a116cc238977fea8c8dfe2299448",
+    "item": {
+      "title": "$7 and Falling: Is OFFICIAL TRUMP (TRUMP) Lining Up for a Slide Toward the $5 Support Level?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/7-and-Falling-Is-OFFICIAL-TRUMP-TRUMP-Lining-Up-for-a-Slide-Toward-the-5-Support-Level.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"$7 and Falling: Is OFFICIAL TRUMP (TRUMP) Lining Up for a Slide Toward the $5 Support Level?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/7-and-Falling-Is-OFFICIAL-TRUMP-TRUMP-Lining-Up-for-a-Slide-Toward-the-5-Support-Level.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/7-and-Falling-Is-OFFICIAL-TRUMP-TRUMP-Lining-Up-for-a-Slide-Toward-the-5-Support-Level-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/7-and-Falling-Is-OFFICIAL-TRUMP-TRUMP-Lining-Up-for-a-Slide-Toward-the-5-Support-Level-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith a 3.75% loss, the cryptocurrency market is stuck in the red zone. The majority of the tokens’ prices are in a downtrend, and the broader sentiment across the board is fear, as the Fear and Greed Index value holds at 27. Both Bitcoin (BTC) and Ethereum (ETH) are diving",
+      "links": [
+        "https://thenewscrypto.com/7-and-falling-is-official-trump-trump-lining-up-for-a-slide-toward-the-5-support-level/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "TRUMP"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/7-and-Falling-Is-OFFICIAL-TRUMP-TRUMP-Lining-Up-for-a-Slide-Toward-the-5-Support-Level.jpg"
+      },
+      "published": "2025-11-04T08:31:18Z"
+    }
+  },
+  {
+    "hash": "33b26972d61529b37a5f352209b4424c91d6b5dddd340486cdc91304f1c48ee0",
+    "item": {
+      "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
+      "description": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March",
+      "links": [
+        "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxhWGZawWeHzNGIbomWP8Nbdh5Dd6tcZRBCwh1fzvzwLRHHrOAdfio4nT7DL5Lq7_v0S8mDZ5JcWhL_B75AVaO8pYvvxHr5UbkNOaALx-O3Xj2msk9pV1vHsgTDQjCYfED7yaajgRNK5Qarl8aAWqwk6W0GYG5DwB9MGPnXdrgRhGpgIyNdu5FYPJtPF5/s1600/ms-teams.jpg"
+      },
+      "published": "2025-11-04T14:00:00Z"
+    }
+  },
+  {
+    "hash": "c563b9f9866c7c65ef36a60ea18c0b32677fbfbe55bb414db846fb8066c0dfb0",
+    "item": {
+      "title": "Open Container Initiative \"OCI\" Runtime Spec v1.3 Released With FreeBSD Support",
+      "description": "The Open Container Initiative unveiled today the OCI Runtime Specification v1.3 update for this standard around operating system process and application containers. This runtime specification continues to evolve for outlining the configuration, execution environment, and lifecycle of a container. Notable with the v1.3 revision is introducing official FreeBSD support...",
+      "links": [
+        "https://www.phoronix.com/news/Open-Container-OCI-1.3-FreeBSD"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-04T15:00:00Z"
+    }
+  },
+  {
+    "hash": "c834469db3ecd0440a37ceb456233bbdb960d97bdafb11bdc3173b5fc83a2cea",
+    "item": {
+      "title": "MIPS64EL \u0026 ARMEL Architectures Dropped In Debian Unstable/Experimental",
+      "description": "The ARMEL and MIPS64EL architectures have been dropped from Debian unstable and experimental. This is the end of the road for these aging ARM and MIPS targets in the Debian world...",
+      "links": [
+        "https://www.phoronix.com/news/Debian-Drops-MIPS64EL-ARMEL"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-04T14:35:33Z"
+    }
+  },
+  {
+    "hash": "08fff025c176226bbe10ff1a3e89b7f58a5d715addb4213bb15b1019e5c76bc5",
+    "item": {
+      "title": "AMD's Zen 5 RDSEED Issue Is Causing Headaches For Optimized CachyOS Builds",
+      "description": "AMD's RDSEED issue with Zen 5 processors that is in the process of being addressed with microcode/BIOS updates is in the interim causing headaches for Arch Linux powered CachyOS that provides optimized binaries for these latest Ryzen processors...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-Zen-5-RDSEED-CachyOS"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-04T13:20:16Z"
+    }
+  },
+  {
+    "hash": "7a6a2a351bc2f48fea7e6b0f3f8a8f2540f6e86957ed283682e0ec3395d71aac",
+    "item": {
+      "title": "What is a manifold?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809193\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.quantamagazine.org/what-is-a-manifold-20251103/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T09:58:14Z"
+    }
+  },
+  {
+    "hash": "4395b799fcd670f5dfff335687241933ebccec1a23ecbf62d03d561df9eabe4d",
+    "item": {
+      "title": "Chaining FFmpeg with a Browser Agent",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810430\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://100x.bot/a/chaining-ffmpeg-with-browser-agent"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T12:52:54Z"
+    }
+  },
+  {
+    "hash": "4a2b88fd819a5126a8b520b34315e62909b0b0aaca0db11d949e44d91ad35321",
+    "item": {
+      "title": "Optimizing Datalog for the GPU",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45811447\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T14:31:27Z"
+    }
+  },
+  {
+    "hash": "740377cc102fa201e1a3b97feb8dc7c53a95f283e8d2f724b345176156a24d67",
+    "item": {
+      "title": "Tesla's ‘Robotaxis' Keep Crashing—Even With Human ‘Safety Monitors' Onboard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45811623\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.miamiherald.com/news/business/article312728957.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T14:48:31Z"
+    }
+  },
+  {
+    "hash": "21d87e33887dd0742241cdcb03694741da0063b351be3f82671b43b5f9f5cea9",
+    "item": {
+      "title": "Show HN: I built a local-first daily planner for iOS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810856\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T13:34:45Z"
+    }
+  },
+  {
+    "hash": "e3f935ec3ec6201b3e3a648d488a0b0966c34d8efc7a548ef46ceb11d20921a1",
+    "item": {
+      "title": "Show HN: A CSS-Only Terrain Generator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45811093\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://terra.layoutit.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T13:58:35Z"
+    }
+  },
+  {
+    "hash": "3a318ccb80628b1346ce2e527b3ff77f775f1a9afff51b1772df0848bc6afe7c",
+    "item": {
+      "title": "Customize Nano Text Editor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45702316\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://shafi.ddns.net/blog/customize-nano-text-editor"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-25T08:52:11Z"
+    }
+  },
+  {
+    "hash": "43f0921b2d48a76323f4fd79ee7b34d76d99656fe933737415fc2c056505ff1a",
+    "item": {
+      "title": "The Art of Atari (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810676\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://www.artofatari.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T13:15:52Z"
+    }
+  },
+  {
+    "hash": "bcc72d518f882ebe16d85e67de38f3e1ed42ea81ad35d8b8400cc4794982d68f",
+    "item": {
+      "title": "Google Cloud suspended customer's account 3 times, for 3 different reasons",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45811624\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T14:48:32Z"
+    }
+  },
+  {
+    "hash": "1874ac54308799c4b6bd73a618bb5cc435c7537596e0f8198b53755345496bac",
+    "item": {
+      "title": "Learning from Sudoku Solvers (2007)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45733410\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-28T14:34:07Z"
+    }
+  },
+  {
+    "hash": "493972f3be5c030449ac592b63333931b2a8a31b63f42a6c74b0396ea3b42085",
+    "item": {
+      "title": "ASTER Plunges 20% as “Anti-CZ” Whale Scores $21M Profit On Short Bets",
+      "description": "\u003cp\u003eASTER plunges more than 20% in 24 hours, erasing gains that followed a purchase by Binance founder Changpeng Zhao, while a single trader amassed over $21 million in profit by shorting the token.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aster-plunges-20-as-anti-cz-whale-scores-21m-profit-betting-against-cz/\"\u003eASTER Plunges 20% as “Anti-CZ” Whale Scores $21M Profit On Short Bets\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aster-plunges-20-as-anti-cz-whale-scores-21m-profit-betting-against-cz/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ASTER",
+        "Changpeng Zhao",
+        "CZ"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/04091727/1762247846-0_3-32_optimized.jpg"
+      },
+      "published": "2025-11-04T13:46:34Z"
+    }
+  },
+  {
+    "hash": "84b9c78b521f3b8f63a7f403599fcf5a5d050d545624eca2af06f054e0c57bf0",
+    "item": {
+      "title": "Binance CEO Denies Promoting Trump Stablecoin Before CZ Pardon",
+      "description": "\u003cp\u003eBinance CEO Richard Teng rejected claims the exchange promoted Trump's USD1 stablecoin to secure Changpeng Zhao's pardon, as lawmakers scrutinize a $2 billion MGX deal.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/binance-ceo-denies-promoting-trump-stablecoin-before-cz-pardon/\"\u003eBinance CEO Denies Promoting Trump Stablecoin Before CZ Pardon\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/binance-ceo-denies-promoting-trump-stablecoin-before-cz-pardon/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Binance",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/04105020/1762253420-stock-image_optimized-7.jpg"
+      },
+      "published": "2025-11-04T13:40:05Z"
+    }
+  },
+  {
+    "hash": "d0190fc61e1f9f170e6e34cf29a063829f760064e996137126324ba8be4abc94",
+    "item": {
+      "title": "ERIC TRUMP TO SPEAK AT BLOCKCHAIN FUTURIST CONFERENCE FLORIDA 2025",
+      "description": "\u003cp\u003eFORT LAUDERDALE, FL — [November 3, 2025] — Blockchain Futurist Conference Florida 2025 is proud to announce Eric Trump, Co-Founder and Chief Strategy Officer of American Bitcoin Corp. (Nasdaq: ABTC), as the keynote speaker for its inaugural event. Eric Trump will appear in a special fireside keynote on the mainstage alongside Asher Genoot, Executive Chairman [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/eric-trump-to-speak-at-blockchain-futurist-conference-florida-2025/\"\u003eERIC TRUMP TO SPEAK AT BLOCKCHAIN FUTURIST CONFERENCE FLORIDA 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/eric-trump-to-speak-at-blockchain-futurist-conference-florida-2025/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/04131729/1762262248-eric-trump-pr-graphic.jpg"
+      },
+      "published": "2025-11-04T13:17:59Z"
+    }
+  },
+  {
+    "hash": "b27503e0fc2657c2faf13891878d0a7e29d4a9aac1195788d912524e26d61d4a",
+    "item": {
+      "title": "Singapore Gulf Bank Partners With Fireblocks for Digital Asset Infrastructure",
+      "description": "\u003cp\u003eSingapore Gulf Bank (SGB), a licensed digital wholesale bank regulated by the Central Bank of Bahrain, announced it has partnered with Fireblocks to support its digital asset infrastructure for treasury management and custody.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/singapore-gulf-bank-partners-with-fireblocks-for-digital-asset-infrastructure/\"\u003eSingapore Gulf Bank Partners With Fireblocks for Digital Asset Infrastructure\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/singapore-gulf-bank-partners-with-fireblocks-for-digital-asset-infrastructure/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Fireblocks",
+        "Singapore",
+        "Singapore Gulf Bank"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/01/07144538/1736261138-image-1736261111295_optimized.jpg"
+      },
+      "published": "2025-11-04T13:16:58Z"
+    }
+  },
+  {
+    "hash": "63d01dde9d686498c677a00d104ad8b43f85b4eff2d913a71b365cdc07c168a0",
+    "item": {
+      "title": "Old Bug May Have Cost Balancer DeFi Protocol Over $100M",
+      "description": "\u003cp\u003eWhat was once a minor bug in 2023 has now turned into a multimillion-dollar crisis for Balancer DeFi protocol.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/balancer-defi-protocol-may-have-lost-over-100-million-due-to-a-2023-bug/\"\u003eOld Bug May Have Cost Balancer DeFi Protocol Over $100M\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/balancer-defi-protocol-may-have-lost-over-100-million-due-to-a-2023-bug/"
+      ],
+      "categories": [
+        "Features",
+        "Balancer",
+        "DeFi",
+        "Hack"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/04110604/1762254363-balancer.jpg"
+      },
+      "published": "2025-11-04T12:35:57Z"
+    }
   }
 ]
