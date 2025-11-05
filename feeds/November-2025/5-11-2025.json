@@ -2204,5 +2204,554 @@
       },
       "published": "2025-11-05T09:42:58Z"
     }
+  },
+  {
+    "hash": "d720b2807ecbde7a89e4c035f7d248d0faea22275204bae1d3a56c95e5b512af",
+    "item": {
+      "title": "[$] A security model for systemd",
+      "description": "\u003cp\u003eLinux has many security features and tools that have evolved over\nthe years to address threats as they emerge and security gaps as they\nare discovered. Linux security is all, as Lennart Poettering observed at the \u003ca\nhref=\"https://all-systems-go.io/\"\u003eAll Systems Go!\u003c/a\u003e conference held\nin Berlin, somewhat random and \u003cem\u003enot\u003c/em\u003e a \"\u003cq\u003eclean\u003c/q\u003e\"\ndesign. To many observers, that may also appear to be the case for\nsystemd; however, Poettering said that he does have a vision for how\nall of the security-related pieces of systemd are meant to fit\ntogether. He wanted to use his talk to explain \"\u003cq\u003ehow the individual\nsecurity-related parts of systemd actually fit together and why they\nexist in the first place\u003c/q\u003e\".\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1042888/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-05T15:04:28Z"
+    }
+  },
+  {
+    "hash": "b350d2091cd42b43cf109e3f90de9d9c3a21cc39a2ee19ada71ba48fcca7fe85",
+    "item": {
+      "title": "OCI Runtime Specification 1.3 adds FreeBSD",
+      "description": "\u003cp\u003e\u003ca\nhref=\"https://github.com/opencontainers/runtime-spec/releases/tag/v1.3.0\"\u003eVersion\n1.3\u003c/a\u003e of the Open Container Initiative (OCI) \u003ca\nhref=\"https://github.com/opencontainers/runtime-spec/blob/main/spec.md\"\u003eRuntime\nSpecification\u003c/a\u003e has been released. The specification covers the\nconfiguration, execution environment, and lifecycle of containers. The\nmost notable change in 1.3 is the addition of FreeBSD to the\nspecification, which the FreeBSD Foundation \u003ca\nhref=\"https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/\"\u003ecalls\u003c/a\u003e\n\"\u003cq\u003ea watershed moment for FreeBSD\u003c/q\u003e\":\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nThe addition of cloud-native container support complements FreeBSD's\nalready robust virtualization capabilities, particularly the powerful\nFreeBSD jails technology that has been a cornerstone of the operating\nsystem for over two decades. In fact, OCI containers on FreeBSD are\nimplemented using jails as the underlying isolation mechanism,\nbringing together the security and resource management benefits of\njails with the portability and ecosystem advantages of OCI-compliant\ncontainers.\n\u003c/blockquote\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1045125/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-05T14:32:19Z"
+    }
+  },
+  {
+    "hash": "6bbb68543f1aa1818d04d2efe35ec0e709d22ba4a063203ebc97baab223ad2ab",
+    "item": {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (bind9 and gimp), \u003cb\u003eFedora\u003c/b\u003e (chromium, fastapi-cli, fastapi-cloud-cli, gherkin, libnbd, maturin, openapi-python-client, python-annotated-doc, python-cron-converter, python-fastapi, python-inline-snapshot, python-jiter, python-openapi-core, python-platformio, python-pydantic, python-pydantic-core, python-pydantic-extra-types, python-rignore, python-starlette, python-typer, python-typing-inspection, python-uv-build, ruff, rust-astral-tokio-tar, rust-attribute-derive, rust-attribute-derive-macro, rust-collection_literals, rust-get-size-derive2, rust-get-size2, rust-interpolator, rust-jiter, rust-manyhow, rust-manyhow-macros, rust-proc-macro-utils, rust-quote-use, rust-quote-use-macros, rust-regex, rust-regex-automata, rust-reqsign, rust-reqsign-aws-v4, rust-reqsign-command-execute-tokio, rust-reqsign-core, rust-reqsign-file-read-tokio, rust-reqsign-http-send-reqwest, rust-serde_json, rust-speedate, rust-tikv-jemalloc-sys, rust-tikv-jemallocator, and uv), \u003cb\u003eMageia\u003c/b\u003e (golang and libavif), \u003cb\u003eRed Hat\u003c/b\u003e (bind9.16, pcs, and qt6-qtsvg), \u003cb\u003eSUSE\u003c/b\u003e (colord, ffmpeg, govulncheck-vulndb, jasper, openjpeg, poppler, qatengine, qatlib, runc, sccache, and tiff), and \u003cb\u003eUbuntu\u003c/b\u003e (keystone, libssh, linux-hwe-6.14, linux-nvidia-tegra, linux-nvidia-tegra-5.15, linux-nvidia-tegra-igx,\n linux-raspi, runc-app, runc-stable, squid, squid3, and unbound).",
+      "links": [
+        "https://lwn.net/Articles/1045124/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-05T14:12:10Z"
+    }
+  },
+  {
+    "hash": "7bb0b53b8511a53bd938650604242599b4e18c87600614e82694c14cf20f2825",
+    "item": {
+      "title": "Zama Announces Strategic Acquisition of KKRT Labs to Scale Confidentiality on Public Blockchains",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Untitled_design_1762279646T45NUftfSf.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Untitled_design_1762279646T45NUftfSf.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/11/Untitled_design_1762279646T45NUftfSf-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Untitled_design_1762279646T45NUftfSf-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/Untitled_design_1762279646T45NUftfSf-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eParis, France, 5th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/zama-announces-strategic-acquisition-of-kkrt-labs-to-scale-confidentiality-on-public-blockchains/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Untitled_design_1762279646T45NUftfSf.jpg"
+      },
+      "published": "2025-11-05T10:02:27Z"
+    }
+  },
+  {
+    "hash": "e7bd8563c1e6ac79932a0fc36ce718c4d552ed547e2e7873b5cb99f2f659b945",
+    "item": {
+      "title": "Gemini Cryptocurrency Exchange Plans Entry Into Prediction Markets Arena",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Crypto-exchange-Gemini.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Gemini Cryptocurrency Exchange Plans Entry Into Prediction Markets Arena\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Crypto-exchange-Gemini.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Crypto-exchange-Gemini-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Crypto-exchange-Gemini-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eGemini Space Station Inc. is strategically preparing to roll out prediction market services as an extension of its ambitious expansion strategy after a successful public listing. The cryptocurrency trading company, which was started by two twin entrepreneurs, Tyler and Cameron Winklevoss, submitted the required paperwork to the Commodity Futures Trading",
+      "links": [
+        "https://thenewscrypto.com/gemini-cryptocurrency-exchange-plans-entry-into-prediction-markets-arena/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "CFTC",
+        "Gemini",
+        "Gemini Crypto Exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Crypto-exchange-Gemini.jpg"
+      },
+      "published": "2025-11-05T07:40:57Z"
+    }
+  },
+  {
+    "hash": "2829a359504df6105b812322c98b7b9ced5103791f2b9c8be7e7e549f9bd9580",
+    "item": {
+      "title": "Make-or-Break Moment: Can Bitcoin (BTC) Bulls Defend the $100K Support?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Make-or-Break-Moment-Can-Bitcoin-BTC-Bulls-Defend-the-100K-Support.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Make-or-Break Moment: Can Bitcoin (BTC) Bulls Defend the $100K Support?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Make-or-Break-Moment-Can-Bitcoin-BTC-Bulls-Defend-the-100K-Support.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Make-or-Break-Moment-Can-Bitcoin-BTC-Bulls-Defend-the-100K-Support-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Make-or-Break-Moment-Can-Bitcoin-BTC-Bulls-Defend-the-100K-Support-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe bear trap has been tightening in the crypto market, with digital assets stuck in the red zone. Significantly, the fear and greed index value is settled at 20, exhibiting the broader fear sentiment on board. The largest asset, Bitcoin (BTC), reflects the downtrend in a serious tone, as a",
+      "links": [
+        "https://thenewscrypto.com/make-or-break-moment-can-bitcoin-btc-bulls-defend-the-100k-support/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "BTC price",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Make-or-Break-Moment-Can-Bitcoin-BTC-Bulls-Defend-the-100K-Support.jpg"
+      },
+      "published": "2025-11-05T07:12:18Z"
+    }
+  },
+  {
+    "hash": "417ee67563d704eaaef5e2b5f78db5294c457659be1053fa135f85d2137c85d7",
+    "item": {
+      "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
+      "description": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has",
+      "links": [
+        "https://thehackernews.com/2025/11/researchers-find-chatgpt.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc9u8ifBTtqcucAGtnB5BSuB4Zu2PTcSopIDhD1mxnUeFmAtb1KWyJuU3Yb8JAnJ-nQ4jltxhO5YCFzfd-VhbghvU9B8DewcX9kDZ4Wv65q-3Sqnj-tyAtaL2BNI_poMHKzeJMr93cjTv7U9lqZFSpLOgs0mYOjIA0QqYydcxGmxxqZGS-YS8hJUi8sdsJ/s1600/chatgpt-hack.jpg"
+      },
+      "published": "2025-11-05T14:04:00Z"
+    }
+  },
+  {
+    "hash": "824d346d7254d33a832743441dd76034dd4eef6680ef0b3fd58dd282a93bcaf6",
+    "item": {
+      "title": "Why being too attractive can hurt fitness influencers",
+      "description": "The \"beauty backfire effect\" is especially strong in the fitness space.",
+      "links": [
+        "https://arstechnica.com/health/2025/11/why-being-too-attractive-can-hurt-fitness-influencers/"
+      ],
+      "categories": [
+        "Health",
+        "influencers",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Edelblum and Abby Frank, The Conversation"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/influencer-1152x648.jpg"
+      },
+      "published": "2025-11-05T14:42:10Z"
+    }
+  },
+  {
+    "hash": "39bfc34a0e4264696c620d332f7d46f41619c9ee45df54fb98e943cd7fbf383c",
+    "item": {
+      "title": "So long, Assistant—Gemini is taking over Google Maps",
+      "description": "Gemini is rolling out to Maps on Android and iOS, with Android Auto coming soon. ",
+      "links": [
+        "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "google",
+        "Google Gemini",
+        "google maps"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-in-navigation-1152x648.jpg"
+      },
+      "published": "2025-11-05T14:00:26Z"
+    }
+  },
+  {
+    "hash": "5df93e89b292ca33b3bf99e070e3b9a5d831ec08def146cf248a9473c00633db",
+    "item": {
+      "title": "“So much more menacing”: Formula E’s new Gen4 car breaks cover",
+      "description": "Up to 700 kW regen braking, new Bridgestone tires, and it's even fully recyclable. ",
+      "links": [
+        "https://arstechnica.com/cars/2025/11/formula-e-gets-2x-the-power-and-awd-with-new-gen4-car/"
+      ],
+      "categories": [
+        "Cars",
+        "Formula E",
+        "Formula E Gen4"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/FORMULAE_15-1152x648.jpeg"
+      },
+      "published": "2025-11-05T13:00:50Z"
+    }
+  },
+  {
+    "hash": "79f6cf570b901147667811a7edd8c1dc7e92bcec271fc5de031d97c5da26d47d",
+    "item": {
+      "title": "FDA described as “clown show” amid latest scandal; top drug regulator is out",
+      "description": "FDA regulator accused of using position to exact revenge on old business associate.",
+      "links": [
+        "https://arstechnica.com/health/2025/11/fda-described-as-clown-show-amid-latest-scandal-top-drug-regulator-is-out/"
+      ],
+      "categories": [
+        "Health",
+        "drug",
+        "fda",
+        "george tidmarsh",
+        "pharmaceutical",
+        "vinay prasad"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-1152x648.jpg"
+      },
+      "published": "2025-11-04T23:24:50Z"
+    }
+  },
+  {
+    "hash": "47e187547c318b55cdc333415e6233e3e7cbf9b717cb6f45cbbd68710b6891d6",
+    "item": {
+      "title": "Linux 6.19 To Support Additional Arm Mali \u0026 Vivante Graphics Hardware",
+      "description": "Sent out today to DRM-Next was the latest weekly batch of drm-misc-next patches for enhancing the various smaller Direct Rendering Manager drivers within the kernel. Included with this week's update is supporting some additional Mali and Vivante hardware as well as continuing to enhance the in-kernel accelerator \"accel\" drivers...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-619-DRM-Misc-Mali-Vivante"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-05T14:24:21Z"
+    }
+  },
+  {
+    "hash": "e24a4e149935f2773dbbc239fd43b55ad121b7744508819b22f61626452f2c3e",
+    "item": {
+      "title": "GNOME Mutter Now \"Completely Drops The Whole X11 Backend\"",
+      "description": "The merge to GNOME Mutter has finally happened that \"completely drops\" the X11 back-end to make GNOME strictly focused on Wayland-based environments...",
+      "links": [
+        "https://www.phoronix.com/news/GNOME-Mutter-Drops-X11"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-05T13:15:00Z"
+    }
+  },
+  {
+    "hash": "0341d07bb3be858d396130faa6b2301d4412d80fc936288c0ef10c9219a71cbb",
+    "item": {
+      "title": "LXQt 2.3 Released With Improved Wayland Support",
+      "description": "LXQt 2.3 is out today as the newest release of this lightwight, Qt-based desktop environment...",
+      "links": [
+        "https://www.phoronix.com/news/LXQt-2.3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-05T13:08:44Z"
+    }
+  },
+  {
+    "hash": "df9bb6244516b155e6b90b1ff3f4b3a93f79b89f515d9bf6974a48287573c492",
+    "item": {
+      "title": "The Shadows Lurking in the Equations",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45823141\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gods.art/articles/equation_shadows.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T14:21:13Z"
+    }
+  },
+  {
+    "hash": "2cb03d75928b5bd81f2951c65ddfe432438b74a38fc7e158f1cfd6ec6f196a0c",
+    "item": {
+      "title": "An eBPF Loophole: Using XDP for Egress Traffic",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45812756\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://loopholelabs.io/blog/xdp-for-egress-traffic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T16:26:09Z"
+    }
+  },
+  {
+    "hash": "fb77ef255c938f5eb0e32ce808434dc4287cd4cc2221345323ea7c92157c0738",
+    "item": {
+      "title": "Removing XSLT for a more secure browser",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45823059\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developer.chrome.com/docs/web-platform/deprecating-xslt"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T14:14:23Z"
+    }
+  },
+  {
+    "hash": "6b4fa59e0d307a8f08794c477f496b95e06ffcc4d54447ada528e0c7ac5ed4e3",
+    "item": {
+      "title": "A P2P Vision for QUIC (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822982\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://seemann.io/posts/2024-10-26---p2p-quic/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T14:06:22Z"
+    }
+  },
+  {
+    "hash": "389fcaf69370fabfc77f9245b285fe689f4898eaf65d1788449f5c6d6a4a5db6",
+    "item": {
+      "title": "Radiant Computer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822559\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://radiant.computer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T13:22:35Z"
+    }
+  },
+  {
+    "hash": "b97f11718d53d30d1084d390e2ec6d68950cbf4e529759d21d6015a12dcf5292",
+    "item": {
+      "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822302\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T12:51:44Z"
+    }
+  },
+  {
+    "hash": "a37573245e5f1189bd648207a0d3c3b5d888c35ef58c25a3f5d37765b1be3c6c",
+    "item": {
+      "title": "The grim truth behind the Pied Piper (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T12:21:39Z"
+    }
+  },
+  {
+    "hash": "e54566cc41a91013e7067aee4f1bfcf6030eb9eca6f5a599efed392b64a6a593",
+    "item": {
+      "title": "Carice TC2 – An fully analog electric car",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45823186\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.caricecars.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T14:25:36Z"
+    }
+  },
+  {
+    "hash": "24549bfef36d8c92af393157d70dbf28b66a00a501cbbb470ca6713c0430d2dd",
+    "item": {
+      "title": "Parsing Chemistry",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45697414\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://re.factorcode.org/2025/10/parsing-chemistry.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-24T18:07:53Z"
+    }
+  },
+  {
+    "hash": "f54a52c436f0b857bc7f954bf19efcd55fea4d9e0af37a552fdece6222729a90",
+    "item": {
+      "title": "UPS plane crashes near Louisville airport",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45816963\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://avherald.com/h?article=52f5748f\u0026opt=0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T23:10:53Z"
+    }
+  },
+  {
+    "hash": "cfe325d903a114ee399fe96e8642edc9ade1670b31fdde9b5b3acc353006158f",
+    "item": {
+      "title": "Michael Burry is back with two bets against Nvidia and Palantir",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45823313\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T14:38:27Z"
+    }
+  },
+  {
+    "hash": "40958f588edfde7667b22c4efbc51034cbe6e9784586a5a1695f8ad86c1c6ba7",
+    "item": {
+      "title": "Optimism Associated with Exceptional Longevity",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822513\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.pnas.org/doi/10.1073/pnas.1900712116"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T13:16:58Z"
+    }
+  },
+  {
+    "hash": "8c89d6ec7c2dd5a0d6fa11ebc15bc44f51b0fb5db96eb67bfc8dddb4e4c7683c",
+    "item": {
+      "title": "Kosmos: An AI Scientist for Autonomous Discovery",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45823358\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2511.02824"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T14:43:26Z"
+    }
+  },
+  {
+    "hash": "59fd915a17996dbf15d9e8302809e044f153b8b1606a7d57fca4daad699c3f70",
+    "item": {
+      "title": "NY Smartphone Ban Has Made Lunch Loud Again",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822539\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T13:20:16Z"
+    }
+  },
+  {
+    "hash": "3695a922aa7bf925c5d3b9e9da5e39649da0fb1c2b4163b41e2f4dcddba2ea54",
+    "item": {
+      "title": "Blue Prince (1989)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45727173\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://novalis.org/blog/2025-10-27-blue-prince-1989.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-27T22:38:48Z"
+    }
+  },
+  {
+    "hash": "d76ab052dfebcb94241c9f0269024c325b1f926bffeb9495652144218242a21b",
+    "item": {
+      "title": "I’m worried that they put co-pilot in Excel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45820872\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Nov/5/brenda/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T08:54:11Z"
+    }
+  },
+  {
+    "hash": "0ba8f81c8cf2e76f3bdd964819929388787355adbe2931e5139faaa457ed99af",
+    "item": {
+      "title": "Polymarket Airdrop and POLY Token: How to Participate?",
+      "description": "\u003cp\u003eHow to be eligible for what’s possibly one of the most anticipated airdrops of the year.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/polymarket-airdrop-poly-token-how-to-participate/\"\u003ePolymarket Airdrop and POLY Token: How to Participate?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/polymarket-airdrop-poly-token-how-to-participate/"
+      ],
+      "categories": [
+        "Features",
+        "Airdrop",
+        "Polymarket"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Olga Primakova"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/05114922/1762343361-polymarket.jpg"
+      },
+      "published": "2025-11-05T14:17:05Z"
+    }
+  },
+  {
+    "hash": "df9e6b928d80d127a0b077fd4c4de19479f7d0602293012381d0d09b0f71c5bf",
+    "item": {
+      "title": "Bitcoin Price Prediction: First Major BTC Treasury Just Sold Big – Is the Bull Market Officially Finished?",
+      "description": "\u003cp\u003eBitcoin treasury sell sparks panic, Bitcoin price prediction hints at a potential trend reversal or last dip before liftoff.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-first-major-btc-treasury-just-sold-big-is-the-bull-market-officially-finished/\"\u003eBitcoin Price Prediction: First Major BTC Treasury Just Sold Big – Is the Bull Market Officially Finished?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-first-major-btc-treasury-just-sold-big-is-the-bull-market-officially-finished/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/05124058/1762346457-bitcoin-price-prediction-61.jpg"
+      },
+      "published": "2025-11-05T12:46:27Z"
+    }
   }
 ]
