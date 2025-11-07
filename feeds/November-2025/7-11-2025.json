@@ -1943,5 +1943,549 @@
       },
       "published": "2025-11-07T10:32:43Z"
     }
+  },
+  {
+    "hash": "5e7058d94fdc76609013fca28e4a8fe5ab6ad41f3588017b207fdd98d4cd7dc9",
+    "item": {
+      "title": "Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles",
+      "description": "Europe's Ariane 6 rocket gave an environmental monitoring satellite a perfect ride to space.",
+      "links": [
+        "https://arstechnica.com/space/2025/11/rocket-report-canada-invests-in-sovereign-launch-india-flexes-rocket-muscles/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "ariane 6",
+        "Arianespace",
+        "blue origin",
+        "Canada",
+        "Commercial space",
+        "launch",
+        "NASA",
+        "relativity space",
+        "rocket report",
+        "spacex",
+        "starship"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224592867-1152x648.jpg"
+      },
+      "published": "2025-11-07T13:51:40Z"
+    }
+  },
+  {
+    "hash": "f2172757e6193b9051bd32342f0d8ddc6b6bbed40b318c3473bd46382b5282a5",
+    "item": {
+      "title": "How to trade your $214,000 cybersecurity job for a jail cell",
+      "description": "Ransomware doesn't pay what it used to.",
+      "links": [
+        "https://arstechnica.com/security/2025/11/fbi-arrests-ransomware-clean-up-experts-for-planting-ransomware/"
+      ],
+      "categories": [
+        "Security",
+        "blackcat",
+        "hacking",
+        "law"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Nate Anderson"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2216280119-1152x648.jpg"
+      },
+      "published": "2025-11-07T12:30:44Z"
+    }
+  },
+  {
+    "hash": "5fc49709fbc33cf282e1f45cc351c5a64f5208784630d8e55911bebf957dfac7",
+    "item": {
+      "title": "Security updates for Friday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (bind, bind9.16, libsoup, mariadb:10.5, and sssd), \u003cb\u003eDebian\u003c/b\u003e (chromium, keystone, and swift), \u003cb\u003eFedora\u003c/b\u003e (apptainer, buildah, chromium, fcitx5, fcitx5-anthy, fcitx5-chewing, fcitx5-chinese-addons, fcitx5-configtool, fcitx5-hangul, fcitx5-kkc, fcitx5-libthai, fcitx5-m17n, fcitx5-qt, fcitx5-rime, fcitx5-sayura, fcitx5-skk, fcitx5-table-extra, fcitx5-unikey, fcitx5-zhuyin, GeographicLib, libime, mbedtls, mingw-poppler, mupen64plus, python-starlette, webkitgtk, and xen), \u003cb\u003eMageia\u003c/b\u003e (dcmtk, java-1.8.0-openjdk, java-11-openjdk, java-17-openjdk, java-latest-openjdk, libvpx, and sqlite3), \u003cb\u003eOracle\u003c/b\u003e (bind, bind9.16, kernel, libsoup, libsoup3, osbuild-composer, qt6-qtsvg, sssd, and valkey), \u003cb\u003eRed Hat\u003c/b\u003e (kernel and kernel-rt), \u003cb\u003eSUSE\u003c/b\u003e (bind, gpg2, ImageMagick, python-Django, and runc), and \u003cb\u003eUbuntu\u003c/b\u003e (linux-azure, linux-azure-4.15, linux-fips, linux-aws-fips, inux-gcp-fips, linux-gcp, linux-gcp-6.8, linux-gke, linux-intel-iot-realtime, linux-realtime, linux-raspi-5.4, and linux-realtime, linux-realtime-6.8).",
+      "links": [
+        "https://lwn.net/Articles/1045612/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-07T14:03:41Z"
+    }
+  },
+  {
+    "hash": "31990820f2c2ded3d8cdd707cd41f6961faeeee7874ad3bd0bc7d60717abc815",
+    "item": {
+      "title": "Linux To Gain ML-DSA/Dilithium Post-Quantum Cryptography For Module Signing",
+      "description": "New code likely to be submitted for the upcoming Linux 6.19 kernel would introduce ML-DSA/Dilithium post-quantum cryptography to be initially used for dealing with kernel module signing...",
+      "links": [
+        "https://www.phoronix.com/news/Dilithium-ML-DSA-Module-Sign"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-07T14:06:00Z"
+    }
+  },
+  {
+    "hash": "64f40d657e1c830a4b0025808c9a3c764643c2f40f6224b38d71fe7f72e30160",
+    "item": {
+      "title": "Mesa Lands Fixes For HDR With Vulkan Drivers",
+      "description": "Merged overnight to Mesa 26.0-devel and likely to be back-ported for the upcoming Mesa 25.3 release are a few fixes around high dynamic range (HDR) support within the common Vulkan windowing system integration (WSI) / display code...",
+      "links": [
+        "https://www.phoronix.com/news/Mesa-Vulkan-HDR-Fixes"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-07T10:47:04Z"
+    }
+  },
+  {
+    "hash": "19cd1796cc984a2e6ca51d9c518b2181977823e0e69c219003ba71dad53ddf99",
+    "item": {
+      "title": "CoinFund President Perkins Urges Investors: ‘Don’t Sleep on XRP’",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Sleep-on-XRP-CoinFund-President-Perkins-Says.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Sleep-on-XRP-CoinFund-President-Perkins-Says.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Sleep-on-XRP-CoinFund-President-Perkins-Says-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Sleep-on-XRP-CoinFund-President-Perkins-Says-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCoinFund President Chris Perkins has urged the cryptocurrency industry not to overlook Ripple during a recent Unchained podcast episode. The executive shared his perspective on the company\u0026#8217;s current position and growth trajectory. Austin Campbell, founder of Zero Knowledge Group, asked Perkins to share thoughts on what market participants might have",
+      "links": [
+        "https://thenewscrypto.com/coinfund-president-perkins-urges-investors-dont-sleep-on-xrp/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Dont-Sleep-on-XRP-CoinFund-President-Perkins-Says.jpg"
+      },
+      "published": "2025-11-07T10:20:00Z"
+    }
+  },
+  {
+    "hash": "1e1e1d9f8a4fd55478ce7fb1595c4509c8fe93055d5281eb09701da6815e092d",
+    "item": {
+      "title": "BingX AI Arena Debuts, Bringing Competitive AI Trading in Copy Trading",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-10.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-10.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-10-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-10-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-10-376x212.png 376w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eBingX, a leading cryptocurrency exchange and Web3 AI company, today announced the launch of BingX AI Arena, an interactive trading competition that brings together multiple popular LLM-based AI models in real-time trading battles. The initiative blends AI-driven competition with copy trading, allowing them to watch top AI models — such",
+      "links": [
+        "https://thenewscrypto.com/bingx-ai-arena-debuts-bringing-competitive-ai-trading-in-copy-trading/"
+      ],
+      "categories": [
+        "Press Release",
+        "BingX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-10.png"
+      },
+      "published": "2025-11-07T10:00:00Z"
+    }
+  },
+  {
+    "hash": "eff151cb73bb1233086181641bc28f09d1a9688ee4dddcb3a6e3c0e90003f10a",
+    "item": {
+      "title": "MEXC Dominates Early-Stage Token Growth: AI, MEME, and DeFi Drive +1625% Performance Surge",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9-376x212.png 376w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, published its October operating report, reflecting a significant strengthening of its position in the initial listing market and high user engagement in new market narratives – from AI-based agent economies to meme coins and decentralized finance (DeFi) protocols. Rapid Response to New Sectors With",
+      "links": [
+        "https://thenewscrypto.com/mexc-dominates-early-stage-token-growth-ai-meme-and-defi-drive-1625-performance-surge/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-9.png"
+      },
+      "published": "2025-11-07T10:00:00Z"
+    }
+  },
+  {
+    "hash": "66e4c8d5f795a2dacbda7ecfcab9d26591ad6c7808a2edd9f73fbbfb050df421",
+    "item": {
+      "title": "MEXC Highlights Financial Strength and Enhanced Customer Support in Latest Security Report",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, has released its Security Bimonthly Report for September–October 2025, reaffirming its ongoing commitment in safeguarding user funds and maintaining operational transparency. This report outlines key achievements in fund protection, trading security, and cooperation with law enforcement in combating and preventing illicit activity. Fund Security",
+      "links": [
+        "https://thenewscrypto.com/mexc-highlights-financial-strength-and-enhanced-customer-support-in-latest-security-report/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-8.png"
+      },
+      "published": "2025-11-07T10:00:00Z"
+    }
+  },
+  {
+    "hash": "147ac44e5e7e2e6021af4ada926219179d962020f039774aa4f3b6115ceee95a",
+    "item": {
+      "title": "Bitwise Sets Sights on Dogecoin ETF Market Debut This November",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Bitwise_Dogecoin_ETF_to_Launch_on_NYSE_Under_‘BWOW_Ticker_Waives-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitwise Sets Sights on Dogecoin ETF Market Debut This November\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Bitwise_Dogecoin_ETF_to_Launch_on_NYSE_Under_‘BWOW_Ticker_Waives-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Bitwise_Dogecoin_ETF_to_Launch_on_NYSE_Under_‘BWOW_Ticker_Waives-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Bitwise_Dogecoin_ETF_to_Launch_on_NYSE_Under_‘BWOW_Ticker_Waives-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBitwise, an asset manager, is preparing its highly awaited spot ETF for Dogecoin by submitting its fourth amendment to the US Securities and Exchange Commission (SEC) in November. The amended S-1 filing notes key information, including the fees for the ETF to be competitive at 0.34%, and the ticker symbol",
+      "links": [
+        "https://thenewscrypto.com/bitwise-sets-sights-on-dogecoin-etf-market-debut-this-november/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitwise",
+        "Dogecoin",
+        "ETF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Bitwise_Dogecoin_ETF_to_Launch_on_NYSE_Under_‘BWOW_Ticker_Waives-1.jpg"
+      },
+      "published": "2025-11-07T09:59:21Z"
+    }
+  },
+  {
+    "hash": "b38cf1e5a7cda049c1a87d810e8c9a0b1319ed37f72b83ea327e710a22bbb1d0",
+    "item": {
+      "title": "How Whales Turn Small ETH Bags Into Massive Ozak AI Positions Before Launch",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Why-Ozak-AI-Token-May-Deliver-Triple.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"How Whales Turn Small ETH Bags Into Massive Ozak AI Positions Before Launch\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/09/Why-Ozak-AI-Token-May-Deliver-Triple.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/09/Why-Ozak-AI-Token-May-Deliver-Triple-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/09/Why-Ozak-AI-Token-May-Deliver-Triple-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrypto markets are entering one of their most profitable phases of the 2025 bull cycle, and while most retail investors are still chasing the momentum of established giants like Ethereum, whales are already one step ahead. Ethereum, trading around $3,700, continues to deliver steady profits, but high-net-worth investors know that",
+      "links": [
+        "https://thenewscrypto.com/how-whales-turn-small-eth-bags-into-massive-ozak-ai-positions-before-launch/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Crypto",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/09/Why-Ozak-AI-Token-May-Deliver-Triple.jpg"
+      },
+      "published": "2025-11-07T09:52:09Z"
+    }
+  },
+  {
+    "hash": "855ca30c0eb3a07d2e40aed422d0d7c72789246e607ea640b71f6e4af585b32e",
+    "item": {
+      "title": "Chainlink Exchange Balances Hit Multi-Year Lows as SBI Partnership Announced",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Chainlink_Secures_Major_Deal_With_SBI_Digital_Markets_Amid_LINK.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Chainlink_Secures_Major_Deal_With_SBI_Digital_Markets_Amid_LINK.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Chainlink_Secures_Major_Deal_With_SBI_Digital_Markets_Amid_LINK-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Chainlink_Secures_Major_Deal_With_SBI_Digital_Markets_Amid_LINK-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eSBI Digital Markets, the digital asset division of Japan\u0026#8217;s SBI Group managing over $78.65 billion in assets, has selected Chainlink as its exclusive infrastructure provider. The strategic partnership arrives as the network unveils new technological developments and LINK exchange balances reach multi-year lows. According to the announcement, SBI Digital Markets",
+      "links": [
+        "https://thenewscrypto.com/chainlink-exchange-balances-hit-multi-year-lows-as-sbi-partnership-announced/"
+      ],
+      "categories": [
+        "Altcoin News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Chainlink_Secures_Major_Deal_With_SBI_Digital_Markets_Amid_LINK.jpg"
+      },
+      "published": "2025-11-07T09:45:48Z"
+    }
+  },
+  {
+    "hash": "1d4fbdc451d69a066fd74775f4146a5be76777e98778b28ea578006b1cb9d989",
+    "item": {
+      "title": "Block Stock Sinks After Q3 Miss Despite Rising Cash App Profits",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Block-shares-tumble-after1-.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Block Stock Sinks After Q3 Miss Despite Rising Cash App Profits\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Block-shares-tumble-after1-.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Block-shares-tumble-after1--300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Block-shares-tumble-after1--376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBlock Inc., led by Jack Dorsey, had a rocky session as its shares fell 11.53% after hours after an earnings miss in the third quarter. The company reported earnings per share of $0.54 compared to analysts’ estimates of $0.63 EPS, and revenue of $6.11 billion against consensus of $6.33 billion. ",
+      "links": [
+        "https://thenewscrypto.com/block-stock-sinks-after-q3-miss-despite-rising-cash-app-profits/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin Mining",
+        "block Inc",
+        "Cash App"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Block-shares-tumble-after1-.jpg"
+      },
+      "published": "2025-11-07T07:19:08Z"
+    }
+  },
+  {
+    "hash": "6d10095ad184bee0f6aaa3a22d7bbc285df4f0d62c4e30d0e06187321cf80a25",
+    "item": {
+      "title": "The Untraceable Economy: Why SilentSwap V2 Is Now Essential for Institutional DeFi",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"439\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-24.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-24.jpg 781w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-24-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-24-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-24-376x212.jpg 376w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eAs on-chain visibility becomes a liability, institutions turn to private cross-chain swaps that protect assets and strategy. Imagine an office where every desk, note and conversation is recorded. Not by mistake, but by design. That is what Web3 has become. It is a financial system built on constant visibility. Every",
+      "links": [
+        "https://thenewscrypto.com/the-untraceable-economy-why-silentswap-v2-is-now-essential-for-institutional-defi/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi",
+        "SilentSwap V2"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-24.jpg"
+      },
+      "published": "2025-11-07T07:15:04Z"
+    }
+  },
+  {
+    "hash": "534267f6d1b828f82647714dacf80bd4d65ecb39c5a01326de263edf8bea8026",
+    "item": {
+      "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+      "description": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
+      "links": [
+        "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8rdEXn4OiPHiiJnsEymue5DlWPMj7u6ZfFy77r6q_HntR6yOsA-4dEQXLqdkPUJNs9TwgPJO4TeBDDz5nsX3QZkIi_I1Be45_AXRqgDkEuMuu8-pvYj0sAQfYCltYGbWMup2aRypVEyCSyAF46haWxabn5UPUPnCl_TnG6H4FvB62Hxa2ITd_vcZRr8X/s1600/countdown-malware.jpg"
+      },
+      "published": "2025-11-07T11:55:00Z"
+    }
+  },
+  {
+    "hash": "d932ae549c1f1e9c6474fc1dfc9b06646d8b003749de6c8d937b36f017d97b6c",
+    "item": {
+      "title": "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846090\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openmw.org/2025/openmw-0-50-0-released/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T13:25:27Z"
+    }
+  },
+  {
+    "hash": "2d8f6be288f39875a8cf1a91cafdf3916c78abb06ff5983bc1f673b531c4c20c",
+    "item": {
+      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845800\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2510.24256"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T12:43:49Z"
+    }
+  },
+  {
+    "hash": "f6d009d329a9f59546236339413592c9d795c15cab43069bd29c4555ecc6f3bc",
+    "item": {
+      "title": "Meta projected 10% of 2024 revenue came from scams",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845772\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T12:39:54Z"
+    }
+  },
+  {
+    "hash": "6f225b307efce473e506d62df8d84be3fa6bdefc59601e384b18bed93c26c92e",
+    "item": {
+      "title": "I'm Making a Small RPG and I Need Feeback Regarding Performance",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846360\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T13:52:39Z"
+    }
+  },
+  {
+    "hash": "7e29f95950371ac41907a96736dd4ac3e5461f22dee2b15f631dd9457bbf1e52",
+    "item": {
+      "title": "PyTorch Helion",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788194\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pytorch.org/blog/helion/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T06:21:37Z"
+    }
+  },
+  {
+    "hash": "76ed920ec2fa39abc01c7b155dc412ebe51320aa34ea9a4ab77ea00ce8101e98",
+    "item": {
+      "title": "I Work Best Under Stress (and My Family Pays for It)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846444\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.codecabin.dev/post/i-work-best-under-stress"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T14:00:15Z"
+    }
+  },
+  {
+    "hash": "f395212c90597acd840561538fc73de004351988e8cff4f4a0b2205cce437d6c",
+    "item": {
+      "title": "1973 Implementation of Wordle Was Published by Dec (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45778653\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T01:56:57Z"
+    }
+  },
+  {
+    "hash": "5cbcc892b6ff656dd4f0b45e73072433d482e4be624be8fddf49473a0db6f27a",
+    "item": {
+      "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45789143\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T10:00:07Z"
+    }
+  },
+  {
+    "hash": "7f251a86a0220cc5904222dc5ea01bb9a01a688dacee312ca0fb8aadada40fc3",
+    "item": {
+      "title": "Majority of teens hold negative views of news media, says report",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845147\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.niemanlab.org/2025/11/biased-boring-chaotic-and-bad-a-majority-of-teens-hold-negative-views-of-news-media-report-finds/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T10:32:50Z"
+    }
+  },
+  {
+    "hash": "a6fe97663ec2fda2d65313a39bbffda0ba653fa609b33f90b4944966a6019c25",
+    "item": {
+      "title": "We chose OCaml to write Stategraph",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845958\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stategraph.dev/blog/why-we-chose-ocaml"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T13:10:49Z"
+    }
+  },
+  {
+    "hash": "197b1e1230257467df0f53af06b53455cc1ac0f79779868167bf7c97122e21c1",
+    "item": {
+      "title": "Is Software the UFOlogy of Engineering Disciplines?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845948\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T13:09:07Z"
+    }
+  },
+  {
+    "hash": "e250cdf6f308c425229ecc442f0e7d510cd9f547c7784e1728a9772b6f611b2a",
+    "item": {
+      "title": "Strategy Raises €620M in Upsized Stream Preferred Stock Offering to Support Bitcoin Purchases and Growth",
+      "description": "\u003cp\u003eBillionaire Michael Saylor’s Strategy Inc. announced that it has priced its initial public offering of 10% Series A Perpetual Stream Preferred Stock (STRE), raising gross proceeds of €620 million ($715 million). \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strategy-raises-620m-in-upsized-stream-preferred-stock-offering-to-support-bitcoin-purchases-and-growth/\"\u003eStrategy Raises €620M in Upsized Stream Preferred Stock Offering to Support Bitcoin Purchases and Growth\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strategy-raises-620m-in-upsized-stream-preferred-stock-offering-to-support-bitcoin-purchases-and-growth/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/04170107/Microstrategy.jpg"
+      },
+      "published": "2025-11-07T13:17:47Z"
+    }
+  },
+  {
+    "hash": "26862358a261ecaff5252923f8714c37d15148e373cd89c949965c1ed499c64a",
+    "item": {
+      "title": "Filecoin Surges 50% in 24 Hours as AI Pivot, Gas Fee Cuts, and Developer Incentives Ignite Bullish Momentum",
+      "description": "\u003cp\u003eFilecoin (FIL) has soared more than 55% in the past 24 hours, reaching $2.10, as investor sentiment turns bullish ahead of a series of major ecosystem upgrades and events. \u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/filecoin-surges-50-in-24-hours-as-ai-pivot-gas-fee-cuts-and-developer-incentives-ignite-bullish-momentum/\"\u003eFilecoin Surges 50% in 24 Hours as AI Pivot, Gas Fee Cuts, and Developer Incentives Ignite Bullish Momentum\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/filecoin-surges-50-in-24-hours-as-ai-pivot-gas-fee-cuts-and-developer-incentives-ignite-bullish-momentum/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "AI",
+        "DePIN",
+        "filecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/07125305/1762519985-1723025118-blog-filecoin-news_optimized-4.jpg"
+      },
+      "published": "2025-11-07T12:56:34Z"
+    }
   }
 ]
