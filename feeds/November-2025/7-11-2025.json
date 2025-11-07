@@ -467,5 +467,157 @@
       },
       "published": "2025-11-06T21:40:01Z"
     }
+  },
+  {
+    "hash": "14727297c07bf9c81eead2abc669f7232a51a111ccfe7f4e703859735c69fe9c",
+    "item": {
+      "title": "Ubuntu Server 25.10 Performance On AMD EPYC With \"amd64v3\" Optimized Packages",
+      "description": "Last week Canonical announced Ubuntu \"architecture variants\" with initially supporting \"amd64v3\" optimized packages built using the x86_64-v3 micro-architecture feature level. For this initial debut in the Ubuntu 25.10 archive an initial subset of packages are built using that higher feature level that can assume AVX/AVX2 and other more recent CPU ISA additions. More details on that and some initial desktop benchmarks can be found within the Ubuntu 25.10 amd64v3 Benchmarks article. Complementing that are some Ubuntu Server 25.10 benchmarks carried out on an AMD EPYC \"Turin\" server of the base amd64 packages versus amd64v3...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-Server-25.10-amd64v3"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-07T01:39:11Z"
+    }
+  },
+  {
+    "hash": "171f6f84d58ef36e2391e5105f1195a7a1dc1cd92268606ca4d652f644a445ca",
+    "item": {
+      "title": "Scientists find ways to boost memory in aging brains",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45842263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T00:22:53Z"
+    }
+  },
+  {
+    "hash": "dbc1b7a3cbb6ce6d8793e7d29a2452c38ebfb4d6a3276e3271f9120fdc269947",
+    "item": {
+      "title": "A Note on Fil-C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45842494\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://graydon2.dreamwidth.org/320265.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T00:59:58Z"
+    }
+  },
+  {
+    "hash": "0760f7e6cea866ddcc7fa6cdb338249f6cc0950af8fe317caae8fd019f45767c",
+    "item": {
+      "title": "A prvalue is not a temporary",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45843120\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T02:57:02Z"
+    }
+  },
+  {
+    "hash": "c48fb07eaf42299016a11762e29fcbb7ca2eb7cc520a6b28280b2280ad2a474b",
+    "item": {
+      "title": "Analysis indicates that the universe’s expansion is not accelerating",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45840200\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T20:45:39Z"
+    }
+  },
+  {
+    "hash": "dad3057e4611fc6844cdec1562482be6be4bda5e54e90112b35198c6ccaed418",
+    "item": {
+      "title": "From web developer to database developer in 10 years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808863\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T09:02:49Z"
+    }
+  },
+  {
+    "hash": "07e4bf8fed2705ed78d14fb7dbefc195dbeefd3f6322976cb93a16a0b8b2e963",
+    "item": {
+      "title": "GT – Experimental multiplexing tensor framework for distributed GPU computing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788441\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/bwasti/gt"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T07:16:20Z"
+    }
+  },
+  {
+    "hash": "15c972cfa0a9e73ea819b2b26e91e7fb4281193b9c82ae951002b83e734f2643",
+    "item": {
+      "title": "The secret campaign to silence critics of a hospital real estate empire",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45841910\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T23:39:07Z"
+    }
+  },
+  {
+    "hash": "ede1c87478497c117bb4faf0a3322f349d359ea92f498ae3140973496a3ed565",
+    "item": {
+      "title": "Asia Market Open: Crypto Extends Losses, Global Stocks Weaken on Economic Jitters",
+      "description": "\u003cp\u003eBitcoin and Asian stocks slipped Friday as investors grew cautious, citing weak demand signals and uncertainty over the global economic outlook.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-extends-losses-global-stocks-weaken-economic-jitters-asia-market-open/\"\u003eAsia Market Open: Crypto Extends Losses, Global Stocks Weaken on Economic Jitters\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-extends-losses-global-stocks-weaken-economic-jitters-asia-market-open/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Asia",
+        "Bitcoin",
+        "Stocks"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/07020700/1762481218-asia-market-open-cover.png"
+      },
+      "published": "2025-11-07T02:13:24Z"
+    }
+  },
+  {
+    "hash": "8167c0fdc92373f142723ac5ba8c3bb2775e46f97cb6a18579e92770fc5ae9db",
+    "item": {
+      "title": "Jack Dorsey’s Block Rakes In Nearly $2B from Bitcoin Revenue in Q3",
+      "description": "\u003cp\u003eBlock earned nearly $2b in Bitcoin revenue in Q3, driving its $6.11b total haul as Cash App and Square powered an 18% rise in gross profit.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/jack-dorsey-block-makes-2b-bitcoin-revenue-q3/\"\u003eJack Dorsey’s Block Rakes In Nearly $2B from Bitcoin Revenue in Q3\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/jack-dorsey-block-makes-2b-bitcoin-revenue-q3/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Block Earner"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/07011344/1762478024-chatgpt-image-nov-7-2025-06_43_09-am_optimized.jpg"
+      },
+      "published": "2025-11-07T01:14:33Z"
+    }
   }
 ]
