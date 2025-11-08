@@ -556,5 +556,190 @@
       },
       "published": "2025-11-07T22:14:00Z"
     }
+  },
+  {
+    "hash": "daf2a225ffef2e7114b9bbedd7bbe8ac796b5541eb0cfe6ec47a04a5e8bfc05f",
+    "item": {
+      "title": "GTK Adds \"Reduced Motion\" Accessibility Option To Follow macOS, Windows \u0026 Others",
+      "description": "In addition to GNOME's Mutter compositor removing its X11 back-end support to focus exclusively on Wayland while keeping around XWayland client support, another notable GNOME change this week was the GTK toolkit adding a \"reduced motion\" accessibility option...",
+      "links": [
+        "https://www.phoronix.com/news/GTK-Reduced-Motion"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-08T01:15:04Z"
+    }
+  },
+  {
+    "hash": "6559009ac5ad8f4125b917c3e306f239e414ede6e6fecca92c76e7c22eb55885",
+    "item": {
+      "title": "Why is Zig so cool?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852328\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nilostolte.github.io/tech/articles/ZigCool.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T23:04:39Z"
+    }
+  },
+  {
+    "hash": "c1d129f5ba27c0641f624bcf1ff2d9692f7d824cb0e9180ec0b7cf729ef56d22",
+    "item": {
+      "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852854\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Snapchat/Valdi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T00:14:50Z"
+    }
+  },
+  {
+    "hash": "ebf6a11af8913e5afaabada0f34f9fbc3bb03ea9b97ff2b14ed76dc3128abde8",
+    "item": {
+      "title": "Mullvad: Shutting down our search proxy Leta",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852974\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T00:37:36Z"
+    }
+  },
+  {
+    "hash": "6722969b8b3957b0f4ec639098f2ff9546a627f41e7cb8aec280dcfc320e34b3",
+    "item": {
+      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T00:21:45Z"
+    }
+  },
+  {
+    "hash": "c12ce1efd9247e21646e180e9b77a8f1cc435c089af9e0bac23c1a00530c210b",
+    "item": {
+      "title": "Sam Altman's pants are on fire",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45853292\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T01:39:18Z"
+    }
+  },
+  {
+    "hash": "d5848cc9a0e325e56169b72ba6ec2bb6fab3c861a9806a3aa83ba3bd917e20f1",
+    "item": {
+      "title": "Why I love OCaml (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846517\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mccd.space/posts/ocaml-the-worlds-best/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T14:05:49Z"
+    }
+  },
+  {
+    "hash": "f503ee853f960884d9312513f3064a3e425f7cc113e8ef09c8a8dccaee917926",
+    "item": {
+      "title": "Shell Grotto: England's mysterious underground seashell chamber",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809746\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T11:27:59Z"
+    }
+  },
+  {
+    "hash": "af437b3b99d264e605f0abf23bfdd1b91e2c2739a682faca7c902859131ed262",
+    "item": {
+      "title": "Transducer: Composition, abstraction, performance (2018)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809429\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://funktionale-programmierung.de/en/2018/03/22/transducer.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T10:32:26Z"
+    }
+  },
+  {
+    "hash": "f7026c48daaacdf1389599061b4cafd70a748427146e688c8ef0b03d01797bbf",
+    "item": {
+      "title": "Show HN: Find matching acrylic paints for any HEX color",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800009\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://acrylicmatch.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T15:20:24Z"
+    }
+  },
+  {
+    "hash": "7448b7cef9ff29c0529ca40f61d2b28cccc69301386319d3f6dfe9a6a9d3c292",
+    "item": {
+      "title": "FAA to restrict commercial rocket launches to overnight hours",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852275\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T22:59:04Z"
+    }
+  },
+  {
+    "hash": "8de9453eb39120929983364b757c6295e686e264518452a071b0c5f3d7ba87e6",
+    "item": {
+      "title": "Older Adults Outnumber Children in 11 States",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45853155\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T01:07:26Z"
+    }
+  },
+  {
+    "hash": "83671dfad1095ddcd665adcc49cb1260e5ab26ad26b05bc67ed84b10c9d139ae",
+    "item": {
+      "title": "WinObjC – The Windows Bridge for iOS",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45791596\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/microsoft/WinObjC"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T16:47:55Z"
+    }
+  },
+  {
+    "hash": "775e037e0375d166ed5de03890a4fb69ec85cb28fa98076cb86595d39b53397f",
+    "item": {
+      "title": "He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems (2010)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852011\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T22:34:15Z"
+    }
+  },
+  {
+    "hash": "e95bd3ec8ef413b6be8796e1cb5052159ac183a3ccb35fd71bf7e14c7b339852",
+    "item": {
+      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852751\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cerebras.ai/code"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T00:00:27Z"
+    }
   }
 ]
