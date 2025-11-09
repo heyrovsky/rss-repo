@@ -1406,5 +1406,190 @@
       },
       "published": "2025-11-09T12:28:02Z"
     }
+  },
+  {
+    "hash": "bccef6b9162e71277bda6fc2ac2c5df5f923b51b059d74b790b6242f4146b935",
+    "item": {
+      "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
+      "description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel. Being in kbuild-next these patches will likely be submitted for the Linux 6.19 kernel merge window next month but remains to be seen if there will be any last minute objections to this change...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-09T16:30:20Z"
+    }
+  },
+  {
+    "hash": "15dd4a88f1c01d6e5b8dacb15d9ed34dffa8d6fab33e5fb029ebbcaf43eac991",
+    "item": {
+      "title": "The Manuscripts of Edsger W. Dijkstra",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866224\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cs.utexas.edu/~EWD/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T15:27:42Z"
+    }
+  },
+  {
+    "hash": "16b9cee722d5133fc203923ed04c3801057a3721bcd2f63db43678f463ce0dcb",
+    "item": {
+      "title": "Marble Fountain",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://willmorrison.net/posts/marble-fountain/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T16:26:09Z"
+    }
+  },
+  {
+    "hash": "5ecd95e06806aa94cc19a8cd72f22c4126370ab0aeee8ecbb42248fa68f372f8",
+    "item": {
+      "title": "The Principles of Diffusion Models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866572\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2510.21890"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T16:10:23Z"
+    }
+  },
+  {
+    "hash": "9f43a6bed075bf82ead6b4c98ace792268938689e34b2588785d222633b3916b",
+    "item": {
+      "title": "Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866165\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T15:18:23Z"
+    }
+  },
+  {
+    "hash": "d804fa8a8c549d38475600a1d85224ab0ff6279edd50e1e388e935c620b981ea",
+    "item": {
+      "title": "AI isn't replacing jobs. AI spending is",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866243\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T15:30:23Z"
+    }
+  },
+  {
+    "hash": "c39981fe17e20d096b144848d527b7bfa4b9ec885bbc8b7a5d9768fa5fafdf46",
+    "item": {
+      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866772\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/samcervantes/bumble-berry-pi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T16:34:44Z"
+    }
+  },
+  {
+    "hash": "c0576f432f98fa41506226b488ab9d6e2dcd04c45785a598c3e70fdeef11766b",
+    "item": {
+      "title": "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810223\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T12:36:49Z"
+    }
+  },
+  {
+    "hash": "ccdd121cb080c0ed3dea14cd7fd347c10c8ad59f66c580462832aa1174e60ca5",
+    "item": {
+      "title": "Bull markets make you feel smarter than you are",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T16:25:05Z"
+    }
+  },
+  {
+    "hash": "856ddc3324189ef2ce3de88e0c593a3b5e18246ca61629eb9e46421c28623457",
+    "item": {
+      "title": "About KeePassXC's Code Quality Control",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45865921\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T14:44:06Z"
+    }
+  },
+  {
+    "hash": "5d0c0b3f2edf9dcf1879190b58246a9e4256ca80169c3e8f1756b7e7a8a9a528",
+    "item": {
+      "title": "Knowledge Insulating Vision-Language-Action Models: Train, Run Fast, Generalize [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787679\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.physicalintelligence.company/download/pi05_KI.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T03:35:13Z"
+    }
+  },
+  {
+    "hash": "b9502be7a11660f0cdb98f647d2fa7ba339229ead696e0106625584222f0ac2f",
+    "item": {
+      "title": "Ask HN: How do you get over the fear of sharing code?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45867176\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45867176"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T17:17:20Z"
+    }
+  },
+  {
+    "hash": "b20749438c014d76aa8074aedd0c3f9c4a5fe9f4f77a480a84cb54b86b4a7009",
+    "item": {
+      "title": "Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission",
+      "description": "Blue Origin is counting down to launch of its second New Glenn rocket Sunday.",
+      "links": [
+        "https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "blue origin",
+        "Commercial space",
+        "escapade",
+        "launch",
+        "Mars",
+        "NASA",
+        "new glenn",
+        "ng-2",
+        "planetary science",
+        "rocket lab",
+        "solar system",
+        "uc berkeley"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg"
+      },
+      "published": "2025-11-09T15:34:52Z"
+    }
   }
 ]
