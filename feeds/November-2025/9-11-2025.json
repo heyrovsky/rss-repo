@@ -920,5 +920,121 @@
       },
       "published": "2025-11-09T08:30:47Z"
     }
+  },
+  {
+    "hash": "b70cd7a9ac0af147ae3ad43cb168223821d37bf7e8a208257772605e06ef68e7",
+    "item": {
+      "title": "Lenovo IdeaPad Linux Driver Adding Support For Rapid Charge Mode",
+      "description": "Queued into the platform-drivers-x86 \"for-next\" Git branch ahead of the Linux 6.19 merge window is introducing the handling for the \"Rapid Charge\" USB-C charging mode to the Lenovo IdeaPad laptop driver...",
+      "links": [
+        "https://www.phoronix.com/news/Lenovo-IdeaPad-Rapid-Charge"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-09T11:49:59Z"
+    }
+  },
+  {
+    "hash": "f93517a588c6bf9942e6e164bd7fbfea7c5185d69c31bd00442c3c22b520a6cb",
+    "item": {
+      "title": "Linux 6.19 Will Better Deal With Corrupt Minix File-Systems",
+      "description": "For anyone dealing with Minix file-systems still for this nearly 40 year old creation, the upcoming Linux 6.19 kernel is expected to bring some fixes to the Minix driver for better handling corrupted file-system images...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Fixes-Minix-FS"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-09T11:28:12Z"
+    }
+  },
+  {
+    "hash": "f8da3719610405647e31980d7fb463e21ab6336004abed883106edfdf9b5ded6",
+    "item": {
+      "title": "AMD Preps More Graphics Driver Changes For Linux 6.19",
+      "description": "AMD continues preparing more kernel driver code for Linux 6.19. This week another round of AMDGPU kernel graphics driver updates were submitted to DRM-Next ahead of the early December merge window...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-More-AMDGPU"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-09T11:14:44Z"
+    }
+  },
+  {
+    "hash": "7fe1a40fb7b0bc8cce7d85335f93381cb247d7657988d600484cbc10a757472a",
+    "item": {
+      "title": "Cloud Hypervisor 49 Released With AArch64 + Microsoft Hyper-V Improvements",
+      "description": "For what began as an Intel open-source project focused on delivering a modern VMM for cloud workloads and written in Rust is seeing increasingly more exposure on AArch64 and Microsoft Windows platforms. In fact, Intel remains largely inactive now with Cloud Hypervisor after their lead maintainer left the company last year and has now been one year since seeing any significant contributions from Intel to this open-source project...",
+      "links": [
+        "https://www.phoronix.com/news/Cloud-Hypervisor-49"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-09T11:03:34Z"
+    }
+  },
+  {
+    "hash": "0d63c21b2fb1a6768664f78a7b8292467e2c79e4f9e849906cefbe9bd5655ea3",
+    "item": {
+      "title": "The overengineered Solution to my Pigeon Problem",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45794814\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://maxnagy.com/posts/pigeons/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T00:48:32Z"
+    }
+  },
+  {
+    "hash": "12bf9dfb3feb459bc0c433e3b6a3f095d05f29763ad66500f97ee7558345da37",
+    "item": {
+      "title": "Ask HN: How would u setup a child's first Linux computer?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45864732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45864732"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T11:12:02Z"
+    }
+  },
+  {
+    "hash": "2183ce2e257d152c8070e8b32cfc342e475ff8f608c1465ed942690ac73af484",
+    "item": {
+      "title": "Show HN: I built a self-hosted error tracker in Rails",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45776512\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://telebugs.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-10-31T20:46:51Z"
+    }
+  },
+  {
+    "hash": "0cf9b9e7d5e92c02dcc53ffce6aa18c27bb67540f31a871c23076bd0df6b12d2",
+    "item": {
+      "title": "Toolkit to help you get started with Spec-Driven Development",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798473\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/github/spec-kit"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T12:48:16Z"
+    }
   }
 ]
