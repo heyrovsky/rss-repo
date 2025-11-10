@@ -1,0 +1,264 @@
+[
+  {
+    "hash": "f496628f5cd54a7deabd125ef6ac94a800c43155d0e43a6a58bff2d320b13962",
+    "item": {
+      "title": "Kernel prepatch 6.18-rc5",
+      "description": "The \u003ca href=\"https://lwn.net/Articles/1045809/\"\u003e6.18-rc5\u003c/a\u003e kernel prepatch is out for\ntesting.  \"\u003cq\u003eIn other words: it all looks just the way I like it at this\npoint: small and boring.\u003c/q\u003e\"",
+      "links": [
+        "https://lwn.net/Articles/1045810/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-09T23:44:19Z"
+    }
+  },
+  {
+    "hash": "4baf32f1e11792e031427e61f9fb05355aaa22df26636b986cde8eecca818ca2",
+    "item": {
+      "title": "About KeePassXC's code quality control (KeePassXC blog)",
+      "description": "\u003cp\u003eThe KeePassXC project has recently updated its \u003ca\nhref=\"https://github.com/keepassxreboot/keepassxc/blob/develop/.github/CONTRIBUTING.md\"\u003econtribution\npolicy\u003c/a\u003e and \u003ca\nhref=\"https://github.com/keepassxreboot/keepassxc/blob/develop/README.md\"\u003eREADME\u003c/a\u003e\nto note its policy around contributions created with generative AI\ntools. The project's use of those tools, such as GitHub Copilot, have\nraised a number of questions and concerns, which the project has\n\u003ca\nhref=\"https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/\"\u003eresponded\nto\u003c/a\u003e:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003e\u003cstrong\u003eThere are no AI features inside KeePassXC and there never\nwill be!\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eThe use of Copilot for drafting pull requests is reserved for very\nsimple and focused tasks with a small handful of changes, such as\nsimple bugfixes or UI changes. We use it sparingly (mostly because\nit's not very good at complex tasks) and only where we think it offers\na benefit. Copilot is good at helping developers plan complex changes\nby reviewing the code base and writing suggestions in markdown, as\nwell as boilerplate tasks such as test development. Copilot can mess\nup, and we catch that in our standard review process (e.g., by\ncommitting a full directory of rubbish, which we identified and\nfixed). You can review our copilot instructions. Would we ever let AI\nrewrite our crypto stack? No. Would we let it refactor and rewrite\nlarge parts of the application? No. Would we ask it to fix a\nregression or add more test cases? Yes, sometimes.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eEmphasis in the original. See the full post to learn more about the\nproject's processes and pull requests that have been created with AI\nassistance.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1045807/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-09T22:45:05Z"
+    }
+  },
+  {
+    "hash": "d138562844c78d3197014ca48bb39445eca60e3e5988f5109ef200a5bf3d37e7",
+    "item": {
+      "title": "A proposed kernel policy for LLM-generated contributions",
+      "description": "The kernel community is currently reviewing \u003ca\nhref=\"https://lwn.net/ml/all/20251105231514.3167738-1-dave.hansen@linux.intel.com/\"\u003ea\nproposed policy\u003c/a\u003e for contributors who are using large language models to\nassist in the creation of their patches; the primary focus is on disclosure\nof the use of those tools.  \"\u003cq\u003eThe goal here is to clarify community\nexpectations around tools. This lets everyone become more productive while\nalso maintaining high degrees of trust between submitters and\nreviewers.\u003c/q\u003e\"",
+      "links": [
+        "https://lwn.net/Articles/1045806/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-09T22:33:09Z"
+    }
+  },
+  {
+    "hash": "9fa5a77ab487c1f9c075472f753f3969b376684b81fdcabd98653431f58e167b",
+    "item": {
+      "title": "Linux 6.18-rc5 Released: \"Small And Boring\"",
+      "description": "As we work toward the stable Linux 6.18 kernel release expected around the end of December, out today is the Linux 6.18-rc5 test kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc5-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-09T23:23:43Z"
+    }
+  },
+  {
+    "hash": "f6eae1835e4d08fcd49e7447257d3810e4ce2dfda1d8dece30f0ce9fc8acd6bb",
+    "item": {
+      "title": "Hackaday Links: November 9, 2025",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Hackaday Links Column Banner\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg 800w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=250,134 250w, https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?resize=400,215 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"137037\" data-permalink=\"https://hackaday.com/2014/11/09/hackaday-links-november-9-2014/had-links-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg\" data-orig-size=\"800,430\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Hackaday Links\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" /\u003e\u003c/div\u003eWe\u0026#8217;re always a wee bit suspicious about articles that announce some sort of \u0026#8220;World\u0026#8217;s first\u0026#8221; accomplishment. With a couple of hundred thousand years of history, most of which wasn\u0026#8217;t recorded, \u003ca href=\"https://hackaday.com/2025/11/09/hackaday-links-november-9-2025/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/09/hackaday-links-november-9-2025/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Hackaday links",
+        "Slider",
+        "barbecue",
+        "bbq",
+        "computer history",
+        "Cuckoo's Egg",
+        "cybersecurity",
+        "flame war",
+        "hackaday links",
+        "meteorite",
+        "space food",
+        "space junk",
+        "space race",
+        "taikonaut",
+        "tesla",
+        "tiangong",
+        "WAGO",
+        "wire nut",
+        "worm"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Dan Maloney"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+      },
+      "published": "2025-11-10T00:00:46Z"
+    }
+  },
+  {
+    "hash": "857485ee20a66409cb951dbc41db541858b74fbb6e650e96d13870517285db46",
+    "item": {
+      "title": "2025 Component Abuse Challenge: Dawg Gone LED Tester",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg?resize=400,225 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"872795\" data-permalink=\"https://hackaday.com/2025/11/09/2025-component-abuse-challenge-dawg-gone-led-tester/electrodawg-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"electrodawg-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg?w=800\" /\u003e\u003c/div\u003eThe Hackaday 2025 Component Abuse Challenge is all about abusing electronic components in the service of making them do things they were never intended to. It\u0026#8217;s not the 2025 Food \u003ca href=\"https://hackaday.com/2025/11/09/2025-component-abuse-challenge-dawg-gone-led-tester/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/09/2025-component-abuse-challenge-dawg-gone-led-tester/"
+      ],
+      "categories": [
+        "contests",
+        "cooking hacks",
+        "2025 Component Abuse Challenge",
+        "hot dog",
+        "hot dog cooker",
+        "led",
+        "mains electricity"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/10/electrodawg-featured.jpg"
+      },
+      "published": "2025-11-09T21:00:08Z"
+    }
+  },
+  {
+    "hash": "6d284a6f9564ef31a2612874369603c48e2b9e8bb2f10101d492965fc97bb78c",
+    "item": {
+      "title": "Concrete Lathe Turns Metal",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2025/11/lathe.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/lathe.png 800w, https://hackaday.com/wp-content/uploads/2025/11/lathe.png?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/11/lathe.png?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"873898\" data-permalink=\"https://hackaday.com/2025/11/09/concrete-lathe-turns-metal/lathe-13/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/lathe.png\" data-orig-size=\"800,449\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"lathe\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/lathe.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/lathe.png?w=800\" /\u003e\u003c/div\u003eFull disclosure. If you want a lathe capable of turning metal stock, you probably should just buy one. But what fun is that? You can do like [kachurovskiy] and build \u003ca href=\"https://hackaday.com/2025/11/09/concrete-lathe-turns-metal/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/09/concrete-lathe-turns-metal/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "Tool Hacks",
+        "cast concrete",
+        "concrete lathe",
+        "lathe"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/lathe.png"
+      },
+      "published": "2025-11-09T18:00:40Z"
+    }
+  },
+  {
+    "hash": "5f2be43d5cbcdaa8e90c8ee6c26e2927518463fa0fcb151627b4d4c3c5803b8c",
+    "item": {
+      "title": "Ask HN: What Are You Working On? (Nov 2025)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45869146\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45869146"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T21:02:33Z"
+    }
+  },
+  {
+    "hash": "369d21585ef68aac239c4106338adff782bbe78d772b7f76f036f611da74e165",
+    "item": {
+      "title": "JVM exceptions are weird: a decompiler perspective",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808899\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T09:08:23Z"
+    }
+  },
+  {
+    "hash": "3636357d377a91f120c81ce4cb15381ae1789b58293297338bfbcb259b517887",
+    "item": {
+      "title": "Montana becomes first state to enshrine 'right to compute' into law",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45865289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T13:03:36Z"
+    }
+  },
+  {
+    "hash": "5e906cdd4a0ad7b05a71d820824f769fa3c0adb20575bc993a6604194922b192",
+    "item": {
+      "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45867717\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T18:17:44Z"
+    }
+  },
+  {
+    "hash": "589de10671d886c2ec4e672b7a67a19571bc846424ed80ee10f951bfd5a8bfce",
+    "item": {
+      "title": "If You're Not Active, You're Sick – You Just Don't Know It Yet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45869587\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T21:56:29Z"
+    }
+  },
+  {
+    "hash": "96380af89e69d18ae2d0d1ebab404833c27185241b98b3976b6ca007f64a1924",
+    "item": {
+      "title": "Custom doorbell app with Home Assistant and WebRTC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45869543\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.naps62.com/posts/custom-doorbell-app-with-homeassistant"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T21:51:31Z"
+    }
+  },
+  {
+    "hash": "a13ec44240a1ed7bea80d2f19c02fcde793c0da33f60ceb9abdcac9df23b5815",
+    "item": {
+      "title": "Sued by Nintendo",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45870675\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.suedbynintendo.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-10T00:13:11Z"
+    }
+  },
+  {
+    "hash": "b408cf76e373da91af21103eb6276b26c7dab7455d06d83e86b66e2330b65b8a",
+    "item": {
+      "title": "The Symbiosis of Rust and Arm: A Conversation with David Wood",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798154\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://filtra.io/rust/interviews/arm-sep-25"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T11:59:54Z"
+    }
+  }
+]
