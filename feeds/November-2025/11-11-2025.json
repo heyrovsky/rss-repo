@@ -2864,5 +2864,943 @@
       },
       "published": "2025-11-11T12:52:10Z"
     }
+  },
+  {
+    "hash": "f4f3a4b486c8ccc65bae485a40f7d2efe3c4d260e9f0fb08f098e0f1379b18eb",
+    "item": {
+      "title": "Google announces even more AI in Photos app, powered by Nano Banana",
+      "description": "Google's Nano Banana is powering a raft of new features in the app. ",
+      "links": [
+        "https://arstechnica.com/google/2025/11/googles-nano-banana-ai-image-editing-is-finally-coming-to-google-photos/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "AI images",
+        "Artificial Intelligence",
+        "google",
+        "Google photos"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-1152x648.png"
+      },
+      "published": "2025-11-11T17:00:11Z"
+    }
+  },
+  {
+    "hash": "97e61cef642a0b0e5c6813ca1b593663793db453a0e3a3224748aea2b204e7d7",
+    "item": {
+      "title": "You won’t believe the excuses lawyers have after getting busted for using AI",
+      "description": "I got hacked; I lost my login; it was a rough draft; toggling windows is hard.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/lawyers-keep-giving-weak-sauce-excuses-for-fake-ai-citations-in-court-docs/"
+      ],
+      "categories": [
+        "AI",
+        "Features",
+        "Policy",
+        "AI Citations",
+        "ai hallucinations",
+        "ai lawyer",
+        "Artificial Intelligence",
+        "chatbot",
+        "ChatGPT",
+        "Microsoft Copilot"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ai-shrugging-lawyer-1152x648.jpg"
+      },
+      "published": "2025-11-11T15:54:11Z"
+    }
+  },
+  {
+    "hash": "2b079adeafd319fc49e35c54e11aff64a07fd441a668c7a94f96c301f7ca15c8",
+    "item": {
+      "title": "Pirelli’s Cyber Tire might become highway agencies’ newest assistant",
+      "description": "Pirelli's Cyber Tire can work for the greater good as well as the driver.",
+      "links": [
+        "https://arstechnica.com/cars/2025/11/tires-that-talk-to-your-town-about-the-state-of-roads-are-on-the-way/"
+      ],
+      "categories": [
+        "Cars",
+        "Pirelli Cyber Tire",
+        "traffic"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-875478034-1152x648.jpg"
+      },
+      "published": "2025-11-11T15:15:01Z"
+    }
+  },
+  {
+    "hash": "dd51e2aa161abd24c68d04d1eeba84f627c9cc2f63329428476004b295b77ca5",
+    "item": {
+      "title": "Firefox 145 released",
+      "description": "\u003cp\u003eFirefox 145 has been \u003ca\nhref=\"https://www.firefox.com/en-US/firefox/145.0/releasenotes/\"\u003ereleased\u003c/a\u003e. Notable\nchanges in this release include \u003ca\nhref=\"https://support.mozilla.org/en-US/kb/view-pdf-files-firefox-or-choose-another-viewer#w_comment-in-pdf-files\"\u003enote-taking\nfeatures\u003c/a\u003e for PDFs viewed in Firefox, \u003ca\nhref=\"https://blog.mozilla.org/en/firefox/fingerprinting-protections/\"\u003eenhanced\nprivacy protections\u003c/a\u003e, and the ability to access and manage passwords in\nthe sidebar. This release also drops support for 32-bit Linux systems.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1046082/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-11T16:49:53Z"
+    }
+  },
+  {
+    "hash": "51b4bef5c833390d287adfa786d795dc7c3075fc4decc6e329f4d349534aabd7",
+    "item": {
+      "title": "Linux Proposal Aims To Overcome Kernel Limitation Affecting Various Gaming Peripherals",
+      "description": "The Linux kernel's Human Interface Devices (HID) subsystem has an existing architectural limitation that there is just up to one battery per HID device. But with modern devices -- especially among various gaming peripherals -- there can be more than one battery when considering earbuds with a battery for each earbud, multi-device wireless receivers, etc. A proposal was raised today to address this limitation...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Multi-Battery-HID-Devices"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T17:39:59Z"
+    }
+  },
+  {
+    "hash": "8ae7273ed6f3e1b460110e68d36626313e78c9627a96cc15284d994137952949",
+    "item": {
+      "title": "Intel Core Ultra 7 255H Linux CPU Performance",
+      "description": "Lenovo recently sent over their new ThinkPad P1 Gen 8 laptop for review under Linux. My Linux review on that ThinkPad P1 Gen 8 laptop will be coming up in the near future along with some other benchmarks from that premium mobile workstation. But with this being the first time I've had an Intel Core Ultra 7 255H \"Arrow Lake H\" device at Phoronix, here are some standalone benchmarks looking at the CPU performance of that 16-core mobile processor compared to various other Intel and AMD SoCs in different laptops while running Ubuntu Linux.",
+      "links": [
+        "https://www.phoronix.com/review/intel-core-ultra-7-255h-linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T15:40:00Z"
+    }
+  },
+  {
+    "hash": "1cff1004c7ad6e12797b6d1641cd91989c1771e51be89e873bc6a074bf51d929",
+    "item": {
+      "title": "Domino’s Pizza Partners with xMoney for Fiat and Crypto Payments",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1008\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-300x158.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-1024x538.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-768x403.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-1536x806.jpg 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eVaduz, Liechtenstein, 11th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/dominos-pizza-partners-with-xmoney-for-fiat-and-crypto-payments/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa.jpg"
+      },
+      "published": "2025-11-11T14:04:31Z"
+    }
+  },
+  {
+    "hash": "ffa5785a2cc5511973a1adc666209acea1bdb9f2bbdc425d146b699ec830aa91",
+    "item": {
+      "title": "Ethereum (ETH) Battles at $3.5K: Will the Bulls Push the Price Higher, or Will It Collapse Toward $3K?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Battles at $3.5K: Will the Bulls Push the Price Higher, or Will It Collapse Toward $3K?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe bear trap within the crypto market is just fluctuating in terms of intensity, not fading away. With the fear sentiment flourishing across the assets, the largest asset, Bitcoin (BTC), is currently hovering at around $105K. Meanwhile, Ethereum (ETH), the largest altcoin, Ethereum (ETH), seems like attempting a recovery. The",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-battles-at-3-5k-will-the-bulls-push-the-price-higher-or-will-it-collapse-toward-3k/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door.jpg"
+      },
+      "published": "2025-11-11T13:09:18Z"
+    }
+  },
+  {
+    "hash": "e5d7291f23b0642d4a4e16bae8323b00ef6b751199a8be3b928f4ce159f06b81",
+    "item": {
+      "title": "Phemex Introduces Refreshed Logo and Platform Design, Ushering in a New Brand Era",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"898\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13.png 1600w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13-300x168.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13-1024x575.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13-768x431.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13-1536x862.png 1536w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13-376x212.png 376w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003ePhemex, one of the most efficient crypto exchanges, unveiled a refreshed logo and upgraded platform design, marking the beginning of its broader rebranding journey. The new visual identity mirrors Phemex’s ongoing evolution from a high-performance trading venue into a comprehensive digital-asset platform, uniting speed, precision, and user-centric simplicity under one",
+      "links": [
+        "https://thenewscrypto.com/phemex-introduces-refreshed-logo-and-platform-design-ushering-in-a-new-brand-era/"
+      ],
+      "categories": [
+        "Press Release",
+        "Phemex"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-13.png"
+      },
+      "published": "2025-11-11T12:37:39Z"
+    }
+  },
+  {
+    "hash": "ddfc838e2ec6b9d7f2d4e8c276e6d7b8493951d053480373a6cebc0864ab4f0c",
+    "item": {
+      "title": "Tapbit Celebrates 4th Anniversary with Global Events, Zero-Fee Trading, and $1 Million Rewards",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/20251110-140424_1762754822jNAhDt0GMB.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/20251110-140424_1762754822jNAhDt0GMB.jpeg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/11/20251110-140424_1762754822jNAhDt0GMB-300x180.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/20251110-140424_1762754822jNAhDt0GMB-1024x614.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/20251110-140424_1762754822jNAhDt0GMB-768x461.jpeg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eus, co, 11th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/tapbit-celebrates-4th-anniversary-with-global-events-zero-fee-trading-and-1-million-rewards/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/20251110-140424_1762754822jNAhDt0GMB.jpeg"
+      },
+      "published": "2025-11-11T10:15:36Z"
+    }
+  },
+  {
+    "hash": "1f0f7512c83828db2e837c0af9faddc0d4230975dadef69af48a2d5d1dc38e61",
+    "item": {
+      "title": "MEXC Lists Allora (ALLO) With Zero Trading Fees and $60,000 in ALLO \u0026 25,000 USDT Airdrop+ Rewards",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-18.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-18.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-18-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-18-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e MEXC, a leading global cryptocurrency exchange, announced the listing of Allora (ALLO) in its Innovation Zone. Trading for the ALLO/USDT pair begins November 11, 2025, at 13:00 (UTC), followed by the ALLO/USDC pair at 13:20 (UTC). To celebrate the listing, MEXC is offering limited-time zero trading fees and hosting an",
+      "links": [
+        "https://thenewscrypto.com/mexc-lists-allora-allo-with-zero-trading-fees-and-60000-in-allo-25000-usdt-airdrop-rewards/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-18.png"
+      },
+      "published": "2025-11-11T10:00:00Z"
+    }
+  },
+  {
+    "hash": "46c70b0ba9cb0fe24ff6221682dbc20951498d58476c1e9423fb7489a36cdd76",
+    "item": {
+      "title": "iPod Socks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45889602\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/IPod_Socks"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T16:52:30Z"
+    }
+  },
+  {
+    "hash": "ab8f555d393a7a47cfc3319fe6362fecee4aa7ab09ad15eb69a262ac767db106",
+    "item": {
+      "title": "Contributing to Open-Source Should Be Required, Like Jury Duty",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45890370\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:41:45Z"
+    }
+  },
+  {
+    "hash": "5d60bdca8890de3201b41cbaa292287e98b2066cf6cbdb5f4874d8fc727fb420",
+    "item": {
+      "title": "The R47: A new physical RPN calculator released today in 2025",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45844419\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.swissmicros.com/product/model-r47"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T08:00:08Z"
+    }
+  },
+  {
+    "hash": "7758502b5e431c8f147d96deda3111e2b29868d895df5b470395c5daacc77068",
+    "item": {
+      "title": "Cache-Friendly, Low-Memory Lanczos Algorithm in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45889891\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:08:00Z"
+    }
+  },
+  {
+    "hash": "02c962753a81302999ce2aa5221bd415ce14ba49f1ce12e6fae13376f027461b",
+    "item": {
+      "title": "Show HN: Cactoide – Federated RSVP Platform",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45889793\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cactoide.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:01:07Z"
+    }
+  },
+  {
+    "hash": "70366cd7d67c0b3d369a9a8b8c86e6c2d66b60fac8e0b234eb88f6d5d4bfdbed",
+    "item": {
+      "title": "Weave (YC W25) is hiring a founding ML engineer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45889783\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:00:23Z"
+    }
+  },
+  {
+    "hash": "48fb2e741949795a2ab6f237293ce894fd06011d9bd100165f5e22cd285d88ad",
+    "item": {
+      "title": "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887857\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T14:49:51Z"
+    }
+  },
+  {
+    "hash": "9cf07b24bf2dacd9392aa9f36e7d745ee64a687912c576ba04a70054bc2fc558",
+    "item": {
+      "title": "Firefox Expands Fingerprint Protections",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45888891\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T16:04:08Z"
+    }
+  },
+  {
+    "hash": "12882eeb37ece9b66f3f7a499799a5f820b7a68df13b0d3f88ed817f6c33da7a",
+    "item": {
+      "title": "Array Programming the Mandelbrot Set",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45843600\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jcmorrow.com/mandelbrot/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T04:38:28Z"
+    }
+  },
+  {
+    "hash": "3fd57f56cca5a8f1aaa23eca547ec47944ebcdd59afb90ec4c2266e2019e1982",
+    "item": {
+      "title": "Welcome, the entire land - \"Hello, world!\" in hieroglyphics (2009)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45886002\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://optional.is/required/2009/12/03/welcome-the-entire-land/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T10:52:39Z"
+    }
+  },
+  {
+    "hash": "fef08bde6226199534116a55ef4c75c7fa6fe69d214d67dfc1b7b3a535f7ef88",
+    "item": {
+      "title": "We ran over 600 image generations to compare AI image models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45890186\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:26:54Z"
+    }
+  },
+  {
+    "hash": "bc79f92e71d6e516e5050be929dda4f34f597585da1ec24cfbbb27d41e551cfc",
+    "item": {
+      "title": "The Perplexing Appeal of the Telepathy Tapes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887105\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T13:34:15Z"
+    }
+  },
+  {
+    "hash": "196f69942772d62b9e2348db412eb16f4bf805518d0635c3436c4c6f2b671fd2",
+    "item": {
+      "title": "Grebedoc – static site hosting for Git forges",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45888143\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://grebedoc.dev"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T15:11:35Z"
+    }
+  },
+  {
+    "hash": "b2a6354c8f06b076ba3897f6e9244217f15e5907db3f105fd8f027c2c0e8befa",
+    "item": {
+      "title": "Making a C64/C65 compatible computer: MEGAphone contact list and Dialer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799057\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://c65gs.blogspot.com/2025/11/megaphone-contact-list-and-dialer.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T14:06:01Z"
+    }
+  },
+  {
+    "hash": "8e1cea4efa1a63ee9fba9efe89a2b5c35b16e1cd318e535ae8cec3946be58f12",
+    "item": {
+      "title": "Canada loses its measles-free status, with US on track to follow",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45888697\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/cy7e2lv4r8xo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T15:50:26Z"
+    }
+  },
+  {
+    "hash": "cf965f39f413474534d219908f2a7f034172dd67d73e06e4f17052cdbd2d701c",
+    "item": {
+      "title": "Abandoned by Humans, Forsaken by Nature: The Plight of Pigeons",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45889592\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://adalinebenila.medium.com/abandoned-by-humans-forsaken-by-nature-the-plight-of-pigeons-7d4f1d32a3cb"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T16:51:49Z"
+    }
+  },
+  {
+    "hash": "74e5e878d20d2d58dc011d659fd728d5dcc934af5873d844833583eca072b1bf",
+    "item": {
+      "title": "Blender 5.1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887958\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://developer.blender.org/docs/release_notes/5.1/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T14:58:53Z"
+    }
+  },
+  {
+    "hash": "f4e312f8724b87aaad30d24a8102a7854e43af94722a96f95819cd0973ff05c3",
+    "item": {
+      "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites",
+      "description": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.\n\"",
+      "links": [
+        "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_gIwNxs0iD5Xi-iqyG6SM6_-T-HGSrhisOTbsd_IXIbBPhNqqQPaY-m9xeuPvh2V2CCA5qvNL2UrMZqu-LrredR1PXMg71aYeMjoMtpTQ3jExATxGIcP08cndRyNyUYQkxp0y-tlnXNDTWCC24M0X5px8Qt_zaRZumMgEejW9enncxB5Hmek2sFkAH9p/s1600/fonts.jpg"
+      },
+      "published": "2025-11-11T15:44:00Z"
+    }
+  },
+  {
+    "hash": "d6c05b7ce19f7e4e22a0461f9ef850954dd55b86db6bb0fb49c607516a1244d2",
+    "item": {
+      "title": "Gene Therapy Aims To Slow Huntington’s Disease To A Crawl",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png 1200w, https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png?resize=400,267 400w, https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png?resize=800,533 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"874771\" data-permalink=\"https://hackaday.com/2025/11/11/gene-therapy-aims-to-slow-huntingtons-disease-to-a-crawl/huntington_featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png\" data-orig-size=\"1200,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Huntington_featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png?w=800\" /\u003e\u003c/div\u003eDespite the best efforts of modern medicine, Huntington\u0026#8217;s disease is a condition that still comes with a tragic prognosis. Primarily an inherited disease, its main symptoms concern degeneration of the \u003ca href=\"https://hackaday.com/2025/11/11/gene-therapy-aims-to-slow-huntingtons-disease-to-a-crawl/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/11/gene-therapy-aims-to-slow-huntingtons-disease-to-a-crawl/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Medical Hacks",
+        "brain",
+        "brain surgery",
+        "Disease",
+        "dna",
+        "gene-therapy",
+        "huntington's disease",
+        "medicine"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/Huntington_featured.png"
+      },
+      "published": "2025-11-11T18:00:20Z"
+    }
+  },
+  {
+    "hash": "0659da839d679a001136603d6ff87c8ec3e19fd0129127d40f350c31fe066767",
+    "item": {
+      "title": "Real-Time BART in a Box Smaller Than Your Coffee Mug",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"BART Display\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png 1920w, https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"874117\" data-permalink=\"https://hackaday.com/2025/11/11/real-time-bart-in-a-box-smaller-than-your-coffee-mug/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png?w=800\" /\u003e\u003c/div\u003eEver get to the train station on time, find your platform, and then stare at the board showing your train is 20 minutes late? Bay Area Rapid Transit (BART) may \u003ca href=\"https://hackaday.com/2025/11/11/real-time-bart-in-a-box-smaller-than-your-coffee-mug/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/11/real-time-bart-in-a-box-smaller-than-your-coffee-mug/"
+      ],
+      "categories": [
+        "hardware",
+        "Transportation Hacks",
+        "esp32c6",
+        "oled display",
+        "public transit"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Matt Varian"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/finished-display_hu463dc9542feedf52e2163704cf194320_1405584_1920x0_resize_q90_h2_box_2-16-9.png"
+      },
+      "published": "2025-11-11T16:30:18Z"
+    }
+  },
+  {
+    "hash": "26e257359ab64df3a7016d0bb878e1508f0324b07efc0d0a1a1e022cb153b00c",
+    "item": {
+      "title": "Moving From Windows to FreeBSD as the Linux Chaos Alternative",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg 3000w, https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"874764\" data-permalink=\"https://hackaday.com/2025/11/11/moving-from-windows-to-freebsd-as-the-linux-chaos-alternative/freebsd/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"FreeBSD\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg?w=800\" /\u003e\u003c/div\u003eBack in the innocent days of Windows 98 SE, I nearly switched to Linux on account of how satisfied I was with my Windows experience. This started with the Year \u003ca href=\"https://hackaday.com/2025/11/11/moving-from-windows-to-freebsd-as-the-linux-chaos-alternative/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/11/moving-from-windows-to-freebsd-as-the-linux-chaos-alternative/"
+      ],
+      "categories": [
+        "computer hacks",
+        "Featured",
+        "Interest",
+        "Linux Hacks",
+        "Original Art",
+        "freebsd",
+        "gaming",
+        "linux",
+        "operating systems",
+        "windows"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/FreeBSD.jpg"
+      },
+      "published": "2025-11-11T15:00:47Z"
+    }
+  },
+  {
+    "hash": "264f594ed177050ffbd8178dba1505c73a02e3c7157c0a052060793b8abe8206",
+    "item": {
+      "title": "Nest Thermostat: Now 100% Less Evil",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"497\" src=\"https://hackaday.com/wp-content/uploads/2025/11/nest.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/nest.png 800w, https://hackaday.com/wp-content/uploads/2025/11/nest.png?resize=250,155 250w, https://hackaday.com/wp-content/uploads/2025/11/nest.png?resize=400,249 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"874151\" data-permalink=\"https://hackaday.com/2025/11/11/nest-thermostat-now-100-less-evil/nest-7/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/nest.png\" data-orig-size=\"800,497\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"nest\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/nest.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/nest.png?w=800\" /\u003e\u003c/div\u003eIf you have a Nest thermostat of the first or second generation, you probably noticed it recently became dumber. Google decided to pull the plug on the servers that operate \u003ca href=\"https://hackaday.com/2025/11/11/nest-thermostat-now-100-less-evil/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/11/nest-thermostat-now-100-less-evil/"
+      ],
+      "categories": [
+        "home hacks",
+        "Internet of shit",
+        "nest thermostat"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/nest.png"
+      },
+      "published": "2025-11-11T12:00:16Z"
+    }
+  },
+  {
+    "hash": "e1f38ccde23ed95dcd529f63f8371dec0080c020e4f0356b81fdc014760015db",
+    "item": {
+      "title": "Another Thermal Printer, Conquered",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"874096\" data-permalink=\"https://hackaday.com/2025/11/11/another-thermal-printer-conquered/thermal-printer-featured-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"thermal-printer-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg?w=800\" /\u003e\u003c/div\u003eThe arrival of cheap thermal printer mechanisms over the last few years has led to a burst of printer hacking in our community, and we\u0026#8217;re sure many of you will \u003ca href=\"https://hackaday.com/2025/11/11/another-thermal-printer-conquered/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/11/another-thermal-printer-conquered/"
+      ],
+      "categories": [
+        "Peripherals Hacks",
+        "bluetooth",
+        "reverse engineering",
+        "thermal printer"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/thermal-printer-featured.jpg"
+      },
+      "published": "2025-11-11T09:00:30Z"
+    }
+  },
+  {
+    "hash": "9c38bd4069343b3bb7db1059a00319e23a32fb7c6b75b880f6beaa06f26b07f8",
+    "item": {
+      "title": "Programming the 6581 Sound Interface Device (SID) with the 6502",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"Photo of breadboards and bench oscilloscope\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg 1806w, https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"873998\" data-permalink=\"https://hackaday.com/2025/11/10/programming-the-6581-sound-interface-device-sid-with-the-6502/ben-eater-sound-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg\" data-orig-size=\"1806,1016\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Ben-Eater-sound-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg?w=800\" /\u003e\u003c/div\u003eOver on YouTube, [Ben Eater] pursues that classic 8-bit sound. In this video, [Ben] integrates the MOS Technology 6581 Sound Interface Device (SID) with his homegrown 6502. The 6581 SID \u003ca href=\"https://hackaday.com/2025/11/10/programming-the-6581-sound-interface-device-sid-with-the-6502/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/10/programming-the-6581-sound-interface-device-sid-with-the-6502/"
+      ],
+      "categories": [
+        "Art",
+        "hardware",
+        "Microcontrollers",
+        "Musical Hacks",
+        "6502",
+        "6581 SID",
+        "6581 Sound Interface Device",
+        "MOS Technology 6581"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/Ben-Eater-sound-banner.jpg"
+      },
+      "published": "2025-11-11T06:00:09Z"
+    }
+  },
+  {
+    "hash": "6bce1c812df29a5e455bc48dc576f063aa170aad4e05ecc024683836813ea1e8",
+    "item": {
+      "title": "Cardano Price Prediction: 30-Day Downtrend Is Over – Here’s Why Traders Are Suddenly Watching ADA Again",
+      "description": "\u003cp\u003eADA has overcome the resistance trendline that guided its October crash – Cardano price predictions now eye renewed bullish push.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-30-day-downtrend-is-over-heres-why-traders-are-suddenly-watching-ada-again/\"\u003eCardano Price Prediction: 30-Day Downtrend Is Over – Here’s Why Traders Are Suddenly Watching ADA Again\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-30-day-downtrend-is-over-heres-why-traders-are-suddenly-watching-ada-again/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cardano",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11172913/1762882152-cardano-price-prediction-1.jpg"
+      },
+      "published": "2025-11-11T18:06:12Z"
+    }
+  },
+  {
+    "hash": "ff4f6fadaf5d3546bdbb7b5b37597af9294aa11e03e20b205f2079d927fa55ce",
+    "item": {
+      "title": "Transak Expands Stablecoin Payments with 6 New US State Licenses Amid Fragmented Rules",
+      "description": "\u003cp\u003eTransak has secured six new U.S. MTLs, bringing its total to 10 and supporting stablecoin transactions and fiat-to-crypto conversions. With 19 applications pending, it has set a target of full 50-state coverage within 12–18 months and has prepared to roll out ACH after adding wires in August 2025.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/transak-6-us-stablecoin-licenses/\"\u003eTransak Expands Stablecoin Payments with 6 New US State Licenses Amid Fragmented Rules\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/transak-6-us-stablecoin-licenses/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto License",
+        "Regulation",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11165045/1762879844-0_1-28_optimized.jpg"
+      },
+      "published": "2025-11-11T18:05:08Z"
+    }
+  },
+  {
+    "hash": "c93e29c5724b4c233d05d05b927fcb4e8fcc0fa34187ee3945728ee74a20d6d5",
+    "item": {
+      "title": "Uniswap Governance Shift Leads Today’s DeFi Altcoin Season Moves",
+      "description": "\u003cp\u003eAltcoin season has concentrated in DeFi tokens where structure and utility have evolved. Uniswap has advanced a governance plan with fee sharing and a burn; Aerodrome has adjusted emissions; SOON has added listings and 10sSOON activity. Traders have clustered around liquidity and steady turnover.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uniswap-governance-shift-leads-todays-defi-altcoin-season-moves/\"\u003eUniswap Governance Shift Leads Today’s DeFi Altcoin Season Moves\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uniswap-governance-shift-leads-todays-defi-altcoin-season-moves/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11144852/1762872532-image-1762872456278_optimized.jpg"
+      },
+      "published": "2025-11-11T17:49:29Z"
+    }
+  },
+  {
+    "hash": "8685c844dcbf15c2da094c98447f1d415a6bd568d710e985ef3e9fe847fff547",
+    "item": {
+      "title": "Coinbase Launches Savings Account to Rival UK Banks, Offers 3.75% Interest",
+      "description": "\u003cp\u003eCoinbase enters UK retail banking with a 3.75% savings account backed by FSCS protection, positioning itself against traditional banks while offering integrated access to crypto assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-launches-savings-account-to-rival-uk-banks-offers-3-75-interest/\"\u003eCoinbase Launches Savings Account to Rival UK Banks, Offers 3.75% Interest\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-launches-savings-account-to-rival-uk-banks-offers-3-75-interest/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Coinbase",
+        "Stablecoin",
+        "UK"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11132936/1762867776-image-1762867750628_optimized.jpg"
+      },
+      "published": "2025-11-11T17:25:54Z"
+    }
+  },
+  {
+    "hash": "58f3bebb904ccd6fbb97ece784aee927a03129d4ab7b3d052a5a0c6531bf623e",
+    "item": {
+      "title": "As XRP Price Continues to Struggle, New Payment Solution Enters the Scene",
+      "description": "\u003cp\u003eSpacePay is creating an ecosystem that could shape the future of crypto payments.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/as-xrp-price-continues-to-struggle-new-payment-solution-enters-the-scene/\"\u003eAs XRP Price Continues to Struggle, New Payment Solution Enters the Scene\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/as-xrp-price-continues-to-struggle-new-payment-solution-enters-the-scene/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Crypto Payments"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11163415/1762878854-spacepay.png"
+      },
+      "published": "2025-11-11T16:36:18Z"
+    }
+  },
+  {
+    "hash": "9fa1516e51621184e4c1a0a65e004f011d721062c669eb9ce939401ae85ac5fa",
+    "item": {
+      "title": "Toobit Upgrades to Fireblocks for Institutional-Grade Digital Asset Protection",
+      "description": "\u003cp\u003eToobit, the award-winning global cryptocurrency exchange, today announces its integration with Fireblocks, an enterprise platform for secure digital asset custody, settlement, trading operations, and stablecoin payments.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/toobit-upgrades-to-fireblocks-for-institutional-grade-digital-asset-protection/\"\u003eToobit Upgrades to Fireblocks for Institutional-Grade Digital Asset Protection\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/toobit-upgrades-to-fireblocks-for-institutional-grade-digital-asset-protection/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Crypto security"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11160912/1762877352-toobit.png"
+      },
+      "published": "2025-11-11T16:12:40Z"
+    }
+  },
+  {
+    "hash": "33b7341911656759c7eb048dd34001919bc5321ebf626132b929f3e97dd0434c",
+    "item": {
+      "title": "Institutional Investors Are Piling into Crypto — But a 2026 Downturn Is Looming: Sygnum",
+      "description": "\u003cp\u003eAccording to Sygnum Bank, 61% of institutional investors plan to boost crypto holdings, with 39% adding exposure in Q4, as diversification has become the primary motivation for adoption.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/institutional-investors-increase-crypto-exposure-2026-risks/\"\u003eInstitutional Investors Are Piling into Crypto — But a 2026 Downturn Is Looming: Sygnum\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/institutional-investors-increase-crypto-exposure-2026-risks/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11135010/1762869009-3eaa3c13-3d72-4ffe-aae5-d5c041d31b1f_optimized.jpg"
+      },
+      "published": "2025-11-11T15:18:58Z"
+    }
+  },
+  {
+    "hash": "34336859eb44f239c3044f28aaa3424f7f78dc51fcc6d2d6f75dab7fbfa6cb89",
+    "item": {
+      "title": "Spot Solana ETFs Log 10 Straight Days of Inflows, Totaling $342M Since Launch",
+      "description": "\u003cp\u003eSpot Solana ETFs have logged 10 straight days of inflows, amassing $342 million since their late-October launch.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/spot-solana-etfs-log-10-straight-days-of-inflows-totaling-342m-since-launch/\"\u003eSpot Solana ETFs Log 10 Straight Days of Inflows, Totaling $342M Since Launch\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/spot-solana-etfs-log-10-straight-days-of-inflows-totaling-342m-since-launch/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Crypto ETFs",
+        "ETFs",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11100918/1762855758-1c73222d-7794-4171-bc20-890ff47eed2b_optimized.jpg"
+      },
+      "published": "2025-11-11T15:17:27Z"
+    }
+  },
+  {
+    "hash": "ede4ba737fae910832ec2deb0076aa7cab0a6cd837c6e99309a82f8204fde732",
+    "item": {
+      "title": "Senate’s New Crypto Market Structure Bill Supercharges CFTC — But Major Gaps Remain",
+      "description": "\u003cp\u003eA new bipartisan crypto market structure bill in the U.S. Senate could dramatically expand the powers of the Commodity Futures Trading Commission (CFTC), giving it sweeping oversight of digital commodities, but unresolved gaps and political gridlock still threaten its passage.The discussion draft, released by Senate Agriculture Committee Chairman John Boozman (R-AR) and Senator Cory Booker [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/senate-crypto-bill-boosts-cftc-leaves-gaps/\"\u003eSenate’s New Crypto Market Structure Bill Supercharges CFTC — But Major Gaps Remain\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/senate-crypto-bill-boosts-cftc-leaves-gaps/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "CFTC",
+        "Clarity Act",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11103120/1762857080-0_0-32_optimized.jpg"
+      },
+      "published": "2025-11-11T15:15:34Z"
+    }
+  },
+  {
+    "hash": "121fb64942b0fa55ddb1ac119f21bc44f9098e5114e309a258de9a570921393f",
+    "item": {
+      "title": "HANetf’s Hector McNeil on Democratizing ETFs – and Bringing Crypto to the Mainstream",
+      "description": "\u003cp\u003eHector McNeil has helped build ETFs from gold to crypto, co-founding HANetf’s white-label platform to speed launches, arguing that regulated UK ETPs serve retail investors, and confirming Citi’s minority stake as Europe’s ETF market has expanded toward U.S.-style brand growth.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/hector-mcneil-on-disrupting-the-etf-game-inside-hanetfs-white-label-revolution-in-europe/\"\u003eHANetf’s Hector McNeil on Democratizing ETFs – and Bringing Crypto to the Mainstream\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/hector-mcneil-on-disrupting-the-etf-game-inside-hanetfs-white-label-revolution-in-europe/"
+      ],
+      "categories": [
+        "Exclusives",
+        "Crypto ETFs",
+        "HANetf",
+        "Hector McNeil"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11140440/1762869879-hector-mcneil_720.jpg"
+      },
+      "published": "2025-11-11T15:12:12Z"
+    }
+  },
+  {
+    "hash": "ca79da6f33c59ed7a623dd334511b54f02d1ae22aeca0ff1fdc92a447f186f74",
+    "item": {
+      "title": "How SpacePay Makes the Case for One of the Best Projects in 2025",
+      "description": "\u003cp\u003eThe SpacePay project enables crypto payments through existing card machines with 0.5% fees.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/how-spacepay-makes-the-case-for-one-of-the-best-projects-in-2025/\"\u003eHow SpacePay Makes the Case for One of the Best Projects in 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/how-spacepay-makes-the-case-for-one-of-the-best-projects-in-2025/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Blockchain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11143157/1762871516-spacepay.jpg"
+      },
+      "published": "2025-11-11T15:10:43Z"
+    }
   }
 ]
