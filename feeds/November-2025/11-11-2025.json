@@ -1650,5 +1650,528 @@
       },
       "published": "2025-11-11T06:17:43Z"
     }
+  },
+  {
+    "hash": "f1c66870e27b752632791dfd533c86ac4d4b89676d197784ed7c2b67e04cd2e4",
+    "item": {
+      "title": "How System76 \u0026 Red Hat Hope To Finally Improve The Linux Multi-GPU Experience",
+      "description": "System76 engineer Victoria Brekenfeld and Red Hat engineer Sebastian Wick presented at the recent XDC2025 developer conference with their hopes of finally fixing the multi-GPU experience on Linux. As part of this is getting the necessary Wayland protocols in order as well as a new gpu-daemon service for proper multi-GPU handling for the Linux desktop...",
+      "links": [
+        "https://www.phoronix.com/news/Better-Linux-Multi-GPU-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T11:39:43Z"
+    }
+  },
+  {
+    "hash": "55de16483e96a7740d0024263cf65a65b2447ee2af134e1e66fcc1266b76a2b6",
+    "item": {
+      "title": "New Linux Patches To Expose AMD Ryzen AI NPU Power Metrics",
+      "description": "New Linux kernel patches currently undergoing review will allow AMD Ryzen AI NPU power metrics to be exposed under Linux. In turn this is useful for helping to gauge the utilization of the neural processing unit and also helping to evaluate the actual power efficiency of leveraging the AMD Ryzen AI NPU...",
+      "links": [
+        "https://www.phoronix.com/news/Ryzen-AI-NPU-Linux-Power-Metric"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T11:22:37Z"
+    }
+  },
+  {
+    "hash": "404106c56d6c858aaef3a1971f5db4a98ce75e37d84e065695d160767de6793e",
+    "item": {
+      "title": "Intel Xe Linux Driver Working Toward UALink \u0026 High Speed Fabrics Support",
+      "description": "The YouTube video recordings for the X.Org Developers' Conference 2025 that took place at the end of September in Austria are finally available. Among the many interesting XDC2025 presentations was Intel engineer Matthew Brost talking about the GPU Shared Virtual Memory (SVM) within Intel's modern Xe kernel graphics driver...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Xe-SVM-UALink"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T11:08:46Z"
+    }
+  },
+  {
+    "hash": "36867d70c4bcf69d8e9188cd992aa9765fdc319007a4ad402f46c03642ea3052",
+    "item": {
+      "title": "SDL3 Now Implements Render Batching For Direct3D, Metal \u0026 Vulkan",
+      "description": "The SDL3 library that is popular with cross-platform games for abstracting various software/hardware features has implemented render batching for its built-in rendering API. This render batching is successfully wired up now for Direct3D 11/12, Apple Metal, and Vulkan APIs for more efficient graphics rendering...",
+      "links": [
+        "https://www.phoronix.com/news/SDL3-Batch-Rendering"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T10:45:34Z"
+    }
+  },
+  {
+    "hash": "48ed855362ed3394b7b7c19d340c95c2d78ca8d4612b0723cb3791bb68ca86f5",
+    "item": {
+      "title": "I Fell in Love with Erlang",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45785300\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://boragonul.com/post/falling-in-love-with-erlang"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T21:00:33Z"
+    }
+  },
+  {
+    "hash": "e924cefeee906244651ea980910458c47d260db1b134d780b42a793d36f28742",
+    "item": {
+      "title": "Why Effort Scales Superlinearly with the Perceived Quality of Creative Work",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45885242\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://markusstrasser.org/creative-work-landscapes.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T08:29:23Z"
+    }
+  },
+  {
+    "hash": "4bd2dfa4f514e14b97fa5583e098011d21103589d927d09fe46288873d7be354",
+    "item": {
+      "title": "Zig / C++ Interop",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45885135\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tuple.app/blog/zig-cpp-interop"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T08:09:05Z"
+    }
+  },
+  {
+    "hash": "31573fbcd085ce1e77bc8fda43a8ceeef6ca6563ffcc492cd561cca3bd5a81e6",
+    "item": {
+      "title": "OpenAI may not use lyrics without license, German court rules",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45886131\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T11:20:55Z"
+    }
+  },
+  {
+    "hash": "f44d0c4cc26b66a01a7c69cc683ad9dd93eb6705cb71da260b36b546de1c7987",
+    "item": {
+      "title": "Hazel (YC W24) Is Hiring Full Stack Engineers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45886350\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T12:00:42Z"
+    }
+  },
+  {
+    "hash": "5089cb02d0de57d3d57802a1ac0c3c1c82c509020d3b9d4f113ded7bc9087399",
+    "item": {
+      "title": "Baby Shoggoth Is Listening",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45801384\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theamericanscholar.org/baby-shoggoth-is-listening/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-03T17:06:34Z"
+    }
+  },
+  {
+    "hash": "7d9f5a0387d9676ac27680a2abec22abfd0eabcce95c98d324802efb175e30f1",
+    "item": {
+      "title": "The \"Dependency Cutout\" Workflow Pattern",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45884951\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T07:34:10Z"
+    }
+  },
+  {
+    "hash": "2791a406e1f25ed8a0383e20c123251f87a2a1f02852125f66570f76e3cd29c4",
+    "item": {
+      "title": "Stop overhyping AI, scientists tell von der Leyen",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45886344\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T12:00:05Z"
+    }
+  },
+  {
+    "hash": "de4ba47505d515fcc8e19a4e8fe3548a7ca99df2a28276290e6fc319a04c6a3b",
+    "item": {
+      "title": "dogwifhat (WIF) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/04/dogwifhat_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"dogwifhat (WIF) Price Prediction\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/04/dogwifhat_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/04/dogwifhat_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/04/dogwifhat_Price-prediction-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this dogwifhat (WIF) price prediction 2025, 2026-2030, we will analyze the price patterns of WIF by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION dogwifhat (WIF) Current Market Status What is dogwifhat (WIF)? dogwifhat (WIF) 24H Technicals DOGWIFHAT (WIF)",
+      "links": [
+        "https://thenewscrypto.com/dogwifhat-wif-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Dogwifhat",
+        "price prediction",
+        "WIF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/04/dogwifhat_Price-prediction.jpg"
+      },
+      "published": "2025-11-11T07:22:37Z"
+    }
+  },
+  {
+    "hash": "7b1de123f04414e4b56f847d029b7511f0fdb60399a93caa82622a6ecac014b2",
+    "item": {
+      "title": "Hedera (HBAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hedera (HBAR) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hedera (HBAR) price prediction for 2025, 2026-2030, we will analyze the price patterns of HBAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hedera (HBAR) Current Market Status What is Hedera (HBAR)? Hedera (HBAR) 24H Technicals HEDERA",
+      "links": [
+        "https://thenewscrypto.com/hedera-hbar-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-11-11T07:20:07Z"
+    }
+  },
+  {
+    "hash": "899875cfe87f7eba4e8fb83ad976b92e32a519a15ad4934ea07d7a795ca4ad0b",
+    "item": {
+      "title": "Toncoin (TON) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/TON.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Toncoin (TON) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/TON.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/TON-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/TON-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/TON-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Toncoin (TON) price prediction for 2025, 2026-2030,\u0026#160; we will analyze the price patterns of TON by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Toncoin (TON) Current Market Status What is Toncoin (TON)? Toncoin (TON) 24H Technicals TONCOIN",
+      "links": [
+        "https://thenewscrypto.com/toncoin-ton-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "TON",
+        "Toncoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/TON.jpg"
+      },
+      "published": "2025-11-11T07:16:20Z"
+    }
+  },
+  {
+    "hash": "1dfe3c1587cdf1ba0907278e9b1df56035fee649e360149440519d3afb1f8cf0",
+    "item": {
+      "title": "XRP (XRP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"XRP Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this XRP (XRP) price prediction for 2025, 2026-2030,\u0026#160;we will analyze the price patterns of XRP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION XRP (XRP) Current Market Status What is XRP (XRP)? XRP (XRP) 24H Technicals XRP (XRP)",
+      "links": [
+        "https://thenewscrypto.com/ripple-xrp-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Monisha"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Ripple-XRP_Price-prediction.jpg"
+      },
+      "published": "2025-11-11T07:13:39Z"
+    }
+  },
+  {
+    "hash": "27890c982d7e0476cb20a24d16fa10503887e68a68c3b0bd15ad31c52430bcbc",
+    "item": {
+      "title": "Stellar (XLM) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Stellar (XLM) Price Prediction 2024, 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Stellar (XLM) price prediction for 2025, 2026-2030,\u0026#160; we will analyze the price patterns of XLM by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Stellar (XLM) Current Market Status What is Stellar (XLM)? Stellar (XLM) 24H Technicals STELLAR",
+      "links": [
+        "https://thenewscrypto.com/stellar-xlm-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Stellar",
+        "XLM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/08/Stellar-Price-prediction-3.jpg"
+      },
+      "published": "2025-11-11T07:07:01Z"
+    }
+  },
+  {
+    "hash": "a0d5c3b1613f61ae68bdaa00b791663225011fed73345a4f89817bb5f6875e38",
+    "item": {
+      "title": "32% Rally for Uniswap (UNI): Can the Momentum Keep Flowing for a Bigger Wave?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/32-Rally-for-Uniswap-UNI-Can-the-Momentum-Keep-Flowing-for-a-Bigger-Wave.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"32% Rally for Uniswap (UNI): Can the Momentum Keep Flowing for a Bigger Wave?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/32-Rally-for-Uniswap-UNI-Can-the-Momentum-Keep-Flowing-for-a-Bigger-Wave.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/32-Rally-for-Uniswap-UNI-Can-the-Momentum-Keep-Flowing-for-a-Bigger-Wave-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/32-Rally-for-Uniswap-UNI-Can-the-Momentum-Keep-Flowing-for-a-Bigger-Wave-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe seriously volatile crypto market has erased yesterday’s gains and pushed the asset’s prices to their former support zone. All major tokens are trading on the downside, losing momentum. The largest asset, Bitcoin (BTC), has tumbled to $105.4K, and Ethereum (ETH), the largest altcoin, is sliding toward $3.5K.  Meanwhile, Uniswap",
+      "links": [
+        "https://thenewscrypto.com/32-rally-for-uniswap-uni-can-the-momentum-keep-flowing-for-a-bigger-wave/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "UNI",
+        "Uniswap"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/32-Rally-for-Uniswap-UNI-Can-the-Momentum-Keep-Flowing-for-a-Bigger-Wave.jpg"
+      },
+      "published": "2025-11-11T06:24:24Z"
+    }
+  },
+  {
+    "hash": "f352e10b5951c18651b4d352ccb50d8d9e7dfa25039d64e1d46bc1394449ce5d",
+    "item": {
+      "title": "You Don’t Need to Be Rich to Profit Big — Just $250 in Ozak AI Could Make You a Millionaire by 2029",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Big-Institutions-Are-Making-Moves.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"You Don’t Need to Be Rich to Profit Big — Just $250 in Ozak AI Could Make You a Millionaire by 2029\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Big-Institutions-Are-Making-Moves.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Big-Institutions-Are-Making-Moves-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Big-Institutions-Are-Making-Moves-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003e$OZ is mitigating the idea that high returns can be earned only with huge investments. Ozak AI practically gives the possibility to turn any small investment into a larger ROI. The investment could be as small as $250 or as high as $1,000, and the return is projected to be",
+      "links": [
+        "https://thenewscrypto.com/you-dont-need-to-be-rich-to-profit-big-just-250-in-ozak-ai-could-make-you-a-millionaire-by-2029/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Big-Institutions-Are-Making-Moves.jpg"
+      },
+      "published": "2025-11-11T03:47:01Z"
+    }
+  },
+  {
+    "hash": "6ffb9f01b3a0e74c2ff598160721f4dfefe141ba1e6b75f73836f3e0d0b00beb",
+    "item": {
+      "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+      "description": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.\nDownload the full CISO\u0026rsquo;s expert guide to AI Supply chain attacks here.\u0026nbsp;\nTL;DR\n\nAI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in",
+      "links": [
+        "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi237aSL-o6s_t-xtfun1CAuoHCY2XPJAUUHpQY18pfeww9bVAJ8M1Dtu1gEtk25UoLyeCOHz6k-TFkgBB2FSp_Y3VHQAYwpJNlBy48ffsfJQgA42Jvg1kNdRR6-VBxOZNk0ZFzIB3FrSylKmccKLCnY_olvsBLdOpA2MFqqDUZchxGce_loAbyFqyjHwk/s1600/reflectiz.jpg"
+      },
+      "published": "2025-11-11T11:58:00Z"
+    }
+  },
+  {
+    "hash": "5b1bea87bd10c00d84c6c48c05fe4bb809721365f2a2901901f51609a2fb5157",
+    "item": {
+      "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+      "description": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
+      "links": [
+        "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCsz1QgtB3DAorATUJtM4NKEDKSftFK-LplwEwazMvy2CJl8Ua-T_nRLa6hpR968DBP4cjFK1rhd70vBYd_gx4s24AQepRSFpjXkFezP9hKo2lrYQm-WgcHBKvJQrU3AYRBltbe6Qw8xpGCcTFje-h3a24Pb04JtJMlUX3Ug7XtR1inGNz7fVkzpfLT_KZ/s1600/hacker-code.jpg"
+      },
+      "published": "2025-11-11T11:55:00Z"
+    }
+  },
+  {
+    "hash": "e077a07e26790a42327cf90ec404a06510c4ff948cad8fb44912a2fbd0f4bc92",
+    "item": {
+      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+      "description": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
+      "links": [
+        "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnztvfc0MS4mXpDjarA_dBNhWyKUYkHkdNF-kNrP6lLQ5-IlH3aQx6_xwLDyyx7qKhcry5c5t3qUNEsAgE4Qp5yxBKVVmgZWtg8F_0RX6bU29uCFoqTw1gdwPvNCdfwjVVapeiSyWW13-ESWpGPgkLiuV8hGMz4Vx5CSlm6JCk0n8CPLSikgtkUSWwn-n/s1600/android-telegram.jpg"
+      },
+      "published": "2025-11-11T11:44:00Z"
+    }
+  },
+  {
+    "hash": "3cdc03f4108e795cf10ec1382223cd458f0216624614c9be8e4c5f1bd6c1c94f",
+    "item": {
+      "title": "Why Is Crypto Down Today? – November 11, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today. BTC decreased to $105,168, and ETH fell to $3,558. However, expectations of renewed liquidity have lifted market optimism.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-november-11-2025/\"\u003eWhy Is Crypto Down Today? – November 11, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-november-11-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11110822/1762859301-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-11-11T11:44:21Z"
+    }
+  },
+  {
+    "hash": "8ba727afab7ededbfa63e51de3b44340c7deecbef9c623e35fc5d139de3bf30a",
+    "item": {
+      "title": "Uniswap Could Go Parabolic With Fee Switch Activation, Says CryptoQuant CEO",
+      "description": "\u003cp\u003eUniswap's historic fee switch proposal would funnel protocol revenues into UNI token burns while eliminating interface fees, marking a fundamental shift in DeFi tokenomics as regulatory headwinds ease.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uniswap-could-go-parabolic-with-fee-switch-activation-says-cryptoquant-ceo/\"\u003eUniswap Could Go Parabolic With Fee Switch Activation, Says CryptoQuant CEO\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uniswap-could-go-parabolic-with-fee-switch-activation-says-cryptoquant-ceo/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Uniswap"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11100730/1762855649-1749591967-uniswap-explodes-24-to-8-21-can-uni-hit-12-as-volume-crushes-2021-highs.jpg"
+      },
+      "published": "2025-11-11T11:04:57Z"
+    }
+  },
+  {
+    "hash": "71e0bdd25448825ba5997d14a042e2ac2e2d77f9bdcd9098fdc7d1fed97454a4",
+    "item": {
+      "title": "America’s Crypto ETFs Get Green Light to Share Staking Rewards to Millions of Investors",
+      "description": "\u003cp\u003eTreasury Department and IRS issue guidance permitting crypto ETFs to stake proof-of-stake tokens and distribute rewards to retail investors, marking a regulatory shift from the previous administration's securities concerns.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/americas-crypto-etfs-get-green-light-to-share-staking-rewards-to-millions-of-investors/\"\u003eAmerica\u0026#8217;s Crypto ETFs Get Green Light to Share Staking Rewards to Millions of Investors\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/americas-crypto-etfs-get-green-light-to-share-staking-rewards-to-millions-of-investors/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Liquid Staking",
+        "Staking",
+        "US Treasury"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11085202/1762851122-image-1762851097243_optimized.jpg"
+      },
+      "published": "2025-11-11T10:57:39Z"
+    }
+  },
+  {
+    "hash": "f226a605fac8ec86cb99413bf42efb42521ba65c2ab7655fb164c8a6d01d50cf",
+    "item": {
+      "title": "CleanSpark Launches $1.15B Convertible Note Offering to Expand Bitcoin and AI Operations",
+      "description": "\u003cp\u003eCleanSpark is raising $1.15 billion through a convertible note offering to expand its Bitcoin mining and AI infrastructure operations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cleanspark-launches-1-15b-convertible-note-offering-to-expand-bitcoin-and-ai-operations/\"\u003eCleanSpark Launches $1.15B Convertible Note Offering to Expand Bitcoin and AI Operations\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cleanspark-launches-1-15b-convertible-note-offering-to-expand-bitcoin-and-ai-operations/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "CleanSpark",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11095625/1762854984-5d2cbe3b-ea7c-43da-84a1-0cfef48ab435_optimized.jpg"
+      },
+      "published": "2025-11-11T10:19:26Z"
+    }
   }
 ]
