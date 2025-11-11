@@ -3802,5 +3802,653 @@
       },
       "published": "2025-11-11T15:10:43Z"
     }
+  },
+  {
+    "hash": "66debc9b0c1337a4d127f5df218dd0d55067b39981738407c7277e0ee46144f1",
+    "item": {
+      "title": "Collaboration sucks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45892394\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://newsletter.posthog.com/p/collaboration-sucks"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T20:27:38Z"
+    }
+  },
+  {
+    "hash": "8b23cef08843c9fe769d237e1158ddfc7ca8c6af3dbb08c5d5ff93ae8efc1b4e",
+    "item": {
+      "title": "A catalog of side effects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891868\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bernsteinbear.com/blog/compiler-effects/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T19:44:49Z"
+    }
+  },
+  {
+    "hash": "c966a387bad44c86e0f55c1bb91c9633dc5b832b2d32562c1fc17511bf05f7ef",
+    "item": {
+      "title": "A modern 35mm film scanner for home",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891907\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.soke.engineering/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T19:48:19Z"
+    }
+  },
+  {
+    "hash": "90b7676c4d5072b411b838e5e00f8f73b80de08393e3a5c457d172bd9bf4c3b2",
+    "item": {
+      "title": "Microplastics: No longer a \"maybe\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45892340\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ibbi.io/mp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T20:24:04Z"
+    }
+  },
+  {
+    "hash": "94b93600df941e0c32162554b4f147f03b0fe4e96395cc1ff45002815e1e92d6",
+    "item": {
+      "title": "Scaling HNSWs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887466\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://antirez.com/news/156"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T14:11:49Z"
+    }
+  },
+  {
+    "hash": "0e0895248475f1a4066be3a3c6a282adc725568ab92ff5ccf58e1ee197cd2524",
+    "item": {
+      "title": "Meticulous (YC S21) is hiring to redefine software dev",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45892773\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T21:00:35Z"
+    }
+  },
+  {
+    "hash": "a4da00027097694da00ad2daa3d8a06285487083e5345cabfa0687ff522ea650",
+    "item": {
+      "title": "Terminal Latency on Windows (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45890726\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chadaustin.me/2024/02/windows-terminal-latency/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T18:07:51Z"
+    }
+  },
+  {
+    "hash": "55be0bb217aa35cc63924c0f6c1f10e8eb024c0ea37e6285479eb57fbdf11c21",
+    "item": {
+      "title": "Pikaday: A friendly guide to front-end date pickers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887957\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pikaday.dbushell.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T14:58:47Z"
+    }
+  },
+  {
+    "hash": "f6b48142d6460500aaf0983b94f4f2077658309b0a9a271b6a83951967240857",
+    "item": {
+      "title": "Étude in C minor (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45817027\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zserge.com/posts/etude-in-c/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T23:18:04Z"
+    }
+  },
+  {
+    "hash": "9105492497f8406765ed6a1fc9a677e59b192a673d8d8a4e67b0f8a89081e76c",
+    "item": {
+      "title": "Cache-friendly, low-memory Lanczos algorithm in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45889891\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:08:00Z"
+    }
+  },
+  {
+    "hash": "7ba8eaefbf8c64814e44d195d090c7c78a386dd108d55889fd443b3061d951bd",
+    "item": {
+      "title": "My fan worked fine, so I gave it WiFi",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45830178\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T01:04:23Z"
+    }
+  },
+  {
+    "hash": "99490f51302583c415d87a59e28fe0007221d1c30f874acec3919a31158296f4",
+    "item": {
+      "title": "Xortran - A PDP-11 Neural Network With Backpropagation in Fortran IV",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45892174\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/dbrll/Xortran"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T20:10:24Z"
+    }
+  },
+  {
+    "hash": "f4f124ae900818717a4dba8e830b367df294a6c3d66c4df00e848389f4f70b95",
+    "item": {
+      "title": "The R47: A new physical RPN calculator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45844419\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.swissmicros.com/product/model-r47"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T08:00:08Z"
+    }
+  },
+  {
+    "hash": "9c5eb56de4e6370b5a053a5c357d3e42fcd1021531ae41a46912bc30afc534c6",
+    "item": {
+      "title": "FFmpeg to Google: Fund us or stop sending bugs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891016\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T18:32:11Z"
+    }
+  },
+  {
+    "hash": "3f2d2f7ba023291729164ab33a15495622d872c37322a3c2768a47f9f39022f3",
+    "item": {
+      "title": "Show HN: Creavi Macropad – Built a wireless macropad with a display",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891319\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://creavi.tech/blog/creavi-macropad-build-log/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T18:58:16Z"
+    }
+  },
+  {
+    "hash": "c15d10b410f2039e4722f612707f97c74a5621ae7d129808024b9a8f9d2705ee",
+    "item": {
+      "title": "How I fell in love with Erlang",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45785300\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://boragonul.com/post/falling-in-love-with-erlang"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-01T21:00:33Z"
+    }
+  },
+  {
+    "hash": "a34ee4ed0ea392bfb334bdd169ec64f4e37f1f1424ff4b869dccee7f99baca87",
+    "item": {
+      "title": "Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45890394\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://data-formulator.ai/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T17:44:21Z"
+    }
+  },
+  {
+    "hash": "599e943d03163f601538d62d7a20071ab11d0d8ca43bd4d645c313e441beb702",
+    "item": {
+      "title": "Firefox expands fingerprint protections",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45888891\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T16:04:08Z"
+    }
+  },
+  {
+    "hash": "ae57b480ec94d59e0784d3821779453dbfa60dd6b6823ec66177d037cc294c75",
+    "item": {
+      "title": "The history of Casio watches",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45860552\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.casio.com/us/watches/50th/Heritage/1970s/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-08T22:16:40Z"
+    }
+  },
+  {
+    "hash": "806ecbec8cbb0a09d0915c1ad9284c978dceccd20bd0d7ce7ea32445d0f14341",
+    "item": {
+      "title": "The Department of War just shot the accountants and opted for speed",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887699\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T14:34:54Z"
+    }
+  },
+  {
+    "hash": "1e2c281f573646ea83782ac053185bef1abfa9fd044e0952250e87999474f10b",
+    "item": {
+      "title": "Linux 6.18 Merges Fix For \"Catastrophic Performance Issue\" On 64-bit ARM",
+      "description": "Sent out today and already merged for the in-development Linux 6.18 kernel is the latest batch of 64-bit ARM \"ARM64\" architecture fixes. Most notable is a fix for addressing a \"catastrophic performance issue\" that was uncovered...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-ARM64-Atomics-Issue"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T20:27:20Z"
+    }
+  },
+  {
+    "hash": "0cc4ee3a282a141a67b50e70d38376b2762d58364d6d02418e25db8f0d39d356",
+    "item": {
+      "title": "Intel Releases New CPU Microcode, Publishes 30 New Security Advisories",
+      "description": "It's \"Patch Tuesday\" and Intel is out with new CPU microcode for Linux users in addition to making public 30 new security advisories that affect a range of Intel products...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Patch-Tuesday-Nov-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T18:23:35Z"
+    }
+  },
+  {
+    "hash": "62b9bb9415ba09a9b781e4ba16e1ff14ffc7821ec84b667bc05bc09a84c282e2",
+    "item": {
+      "title": "XRP ETF Speculation Heats Up: Why It Could Be a Game-Changer for Price Growth",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Veteran_Trader_Predicts_Rapid_Surge_to_New_ATH_for_XRP_if_It_Breaks.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Veteran_Trader_Predicts_Rapid_Surge_to_New_ATH_for_XRP_if_It_Breaks.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Veteran_Trader_Predicts_Rapid_Surge_to_New_ATH_for_XRP_if_It_Breaks-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Veteran_Trader_Predicts_Rapid_Surge_to_New_ATH_for_XRP_if_It_Breaks-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eXRP community figure Skipper has shared commentary explaining why an XRP ETF could transform the token\u0026#8217;s outlook. According to his analysis, SEC approval would usher in a new phase driven by institutional demand. The commentary arrives as anticipation builds for the launch of the first spot XRP ETF products. Skipper",
+      "links": [
+        "https://thenewscrypto.com/xrp-etf-speculation-heats-up-why-it-could-be-a-game-changer-for-price-growth/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Veteran_Trader_Predicts_Rapid_Surge_to_New_ATH_for_XRP_if_It_Breaks.jpg"
+      },
+      "published": "2025-11-11T16:00:00Z"
+    }
+  },
+  {
+    "hash": "95cc4b1a43ed15855d64f4762be4d76641368d53208929137267713b3ad7c372",
+    "item": {
+      "title": "RISE Acquires BSX, a Perp DEX on Base, to Accelerate Development of the First Integrated Orderbooks",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1120\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2-300x175.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2-1024x597.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2-768x448.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2-1536x896.jpg 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eSingapore, Singapore, 11th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/rise-acquires-bsx-a-perp-dex-on-base-to-accelerate-development-of-the-first-integrated-orderbooks/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Acquisition_3_1762862690IdBumspbe2.jpg"
+      },
+      "published": "2025-11-11T15:39:11Z"
+    }
+  },
+  {
+    "hash": "16a2e223c11439febed058ec0c49425530d4ff322b9e2d436bce6e4e421d0a15",
+    "item": {
+      "title": "Threshold Network Simplifies Bitcoin Onchain Access With Direct and Gasless tBTC Minting",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np-376x212.jpg 376w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eNew York, United States, 11th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/threshold-network-simplifies-bitcoin-onchain-access-with-direct-and-gasless-tbtc-minting/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/FINAL_BLOG_BANNER_1_1762868727JyG7vzS3Np.jpg"
+      },
+      "published": "2025-11-11T15:08:59Z"
+    }
+  },
+  {
+    "hash": "d06e3b47e6265edf280de6f413ecaa45ebc42422f9fb3e73975c3e078b61d224",
+    "item": {
+      "title": "Domino’s Pizza Partners with xMoney for Fiat and Crypto Payments",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1008\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-300x158.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-1024x538.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-768x403.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa-1536x806.jpg 1536w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003eVaduz, Liechtenstein, 11th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/dominos-pizza-partners-with-xmoney-for-fiat-and-crypto-payments/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/xMoney_x_Dominos_-_Bring_Payments_That_Deliver_1762780110ZCM3kLGJMa.jpg"
+      },
+      "published": "2025-11-11T14:04:31Z"
+    }
+  },
+  {
+    "hash": "c94569d865efcd41de84598c9ce58547a7233bfc145695e01213f86778930a5a",
+    "item": {
+      "title": "Ethereum (ETH) Battles at $3.5K: Will the Bulls Push the Price Higher, or Will It Collapse Toward $3K?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Battles at $3.5K: Will the Bulls Push the Price Higher, or Will It Collapse Toward $3K?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe bear trap within the crypto market is just fluctuating in terms of intensity, not fading away. With the fear sentiment flourishing across the assets, the largest asset, Bitcoin (BTC), is currently hovering at around $105K. Meanwhile, Ethereum (ETH), the largest altcoin, Ethereum (ETH), seems like attempting a recovery. The",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-battles-at-3-5k-will-the-bulls-push-the-price-higher-or-will-it-collapse-toward-3k/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing Analysis",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/08/After-The-ATH-Blast-Will-The-Ethereum-ETH-Bulls-Swing-Open-The-5K-Door.jpg"
+      },
+      "published": "2025-11-11T13:09:18Z"
+    }
+  },
+  {
+    "hash": "6470077fab96125a994967fdf03b0e44a1a08aff416db0103b5e1c3a02a2e60f",
+    "item": {
+      "title": "Binance Launches New Spot and Futures Demo Trading to Simplify Crypto Learning and Lower Entry Barriers",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"900\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/d.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Launches New Spot and Futures Demo Trading to Simplify Crypto Learning and Lower Entry Barriers\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/d.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/11/d-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/d-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/d-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/d-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/11/d-376x212.jpg 376w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eIn an effort to remove the barriers to entry into the cryptocurrency space, Binance, the biggest cryptocurrency exchange in the world in terms of both trading volume and users, today unveiled Binance Demo Trading for spot and futures, a new simulated trading experience. Since Binance Demo Trading was made accessible",
+      "links": [
+        "https://thenewscrypto.com/binance-launches-new-spot-and-futures-demo-trading-to-simplify-crypto-learning-and-lower-entry-barriers/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Binance",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shanawaz"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/d.jpg"
+      },
+      "published": "2025-11-11T12:00:00Z"
+    }
+  },
+  {
+    "hash": "9bc5e36ab0558e11f7b176b3be9a40aec333a776396b7eb750dcbce51115ffeb",
+    "item": {
+      "title": "KuCoin Launches Institutional Division to Bridge Traditional Finance and Digital Assets",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"628\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/ku.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"KuCoin Launches Institutional Division to Bridge Traditional Finance and Digital Assets\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/ku.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/11/ku-300x157.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/ku-1024x536.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/ku-768x402.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eKuCoin Institutional, the next evolution of KuCoin\u0026#8217;s global business, has been officially launched as a strategic expansion committed to servicing professional investors, institutions, and strategic partners. The launch highlights the company\u0026#8217;s dedication to creating a safe, compliant, and high-performance infrastructure for the next phase of digital asset adoption. This commitment is",
+      "links": [
+        "https://thenewscrypto.com/kucoin-launches-institutional-division-to-bridge-traditional-finance-and-digital-assets/"
+      ],
+      "categories": [
+        "Exchange News",
+        "exchange",
+        "KuCoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Abdul"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/ku.png"
+      },
+      "published": "2025-11-11T10:00:00Z"
+    }
+  },
+  {
+    "hash": "d366fdddbbf781169d9d1684317079eb76f0c5437030955ce60ba8aaec9da590",
+    "item": {
+      "title": "Orbs’ Perpetual Hub Ultra Integrates with TrebleSwap to Power Institutional-Grade Perps on Base",
+      "description": "\u003cp\u003e\u003cimg width=\"1281\" height=\"641\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/lk-3.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Orbs’ Perpetual Hub Ultra Integrates with TrebleSwap to Power Institutional-Grade Perps on Base\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/lk-3.png 1281w, https://thenewscrypto.com/wp-content/uploads/2025/11/lk-3-300x150.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/lk-3-1024x512.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/lk-3-768x384.png 768w\" sizes=\"auto, (max-width: 1281px) 100vw, 1281px\" /\u003e\u003c/p\u003ePerpetual Hub Ultra, powered by Orbs, has been integrated into TrebleSwap, a v4 decentralized exchange (DEX) based on Base, enabling institutional-grade perpetual futures trading to the Base ecosystem. Because of this integration, DEXs looking for a plug-and-play perps infrastructure to increase the scope of their trading services may now turn to Orbs’",
+      "links": [
+        "https://thenewscrypto.com/orbs-perpetual-hub-ultra-integrates-with-trebleswap-to-power-institutional-grade-perps-on-base/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Ashfaq"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/lk-3.png"
+      },
+      "published": "2025-11-11T10:00:00Z"
+    }
+  },
+  {
+    "hash": "4bc1939cb25d4cd5e1601bbece5d2271c86ae074eb9a878f679561a65cebff49",
+    "item": {
+      "title": "Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict",
+      "description": "Redditor confessed to violating actresses' \"moral rights\" in landmark ruling.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/reddit-mod-jailed-for-sharing-movie-sex-scenes-in-rare-moral-rights-verdict/"
+      ],
+      "categories": [
+        "Policy",
+        "copyright law",
+        "deepfakes",
+        "Denmark",
+        "moral rights",
+        "reddit"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/reddit-s3xy-time-1152x648.jpg"
+      },
+      "published": "2025-11-11T19:21:30Z"
+    }
+  },
+  {
+    "hash": "76d0ae32a5eff25384bd166187b959e7b5c9bc8b303b5b84a15828fcd7b4f4cc",
+    "item": {
+      "title": "US states could lose $21 billion of broadband grants after Trump overhaul",
+      "description": "Ernst bill would send broadband grant money to Treasury for deficit reduction.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/us-states-could-lose-21-billion-of-broadband-grants-after-trump-overhaul/"
+      ],
+      "categories": [
+        "Policy",
+        "BEAD program",
+        "Broadband Equity Access and Deployment program"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/shredded-money-1152x648-1762880813.jpg"
+      },
+      "published": "2025-11-11T17:18:58Z"
+    }
+  },
+  {
+    "hash": "bec0c00703051f6ea705fefc8d715a59bcd01181918e4103e290700b20e913d3",
+    "item": {
+      "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
+      "description": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp.\nAccording to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.",
+      "links": [
+        "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrlz0Rd5WFx1WGLM50k8zciZga_tvSSCACZehOgO5Kb-v0WP-PffiCulnIsUbwnvjPYtT15mAXR20xitSNUp9DlsPaN28keaeKCc1mybORUEBINDq5ptqGr5lOXht-rf_eQLckwgR2w5S4M8qx-R-kwDG6TmX3ydLfSACazclZlnIto_rB39ckAxYepJgl/s1600/whatsapp-web.jpg"
+      },
+      "published": "2025-11-11T18:37:00Z"
+    }
+  },
+  {
+    "hash": "77093009bbea74e1f8debfbd0dc86c11912a110a8ab8e21b3a31627df2868152",
+    "item": {
+      "title": "ZEC Price Prediction: 20% Correction After 1,200% Rally – Is This the Dip to Buy?",
+      "description": "\u003cp\u003eZEC price prediction has examined Zcash’s 20% daily decline to $479, a 45.6% retrace from $880, and consolidation within a bull flag. Analysts have discussed Ichimoku levels near $342, liquidity at $480–$500, and harmonic setups as the weekly gain has persisted despite heightened volatility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/zec-price-prediction-20-correction-after-1200-rally-is-this-the-dip-to-buy/\"\u003eZEC Price Prediction: 20% Correction After 1,200% Rally – Is This the Dip to Buy?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/zec-price-prediction-20-correction-after-1200-rally-is-this-the-dip-to-buy/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "zcash"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11171159/1762881118-chatgpt-image-nov-11-2025-06_11_13-pm_optimized.jpg"
+      },
+      "published": "2025-11-11T19:50:09Z"
+    }
+  },
+  {
+    "hash": "fd73d9148176b10f57cad054d78dbba5ee2f428fa8c21773234b43307880ca09",
+    "item": {
+      "title": "Pi Coin Price Prediction: New Stablecoin Rumors and Price Recovery – Is Pi About to Follow XRP’s Path?",
+      "description": "\u003cp\u003ePi Coin Price Prediction has gained traction as Pi Network prepares for its mainnet rollout. With the team developing PiUSD and integrating real-world asset standards, the PI chart is consolidating, suggesting potential bullish breakout momentum ahead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pi-coin-price-prediction-new-stablecoin-rumors-and-price-recovery-is-pi-about-to-follow-xrps-path/\"\u003ePi Coin Price Prediction: New Stablecoin Rumors and Price Recovery – Is Pi About to Follow XRP’s Path?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pi-coin-price-prediction-new-stablecoin-rumors-and-price-recovery-is-pi-about-to-follow-xrps-path/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "pi coin",
+        "Pi Network"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11113506/1762860905-pi-coin-price-prediction.jpg"
+      },
+      "published": "2025-11-11T19:37:51Z"
+    }
+  },
+  {
+    "hash": "399b391a929a3009ebd55df67b31ec5a5feb9c1674cb8ddd75e22d7d86dbcb1d",
+    "item": {
+      "title": "Tether To Hire HSBC Metals Chiefs, Targeting Gold Market As Price Crosses $4,100",
+      "description": "\u003cp\u003eTether has planned a larger bullion function by recruiting two HSBC metals leaders while gold has traded above $4,100. The firm has held over $12B in gold with Treasuries and has issued XAUT backed by bars, with updates expected on how metals have been integrated into reserves and reporting.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/tether-to-hire-hsbc-metals-chiefs-targeting-gold-market-as-price-crosses-4100/\"\u003eTether To Hire HSBC Metals Chiefs, Targeting Gold Market As Price Crosses $4,100\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/tether-to-hire-hsbc-metals-chiefs-targeting-gold-market-as-price-crosses-4100/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Gold",
+        "Stablecoin",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11164153/1762879312-image-1762879230902_optimized.jpg"
+      },
+      "published": "2025-11-11T19:34:20Z"
+    }
+  },
+  {
+    "hash": "9ef89a9cdd16a1339f919035137deb35cad3eb80ddf414f45cbcf8866d2af692",
+    "item": {
+      "title": "Historic 2020 Liquidity Trend Flashes Again – Analysts Tip Bitcoin for $120K Breakout",
+      "description": "\u003cp\u003eBitcoin has reflected past-cycle conditions: SSR has moved back near 13, stablecoin balances have risen as BTC on exchanges have fallen, and a falling wedge has formed. Analysts have watched CPI and the $106K–$110K range for confirmation toward $120K.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/historic-2020-liquidity-trend-flashes-again-analysts-tip-bitcoin-for-120k-breakout/\"\u003eHistoric 2020 Liquidity Trend Flashes Again – Analysts Tip Bitcoin for $120K Breakout\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/historic-2020-liquidity-trend-flashes-again-analysts-tip-bitcoin-for-120k-breakout/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11153912/1762875551-stock-image_optimized-6.jpg"
+      },
+      "published": "2025-11-11T19:26:43Z"
+    }
   }
 ]
