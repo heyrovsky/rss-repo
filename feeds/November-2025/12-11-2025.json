@@ -1,0 +1,543 @@
+[
+  {
+    "hash": "d1a5a9b25a2de24751fdc61b75a8aa7523c3d8b312a54b9a431485d72504d06d",
+    "item": {
+      "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
+      "description": "In 1982, a young Mac developer turned Jobs into a UI designer—and accidentally invented a new technique.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/"
+      ],
+      "categories": [
+        "Apple",
+        "Tech",
+        "1982",
+        "1984",
+        "Andy Hertzfeld",
+        "apple",
+        "calculator",
+        "Chris Espinosa",
+        "classic mac",
+        "computer history",
+        "Folklore.org",
+        "Mac OS",
+        "Macintosh",
+        "QuickDraw",
+        "retrocomputing",
+        "retrotech",
+        "software development",
+        "Steve Jobs",
+        "tales of tech",
+        "tales of tech history",
+        "tales of tech lore",
+        "user interface design",
+        "Vintage computing"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-1152x648.jpg"
+      },
+      "published": "2025-11-11T23:26:04Z"
+    }
+  },
+  {
+    "hash": "6eab7986c2422360569c310e71567343a0154ce48f6fad64e6ef7cb4672dced0",
+    "item": {
+      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
+      "description": "New system allows devices to connect directly to secure space in Google's AI servers.",
+      "links": [
+        "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/"
+      ],
+      "categories": [
+        "AI",
+        "Google",
+        "Tech",
+        "Artificial Intelligence",
+        "google",
+        "Google Gemini",
+        "NPU"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ryan Whitwam"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg"
+      },
+      "published": "2025-11-11T21:34:10Z"
+    }
+  },
+  {
+    "hash": "fca0baca927813a052ab9e6353316160079193396c75f07927e28f94513576ca",
+    "item": {
+      "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
+      "description": "Ryanair CEO admits \"there’ll be some teething problems.\" ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/"
+      ],
+      "categories": [
+        "Policy",
+        "Tech",
+        "airlines",
+        "europe",
+        "software"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200216952-1152x648.jpg"
+      },
+      "published": "2025-11-11T21:20:32Z"
+    }
+  },
+  {
+    "hash": "caa74c7733f09d35d5c7132b1bc6157aac935f29545117bdced9f1dd02d853e8",
+    "item": {
+      "title": "sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10",
+      "description": "The Ubuntu 25.10 transition to using some Rust system utilities continues proving quite rocky. Beyond some early performance issues with Rust Coreutils, breakage for some executables, and broken unattended upgrades due to a Rust Coreutils bug, it's also sudo-rs now causing Ubuntu developers some headaches. There are two moderate security issues affecting sudo-rs, the Rust version of sudo being used by Ubuntu 25.10...",
+      "links": [
+        "https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T22:32:08Z"
+    }
+  },
+  {
+    "hash": "6711eb0e5bacbab7c594f9b1010739e4034a91cf0df006b54ef704a268a27eae",
+    "item": {
+      "title": "Kaspersky Brings Its Anti-Virus Software To Linux For Home Users",
+      "description": "Russian cybersecurity firm Kaspersky Lab announced that it's bringing its flagship Kaspersky anti-virus software for home users over to Linux. Kaspersky software was previously available for Linux just for business/enterprise deployments...",
+      "links": [
+        "https://www.phoronix.com/news/Kaspersky-Linux-AV-Home-Users"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-11T21:32:51Z"
+    }
+  },
+  {
+    "hash": "5c24f9e6c795398af463d8ca166e8a838436ac1081fb43a793973853b9b8bda6",
+    "item": {
+      "title": "I can build enterprise software but I can't charge for it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45894569\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T23:58:08Z"
+    }
+  },
+  {
+    "hash": "33ea65b57ddfc55a1ed4083cac48e14e074f94a99f97e159a06fc9e61b3dd863",
+    "item": {
+      "title": ".NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893986\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T22:50:32Z"
+    }
+  },
+  {
+    "hash": "e5e2ede294f29cded013432a6e60f1492296ce92dd001b3194434488dea76e5b",
+    "item": {
+      "title": "X5.1 solar flare, G4 geomagnetic storm watch",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893004\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T21:18:26Z"
+    }
+  },
+  {
+    "hash": "aafb89dc1032dc9a815cdd94d5957c004fb5b36179bf8fed9044f74848d625cc",
+    "item": {
+      "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893095\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T21:25:19Z"
+    }
+  },
+  {
+    "hash": "1bbfff4fb9646ecaf5a76ce9005ee6907db93231174b5ec8d87ce66808ee2622",
+    "item": {
+      "title": "Why Nietzsche Matters in the Age of Artificial Intelligence",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45894588\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T23:59:49Z"
+    }
+  },
+  {
+    "hash": "de02db6e6ca979c0d670448c6635362603dc7526402a520e0d30386c17f96c6d",
+    "item": {
+      "title": "Laptops adorned with creative stickers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45789674\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stickertop.art/main/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T11:58:52Z"
+    }
+  },
+  {
+    "hash": "fc60457ae97511b13dfdd015a2bc077c6096fcb5d9ad558a4b7ea9fa0c7c0e67",
+    "item": {
+      "title": "Four strange places to see London's Roman Wall",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893795\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T22:31:41Z"
+    }
+  },
+  {
+    "hash": "0222e0d4867a4349e73c29102e28da2f3182aef10bec814f7b65388f763161e2",
+    "item": {
+      "title": "Who Still Uses Cash?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45894145\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T23:06:40Z"
+    }
+  },
+  {
+    "hash": "620593d6d10d1ad2083459ecf210fa0a9fb7ee52a50496f2c8d4919b228ecee5",
+    "item": {
+      "title": "The terminal of the future",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45892191\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jyn.dev/the-terminal-of-the-future"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T20:11:33Z"
+    }
+  },
+  {
+    "hash": "9f872d3463939d9662bfe3844e50e285a2f3841a6c6454ee374fb2ad5ebc4c0b",
+    "item": {
+      "title": "Heroku Support for .NET 10",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893646\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T22:18:17Z"
+    }
+  },
+  {
+    "hash": "e87a91658fcc133b6f49707561e395d33b09370ae0641f457538896b01653961",
+    "item": {
+      "title": "Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891968\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/google/adk-go"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T19:52:55Z"
+    }
+  },
+  {
+    "hash": "c525fdd2f96b9d61d03a040a6c57d95bc60b53af91c26258bbb3d20deb09b29b",
+    "item": {
+      "title": "Learning to Model the World with Language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45841998\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dynalang.github.io/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T23:47:39Z"
+    }
+  },
+  {
+    "hash": "6538571ee6f03f23501c4454c46ebb6e1c3657b1a5a79eeab2a5ea4bb238f127",
+    "item": {
+      "title": "Agentic pelican on a bicycle",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891817\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T19:40:15Z"
+    }
+  },
+  {
+    "hash": "82d485a79f49e9aff1a9b32be44ebaf9757024db121d48fc83077cfc2026c9bc",
+    "item": {
+      "title": "Array-programming the Mandelbrot set",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45843600\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jcmorrow.com/mandelbrot/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T04:38:28Z"
+    }
+  },
+  {
+    "hash": "75591b09ede8cc4a8de4c8ffae627ff37092be015212980fd4c9266b14621f88",
+    "item": {
+      "title": "XRP Price Prediction: Wall Street-Ready ETFs Appear as Govt Shutdown Ends – Will XRP Finally Explode?",
+      "description": "\u003cp\u003eAs the U.S. government shutdown seems to be ending, a handful of XRP-linked exchange-traded funds (ETFs) are set to hit the trading floor, favoring a bullish XRP price prediction for the near term.The DTCC platform, which includes funds in the pre-launch phase, has already listed vehicles from Canary Capital, Bitwise, CoinShares, and Franklin Templeton, among [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-wall-street-ready-etfs-appear-as-govt-shutdown-ends-will-xrp-finally-explode/\"\u003eXRP Price Prediction: Wall Street-Ready ETFs Appear as Govt Shutdown Ends – Will XRP Finally Explode?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-wall-street-ready-etfs-appear-as-govt-shutdown-ends-will-xrp-finally-explode/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11121821/1762863501-xrp-price-prediction-9.jpg"
+      },
+      "published": "2025-11-12T00:22:00Z"
+    }
+  },
+  {
+    "hash": "207f3f8d72b506f0f894b3bb04af81686b514a32b823b0626151609be21ede49",
+    "item": {
+      "title": "New Crypto to Buy Today: Under $0.01 and About to List on Exchanges",
+      "description": "\u003cp\u003eNew Crypto project PEPENODE has raised $2.1M in its under-$0.01 presale and has detailed a mine-to-earn approach using virtual nodes, external token rewards, and staking with an advertised high APY, as it plans exchange listings and positions for a potential market recovery.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/new-crypto-to-buy-today-under-0-01-and-about-to-list-on-exchanges/\"\u003eNew Crypto to Buy Today: Under $0.01 and About to List on Exchanges\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/new-crypto-to-buy-today-under-0-01-and-about-to-list-on-exchanges/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Crypto Presale",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11111242/1762859561-new-crypto-to-buy-today.jpg"
+      },
+      "published": "2025-11-11T23:30:00Z"
+    }
+  },
+  {
+    "hash": "d34b770d6f83fac4faeeaa0fb22541b7954815dfdcafc5d7dcb3d3fa7c925c67",
+    "item": {
+      "title": "Solana Price Prediction: Crypto Funds Dump BTC and ETH – But Pour Millions Into Solana Instead",
+      "description": "\u003cp\u003eLast week saw over $1.2 billion in outflows from crypto-linked exchange-traded funds (ETFs) as the broader market declined. However, SOL ETFs managed to close the week with positive inflows, a clear sign that institutional investors still favor a bullish Solana price prediction.Bitcoin ETFs took the strongest hit as investors withdrew nearly $1 billion from these [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-crypto-funds-dump-btc-and-eth-but-pour-millions-into-solana-instead/\"\u003eSolana Price Prediction: Crypto Funds Dump BTC and ETH – But Pour Millions Into Solana Instead\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-crypto-funds-dump-btc-and-eth-but-pour-millions-into-solana-instead/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "SOL",
+        "Solana ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11112712/1762860432-solana-price-prediction-5.jpg"
+      },
+      "published": "2025-11-11T23:28:00Z"
+    }
+  },
+  {
+    "hash": "07f4cb3c13d77373244efbc6008c3009c8761c7fc51442fb49e4f1d93f76d285",
+    "item": {
+      "title": "Boozman–Booker Draft Advances Crypto Market Structure – CFTC, SEC Coordination Looms",
+      "description": "\u003cp\u003eThe Senate Agriculture Committee has unveiled a market structure draft that has proposed a CFTC-led spot regime and SEC–CFTC joint rulemakings. Former CFTC commissioner Summer Mersinger has said the effort has advanced crypto oversight with bipartisan momentum.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/senate-agriculture-committee-market-structure-draft-is-an-important-step-forward-blockchain-association-ceo-says/\"\u003eBoozman–Booker Draft Advances Crypto Market Structure – CFTC, SEC Coordination Looms\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/senate-agriculture-committee-market-structure-draft-is-an-important-step-forward-blockchain-association-ceo-says/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "CFTC",
+        "Crypto Policy",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11222209/1762899729-julia_63915_the_capitol_building_overlaid_with_cryptocurrencies_067bdfba-a282-44a9-9bfa-f0df22848b59-png_optimized.jpg"
+      },
+      "published": "2025-11-11T22:56:04Z"
+    }
+  },
+  {
+    "hash": "85657323776ff4a23f30097c693f6db2364e1e59d225f99962b706c6ea534414",
+    "item": {
+      "title": "Best Crypto to Buy Now 11 November – XRP, Bitcoin, Solana",
+      "description": "\u003cp\u003eBest Crypto coverage has reviewed XRP, Bitcoin, and Solana in the wake of a record high and subsequent correction, outlining ETF listings, reserve proposals, and technical indicators that have guided forecasts and near-term support and resistance levels.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-11-november-xrp-bitcoin-solana/\"\u003eBest Crypto to Buy Now 11 November – XRP, Bitcoin, Solana\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-11-november-xrp-bitcoin-solana/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11130646/Best-Crypto-to-Buy-Now-5.jpg"
+      },
+      "published": "2025-11-11T22:35:00Z"
+    }
+  },
+  {
+    "hash": "667a66b8ad1c29ba9b006fdf04d34bc75f8a6582d89ffa1af344d0be7fea773a",
+    "item": {
+      "title": "Google’s Gemini AI Predicts the Price of XRP, PEPE, Ethereum by the End of 2025",
+      "description": "\u003cp\u003eGemini AI predicts advances for XRP, Pepe, and Ethereum after the Fed’s rate cut and a correction phase have shifted sentiment. Forecasts have pointed to $5–$10 for XRP, a potential new high for Pepe, and ETH reaching $10,000 if resistance levels have cleared into year-end.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/googles-gemini-ai-predicts-the-price-of-xrp-pepe-ethereum-by-the-end-of-2025/\"\u003eGoogle\u0026#8217;s Gemini AI Predicts the Price of XRP, PEPE, Ethereum by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/googles-gemini-ai-predicts-the-price-of-xrp-pepe-ethereum-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ethereum",
+        "Pepe",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11173415/Gemini-AI-Predicts-the-Price-1.jpg"
+      },
+      "published": "2025-11-11T22:30:00Z"
+    }
+  },
+  {
+    "hash": "941f44cd02a3e71650d7395d9a3e0717abff1ef6f11958bbb807fb097fd4c2cc",
+    "item": {
+      "title": "BONK Price Prediction: Price and Volume Both Jump – Do Insiders Know Something?",
+      "description": "\u003cp\u003eMarket participants are rallying behind the Bonk bounce – Bonk price predictions now eye a potential breakout move.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bonk-price-prediction-price-and-volume-both-jump-do-insiders-know-something/\"\u003eBONK Price Prediction: Price and Volume Both Jump – Do Insiders Know Something?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bonk-price-prediction-price-and-volume-both-jump-do-insiders-know-something/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bonk",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11140707/1762870026-bonk-price-prediction.jpg"
+      },
+      "published": "2025-11-11T22:28:00Z"
+    }
+  },
+  {
+    "hash": "d5508060516a5c508b5a394db4a71cf3bd567e3dc830cf4e6f9495fa1d2ddd7f",
+    "item": {
+      "title": "China Accuses U.S. of Secret Role in $4B Bitcoin Hack – What’s Really Going On?",
+      "description": "\u003cp\u003eChina has alleged covert U.S. involvement in the 2020 LuBian Bitcoin theft while the DOJ has seized 127,000 BTC tied to Chen Zhi. On-chain analyses have matched addresses, and renewed wallet movements have been reported as investigators review flows and related sanctions.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/china-accuses-us-secret-role-4b-btc-hack/\"\u003eChina Accuses U.S. of Secret Role in $4B Bitcoin Hack – What’s Really Going On?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/china-accuses-us-secret-role-4b-btc-hack/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "China",
+        "Crypto hack",
+        "USA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11185919/1762887559-image-1762887519602_optimized.jpg"
+      },
+      "published": "2025-11-11T22:18:06Z"
+    }
+  },
+  {
+    "hash": "a953a1fbb1b6efc5f17f73136fb0938502b8c1335583e9ecc7e9547a2a4dce9b",
+    "item": {
+      "title": "ClearToken Secures UK Approval to Settle Crypto and Tokenized Assets Under FCA Oversight",
+      "description": "\u003cp\u003eClearToken has received FCA approval as an Authorised Payment Institution and registered cryptoasset firm to run a DvP settlement platform for crypto, stablecoins, and fiat, as UK regulators have progressed rules on custody, cETNs, and systemic stablecoins to support modernized market infrastructure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cleartoken-fca-approval-uk-crypto/\"\u003eClearToken Secures UK Approval to Settle Crypto and Tokenized Assets Under FCA Oversight\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cleartoken-fca-approval-uk-crypto/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "FCA",
+        "UK Crypto"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/11211750/1762895870-0_0-33_optimized.jpg"
+      },
+      "published": "2025-11-11T22:10:00Z"
+    }
+  }
+]
