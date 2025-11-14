@@ -1284,5 +1284,633 @@
       },
       "published": "2025-11-14T06:39:10Z"
     }
+  },
+  {
+    "hash": "16568e72a2876d286d40cd0475d22cc00525274015a4718d79eabd18ae5e9c23",
+    "item": {
+      "title": "Mainline Linux Patches For The VisionFive 2 Lite: RISC-V For As Little As $19.9 USD",
+      "description": "Following the mainline Linux kernel support for the VisionFive 2 RISC-V single board computer from StarFive, Linux kernel patches are on the way for their new VisionFive 2 Lite low-cost offering. With the StarFive VisionFive 2 Lite this RISC-V board can be procured for as little as $19.9 USD as one of the cheapest yet fairly capable RISC-V SBCs...",
+      "links": [
+        "https://www.phoronix.com/news/VisionFive-2-Lite-Linux-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-14T11:22:16Z"
+    }
+  },
+  {
+    "hash": "492786d65f68931bafbe0fcacaaddebc47b0e436d24ccef1bdb6b07433896f82",
+    "item": {
+      "title": "The Headaches Supporting Content Protection With Linux GPU Drivers",
+      "description": "Intel driver engineer Suraj Kandpal presented at the recent X.Org Developer's Conference (XDC2025) on the challenges around supporting content protection on Linux such as for High-bandwidth Digital Content Protection (HDCP) and Protected Audio Video Path (PAVP)...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-GPU-CP-Headaches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-14T11:07:24Z"
+    }
+  },
+  {
+    "hash": "bd5b3e55230d655466cac83991d5a123c565808969c333ffc2161ce1f700ae88",
+    "item": {
+      "title": "Fedora 44 Looking At Replacing FBCON With KMSCON As Default VT Console",
+      "description": "Fedora 44 is looking at replacing the Linux kernel's console \"FBCON\" with the user-space-based KMSCON implementation. Eventually the hope remains to deprecate the FBCON/FBDEV code within the Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Fedora-44-Considers-KMSCON"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-14T10:55:05Z"
+    }
+  },
+  {
+    "hash": "d37f8c6b3b79263ea598d57f9c6e2844036405cf1d614baa0b45e3c0f0fa79c9",
+    "item": {
+      "title": "GCC Compiler Developers Begin Considering C++20 Default",
+      "description": "Compiler engineer Marek Polacek of Red Hat recently proposed making the C++20 language specification (or rather the GNU++20 dialect) the default C++ version when not otherwise specified...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-Considering-CPP-20-Default"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-14T10:39:53Z"
+    }
+  },
+  {
+    "hash": "d676d6b207addb28fdbc8d9fd2b0579dac4acc4573774fa60c76307613b44cb0",
+    "item": {
+      "title": "Operating Margins",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45866366\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://fi-le.net/margin/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T15:46:29Z"
+    }
+  },
+  {
+    "hash": "423434ebf61ccedc27c7a00a40fd02c4ea4446c280971690c8d52ead8bf96179",
+    "item": {
+      "title": "Show HN: Encore – Type-safe back end framework that generates infra from code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45925890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/encoredev/encore"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-14T11:41:47Z"
+    }
+  },
+  {
+    "hash": "96677d0ca878a81ab7fbb708c370d6a43453ed1813cb3dc8c1ac5db3a0266315",
+    "item": {
+      "title": "V8 Garbage Collector",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45925431\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-14T09:53:13Z"
+    }
+  },
+  {
+    "hash": "d13a21f795bff55520c12552c56920af045789bd84c7118c22c583dd235ebc0b",
+    "item": {
+      "title": "A Common Semiconductor Just Became a Superconductor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45819556\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sciencedaily.com/releases/2025/10/251030075105.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T05:33:00Z"
+    }
+  },
+  {
+    "hash": "6012b821491d4c18fca0aa2dc61231205aa4382f54dca0e7b43c12c4b3f2f98f",
+    "item": {
+      "title": "Show HN: An easy-to-use online curve fitting tool",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810086\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://byx2000.github.io/curve-fit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T12:23:01Z"
+    }
+  },
+  {
+    "hash": "f13721dea8a5bbdaf5384c4ece9f6f5ac6caf62b09e993016b107852e9fa6853",
+    "item": {
+      "title": "Needy Programs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45920307\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tonsky.me/blog/needy-programs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T20:46:47Z"
+    }
+  },
+  {
+    "hash": "dbb2be6321706cd3f6cf883574188f95238696e0dc1d6abb5da54de9d1de049f",
+    "item": {
+      "title": "Android Developer Verification Starts as Google Partially Retreats on Measures",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2017/04/security.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2017/04/security.jpg 3000w, https://hackaday.com/wp-content/uploads/2017/04/security.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2017/04/security.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2017/04/security.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2017/04/security.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2017/04/security.jpg?resize=2048,1239 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"253593\" data-permalink=\"https://hackaday.com/2017/04/21/iot-security-is-hard-heres-what-you-need-to-know/security/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2017/04/security.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Security\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2017/04/security.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2017/04/security.jpg?w=800\" /\u003e\u003c/div\u003eIn a recent blog post Google announced that the early access phase of its Android Developer Verification program has commenced, as previously announced. In addition to this new announcement Google \u003ca href=\"https://hackaday.com/2025/11/14/android-developer-verification-starts-as-google-partially-retreats-on-measures/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/14/android-developer-verification-starts-as-google-partially-retreats-on-measures/"
+      ],
+      "categories": [
+        "Android Hacks",
+        "News",
+        "Security Hacks",
+        "android",
+        "Android Malware",
+        "device security"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2017/04/security.jpg"
+      },
+      "published": "2025-11-14T12:00:00Z"
+    }
+  },
+  {
+    "hash": "7b7fba27ed5134cf0f1b73df386d2cdcdc17e54cc8ef2b8bf0c66a7046bb97a9",
+    "item": {
+      "title": "FPGA Brings Antique Processor to Life",
+      "description": "\u003cdiv\u003e\u003cimg width=\"766\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg?w=766\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg 980w, https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg?resize=250,204 250w, https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg?resize=400,327 400w, https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg?resize=766,625 766w\" sizes=\"(max-width: 766px) 100vw, 766px\" data-attachment-id=\"874812\" data-permalink=\"https://hackaday.com/2025/11/14/fpga-brings-antique-processor-to-life/fpga-xt-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg\" data-orig-size=\"980,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;Canon EOS R8\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;1761477878\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;25600\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0.004\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"fpga-xt-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg?w=766\" /\u003e\u003c/div\u003eFor the retro gaming enthusiast, nothing beats original hardware. The feel of the controllers and the exact timing of the original, non-emulated software provide a certain experience that\u0026#8217;s difficult or \u003ca href=\"https://hackaday.com/2025/11/14/fpga-brings-antique-processor-to-life/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/14/fpga-brings-antique-processor-to-life/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "fpga",
+        "gaming",
+        "IBM xt",
+        "monkey island",
+        "nec v20",
+        "pc",
+        "retrocomputing",
+        "V20",
+        "v20hl"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/fpga-xt-main.jpg"
+      },
+      "published": "2025-11-14T09:00:51Z"
+    }
+  },
+  {
+    "hash": "f00a0e095b51781ecab38d953ed379da692c480cfd5d57e12f59be98c643a617",
+    "item": {
+      "title": "An Improbable, Doomed Star System in a Clockwork Coffee Table",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"875116\" data-permalink=\"https://hackaday.com/2025/11/13/an-improbable-doomed-star-system-in-a-clockwork-coffee-table/orrey-coffee-table/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"orrey-coffee-table\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg?w=800\" /\u003e\u003c/div\u003eThe major objects in our solar system orbit along the plane of the ecliptic, plus or minus few degrees, and it turns out most exoplanet systems are the same \u0026#8212; \u003ca href=\"https://hackaday.com/2025/11/13/an-improbable-doomed-star-system-in-a-clockwork-coffee-table/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/13/an-improbable-doomed-star-system-in-a-clockwork-coffee-table/"
+      ],
+      "categories": [
+        "Art",
+        "cnc",
+        "orrery",
+        "sls printing"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/orrey-coffee-table.jpg"
+      },
+      "published": "2025-11-14T06:00:41Z"
+    }
+  },
+  {
+    "hash": "096dc9637ee53e9167afd88418a3378ee63e22d67b382c418964688934c617d7",
+    "item": {
+      "title": "Tiny386 on an Espressif ESP32-S3",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?resize=800,600 800w, https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?resize=1536,1152 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"874935\" data-permalink=\"https://hackaday.com/2025/11/13/tiny386-on-an-espressif-esp32-s3/attachment/4341071762048178714/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg\" data-orig-size=\"1920,1440\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"4341071762048178714\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg?w=800\" /\u003e\u003c/div\u003eSome people may remember the joys of trying to boot Linux on an 8-bit AVR microcontroller, which was an absolute exercise in patience. In comparison [He Chunhui]\u0026#8217;s Tiny386 emulator running \u003ca href=\"https://hackaday.com/2025/11/13/tiny386-on-an-espressif-esp32-s3/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/13/tiny386-on-an-espressif-esp32-s3/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "Software Hacks",
+        "386",
+        "ESP32-S3",
+        "windows 95"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/4341071762048178714.jpg"
+      },
+      "published": "2025-11-14T03:00:00Z"
+    }
+  },
+  {
+    "hash": "17dcdf9be09bc38d40f6ac875eb8b98ea8cc68d2602abbecd85f6aa7ebbac052",
+    "item": {
+      "title": "VanEck Advances Solana ETF Launch With Critical SEC Filing",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/VanEck_Solana_ETF_Set_for_Launch_as_Firm_Submits_Final_8_A_Filing.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"VanEck Advances Solana ETF Launch With Critical SEC Filing\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/VanEck_Solana_ETF_Set_for_Launch_as_Firm_Submits_Final_8_A_Filing.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/VanEck_Solana_ETF_Set_for_Launch_as_Firm_Submits_Final_8_A_Filing-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/VanEck_Solana_ETF_Set_for_Launch_as_Firm_Submits_Final_8_A_Filing-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eVanEck​‍​‌‍​‍‌​‍​‌‍​‍‌ is moving forward in a big way with its Solana exchange-traded fund opening the way for the Form 8-A submission to the Securities and Exchange Commission. This filing is the last regulatory checkpoint before the actual trading, thus, the product can be expected to see the light of day",
+      "links": [
+        "https://thenewscrypto.com/vaneck-advances-solana-etf-launch-with-critical-sec-filing/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETF",
+        "SEC",
+        "Solana",
+        "VanEck"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/VanEck_Solana_ETF_Set_for_Launch_as_Firm_Submits_Final_8_A_Filing.jpg"
+      },
+      "published": "2025-11-14T08:55:08Z"
+    }
+  },
+  {
+    "hash": "3e541c68fd61e5bd1602b810a19660895603b2854a0903633a4424b379174c9d",
+    "item": {
+      "title": "Fake Ethereum Wallet Extension Steals Crypto Seeds on Chrome Store",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Chrome-Web-Stores-No-4-crypto1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Fake Ethereum Wallet Extension Steals Crypto Seeds on Chrome Store\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Chrome-Web-Stores-No-4-crypto1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Chrome-Web-Stores-No-4-crypto1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Chrome-Web-Stores-No-4-crypto1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOne​‍​‌‍​‍‌​‍​‌‍​‍‌ fraudulent crypto wallet extension made its way into Google\u0026#8217;s Chrome Web Store, using advanced methods to jeopardize user security and take cryptocurrency.\u0026#160; This malware, named \u0026#8220;Safery: Ethereum Wallet,\u0026#8221; is now the fourth organ of the search for an Ethereum wallet extension on Chrome\u0026#8217;s platform. The extension, as per security",
+      "links": [
+        "https://thenewscrypto.com/fake-ethereum-wallet-extension-steals-crypto-seeds-on-chrome-store/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "ETHEREUM",
+        "Wallet"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Chrome-Web-Stores-No-4-crypto1.jpg"
+      },
+      "published": "2025-11-14T07:51:18Z"
+    }
+  },
+  {
+    "hash": "e8928ddfa80edd121330e4bce7144ec7fc13b8d6afbe3ca6b74983d78a908fd6",
+    "item": {
+      "title": "Red Bed for Solana (SOL) After a 10% Slide: Will Bulls Rescue the Price Before it Slips Deeper?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Red-Bed-for-Solana-SOL-After-a-10-Slide-Will-Bulls-Rescue-the-Price-Before-it-Slips-Deeper.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Red Bed for Solana (SOL) After a 10% Slide: Will Bulls Rescue the Price Before it Slips Deeper?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Red-Bed-for-Solana-SOL-After-a-10-Slide-Will-Bulls-Rescue-the-Price-Before-it-Slips-Deeper.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Red-Bed-for-Solana-SOL-After-a-10-Slide-Will-Bulls-Rescue-the-Price-Before-it-Slips-Deeper-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Red-Bed-for-Solana-SOL-After-a-10-Slide-Will-Bulls-Rescue-the-Price-Before-it-Slips-Deeper-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe sturdy bears in the crypto market have shaken the assets by a 5.62% pullback, bringing the market cap down to $3.28 trillion. All the major digital assets have been charted in red, losing their recent gains. Bitcoin (BTC) has dropped below the $100K, trading at $97.2K. Meanwhile, Ethereum (ETH)",
+      "links": [
+        "https://thenewscrypto.com/red-bed-for-solana-sol-after-a-10-slide-will-bulls-rescue-the-price-before-it-slips-deeper/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "SOL",
+        "SOL Price",
+        "Solana"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Red-Bed-for-Solana-SOL-After-a-10-Slide-Will-Bulls-Rescue-the-Price-Before-it-Slips-Deeper.jpg"
+      },
+      "published": "2025-11-14T07:15:42Z"
+    }
+  },
+  {
+    "hash": "f4f8a96f0f22f2df39698b1585a28617cc79734c8de628fe9a747ad21abaff9a",
+    "item": {
+      "title": "Istanbul Blockchain Week Returns in June 2026 Amid Surging Crypto Adoption in Türkiye",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"668\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/photo_6100541783575038796_y.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Istanbul Blockchain Week Returns in June 2026 Amid Surging Crypto Adoption in Türkiye\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/photo_6100541783575038796_y.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/11/photo_6100541783575038796_y-300x157.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/photo_6100541783575038796_y-1024x534.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/photo_6100541783575038796_y-768x401.jpg 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eIstanbul Blockchain Week, organized by Web3 marketing agency EAK Digital is set to return for its fifth edition on June 2nd-3rd, 2026, at the Hilton Bomonti Hotel. Following last year’s success, this year’s event is gearing up to host prominent leaders and organizations in the industry, with more opportunities to",
+      "links": [
+        "https://thenewscrypto.com/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-turkiye/"
+      ],
+      "categories": [
+        "Press Release",
+        "Crypto",
+        "Istanbul Blockchain Week",
+        "Turkiye"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/photo_6100541783575038796_y.jpg"
+      },
+      "published": "2025-11-14T06:51:19Z"
+    }
+  },
+  {
+    "hash": "ccfd5e3617496ea8fd911f479bab4c90b788938df9e8dcf35c8af0bd92da0995",
+    "item": {
+      "title": "Shiba Inu Could Reach $0.0001 by March 2026, But Investors Are Preferring Newcomer Set for 17005% Rally from Under $0.003",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Shiba-Inu-Could-Reach.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Shiba Inu Could Reach $0.0001 by March 2026, But Investors Are Preferring Newcomer Set for 17005% Rally from Under $0.003\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Shiba-Inu-Could-Reach.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Shiba-Inu-Could-Reach-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Shiba-Inu-Could-Reach-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eShiba Inu (SHIB) is back on the radar, trading at $0.000010 as daily volume rises by 11% to reach $117 million. The upcoming Shibarium enhancements and the discussion about network fires are sparking a fire that could lead to a significant comeback. However, analysts forecast SHIB climbing to $0.0001 by",
+      "links": [
+        "https://thenewscrypto.com/shiba-inu-could-reach-0-0001-by-march-2026-but-investors-are-preferring-newcomer-set-for-17005-rally-from-under-0-003/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Little Pepe (LILPEPE)",
+        "Shiba Inu"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Shiba-Inu-Could-Reach.jpg"
+      },
+      "published": "2025-11-14T03:32:03Z"
+    }
+  },
+  {
+    "hash": "5e61edcb75642e4cd45a4d0dae83cbef56ca56883af4f2ea50364b5813785afd",
+    "item": {
+      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+      "description": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit’s reappearance with",
+      "links": [
+        "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uOnzefv5B2kTQp_6TWvGzdYVbKeSKfysA_sFwHY_ZwrX14JYItv8p8x1NQwG5wOyRqJT0oaAWfGM0VWHZrsRa0ULtSxxfEAFoMkbd4hFmx7X7K_nWXbF6XaK4PRp2I0Daue7934YaCR1II5aR0H1Ah7kWkW2Izqy4m30VUvtA30a9N1yVuKcSRuGOlk/s1600/main-cover.jpg"
+      },
+      "published": "2025-11-14T10:37:00Z"
+    }
+  },
+  {
+    "hash": "e9aa8d6f75ea65dc297af27b8803579ce90587072ec9f32c96046d740f75aa0b",
+    "item": {
+      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
+      "description": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025.\n\"The attackers used AI's 'agentic' capabilities to an unprecedented degree – using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
+      "links": [
+        "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY97QHdgW3A2yfeWB2UxuJM7ifkyjOUt1JChYPaaZbJS5U-bM9KXmk6rhlQ1jzoNZVVBURL6dkmPqi-ysMBfttQo-LLngJy-fQV6bpTQe6o9TcDy2Qsy8GhhUsSQ4ZV7_a6yjc9vcMl7g7EJI1YNNei1lKxzC3jg3UPvyJCYmgCdW9HjyTU7_VubEBAv0X/s1600/ai-hacking.jpg"
+      },
+      "published": "2025-11-14T09:53:00Z"
+    }
+  },
+  {
+    "hash": "e5827fdcfbaa3ff05a9af561567ea351235d8adcecfd243234f54e882cdf53cd",
+    "item": {
+      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
+      "description": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb WAF that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb product,\" Benjamin Harris,",
+      "links": [
+        "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
+      },
+      "published": "2025-11-14T09:00:00Z"
+    }
+  },
+  {
+    "hash": "c232f28faaf751cc796319b3a6d596675ad9335bafbcb19a5ce0e69ca34edd7c",
+    "item": {
+      "title": "Why Is Crypto Down Today? – November 14, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today. BTC fell to $97,033, and ETH dropped to $3,208. “Bitcoin appears to be fighting one battle after another,” dragged down by a number of key factors.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-november-14-2025/\"\u003eWhy Is Crypto Down Today? – November 14, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-november-14-2025/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "Ethereum",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14100058/1763114458-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-11-14T12:11:55Z"
+    }
+  },
+  {
+    "hash": "c0caa13bd980af50ddf388a9dc53a1f67eae55f8bbb56ad2a2c320b8a312c35b",
+    "item": {
+      "title": "The Risk Management Handbook for Crypto Futures Margin Traders",
+      "description": "\u003cp\u003eThis guide explains how initial and maintenance margin work, how margin trading differs from loan-based leverage, and which risk management practices help preserve capital in volatile markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/the-risk-management-handbook-for-crypto-futures-margin-traders/\"\u003eThe Risk Management Handbook for Crypto Futures Margin Traders\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/the-risk-management-handbook-for-crypto-futures-margin-traders/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Trading"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14110200/1763118120-margin-traders.jpg"
+      },
+      "published": "2025-11-14T11:05:37Z"
+    }
+  },
+  {
+    "hash": "33ac242a296b26be0aebd18c6a45b221f59191189843748f1cea14ea6794fdf6",
+    "item": {
+      "title": "Understanding Why Shifts in the Market Matter for Bitcoin’s Price",
+      "description": "\u003cp\u003eBitcoin is undoubtedly the crypto market leader by sheer value, and the factors that influence it continue to guide the rest of the market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/understanding-why-shifts-in-the-market-matter-for-bitcoins-price/\"\u003eUnderstanding Why Shifts in the Market Matter for Bitcoin\u0026#8217;s Price\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/understanding-why-shifts-in-the-market-matter-for-bitcoins-price/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Bitcoin",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14104357/1763117036-bitcoin.jpg"
+      },
+      "published": "2025-11-14T10:46:53Z"
+    }
+  },
+  {
+    "hash": "4e97f70c16308817699c8703e3b4e1b796f0f31d3a2d0a733fe32a138f8ab173",
+    "item": {
+      "title": "Bitcoin Whales Dump 29,400 BTC at a Loss — But Analysts Say Stay Calm",
+      "description": "\u003cp\u003eBitcoin faces selling pressure as short-term holders dump 29,400 BTC at a loss and long-term holders distribute 815,000 BTC over the past month, though on-chain data suggests typical bull-market profit-taking rather than market capitulation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-whales-dump-29400-btc-at-a-loss-but-analysts-say-stay-calm/\"\u003eBitcoin Whales Dump 29,400 BTC at a Loss — But Analysts Say Stay Calm\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-whales-dump-29400-btc-at-a-loss-but-analysts-say-stay-calm/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Bitcoin Whale"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14102724/1763116043-stock-image_optimized-12.jpg"
+      },
+      "published": "2025-11-14T10:43:33Z"
+    }
+  },
+  {
+    "hash": "2680e93c3aa73f01093135b579b230fab7605134bd5c71535fb6416807aeeb1a",
+    "item": {
+      "title": "Aave Labs Secures MiCA Authorization to Offer Regulated Stablecoin Ramps Across Europe",
+      "description": "\u003cp\u003eAave Labs secured MiCA authorization, allowing Push to operate euro-to-crypto stablecoin ramps across the EU.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/aave-labs-secures-mica-authorization-to-offer-regulated-stablecoin-ramps-across-europe/\"\u003eAave Labs Secures MiCA Authorization to Offer Regulated Stablecoin Ramps Across Europe\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/aave-labs-secures-mica-authorization-to-offer-regulated-stablecoin-ramps-across-europe/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Aave",
+        "Europe",
+        "MiCA"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14094831/1763113710-1737128691-image-1737128617241_optimized.jpg"
+      },
+      "published": "2025-11-14T10:42:58Z"
+    }
+  },
+  {
+    "hash": "f518f24e1d2c076554a63b658b00debbf5ec178dee2959460ad4dc2fcad42d6a",
+    "item": {
+      "title": "Coinbase Slams Banks for Trying to Ban Stablecoin Rewards",
+      "description": "\u003cp\u003eCoinbase accuses banking associations of illegally expanding the GENIUS Act's interest prohibition to include merchant rewards and third-party benefits, while simultaneously launching a UK savings account amid similar regulatory battles overseas.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-slams-banks-for-trying-to-ban-stablecoin-rewards/\"\u003eCoinbase Slams Banks for Trying to Ban Stablecoin Rewards\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-slams-banks-for-trying-to-ban-stablecoin-rewards/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Coinbase",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14104215/1763116934-image-1763116709206_optimized.jpg"
+      },
+      "published": "2025-11-14T10:42:32Z"
+    }
+  },
+  {
+    "hash": "bc7b03d1d558a5375cf18f26383a93990c6cd9c9baeccf5788084a4cf30251f1",
+    "item": {
+      "title": "How Ethereum is Paving the Way for DeFi’s Future",
+      "description": "\u003cp\u003eEthereum has continued to play a dominant role in the decentralized finance (DeFi) ecosystem. For applications that change so quickly, it is perhaps surprising that anything has managed to maintain consistency; yet, Ethereum has remained a key contender for developers.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/how-ethereum-is-paving-the-way-for-defis-future/\"\u003eHow Ethereum is Paving the Way for DeFi’s Future\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/how-ethereum-is-paving-the-way-for-defis-future/"
+      ],
+      "categories": [
+        "Press Releases",
+        "DeFi",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/14103011/1763116211-ethereum.jpg"
+      },
+      "published": "2025-11-14T10:33:19Z"
+    }
   }
 ]
