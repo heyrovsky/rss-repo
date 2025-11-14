@@ -1,0 +1,433 @@
+[
+  {
+    "hash": "15a6cfc381fa122ab0bd50993db08a63d4da0474fb5e00c45e55cd4bf03818b7",
+    "item": {
+      "title": "Two new stable kernels",
+      "description": "\u003cp\u003eGreg Kroah-Hartman has announced the release of the \u003ca\nhref=\"https://lwn.net/Articles/1046412/\"\u003e6.17.8\u003c/a\u003e and \u003ca\nhref=\"https://lwn.net/Articles/1046411/\"\u003e6.12.58\u003c/a\u003e stable kernels. Each contains an\nimportant set of fixes. Users are advised to upgrade.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1046410/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-13T22:20:06Z"
+    }
+  },
+  {
+    "hash": "b8b1a225e75c37196b39f36b3959d826878b3376fc267867b3cde148bd24bc58",
+    "item": {
+      "title": "This flu season looks grim as H3N2 emerges with mutations",
+      "description": "UK facing one of worst flu seasons in history—and the US is next.",
+      "links": [
+        "https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/"
+      ],
+      "categories": [
+        "Health",
+        "flu",
+        "flu shot",
+        "H1Na",
+        "H3N2",
+        "uk",
+        "vaccination"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992-1152x648.jpg"
+      },
+      "published": "2025-11-13T23:22:41Z"
+    }
+  },
+  {
+    "hash": "59b1c86313e1f09a931fe7f85422d584e3f22902409b96167f145b79dba18955",
+    "item": {
+      "title": "Google claims win for everyone as text scammers lost their cloud server",
+      "description": "Text scam ringleader warned operations were disrupted on Telegram, Google says.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/"
+      ],
+      "categories": [
+        "Google",
+        "Policy",
+        "e-z pass scam",
+        "google",
+        "Lighthouse",
+        "phishing",
+        "text scams"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1467743069-1152x648.jpg"
+      },
+      "published": "2025-11-13T22:10:13Z"
+    }
+  },
+  {
+    "hash": "ba589b3550addfc9d9979ff22470c16c43c8241242820243ae24f18478ab622c",
+    "item": {
+      "title": "Are you ready for a $1,000 Steam Machine? Some analysts think you should be.",
+      "description": "Tariffs, component volatility, and Valve's tolerance for losses all lead to uncertainty.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/11/are-you-ready-for-a-1000-steam-machine-some-analysts-think-you-should-be/"
+      ],
+      "categories": [
+        "Gaming",
+        "Analysts",
+        "components",
+        "hardware",
+        "steam machine",
+        "steam machines",
+        "tariff",
+        "Valve"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_ledStrip-1152x648.jpg"
+      },
+      "published": "2025-11-13T21:57:52Z"
+    }
+  },
+  {
+    "hash": "e54ee4de9a7d54dba4024fc272ced4b10871307939d7673a293769b9c9a0552f",
+    "item": {
+      "title": "Tiny chips hitch a ride on immune cells to sites of inflammation",
+      "description": "Tiny chips can be powered by infrared light if they're near the brain's surface.",
+      "links": [
+        "https://arstechnica.com/science/2025/11/tiny-chips-hitch-a-ride-on-immune-cells-to-sites-of-inflammation/"
+      ],
+      "categories": [
+        "Science",
+        "Biology",
+        "brain-computer interactions",
+        "cells",
+        "electronics",
+        "sensors"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cell-chip-1152x648.jpeg"
+      },
+      "published": "2025-11-13T21:11:18Z"
+    }
+  },
+  {
+    "hash": "fa7dccaa3e4c5f869be69561beadff826e1d13194c735b4b7b14742ba42efc88",
+    "item": {
+      "title": "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45920677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openmanet.net/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T21:18:14Z"
+    }
+  },
+  {
+    "hash": "5ff68f6643fc3ae93b57eb6ea39a50c29cd1c240fbcbcd65ece4098de4098566",
+    "item": {
+      "title": "650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45920881\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T21:33:26Z"
+    }
+  },
+  {
+    "hash": "860d8a788cf0a9685f0f891886257d37049331bd0cb2dd8d5e0e8d8fe3922140",
+    "item": {
+      "title": "Blue Origin lands New Glenn rocket booster on second try",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45920748\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T21:24:25Z"
+    }
+  },
+  {
+    "hash": "59a0aad1745b6107ecc162038273e45634e8b9bed4d6a45987eeae665fda6812",
+    "item": {
+      "title": "Why do we need dithering?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45814939\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T19:27:55Z"
+    }
+  },
+  {
+    "hash": "c671f07bf435c616e37c22293c32139acac8f6f07f5c2336e30ffee01a9ed163",
+    "item": {
+      "title": "Itiner-E – The Digital Atlas of Ancient Roads",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45839822\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://itiner-e.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T20:13:35Z"
+    }
+  },
+  {
+    "hash": "0180338de63309acc310fd4eb8ed347ddb0bf5d04ff5c8174e3f7b00c45dcd47",
+    "item": {
+      "title": "The emergence and diversification of dog morphology",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45921861\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/doi/10.1126/science.adt0995"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T23:01:21Z"
+    }
+  },
+  {
+    "hash": "ebaf37b512ab047f1bb36d3f6b0b86e62af4f36394cb925b88811c0d16afeb7c",
+    "item": {
+      "title": "How to fix subsystem request failed on channel 0",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45840260\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T20:50:52Z"
+    }
+  },
+  {
+    "hash": "ff94d09156ceda5e47594270efc5a8e22f96a3668e3a6bc8ec71f2d04975e1ce",
+    "item": {
+      "title": "The Grand Egyptian Museum's Astonishing Arrival",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45848409\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.wsj.com/arts-culture/fine-art/the-grand-egyptian-museums-astonishing-arrival-ac477d5f"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-07T16:58:08Z"
+    }
+  },
+  {
+    "hash": "f869a656eb149ee10c64f7af8f3bf2b01a328944dd9ec196775fffa33d5a9b77",
+    "item": {
+      "title": "Proton 10.0-3 Released For Steam Play With Dozens Of Fixes, More Games Working",
+      "description": "Valve and CodeWeavers today released Proton 10.0-3 as the newest stable update to this Wine-based software that powers Steam Play for enabling countless Windows games to run often extremely well under Linux...",
+      "links": [
+        "https://www.phoronix.com/news/Proton-10.0-3-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-13T22:32:27Z"
+    }
+  },
+  {
+    "hash": "157ea6de68b35e60b6a33516dc7adbe8e19aca15e0bb9d535e7ac6d49af3b90c",
+    "item": {
+      "title": "XRP Price Prediction: First U.S. Spot ETF Goes Live Today – Breakout to $100 Starting?",
+      "description": "\u003cp\u003eThe first spot exchange-traded fund (ETF) linked to XRP will finally hit the U.S. capital markets today, favoring a bullish XRP price prediction at a point when institutional adoption is rapidly rising.Canary Capital will be the first asset management firm to get an XRP spot ETF approved by the U.S. Securities and Exchange Commission (SEC). [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-first-u-s-spot-etf-goes-live-today-breakout-to-100-starting/\"\u003eXRP Price Prediction: First U.S. Spot ETF Goes Live Today – Breakout to $100 Starting?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-first-u-s-spot-etf-goes-live-today-breakout-to-100-starting/"
+      ],
+      "categories": [
+        "News",
+        "price analysis",
+        "XRP",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13112422/1763033061-xrp-price-prediction-10.jpg"
+      },
+      "published": "2025-11-13T23:31:00Z"
+    }
+  },
+  {
+    "hash": "9122124eac23eac9c155637a63568ff5a7f083b60c4560aa7f277cfad58e26fe",
+    "item": {
+      "title": "Best New Meme Coin to Buy Today – 13 November",
+      "description": "\u003cp\u003eIn a weak crypto market, PEPENODE has been cast as the best new meme coin, combining a mine-to-earn platform, virtual mining rigs and staking rewards, as its ERC-20 presale has raised $2.1 million and prepared for an upcoming exchange listing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-new-meme-coin-to-buy-today-13-november/\"\u003eBest New Meme Coin to Buy Today – 13 November\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-new-meme-coin-to-buy-today-13-november/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Crypto Presale",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13115855/1763035135-best-new-meme-coin-to-buy-today.jpg"
+      },
+      "published": "2025-11-13T23:30:00Z"
+    }
+  },
+  {
+    "hash": "a73857a0472d5e18b71916acae6c66cf4edee76cb9ab3aae96d8c6d81e722753",
+    "item": {
+      "title": "Crypto Treasuries Turn Defensive as Solana Upexi’s Buyback Adds to Growing DAT Trend",
+      "description": "\u003cp\u003eUpexi has authorized a $50M share buyback after a 47% stock drop, while holding roughly 2 million SOL on its balance sheet. Institutional Solana treasuries have largely maintained positions even as many stocks trade below their Solana-backed net asset value.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-treasuries-defensive-upexi-solana-buyback/\"\u003eCrypto Treasuries Turn Defensive as Solana Upexi’s Buyback Adds to Growing DAT Trend\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-treasuries-defensive-upexi-solana-buyback/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Buyback Program",
+        "Digital Asset Treasury",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13223131/1763073090-3284aed0-c184-4968-880e-1e0294ef2973_optimized.png"
+      },
+      "published": "2025-11-13T23:00:41Z"
+    }
+  },
+  {
+    "hash": "75ecd99f2db961a72b7cf02c9b8e5a1facfc99656cfc77fed2de27a32f747669",
+    "item": {
+      "title": "Strange New Chinese AI ‘KIMI’ Predicts Predicts the Price of XRP, Cardano, Pi Coin by the End of 2025",
+      "description": "\u003cp\u003eKIMI AI has outlined bullish scenarios for XRP, Cardano and Pi Network as risk appetite has improved after the Fed rate cut, noting upside from regulation, DeFi growth and new partnerships, while Maxi Doge has drawn attention as a high-risk meme coin presale with active staking across markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strange-new-chinese-ai-kimi-predicts-predicts-the-price-of-xrp-cardano-pi-coin-by-the-end-of-2025/\"\u003eStrange New Chinese AI \u0026#8216;KIMI\u0026#8217; Predicts Predicts the Price of XRP, Cardano, Pi Coin by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strange-new-chinese-ai-kimi-predicts-predicts-the-price-of-xrp-cardano-pi-coin-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cardano",
+        "Pi Network",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13121936/Strange-New-Chinese-AI-KIMI-Predicts-the-Price.jpg"
+      },
+      "published": "2025-11-13T22:35:00Z"
+    }
+  },
+  {
+    "hash": "a22e671b8c071adf5447339eb7c8ddeb1efee6baadb79bae832df4a11459776c",
+    "item": {
+      "title": "Best Crypto to Buy Now 13 November – XRP, Solana, Bitcoin",
+      "description": "\u003cp\u003eFollowing Bitcoin’s surge to $126,080 and a tariff-driven correction, analysts have assessed XRP, Solana, Bitcoin and Bitcoin Hyper as Best Crypto candidates for the next cycle, citing ETF approvals, stablecoin development, presale funding and potential U.S. reforms under Project Crypto.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-13-november-xrp-solana-bitcoin/\"\u003eBest Crypto to Buy Now 13 November – XRP, Solana, Bitcoin\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-13-november-xrp-solana-bitcoin/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Bitcoin",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13120840/Best-Crypto-to-Buy-Now-1-2.jpg"
+      },
+      "published": "2025-11-13T22:35:00Z"
+    }
+  },
+  {
+    "hash": "68a9e07d46fc9909d0c356b987788f612e5d20a6a4e041bbf81cd18c15bfb903",
+    "item": {
+      "title": "Trump Signs Bill Ending Longest Government Shutdown In U.S. History",
+      "description": "\u003cp\u003eDonald Trump has signed a bill ending the longest Government shutdown. Funding has covered agencies through January, a mid-December vote on health care tax credits has been set, and senators have released a crypto draft expanding CFTC oversight. Kevin Hassett has estimated 60,000 private jobs lost.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/trump-signs-bill-ending-longest-government-shutdown-in-u-s-history/\"\u003eTrump Signs Bill Ending Longest Government Shutdown In U.S. History\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/trump-signs-bill-ending-longest-government-shutdown-in-u-s-history/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Crypto Policy",
+        "Donald Trump",
+        "Elizabeth Warren"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13215403/1763070842-julia_63915_exterior_shot_of_the_white_house_6eeeefab-0e18-46e3-b61a-c57cb5020499-png-2_optimized.jpg"
+      },
+      "published": "2025-11-13T22:28:51Z"
+    }
+  },
+  {
+    "hash": "af58e0396949d43af448722f589fc0b2f05e73bf74dbe58c3623423b7770a037",
+    "item": {
+      "title": "Czech Central Bank Dips Into Bitcoin With $1M ‘Test Portfolio’ – A Shift in Strategy?",
+      "description": "\u003cp\u003eThe Czech Central Bank has launched a $1M Bitcoin, stablecoin, and tokenized deposit test portfolio to study custody, compliance, and on-chain operations, gaining hands-on experience with digital assets while leaving its €140B reserve strategy and koruna legal tender status intact.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/czech-central-bank-bitcoin-test-portfolio/\"\u003eCzech Central Bank Dips Into Bitcoin With $1M ‘Test Portfolio’ – A Shift in Strategy?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/czech-central-bank-bitcoin-test-portfolio/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Adoption",
+        "Bitcoin",
+        "Czech"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/13195520/1763063720-0_1-30_optimized.jpg"
+      },
+      "published": "2025-11-13T22:20:12Z"
+    }
+  }
+]
