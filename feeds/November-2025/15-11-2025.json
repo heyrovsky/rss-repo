@@ -2224,5 +2224,218 @@
       },
       "published": "2025-11-15T12:58:39Z"
     }
+  },
+  {
+    "hash": "ad11c75ed3b100638a69e3037644c31ff18e9bf5972f4a461f37d1c2964654bf",
+    "item": {
+      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+      "description": "The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution.\nThe vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the \"/bin/get/Main/",
+      "links": [
+        "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9TCTqd165bW145DBMR-qSAvHA1l2PjOb-YZw0aprmzJb9_qRQsz0ZNFZ6zsnvEDcsv4bMnOJcAUYTiBKOrbVuXOROUZ1ZG7imQnFIp6QouU3F5gG2i_pHkCiDW2khhHHdVN2Ey-0_vDrdtB4AXyArktjeo6JLpAUowA2Lux2AHUarBJTHjcKS3lXz60e4/s1600/botnet.jpg"
+      },
+      "published": "2025-11-15T16:35:00Z"
+    }
+  },
+  {
+    "hash": "705240e03efd9fc0491621ba98fc6eb459b12fe03feabd3e9927905883bb0fe2",
+    "item": {
+      "title": "Windhawk Windows classic theme mod for Windows 11",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938723\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://windhawk.net/mods/classic-theme-enable"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T16:53:30Z"
+    }
+  },
+  {
+    "hash": "eb8601ba8893fbcec9b979cb4c1a0b40a8e728f1abe000f941114e18a8994e5e",
+    "item": {
+      "title": "Linux on the Fujitsu Lifebook U729",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45937989\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T15:19:20Z"
+    }
+  },
+  {
+    "hash": "56568ff4dbada7a6ed43408e1c1c646172e7f0dcb27c8243228b6fbeb1b90632",
+    "item": {
+      "title": "Wealth",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938427\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://saul.pw/mag/wealth/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T16:16:42Z"
+    }
+  },
+  {
+    "hash": "3a278df75af46df4d0be3e52cc2cc365b2a8cec064ee475b2c64eb422f4535e6",
+    "item": {
+      "title": "Weighting an average to minimize variance",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938027\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.johndcook.com/blog/2025/11/12/minimum-variance/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T15:25:08Z"
+    }
+  },
+  {
+    "hash": "e9d0e4f925b2d64cd0784e128fb3f4d3e98509f52c0e55e50af5b5812b795f8f",
+    "item": {
+      "title": "TCP, the workhorse of the internet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45935503\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cefboud.com/posts/tcp-deep-dive-internals/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T06:37:50Z"
+    }
+  },
+  {
+    "hash": "7dd832eadc2f0ab5c477f797dfaeaa87e07010b06cdac65df611081f4cf14693",
+    "item": {
+      "title": "Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938785\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T17:00:38Z"
+    }
+  },
+  {
+    "hash": "fd8100773fa42009706524d4f127e237532327e9e343ffad2dfadfa6f3156c22",
+    "item": {
+      "title": "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45832051\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/boa-dev/boa"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T06:15:43Z"
+    }
+  },
+  {
+    "hash": "a17198bce00807d0a0c02aa86b7127288b99ffa4a182275b5ebea4c98cc83ccf",
+    "item": {
+      "title": "I implemented an ISO 42001-certified AI Governance program in 6 months",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938815\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://beabytes.com/iso42001-certified-ai-governance/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T17:04:23Z"
+    }
+  },
+  {
+    "hash": "ce2507286531ff735899bc75895986e071585b3169c44aabed09fd78af3ccaa4",
+    "item": {
+      "title": "Messing with scraper bots",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45935729\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://herman.bearblog.dev/messing-with-bots/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T07:38:18Z"
+    }
+  },
+  {
+    "hash": "5d97b33c08bfcfa76d9c8fc3f15ef018132f60a85b3ba53037204814ad617a8e",
+    "item": {
+      "title": "The Mighty Simplex (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938698\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T16:49:49Z"
+    }
+  },
+  {
+    "hash": "e542fb22751b9b741daf75d0b2077d396622df2a9c5e506fd8506b7eaea2dead",
+    "item": {
+      "title": "How to tolerate annoying things",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45937816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://psyche.co/guides/how-to-respond-to-annoying-things-with-greater-ease"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T14:53:09Z"
+    }
+  },
+  {
+    "hash": "f3e1c89b1e226f4bb979633200c3e8f8c3a9836972d5da6a7e242a61930ec227",
+    "item": {
+      "title": "Strap Rail",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45839834\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.construction-physics.com/p/strap-rail"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-06T20:14:24Z"
+    }
+  },
+  {
+    "hash": "337d628dbd546acc65af97f027e553d2a2ba328ec3f3a11fc8041bed1ee727a2",
+    "item": {
+      "title": "Designing a Language (2017)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45935342\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cs.lmu.edu/~ray/notes/languagedesignnotes/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T05:44:43Z"
+    }
+  },
+  {
+    "hash": "58e1cfedd0778478b9003b2a60e2ca7fcfea56ff88320c29d5357bc81caa3be0",
+    "item": {
+      "title": "Streaming AI agent desktops with gaming protocols",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45825121\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.helix.ml/p/technical-deep-dive-on-streaming"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-05T16:59:08Z"
+    }
+  },
+  {
+    "hash": "fb7c94379477ebe3d67cf0561b9c08e9acc74ec4da5400d13f1fecc395274797",
+    "item": {
+      "title": "Lawmakers want to ban VPNs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45924483\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-14T06:39:13Z"
+    }
+  },
+  {
+    "hash": "7bcd78231564439e682f54eb37d74e50bf9fbcade2fcd474d9c72a4d3fb902d0",
+    "item": {
+      "title": "Color Comparison Between E Ink's Spectra 6 and ChLCD",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788564\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://iris-opt.com/en/blog/eink-spectra6-vs-chlcd/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-02T07:41:21Z"
+    }
   }
 ]
