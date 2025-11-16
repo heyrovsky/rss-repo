@@ -562,5 +562,477 @@
       },
       "published": "2025-11-16T08:18:13Z"
     }
+  },
+  {
+    "hash": "19fe75ef82b52efeed959ad05091759a3274e08c2f6b3733c22fd38d3f603050",
+    "item": {
+      "title": "Linux 6.19 Landing Initial Display Support For Xe3P_LPD / Nova Lake",
+      "description": "The upcoming Linux 6.19 kernel cycle is set to introduce initial Xe3P_LPD GPU support for Nova Lake as well as beginning to build out support for the Crescent Island graphics card. Now joining DRM-Next with that initial Intel Xe3P_LPD code for Linux 6.19 is being able to drive displays with that Xe3 hardware...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Xe3P-LPD-Display-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-16T11:47:19Z"
+    }
+  },
+  {
+    "hash": "c2ed0d9df529541b7da82e370e47c2ca47696231df75a8d4990cfef772e7a59e",
+    "item": {
+      "title": "NVIDIA Linux Engineer Highlights The Need For Unifying DRM Driver-Side API",
+      "description": "One of the NVIDIA presentations at the recent XDC2025 developer conference was not around the NVIDIA driver itself but the ongoing fragmentation that's happening within the Linux Direct Rendering Manager (DRM) subsystem and arguing the need for unifying more driver-side APIs for supporting different Linux DRM clinets...",
+      "links": [
+        "https://www.phoronix.com/news/NVIDIA-Less-DRM-API-Fragments"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-16T11:37:18Z"
+    }
+  },
+  {
+    "hash": "764bccd31b1b16ea8925bf3bc5cd939f802a7e9ede3508fdc7f43b3606cabadc",
+    "item": {
+      "title": "GCC Developer Discovers \"Our Codebase Isn't Fully C++20 Ready\"",
+      "description": "Following the recent idea floated to consider C++20 as the default C++ language dialect by the GCC compiler rather than C++17, it was discovered that the GNU Compiler Collection itself has problems building in C++20 model...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-Fix-CPP20-Build-Issues"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-16T11:25:05Z"
+    }
+  },
+  {
+    "hash": "2f2b6ea32037378225eadcf64f6aa5229abc76af179d95c83c51d221f88e1915",
+    "item": {
+      "title": "PureAudio Lotus DAC5 \u0026 Other PureAudio Hardware Supported For Linux 6.18",
+      "description": "As part of this week's sound subsystem fixes ahead of today's Linux 6.18-rc6 kernel release is adding some quirks for supporting the PureAudio Lotus DAC5 and other PureAudio audio hardware...",
+      "links": [
+        "https://www.phoronix.com/news/PureAudio-DAC-Linux-6.18-Audio"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-16T11:05:04Z"
+    }
+  },
+  {
+    "hash": "8c960d578f16ce59d15a8a1b83989f4f5ccaef1dd445c0a605a2e72af5f3f765",
+    "item": {
+      "title": "An AI By Any Other Name",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"423\" src=\"https://hackaday.com/wp-content/uploads/2025/11/diff800.gif?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" data-attachment-id=\"875279\" data-permalink=\"https://hackaday.com/2025/11/16/an-ai-by-any-other-name/diff800/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/diff800.gif\" data-orig-size=\"800,423\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"diff800\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/diff800.gif?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/diff800.gif?w=800\" /\u003e\u003c/div\u003eWhile there are many AI programs these days, they don\u0026#8217;t all work in the same way. Most large language model \u0026#8220;chatbots\u0026#8221; generate text by taking input tokens and predicting the \u003ca href=\"https://hackaday.com/2025/11/16/an-ai-by-any-other-name/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/16/an-ai-by-any-other-name/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "stable diffusion"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/diff800.gif"
+      },
+      "published": "2025-11-16T12:00:00Z"
+    }
+  },
+  {
+    "hash": "b43e615460126fff765aa7e9bfbf6323bd201dcf8010cd191ddaf617132265a3",
+    "item": {
+      "title": "Making a Machine to Sort One Million Pounds of LEGO",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A photo of the LEGO sorter\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg 1816w, https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"875331\" data-permalink=\"https://hackaday.com/2025/11/16/making-a-machine-to-sort-one-million-pounds-of-lego/lego-sorter-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg\" data-orig-size=\"1816,1022\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"LEGO-sorter-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg?w=800\" /\u003e\u003c/div\u003eYou know what\u0026#8217;s not fun? Sorting LEGO. You know what is fun? Making a machine to sort LEGO! That\u0026#8217;s what [LegoSpencer] did, and you can watch the machine do its \u003ca href=\"https://hackaday.com/2025/11/16/making-a-machine-to-sort-one-million-pounds-of-lego/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/16/making-a-machine-to-sort-one-million-pounds-of-lego/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "Artificial Intelligence",
+        "hardware",
+        "lego",
+        "sorting machine"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "John Elliot V"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/LEGO-sorter-banner.jpg"
+      },
+      "published": "2025-11-16T09:00:01Z"
+    }
+  },
+  {
+    "hash": "d9caa194a23d9a92440bc7b11e0e626b5545ab21abfffa1f4b0d012d2dc37026",
+    "item": {
+      "title": "The Fastest (68k) Macintosh Might Not Be an Amiga Anymore",
+      "description": "\u003cdiv\u003e\u003cimg width=\"625\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2025/11/Mac68060-e1763156374360.jpg?w=625\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" data-attachment-id=\"875243\" data-permalink=\"https://hackaday.com/2025/11/15/the-fastest-68k-macintosh-might-not-be-an-amiga-anymore/mac68060/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/Mac68060-e1763156374360.jpg\" data-orig-size=\"1076,1076\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Mac68060\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/Mac68060-e1763156374360.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/Mac68060-e1763156374360.jpg?w=625\" /\u003e\u003c/div\u003eAmiga and Atari fans used to lord over their Apple-eating brethren the fact that Cupertino never moved to the most advanced 68k processors \u0026#8212; so for a while, thanks to \u003ca href=\"https://hackaday.com/2025/11/15/the-fastest-68k-macintosh-might-not-be-an-amiga-anymore/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/15/the-fastest-68k-macintosh-might-not-be-an-amiga-anymore/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "68060",
+        "m68k",
+        "macintosh"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/Mac68060-e1763156374360.jpg"
+      },
+      "published": "2025-11-16T06:00:39Z"
+    }
+  },
+  {
+    "hash": "22a89a7f23d48d1ae5a474eef44f67086f06a4da3aa0570c386621446188f04d",
+    "item": {
+      "title": "Hyundai Paywalls Brake Pad Changes",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A baby blue hatchback with red accents drives down a road with blurry trees and a blue sky in the background.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg 1770w, https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"875285\" data-permalink=\"https://hackaday.com/2025/11/15/hyundai-paywalls-brake-pad-changes/hyundai-uk-ioniq-5-n-performance-blue/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg\" data-orig-size=\"1770,996\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"hyundai-uk-ioniq-5-n-performance-blue\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?w=800\" /\u003e\u003c/div\u003eChanging the pads on your car\u0026#8217;s brakes is a pretty straightforward and inexpensive process on most vehicles. However, many modern vehicles having electronic parking brakes giving manufacturers a new avenue \u003ca href=\"https://hackaday.com/2025/11/15/hyundai-paywalls-brake-pad-changes/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/15/hyundai-paywalls-brake-pad-changes/"
+      ],
+      "categories": [
+        "News",
+        "Transportation Hacks",
+        "automotive as a service",
+        "brakes",
+        "right to repair"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Navarre Bartz"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg"
+      },
+      "published": "2025-11-16T03:00:23Z"
+    }
+  },
+  {
+    "hash": "b94b323f71e42d3b62d8bbb64950a2087c761443b871db5c412439f6155c0384",
+    "item": {
+      "title": "(Neural) Networking with a Business Card",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A circuit board in the shape of a business card is shown. The circuitry is confined to the left side of the board, and the rest is used for text.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png 965w, https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"875273\" data-permalink=\"https://hackaday.com/2025/11/15/neural-networking-with-a-business-card/voice_recognition_business_card/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png\" data-orig-size=\"965,543\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"voice_recognition_business_card\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png?w=800\" /\u003e\u003c/div\u003eA PCB business card is a great way for electrical engineers to impress employers with their design skills, but the software they run can be just as impressive as the \u003ca href=\"https://hackaday.com/2025/11/15/neural-networking-with-a-business-card/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/11/15/neural-networking-with-a-business-card/"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "PCB Hacks",
+        "business card",
+        "circuit board business card",
+        "rp2040",
+        "speech recognition",
+        "voice recognition"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/voice_recognition_business_card.png"
+      },
+      "published": "2025-11-16T00:00:35Z"
+    }
+  },
+  {
+    "hash": "2a3aafa9e07baffc3a474d1e4ac38cc0d7d3b7a863c6edec038d5cb9430e9d99",
+    "item": {
+      "title": "Anthropic's report smells a lot like bullshit",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944296\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T11:32:39Z"
+    }
+  },
+  {
+    "hash": "a0e97a9d34ab5d67341356d3ea5b1ef0d987abc1a06b38cdd9a866de8a3e9fed",
+    "item": {
+      "title": "Maybe You're Not Actually Trying",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943979\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T10:14:25Z"
+    }
+  },
+  {
+    "hash": "59ef83db392d90e17fa727fcffae16c983a35147735a3617cbed8e7f1e7391a0",
+    "item": {
+      "title": "Run Nix Based Environments in Kubernetes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45876884\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flox.dev/kubernetes/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-10T15:27:42Z"
+    }
+  },
+  {
+    "hash": "4ab59e2632226d312889dceaac6abe11bf9a26f39814ef9063e0d323fc554777",
+    "item": {
+      "title": "Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943486\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0\u0026e=1\u0026noscript=1\u0026preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf\u0026rlkey=43f3smc5zi5v82h986hujmvfb"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T07:55:09Z"
+    }
+  },
+  {
+    "hash": "a03fa8473a5ac5cd3b9b523bdc127d20c2f3928a8f6a5f16f4a53e4fb1becc77",
+    "item": {
+      "title": "Why I Don't Need a Steam Machine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943992\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T10:21:07Z"
+    }
+  },
+  {
+    "hash": "d96fd7b03da7f9cfba1f4f66c26e0a74d87306df153ad1ba17c7fbb27bc82ac4",
+    "item": {
+      "title": "libwifi: an 802.11 frame parsing and generation library written in C (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45941025\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://libwifi.so/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T22:16:33Z"
+    }
+  },
+  {
+    "hash": "7fc2e3242a8675562b6346dccbd352eb15975d35a3ed160828c44415f71b6b3b",
+    "item": {
+      "title": "In Praise of Useless Robots",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45910388\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thereader.mitpress.mit.edu/in-praise-of-useless-robots/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T03:50:11Z"
+    }
+  },
+  {
+    "hash": "96450b17c50f32490212973d8c6448ed646c4ed55fbcd9788c4c90b84182cb80",
+    "item": {
+      "title": "Bypassing the Branch Predictor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943279\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T06:51:25Z"
+    }
+  },
+  {
+    "hash": "1c0e1601be7d5930fcdf4f5c406be4023064e658c7c33db1390869397dc92d63",
+    "item": {
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944056\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/c051y3d7myzo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T10:38:41Z"
+    }
+  },
+  {
+    "hash": "2789972a73d289f9876b7cabee24180c69942068c05a5a294b9448f2cb351a1e",
+    "item": {
+      "title": "Show HN: Real-time 4D Julia set navigation via gamepad",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45895864\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://banditcat.github.io/Atlas/Atlas.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T02:46:39Z"
+    }
+  },
+  {
+    "hash": "0b5da2333e9bfa976457250052ee5c950acbc9fb85b104027b150ac03538f79f",
+    "item": {
+      "title": "An exposed .git folder let us dox a phishing campaign",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943802\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=45943802"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T09:29:21Z"
+    }
+  },
+  {
+    "hash": "e5ff823a3a715aaccf6ec55c3c78ba3cc2c846075b650748e3e3e4e36881e226",
+    "item": {
+      "title": "Writing a book with Quarto",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809225\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.stephenturner.us/p/quarto-books"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T10:03:40Z"
+    }
+  },
+  {
+    "hash": "71a8883ded1c8f62a21566efd1b681c02dfc4bae83b19943aa4b28e070573ec9",
+    "item": {
+      "title": "SpacePay: One of the Rising Platforms to Keep an Eye On This Year",
+      "description": "\u003cp\u003eSpacePay is a rising name in the crypto ecosystem. The project is making it possible to spend crypto as simply as tapping a card at a checkout counter.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/spacepay-one-of-the-rising-platforms-to-keep-an-eye-on-this-year/\"\u003eSpacePay: One of the Rising Platforms to Keep an Eye On This Year\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/spacepay-one-of-the-rising-platforms-to-keep-an-eye-on-this-year/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Crypto Payments"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/12140906/1762956545-spacepay.jpg"
+      },
+      "published": "2025-11-16T11:00:00Z"
+    }
+  },
+  {
+    "hash": "972009bdeaa1351e10201fdc0948bd7008f856e53890c6f24dc9d20c9807c4d1",
+    "item": {
+      "title": "Bitcoin Price Prediction: BTC Liquidity Crisis Looms? Bianco Ties 2025 Performance to This Key Chart Metric",
+      "description": "\u003cp\u003eBitcoin price prediction turns cautious as ETF inflow costs near $90K, unrealized profits shrink, and liquidity risks grow. Key levels signal volatility ahead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-btc-liquidity-crisis-looms-bianco-ties-2025-performance-to-this-key-chart-metric/\"\u003eBitcoin Price Prediction: BTC Liquidity Crisis Looms? Bianco Ties 2025 Performance to This Key Chart Metric\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-btc-liquidity-crisis-looms-bianco-ties-2025-performance-to-this-key-chart-metric/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17191357/1758136436-bitcoin-price-prediction-25.jpg"
+      },
+      "published": "2025-11-16T10:50:06Z"
+    }
+  },
+  {
+    "hash": "399491ee2e5e8a9ff85dfa7b5c4786d475100557751e07c76be57a97bc09cf83",
+    "item": {
+      "title": "Crypto Emerges as Key Tool in China’s Money Laundering Networks: Report",
+      "description": "\u003cp\u003eChinese money laundering networks are increasingly using Bitcoin and USDT to bypass strict capital controls.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-emerges-as-key-tool-in-chinas-money-laundering-networks-report/\"\u003eCrypto Emerges as Key Tool in China’s Money Laundering Networks: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-emerges-as-key-tool-in-chinas-money-laundering-networks-report/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "anti-money laundering",
+        "China",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/16075630/1763279789-image-1763279542226_optimized-2.jpg"
+      },
+      "published": "2025-11-16T09:43:57Z"
+    }
+  },
+  {
+    "hash": "53d56aa4d283c896d3328ddea3e4be2c83e66c9013039dfd5964ff44391386b8",
+    "item": {
+      "title": "Crypto-Friendly American Fast Food Chain Steak ‘n Shake Expands Into El Salvador",
+      "description": "\u003cp\u003eSteak ‘n Shake is expanding into El Salvador after becoming one of the most prominent US fast-food chains to adopt Bitcoin payments.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/crypto-friendly-american-fast-food-chain-steak-n-shake-expands-into-el-salvador/\"\u003eCrypto-Friendly American Fast Food Chain Steak ‘n Shake Expands Into El Salvador\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/crypto-friendly-american-fast-food-chain-steak-n-shake-expands-into-el-salvador/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "El Salvador"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/16075645/1763279804-image-1763279550227_optimized-2.jpg"
+      },
+      "published": "2025-11-16T09:42:22Z"
+    }
+  },
+  {
+    "hash": "6f62162b7d3b217552a165b8e54a1879f10dd54f2dc6aedc5cf3be7fd30fada5",
+    "item": {
+      "title": "US DOJ Seeks to Seize $15M in USDT Tied to North Korean Hackers",
+      "description": "\u003cp\u003eThe US DOJ is seeking to seize over $15 million in USDT tied to North Korean state-backed hacking unit APT38.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-doj-seeks-to-seize-15m-in-usdt-tied-to-north-korean-hackers/\"\u003eUS DOJ Seeks to Seize $15M in USDT Tied to North Korean Hackers\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-doj-seeks-to-seize-15m-in-usdt-tied-to-north-korean-hackers/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "DOJ",
+        "Hack",
+        "North Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/16075659/1763279818-image-1763279557062_optimized-2.jpg"
+      },
+      "published": "2025-11-16T09:40:16Z"
+    }
   }
 ]
