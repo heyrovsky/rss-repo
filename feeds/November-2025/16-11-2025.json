@@ -1034,5 +1034,505 @@
       },
       "published": "2025-11-16T09:40:16Z"
     }
+  },
+  {
+    "hash": "68c6d8db59f18b71519a01226a55191feba10d282d9e7764285e234874da4fe9",
+    "item": {
+      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944337\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Hans-Halverson/brimstone"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T11:41:10Z"
+    }
+  },
+  {
+    "hash": "c03cc4f850b681e14a9d27d48603ff211b1e508865b2a7927ac9e2e362b5cde9",
+    "item": {
+      "title": "Running the \"Reflections on Trusting Trust\" Compiler",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.swtch.com/nih"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T13:59:19Z"
+    }
+  },
+  {
+    "hash": "095c1bea9f8a64acc3a0a3006c495235b8f69efbf0c971375b2db7ff7afeb04a",
+    "item": {
+      "title": "The Internet Is No Longer a Safe Haven",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944870\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T13:12:03Z"
+    }
+  },
+  {
+    "hash": "46d9c1135a23e6465d2ca5471c52b159fe30e4c73526a28756e2ba702a7d1c52",
+    "item": {
+      "title": "The politics of purely client-side apps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945113\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pfrazee.leaflet.pub/3m5hwua4sh22v"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T13:45:35Z"
+    }
+  },
+  {
+    "hash": "634424ad42ed2589b2ea65dcfe55fdf8e0491297395a6fca61f480f6de9e8925",
+    "item": {
+      "title": "Measuring the doppler shift of WWVB during a flight",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45815948\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-04T21:12:57Z"
+    }
+  },
+  {
+    "hash": "12c5cd7b21d71ee06177e45c44d64042dbe07800b0ec2808cdca3006b2cd15e6",
+    "item": {
+      "title": "Maybe you’re not trying",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943979\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T10:14:25Z"
+    }
+  },
+  {
+    "hash": "afcb638a467058fef5e501cb50b762f493c46ef76e6152c3123fad168cff9ec4",
+    "item": {
+      "title": "My mum was a 17-year-old free spirit so she was locked up and put in a coma",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945101\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T13:44:20Z"
+    }
+  },
+  {
+    "hash": "89876cfab8c2943afeaf26376ae50c54bb409f65d0ffda0716c433b6f737d5c0",
+    "item": {
+      "title": "Denial of Fuzzing: Rust in the Windows Kernel",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45900947\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T14:51:50Z"
+    }
+  },
+  {
+    "hash": "a06ac6e4a981752f1e1dbb5cab48d02334d54e81d24c83a954771d641e9c7982",
+    "item": {
+      "title": "I don’t need a Steam Machine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943992\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T10:21:07Z"
+    }
+  },
+  {
+    "hash": "3448828b481289a4ae64ac401869ac8484fe4ca4251ce69501111d20005f7ae6",
+    "item": {
+      "title": "Why use OpenBSD?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944595\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T12:25:01Z"
+    }
+  },
+  {
+    "hash": "702557b985243cdc2b8b62241a3a487ae0402a661f4c190c7c50f312e186275b",
+    "item": {
+      "title": "“The Fall of Icarus”: Photograph of a falling skydiver in front of the Sun",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944158\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T11:02:25Z"
+    }
+  },
+  {
+    "hash": "c428a557de8ff8cc906f5cc1c944d86b578920ac505634380816725be7bd8a89",
+    "item": {
+      "title": "Alchemy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45868660\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://joshcollinsworth.com/blog/alchemy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-09T20:04:51Z"
+    }
+  },
+  {
+    "hash": "d5db84260022b0358bcabed3b6fe868862029d1b2be46047045346e0ae997d5e",
+    "item": {
+      "title": "Hedera (HBAR) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Hedera (HBAR) Price Prediction\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Hedera (HBAR) price prediction for 2025, 2026-2030, we will analyze the price patterns of HBAR by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Hedera (HBAR) Current Market Status What is Hedera (HBAR)? Hedera (HBAR) 24H Technicals HEDERA",
+      "links": [
+        "https://thenewscrypto.com/hedera-hbar-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera",
+        "Price Prdiction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/02/HBAR-PRICE-PREDICTION.jpg"
+      },
+      "published": "2025-11-15T15:40:29Z"
+    }
+  },
+  {
+    "hash": "00d64a3830f3385870c6e2fe64e4b6d1126c3983d8790844e318bb5225b4677c",
+    "item": {
+      "title": "IOTA (IOTA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/iota-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"IOTA (IOTA) Price Prediction 2025, 2026, 2027-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/iota-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/iota-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/iota-1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this IOTA (IOTA) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of IOTA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION IOTA (IOTA) Current Market Status What is IOTA (IOTA)? IOTA (IOTA) 24H Technicals IOTA (IOTA)",
+      "links": [
+        "https://thenewscrypto.com/iota-iota-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Cryptocurrency",
+        "IOTA",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Janani"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/iota-1.jpg"
+      },
+      "published": "2025-11-15T15:35:58Z"
+    }
+  },
+  {
+    "hash": "eed37a204b7f31e5609949f4c76b7f91f680c00dfecc6156da94e058a8e5aec6",
+    "item": {
+      "title": "Onyxcoin (XCN) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Onyxcoin (XCN) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOnyxcoin (XCN) price prediction 2025, 2026-2030, we will analyze the price patterns of XCN by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Onyxcoin (XCN) Current Market Status What is Onyxcoin (XCN)? Onyxcoin (XCN) 24H Technicals ONYXCOIN (XCN) PRICE PREDICTION",
+      "links": [
+        "https://thenewscrypto.com/onyxcoin-xcn-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Onyxcoin",
+        "price prediction",
+        "XCN"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/XCN-Price-prediction-design.jpg"
+      },
+      "published": "2025-11-15T15:28:20Z"
+    }
+  },
+  {
+    "hash": "15990071ba28e2938caddf239b4dae9f1c40597cbd1ad2344481276d03c21f74",
+    "item": {
+      "title": "Binance Coin (BNB) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Coin (BNB)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Binance Coin (BNB) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of BNB by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Binance Coin (BNB) Current Market Status What is Binance Coin (BNB)? Binance Coin (BNB)",
+      "links": [
+        "https://thenewscrypto.com/binance-coin-bnb-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Binance",
+        "BNB",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg"
+      },
+      "published": "2025-11-15T15:15:24Z"
+    }
+  },
+  {
+    "hash": "8a9ba84138f00a77ec2d81fb464aed79d903de80392ad742a42dbd310e938f1f",
+    "item": {
+      "title": "Official Trump (TRUMP) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Official Trump (TRUMP) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Official Trump (TRUMP) price prediction 2025, 2026-2030, we will analyze the price patterns of TRUMP by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Official Trump (TRUMP) Current Market Status What is Official Trump (TRUMP)? Official Trump (TRUMP)",
+      "links": [
+        "https://thenewscrypto.com/official-trump-trump-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "Price Prdiction",
+        "Trump Coin",
+        "Trump meme coin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarala"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/01/TRUMP_Price-prediction.jpg"
+      },
+      "published": "2025-11-15T14:54:29Z"
+    }
+  },
+  {
+    "hash": "583a1f9794ebb89a738eaa1ce7bbbf914de24c065eb9be2a42fd019588f0ec85",
+    "item": {
+      "title": "Key Levels in Sight: Will AAVE Bounce Off Support or Clash With Resistance?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Key-Levels-in-Sight-Will-AAVE-Bounce-Off-Support-or-Clash-With-Resistance.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Key Levels in Sight: Will AAVE Bounce Off Support or Clash With Resistance?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Key-Levels-in-Sight-Will-AAVE-Bounce-Off-Support-or-Clash-With-Resistance.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Key-Levels-in-Sight-Will-AAVE-Bounce-Off-Support-or-Clash-With-Resistance-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Key-Levels-in-Sight-Will-AAVE-Bounce-Off-Support-or-Clash-With-Resistance-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith a brief spike in the crypto market, both red and green waves are seen across the board. Significantly, the Fear and Greed Index value is found at 16, which reflects extreme fear sentiment. The largest asset, Bitcoin (BTC), is trading near $95.7K, while Ethereum (ETH), the largest altcoin, hovers",
+      "links": [
+        "https://thenewscrypto.com/key-levels-in-sight-will-aave-bounce-off-support-or-clash-with-resistance/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "AAVE",
+        "Altcoin",
+        "Cryptocurrency"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Key-Levels-in-Sight-Will-AAVE-Bounce-Off-Support-or-Clash-With-Resistance.jpg"
+      },
+      "published": "2025-11-15T13:31:47Z"
+    }
+  },
+  {
+    "hash": "1a3cc6b53cfcb411df10f470dcf21232192bec9f1f8fbed2a6d30891e5122a24",
+    "item": {
+      "title": "Bullish Whispers or Bearish Warnings: Which Way Will PENGU Sentiment Tilt?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Bullish-Whispers-or-Bearish-Warnings-Which-Way-Will-PENGU-Sentiment-Tilt.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bullish Whispers or Bearish Warnings: Which Way Will PENGU Sentiment Tilt?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Bullish-Whispers-or-Bearish-Warnings-Which-Way-Will-PENGU-Sentiment-Tilt.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Bullish-Whispers-or-Bearish-Warnings-Which-Way-Will-PENGU-Sentiment-Tilt-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Bullish-Whispers-or-Bearish-Warnings-Which-Way-Will-PENGU-Sentiment-Tilt-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto assets have been caught in the red zone for a very long time, failing to escape. With the Fear and Greed Index reading reaching the 16 mark, the market sentiment is trembling in extreme fear. As a result, all the major tokens are slipping to their former support",
+      "links": [
+        "https://thenewscrypto.com/bullish-whispers-or-bearish-warnings-which-way-will-pengu-sentiment-tilt/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "PENGU",
+        "Pudgy Penguins"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Bullish-Whispers-or-Bearish-Warnings-Which-Way-Will-PENGU-Sentiment-Tilt.jpg"
+      },
+      "published": "2025-11-15T11:09:59Z"
+    }
+  },
+  {
+    "hash": "3ed6d0c0d7baf9da96bd2e3b08d45e70bda0afb73d8fba3ae768d9b5356f86f2",
+    "item": {
+      "title": "NVIDIA Highlights The Shortcomings With Wayland Screencasting",
+      "description": "In addition to showing the need for unifying DRM driver-side APIs within the Linux kernel, NVIDIA's Linux graphics driver team at XDC2025 also showcased the shortcomings of screencasting under Wayland...",
+      "links": [
+        "https://www.phoronix.com/news/NVIDIA-Shortcomings-Screencast"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-16T14:57:49Z"
+    }
+  },
+  {
+    "hash": "d7f0104bb95fe9db1cac0e42d07607bfbe81574bb3bcedb77d8bf9d626cc6183",
+    "item": {
+      "title": "Qt Moves Away From Direct RDRAND/RDSEED Usage For Better Performance \u0026 Less Bugs",
+      "description": "The Qt toolkit is moving away from directly relying on the CPU's RDRAND and RDSEED instructions for random number generation and to instead rely on the OS-supplied entropy...",
+      "links": [
+        "https://www.phoronix.com/news/Qt-Moves-Off-RDRAND-RDSEED"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-16T13:02:45Z"
+    }
+  },
+  {
+    "hash": "b245d7017b613f081acb4b420444cafe1dedb9f762cca20cca4e857d8f396dae",
+    "item": {
+      "title": "The evolution of rationality: How chimps process conflicting evidence",
+      "description": "Chimps can take in new evidence, evaluate its strength, and change their minds. ",
+      "links": [
+        "https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/"
+      ],
+      "categories": [
+        "Science",
+        "Behavioral science",
+        "beliefs",
+        "Biology",
+        "chimps",
+        "evolution"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1451038709-1152x648.jpg"
+      },
+      "published": "2025-11-16T12:00:34Z"
+    }
+  },
+  {
+    "hash": "da0bb879b9378416a18d38d23ccf55fcfda6747814f1d8395e70e167b15ea8fd",
+    "item": {
+      "title": "Was CZ’s Pardon Bought? His Lawyer Says Media Got It Wrong",
+      "description": "\u003cp\u003eCZ's lawyer Teresa Goody Guillén rejects allegations that the former Binance CEO's presidential pardon involved pay-to-play arrangements, while Democratic senators demand investigations into financial connections with Trump's family crypto platform.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/was-czs-pardon-bought-his-lawyer-says-media-got-it-wrong/\"\u003eWas CZ\u0026#8217;s Pardon Bought? His Lawyer Says Media Got It Wrong\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/was-czs-pardon-bought-his-lawyer-says-media-got-it-wrong/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "CZ",
+        "Trump"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/16131414/1763298853-stock-image_optimized-7.jpg"
+      },
+      "published": "2025-11-16T13:42:44Z"
+    }
+  },
+  {
+    "hash": "f10ff847ff6b7cc434d4a906c57b316900f1113d52652ecc5668b631736f62a7",
+    "item": {
+      "title": "Scaramucci Family Pours $100M Into Trump Sons’ Bitcoin Mining Firm",
+      "description": "\u003cp\u003eThe Scaramucci family has poured over $100 million into American Bitcoin, the mining and treasury company cofounded by Eric Trump, as Bitcoin transcends political divisions between former adversaries.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/scaramucci-family-pours-100m-into-trump-sons-bitcoin-mining-firm/\"\u003eScaramucci Family Pours $100M Into Trump Sons\u0026#8217; Bitcoin Mining Firm\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/scaramucci-family-pours-100m-into-trump-sons-bitcoin-mining-firm/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin Mining",
+        "Trump",
+        "Trump Family"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/16115403/1763294042-stock-image_optimized-15.jpg"
+      },
+      "published": "2025-11-16T13:38:43Z"
+    }
+  },
+  {
+    "hash": "560633c32c5f68070d9e63c4d2e60eb2c85fec94b853f69c347af050a94d9d07",
+    "item": {
+      "title": "XRP Price Prediction: TradFi View Shows Investor Hesitation – Is XRP a Top-Four Asset No More?",
+      "description": "\u003cp\u003eXRP price prediction and ETF outlook: SEC fast-tracking boosts hopes for a Bitwise XRP ETF, but TradFi hesitation and tight technical structure signal a major move ahead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-tradfi-view-shows-investor-hesitation-is-xrp-a-top-four-asset-no-more/\"\u003eXRP Price Prediction: TradFi View Shows Investor Hesitation \u0026#8211; Is XRP a Top-Four Asset No More?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-tradfi-view-shows-investor-hesitation-is-xrp-a-top-four-asset-no-more/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/14123018/1760445017-xrp-price-prediction.jpg"
+      },
+      "published": "2025-11-16T12:51:55Z"
+    }
+  },
+  {
+    "hash": "dc7974a534c7241c82785dc2ddbbfbec59925931463e090dd126e66ad18b5ddf",
+    "item": {
+      "title": "Ethereum Price Prediction: ETH Must Reclaim $3,653 to Flip Bearish Structure",
+      "description": "\u003cp\u003eEthereum price prediction: ETH must reclaim $3,653 to break its bearish structure as it trades near a key triangle apex and major trendline support.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-eth-must-reclaim-3653-to-flip-bearish-structure/\"\u003eEthereum Price Prediction: ETH Must Reclaim $3,653 to Flip Bearish Structure\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-eth-must-reclaim-3653-to-flip-bearish-structure/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/23140535/1758636334-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-11-16T12:20:02Z"
+    }
   }
 ]
