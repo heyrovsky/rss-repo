@@ -1670,5 +1670,443 @@
       },
       "published": "2025-11-18T09:37:35Z"
     }
+  },
+  {
+    "hash": "b3bdc6f252721af48b9247b5741922b7b8d2ee3724dcf25744c368719364a432",
+    "item": {
+      "title": "Qualcomm Updates AI Accelerator Firmware To Fix Power / Performance Issue",
+      "description": "Qualcomm upstreamed new Cloud AI 100 \"AIC100\" firmware today to linux-firmware.git to fix a rather significant power/performance issue for these AI accelerators...",
+      "links": [
+        "https://www.phoronix.com/news/Qualcomm-QAIC-100-Firmware-Perf"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-18T14:50:38Z"
+    }
+  },
+  {
+    "hash": "c3fdefc23c0d368f3dc93f33f263e0c65f35fc1723c5759a6c4b0007a05216c7",
+    "item": {
+      "title": "[$] Pouring packages with Homebrew",
+      "description": "\u003cp\u003eThe \u003ca href=\"https://brew.sh/\"\u003eHomebrew\u003c/a\u003e project is an\nopen-source package-management system that comes with a repository of\nuseful packages for Linux and macOS. Even though Linux distributions\nhave their own package management and repositories, Homebrew is often\nused to obtain software that is not available in a distribution's repository\nor to install more current versions of projects than are available\nfrom long-term-support (LTS) distributions. \u003ca\nhref=\"https://brew.sh/2025/11/12/homebrew-5.0.0/\"\u003eHomebrew 5.0.0\u003c/a\u003e,\nreleased on November 12, 2025, expanded Linux support to include\n64-bit Arm packages in addition to x86_64, and turned on concurrent\ndownloads by default to speed up package downloads.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1046236/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-18T14:40:55Z"
+    }
+  },
+  {
+    "hash": "7633fb7a599ad8a0cdc251fdab1bf190aa940e72969d7b3e37690a5499633eaa",
+    "item": {
+      "title": "Security updates for Tuesday",
+      "description": "Security updates have been issued by \u003cb\u003eDebian\u003c/b\u003e (libwebsockets), \u003cb\u003eFedora\u003c/b\u003e (chromium and fvwm3), \u003cb\u003eMageia\u003c/b\u003e (apache, firefox, and postgresql13, postgresql15), \u003cb\u003eOracle\u003c/b\u003e (idm:DL1), \u003cb\u003eRed Hat\u003c/b\u003e (bind, bind9.18, firefox, and openssl), \u003cb\u003eSUSE\u003c/b\u003e (alloy, ghostscript, and openssl-1_0_0), and \u003cb\u003eUbuntu\u003c/b\u003e (ffmpeg and freeglut).",
+      "links": [
+        "https://lwn.net/Articles/1046891/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-18T14:08:42Z"
+    }
+  },
+  {
+    "hash": "5c7075063940e74358d1ce06b8387503d45c2be694df45f2361c30fc15e76bad",
+    "item": {
+      "title": "Nearly all UK drivers say headlights are too bright",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45966251\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/c1j8ewy1p86o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T14:11:17Z"
+    }
+  },
+  {
+    "hash": "0aa9bb7759b22e0d253a25b2d8e11cbfbd5e7e4108963fb17ac82b5f7a2ee76c",
+    "item": {
+      "title": "Do Not Put Your Site Behind Cloudflare If You Don't Need To",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45965060\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T12:54:49Z"
+    }
+  },
+  {
+    "hash": "f9cab099e308ac4ede1b686767a12f1e0e996ad26aaacdfc39a3dffb5df51b49",
+    "item": {
+      "title": "Experiment: Making TypeScript Immutable-by-Default",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45966018\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://evanhahn.com/typescript-immutability-experiment/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T13:56:21Z"
+    }
+  },
+  {
+    "hash": "a8211cdee06508bf6b588d2ec432bf1a1fa343348e28ebafa36f658cb83be379",
+    "item": {
+      "title": "Ruby 4.0.0 Preview2 Released",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45965664\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T13:34:44Z"
+    }
+  },
+  {
+    "hash": "46a68d2ce7900402747b7c3e34b51aa40c481c6eed89db0fa2bf08b4e3f2464a",
+    "item": {
+      "title": "Short Little Difficult Books",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45966435\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://countercraft.substack.com/p/short-little-difficult-books"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T14:23:18Z"
+    }
+  },
+  {
+    "hash": "a7c2ace4e86004745878566cac1947cd0c54ac4adb7be91a24e53324ad0ce70d",
+    "item": {
+      "title": "GoSign Desktop RCE flaws affecting users in Italy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45964835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T12:36:54Z"
+    }
+  },
+  {
+    "hash": "fb94c4d7824242fab9a8d96bc9e64da801c2e7801c250e5b04505852a9ebdee4",
+    "item": {
+      "title": "Multiple Digital Ocean services down",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45964987\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://status.digitalocean.com/incidents/lgt5xs2843rx"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T12:48:45Z"
+    }
+  },
+  {
+    "hash": "eed2fd58a78284379ae0240b2b6f21afa2282df6239fb941914a6f51fffb9ab6",
+    "item": {
+      "title": "Mathematics and Computation (2019) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45964816\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.math.ias.edu/files/Book-online-Aug0619.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T12:35:13Z"
+    }
+  },
+  {
+    "hash": "fd903a6a4472369e409c2c1aee2e1c0a13ba16a62379a5ab4973ed0cb04e210b",
+    "item": {
+      "title": "Roma Lister, Aradia, and the Speculative Origins of a Witchcraft Revival",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45911386\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://publicdomainreview.org/essay/roma-lister-aradia/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T06:20:59Z"
+    }
+  },
+  {
+    "hash": "f37839570a96e0b0ddce6726ba0794ed29a129605b7fc1fc9b29dfab2d7e56fc",
+    "item": {
+      "title": "A/B Tests over Evals",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45924712\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.raindrop.ai/blog/thoughts-on-evals/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-14T07:30:55Z"
+    }
+  },
+  {
+    "hash": "148fa3455f67f53f80b8d5d1b6a5259b4884bad944318b305f20459cd1305c2f",
+    "item": {
+      "title": "'Fear really drives him': is Alex Karp of Palantir the world's scariest CEO?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45965796\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/technology/2025/nov/18/fear-really-drives-him-is-alex-karp-of-palantir-the-worlds-scariest-ceo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T13:41:54Z"
+    }
+  },
+  {
+    "hash": "ce546510b6bec22f8efaa2dc2843af627382d946bff48a4607905d187cc68193",
+    "item": {
+      "title": "Ethereum Gains Are Being Flipped Into Ozak AI as Presale Buzz Explodes Past $3.5M",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"293\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-1-6.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum Gains Are Being Flipped Into Ozak AI as Presale Buzz Explodes Past $3.5M\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-1-6.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-1-6-300x172.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eCrypto traders are shifting gears as Ethereum (ETH) continues to consolidate near $3,453, locking in profits and rotating into high-upside presales like Ozak AI (OZ). This trend is becoming increasingly visible among both retail and whale investors as Ozak AI’s presale momentum surges past $3.5 million—a clear sign that the",
+      "links": [
+        "https://thenewscrypto.com/ethereum-gains-are-being-flipped-into-ozak-ai-as-presale-buzz-explodes-past-3-5m/"
+      ],
+      "categories": [
+        "Press Release",
+        "ETHEREUM",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-1-6.png"
+      },
+      "published": "2025-11-18T11:30:00Z"
+    }
+  },
+  {
+    "hash": "db2c76e7a6573a13afb21ed4609e6acb03c1979be90b03c57036ee9ae42fb6be",
+    "item": {
+      "title": "Bitcoin ETF Investors Face Losses as Market Downturn Continues",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Average-Bitcoin-ETF-investor1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin ETF Investors Face Losses as Market Downturn Continues\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Average-Bitcoin-ETF-investor1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Average-Bitcoin-ETF-investor1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Average-Bitcoin-ETF-investor1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eInvestors in Bitcoin exchange-traded funds in the United States are now collectively underwater for the first time since these products were launched, according to market intelligence company Glassnode. Bitcoin plunged below $89,600 on Tuesday, causing the average entry price for all spot Bitcoin ETFs to move underwater.  Some early adopters",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-etf-investors-face-losses-as-market-downturn-continues/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "Bitcoin ETF"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Average-Bitcoin-ETF-investor1.jpg"
+      },
+      "published": "2025-11-18T10:35:31Z"
+    }
+  },
+  {
+    "hash": "2359381315037a79e08ee3c1020bc2d0a23af0a0a58232702b475a05795b79ef",
+    "item": {
+      "title": "Ethereum, Solana, or Ozak AI? Why Analysts Believe This Emerging AI Token Offers More Long-Term Growth Than the Top Three Altcoins Combined",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-18.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum, Solana, or Ozak AI? Why Analysts Believe This Emerging AI Token Offers More Long-Term Growth Than the Top Three Altcoins Combined\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-18.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-18-300x171.png 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eFor years, Solana and Ethereum have long been seen as the main forces behind Web3 expansion. ​Crypto analysts believe that new AI-crypto, Ozak AI, which is now gaining traction as the next big challenger, may be better positioned for long-term growth than the leading cryptocurrencies of today because of its",
+      "links": [
+        "https://thenewscrypto.com/ethereum-solana-or-ozak-ai-why-analysts-believe-this-emerging-ai-token-offers-more-long-term-growth-than-the-top-three-altcoins-combined/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/unnamed-18.png"
+      },
+      "published": "2025-11-18T10:33:22Z"
+    }
+  },
+  {
+    "hash": "caf67e9d2e5386c469ac529069214a80e54b4420999a42de69c23be94f9b63ce",
+    "item": {
+      "title": "SEC Drops Crypto from 2026 Examination Priorities",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/SEC-makes-no-specific-mention-of-crypto1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SEC Drops Crypto from 2026 Examination Priorities\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/SEC-makes-no-specific-mention-of-crypto1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/SEC-makes-no-specific-mention-of-crypto1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/SEC-makes-no-specific-mention-of-crypto1-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe Securities and Exchange Commission has removed digital assets from its examination priorities, which marks a major shift away from regulation. The Division of Examinations at the agency released its fiscal 2026 priorities, which lack a discrete section related to crypto, when previously issued agendas had sections devoted to crypto.",
+      "links": [
+        "https://thenewscrypto.com/sec-drops-crypto-from-2026-examination-priorities/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Crypto",
+        "SEC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/SEC-makes-no-specific-mention-of-crypto1.jpg"
+      },
+      "published": "2025-11-18T08:40:51Z"
+    }
+  },
+  {
+    "hash": "ff1ed1081c8027b10ba3dbbb9c62903ac85b7c3c22230c665e3c9dec83bf1ad2",
+    "item": {
+      "title": "PTechnology Unveils NPRY Token as the Engine of a Global Privacy-First Communication Economy",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/11.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/11.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/11/11-300x180.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/11-1024x614.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/11-768x461.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003ePTechnology announced the launch of NPRY, a blockchain-based utility token that will power access to its privacy-first communication ecosystem, including secure calls, messaging, video meetings, global eSIM data and upcoming hardware products. NPRY is designed as the payment layer for people and organisations who have nothing to hide, but a",
+      "links": [
+        "https://thenewscrypto.com/ptechnology-unveils-npry-token-as-the-engine-of-a-global-privacy-first-communication-economy/"
+      ],
+      "categories": [
+        "Press Release",
+        "PTechnology"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/11.png"
+      },
+      "published": "2025-11-18T08:34:40Z"
+    }
+  },
+  {
+    "hash": "22f7fb97b10752042dd21726e0bb6579563adaf8763f52c01e0e67bdfec9bd90",
+    "item": {
+      "title": "5 Best Cryptos to Buy as Ripple Partners with Mastercard, WebBank, and Gemini",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/5-Best-Cryptos-to-Buy-as-Ripple.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"5 Best Cryptos to Buy as Ripple Partners with Mastercard, WebBank, and Gemini\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/5-Best-Cryptos-to-Buy-as-Ripple.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/5-Best-Cryptos-to-Buy-as-Ripple-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/5-Best-Cryptos-to-Buy-as-Ripple-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market is heating up again after Ripple (XRP) announced its major collaboration with Mastercard, WebBank, and Gemini to pilot stablecoin settlements directly on the XRP Ledger. This partnership signals a new wave of institutional adoption, and it’s reigniting retail excitement across the board. Alongside XRP, emerging projects like",
+      "links": [
+        "https://thenewscrypto.com/5-best-cryptos-to-buy-as-ripple-partners-with-mastercard-webbank-and-gemini/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Gemini",
+        "Little PEPE",
+        "Ripple"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/5-Best-Cryptos-to-Buy-as-Ripple.jpg"
+      },
+      "published": "2025-11-18T03:29:51Z"
+    }
+  },
+  {
+    "hash": "52e1a7ec6aea115d8dd9ae9e381fcbc5488585562d6431948190e26e95cd045e",
+    "item": {
+      "title": "LevelField Wins Illinois Nod To Acquire Burling Bank For Crypto Services",
+      "description": "\u003cp\u003eLevelField has received Illinois approval to acquire Chicago-based Burling Bank and has proposed combining FDIC-insured community banking with crypto custody, trading, and credit products while the transaction awaits Federal Reserve review.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/levelfield-wins-illinois-nod-to-acquire-burling-bank-for-crypto-services/\"\u003eLevelField Wins Illinois Nod To Acquire Burling Bank For Crypto Services\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/levelfield-wins-illinois-nod-to-acquire-burling-bank-for-crypto-services/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Finance News",
+        "News",
+        "Bank"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17192851/1763407730-image-1763407525489_optimized.jpg"
+      },
+      "published": "2025-11-18T14:47:25Z"
+    }
+  },
+  {
+    "hash": "a22d13a3d765c297936abea6d1aadbf2c3fc4d63fe54ecfefa21a985254d910e",
+    "item": {
+      "title": "Dimensional Becomes Second Firm to Win SEC ETF-Mutual Fund Hybrid Approval",
+      "description": "\u003cp\u003eDimensional Fund Advisors secured SEC approval to operate ETF and mutual fund share classes in a single structure, positioning itself as the first to apply this hybrid model to actively managed strategies while nearly 90 other firms await similar clearance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dimensional-becomes-second-firm-to-win-sec-etf-mutual-fund-hybrid-approval/\"\u003eDimensional Becomes Second Firm to Win SEC ETF-Mutual Fund Hybrid Approval\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dimensional-becomes-second-firm-to-win-sec-etf-mutual-fund-hybrid-approval/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "ETFs",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/18102642/1763461602-stock-image_optimized-21.jpg"
+      },
+      "published": "2025-11-18T14:03:00Z"
+    }
+  },
+  {
+    "hash": "43d06c116444c2d7008e1d5ffa62faeccf26859b43ff76a3d966d9e0690eabcc",
+    "item": {
+      "title": "Bitcoin Price Prediction: 95% of All BTC Just Got Mined – Real Scarcity Starting Now?",
+      "description": "\u003cp\u003eScarcity shock hits as 95% mined—Bitcoin price prediction now shifts toward a tighter supply narrative traders can’t ignore.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-95-of-all-btc-just-got-mined-real-scarcity-starting-now/\"\u003eBitcoin Price Prediction: 95% of All BTC Just Got Mined – Real Scarcity Starting Now?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-95-of-all-btc-just-got-mined-real-scarcity-starting-now/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/18123147/1763469106-bitcoin-price-predition-1.jpg"
+      },
+      "published": "2025-11-18T13:08:42Z"
+    }
+  },
+  {
+    "hash": "a7ac05478a0472a54409c5a56e745702d1a33d47de406f0ae5680386c62284bf",
+    "item": {
+      "title": "S\u0026P 500 Set for Longest Losing Streak Since August as Bitcoin Falls Below $90K",
+      "description": "\u003cp\u003eThe S\u0026amp;P 500 is heading for its fourth straight decline as Fed uncertainty, AI valuation fears and Bitcoin’s drop below $90,000 rattle markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sp-500-set-for-longest-losing-streak-since-august-as-bitcoin-falls-below-90k/\"\u003eS\u0026amp;P 500 Set for Longest Losing Streak Since August as Bitcoin Falls Below $90K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sp-500-set-for-longest-losing-streak-since-august-as-bitcoin-falls-below-90k/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Market",
+        "S\u0026P"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/18095719/1763459839-image-1763459820689_optimized.jpg"
+      },
+      "published": "2025-11-18T12:56:32Z"
+    }
   }
 ]
