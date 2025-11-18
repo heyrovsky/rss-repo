@@ -1,0 +1,466 @@
+[
+  {
+    "hash": "e3b47cbb2cc9b2cd78b65a3f30e0216d8107d96aceebd786f5907d4d74be1b99",
+    "item": {
+      "title": "FreeBSD 15.0-RC1 Brings Build Fixes For Google Cloud \u0026 Azure, Base Repository Changes",
+      "description": "FreeBSD 15.0-RC1 is available today for testing as this leading BSD operating system works toward the stable release in early December...",
+      "links": [
+        "https://www.phoronix.com/news/FreeBSD-15.0-RC1-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-17T22:34:43Z"
+    }
+  },
+  {
+    "hash": "5b69589eb5d9a8b20e048f5c3711a9609433a53a0def357afa34397c01f3c872",
+    "item": {
+      "title": "Wayland-Only Budgie 10.10 Desktop Preview Released",
+      "description": "At the start of the year developers behind the Budgie desktop environment hoped for shipping Budgie 10.10 in Q1-2025. We are now in Q4 without a stable release but at long last a preview version is at least available. Budgie 10.10 is the point at which Budgie is going all-in on Wayland in leaving behind the X11 desktop session support...",
+      "links": [
+        "https://www.phoronix.com/news/Budgie-10.10-Preview"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-17T21:15:34Z"
+    }
+  },
+  {
+    "hash": "037a4516b24aaf7a5199cc16159ae2851d9835413b9854dd96357069dfe7346d",
+    "item": {
+      "title": "Trump admin axed 383 active clinical trials, dumping over 74K participants",
+      "description": "It's a \"violation of foundational ethical principles of human participant research.\"",
+      "links": [
+        "https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/"
+      ],
+      "categories": [
+        "Health",
+        "clinical trials",
+        "grants",
+        "JAMA",
+        "NIH"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
+      },
+      "published": "2025-11-17T23:15:40Z"
+    }
+  },
+  {
+    "hash": "f3a2af32ff1449a6eaf9211db1c480455dbbbd37a8744086e5fd85ec5c82a97a",
+    "item": {
+      "title": "With a new company, Jeff Bezos will become a CEO again",
+      "description": "He stepped down at Amazon in 2021 and doesn't hold a CEO title at Blue Origin.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/"
+      ],
+      "categories": [
+        "AI",
+        "Tech",
+        "Amazon",
+        "blue origin",
+        "Jeff Bezos",
+        "project prometheus"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-bezos-space-symposium-scaled-1152x648-1763419085.jpg"
+      },
+      "published": "2025-11-17T22:50:21Z"
+    }
+  },
+  {
+    "hash": "4100f68cfee79325bc752a99d358e85b8a39b146ff7895323edd0103725160ec",
+    "item": {
+      "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
+      "description": "Fleets of laptops run from US residences gave appearance workers were in the US.",
+      "links": [
+        "https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Security",
+        "apt38",
+        "fraud",
+        "it jobs",
+        "North Korea"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/north-korea-hacking-1000x648.jpeg"
+      },
+      "published": "2025-11-17T22:20:38Z"
+    }
+  },
+  {
+    "hash": "21f07cd0ca433f1250897c7f1bbeca9fb5f03db0e238b6c41bd14dbe22782193",
+    "item": {
+      "title": "UCLA faculty gets big win in suit against Trump’s university attacks",
+      "description": "Government can't use funding threats to override the First Amendment.",
+      "links": [
+        "https://arstechnica.com/science/2025/11/ucla-faculty-gets-big-win-in-suit-against-trumps-university-attacks/"
+      ],
+      "categories": [
+        "Policy",
+        "Science",
+        "education",
+        "First Amendment",
+        "law",
+        "lawsuit",
+        "research funding",
+        "Speech",
+        "University of California"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2233479560-1024x648.jpg"
+      },
+      "published": "2025-11-17T22:08:16Z"
+    }
+  },
+  {
+    "hash": "df3f7a7b99a17a2626c38e73913f95ce0e23ab93ff19aab6e943c5fabdc7603e",
+    "item": {
+      "title": "Compiling Ruby to machine language",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45957629\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T20:04:49Z"
+    }
+  },
+  {
+    "hash": "ce4c4b31ad88373d655a07b73fff779d7b54336b531805eb83c43ee98a65957b",
+    "item": {
+      "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45955900\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T17:39:15Z"
+    }
+  },
+  {
+    "hash": "1a9fcc279ba182f07e11f69df42a2b49bbf5300a05044b2a9297d034765b3326",
+    "item": {
+      "title": "Run ancient Unix on modern hardware",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45958717\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/felipenlunkes/run-ancient-unix"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T21:46:06Z"
+    }
+  },
+  {
+    "hash": "7326a4b7df1a5b2635f1869f1df5847ef35de7ec96882965a0f8e4623b590073",
+    "item": {
+      "title": "“One Student One Chip” Course Homepage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45901379\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ysyx.oscc.cc/docs/en/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T15:28:54Z"
+    }
+  },
+  {
+    "hash": "177e0591fe8496c6333ad2eca51e5574c3943d690061fb91d6987dcd39c77091",
+    "item": {
+      "title": "Ion: Modern System Shell in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45958815\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/redox-os/ion"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T21:56:58Z"
+    }
+  },
+  {
+    "hash": "c9352f2a703391c7c4c5c651b04a9512d4a9c63fb4931186cf90597f2f3a6836",
+    "item": {
+      "title": "Show HN: Reversing a Cinema Camera's Peripherals Port",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45888805\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://3nt3.de/blog/reversing-fs7-comms"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T15:57:48Z"
+    }
+  },
+  {
+    "hash": "9ec4125d30be6d4f1c99060c611dae69fcf77cb820de5f646b76fa207d96f169",
+    "item": {
+      "title": "Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45959780\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/kaushiksrini/parqeye"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T23:45:42Z"
+    }
+  },
+  {
+    "hash": "0f6c24d85a92dd80391d6b434bd2e9fdc437b285cfa53bac52619865ad3f22ca",
+    "item": {
+      "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45959795\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T23:47:27Z"
+    }
+  },
+  {
+    "hash": "e5c56d945042a625ea83e6082cf0c6066740c0ecb6b560adeba515a6d2b97e83",
+    "item": {
+      "title": "My kind of REPL (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893879\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ianthehenry.com/posts/my-kind-of-repl/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T22:41:04Z"
+    }
+  },
+  {
+    "hash": "4fff609c5f997b30d4201ad651623608ba76509ed3cf6f05d3270e2423a30557",
+    "item": {
+      "title": "Show HN: Kalendis – Scheduling API (keep your UI, we handle timezones/DST)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45956154\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kalendis.dev"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T18:05:29Z"
+    }
+  },
+  {
+    "hash": "0af70023103a2c2507f62739f87c1f03bdf522c2809c8de7a83c9425ef1e9606",
+    "item": {
+      "title": "Insects on the Space Menu",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45901560\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T15:44:03Z"
+    }
+  },
+  {
+    "hash": "a357db79350c1a438a5b4477255b6f82769e94cc11f1ccf1ee55ce34f37aa377",
+    "item": {
+      "title": "Best New Meme Coin to Buy Today – 17 November",
+      "description": "\u003cp\u003eThe market continues to slide, but this is the best new meme coin to buy today if you want to make profit in a bear market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-new-meme-coin-to-buy-today-17-november/\"\u003eBest New Meme Coin to Buy Today – 17 November\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-new-meme-coin-to-buy-today-17-november/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Crypto Presale",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17121033/1763381432-best-new-meme-coin-to-buy-today.jpg"
+      },
+      "published": "2025-11-17T23:30:00Z"
+    }
+  },
+  {
+    "hash": "dac2c4e7a3af152a6e5c08b1d2c3d7af13e52402da6c0fc03a7444d5db3c6c02",
+    "item": {
+      "title": "Hacker Behind Musk \u0026 Obama Bitcoin Scam Faces Staggering $5M Bill as Stolen Crypto Soars",
+      "description": "\u003cp\u003eUK prosecutors have obtained a civil recovery order for over £4m in crypto from the Twitter hacker, whose 2020 Twitter breach has exploited internal tools to promote a Bitcoin scam, while rising digital-asset prices and new data on 2025 hacks have sharpened scrutiny of crypto crime worldwide.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hacker-musk-bitcoin-scam-payback/\"\u003eHacker Behind Musk \u0026amp; Obama Bitcoin Scam Faces Staggering $5M Bill as Stolen Crypto Soars\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hacker-musk-bitcoin-scam-payback/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Elon Musk",
+        "Hackers"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17203559/1763411758-image-1763411719534_optimized.jpg"
+      },
+      "published": "2025-11-17T23:16:58Z"
+    }
+  },
+  {
+    "hash": "dfd7a9fd4aacd6f8645793537070e3b1b62d55f318de2c034225dd4f6fc3c5e6",
+    "item": {
+      "title": "XRP Price Prediction: ETF Hype Dies Fast as Sellers Crush XRP – What Happens If $2.22 Support Fails?",
+      "description": "\u003cp\u003eDespite launching the year’s most successful ETF with $58 million in day-one volume, XRP continues to struggle, prompting a bearish XRP price prediction from many analysts.Canary Capital’s XRPC fund narrowly beat Solana’s BSOL ETF, but the token itself is down 11% over the past week, showing that institutional hype hasn’t yet translated into price strength.During [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-etf-hype-dies-fast-as-sellers-crush-xrp-what-happens-if-2-22-support-fails/\"\u003eXRP Price Prediction: ETF Hype Dies Fast as Sellers Crush XRP – What Happens If $2.22 Support Fails?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-etf-hype-dies-fast-as-sellers-crush-xrp-what-happens-if-2-22-support-fails/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "XRP ETF",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17121130/1763381489-xrp-price-prediction-12.jpg"
+      },
+      "published": "2025-11-17T23:11:00Z"
+    }
+  },
+  {
+    "hash": "b9446814ede52c29f27b7e929cf4bee53c39533f1800f3a98ef8644e5eddfbfd",
+    "item": {
+      "title": "CZ Answers ‘Delicate Question’ About Binance Fund After Trump Pardon",
+      "description": "\u003cp\u003eCZ has proposed investing any refunded $4.3B Binance settlement in the U.S. as a gesture of appreciation after his Trump pardon, while critics including Rep. Maxine Waters have argued the decision has rewarded crypto offenses tied to money laundering and sanctions breaches.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cz-answers-delicate-question-about-binance-fund-after-trump-pardon/\"\u003eCZ Answers \u0026#8216;Delicate Question\u0026#8217; About Binance Fund After Trump Pardon\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cz-answers-delicate-question-about-binance-fund-after-trump-pardon/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "AML",
+        "Binance",
+        "CZ"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Julia Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17212358/1763414637-julia_63915_hyper_realistic_exterior_shot_of_the_whit_house_fece25b8-1597-4e01-a9d7-06b57707f10c-png_optimized.jpg"
+      },
+      "published": "2025-11-17T22:53:43Z"
+    }
+  },
+  {
+    "hash": "e285ed58c245fadf67cb35d3f4fe7adec1953ed8805ffde934036b24071412c6",
+    "item": {
+      "title": "Best Crypto to Buy Now 17 November – XRP, Solana, Dash",
+      "description": "\u003cp\u003eBitcoin has dropped from its October peak, and traders have been reassessing where the best crypto opportunities may lie, with XRP for cross-border payments, Solana for DeFi scale, Dash for everyday spending and Bitcoin Hyper for Bitcoin Layer-2 utility in the next cycle.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-17-november-xrp-solana-dash/\"\u003eBest Crypto to Buy Now 17 November – XRP, Solana, Dash\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-17-november-xrp-solana-dash/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Altcoins",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17111316/image-200-1024x626.png"
+      },
+      "published": "2025-11-17T22:35:00Z"
+    }
+  },
+  {
+    "hash": "02c140a0851d45360ec51b78a7360ee9d2018ac66a89febf4db26945303e9ee8",
+    "item": {
+      "title": "China’s Alibaba AI Predicts the Price of XRP, Bitcoin, Ethereum by the End of 2025",
+      "description": "\u003cp\u003eAlibaba AI Predicts ambitious price paths for XRP, Bitcoin and Ethereum following rate cuts and ETF developments, as Maxi Doge’s presale progress, staking rewards and token distribution have been detailed, outlining how traders have positioned around both majors and meme coins.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/chinas-alibaba-ai-predicts-the-price-of-xrp-bitcoin-ethereum-by-the-end-of-2025/\"\u003eChina\u0026#8217;s Alibaba AI Predicts the Price of XRP, Bitcoin, Ethereum by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/chinas-alibaba-ai-predicts-the-price-of-xrp-bitcoin-ethereum-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Ethereum",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17120813/Alibaba-AI-Predicts-the-Price-1.jpg"
+      },
+      "published": "2025-11-17T22:30:00Z"
+    }
+  },
+  {
+    "hash": "40864b0dd549da20b0559cca650323697cc9f9ef9d2ad6fec18478998afa19d1",
+    "item": {
+      "title": "Pepe Price Prediction: PEPE Crashes Again With No Bottom in Sight – How Low Can it Fall?",
+      "description": "\u003cp\u003eThe Pepe price prediction signals are flashing red as the token bleeds harder than any other top meme coin in 2025.Down 75% year-to-date and shedding 19% in just the past week, PEPE is losing steam fast while rivals like Dogecoin and Shiba Inu hold stronger positions.With the Fed casting doubt on a December rate cut, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-price-prediction-pepe-crashes-again-with-no-bottom-in-sight-how-low-can-it-fall/\"\u003ePepe Price Prediction: PEPE Crashes Again With No Bottom in Sight – How Low Can it Fall?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-price-prediction-pepe-crashes-again-with-no-bottom-in-sight-how-low-can-it-fall/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Meme Coins",
+        "PEPE News",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/17121502/1763381701-pepe-price-prediction-2.jpg"
+      },
+      "published": "2025-11-17T22:19:00Z"
+    }
+  }
+]
