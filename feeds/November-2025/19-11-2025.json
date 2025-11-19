@@ -1225,5 +1225,135 @@
       },
       "published": "2025-11-18T18:33:52Z"
     }
+  },
+  {
+    "hash": "330cd7d0bd2b075e56bd68706e1720b9d107d5dbbc4dc80249c8012890a8e5e5",
+    "item": {
+      "title": "Vulkan SER Showing Up To ~47% Performance Improvement For Ray-Tracing",
+      "description": "Last week's Vulkan 1.4.333 brought a new ray-tracing extension with VK_EXT_ray_tracing_invocation_reorder that was derived from a prior NVIDIA vendor extension (VK_NV_ray_tracing_invocation_reorder). This new extension for Shader Execution Reordering \"SER\" is showing to deliver some nice performance potential for Vulkan ray-tracing performance...",
+      "links": [
+        "https://www.phoronix.com/news/Vulkan-SER-Performance"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-19T01:40:00Z"
+    }
+  },
+  {
+    "hash": "e9afb8468a2ee07ad67290008a4e05d0029b0283608efea9cec606d7f441e266",
+    "item": {
+      "title": "Uniwill Laptop Driver Set To Premiere In Linux 6.19 Kernel",
+      "description": "For the past several months a Uniwill laptop driver for the Linux kernel has been in development to expose extra platform capabilities for laptops manufactured by this Taiwanese OEM/ODM manufacturer. Assuming no last minute issues, this driver is now set to premiere in Linux 6.19 for helping Uniwill laptops and hardware from other brands relying on Uniwill as the device manufacturer...",
+      "links": [
+        "https://www.phoronix.com/news/Uniwill-Laptop-Driver-Linux-619"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-19T01:22:45Z"
+    }
+  },
+  {
+    "hash": "a691961a2d0e9b1a40f46fb67b30aeda7d5386d28fcd53e94f1eca632931769a",
+    "item": {
+      "title": "Show HN: Browser-based interactive 3D Three-Body problem simulator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45967079\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trisolarchaos.com/?pr=O_8(0.6)\u0026n=3\u0026s=5.0\u0026so=0.00\u0026im=rk4\u0026dt=1.00e-4\u0026rt=1.0e-6\u0026at=1.0e-8\u0026bs=0.15\u0026sf=0\u0026sv=0\u0026cm=free\u0026kt=1\u0026st=1\u0026tl=1500\u0026cp=2.5208,1.5125,2.5208\u0026ct=0.0000,0.0000,0.1670"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T15:00:36Z"
+    }
+  },
+  {
+    "hash": "57b67454b48a2b924defe45b734891664617084d5f2f81d72e1e341e058cc03c",
+    "item": {
+      "title": "Rebecca Heineman – from homelessness to porting Doom (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45973573\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://corecursive.com/doomed-to-fail-with-burger-becky/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T23:13:35Z"
+    }
+  },
+  {
+    "hash": "66780ae9eef4d7814218b4d54c4296e429a0793d41a62511a96d8c48f47ea1dc",
+    "item": {
+      "title": "Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45973955\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T23:59:14Z"
+    }
+  },
+  {
+    "hash": "700dbdb4183896996e54f9c51fbbb3ace427bc66d52e5cb83c6f21ba9d9eb2e2",
+    "item": {
+      "title": "Fizz Buzz without conditionals or booleans",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45911897\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T07:37:50Z"
+    }
+  },
+  {
+    "hash": "e15eb30d1496e8e9a7d2ed7dbc7a7609664d865e91e3f27825bad1888c8f47f7",
+    "item": {
+      "title": "DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45975006\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T02:02:10Z"
+    }
+  },
+  {
+    "hash": "8c5304af3b68b6620ad68a4600c7668d69d9cdf66417c13e8ebf03534a470f59",
+    "item": {
+      "title": "Better pre-commit, re-engineered in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45931273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://prek.j178.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-14T19:46:24Z"
+    }
+  },
+  {
+    "hash": "2d135d6f5edb365e8f7912aacc9e92f52f281f3b64151b1779f2940629d00447",
+    "item": {
+      "title": "Kraken Raises $200M From Citadel Securities — See The Market Value After The Deal",
+      "description": "\u003cp\u003eKraken raised $200m from Citadel Securities, adding to a recent $600m round and strengthening its push toward a planned public listing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/kraken-raises-200m-citadel-securities-see-valuation/\"\u003eKraken Raises $200M From Citadel Securities — See The Market Value After The Deal\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/kraken-raises-200m-citadel-securities-see-valuation/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Kraken"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19025207/1763520727-image-1763520657488_optimized.jpg"
+      },
+      "published": "2025-11-19T03:00:45Z"
+    }
   }
 ]
