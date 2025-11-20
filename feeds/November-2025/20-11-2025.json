@@ -1,0 +1,653 @@
+[
+  {
+    "hash": "0b9ca6948ee21f3e867faee6db075f45444df4b867c3f59574322f27b4d4e4d5",
+    "item": {
+      "title": "Rust-Based Arm GPU Kernel Driver \"Tyr\" Begins Running GNOME \u0026 Basic Games",
+      "description": "Initially upstreamed into the Linux 6.18 kernel is Tyr as a Rust-based GPU kernel driver for Arm Mali hardware. This is in effect a Rust alternative to the Panthor DRM kernel driver for newer Arm Mali GPUs with the Command Stream Firmware (CSF). With the latest development code for Tyr, it's moved onto running the GNOME desktop and basic games like SuperTuxKart...",
+      "links": [
+        "https://www.phoronix.com/news/Tyr-Begins-Handling-Work"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-19T23:38:00Z"
+    }
+  },
+  {
+    "hash": "b7a55949a13239217667238265f631d9014b3c9865cb5d68b4eea41a9c2aa095",
+    "item": {
+      "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45984659\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T20:26:43Z"
+    }
+  },
+  {
+    "hash": "937fc486dad30778c01afac71c69572da7da3ae367b6a57ed33c52219659aafe",
+    "item": {
+      "title": "Researchers discover security vulnerability in WhatsApp",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985036\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T20:55:30Z"
+    }
+  },
+  {
+    "hash": "5fbafc906f604d9c1273fc6db0d050c6942c046edcbdb7c57b56a5ba4df3c028",
+    "item": {
+      "title": "Tailscale Down",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985978\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T22:08:06Z"
+    }
+  },
+  {
+    "hash": "b0fdce941ce2c55a49f85c2bf56dae615fb37343a8e64f46c33cec96dc9e34ac",
+    "item": {
+      "title": "Why CUDA translation wont unlock AMD",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45904178\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T18:47:15Z"
+    }
+  },
+  {
+    "hash": "65c22c362244a1aa899afcda2e7c43f78d4e3ca745a6aaeb19b9742fde3a5c86",
+    "item": {
+      "title": "How Slide Rules Work",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985196\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T21:07:05Z"
+    }
+  },
+  {
+    "hash": "02f65ae0441ddcc48dc3a5607bf55452d9c3718d4fcbdd8a59f48ab23cc2284b",
+    "item": {
+      "title": "Verifying your Matrix devices is becoming mandatory",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45987179\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-20T00:22:03Z"
+    }
+  },
+  {
+    "hash": "eee3eea78419b1e0445a0557ba2e8f91ae627d15d450673f6312ab29cb759bdb",
+    "item": {
+      "title": "Roblox Requires Age Checks for Communication, Ushering in New Safety Standard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985799\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T21:53:24Z"
+    }
+  },
+  {
+    "hash": "61c845a69959e6fbef68c9be5db5c04b2dbe5f2819eea8c6a4d32a586ba52202",
+    "item": {
+      "title": "Cognitive and mental health correlates of short-form video use",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45984353\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://psycnet.apa.org/fulltext/2026-89350-001.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T20:01:02Z"
+    }
+  },
+  {
+    "hash": "f2ab6dc89b7524a88a7e487c35ba2c7744bdb8065fced27b0263449faa067909",
+    "item": {
+      "title": "Gaming on Linux has never been more approachable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985506\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T21:30:02Z"
+    }
+  },
+  {
+    "hash": "01d50c62e9cdf500d80fb1793f89cce17ba88f1a4a23bb35ac1730ed15b37c2a",
+    "item": {
+      "title": "Racing karts on a Rust GPU kernel driver",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45984623\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T20:23:47Z"
+    }
+  },
+  {
+    "hash": "2548466473e01aadfb572178f78a7fb290ccf3c70521ec45afab4b6c23fd5239",
+    "item": {
+      "title": "The patent office is about to make bad patents untouchable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T22:00:28Z"
+    }
+  },
+  {
+    "hash": "8429178b2c0e8308d636a95a87f48c5232a7cf5c5432f8e874313a1b9da50cd4",
+    "item": {
+      "title": "Vortex: An extensible, state of the art columnar file format",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45934665\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/vortex-data/vortex"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-15T02:55:06Z"
+    }
+  },
+  {
+    "hash": "4c5172362dfe3f118aa03284c59f89dee57fe7979961e90dad788f5db6ff4676",
+    "item": {
+      "title": "Pozsar's Bretton Woods III: The Framework",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45984072\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T19:39:09Z"
+    }
+  },
+  {
+    "hash": "3411b93c53de42b214bae1fa7f7c9dab5dbce7365242edfeb46806f7abfe0470",
+    "item": {
+      "title": "Branching with or Without PII: The Future of Environments",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45896776\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://neon.com/blog/branching-environments-anonymized-pii"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T05:52:35Z"
+    }
+  },
+  {
+    "hash": "43bc6bd03e4fe7083996af74c7d9b49dae393f1d029f0034d9931bdd4721dd9e",
+    "item": {
+      "title": "How to identify a prime number without a computer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45903273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T17:50:54Z"
+    }
+  },
+  {
+    "hash": "18862a5317ac32f2ef4a67a3be8dcbd5f647713df06a60074c57ce63f4b8ac78",
+    "item": {
+      "title": "Exploring the limits of large language models as quant traders",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45976832\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nof1.ai/blog/TechPost1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T07:36:25Z"
+    }
+  },
+  {
+    "hash": "5e7274e00c6db500d87301dfae45e3b99ed6b12a041e653fba951ef9c40bc965",
+    "item": {
+      "title": "The Subversive Hyperlink",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45984333\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T19:59:32Z"
+    }
+  },
+  {
+    "hash": "662479c1649ad03dbfd7294d6734d9ce40e848cc0f7500bae3ed6bee2942fb94",
+    "item": {
+      "title": "[$] LWN.net Weekly Edition for November 20, 2025",
+      "description": "Inside this week's LWN.net Weekly Edition:\n        \u003cp\u003e\n        \u003cul\u003e\n\u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1046323/\"\u003eFront\u003c/a\u003e: Hardware architectures; Fedora Flatpaks; Debian hardware support; sockaddr structure; NUMA nodes; Homebrew.\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1046325/\"\u003eBriefs\u003c/a\u003e: LightDM security; Debian Libre Live; Xubuntu postmortem; Blender 5.0; Git 2.52.0; Rust in Android; Thunderbird 145; Quotes; ...\n            \u003cli\u003e \u003ca href=\"https://lwn.net/Articles/1046326/\"\u003eAnnouncements\u003c/a\u003e: Newsletters, conferences, security updates, patches, and more.\n            \u003c/ul\u003e",
+      "links": [
+        "https://lwn.net/Articles/1046323/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-20T00:13:11Z"
+    }
+  },
+  {
+    "hash": "04f6de08e705d7187a1a98eac2ad1ead4be4efc2b94fcb8da7cbf99bb59ddfed",
+    "item": {
+      "title": "DeFi Advocates Propose $30B Plan to Fight Global Poverty — Here’s the plan",
+      "description": "\u003cp\u003eThe DeFi Education Fund has put forward DeFi solutions to address global poverty, estimating the technology could save unbanked people $30 billion each year by cutting remittance costs by up to 80%.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/defi-advocates-propose-30b-plan-to-fight-global-poverty/\"\u003eDeFi Advocates Propose $30B Plan to Fight Global Poverty — Here\u0026#8217;s the plan\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/defi-advocates-propose-30b-plan-to-fight-global-poverty/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "DeFi News",
+        "DeFi",
+        "defi technologies"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19232719/1763594838-0_2-39_optimized.jpg"
+      },
+      "published": "2025-11-19T23:31:55Z"
+    }
+  },
+  {
+    "hash": "22f99708da753f50d89fdc995147bca857ed82baf228fa84150343ee13c72284",
+    "item": {
+      "title": "Best New Meme Coin to Buy Today – 19 November",
+      "description": "\u003cp\u003eBitcoin has recovered after a sharp weekly decline linked to ETF outflows, while PEPENODE has raised over $2.15M in presale and has been described as one of the best new meme coin options, offering mine-to-earn mechanics and staking with a 595% APY.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-new-meme-coin-to-buy-today-19-november/\"\u003eBest New Meme Coin to Buy Today – 19 November\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-new-meme-coin-to-buy-today-19-november/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Crypto Presale",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19102532/1763547932-best-new-meme-coin-to-buy-today.jpg"
+      },
+      "published": "2025-11-19T23:30:00Z"
+    }
+  },
+  {
+    "hash": "370af52c3a97ad7b68fac2e3b4246b16ee423d3b9d72d14ba0ae0ae9793a00bc",
+    "item": {
+      "title": "Solana Price Prediction: New ETFs Hit U.S. Markets – Is SOL About to Follow Bitcoin’s 10x ETF Rally Path?",
+      "description": "\u003cp\u003eA wave of new Solana-based ETFs landed on U.S. exchanges this week – Solana price predictions could mirror Bitcoin’s 10x ETF Run.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-new-etfs-hit-u-s-markets-is-sol-about-to-follow-bitcoins-10x-etf-rally-path/\"\u003eSolana Price Prediction: New ETFs Hit U.S. Markets – Is SOL About to Follow Bitcoin’s 10x ETF Rally Path?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-new-etfs-hit-u-s-markets-is-sol-about-to-follow-bitcoins-10x-etf-rally-path/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ETF",
+        "Price Prediction",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19171752/1763572672-solana-price-prediction-1.jpg"
+      },
+      "published": "2025-11-19T23:24:00Z"
+    }
+  },
+  {
+    "hash": "b3e8d2ac365f770ac2a4c4aec882701d2f0e4408f8b3dcd3e77755eaa555adea",
+    "item": {
+      "title": "Why Bitcoin’s Latest Dip Has Supercharged Demand for Crypto Retirement Accounts",
+      "description": "\u003cp\u003eBitcoin IRAs have attracted savers who treat price dips as entry points, using tax-deferred or tax-free structures to build BTC exposure over decades. Experts say younger investors and those with stable cash flow may benefit most, while retirees face higher volatility and behavior risk.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-market-pullbacks-are-the-best-time-to-add-bitcoin-to-retirement-accounts/\"\u003eWhy Bitcoin’s Latest Dip Has Supercharged Demand for Crypto Retirement Accounts\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-market-pullbacks-are-the-best-time-to-add-bitcoin-to-retirement-accounts/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Bitcoin Price",
+        "btc"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Rachel Wolfson"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19230338/1763593417-generated-image-november-19-2025-3_02pm_optimized.png"
+      },
+      "published": "2025-11-19T23:18:41Z"
+    }
+  },
+  {
+    "hash": "7b69748b5d1d4b5b2415d869f33b491f54e1275cfec932a770b9c74a975c3dd6",
+    "item": {
+      "title": "XRP Price Prediction: 42% of Holders Are Losing Money – How Low Can XRP Fall?",
+      "description": "\u003cp\u003eA new Glassnode report casts a bearish tone on the XRP price prediction, as data shows a large chunk of holders are still deep underwater.According to on-chain metrics, 42% of current XRP wallets accumulated their tokens near the $3 mark, leaving many with losses of 40% or more.Analysts warn that prolonged unrealized losses can trigger [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-42-of-holders-are-losing-money-how-low-can-xrp-fall/\"\u003eXRP Price Prediction: 42% of Holders Are Losing Money – How Low Can XRP Fall?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-42-of-holders-are-losing-money-how-low-can-xrp-fall/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19121248/1763554367-xrp-price-prediction-14.jpg"
+      },
+      "published": "2025-11-19T23:16:00Z"
+    }
+  },
+  {
+    "hash": "774a7fb7b45a16876eb3141d4c050a137a3227dfd2424f5f7b35013b31d99c2a",
+    "item": {
+      "title": "Best Crypto to Buy Now 19 November – XRP, Solana, Aster",
+      "description": "\u003cp\u003eBitcoin has briefly reached a new peak before sliding, and market watchers have examined whether the best crypto prospects now include XRP, Solana, Aster and Bitcoin Hyper as institutional use cases and layer-2 developments have reshaped expectations for the sector.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-19-november-xrp-solana-aster/\"\u003eBest Crypto to Buy Now 19 November – XRP, Solana, Aster\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-19-november-xrp-solana-aster/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "ASTER",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19120620/Best-Crypto-to-Buy-Now-8.jpg"
+      },
+      "published": "2025-11-19T22:35:00Z"
+    }
+  },
+  {
+    "hash": "cb333295e472ef60ec2c56262a7616a11e962b83e4cc2b1e0bebcf8f7b5cdcbb",
+    "item": {
+      "title": "Strange New Chinese AI ‘KIMI’ Predicts Shocking Prices for XRP, Bitcoin, Shiba Inu by the End of 2025",
+      "description": "\u003cp\u003eKIMI has projected potential Christmas gains for XRP, Bitcoin and Shiba Inu after the Fed has cut rates, while Maxi Doge has attracted presale capital as traders have looked for fresh meme coin exposure in a recovering crypto market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strange-new-chinese-ai-kimi-predicts-shocking-prices-for-xrp-bitcoin-shiba-inu-by-the-end-of-2025/\"\u003eStrange New Chinese AI \u0026#8216;KIMI\u0026#8217; Predicts Shocking Prices for XRP, Bitcoin, Shiba Inu by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strange-new-chinese-ai-kimi-predicts-shocking-prices-for-xrp-bitcoin-shiba-inu-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Price Analysis",
+        "Bitcoin",
+        "Shiba inu",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19131241/Strange-New-Chinese-AI-KIMI-Predicts-Shocking-Prices.jpg"
+      },
+      "published": "2025-11-19T22:30:00Z"
+    }
+  },
+  {
+    "hash": "876f4c0bd51ac45216747d0941abfebc4897ea327e3f4cead557c530bf54afc1",
+    "item": {
+      "title": "Dogecoin Price Prediction: ETF Set to Launch in 7 Days – Is This the Last Chance to Buy DOGE Under $0.20?",
+      "description": "\u003cp\u003eKey opinion leaders expect the first true spot DOGE ETF to go live next week – Dogecoin price predictions could soon benefit from fresh demand.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-etf-set-to-launch-in-7-days-is-this-the-last-chance-to-buy-doge-under-0-20/\"\u003eDogecoin Price Prediction: ETF Set to Launch in 7 Days – Is This the Last Chance to Buy DOGE Under $0.20?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-etf-set-to-launch-in-7-days-is-this-the-last-chance-to-buy-doge-under-0-20/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Dogecoin ETF",
+        "price analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19125957/1763557196-dogecoin-price-prediction-1.jpg"
+      },
+      "published": "2025-11-19T22:01:00Z"
+    }
+  },
+  {
+    "hash": "4334fe1cde218545dd3b6e2d36120a9d1c0fc8135a273a677e0aa37c029d7032",
+    "item": {
+      "title": "NVIDIA Earnings Released: Why Today’s Numbers Could Sway Tech and Crypto",
+      "description": "\u003cp\u003eNVIDIA has reported Q3 earnings as equity and crypto markets have treated AI hardware demand, export rules and supply timing as key cues for risk, with traders watching how ETF flows, stablecoin supply, funding costs and dollar moves have shaped BTC and ETH reactions into and after the call.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nvidia-earnings-why-todays-numbers-could-sway-tech-and-crypto/\"\u003eNVIDIA Earnings Released: Why Today’s Numbers Could Sway Tech and Crypto\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nvidia-earnings-why-todays-numbers-could-sway-tech-and-crypto/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "AI",
+        "Nvidia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19195604/1763582163-chatgpt-image-nov-19-2025-02_54_59-pm_optimized.jpg"
+      },
+      "published": "2025-11-19T21:39:00Z"
+    }
+  },
+  {
+    "hash": "a449849de0534a32e91830f3faabb8bbfbf03effcd9be32ac4d1f0986e353c2c",
+    "item": {
+      "title": "[LIVE] Nvidia Earnings Report Today: Wall Street Braces for Q3 Results – Will NVDA Beat Expectations?",
+      "description": "\u003cp\u003eWall Street is holding its breath ahead of Nvidia\u0026#8217;s fiscal Q3 2026 earnings report, due after the closing bell today, November 19, in what has become the most consequential earnings event of the year.Analysts expect revenue of $54.9 billion (up 57% year-over-year) and earnings per share of $1.25, but the bar is extraordinarily high for [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-nvidia-earnings-report-today-wall-street-braces-for-q3-results-as-ai-bubble-concerns-mount-will-nvda-beat-expectations/\"\u003e[LIVE] Nvidia Earnings Report Today: Wall Street Braces for Q3 Results – Will NVDA Beat Expectations?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-nvidia-earnings-report-today-wall-street-braces-for-q3-results-as-ai-bubble-concerns-mount-will-nvda-beat-expectations/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Nvidia"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/19160047/1763568046-chatgpt-image-nov-19-2025-10_48_51-am_optimized-2.jpg"
+      },
+      "published": "2025-11-19T16:04:38Z"
+    }
+  },
+  {
+    "hash": "b053a8909c9a31dbc2f35aaa585e841353714de7ed763ce9c19dd749ac567b28",
+    "item": {
+      "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
+      "description": "The risks of AI investment in manufacturing and other areas are less clear.",
+      "links": [
+        "https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/"
+      ],
+      "categories": [
+        "AI",
+        "axios",
+        "CEO",
+        "Gartner",
+        "Hugging Face",
+        "Jeff Bezos",
+        "large language model",
+        "LLM"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Samuel Axon"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1763499309592-1152x648.webp"
+      },
+      "published": "2025-11-19T22:57:23Z"
+    }
+  },
+  {
+    "hash": "6ce1b7b5d36eb9c3e67cb1ec6b9cdae6d1f8592c4290b68c8fd7cd6dbb007091",
+    "item": {
+      "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
+      "description": "A rundown of what we know of the third extrasolar object we've identified.",
+      "links": [
+        "https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/"
+      ],
+      "categories": [
+        "Science",
+        "3I/ATLAS",
+        "astronomy",
+        "comet",
+        "planetary science"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "John Timmer"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-1152x648.jpeg"
+      },
+      "published": "2025-11-19T22:44:20Z"
+    }
+  },
+  {
+    "hash": "1816a1e2fdc3418a6a9a67ba522a4fe9961a6223c10cadc599a20d52ced35054",
+    "item": {
+      "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
+      "description": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/"
+      ],
+      "categories": [
+        "Biz \u0026 IT",
+        "Policy",
+        "cloudflare",
+        "Matthew Prince",
+        "outage"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-1152x648-1763584433.jpg"
+      },
+      "published": "2025-11-19T21:25:24Z"
+    }
+  },
+  {
+    "hash": "2e5bed1336bd979f7add20e62389c25f78a2a4995bfd4e322edae8144b083044",
+    "item": {
+      "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
+      "description": "Filling space in the Samuel Oschin Air and Space Center's Kent Kresa Space Gallery.",
+      "links": [
+        "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/"
+      ],
+      "categories": [
+        "Space",
+        "California Science Center",
+        "electron",
+        "Endeavour",
+        "Kent Kresa Space Gallery",
+        "Los Angeles",
+        "rocket lab",
+        "Samuel Oschin Air and Space Center",
+        "solid rocket booster",
+        "Space exploration",
+        "space history",
+        "Space shuttle",
+        "space shuttle main engine",
+        "SRB",
+        "SSME",
+        "walkthrough"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Robert Pearlman"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-1152x648.jpg"
+      },
+      "published": "2025-11-19T21:14:42Z"
+    }
+  },
+  {
+    "hash": "3f22acb146d0e0db07e69c1188803948853edcdc40eafa79a9643649683d46fd",
+    "item": {
+      "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
+      "description": "Librarian vows to stop invasive ed tech after ending lawsuit with Proctorio.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/"
+      ],
+      "categories": [
+        "Policy",
+        "censorship",
+        "copyright",
+        "ed tech",
+        "education technology",
+        "free speech",
+        "proctorio",
+        "YouTube"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-1152x648.jpeg"
+      },
+      "published": "2025-11-19T20:56:59Z"
+    }
+  }
+]
