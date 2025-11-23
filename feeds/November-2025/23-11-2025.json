@@ -1192,5 +1192,178 @@
       ],
       "published": "2025-11-23T15:45:01Z"
     }
+  },
+  {
+    "hash": "3b65a4318b54f70b463b060b57a0b1cf507f2ae6561785370e4b7c8b1e6630c1",
+    "item": {
+      "title": "Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test",
+      "description": "AWS engineers have been working on Linux kernel improvements to KVM's VMX code for enhancing the unmanaged guest memory when dealing with nested virtual machines. The improved code addresses some correctness issues as well as delivering wild performance improvements within a synthetic benchmark...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-23T11:48:00Z"
+    }
+  },
+  {
+    "hash": "416c3dbcba90032c8024784060c1981ead1c9b822c3b15e84e124326d0cbc7e1",
+    "item": {
+      "title": "Fran Sans – font inspired by San Francisco light rail displays",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46025942\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://emilysneddon.com/fran-sans-essay"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T18:20:27Z"
+    }
+  },
+  {
+    "hash": "a3d1adb9d6155a90620077d34b2b5335ce15de3aec04d604f17506ae03c7df1a",
+    "item": {
+      "title": "780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46026579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/loaded-this-linux-distro-in-a-month/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T19:38:15Z"
+    }
+  },
+  {
+    "hash": "ba0834b88e121f036a06674ebfa8d4bfdb3028fdea80278149f39087b2bb37d4",
+    "item": {
+      "title": "\"Good engineering management\" is a fad",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46026939\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lethain.com/good-eng-mgmt-is-a-fad/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T20:16:04Z"
+    }
+  },
+  {
+    "hash": "091692a21055b75f9716a227877c83dc5acd77c8a0319cde21b8cf09b581277c",
+    "item": {
+      "title": "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45964956\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/unhappychoice/gitlogue"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-18T12:47:04Z"
+    }
+  },
+  {
+    "hash": "4449e0d11618703cc5f2738e2ad019408521dd5f0c54586aebf37db73e6b4263",
+    "item": {
+      "title": "Editing Code in Emacs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46024032\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T14:59:38Z"
+    }
+  },
+  {
+    "hash": "2d70635e4df63da306da92376385378ed8c8a90fe4c6c0efd9d92711b4c66802",
+    "item": {
+      "title": "A time-travelling door bug in Half Life 2",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46009962\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mastodon.gamedev.place/@TomF/115589875974658415"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-21T22:48:39Z"
+    }
+  },
+  {
+    "hash": "75063ff441b2770e43656ef4eebee239194e355ac91a77556dc5c200a3dbbb76",
+    "item": {
+      "title": "SVG.js v3.2",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46025477\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://svgjs.dev/docs/3.2/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T17:38:28Z"
+    }
+  },
+  {
+    "hash": "c6426d5aac7adbf477a34f4fe6225a8dadbde7e617773f4836e9128d36eea228",
+    "item": {
+      "title": "Forever Object: The Staple-Less Oceanus Brass Stapler",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45979357\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.core77.com/posts/139027/Forever-Object-The-Staple-less-Oceanus-Brass-Stapler"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T13:36:43Z"
+    }
+  },
+  {
+    "hash": "2a7899b97c073b532f8fb150bae69873874946d6a632e64d1d16f09caf315371",
+    "item": {
+      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46017972\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mathstodon.xyz/@tao/115591487350860999"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-22T20:27:41Z"
+    }
+  },
+  {
+    "hash": "4cea2ebf68fd95a40a6590269df77c18e994903c776c3931277ca85ae7369cce",
+    "item": {
+      "title": "MCP Apps: Extending servers with interactive user interfaces",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46020502\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T03:27:04Z"
+    }
+  },
+  {
+    "hash": "7db63d4a6326d321c10906fbac76d7c80dfef1d4b226cf47f8240bb9ece46045",
+    "item": {
+      "title": "The Inference Economy: Why demand matters more than supply",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45919054\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://frontierai.substack.com/p/the-inference-economy-part-ii"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-13T19:02:30Z"
+    }
+  },
+  {
+    "hash": "661d05297509d9950587eb2f88a3cb7e5aed70a7904b5008162a7e615255d8ae",
+    "item": {
+      "title": "Garibaldi, history's sexiest revolutionary?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45941775\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-16T00:38:51Z"
+    }
+  },
+  {
+    "hash": "8f3815f9b555abc4e04107a136fdb841c2054cda4d18255d957e0b0ec8f1687f",
+    "item": {
+      "title": "Apple to focus on 'quality and underlying performance' with iOS 27 next year",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46025933\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T18:19:27Z"
+    }
   }
 ]
