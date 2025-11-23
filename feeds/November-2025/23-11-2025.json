@@ -554,5 +554,153 @@
       },
       "published": "2025-11-23T08:36:13Z"
     }
+  },
+  {
+    "hash": "9df7244b84a1bd0915ad9fa5697a11ece5f5862f80a22c826d7936c177208db4",
+    "item": {
+      "title": "After my dad died, we found the love letters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46021825\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T08:40:41Z"
+    }
+  },
+  {
+    "hash": "15589aff588cb8b33a801f629730529151454dad67a2ab4ba9ad18f4eb811b74",
+    "item": {
+      "title": "Almost all Collatz orbits attain almost bounded values",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45957911\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-17T20:28:32Z"
+    }
+  },
+  {
+    "hash": "30e52325653be815a3302f385a5122705a733f63553ee3fb3d7ba95af8342359",
+    "item": {
+      "title": "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46022892\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://deepnote.com/join-us"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T12:03:06Z"
+    }
+  },
+  {
+    "hash": "2ab2c0e4b1f60c0759dbc71f985d0d3e2ef9e74f08a8c1377917fbc9a2ad7400",
+    "item": {
+      "title": "CERN Council reviews feasibility study for a next-generation collider",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45894872\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-12T00:31:46Z"
+    }
+  },
+  {
+    "hash": "9a3883f9fe2c0eb02cdfccb9d8bb7f44d2b53e019c61e72bd4e8749b627f1ba7",
+    "item": {
+      "title": "Signal knows who you're talking to",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46022279\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T10:22:24Z"
+    }
+  },
+  {
+    "hash": "a22bf6bf9da912ad347363abb79b4e8bc42635c433b3c3920ba50983927b385d",
+    "item": {
+      "title": "Antic Magazine Interviews Alan Reeve, the Creator of the Diamond OS (1990)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45891961\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-11T19:52:26Z"
+    }
+  },
+  {
+    "hash": "3880dbb15e0262f94ba35571ea02a28e493df95abc23e5755ab9b9bd2608fe92",
+    "item": {
+      "title": "Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test",
+      "description": "AWS engineers have been working on Linux kernel improvements to KVM's VMX code for enhancing the unamanged guest memory when dealing with nested virtual machines. The improved code addresses some correctness issues as well as delivering wild performance improvements within a synthetic benchmark...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-23T11:48:00Z"
+    }
+  },
+  {
+    "hash": "a69956325dcb89341798c623b3e477d92bf22c5714670090a1a1d215328cadc6",
+    "item": {
+      "title": "Glibc Math Code Sees 4x Improvement On AMD Zen By Changing FMA Implementation",
+      "description": "Merged this week to the GNU C Library \"glibc\" code is dropping the ldbl-96 FMA implementation from this library as in doing so they found a 4x improvement to throughput and latency on AMD Zen 3 hardware...",
+      "links": [
+        "https://www.phoronix.com/news/Glibc-4x-FMA-Improvement-Zen"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-23T11:31:03Z"
+    }
+  },
+  {
+    "hash": "e4d4bf153915671661501229d2246bf8c4e44ef9cca7d334d808b8f8276515ca",
+    "item": {
+      "title": "Google Looks To Bring JPEG-XL Support Back To Chrome / Chromium",
+      "description": "Back in 2022 was the surprising decision by Google that they were going to deprecate JPEG-XL image support in Chrome. By the end of 2022 they went ahead and removed JPEG-XL support from Chrome/Chromium to the frustration of many web developers and end-users interested in this image format. Now though as we get ready to roll into 2026, Google engineers are looking at bringing back JPEG-XL support to the Chrome web browser...",
+      "links": [
+        "https://www.phoronix.com/news/JPEG-XL-Possible-Chrome-Back"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-23T11:10:07Z"
+    }
+  },
+  {
+    "hash": "f6bccd5b8fdc68c0e78b0e7f505bec3d480a9cf0d5559ba410d6101d9ce6b6b9",
+    "item": {
+      "title": "Bitcoin Price Prediction: Smart Money Buying Spot? What the $80,500 Support Level Signals for Q1",
+      "description": "\u003cp\u003eSmart money may be accumulating as BTC tests the $80,500 zone. Read this Bitcoin price prediction to see whether a Q1 reversal is forming at key support.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-smart-money-buying-spot-what-the-80500-support-level-signals-for-q1/\"\u003eBitcoin Price Prediction: Smart Money Buying Spot? What the $80,500 Support Level Signals for Q1\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-smart-money-buying-spot-what-the-80500-support-level-signals-for-q1/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/26105642/1756205801-bitcoin-price-prediction-7.jpg"
+      },
+      "published": "2025-11-23T11:19:10Z"
+    }
   }
 ]
