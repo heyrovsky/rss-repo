@@ -2486,5 +2486,650 @@
       },
       "published": "2025-11-24T12:33:27Z"
     }
+  },
+  {
+    "hash": "ba9420185c42061fa78927223cf7b9ddfac01747b890c3d9355d74d871421244",
+    "item": {
+      "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036217\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mamot.fr/@LaQuadrature/115581775965025042"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T17:00:07Z"
+    }
+  },
+  {
+    "hash": "dcfc7ccb86e3c72c1da9c68788553c265ca8fb2896a103f280bbd1e0dd6ca1bb",
+    "item": {
+      "title": "SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46035533\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T16:03:36Z"
+    }
+  },
+  {
+    "hash": "e4b65cbcf0b323adf170062dc73a0c9b80d4f0d2a70e70c37f5e1168961593e9",
+    "item": {
+      "title": "Inside Rust's std and parking_lot mutexes – who wins?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45989284\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-20T05:32:13Z"
+    }
+  },
+  {
+    "hash": "0a7c284778c606241d40d5f968a9b0b92b0b65a178021951668da65be910c2de",
+    "item": {
+      "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036222\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46036222"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T17:00:33Z"
+    }
+  },
+  {
+    "hash": "2b4d4ef0fe142d6f8843230993307cdcf3c7f3d8cc501bb552732426bb52b282",
+    "item": {
+      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45980474\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T15:07:35Z"
+    }
+  },
+  {
+    "hash": "0df59bfa69de1a3e8c6a38eaa1d4be68411c7d16c343d304484697d560d1a7c5",
+    "item": {
+      "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45996527\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-20T19:21:27Z"
+    }
+  },
+  {
+    "hash": "391fc92e662c091af937a5b27e94bbc59ffc10307f7ce8477e4150e848f7fe9b",
+    "item": {
+      "title": "A New Raspberry Pi Imager",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036129\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T16:52:21Z"
+    }
+  },
+  {
+    "hash": "d7b882675e739cd756048b43e7be32537680dc6e37d16ce7afa3e01de60d2fff",
+    "item": {
+      "title": "I built a faster Notion in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985306\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://imedadel.com/outcrop/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T21:15:45Z"
+    }
+  },
+  {
+    "hash": "d78de9c8082ea258b4e8a8714ad08f585e0cdcf6b4f176e626af4ad6d09e2387",
+    "item": {
+      "title": "I put a real search engine into a Lambda, so you only pay when you search",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032694\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T11:02:51Z"
+    }
+  },
+  {
+    "hash": "fb53d4d320efc34b2b7b74dd4ea295b52b2e33481bf970d968f749e20b84e9a0",
+    "item": {
+      "title": "AMD SDCIAE Working Its Way Into The Linux 6.19 Kernel",
+      "description": "A year and a half after the Linux kernel patches were first posted, SDCIAE that is found with AMD Zen 5 server processors is set to finally be supported by the mainline kernel come Linux 6.19...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-SDCIAE-Linux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-24T17:36:45Z"
+    }
+  },
+  {
+    "hash": "fabbd49e0d515966794920d4378bffbc336b6f0cdaa2d21dea47771edb3cd333",
+    "item": {
+      "title": "Dell Pro Max with GB10 Arrives For Linux Performance Benchmarking",
+      "description": "The most exciting hardware to arrive this month in the Phoronix lab is Dell having sent over two of their new Dell Pro Max with GB10 systems. The Dell Pro Max with GB10 is their build-out around NVIDIA's GB10 superchip with ten Cortex-X925 CPU cores and ten Cortex-A725 cores plus the GB10 Blackwell GPU. With 128GB of LPDDR5X memory and 2TB or 4TB SSD by default all within the small chassis, this is an interesting workstation for AI developers.",
+      "links": [
+        "https://www.phoronix.com/review/dell-pro-max-gb10-preview"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-24T15:50:00Z"
+    }
+  },
+  {
+    "hash": "b9eaa18f9a916699f9d8e1ed150428b483473472ea9bdfe2c1b28b4d878aa691",
+    "item": {
+      "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
+      "description": "Cybersecurity researchers have discovered five vulnerabilities in Fluent Bit, an open-source and lightweight telemetry agent, that could be chained to compromise and take over cloud infrastructures.\nThe security defects \"allow attackers to bypass authentication, perform path traversal, achieve remote code execution, cause denial-of-service conditions, and manipulate tags,\" Oligo Security said in",
+      "links": [
+        "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglthAM8BOOHnPV1FD-cS4ytxy6NAV-36uBknDThxhfkbb4DdfzRkVt03DWxFsmD3Q9xTBCvTJa2Fh_E47zrbVeSIWaopvPq4LhNcz6kSjVhJ_ahBpgn4SdUUT67vPM5JJzMcr8Ua8tiY0Ms25mD1NK144NWo4wW4udxwocySfkBfmE92C1OUwHNvjfni_l/s1600/bit-main.jpg"
+      },
+      "published": "2025-11-24T15:03:00Z"
+    }
+  },
+  {
+    "hash": "2f4b93a284f49fdae156b2908e1872eb135030bbed7fee70f72e2d5eefff0282",
+    "item": {
+      "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
+      "description": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz.\u0026nbsp;The trojanized npm packages were uploaded to",
+      "links": [
+        "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLSWDs-MFKC4LHjaGHmL2Nm8sV_Vtj1wnJdwLuaZPzdkZCGlh4iKwlgmfgLfIXl39GZoirVgW24U0kpvEi6VWllFeR7Pth08LmNAS9yRQJYVSgQhH3DQn7ocCW9q-p6dvBDiMZRhQLmjn-VHVHtCnaLOwiek4UGrOBUOw3pHeb5y2CgBF4896vDd88CVBc/s1600/git.jpg"
+      },
+      "published": "2025-11-24T13:03:00Z"
+    }
+  },
+  {
+    "hash": "7c4c555a8624317a2c42fc9b36cb823d3fca1dc958edea4dfb966ce11b4c7dc8",
+    "item": {
+      "title": "[$] APT Rust requirement raises questions",
+      "description": "\u003cp\u003eIt is rarely newsworthy when a project or package picks up a new\ndependency. However, changes in a core tool like Debian's \u003ca\nhref=\"https://salsa.debian.org/apt-team/apt#apt\"\u003eAdvanced Package\nTool\u003c/a\u003e (APT) can have far-reaching effects. For example, Julian\nAndres Klode's \u003ca\nhref=\"https://lwn.net/ml/all/20251031213541.GA73786@debian.org/\"\u003edeclaration\u003c/a\u003e\nthat APT would require Rust in May 2026 means that a few of Debian's\nunofficial ports must either acquire a working Rust toolchain or\ndepend on an old version of APT. This has raised several questions\nwithin the project, particularly about the ability of a single\nmaintainer to make changes that have widespread impact.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1046841/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-11-24T15:26:49Z"
+    }
+  },
+  {
+    "hash": "6081fbac347b3ea22380fc71b72b15920df042a13aca32090b342d4b26ccc3fc",
+    "item": {
+      "title": "Ethena (ENA) Flashes TD Sequential Buy Signal: Is Upside Ahead?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Ethena-ENA-Flashes-TD-Sequential-Buy-Signal-Is-an-Upside-Ahead-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethena (ENA) Flashes TD Sequential Buy Signal: Is Upside Ahead?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Ethena-ENA-Flashes-TD-Sequential-Buy-Signal-Is-an-Upside-Ahead-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Ethena-ENA-Flashes-TD-Sequential-Buy-Signal-Is-an-Upside-Ahead-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Ethena-ENA-Flashes-TD-Sequential-Buy-Signal-Is-an-Upside-Ahead-1-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe active bearish wind within the crypto market has triggered most of the assets down, losing momentum. As the Fear and Greed Index value holds at 12, the market sentiment lingers at extreme fear. Bitcoin has slipped toward $85K, while Ethereum trades at $2.8K. However, Ethena (ENA) has registered a",
+      "links": [
+        "https://thenewscrypto.com/ethena-ena-flashes-td-sequential-buy-signal-is-upside-ahead/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ENA",
+        "Ethena"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Ethena-ENA-Flashes-TD-Sequential-Buy-Signal-Is-an-Upside-Ahead-1.jpg"
+      },
+      "published": "2025-11-24T14:03:45Z"
+    }
+  },
+  {
+    "hash": "53fd3cd478875afe0254a8576bc800d9871c69eedb678bd14b3d2d75b9438a72",
+    "item": {
+      "title": "Wallet in Telegram Lists Monad, Enabling Telegram TGE Trading \u0026 Expanding MON Distribution",
+      "description": "\u003cp\u003e\u003cimg width=\"1920\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds.jpg 1920w, https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds-768x461.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds-1536x922.jpg 1536w\" sizes=\"auto, (max-width: 1920px) 100vw, 1920px\" /\u003e\u003c/p\u003ePanama City, Panama, 24th November 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/wallet-in-telegram-lists-monad-enabling-telegram-tge-trading-expanding-mon-distribution/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Monad_in_Crypto_Wallet_ENG_1763982205cTYjZJq2Ds.jpg"
+      },
+      "published": "2025-11-24T14:00:32Z"
+    }
+  },
+  {
+    "hash": "4cabf6bcbb1c0adf12b474d0aaf0b5609c0df581f33d4cc126241f5c378c6197",
+    "item": {
+      "title": "Big Test for Hedera (HBAR): How High Can It Climb Before the Bulls Slow Down?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Big-Test-for-Hedera-HBAR-How-High-Can-It-Climb-Before-the-Bulls-Slow-Down.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Big Test for Hedera (HBAR): How High Can It Climb Before the Bulls Slow Down?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Big-Test-for-Hedera-HBAR-How-High-Can-It-Climb-Before-the-Bulls-Slow-Down.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Big-Test-for-Hedera-HBAR-How-High-Can-It-Climb-Before-the-Bulls-Slow-Down-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Big-Test-for-Hedera-HBAR-How-High-Can-It-Climb-Before-the-Bulls-Slow-Down-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto assets keep falling without looking back. Some of the prices have signalled a bullish shift, but failed to hold their ground. The largest assets, like Bitcoin (BTC) and Ethereum (ETH), are trading on the downside. Turning toward the altcoin pack, Hedera (HBAR) has gained momentum by over 5.28%",
+      "links": [
+        "https://thenewscrypto.com/big-test-for-hedera-hbar-how-high-can-it-climb-before-the-bulls-slow-down/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "HBAR",
+        "Hedera"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Big-Test-for-Hedera-HBAR-How-High-Can-It-Climb-Before-the-Bulls-Slow-Down.jpg"
+      },
+      "published": "2025-11-24T11:34:00Z"
+    }
+  },
+  {
+    "hash": "b17eb3fe052b4539782f3c93da3cdce9851122eba43c67196f577d59fca56dd1",
+    "item": {
+      "title": "MEXC’s ENA Extravaganza Concludes With 51,000+ Participants and $79.7 Billion in Trading Volume",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-32.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-32.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-32-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-32-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003e MEXC, a leading global cryptocurrency exchange, announced the successful conclusion of its month-long ENA Extravaganza campaign in collaboration with Ethena. The initiative attracted 51,261 participants and generated $79.7 billion in futures trading volume. The ENA Extravaganza ran from October 21 to November 20, 2025, featuring a $1 million prize pool",
+      "links": [
+        "https://thenewscrypto.com/mexcs-ena-extravaganza-concludes-with-51000-participants-and-79-7-billion-in-trading-volume/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-32.png"
+      },
+      "published": "2025-11-24T10:00:00Z"
+    }
+  },
+  {
+    "hash": "5926147b6b315cecb7d79c618ef8bffe72cfbb34d073bc2b7da94e7e3cf74df9",
+    "item": {
+      "title": "MEXC’s Blue Chip Blitz Concludes Successfully With Over 150,000 Participants",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"455\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-31.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-31.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-31-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-31-768x448.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a leading global cryptocurrency exchange, announced the successful conclusion of its Blue Chip Blitz campaign, which attracted over 150,000 participants worldwide.  The campaign ran from October 15 to November 14 and featured a total reward pool of $2 million across five events. Zero trading fees were applied to BTC,",
+      "links": [
+        "https://thenewscrypto.com/mexcs-blue-chip-blitz-concludes-successfully-with-over-150000-participants/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-31.png"
+      },
+      "published": "2025-11-24T10:00:00Z"
+    }
+  },
+  {
+    "hash": "77ccc8b5f2fee3dfe160c1f9f80e0cee4e544163f5013c2edd1a64e8c82458ce",
+    "item": {
+      "title": "Best Altcoin Coin to Buy During the Crypto Crash – 24 November",
+      "description": "\u003cp\u003eWith the Crypto Fear \u0026amp; Greed Index at 'Extreme Fear,' here's the best altcoin coin to buy to make gains during a downturn.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-altcoin-coin-to-buy-during-the-crypto-crash-24-november/\"\u003eBest Altcoin Coin to Buy During the Crypto Crash – 24 November\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-altcoin-coin-to-buy-during-the-crypto-crash-24-november/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24105028/1763981427-best-altcoin-coin-to-buy-during-the-crypto-crash.jpg"
+      },
+      "published": "2025-11-24T17:46:24Z"
+    }
+  },
+  {
+    "hash": "8f264f4a44a86553fd2f6529b232a3a0abd32c69316a00b90b75598c45cead5c",
+    "item": {
+      "title": "ECB Warns Stablecoins Are Rising Fast With Spillover Risks",
+      "description": "\u003cp\u003eECB has assessed that stablecoins have reached record size, dominated by USDT and USDC, while euro-denominated tokens stay tiny, and has warned that de-pegging risks, runs on reserves and links to U.S. Treasuries could transmit stress into global markets without closer cross-border oversight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ecb-warns-stablecoins-are-rising-fast-with-spillover-risks/\"\u003eECB Warns Stablecoins Are Rising Fast With Spillover Risks \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ecb-warns-stablecoins-are-rising-fast-with-spillover-risks/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Blockchain",
+        "ECB",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/13115706/1741867026-1741710614-image-1741710573762_optimized.jpg"
+      },
+      "published": "2025-11-24T17:27:00Z"
+    }
+  },
+  {
+    "hash": "b05fadd584eb4d8ef61e1a6d75f1bcbdd1efd73444b9b0610258d807d1fc9863",
+    "item": {
+      "title": "Analyst: Quantum Computers Will Break Bitcoin Politics, Unleashing Flood of Lost Coins",
+      "description": "\u003cp\u003eBitcoin has faced renewed scrutiny as on-chain analysts warn that advances in quantum computing could expose long-dormant wallets and older address formats, while researchers, governments, ETF issuers, and developers debate how quickly the network must adopt post-quantum protections.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/quantum-computer-bitcoin-lost-coins/\"\u003eAnalyst: Quantum Computers Will Break Bitcoin Politics, Unleashing Flood of Lost Coins\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/quantum-computer-bitcoin-lost-coins/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Technology News",
+        "Bitcoin",
+        "Crypto security",
+        "Quantum Computing"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24160935/1764000574-0_3_optimized-1.jpg"
+      },
+      "published": "2025-11-24T17:17:34Z"
+    }
+  },
+  {
+    "hash": "459f73a4f2029b3f54122881d876b0d57ca177c8f5f3f5ea3739b4d4343012e0",
+    "item": {
+      "title": "Strategy Reports $21B Raised in 2025 as Access to Capital Markets Accelerates",
+      "description": "\u003cp\u003eStrategy has raised $21B across equity and debt in 2025, reflecting strong demand for its Bitcoin-focused treasury model. With 649,870 BTC, worth over $56B, the firm has remained the largest public corporate holder of the asset worldwide.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strategy-reports-21b-raised-in-2025-as-access-to-capital-markets-accelerates/\"\u003eStrategy Reports $21B Raised in 2025 as Access to Capital Markets Accelerates\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strategy-reports-21b-raised-in-2025-as-access-to-capital-markets-accelerates/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/07091159/1757236319-1740455603-billionaire-michael-saylor-eyes-more-bitcoin-is-a-supply-squeeze-incoming_optimized.jpg"
+      },
+      "published": "2025-11-24T16:58:19Z"
+    }
+  },
+  {
+    "hash": "ded8c2629d291e459a705d3e9867f857b7b6d78bbf69b3d845ba3b7d8ea1f5f4",
+    "item": {
+      "title": "Has Crypto Hit Bottom Or Is Altcoin Season Still Delayed?",
+      "description": "\u003cp\u003eCrypto fear has eased slightly as the index has risen from 10 to 12 and Bitcoin has traded well below recent highs, while Canton, SPX6900 and Pump.fun have posted gains that show selective dip buying, yet broader conditions have kept altcoin season distant amid cautious flows.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/has-crypto-hit-bottom-or-is-altcoin-season-still-delayed/\"\u003eHas Crypto Hit Bottom Or Is Altcoin Season Still Delayed?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/has-crypto-hit-bottom-or-is-altcoin-season-still-delayed/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24154250/1763998969-image-1763998244626_optimized.jpg"
+      },
+      "published": "2025-11-24T16:13:17Z"
+    }
+  },
+  {
+    "hash": "70618c83c94dd85c9e5cac5423b3dd2f7d06851be8721c5a0f6ededc1b4f9935",
+    "item": {
+      "title": "Crypto Giant Upbit Eyes Nasdaq IPO After Shock Merger With Naver: Report",
+      "description": "\u003cp\u003eSouth Korea’s leading crypto exchange, Upbit, is reportedly setting its sights on a Nasdaq IPO after merging with Naver, positioning itself as a global crypto-fintech leader.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/upbit-nasdaq-ipo-merger-naver/\"\u003eCrypto Giant Upbit Eyes Nasdaq IPO After Shock Merger With Naver: Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/upbit-nasdaq-ipo-merger-naver/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "IPO",
+        "Nasdaq",
+        "Upbit"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24115458/1763985297-0_1-35_optimized.jpg"
+      },
+      "published": "2025-11-24T16:12:36Z"
+    }
+  },
+  {
+    "hash": "a0622243cfe69a3fa4ad2a8b8cf0fd07026a9bee91715e146c42008589b1d6c6",
+    "item": {
+      "title": "Fake Delivery Driver Steals $11M in Crypto at Gunpoint — ‘Wrench Attacks’ Hit Record High",
+      "description": "\u003cp\u003eA man posing as a delivery driver has stolen $11 million in cryptocurrency from a San Francisco homeowner after forcing him to surrender wallet credentials\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fake-delivery-driver-steals-11m-crypto-wrench-attacks/\"\u003eFake Delivery Driver Steals $11M in Crypto at Gunpoint — \u0026#8216;Wrench Attacks\u0026#8217; Hit Record High\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fake-delivery-driver-steals-11m-crypto-wrench-attacks/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto crime",
+        "Wrench Attack"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24143722/1763995041-image-1763994969917_optimized.jpg"
+      },
+      "published": "2025-11-24T16:10:12Z"
+    }
+  },
+  {
+    "hash": "7d0973f930dc8b00a93903dd4733b8ba25e2837d3c401039fe81d35dd0d829e2",
+    "item": {
+      "title": "Grayscale Launches GXRP ETF on NYSE Arca as XRP Ledger Hits 4B Transactions",
+      "description": "\u003cp\u003eGrayscale has launched GXRP XRP trust on NYSE Arca as an exchange-traded product outside 1940-Act ETF protections, as XRP Ledger transactions have surpassed 4 billion and issuers across XRP, Solana and Dogecoin spot crypto ETFs have expanded their offerings on major U.S. exchanges.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grayscale-launches-gxrp-etf-on-nyse-arca-as-xrp-ledger-hits-4b-transactions/\"\u003eGrayscale Launches GXRP ETF on NYSE Arca as XRP Ledger Hits 4B Transactions\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grayscale-launches-gxrp-etf-on-nyse-arca-as-xrp-ledger-hits-4b-transactions/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Cryptocurrency",
+        "Grayscale",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/21092107/1761038466-xrp-price-tracker_optimized.jpg"
+      },
+      "published": "2025-11-24T15:39:18Z"
+    }
+  },
+  {
+    "hash": "3aa98e423627586ca1c35e686243951bdd147159b3354723559e471c9e7afd83",
+    "item": {
+      "title": "South Korea May Postpone Crypto Tax Again – Here is Why",
+      "description": "\u003cp\u003eSouth Korea's virtual asset taxation faces a potential fourth postponement as critical infrastructure for transaction monitoring and income classification remains absent, raising doubts about the January 2027 implementation despite five years of preparation.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-korea-may-postpone-crypto-tax-again-here-is-why/\"\u003eSouth Korea May Postpone Crypto Tax Again – Here is Why\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-korea-may-postpone-crypto-tax-again-here-is-why/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "crypto tax",
+        "South Korea"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24143440/1763994880-image-1763994857703_optimized.jpg"
+      },
+      "published": "2025-11-24T15:35:56Z"
+    }
+  },
+  {
+    "hash": "e186767fba1db8feae5db5522bc997a42a19d1d396657fe75f8fb324b7fdc5ce",
+    "item": {
+      "title": "Thai Crypto Exchange Bitkub Weighs Hong Kong IPO as Thailand’s Market Slumps",
+      "description": "\u003cp\u003eBitkub is exploring a Hong Kong IPO after Thailand’s struggling stock market dampened prospects for a domestic listing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/thai-crypto-exchange-bitkub-weighs-hong-kong-ipo-as-thailands-market-slumps/\"\u003eThai Crypto Exchange Bitkub Weighs Hong Kong IPO as Thailand’s Market Slumps\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/thai-crypto-exchange-bitkub-weighs-hong-kong-ipo-as-thailands-market-slumps/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Hong Kong",
+        "IPO",
+        "Thailand"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/24113957/1763984397-image-1763984293774_optimized.jpg"
+      },
+      "published": "2025-11-24T15:34:20Z"
+    }
+  },
+  {
+    "hash": "b442a04ac4cc6e12ff10d9f2e753149640d556411c0e78c91557b81637ec3e26",
+    "item": {
+      "title": "Digital Asset Products Face $1.94B in Weekly Outflows as Bitcoin, Ethereum Lead Withdrawals",
+      "description": "\u003cp\u003eDigital Asset Products have faced $1.94 billion in weekly outflows and $4.92 billion over four weeks, with U.S.-driven withdrawals, heavy selling in Bitcoin, Ethereum and Solana, rising short-Bitcoin exposure, and contrasting inflows into XRP, Brazil and Australia.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/digital-asset-products-face-1-94b-in-weekly-outflows-as-bitcoin-ethereum-lead-withdrawals/\"\u003eDigital Asset Products Face $1.94B in Weekly Outflows as Bitcoin, Ethereum Lead Withdrawals\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/digital-asset-products-face-1-94b-in-weekly-outflows-as-bitcoin-ethereum-lead-withdrawals/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "CoinShares",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2024/06/19090607/1718787967-1718787945505_processed.jpg"
+      },
+      "published": "2025-11-24T12:33:27Z"
+    }
+  },
+  {
+    "hash": "3bf108a369465ff636e70de38cf7c994d2e8863013ad19199212b660abfb9d80",
+    "item": {
+      "title": "Arthur Hayes Predicts Bitcoin Dip Into High $80Ks but Says $80K “Will Hold”",
+      "description": "\u003cp\u003eArthur Hayes has argued that Bitcoin may revisit the low $80,000s but hold that level, as improved dollar liquidity, returning ETF inflows, cooler retail selling, and Ethereum’s upgrade-driven recovery have pointed to gradual stabilization despite volatility.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/arthur-hayes-predicts-bitcoin-dip-into-high-80ks-but-says-80k-will-hold/\"\u003eArthur Hayes Predicts Bitcoin Dip Into High $80Ks but Says $80K “Will Hold”\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/arthur-hayes-predicts-bitcoin-dip-into-high-80ks-but-says-80k-will-hold/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Arthur Hayes",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/04101006/1743761406-832ed85f-2685-48a3-ad80-79db5ae70924_optimized.jpg"
+      },
+      "published": "2025-11-24T12:00:40Z"
+    }
   }
 ]
