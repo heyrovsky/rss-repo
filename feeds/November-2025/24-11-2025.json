@@ -1,0 +1,233 @@
+[
+  {
+    "hash": "50edeac7fa9e29a9f2a8911d8796bbde6fe8243e782e08880ba47786b0f9065c",
+    "item": {
+      "title": "Kernel prepatch 6.18-rc7",
+      "description": "Linus has released \u003ca href=\"https://lwn.net/Articles/1047577/\"\u003e6.18-rc7\u003c/a\u003e, probably the\nlast -rc before the 6.18 release.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tSo the rc6 kernel wasn't great: we had a last-minute core VM\n\tregression that caused people problems.\n\u003cp\u003e\n\tThat's not a great thing late in the release cycle like that, but\n\tit was a fairly trivial fix, and the cause wasn't some horrid bug,\n\tjust a latent gotcha that happened to then bite a late VM fix. So\n\twhile not great, it also doesn't make me worry about the state of\n\t6.18. We're still on track for a final release next weekend unless\n\tsome big new problem rears its ugly head.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1047578/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-24T00:10:02Z"
+    }
+  },
+  {
+    "hash": "80fbddd5e4575b8fd10f71f9136eca18f4a7039102d8132a5ec58617f099b012",
+    "item": {
+      "title": "Linux 6.18-rc7 Released With Late Hardware Improvements",
+      "description": "Linux 6.18-rc7 just arrived in the Git tree as the newest weekly test build leading up to Linux 6.18 stable hopefully debuting next Sunday, 30 November...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-rc7-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-23T23:03:00Z"
+    }
+  },
+  {
+    "hash": "fb0827809b72411b5c1941bc5ac569f0294946d1a9fe736142f876ecddde2434",
+    "item": {
+      "title": "Wayland Protocols 1.46 Released With New Experimental Additions",
+      "description": "Wayland Protocols 1.46 released this evening with new experimental protocols for text improvements as well as refinements to the color management protocol for HDR...",
+      "links": [
+        "https://www.phoronix.com/news/Wayland-Protocols-1.46"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-23T22:55:35Z"
+    }
+  },
+  {
+    "hash": "b2c78b22aca09c64bedfac7d3774843fe4fd2d4f2fb25eedb9bf53df6fb8e49f",
+    "item": {
+      "title": "A desktop app for isolated, parallel agentic development",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027947\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/coder/mux"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T22:24:23Z"
+    }
+  },
+  {
+    "hash": "751c33a08554ae9e2aa0e36855bcdadd5fa1d8dff0ca73a49768ef851acb83e2",
+    "item": {
+      "title": "Show HN: I wrote a minimal memory allocator in C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027962\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/t9nzin/memory"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T22:25:36Z"
+    }
+  },
+  {
+    "hash": "19da130b5015a3f166442efb28f2a7c48748adae544faa5e5d150ea279c3d5a3",
+    "item": {
+      "title": "Sunsetting Supermaven",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028033\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://supermaven.com/blog/sunsetting-supermaven"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T22:33:34Z"
+    }
+  },
+  {
+    "hash": "39a6592aff0581f1efbecea08f83680af9c16571e4ebcf7b59b9404769b615e2",
+    "item": {
+      "title": "Particle Life – Sandbox Science",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027722\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sandbox-science.com/particle-life"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T21:54:32Z"
+    }
+  },
+  {
+    "hash": "665ec6a1b0c69827718e267da850f243426d17b7b63c43f881fe67f720a32fbe",
+    "item": {
+      "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027216\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://microcad.xyz/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T20:51:22Z"
+    }
+  },
+  {
+    "hash": "f608f462f0ef26fe8610718364221a78481f5a57b979fec703f99e4382312e20",
+    "item": {
+      "title": "Liva AI (YC S25) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028046\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T22:36:07Z"
+    }
+  },
+  {
+    "hash": "a5d74b578e79e56ce01afe3e8c8e8850a2647df9539722aac40e465fb41bf748",
+    "item": {
+      "title": "Iowa City made its buses free. traffic cleared, and so did the air",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027833\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T22:06:44Z"
+    }
+  },
+  {
+    "hash": "2adc6d095ed74bc4f5ab28bf34941a356d24f1f63b667cacbfb9dbaa7ba91e79",
+    "item": {
+      "title": "X's new country-of-origin feature reveals many 'US' accounts to be foreign-run",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028422\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T23:25:03Z"
+    }
+  },
+  {
+    "hash": "3dfcefd6bcca0f571cd5a85591715863a87a439d96e620f2fdc11561692abf2a",
+    "item": {
+      "title": "1M Downloads of Zorin OS 18",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46026579\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T19:38:15Z"
+    }
+  },
+  {
+    "hash": "8acb2d96f02558cf0b2d9bc67f12da1c0d24d78cf190d8540851891e36616940",
+    "item": {
+      "title": "ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028627\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T23:53:06Z"
+    }
+  },
+  {
+    "hash": "f0035aa6df9cc49fa2ced49983b2ef710e0a02bd8502cf059210e716ed930e9a",
+    "item": {
+      "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985008\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T20:53:42Z"
+    }
+  },
+  {
+    "hash": "afa6721f4675c340b7ab6daf39c902bc38dcbf80a19c749a525345298435ede6",
+    "item": {
+      "title": "Several core problems with Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027709\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bykozy.me/blog/rust-is-a-disappointment/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T21:52:48Z"
+    }
+  },
+  {
+    "hash": "9a9bd51de3edbdd2f4590ff92deee5a4dd17d96209ff022e37146d4be264ffa5",
+    "item": {
+      "title": "Doge 'doesn't exist' with eight months left on its charter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028721\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T00:05:14Z"
+    }
+  },
+  {
+    "hash": "de92873e9284598af81d8aaa8411b3e65abbcc0bd2911fb6d72d40c18ca014ea",
+    "item": {
+      "title": "Giving the Jakks Atari Paddle a Spin",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027065\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nicole.express/2025/paddle-me-atari.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T20:31:45Z"
+    }
+  },
+  {
+    "hash": "6a01c4d4f5e43eb8359c1c87dcb8cabdc37f0ab6bd23760a611bfb3d039f4d5a",
+    "item": {
+      "title": "'Invisible' microplastics spread in skies as global pollutant",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028827\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.asahi.com/ajw/articles/16137995"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T00:18:21Z"
+    }
+  }
+]
