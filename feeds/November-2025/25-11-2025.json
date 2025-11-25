@@ -665,5 +665,107 @@
       },
       "published": "2025-11-24T22:30:00Z"
     }
+  },
+  {
+    "hash": "6c8447abbf4ad8e44fb6e8b23c33aacae3fbc622b60e8c9c045a276233d666f5",
+    "item": {
+      "title": "Linux Kernel Developers Eye Uses For Extra General Purpose Registers With APX",
+      "description": "With Advanced Performance Extensions (APX) on upcoming Intel processors doubling the number of general purpose registers (GPRs) among other advantages, Intel engineers are beginning to think of possible kernel uses for the extra registers...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-APX-Extra-GPRs-Kernel-Use"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-25T01:23:16Z"
+    }
+  },
+  {
+    "hash": "6d781cb0091313c1f60e90effcf4251695c1b766565e27e4a840719ba72ef3e5",
+    "item": {
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036895\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Swordfish90/cool-retro-term"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T17:52:01Z"
+    }
+  },
+  {
+    "hash": "ac5fff3e55ad64aff3620b86aaefbb6b1ff89367550b1485a88e5fc055a48d18",
+    "item": {
+      "title": "Build a Compiler in Five Projects",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T07:14:55Z"
+    }
+  },
+  {
+    "hash": "d6a80a93107951ef9309f30b3cd4871289cc5948a5693f31e4eb57c5ec46eda8",
+    "item": {
+      "title": "Show HN: Hypercamera – a browser-based 4D camera simulator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45979520\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dugas.ch/4d_creatures/4d_camera.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T13:54:04Z"
+    }
+  },
+  {
+    "hash": "ff448d2c103c6dc84606e103e6357151439c157452ae6164bbb1ae2102271c6f",
+    "item": {
+      "title": "How sea turtles learn locations using Earth’s magnetic field: research",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46010466\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-21T23:43:53Z"
+    }
+  },
+  {
+    "hash": "7b9b6201cc4dad647a3c64eef3d4a60280c796a7722ddde2430996f92867104c",
+    "item": {
+      "title": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032230\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/DotFox/edn.c"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T09:51:45Z"
+    }
+  },
+  {
+    "hash": "93332d8d8f145442ed1612859575e0932807a57aef19c463c27bbc9d3f69e8ec",
+    "item": {
+      "title": "Asia Market Open: Bitcoin Steadies Near $87K As Markets Lift On Renewed Rate-Cut Optimism",
+      "description": "\u003cp\u003eBitcoin hovered near $87,000 as Asia opened stronger, with regional stocks tracking Wall Street’s gains and rising confidence in a potential December Fed rate cut.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-87k-markets-up-rate-cut-bets-asia-market-open/\"\u003eAsia Market Open: Bitcoin Steadies Near $87K As Markets Lift On Renewed Rate-Cut Optimism\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-87k-markets-up-rate-cut-bets-asia-market-open/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Asia",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/25030548/1764039946-asia-market-open-cover.png"
+      },
+      "published": "2025-11-25T03:11:12Z"
+    }
   }
 ]
