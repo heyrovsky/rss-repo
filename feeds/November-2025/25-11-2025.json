@@ -2445,5 +2445,629 @@
       },
       "published": "2025-11-25T12:29:16Z"
     }
+  },
+  {
+    "hash": "a20ad34cb2bf717dc156ff70bc615f31c87fe073d814ce9cfbdef75b1369eada",
+    "item": {
+      "title": "RealPage agrees to change algorithm so landlords can’t collude on price hikes",
+      "description": "RealPage agrees to settle suit over DOJ claims software raised rents across the US.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/"
+      ],
+      "categories": [
+        "Policy",
+        "Antitrust law",
+        "price fixing",
+        "realpage"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-1152x648.jpg"
+      },
+      "published": "2025-11-25T17:51:42Z"
+    }
+  },
+  {
+    "hash": "970e9db8aebec4bd987cd226ffb4e82812a91af67af410fd8b6a6b9df1751fe6",
+    "item": {
+      "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one",
+      "description": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/"
+      ],
+      "categories": [
+        "Gaming",
+        "pc",
+        "PC gaming",
+        "price",
+        "steam machine",
+        "steam machines",
+        "Valve"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_back_a-1152x648.jpg"
+      },
+      "published": "2025-11-25T16:51:40Z"
+    }
+  },
+  {
+    "hash": "9541ea5efab73b8f1ded4734dc958368b09a9ea46aacbde0702980422ac10828",
+    "item": {
+      "title": "NTFSPLUS Driver Updated As It Works Toward The Mainline Kernel",
+      "description": "Announced last month was the NTFSPLUS driver as a new NTFS file-system driver for the Linux kernel with better write performance and more features compared to the existing NTFS options. A second iteration of that driver was recently queued into \"ntfs-next\" raising prospects that this NTFSPLUS driver could soon attempt to land in the mainline Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/NTFSPLUS-v2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-25T17:40:08Z"
+    }
+  },
+  {
+    "hash": "9d49bd21533f99c944548e15705fc69cea4a4dc8393bea70beba86630ea3f3f3",
+    "item": {
+      "title": "Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On",
+      "description": "While TUXEDO Computers recently ended their efforts for a Snapdragon X Elite Linux laptop, their Linux Intel/AMD laptop efforts continue going well and recently they have been posting patches working to enhance the upstream kernel support for those x86_64 devices...",
+      "links": [
+        "https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-25T15:47:14Z"
+    }
+  },
+  {
+    "hash": "c37bf590e9dcb9835f3858ba754e94bf2d2d9a0a59877feedc3e22966b35f5f7",
+    "item": {
+      "title": "Nix Package Tool Approved For Availability In Fedora 44",
+      "description": "Following approval of the /nix top-level directory with Fedora Linux, the Fedora Engineering and Steering Committee (FESCo) has additionally signed off on allowing the Nix package tool to appear in the Fedora 44 repository...",
+      "links": [
+        "https://www.phoronix.com/news/Fedora-44-Nix-Package-Tool"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-25T15:27:04Z"
+    }
+  },
+  {
+    "hash": "281fae08c65b61ca36f2d584bdb2b9c85af0ddc85fb5e9ea95df8b021f409610",
+    "item": {
+      "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
+      "description": "New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.\nCybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of",
+      "links": [
+        "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMOKzumRIbT28KmhxEYK7XbBCh9DFCNL3o9nhJynO8qEPufvtFSaUZ410fDSym6bQyAxTbStDCFnOjDG4QwashtUee4Cclcfu6_MQ_pcWk_cjFhnlzNy_MDFLL4vwI5LOrJnuJUzt96Cdi3E6PevLQn33zrqYBicNRERNKDJ1DYW6JIOU879I4fCSv8NQp/s1600/json.jpg"
+      },
+      "published": "2025-11-25T16:49:00Z"
+    }
+  },
+  {
+    "hash": "30ab233a7a78a90e4c94339f9702076bb9c42151a24c49e999a353596b5ff9b9",
+    "item": {
+      "title": "Pudgy Penguins (PENGU) Rallies 12%: Can Bulls Hold the Reins?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Pudgy-Penguins-PENGU-Rallies-12-Can-Bulls-Hold-the-Reins-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pudgy Penguins (PENGU) Rallies 12%: Can Bulls Hold the Reins?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Pudgy-Penguins-PENGU-Rallies-12-Can-Bulls-Hold-the-Reins-2.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Pudgy-Penguins-PENGU-Rallies-12-Can-Bulls-Hold-the-Reins-2-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Pudgy-Penguins-PENGU-Rallies-12-Can-Bulls-Hold-the-Reins-2-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eWith the 2.39% uptick in the crypto market cap, some of the major assets are waving the green flag, attempting a recovery from the bear hold. The largest assets, like Bitcoin (BTC) and Ethereum (ETH), are trading at around $87.5K and $2.9K, respectively. Meanwhile, Pudgy Penguins (PENGU) has registered a",
+      "links": [
+        "https://thenewscrypto.com/pudgy-penguins-pengu-rallies-12-can-bulls-hold-the-reins/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Cryptocurrency",
+        "PENGU",
+        "Pudgy Penguins"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Pudgy-Penguins-PENGU-Rallies-12-Can-Bulls-Hold-the-Reins-2.jpg"
+      },
+      "published": "2025-11-25T13:57:43Z"
+    }
+  },
+  {
+    "hash": "069c93fe14507c2a17024cc8c954ac275fc669ad4ede1fd4e549f4a444bcf0ee",
+    "item": {
+      "title": "From Platform to Ecosystem, SunPerp Rebrands as SunX: Justin Sun on the DEX’s Long-Term Vision and Global Expansion",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/1234.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/1234.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/11/1234-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/1234-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/11/1234-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/11/1234-376x212.jpg 376w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eOn November 20, the SunPerp rebrand launch was broadcast live on HTX. Justin Sun, Advisor to SunPerp and  HTX attended the event and officially announced that SunPerp will rebrand as SunX (sunx.io). The upgrade marks SunX\u0026#8217;s transformation from a standalone trading platform into a self-reinforcing, self-growing decentralized ecosystem. To celebrate",
+      "links": [
+        "https://thenewscrypto.com/from-platform-to-ecosystem-sunperp-rebrands-as-sunx-justin-sun-on-the-dexs-long-term-vision-and-global-expansion/"
+      ],
+      "categories": [
+        "Press Release",
+        "SunX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/1234.jpg"
+      },
+      "published": "2025-11-25T12:15:54Z"
+    }
+  },
+  {
+    "hash": "7732f3e23fd743907b1429d8b9e1c93c52c6fa43153745f790018788b5525733",
+    "item": {
+      "title": "Bitso Exchange To Unveil Multi-Platform Perps Aggregator and Ecosystem Token in 2026",
+      "description": "\u003cp\u003e\u003cimg width=\"781\" height=\"410\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-35.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/image001-35.png 781w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-35-300x157.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/image001-35-768x403.png 768w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /\u003e\u003c/p\u003eBitso exchange is elevating its crypto trading experience with new on-chain products, launching in the first quarter of 2026. The veteran crypto exchange, with over 9 million customers from the Latin American market, has announced its upcoming Perps Aggregator platform. Bitso first mentioned the news during the Bitso Onchain’s activation",
+      "links": [
+        "https://thenewscrypto.com/bitso-exchange-to-unveil-multi-platform-perps-aggregator-and-ecosystem-token-in-2026/"
+      ],
+      "categories": [
+        "Exchange News",
+        "Bitso exchange",
+        "Onchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/image001-35.png"
+      },
+      "published": "2025-11-25T12:10:15Z"
+    }
+  },
+  {
+    "hash": "b6e1ff406342afe5e41419df3d787121aa09c3d5d11789dfad26af5b5ea89b3c",
+    "item": {
+      "title": "Monad (MON) Skyrockets 26% on Mainnet Launch and Exchange Listings",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Monad-price-analysis.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Monad (MON) Skyrockets 26% on Mainnet Launch and Exchange Listings\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Monad-price-analysis.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Monad-price-analysis-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Monad-price-analysis-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMonad​‍​‌‍​‍‌​‍​‌‍​‍‌ (MON) has seen an incredible price bounce, going up 26.25% in one day only after the mainnet launch and strategic exchange deployments. The debut cryptocurrency started trading at $0.026 and later went up to $0.03571, indicating that the crowd was enthusiastic and the buyers were aggressive, both from the",
+      "links": [
+        "https://thenewscrypto.com/monad-mon-skyrockets-26-on-mainnet-launch-and-exchange-listings/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Market Updates",
+        "Altcoin",
+        "MON",
+        "Monad"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Monad-price-analysis.jpg"
+      },
+      "published": "2025-11-25T11:49:25Z"
+    }
+  },
+  {
+    "hash": "40bfeed61b300cd3ea05760449043f4486fa1fb2ee70a94b22db48e60250b478",
+    "item": {
+      "title": "Beyond Hype—How Ozak AI’s Hybrid AI-Blockchain Engine Delivers Real Utility in Data-Driven Finance Applications",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-Profits-Are-Quietly-Flowing.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Beyond Hype—How Ozak AI’s Hybrid AI-Blockchain Engine Delivers Real Utility in Data-Driven Finance Applications\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-Profits-Are-Quietly-Flowing.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-Profits-Are-Quietly-Flowing-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-Profits-Are-Quietly-Flowing-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn a crypto market flooded with buzzwords like “AI integration” and “data monetization,” Ozak AI ($OZ) is quietly separating itself from the noise by focusing on real, measurable utility. Having already raised $4.4 million and sold over 1 billion tokens in its presale, Ozak AI’s hybrid framework of artificial intelligence",
+      "links": [
+        "https://thenewscrypto.com/beyond-hype-how-ozak-ais-hybrid-ai-blockchain-engine-delivers-real-utility-in-data-driven-finance-applications/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Cryptocurrency",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/Solana-Profits-Are-Quietly-Flowing.jpg"
+      },
+      "published": "2025-11-25T11:30:00Z"
+    }
+  },
+  {
+    "hash": "bb1cfa4185a74b738ba9f100f21135b9ee9f7adf8df70a8c088cff6d1365d8c8",
+    "item": {
+      "title": "The AI Token Everyone Will Be Talking About: Ozak AI’s Presale Surge Creates Buzz Across Crypto Communities",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/What-Bitcoin-Did-in-2013.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"The AI Token Everyone Will Be Talking About: Ozak AI’s Presale Surge Creates Buzz Across Crypto Communities\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/What-Bitcoin-Did-in-2013.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/What-Bitcoin-Did-in-2013-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/What-Bitcoin-Did-in-2013-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOzak AI ($OZ) has emerged as one of the most talked-about early-stage AI crypto projects this quarter. Its presence across developer circles and trading communities continues to grow, driven by a unique combination of artificial intelligence and decentralized physical infrastructure. Ozak AI pairs predictive agents and fast analytics with a",
+      "links": [
+        "https://thenewscrypto.com/the-ai-token-everyone-will-be-talking-about-ozak-ais-presale-surge-creates-buzz-across-crypto-communities/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Cryptocurrency",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/What-Bitcoin-Did-in-2013.jpg"
+      },
+      "published": "2025-11-25T10:22:35Z"
+    }
+  },
+  {
+    "hash": "0b24e4dd8c30c4f2fe8802d11f6b667f91cb0d6ca458e91eeada18422b40954b",
+    "item": {
+      "title": "Show HN: We built an open source, zero webhooks payment processor",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46048252\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/flowglad/flowglad"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T17:33:50Z"
+    }
+  },
+  {
+    "hash": "153b1dff16deb2f7c4a54e89e0fa1b68b0befde63355f0645aa86c26fe147144",
+    "item": {
+      "title": "FLUX.2: Frontier Visual Intelligence",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46046916\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bfl.ai/blog/flux-2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T15:47:14Z"
+    }
+  },
+  {
+    "hash": "50e9caace47f669658449791c4208580fc81d1bb2922e45adc044f8d6166faa0",
+    "item": {
+      "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46045987\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46045987"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T14:20:30Z"
+    }
+  },
+  {
+    "hash": "cc71a4460daa9fb49d63ffbc448894a0f5f4da94d02df239b40182c97893ab20",
+    "item": {
+      "title": "The 101 of analog signal filtering (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46003271\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-21T10:54:15Z"
+    }
+  },
+  {
+    "hash": "075327019ad2017f754005467d847a6795d3ee415c3bb4a2f5eee42ba78f0f88",
+    "item": {
+      "title": "It Is OK to Say \"CSS Variables\" Instead of \"Custom Properties\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46048229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.kizu.dev/css-variables/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T17:31:47Z"
+    }
+  },
+  {
+    "hash": "a4a49b599c067c1c25dc4809878398ae2ed7853c13e3758014118ebaede56fbe",
+    "item": {
+      "title": "Python is not a great language for data science. Part 1: The experience",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46047580\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T16:38:57Z"
+    }
+  },
+  {
+    "hash": "2e9d6591012848ac4c214cd32d63ad5a15ac1b7d25c9e8df7f04c1c39e0a149f",
+    "item": {
+      "title": "Ozempic does not slow Alzheimer's, study finds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46047513\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T16:34:08Z"
+    }
+  },
+  {
+    "hash": "08123ac2572ab78232637fc19f49401c187dbe1d1db7c606bdbe4b2051d668e7",
+    "item": {
+      "title": "LPLB: An early research stage MoE load balancer based on linear programming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45979180\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/deepseek-ai/LPLB"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-19T13:14:38Z"
+    }
+  },
+  {
+    "hash": "c3411da03ff37ed8015a39c9e08d6803c9a205ce528fe314e4114bba971aa06b",
+    "item": {
+      "title": "Orion 1.0 – Browse Beyond",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46047350\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.kagi.com/orion"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T16:21:24Z"
+    }
+  },
+  {
+    "hash": "a02b35b13228176c84210ba33f90ddb9e16184b125f03a7ca6d451b3566a44b3",
+    "item": {
+      "title": "APT Rust requirement raises questions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46045972\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T14:18:01Z"
+    }
+  },
+  {
+    "hash": "e9c569a921f60ba24f4f44268eabc8ff37f286bfd7556f721f972575ced47195",
+    "item": {
+      "title": "Trillions Spent and Big Software Projects Are Still Failing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46045085\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/it-management-software-failures"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T12:14:11Z"
+    }
+  },
+  {
+    "hash": "5e5862d50032fcf8dd2e52b988021b8b8b9b74b2bdb0fdfd8dcfe56dd94f921f",
+    "item": {
+      "title": "U.S. Bank Taps Stellar Network for Custom Stablecoin Trial, Backed by PwC and SDF",
+      "description": "\u003cp\u003eU.S. Bank has begun testing custom stablecoin issuance on Stellar, citing asset controls and reliability as key features, as major institutions explore programmable money. At the same time, the ECB has warned that fast-growing stablecoins could transmit financial risks across borders.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/u-s-bank-taps-stellar-network-for-custom-stablecoin-trial-backed-by-pwc-and-sdf/\"\u003eU.S. Bank Taps Stellar Network for Custom Stablecoin Trial, Backed by PwC and SDF\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/u-s-bank-taps-stellar-network-for-custom-stablecoin-trial-backed-by-pwc-and-sdf/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Banks",
+        "Stablecoin",
+        "Stellar"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/05/12154340/1747064620-image-10-1_optimized.webp"
+      },
+      "published": "2025-11-25T17:43:09Z"
+    }
+  },
+  {
+    "hash": "da0d28be6123fdbeb7ee9f44718b8ce07b1bfed368e7768ac04607af329f4bd3",
+    "item": {
+      "title": "Klarna Moves Into Stablecoins via Stripe-Backed Tempo Blockchain in Sweden",
+      "description": "\u003cp\u003eKlarna has announced KlarnaUSD, a fully dollar-backed token on Stripe’s Tempo blockchain, as it has joined global payment companies issuing stablecoins to test faster, lower-cost cross-border payments for its more than 100 million users ahead of a planned 2026 launch.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/klarna-launches-klarnausd-stablecoin-stripe-tempo-blockchain/\"\u003eKlarna Moves Into Stablecoins via Stripe-Backed Tempo Blockchain in Sweden\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/klarna-launches-klarnausd-stablecoin-stripe-tempo-blockchain/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Stablecoin",
+        "Stripe",
+        "Sweden"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/25152739/1764084459-0_21_optimized.jpg"
+      },
+      "published": "2025-11-25T17:33:08Z"
+    }
+  },
+  {
+    "hash": "88c618171fea06f830c5807cf28dd538e5e41b34dfd9a7c56b7bb68d04ad9ad2",
+    "item": {
+      "title": "Metaplanet Doubles Down: $130M Loan to Buy More BT Despite $643M Loss – Bold or Reckless?",
+      "description": "\u003cp\u003eMetaplanet has secured a new $130M Bitcoin-backed loan to add BTC, expand its options income business and support share buybacks, even as it reports large unrealized losses and launches Mars and Mercury preferred shares to address a market discount to its Bitcoin reserves.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/metaplanet-130m-bitcoin-loan-despite-unrealized-loss/\"\u003eMetaplanet Doubles Down: $130M Loan to Buy More BT Despite $643M Loss – Bold or Reckless?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/metaplanet-130m-bitcoin-loan-despite-unrealized-loss/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin Treasury",
+        "collateral",
+        "Metaplanet"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/25115945/1764071984-0_12_optimized.jpg"
+      },
+      "published": "2025-11-25T17:17:36Z"
+    }
+  },
+  {
+    "hash": "f2718f0829a40a00b60ef36418960b9bcb07f8bb90c4677007bb57dd5f45b163",
+    "item": {
+      "title": "Digital Assets Forum Expands to Two Days in London, Uniting Traditional Finance and the Digital Assets Industry",
+      "description": "\u003cp\u003eLondon, UK – February 5-6, 2026 — The third edition of the Digital Assets Forum (DAF), organized by the European Blockchain Convention (EBC), will take place at Convene, 133 Houndsditch, in the heart of London’s financial district. After two sold-out, one-day editions, the forum now expands to two full days, reflecting accelerating institutional adoption and [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/press-releases/digital-assets-forum-expands-to-two-days-in-london-uniting-traditional-finance-and-the-digital-assets-industry/\"\u003eDigital Assets Forum Expands to Two Days in London, Uniting Traditional Finance and the Digital Assets Industry\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/press-releases/digital-assets-forum-expands-to-two-days-in-london-uniting-traditional-finance-and-the-digital-assets-industry/"
+      ],
+      "categories": [
+        "Press Releases"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/25170906/1764090546-daf-banners-1080-x-1080-1.png"
+      },
+      "published": "2025-11-25T17:09:43Z"
+    }
+  },
+  {
+    "hash": "d3ba86bdf3217e7b296c094199f1ea5c4bf31365dd7be3c20b4c478baa14a85c",
+    "item": {
+      "title": "Has Altcoin Season Fear Peaked As Kaspa, Ethena And Quant Push Higher",
+      "description": "\u003cp\u003eAltcoin season has stayed distant as only a small group of names, including Kaspa, Ethena and Quant, have advanced on project-specific factors while most tokens have faced pressure from Bitcoin’s direction, weak risk appetite, and a Fear and Greed Index that has remained in extreme caution.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/has-altcoin-season-fear-peaked-as-kaspa-ethena-and-quant-push-higher/\"\u003eHas Altcoin Season Fear Peaked As Kaspa, Ethena And Quant Push Higher\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/has-altcoin-season-fear-peaked-as-kaspa-ethena-and-quant-push-higher/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/25153055/1764084655-image-1764084530948_optimized.jpg"
+      },
+      "published": "2025-11-25T17:02:43Z"
+    }
+  },
+  {
+    "hash": "78e59b40c5be56fb7dda51cc572f507f73562845cdde71fe1741020e80f647ea",
+    "item": {
+      "title": "Polymarket Secures Amended CFTC Order Clearing Way for Trading in the U.S.",
+      "description": "\u003cp\u003ePolymarket has received an amended CFTC order that lets it operate as a regulated U.S. exchange with intermediated access via FCMs and brokers, upgraded surveillance, reporting and consumer protections, and potential liquidity support from Mike Novogratz’s Galaxy Digital.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/polymarket-secures-amended-cftc-order-clearing-way-for-trading-in-the-us/\"\u003ePolymarket Secures Amended CFTC Order Clearing Way for Trading in the U.S.\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/polymarket-secures-amended-cftc-order-clearing-way-for-trading-in-the-us/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "CFTC",
+        "Polymarket",
+        "Prediction markets"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/10/09064914/1759992554-stock-image_optimized-10.jpg"
+      },
+      "published": "2025-11-25T16:59:35Z"
+    }
+  },
+  {
+    "hash": "be5c341fd6261f91f6c222f5a69bd4db9f47333ee28f8d5fb7783198b0221e1a",
+    "item": {
+      "title": "South Korea’s Naver to Launch Stablecoin Wallet With Hashed and BDAN",
+      "description": "\u003cp\u003eNaver Financial, the fintech arm of South Korean internet giant Naver, is preparing to roll out a stablecoin wallet in Busan.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-koreas-naver-to-launch-stablecoin-wallet-with-hashed-and-bdan/\"\u003eSouth Korea’s Naver to Launch Stablecoin Wallet With Hashed and BDAN\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-koreas-naver-to-launch-stablecoin-wallet-with-hashed-and-bdan/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Cryptocurrency",
+        "South Korea",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/25124447/1764074687-image-1764073284282_optimized.jpg"
+      },
+      "published": "2025-11-25T15:27:28Z"
+    }
+  },
+  {
+    "hash": "8db2b78a10dff9a28b7b2d95cb405cb64a2fbfbf7a440de4d97d79a56d06666d",
+    "item": {
+      "title": "Taurus Joins Canton Network as Custodian on Goldman Sachs–Backed Institutional Chain",
+      "description": "\u003cp\u003eTaurus has expanded its digital asset infrastructure by adding custody support for the Canton Token Standard and joining the Canton Network as a Super Validator, while integrating its Taurus-PROTECT and Taurus-CAPITAL platforms with Solana for tokenized asset issuance and management.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/taurus-joins-canton-network-as-custodian-on-goldman-sachs-backed-institutional-chain/\"\u003eTaurus Joins Canton Network as Custodian on Goldman Sachs–Backed Institutional Chain\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/taurus-joins-canton-network-as-custodian-on-goldman-sachs-backed-institutional-chain/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Canton Network",
+        "Goldman Sachs",
+        "taurus"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/04/09070414/1744182254-image-1744182204087_optimized.jpg"
+      },
+      "published": "2025-11-25T14:32:44Z"
+    }
   }
 ]
