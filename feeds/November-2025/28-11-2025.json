@@ -965,5 +965,172 @@
       },
       "published": "2025-11-28T04:45:18Z"
     }
+  },
+  {
+    "hash": "6667ac7bcada551421547f01026b347dc1c47b97feddcf69c2897cf77b319621",
+    "item": {
+      "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
+      "description": "Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.\n\"When users operate as guests in another tenant, their protections are determined entirely by that hosting environment, not by their home organization,\" Ontinue security researcher Rhys Downing said in a report",
+      "links": [
+        "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg"
+      },
+      "published": "2025-11-28T08:33:00Z"
+    }
+  },
+  {
+    "hash": "2384c56940fec275b014c09b96c0ed942fc02910acabb250f6d253a7818b0a2d",
+    "item": {
+      "title": "Show HN: Glasses to detect smart-glasses that have cameras",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46075882\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/NullPxl/banrays"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T05:52:38Z"
+    }
+  },
+  {
+    "hash": "b78c97e144ba00498050eaea69f6887f21e77eb9b7df789f7e853fc2d9fc1076",
+    "item": {
+      "title": "Implementing Bluetooth LE Audio and Auracast on Linux Systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038684\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.collabora.com/news-and-blog/blog/2025/11/24/implementing-bluetooth-le-audio-and-auracast-on-linux-systems/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T20:15:53Z"
+    }
+  },
+  {
+    "hash": "4ce5fa9dea51d992ceba6b0f7c20347df440e2f9705efe44d404632c7bf49a88",
+    "item": {
+      "title": "How to use Linux vsock for fast VM communication",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46075746\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T05:19:45Z"
+    }
+  },
+  {
+    "hash": "74e7c9088854aeb9bbbfcccebeaadb4a57af5384ca008e046a15b36bf345119b",
+    "item": {
+      "title": "Comparing xeus-Haskell and ihaskell kernels",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054661\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.datahaskell.org/blog/2025/11/25/a-tale-of-two-kernels.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T06:13:26Z"
+    }
+  },
+  {
+    "hash": "52dd57a60abcc4e98ca6b52eebc80426e9c0ed5552f20203a3cb1d87c15bed1d",
+    "item": {
+      "title": "GrapheneOS Moving Out of France",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46076150\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://xcancel.com/GrapheneOS/status/1993035936800584103"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T06:43:13Z"
+    }
+  },
+  {
+    "hash": "b5538edcd44a79597b34355680a1ecd1208a2ffcdbc9a6888510bd81cd3939c6",
+    "item": {
+      "title": "Beads – A memory upgrade for your coding agent",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46075616\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/steveyegge/beads"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T04:50:57Z"
+    }
+  },
+  {
+    "hash": "128e819e739b2f0a72b1edeb5aa3a036c864ca8ec7d41edb6b27098aa1214f25",
+    "item": {
+      "title": "Designing a Mechanical Calculator",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46026343\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://signoregalilei.com/2025/11/22/designing-a-mechanical-calculator/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T19:09:17Z"
+    }
+  },
+  {
+    "hash": "44edd7893dac569da53a0302fd51c71f42b3d85e24ffc043d78c0205c718e6c6",
+    "item": {
+      "title": "Shor's algorithm: the one quantum algo that ends RSA/ECC tomorrow",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46075219\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.ellipticc.com/posts/what-is-shors-algorithm-and-why-its-the-single-biggest-threat-to-classical-cryptography/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T03:19:51Z"
+    }
+  },
+  {
+    "hash": "9113bc33806fb864785efe7420bb13a135f4a2201ce8c9f1986ec24858af819a",
+    "item": {
+      "title": "FC Barcelona Faces Backlash Over Sponsorship with Obscure Crypto Firm",
+      "description": "\u003cp\u003eFC Barcelona's three-year deal with offshore blockchain startup Zero-Knowledge Proof triggers concerns over due diligence and fan exposure to financial risk as the club battles mounting debt.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fc-barcelona-faces-backlash-over-sponsorship-with-obscure-crypto-firm/\"\u003eFC Barcelona Faces Backlash Over Sponsorship with Obscure Crypto Firm\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fc-barcelona-faces-backlash-over-sponsorship-with-obscure-crypto-firm/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Sport"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/28082642/1764318401-image-1764318375290_optimized.jpg"
+      },
+      "published": "2025-11-28T09:08:08Z"
+    }
+  },
+  {
+    "hash": "d1c1767b23fbfe805c55b5fdbd938074ae82953da9bd2d7504b872a3bc58c1b7",
+    "item": {
+      "title": "South Africa Central Bank Shelves Retail CBDC, Backs Payments Upgrade Instead",
+      "description": "\u003cp\u003eSouth Africa’s central bank says a retail CBDC is not needed now and is prioritizing payments system upgrades instead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/south-africa-central-bank-shelves-retail-cbdc-backs-payments-upgrade-instead/\"\u003eSouth Africa Central Bank Shelves Retail CBDC, Backs Payments Upgrade Instead\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/south-africa-central-bank-shelves-retail-cbdc-backs-payments-upgrade-instead/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "CBDC",
+        "Payment",
+        "South Africa"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/28063755/1764311874-image-1764311709185_optimized.jpg"
+      },
+      "published": "2025-11-28T06:44:26Z"
+    }
   }
 ]
