@@ -2793,5 +2793,250 @@
       },
       "published": "2025-11-28T15:17:52Z"
     }
+  },
+  {
+    "hash": "c2a8db3df4118a2f58565ec0b3f26a6e00529a20ecd95bdae39035714617ff27",
+    "item": {
+      "title": "New Patches Work To Optimize Code Generation For Linux Context Switching",
+      "description": "As some additional enticing Linux kernel patches posted this week for review, an updated patch series is working to optimize code generation during context switching...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-CodeGen-Faster-Ctx-Switch"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-28T19:17:34Z"
+    }
+  },
+  {
+    "hash": "d2d4ed191df12b1ccc1ef9d165692af1632c772a58cb753a8ab46e5950850dd0",
+    "item": {
+      "title": "28M Hacker News comments as vector embedding search dataset",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46081053\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T18:02:04Z"
+    }
+  },
+  {
+    "hash": "47a60b7f06638314673443ab7d4aed64e401bb0ff088a67e07ff6e00c6f3a74f",
+    "item": {
+      "title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46081188\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.tymscar.com/posts/imgurukproxy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T18:15:50Z"
+    }
+  },
+  {
+    "hash": "a272ee742d84a4c45eff197f13467ad87b00ebde40d950009df8820a84d7cc47",
+    "item": {
+      "title": "Molly: An Improved Signal App",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46080916\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://molly.im/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T17:48:25Z"
+    }
+  },
+  {
+    "hash": "a07fc253f9e48704063908158412b38a7013eaae32d9b5fa80e0be483357c07b",
+    "item": {
+      "title": "Effective harnesses for long-running agents",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46081704\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T19:05:16Z"
+    }
+  },
+  {
+    "hash": "d1d6f5a328e44bdbae65baf66bb2cba98fbee449ac0e83177f227e78aef5ad16",
+    "item": {
+      "title": "Don't tug on that, you never know what it might be attached to (2016)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46079785\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.plover.com/2016/07/01/#tmpdir"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T16:01:01Z"
+    }
+  },
+  {
+    "hash": "204b6b2a75d6a778e1f4692a66550ab7d026d8f7d74390c6f319d2c21a921325",
+    "item": {
+      "title": "The original ABC language, Python's predecessor (1991)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46082204\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/gvanrossum/abc-unix"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T19:58:13Z"
+    }
+  },
+  {
+    "hash": "af5210f3b77801bdc45e7961909293e3c495ca5a9f4d580e12f5c39a13a567de",
+    "item": {
+      "title": "Airloom – 3D Flight Tracker",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46080289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://objectiveunclear.com/airloom.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T16:49:12Z"
+    }
+  },
+  {
+    "hash": "e847fce0dbdfc6afd30d3b5ee25ed848c98c2336df8e7ed6f89b44f0c494059d",
+    "item": {
+      "title": "Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46081443\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://473999.net/pulse"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T18:39:34Z"
+    }
+  },
+  {
+    "hash": "32fe9bf2811fbb44995e7a2f70da9d79962e6387b6e2953c2c9fd61deb485834",
+    "item": {
+      "title": "Generalizing Printf in C",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46028649\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://webb.is-a.dev/articles/generalizedprintf/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-23T23:54:55Z"
+    }
+  },
+  {
+    "hash": "df9a88c0f7a33d464cc544503efecce8dd1b3b42a98071eb1bc3f5c6d0af2cbc",
+    "item": {
+      "title": "Anti-patterns while working with LLMs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46080597\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://instavm.io/blog/llm-anti-patterns"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T17:16:52Z"
+    }
+  },
+  {
+    "hash": "5c5658265736ac22582fbf52ed94b2f2a0449f442d94c17b3255d9cb6c139983",
+    "item": {
+      "title": "Analog Hoverboard Controller",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037486\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/skrubis/analog-hoverboard"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T18:42:42Z"
+    }
+  },
+  {
+    "hash": "f05b604c0d970147d7cf3c4bddbce71cee0e13850bf4eec9b13a454e09458af8",
+    "item": {
+      "title": "How I talk to whales",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46042581\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/11/23/opinion/whale-language-ai.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T05:18:14Z"
+    }
+  },
+  {
+    "hash": "095d515bb862dc8c2427efb563c66d9fa825e372bef8aadb8209cd2f1e70d5fc",
+    "item": {
+      "title": "Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform",
+      "description": "\"We are going to learn just how important the ISS is to leadership.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/"
+      ],
+      "categories": [
+        "Space",
+        "iss",
+        "launch pad failure",
+        "progress",
+        "russia",
+        "site 31",
+        "soyuz",
+        "space"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/soyuz1-1152x648.jpg"
+      },
+      "published": "2025-11-28T16:16:48Z"
+    }
+  },
+  {
+    "hash": "fbcdaa39824ec26c9cffcfb2414816ef7e157f3fd55d51dcf379a56caa73316e",
+    "item": {
+      "title": "Uzbekistan Legalizes Stablecoins for Payments and Tokenized Stocks in Massive 2026 Overhaul",
+      "description": "\u003cp\u003eUzbekistan has prepared a 2026 sandbox that will test stablecoin payments and support tokenized stocks and bonds, while keeping all crypto activity on licensed local platforms with KYC, data-retention duties, and regulated mining as global stablecoin rules have advanced.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uzbekistan-stablecoins-tokenized-stocks-2026/\"\u003eUzbekistan Legalizes Stablecoins for Payments and Tokenized Stocks in Massive 2026 Overhaul\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uzbekistan-stablecoins-tokenized-stocks-2026/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Regulation",
+        "Stablecoin",
+        "Stocks"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/28190804/1764356884-image-1764356748992_optimized.jpg"
+      },
+      "published": "2025-11-28T20:02:02Z"
+    }
+  },
+  {
+    "hash": "284f118c510497f1595de93418f5ca30db0483d5090b9c13e59450868c6b54d0",
+    "item": {
+      "title": "Weekly Crypto Regulation Roundup: SEC Clears Solana’s Fuse Token and Trump Eyes Crypto-Friendly Fed Chair",
+      "description": "\u003cp\u003eCrypto regulation has shifted this week as the SEC grants Fuse a no-action letter on a Solana-based token, Congress targets AI-powered fraud schemes, and the CFTC outlines new oversight priorities for prediction markets and emerging financial technologies.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/weekly-crypto-regulation-roundup-sec-clears-solanas-fuse-token-and-trump-eyes-crypto-friendly-fed-chair/\"\u003eWeekly Crypto Regulation Roundup: SEC Clears Solana’s Fuse Token and Trump Eyes Crypto-Friendly Fed Chair\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/weekly-crypto-regulation-roundup-sec-clears-solanas-fuse-token-and-trump-eyes-crypto-friendly-fed-chair/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto Regulation",
+        "Federal Reserve",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/08/01191140/1743797078-weekly-crypto-regulation-news-roundup.jpg"
+      },
+      "published": "2025-11-28T18:50:55Z"
+    }
   }
 ]
