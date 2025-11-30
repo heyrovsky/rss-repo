@@ -377,5 +377,418 @@
       },
       "published": "2025-11-30T08:40:54Z"
     }
+  },
+  {
+    "hash": "4fb14c4ec7e28cc915dbe78cc91cd7d3b4aaad4708fbf970b8de2d6e51075634",
+    "item": {
+      "title": "Sylve Maturing As A FreeBSD Unified Web Management Interface",
+      "description": "Ahead of the FreeBSD 15.0 stable release expected to be announced next week, the FreeBSD project today published their Q3-2025 status report to outline their various development accomplishments from July through September...",
+      "links": [
+        "https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T12:07:17Z"
+    }
+  },
+  {
+    "hash": "75bb28fc9ffb24adfda867f471003eb8af9e82bccabd12fa84ebffbd955f01fc",
+    "item": {
+      "title": "Linux 6.19 Will Allow You To Write I2C Drivers In Rust",
+      "description": "With the upcoming Linux 6.19 kernel cycle there are yet more Rust kernel bindings being introduced and other additions to make it possible to write more Linux kernel drivers within the Rust programming language. Among the new Rust additions expected for Linux 6.19 are making it possible to write Inter-Integrated Circuit (I2C) bus drivers in Rust...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-I2C-Drivers-Rust"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T11:32:00Z"
+    }
+  },
+  {
+    "hash": "a4aa133e8fd2c07d2c91d8d3431283ab7e1e0944627ab578ae4b62bceaf41c15",
+    "item": {
+      "title": "Broadcom \"BNG_RE\" Next-Generation RoCE Driver Slated For Linux 6.19",
+      "description": "Queued up via the Linux kernel's RDMA development Git tree is \"BNG_RE\" as the next-generation RoCE driver from Broadcom...",
+      "links": [
+        "https://www.phoronix.com/news/Broadcom-BNG-RE-Linux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T11:20:28Z"
+    }
+  },
+  {
+    "hash": "50b948ab84c621e0bdff3a5a919c48bf4c2d21312fc51bc25c0d9b1ab598a745",
+    "item": {
+      "title": "Black Sesame SoC Support To Be Merged For Linux 6.19",
+      "description": "A new SoC vendor and in turn new SoC/platform support is set to premiere in the Linux 6.19 kernel with the initial Black Sesame Technologies C1200 support...",
+      "links": [
+        "https://www.phoronix.com/news/Black-Sesame-SoC-Linux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T11:05:59Z"
+    }
+  },
+  {
+    "hash": "24f1d2fa2f424405f84048500ed6ec541e0e51986e7cc47989f63293957e50b5",
+    "item": {
+      "title": "Genode OS Framework 25.11 Adds Intel Alder Lake Graphics Support",
+      "description": "The Genode OS Framework 25.11 release was issued this weekend as the newest update to this original open-source operating system effort built around a micro-kernel design and various novel design approaches...",
+      "links": [
+        "https://www.phoronix.com/news/Genode-OS-25.11"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T10:46:12Z"
+    }
+  },
+  {
+    "hash": "931b527925626fc06c2e83f8c3b91496782b9c4c45e03147684335a184c5a283",
+    "item": {
+      "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
+      "links": [
+        "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
+      },
+      "published": "2025-11-30T09:23:00Z"
+    }
+  },
+  {
+    "hash": "413a50403f55bddbb808b77a7ccc4bdd48cd207f28f10096b187a2745432461a",
+    "item": {
+      "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
+      "description": "A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute a malware known as ShadowPad.\n\"The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,\" AhnLab Security Intelligence Center (ASEC) said in a report published last week. \"They then used PowerCat, an open-source",
+      "links": [
+        "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsc39x1yPzs57au9zzIKqs081R7HZ521J-VDrW9yrbGPCDk0hCt2xIw1jHy62-fL1_v756qJ3R2SvosttSiIfee3RvUKC_HxaigGk_iff0fV0BkU9-_H43EDjx17pdxkEcqqIZ3yngeK0EeePmiTozzbGUPgSBwA__DD_Wx1p5ys93MNQEmFtscjKIdAq/s1600/windows.jpg"
+      },
+      "published": "2025-11-24T07:18:00Z"
+    }
+  },
+  {
+    "hash": "0aade6569566c590ebec3aeceaea861118c1c6c7991375a3e7e4a05ce05ef023",
+    "item": {
+      "title": "CachyOS: Fast and Customizable Linux Distribution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095585\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cachyos.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T10:47:27Z"
+    }
+  },
+  {
+    "hash": "9681f53c5b01a22c8a4f784eb201a28fbed9165f15e33ab47c224932438dcd17",
+    "item": {
+      "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46053076\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://yandori.io/news-flow/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T01:27:16Z"
+    }
+  },
+  {
+    "hash": "50348e44df2428a42d2073460ea8c509d6ce17b43c39bba0ca8c942d4ad926e7",
+    "item": {
+      "title": "RL is more information inefficient than you thought",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46067011\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dwarkesh.com/p/bits-per-sample"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T08:23:03Z"
+    }
+  },
+  {
+    "hash": "1fb622bf6a438d0b7570358b0bd78165d85abb9559af573c30478a150dedcd01",
+    "item": {
+      "title": "The Space of Minds",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095250\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://karpathy.bearblog.dev/the-space-of-minds/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T09:44:15Z"
+    }
+  },
+  {
+    "hash": "fefa594113ed967b22c314ce45ec775252407c3cda56a0d9e8a4d06ab2d7fe22",
+    "item": {
+      "title": "What's Hiding Inside Haribo's Power Bank and Headphones?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46071317\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T17:23:06Z"
+    }
+  },
+  {
+    "hash": "ca0fe95abda46d51f9479a4d4d26f449ec950389225e98acdb9dab68c6bc3f06",
+    "item": {
+      "title": "Silicon Valley's Man in the White House Is Benefiting Himself and His Friends",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095363\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T10:03:31Z"
+    }
+  },
+  {
+    "hash": "6da5fc8c9598fd7304732ad01d614e365e030529bbba3515dc5a97982c7df73a",
+    "item": {
+      "title": "XRP Price Prediction: $5.50 Target By Year-End 2026 Realistic?",
+      "description": "\u003cp\u003eXRP price prediction gains momentum as triangle compression hints at a breakout. Can XRP reclaim $2.58 and target $5.50 by 2026?\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-5-50-target-by-year-end-2026-realistic/\"\u003eXRP Price Prediction: $5.50 Target By Year-End 2026 Realistic?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-5-50-target-by-year-end-2026-realistic/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/p/assets/empty-cryptonews.jpg"
+      },
+      "published": "2025-11-30T12:15:13Z"
+    }
+  },
+  {
+    "hash": "20b0565ada44630be8a3aa7325e68ecdbc7b2c35bb8ee84ccd0918865beaa7ee",
+    "item": {
+      "title": "Ethereum Price Prediction: Investor Confidence Wanes – Will Ethereum Price Plunge After Record ETF Redemptions?",
+      "description": "\u003cp\u003eRecord $4.9bn ETF redemptions spark fear as confidence dips — Ethereum price prediction now hints at a potential breakdown ahead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-investor-confidence-wanes-will-ethereum-price-plunge-after-record-etf-redemptions/\"\u003eEthereum Price Prediction: Investor Confidence Wanes \u0026#8211; Will Ethereum Price Plunge After Record ETF Redemptions?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-investor-confidence-wanes-will-ethereum-price-plunge-after-record-etf-redemptions/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/15133857/1757943536-ethereum-price-prediction.jpg"
+      },
+      "published": "2025-11-30T11:55:49Z"
+    }
+  },
+  {
+    "hash": "d4951257bf8a5cfcc118ced754dff8e9e45a1df979f2d569bf9d4330541e4d17",
+    "item": {
+      "title": "Bitcoin Price Prediction: Robert Kiyosaki Sounds Crash Alarm – Is the Yen Unwind the Liquidity Event BTC Needs?",
+      "description": "\u003cp\u003eBitcoin price prediction turns bullish after a strong rebound from $81K, even as Robert Kiyosaki warns a global liquidity shock could trigger a major market reset.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-robert-kiyosaki-sounds-crash-alarm-is-the-yen-unwind-the-liquidity-event-btc-needs/\"\u003eBitcoin Price Prediction: Robert Kiyosaki Sounds Crash Alarm \u0026#8211; Is the Yen Unwind the Liquidity Event BTC Needs?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-robert-kiyosaki-sounds-crash-alarm-is-the-yen-unwind-the-liquidity-event-btc-needs/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/09/17191357/1758136436-bitcoin-price-prediction-25.jpg"
+      },
+      "published": "2025-11-30T11:27:41Z"
+    }
+  },
+  {
+    "hash": "6c9011e9a79fec16397890d3c9b680feaa4b1f5d46d73a08de0c0436caf0228e",
+    "item": {
+      "title": "Nasdaq Pledges Swift Push for SEC Approval of Tokenized Stocks",
+      "description": "\u003cp\u003eNasdaq's digital assets chief confirms the exchange has made tokenized-stock approval a top priority, proposing blockchain-based trading of digital share representations while preserving existing investor rights and regulatory oversight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/nasdaq-pledges-swift-push-for-sec-approval-of-tokenized-stocks/\"\u003eNasdaq Pledges Swift Push for SEC Approval of Tokenized Stocks\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/nasdaq-pledges-swift-push-for-sec-approval-of-tokenized-stocks/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Nasdaq",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/30092431/1764494671-image-1764494647981_optimized.jpg"
+      },
+      "published": "2025-11-30T09:53:54Z"
+    }
+  },
+  {
+    "hash": "a7662293d6545f2a8072048f90cb2432423ebda9f259fa30858bb8e52584c7d3",
+    "item": {
+      "title": "National Bank of Kazakhstan Plans Up to $300M Crypto Investment",
+      "description": "\u003cp\u003eKazakhstan's central bank announces plans to invest between $50 million and $300 million in crypto assets from foreign exchange reserves, adopting a cautious approach following Bitcoin's sharp decline from $110,000 to $81,000 since early November.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/national-bank-of-kazakhstan-plans-up-to-300m-crypto-investment/\"\u003eNational Bank of Kazakhstan Plans Up to $300M Crypto Investment\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/national-bank-of-kazakhstan-plans-up-to-300m-crypto-investment/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Kazakhstan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/30092001/1764494400-image-1764494370164_optimized.jpg"
+      },
+      "published": "2025-11-30T09:44:49Z"
+    }
+  },
+  {
+    "hash": "8dd4407e36471ef0f9691030f342ca78bac983f5e490a49aaa9903cea2b08fd6",
+    "item": {
+      "title": "Ether Could Jump 7% as Low Stablecoin Yields Signal More Upside: Santiment",
+      "description": "\u003cp\u003eSantiment says low stablecoin yields show the crypto market is not overheated and Ether could test the $3,200 level.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ether-could-jump-7-as-low-stablecoin-yields-signal-more-upside-santiment/\"\u003eEther Could Jump 7% as Low Stablecoin Yields Signal More Upside: Santiment\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ether-could-jump-7-as-low-stablecoin-yields-signal-more-upside-santiment/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Ethereum",
+        "Market",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/30082145/1764490905-image-1764489465820_optimized.jpg"
+      },
+      "published": "2025-11-30T09:39:23Z"
+    }
+  },
+  {
+    "hash": "71c29651f034ce0e9ebb50bc8f3c711cb86bbb9354530b5a232fbf614ba6a072",
+    "item": {
+      "title": "SEC’s Hester Peirce Defends Crypto Self-Custody and Financial Privacy",
+      "description": "\u003cp\u003eHester Peirce says crypto self-custody is a basic freedom and people should not be forced to rely on intermediaries to hold their assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/secs-hester-peirce-defends-crypto-self-custody-and-financial-privacy/\"\u003eSEC’s Hester Peirce Defends Crypto Self-Custody and Financial Privacy\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/secs-hester-peirce-defends-crypto-self-custody-and-financial-privacy/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Crypto Custody",
+        "Custody",
+        "SEC"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/30082150/1764490909-image-1764489579544_optimized.jpg"
+      },
+      "published": "2025-11-30T09:37:49Z"
+    }
+  },
+  {
+    "hash": "f2ba41c821fabed0463ce100e8e661fa908660505dae8df42e9652662367c65c",
+    "item": {
+      "title": "Will Michael Saylor’s Strategy Ever Join the S\u0026P 500?",
+      "description": "\u003cp\u003eStrategy insists it meets all the requirements to join the S\u0026P 500 — but the stock keeps on getting overlooked.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/will-strategy-ever-join-the-sp-500/\"\u003eWill Michael Saylor\u0026#8217;s Strategy Ever Join the S\u0026amp;P 500?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/will-strategy-ever-join-the-sp-500/"
+      ],
+      "categories": [
+        "Features",
+        "Adoption",
+        "Bitcoin",
+        "Bitcoin Treasuries",
+        "Bitcoin Treasury",
+        "Blockchain",
+        "Coinbase",
+        "Cryptocurrency",
+        "Market",
+        "Michael Saylor",
+        "MicroStrategy",
+        "Regulation",
+        "Robinhood",
+        "Stock Market",
+        "Strategy",
+        "US Stocks"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Connor Sephton"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/30063656/1764484615-saylor3_optimized.jpg"
+      },
+      "published": "2025-11-30T09:28:57Z"
+    }
   }
 ]
