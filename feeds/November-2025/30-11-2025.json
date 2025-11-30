@@ -978,5 +978,123 @@
       },
       "published": "2025-11-30T12:15:13Z"
     }
+  },
+  {
+    "hash": "39cbf51d3032950ad8f914d97b39ae91a0246a7d1638619ff8608152f27aa44d",
+    "item": {
+      "title": "Features Expected For Linux 6.19: ASUS Armoury, Many Intel Bits, AMD GCN 1.0/1.1 Enhanced",
+      "description": "With the Linux 6.18 kernel likely being released later today, here is a look at some of the features on the table for the next kernel cycle, Linux 6.19. The list is based on changes queued in various \"-next\" branches ahead of the Linux 6.19 merge window. There's always the possibility of last minute change of plans or objections raised by Linus Torvalds, but this should provide an early look at some of the features more than likely to be merged for Linux 6.19...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Features-Expected"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T16:32:11Z"
+    }
+  },
+  {
+    "hash": "523fc75fca6c96feee5e37ebd57206821f5795bda72b6fe67ee45b8caf39ccfe",
+    "item": {
+      "title": "Landlock-ing Linux (prizrak.me)",
+      "description": "The prizrak.me blog is carrying \u003ca\nhref=\"https://blog.prizrak.me/post/landlock/\"\u003ean introduction to the\nLandlock security module\u003c/a\u003e.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tLandlock shines when an application has a predictable set of files\n\tor directories it needs. For example, a web server could restrict\n\titself to accessing only \u003ctt\u003e/var/www/html\u003c/tt\u003e and \u003ctt\u003e/tmp\u003c/tt\u003e.\n\t\u003cp\u003e\n\tUnlike SELinux or AppArmor, Landlock policies don't require\n\tadministrator involvement or system-wide configuration. Developers\n\tcan embed policies directly in application code, making sandboxing\n\ta natural part of the development process.\n\u003c/blockquote\u003e",
+      "links": [
+        "https://lwn.net/Articles/1048704/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-30T15:58:06Z"
+    }
+  },
+  {
+    "hash": "f3421a404cc43eafc4f8308fb557f40ddecb11395c95906f228d13c6c7cca4be",
+    "item": {
+      "title": "LLVM-MOS – Clang LLVM fork targeting the 6502",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098359\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://llvm-mos.org/wiki/Welcome"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T17:02:48Z"
+    }
+  },
+  {
+    "hash": "2d2df7ce7c4ffa5dce97e2011f86bc1aeb349f129e8e70b2db4010b06f7e512f",
+    "item": {
+      "title": "The Thinking Game Film – Google DeepMind Documentary",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097773\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thinkinggamefilm.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T16:07:11Z"
+    }
+  },
+  {
+    "hash": "dbfcc75fe60dabce550f514f1c827a3218c9bb426bda7f226a0b8d7a2f47e309",
+    "item": {
+      "title": "RetailReady (YC W24) Is Hiring Associate Product Manager",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098336\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T17:01:24Z"
+    }
+  },
+  {
+    "hash": "267a4187d7d425f4dfba713913e66103950a1ec294a83fb044b5f0a0bbd2e001",
+    "item": {
+      "title": "Show HN: Fixing Google Nano Banana Pixel Art with Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46058566\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Hugo-Dz/spritefusion-pixel-snapper"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T15:46:51Z"
+    }
+  },
+  {
+    "hash": "2222e8f72a21aad3ed3471da5cf38c47fcde3ec082d05c09749f24000a8ac1e8",
+    "item": {
+      "title": "Langjam Gamejam: Build a programming language then make a game with it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097671\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://langjamgamejam.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T15:57:34Z"
+    }
+  },
+  {
+    "hash": "3934aeaaedc0b17195b2bade2c06f00b96f11c0d927945ff5477f61a4809c8c1",
+    "item": {
+      "title": "I Made a Quieter Air Purifier",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46039594\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T21:31:04Z"
+    }
+  },
+  {
+    "hash": "f6d52d9f6f9dcaca3a6cee40eda727e21334ed1b73c74686d47d27923833fd40",
+    "item": {
+      "title": "Apple Desktop Bus Protocol (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096552\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T13:39:52Z"
+    }
   }
 ]
