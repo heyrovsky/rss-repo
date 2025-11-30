@@ -154,5 +154,106 @@
       "source": "Hacker News",
       "published": "2025-11-29T21:10:15Z"
     }
+  },
+  {
+    "hash": "a2ef23393e351ab0fab491c2b85a0b112a76119b01591e1e1fbae3eaa88ab325",
+    "item": {
+      "title": "Meshtastic",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092558\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://meshtastic.org/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T01:15:59Z"
+    }
+  },
+  {
+    "hash": "76bf70ba89dc108881c000e103177d1cfdd3226eb70a6110a7b6f00306f30c7a",
+    "item": {
+      "title": "The HTTP Query Method",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056954\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T12:57:35Z"
+    }
+  },
+  {
+    "hash": "02f6bc52aaf611f6dbaae3d5b3acf2e43e64527a3209b5d36b81088b56398846",
+    "item": {
+      "title": "A new Little Prince museum has opened its doors in Switzerland",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092478\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T01:03:44Z"
+    }
+  },
+  {
+    "hash": "1220bc510fa52b9196262a44f05c4d957001d03062ae39215ea0182c86a3d5cb",
+    "item": {
+      "title": "Americans no longer see four-year college degrees as worth the cost",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46091591\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-29T22:56:14Z"
+    }
+  },
+  {
+    "hash": "13ff09acdc6ba0b4ef3b41387d6218ed2bca4da1f11dc37a8d60c943800fc413",
+    "item": {
+      "title": "A new myth appeared during the presidential campaign of Andrew Jackson",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46050861\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.historynewsnetwork.org/article/self-made"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T21:12:55Z"
+    }
+  },
+  {
+    "hash": "f58a30a0333aaaa543b223c34bbb25433617d11b5767b50edda7128b9db6ce66",
+    "item": {
+      "title": "Stopping bad guys from using my open source project (feedback wanted)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092630\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T01:25:43Z"
+    }
+  },
+  {
+    "hash": "6bf28af9b746aaeb220d93345cb84c17f2f85e21da36bcfd7eb149696929e755",
+    "item": {
+      "title": "The Druridge Bay Ruin [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46042597\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=mCceufLwJxU"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T05:20:09Z"
+    }
+  },
+  {
+    "hash": "475f63fd8d946f9c80bf62931de4a5d049668717e6e121248d0aa5a62f00f00f",
+    "item": {
+      "title": "Algol 68 Programming Language Front-End Merged Into GCC 16",
+      "description": "Making for an exciting holiday weekend night is the Algol 68 programming language front-end \"ga68\" being merged into the GNU Compiler Collection (GCC) codebase. After COBOL language support landed in GCC 15 earlier this year, next year's GCC 16 release is adding support for the half-century old Algol 68 programming language...",
+      "links": [
+        "https://www.phoronix.com/news/Algol-68-Merged-Into-GCC-16"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T01:47:15Z"
+    }
   }
 ]
