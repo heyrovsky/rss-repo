@@ -1,0 +1,173 @@
+[
+  {
+    "hash": "475101d63da11e86cbc9f1e4a5dac3e3991b01f4a438e830fa046ce6cd2cb5fc",
+    "item": {
+      "title": "The 6.18 kernel has been released",
+      "description": "Linus has \u003ca href=\"https://lwn.net/ml/all/CAHk-=whnC+hRftevTLeVs3tyyqwn+7un=jUES2-WX+pZhDdKNw@mail.gmail.com/\"\u003ereleased the 6.18 kernel\u003c/a\u003e, as expected.\n\u003cp\u003e\n\u003cblockquote class=\"bq\"\u003e\n\tSo I'll have to admit that I'd have been happier with slightly less\n\tbugfixing noise in this last week of the release, but while there's\n\ta few more fixes than I would hope for, there was nothing that made\n\tme feel like this needs more time to cook. So 6.18 is tagged and\n\tpushed out.\n\u003c/blockquote\u003e\n\u003cp\u003e\nHeadline changes in this release include\nthe \u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=3ab378cfa793\"\u003eability\u003c/a\u003e\nto manage namespaces with file handles,\nsupport for the \u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f60034689f2c\"\u003eAccECN\u003c/a\u003e\ncongestion-control protocol,\ninitial \u003ca href=\"https://lwn.net/Articles/1031854/\"\u003esupport\u003c/a\u003e for signing of BPF\nprograms,\nimproved memory management with \u003ca href=\"https://lwn.net/Articles/1010667/\"\u003esheaves\u003c/a\u003e,\nthe \u003ca href=\"https://lwn.net/Articles/953116/\"\u003eRust binder driver\u003c/a\u003e,\nbetter \u003ca href=\"https://lwn.net/Articles/1032199/\"\u003econtrol over transparent huge\npages\u003c/a\u003e,\nand a lot more.\nThis release also saw the \u003ca\nhref=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f2c61db29f27\"\u003eremoval\nof the bcachefs filesystem\u003c/a\u003e.\n\u003cp\u003e\nSee the LWN merge-window summaries \n(\u003ca href=\"https://lwn.net/Articles/1040203/\"\u003epart\u0026#160;1\u003c/a\u003e, \u003ca href=\"https://lwn.net/Articles/1041004/\"\u003epart\u0026#160;2\u003c/a\u003e)\nand \u003ca href=\"https://kernelnewbies.org/Linux_6.18\"\u003ethe KernelNewbies 6.18\npage\u003c/a\u003e for more information.",
+      "links": [
+        "https://lwn.net/Articles/1048703/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-12-01T00:03:59Z"
+    }
+  },
+  {
+    "hash": "957662ff68e6086ae2307866cedf63dac514ed68e8f4176abd4ca19501fc63f3",
+    "item": {
+      "title": "NixOS 25.11 released",
+      "description": "\u003ca href=\"https://nixos.org/blog/announcements/2025/nixos-2511/\"\u003eVersion\n25.11\u003c/a\u003e of the NixOS distribution has been released.  \"\u003cq\u003eThe 25.11\nrelease was made possible due to the efforts of 2742 contributors, who\nauthored 59430 commits since the previous release\u003c/q\u003e\".  Changes include\n7,002 new packages, GNOME\u0026#160;49, LLVM\u0026#160;21, a new COSMIC desktop\nenvironment beta, firewalld support, and more; see \u003ca\nhref=\"https://nixos.org/manual/nixos/stable/release-notes#sec-release-25.11\"\u003ethe\nrelease notes\u003c/a\u003e for details.",
+      "links": [
+        "https://lwn.net/Articles/1048727/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-11-30T23:06:07Z"
+    }
+  },
+  {
+    "hash": "28b709ae6de0ecd12ba61146c5ddffcdf02408fac5a8f9312f12d8a36e81603e",
+    "item": {
+      "title": "Linux 6.18 Released With Many New Features, Likely This Year's LTS Kernel",
+      "description": "Linux 6.18 stable is now available! Linux 6.18 ushers in many new features and changes while also is expected to become this year's Long Term Support \"LTS\" kernel version...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-11-30T23:23:53Z"
+    }
+  },
+  {
+    "hash": "64bca04ae8be53a6d055e5edc70b67e9a334354e13fd0f8a2d962cdd256e59bb",
+    "item": {
+      "title": "A Love Letter to FreeBSD",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100892\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T22:05:07Z"
+    }
+  },
+  {
+    "hash": "a29c2a76d3c3cb9af02793d61da986751ca6b5811dfa37cc46021846f77b1b90",
+    "item": {
+      "title": "Writing a good Claude.md",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098838\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.humanlayer.dev/blog/writing-a-good-claude-md"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T17:56:43Z"
+    }
+  },
+  {
+    "hash": "5ec9fef4acb6c8f593deec1e8f7f277cf2218eaedd6f8e85802a0c60a84926d1",
+    "item": {
+      "title": "Algorithms for Optimization [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46101492\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://algorithmsbook.com/optimization/files/optimization.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T23:21:32Z"
+    }
+  },
+  {
+    "hash": "a32079709b50cce62bd35a30279da8499a0d88f0a6c5cd0f386360a088e90121",
+    "item": {
+      "title": "Bricklink suspends Marketplace operations in 35 countries (developing story)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46101263\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T22:53:08Z"
+    }
+  },
+  {
+    "hash": "7da0061767ab06c2d2d50fa0f4bbc75004d33838d951b5ccd90f274072e37150",
+    "item": {
+      "title": "GitHub to Codeberg: my experience",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097829\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eldred.fr/blog/forge-migration/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T16:12:13Z"
+    }
+  },
+  {
+    "hash": "31727e37b4f5cd3a5a81cbd9e633f5dc23f34ed35e82feff03786b5fe03cc4eb",
+    "item": {
+      "title": "Stop Hacklore – An Open Letter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46058670\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.hacklore.org/letter"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T15:55:48Z"
+    }
+  },
+  {
+    "hash": "307fa35ab64edf3d1ad7ee7f06d42a8c15d2dfa26ff722353017ad42d751a68f",
+    "item": {
+      "title": "\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100323\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://twitter.com/hkashfi/status/1995109785679573167"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T20:54:43Z"
+    }
+  },
+  {
+    "hash": "550248795a95480d52ed6d6a9612f3c8a0a6559b16c0a177bd51bcd5b05c4968",
+    "item": {
+      "title": "People keep flocking to Linux, not just to escape Windows",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099985\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T20:14:12Z"
+    }
+  },
+  {
+    "hash": "fa78fa9f4998abd6c8994006ce8d629e432264d43dcea827263d7f7b381dfdad",
+    "item": {
+      "title": "The Thinking Game Film – Google DeepMind documentary",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097773\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thinkinggamefilm.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T16:07:11Z"
+    }
+  },
+  {
+    "hash": "3643c28fdfac2899f1ff5664344a583afe83ec0525269779f02248e2b0d6ac81",
+    "item": {
+      "title": "NixOS 25.11 released",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099022\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nixos.org/blog/announcements/2025/nixos-2511/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T18:21:45Z"
+    }
+  }
+]
