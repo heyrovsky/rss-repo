@@ -1730,5 +1730,595 @@
       },
       "published": "2025-12-01T09:30:08Z"
     }
+  },
+  {
+    "hash": "d84e9f980d5e83d6c7dce7fea8aee7acb8e631093dc2a32da5c46f1aaf547290",
+    "item": {
+      "title": "Why xor eax, eax?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46106556\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://xania.org/202512/01-xor-eax-eax"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T12:22:35Z"
+    }
+  },
+  {
+    "hash": "fca8be63db3f943a80c0646830d62cadf261454065cab4491ad95bf52d9f7183",
+    "item": {
+      "title": "Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46107282\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T13:41:15Z"
+    }
+  },
+  {
+    "hash": "2a39653492d7a43526c73b7cad4b2e559068f9cfa46875359a597c482c82653c",
+    "item": {
+      "title": "Historic Engineering Wonders: Photos That Reveal How They Pulled It Off",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46045876\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rarehistoricalphotos.com/engineering-methods-from-the-past/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T14:04:37Z"
+    }
+  },
+  {
+    "hash": "605f1f04ff662669387d932c553f0310bff2035e9e09c694d4b5a49b48f1cb86",
+    "item": {
+      "title": "A vector graphics workstation from the 70s",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46107177\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://justanotherelectronicsblog.com/?p=1429"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T13:31:58Z"
+    }
+  },
+  {
+    "hash": "b132b4a7c0b6f5437da2c57ece1cabf55302298edc319eab57847e7bf7e0d060",
+    "item": {
+      "title": "Victorian-style lines for the web: Elements of identical width",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46035507\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jacobfilipp.com/victorian-line/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T16:00:26Z"
+    }
+  },
+  {
+    "hash": "dbe573e266d0da391637ed7031d757f31b867a2cadfc644d874ae3fd9408ff9b",
+    "item": {
+      "title": "Dancing rope and braid into being (2017) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037185\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://archive.bridgesmathart.org/2017/bridges2017-523.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-24T18:19:09Z"
+    }
+  },
+  {
+    "hash": "e2a6e5f69172b0fc9f8ec5e433e7adc62427299a0c1fa96f5ee3474dce502041",
+    "item": {
+      "title": "How to Print a Human",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46106080\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nautil.us/how-to-print-a-human-1250487/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T11:18:39Z"
+    }
+  },
+  {
+    "hash": "ed5350747e0b1476a578e59955ac9b64a9d78c93f56e805a1a8ca681c2a9ef6c",
+    "item": {
+      "title": "After 40 years of adventure games, Ron Gilbert pivots to outrunning Death",
+      "description": "Interview: Storied designer talks lost RPG, a 3D \u003cem\u003eMonkey Island\u003c/em\u003e, “Eat the Rich” philosophy.",
+      "links": [
+        "https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/"
+      ],
+      "categories": [
+        "Features",
+        "Gaming",
+        "Indie games",
+        "Indie gaming",
+        "Ron Gilbert"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kyle Orland"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/gilbert.jpg"
+      },
+      "published": "2025-12-01T12:00:09Z"
+    }
+  },
+  {
+    "hash": "63ada34caba171e984896ac59c60535c9b23dae25fd91156572655b51ef60db8",
+    "item": {
+      "title": "Intel Gaudi 3 Driver Support Already Rejected For Linux 6.19",
+      "description": "Last night Intel finally posted their Gaudi 3 accelerator open-source driver support for the mainline Linux kernel with hopes of getting that long-delayed AI accelerator support into the in-development Linux 6.19 kernel. But as I pointed out, the pull request was coming unusually late for being such a large set of patches and would face an uphill battle to make it for the Linux 6.19 merge window. Sure enough, the pull request was already rejected and withdrawn from being v6.19 material...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-No-Gaudi-3-Driver"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-01T14:50:35Z"
+    }
+  },
+  {
+    "hash": "b52bfbfbd72e50c71ffd67d0ec3b08667408f7eb26df1b92cb67f017f9c78667",
+    "item": {
+      "title": "Linux 6.18 Adding New Option For More Detailed Bug Reporting But Cost Of Greater Memory",
+      "description": "Among the big flow of pull requests today for this first day of the Linux 6.19 merge window are some core kernel bug handling improvements...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.18-Verbose-Bug-On"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-01T14:24:20Z"
+    }
+  },
+  {
+    "hash": "ed413c31ec9119a91e0033f731111286c865ffb0d7fae7b62f54de553c53a79c",
+    "item": {
+      "title": "Fwupd 2.0.18 Enables Linux Firmware Updating For More Hardware",
+      "description": "Fresh off Framework Computer becoming a new corporate sponsor of the LVFS / Fwupd, there is a new Fwpd 2.0.18 update for this solution that enables convenient and easy system and device/peripheral firmware updating under Linux...",
+      "links": [
+        "https://www.phoronix.com/news/Fwupd-2.0.18-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-01T14:07:25Z"
+    }
+  },
+  {
+    "hash": "650bdf4b8e9217fac9b5661883203115bbefe69f4bfc0d99c7f08676c2960a3a",
+    "item": {
+      "title": "GNU Linux-libre 6.18 Neuters More Functionality Due To Blobs With Intel Xe, NVIDIA Nova",
+      "description": "Following yesterday's Linux 6.18 kernel release, GNU Linux-libre 6.18-gnu is out today as the latest release of this free software purist kernel that will drop/block drivers from loading microcode/firmware considered non-free-software and other restrictions in the name of not pushing binary blobs even when needed for hardware support/functionality on otherwise open-source drivers...",
+      "links": [
+        "https://www.phoronix.com/news/GNU-Linux-Libre-6.18"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-01T13:58:36Z"
+    }
+  },
+  {
+    "hash": "0f0a76aec8c8feb568ed3b7ccf289eb7663d96a743727fb529211d02ce4c3e5f",
+    "item": {
+      "title": "Grayscale Secures Approval for First Spot Chainlink ETF Launch",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Grayscale_Cleared_to_Launch_First_Spot_Chainlink_ETF_This_Week_Amid.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Grayscale Secures Approval for First Spot Chainlink ETF Launch\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Grayscale_Cleared_to_Launch_First_Spot_Chainlink_ETF_This_Week_Amid.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/Grayscale_Cleared_to_Launch_First_Spot_Chainlink_ETF_This_Week_Amid-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/Grayscale_Cleared_to_Launch_First_Spot_Chainlink_ETF_This_Week_Amid-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eGrayscale​‍​‌‍​‍‌​‍​‌‍​‍‌ Investments received the green light from the regulators to start the very first spot Chainlink exchange-traded fund (ETF) launch this week. The news is a major step forward for the U.S. market of institutional cryptocurrency investment products.  After getting the green light from the SEC, the manager of the",
+      "links": [
+        "https://thenewscrypto.com/grayscale-secures-approval-for-first-spot-chainlink-etf-launch/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Chainlink",
+        "ETF",
+        "Grayscale",
+        "LINK"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/Grayscale_Cleared_to_Launch_First_Spot_Chainlink_ETF_This_Week_Amid.jpg"
+      },
+      "published": "2025-12-01T10:04:23Z"
+    }
+  },
+  {
+    "hash": "79b402a6752d317621a29220748b74adf683c1856905e65f12ed4b53841d57f8",
+    "item": {
+      "title": "AgentLISA Breaks Into Top Rankings on x402scan as Demand Grows for Autonomous, AI-Driven Smart Contract Security",
+      "description": "\u003cp\u003e\u003cimg width=\"752\" height=\"424\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/image001.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/image001.png 752w, https://thenewscrypto.com/wp-content/uploads/2025/12/image001-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/image001-376x212.png 376w\" sizes=\"(max-width: 752px) 100vw, 752px\" /\u003e\u003c/p\u003eAgentLISA, an AI-powered smart contract security layer, has rapidly climbed to the #4 position on the x402scan 24-hour leaderboard, recording 3,578 paying developers and $3,100 in revenue within a single day. The achievement follows the project’s launch on October 29 and reflects strong early adoption of its permissionless, instant-settlement security",
+      "links": [
+        "https://thenewscrypto.com/agentlisa-breaks-into-top-rankings-on-x402scan-as-demand-grows-for-autonomous-ai-driven-smart-contract-security/"
+      ],
+      "categories": [
+        "Press Release",
+        "AgentLISA"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/image001.png"
+      },
+      "published": "2025-12-01T09:16:22Z"
+    }
+  },
+  {
+    "hash": "c79b39f1564c93b4a18e83fddd97ec6ded7c11737e5265c28dfb5ce3fe96ba0f",
+    "item": {
+      "title": "Electra Overview: Advanced Tools for Modern On-Chain Trading",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"925\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage.png 1600w, https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage-300x173.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage-1024x592.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage-768x444.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage-1536x888.png 1536w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eIn the crypto world, yet another trendy DEX platform no longer surprises anyone. But among hundreds of “template” decentralized exchanges, a few rare projects stand out – those genuinely attempting to compete with major centralized players in terms of speed, execution quality, and liquidity depth. Electra belongs to that category.",
+      "links": [
+        "https://thenewscrypto.com/electra-overview-advanced-tools-for-modern-on-chain-trading/"
+      ],
+      "categories": [
+        "Press Release",
+        "Electra"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/High-leverage.png"
+      },
+      "published": "2025-12-01T08:59:29Z"
+    }
+  },
+  {
+    "hash": "19c569ebbd1e93a594e4800b2ed505bda0513154fb319ca7bc9d614b8afa9cd5",
+    "item": {
+      "title": "Bitcoin Reclaims $91,000 as Stability Emerges Amid Market Panic",
+      "description": "\u003cp\u003e\u003cimg width=\"1280\" height=\"731\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/photo_2025-12-01_13-17-39.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Reclaims $91,000 as Stability Emerges Amid Market Panic\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/photo_2025-12-01_13-17-39.jpg 1280w, https://thenewscrypto.com/wp-content/uploads/2025/12/photo_2025-12-01_13-17-39-300x171.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/photo_2025-12-01_13-17-39-1024x585.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/photo_2025-12-01_13-17-39-768x439.jpg 768w\" sizes=\"auto, (max-width: 1280px) 100vw, 1280px\" /\u003e\u003c/p\u003eVolatility is no stranger to the digital-asset market, but every sharp drawdown forces the industry to re-evaluate its fundamentals. Bitcoin rose back above $91,000, gaining 4.18% over the past 24 hours. The late-November recovery offers a rare ray of optimism after BTC slid from early October\u0026#8217;s $126,000 peak to below",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-reclaims-91000-as-stability-emerges-amid-market-panic/"
+      ],
+      "categories": [
+        "Market News",
+        "Bitcoin",
+        "Market"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/photo_2025-12-01_13-17-39.jpg"
+      },
+      "published": "2025-12-01T06:49:45Z"
+    }
+  },
+  {
+    "hash": "05c5f5715ee4dd645433a36966db1bc3e796b2e3f456947c9d43c8ca89b6d3af",
+    "item": {
+      "title": "⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid \u0026 More",
+      "description": "Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.\nOne bad download can leak your keys. One weak vendor can expose many customers at once. One guest invite, one link on a phone, one bug in a common tool, and suddenly your mail, chats, repos, and",
+      "links": [
+        "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcq3E5v51_c0rVzjd3B8VALj_RAmWr8iM2Uy8icWvBKtPm85iW1D9oPIgVyRoNMU51ycVecBo6UBEsmOveLErPzL96cTiC-Av_jllbVpTLKqRHD6zSrim61Buwn50jxqU2I76e-MmqBTWQk9fvUH5n5y635QZ8JA-ZUNCB_O_vYy43CaF8WHgRXdfl7UAW/s1600/recap1.jpg"
+      },
+      "published": "2025-12-01T12:47:00Z"
+    }
+  },
+  {
+    "hash": "11c062e2322a9fa21ede2a07397274e57bddebd4d41456868776b3a58a91023f",
+    "item": {
+      "title": "Security updates for Monday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (bind9.18, cups, gimp, ipa, kernel, libssh, mingw-expat, openssl, pcs, sssd, tigervnc, and valkey), \u003cb\u003eDebian\u003c/b\u003e (gnome-shell-extension-gsconnect, mistral-dashboard, pagure, python-mistralclient, pytorch, qtbase-opensource-src, sogo, tryton-server, and unbound), \u003cb\u003eFedora\u003c/b\u003e (cef, drupal7, glib2, linux-firmware, migrate, pack, pgadmin4, rnp, and unbound), \u003cb\u003eSlackware\u003c/b\u003e (libxslt), \u003cb\u003eSUSE\u003c/b\u003e (cpp-httplib, curl, glib2, grub2, kernel, libcoap-devel, libcryptopp, libwireshark19, postgresql15, and postgresql17), and \u003cb\u003eUbuntu\u003c/b\u003e (edk2).",
+      "links": [
+        "https://lwn.net/Articles/1048817/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-01T14:14:39Z"
+    }
+  },
+  {
+    "hash": "6e6665b2aa0aadc7bf6a553186b214e15fbfa259b748463af95042344b9b086e",
+    "item": {
+      "title": "Three stable kernels for Monday",
+      "description": "\u003cp\u003eGreg Kroah-Hartman has announced the release of the \u003ca\nhref=\"https://lwn.net/Articles/1048756/\"\u003e6.17.10\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1048757/\"\u003e6.12.60\u003c/a\u003e, and \u003ca\nhref=\"https://lwn.net/Articles/1048758/\"\u003e6.6.118\u003c/a\u003e stable kernels. As usual, each\ncontains a number of important fixes throughout the tree. Users are\nadvised to upgrade.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1048755/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-01T13:51:28Z"
+    }
+  },
+  {
+    "hash": "7073d4766d3cb9d2808f4c73c38ea1b8d19935ce1e27e63d8dd9e398a94ef95b",
+    "item": {
+      "title": "3D Printing and the Dream of Affordable Prosthetics",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg 3000w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=2048,1239 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"515577\" data-permalink=\"https://hackaday.com/regenerative/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Regenerative\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?w=800\" /\u003e\u003c/div\u003eAs amazing as the human body is, it\u0026#8217;s unfortunately not as amazing as e.g. axolotl bodies are, in the sense that they can regrow entire limbs and more. This has \u003ca href=\"https://hackaday.com/2025/12/01/3d-printing-and-the-dream-of-affordable-prosthetics/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/3d-printing-and-the-dream-of-affordable-prosthetics/"
+      ],
+      "categories": [
+        "Featured",
+        "Interest",
+        "Medical Hacks"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg"
+      },
+      "published": "2025-12-01T15:00:38Z"
+    }
+  },
+  {
+    "hash": "2c4372f83f3a7997189e27b8ab8e44c37235a38603260283fcdda9844769c282",
+    "item": {
+      "title": "The New Pebble: Now 100% Open Source",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882014\" data-permalink=\"https://hackaday.com/2025/12/01/the-new-pebble-now-100-open-source/pebble-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pebble-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg?w=800\" /\u003e\u003c/div\u003eThe Pebble was the smartwatch darling of the early 2010s, a glimpse of the future in the form of a microcontroller and screen strapped to your wrist. It was snapped \u003ca href=\"https://hackaday.com/2025/12/01/the-new-pebble-now-100-open-source/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/the-new-pebble-now-100-open-source/"
+      ],
+      "categories": [
+        "Wearable Hacks",
+        "open source",
+        "pebble",
+        "smartwatch"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/pebble-featured.jpg"
+      },
+      "published": "2025-12-01T12:00:45Z"
+    }
+  },
+  {
+    "hash": "01a82b7d38cb5a7d7ef617702332459c3d26ae29eb394906cdca914b31279fc3",
+    "item": {
+      "title": "Sensor Package Aims To Predict Acid Rain",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg 1448w, https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg?resize=800,451 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"881912\" data-permalink=\"https://hackaday.com/2025/12/01/sensor-package-aims-to-predict-acid-rain/fmme7evmi4xyjry/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg\" data-orig-size=\"1448,816\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"FMME7EVMI4XYJRY\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg?w=800\" /\u003e\u003c/div\u003eAcid rain sucks, particularly if you run a fancy university with lots of lovely statues outside. If you\u0026#8217;d like to try and predict when it\u0026#8217;s going to occur, you might \u003ca href=\"https://hackaday.com/2025/12/01/sensor-package-aims-to-predict-acid-rain/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/sensor-package-aims-to-predict-acid-rain/"
+      ],
+      "categories": [
+        "Science",
+        "acid rain",
+        "arduino nano",
+        "preciptiation",
+        "rain"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/FMME7EVMI4XYJRY-e1764302883761.jpg"
+      },
+      "published": "2025-12-01T09:00:04Z"
+    }
+  },
+  {
+    "hash": "9f87637772f7c4115c9c9c0b7b1051d2dd4551e183c449fa88072cfbe9bec80a",
+    "item": {
+      "title": "Solana Price Prediction: Ripple Insider Says ‘Don’t Ignore Solana’ – What Does He Know That We Don’t?",
+      "description": "\u003cp\u003eSolana has been praised by Ripple’s Luke Judges and adopted by Western Union and PayPal for stablecoin transactions, while SOL price has pulled back toward $100 despite ETF inflows, as some traders look to Bitcoin Hyper’s Solana VM-based Bitcoin Layer 2 for upside.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-ripple-insider-says-dont-ignore-solana-what-does-he-know-that-we-dont/\"\u003eSolana Price Prediction: Ripple Insider Says \u0026#8216;Don’t Ignore Solana\u0026#8217; – What Does He Know That We Don’t?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-ripple-insider-says-dont-ignore-solana-what-does-he-know-that-we-dont/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "SOL",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01122801/1764592080-solana-price-prediction.jpg"
+      },
+      "published": "2025-12-01T15:06:42Z"
+    }
+  },
+  {
+    "hash": "48c1c6be06f521db176f9c08f38bc1086d3e7ecf37421714b6ca8cdfae98bc9b",
+    "item": {
+      "title": "[LIVE] November ISM Manufacturing PMI Data Today: Can Weak Factory Data Spark Bitcoin Recovery?",
+      "description": "\u003cp\u003eISM Manufacturing PMI at 10am could rescue Bitcoin — weak factory data may revive dovish Fed bets after Monday's crash.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-november-ism-manufacturing-pmi-data-today-can-weak-factory-data-spark-bitcoin-recovery/\"\u003e[LIVE] November ISM Manufacturing PMI Data Today: Can Weak Factory Data Spark Bitcoin Recovery?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-november-ism-manufacturing-pmi-data-today-can-weak-factory-data-spark-bitcoin-recovery/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01121146/1764591106-stock-image_optimized-45.jpg"
+      },
+      "published": "2025-12-01T14:58:55Z"
+    }
+  },
+  {
+    "hash": "84d18a51ed50a0fcf391a5aa8fbe9c033c633a7de7b74e8204e68041a6d91b13",
+    "item": {
+      "title": "Despite ‘Directionless Volatility’ Ahead, BTC Cycle is Not Over and Rally Could Continue – CIOs",
+      "description": "\u003cp\u003eThe cycle is not over yet, major companies’ execs argue. Unless BTC falls below the March 2024 ATH, the coin should continue the rally towards $160,000 soon.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/despite-directionless-volatility-ahead-cycle-is-not-over-and-rally-could-continue-cios/\"\u003eDespite ‘Directionless Volatility’ Ahead, BTC Cycle is Not Over and Rally Could Continue – CIOs\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/despite-directionless-volatility-ahead-cycle-is-not-over-and-rally-could-continue-cios/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01144147/1764600106-btc.jpg"
+      },
+      "published": "2025-12-01T14:43:33Z"
+    }
+  },
+  {
+    "hash": "d1b8375ba30f643164f7cc166350e8b445d5530d5af26862f0d96f6c48cd1be0",
+    "item": {
+      "title": "China Doubles Down on Crypto Ban After Detecting New Trading Activity",
+      "description": "\u003cp\u003eChina's central bank convenes 13 agencies to crack down on resurgent crypto trading and stablecoin activity, triggering selloffs in Hong Kong-listed firms and reinforcing Beijing's zero-tolerance stance on digital assets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/china-doubles-down-on-crypto-ban-after-detecting-new-trading-activity/\"\u003eChina Doubles Down on Crypto Ban After Detecting New Trading Activity\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/china-doubles-down-on-crypto-ban-after-detecting-new-trading-activity/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "China",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01074701/1764575220-image-1764575177593_optimized.jpg"
+      },
+      "published": "2025-12-01T13:42:05Z"
+    }
+  },
+  {
+    "hash": "eab334d5955bbb76c2a3c72811cc3593e9106264bfb55bd636bda634dc46cd67",
+    "item": {
+      "title": "Bitcoin Price Prediction: $6.6 Trillion Fed Flip Expected in December – How High Can BTC Go?",
+      "description": "\u003cp\u003eBitcoin braces for a major December Fed shift as a $6.6tn market rotation looms. Traders eye policy changes and bearish charts pointing toward $81K before any rebound.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-6-6-trillion-fed-flip-expected-in-december-how-high-can-btc-go/\"\u003eBitcoin Price Prediction: $6.6 Trillion Fed Flip Expected in December – How High Can BTC Go?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-6-6-trillion-fed-flip-expected-in-december-how-high-can-btc-go/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Arslan Butt"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01131956/1764595195-bitcoin-price-prediction-72.jpg"
+      },
+      "published": "2025-12-01T13:26:08Z"
+    }
+  },
+  {
+    "hash": "91a3c02baee543c7a4df5ea9c15ea94b65b4f4c332ff8b00aa5c6bca98efe2ff",
+    "item": {
+      "title": "BitMEX Founder Warns Tether’s Bitcoin Bet Could Trigger USDT Collapse",
+      "description": "\u003cp\u003eBitMEX founder Arthur Hayes claims Tether's $22.8 billion Bitcoin and gold diversification could trigger USDT collapse during Fed rate cuts, while CEO Paolo Ardoino counters with detailed disclosures showing $30 billion in group equity and $215 billion in total assets against $184.5 billion in stablecoin liabilities.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitmex-founder-warns-tethers-bitcoin-bet-could-trigger-usdt-collapse/\"\u003eBitMEX Founder Warns Tether\u0026#8217;s Bitcoin Bet Could Trigger USDT Collapse\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitmex-founder-warns-tethers-bitcoin-bet-could-trigger-usdt-collapse/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Arthur Hayes",
+        "Tether"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01115141/1764589900-stock-image_optimized-44.jpg"
+      },
+      "published": "2025-12-01T12:22:55Z"
+    }
+  },
+  {
+    "hash": "5f7ccf363e5793984f576c710e44112808f15d3d0f318fc1aa09455e31e60e60",
+    "item": {
+      "title": "Michael Saylor Teases Mysterious ‘Green Dots’ on Bitcoin Chart — What Do They Mean?",
+      "description": "\u003cp\u003eMichael Saylor considers adding 'green dots' to his iconic Bitcoin purchase charts as Strategy's metric net asset value hovers just 1% above a threshold. If mNAV falls below 1, the company would need to sell Bitcoin holdings to cover debt obligations.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/michael-saylor-bitcoin-chart-green-dots-meaning/\"\u003eMichael Saylor Teases Mysterious ‘Green Dots’ on Bitcoin Chart — What Do They Mean?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/michael-saylor-bitcoin-chart-green-dots-meaning/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin Treasuries",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01114239/1764589358-0_2-41_optimized.jpg"
+      },
+      "published": "2025-12-01T12:21:57Z"
+    }
   }
 ]
