@@ -767,5 +767,248 @@
       },
       "published": "2025-12-01T04:17:25Z"
     }
+  },
+  {
+    "hash": "329d235c016f230a5fc330f3711abf6b010f1a2a848d354abe7687646dbf0a2e",
+    "item": {
+      "title": "Steam Machine, Continued Open-Source Rust Usage \u0026 Linux Kernel Happenings In November",
+      "description": "It was an eventful past month with Valve announcing the new Steam Machine, a lot of new Linux kernel activity, the continued increase of Rust programming language adoption by open-source projects, a lot of fun hardware benchmarks, and more. There were 283 original news articles on Phoronix the past month about Linux/open-source software and hardware plus another 18 featured Linux hardware reviews / multi-page benchmark articles. Here is a look back at the most popular content over the past month...",
+      "links": [
+        "https://www.phoronix.com/news/November-2025-Highlights"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-01T09:00:00Z"
+    }
+  },
+  {
+    "hash": "1ea38d160ec6db5c7c608a896b8b2e37647de732eac750e88f98f6424050a784",
+    "item": {
+      "title": "Do the thinking models think?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46104511\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bytesauna.com/post/consciousness"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T07:26:47Z"
+    }
+  },
+  {
+    "hash": "c21a6e1408cfc80fb49443a2249002fe4c017fffa26b9ec55049219cdc506620",
+    "item": {
+      "title": "N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46045643\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://trisolarchaos.com/?pr=lagrange\u0026n=3\u0026s=5.0\u0026so=0.01\u0026im=verlet\u0026dt=5.00e-4\u0026rt=1.0e-6\u0026at=1.0e-8\u0026bs=0.50\u0026sf=0\u0026sv=0\u0026cm=free\u0026kt=1\u0026st=1\u0026ag=0\u0026tl=1500\u0026cp=0.0000,0.0000,10.0000\u0026ct=0.0000,0.0000,0.0000"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-25T13:35:22Z"
+    }
+  },
+  {
+    "hash": "a036eda970fc4eb60a0b34de90c4cd8b2f43563aef621757dd8ab19664706e0b",
+    "item": {
+      "title": "Engineers repurpose a mosquito proboscis to create a 3D printing nozzle",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46063145\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T22:38:24Z"
+    }
+  },
+  {
+    "hash": "04030b390c4b815f96df0c71b5bbb2ba6dfdfc2569dad14f8210765a003eb7bf",
+    "item": {
+      "title": "Google Antigravity just deleted the contents of whole drive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46103532\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T04:39:28Z"
+    }
+  },
+  {
+    "hash": "22fc911bf11a98de338037bc748958db48474b9e465041d3ea4bc783e509ce1d",
+    "item": {
+      "title": "DeepSeek releases open-weights math model with IMO gold medal performance",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46105079\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T08:54:31Z"
+    }
+  },
+  {
+    "hash": "f1f44cf9eefaa3ba451d88361e4863f07e7c83aff3eb8e554bbdffccd69676fc",
+    "item": {
+      "title": "We've Detected Lightning on Mars",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46061390\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T19:26:43Z"
+    }
+  },
+  {
+    "hash": "7e726d962c73bc45dd41b924c1e7884290500b3e367775c5221c3a0e47e17111",
+    "item": {
+      "title": "It’s been a very hard year",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46103858\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bell.bz/its-been-a-very-hard-year/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T05:36:48Z"
+    }
+  },
+  {
+    "hash": "1715caae705f251f1b43f1f4e0a9d5e7aa87c68f5cbb410e4f6c7bd9adb0d979",
+    "item": {
+      "title": "Show HN: CurioQuest – A simple web trivia/fun facts game",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46103945\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://curioquest.fun/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T05:49:35Z"
+    }
+  },
+  {
+    "hash": "2819dccba7da2d35025085aa56c22e4b383b54a7f63c204a77db24f424d95683",
+    "item": {
+      "title": "Sony Bank to Issue USD-Pegged Stablecoin Starting Early 2026 – Report",
+      "description": "\u003cp\u003eSony Bank plans to roll out its 1:1 USD-pegged stablecoin for payments and settlement within its gaming and anime business.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sony-bank-to-issue-usd-pegged-stablecoin-starting-early-2026-report/\"\u003eSony Bank to Issue USD-Pegged Stablecoin Starting Early 2026 – Report\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sony-bank-to-issue-usd-pegged-stablecoin-starting-early-2026-report/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "SONY",
+        "stablecoin market",
+        "Stablecoins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01084555/1764578754-image-1764577936844_optimized.jpg"
+      },
+      "published": "2025-12-01T08:54:46Z"
+    }
+  },
+  {
+    "hash": "c651e31584b2f36d588814b63f0289bccbd9850283f4a43cf33eab4dc3f86b17",
+    "item": {
+      "title": "HashKey Clears HKEX Listing Hearing, Moves Closer to IPO",
+      "description": "\u003cp\u003eHashKey Holdings Limited has passed a key regulatory hurdle on its way to becoming a public company.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/hashkey-clears-hkex-listing-hearing-moves-closer-to-ipo/\"\u003eHashKey Clears HKEX Listing Hearing, Moves Closer to IPO\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/hashkey-clears-hkex-listing-hearing-moves-closer-to-ipo/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "HashKey",
+        "Hong Kong",
+        "IPO"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01082343/1764577422-image-1764577180015_optimized.jpg"
+      },
+      "published": "2025-12-01T08:25:35Z"
+    }
+  },
+  {
+    "hash": "74a75630c87ea1e1349b9cc1b7079349c2ff66deeab9457b649089da2a612318",
+    "item": {
+      "title": "Ripple Wins Singapore Approval to Expand Regulated Payment Services",
+      "description": "\u003cp\u003eRipple won approval from Singapore’s central bank to expand regulated payment services for banks and corporates.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-wins-singapore-approval-to-expand-regulated-payment-services/\"\u003eRipple Wins Singapore Approval to Expand Regulated Payment Services\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-wins-singapore-approval-to-expand-regulated-payment-services/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Ripple",
+        "Singapore",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01072848/1764574128-4c7ab293-37a7-4dca-8e91-c8ed341c1923_optimized.jpg"
+      },
+      "published": "2025-12-01T07:29:59Z"
+    }
+  },
+  {
+    "hash": "3c749ca9b06c0c42c02aec93bc4e8d8189f1ca6086b6d05fd6875ff43e23671c",
+    "item": {
+      "title": "Grayscale to Launch First US Spot Chainlink ETF This Week, Says Nate Geraci",
+      "description": "\u003cp\u003eGrayscale plans to launch the first US spot Chainlink ETF this week, converting its private LINK trust into a publicly traded fund.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grayscale-to-launch-first-us-spot-chainlink-etf-this-week-says-nate-geraci/\"\u003eGrayscale to Launch First US Spot Chainlink ETF This Week, Says Nate Geraci\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grayscale-to-launch-first-us-spot-chainlink-etf-this-week-says-nate-geraci/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ChainLink",
+        "Grayscale",
+        "Grayscale ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01063322/1764570802-e8bd3c21-4698-44b5-93c8-8ec95756bbe4-1_optimized.jpg"
+      },
+      "published": "2025-12-01T06:34:30Z"
+    }
+  },
+  {
+    "hash": "a80b4e2ff5ce2b87882ac7754ca828a486cae00f990d020741bd454849aaab06",
+    "item": {
+      "title": "Elon Musk Predicts the Death of Money, Suggests Energy-Based Bitcoin Will Survive",
+      "description": "\u003cp\u003eElon Musk says money will eventually disappear as energy becomes the main measure of value and power in a world where abundance makes currency irrelevant.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/elon-musk-predicts-death-of-money-bitcoin-energy-based-will-survive/\"\u003eElon Musk Predicts the Death of Money, Suggests Energy-Based Bitcoin Will Survive\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/elon-musk-predicts-death-of-money-bitcoin-energy-based-will-survive/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Bitcoin",
+        "Elon Musk",
+        "Energy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01061328/1764569608-stock-image_optimized.jpg"
+      },
+      "published": "2025-12-01T06:21:22Z"
+    }
   }
 ]
