@@ -1,0 +1,646 @@
+[
+  {
+    "hash": "29d2e81bb5ae7a0f7fda89bd989a3e558f467f4aaea7f14045daa3b2003ccf4a",
+    "item": {
+      "title": "[$] Checked-size array parameters in C",
+      "description": "There are many possible programmer mistakes that are not caught by the\nminimal checks specified by the C language; among those is passing an array\nof the wrong size to a function.  A recent attempt to add some safety\naround array parameters within the crypto layer involved the use of some\nclever tricks, but it turns out that clever tricks are unnecessary in this\ncase.  There is an obscure C feature that can cause this checking to\nhappen, and it is already in use in a few places within the kernel.",
+      "links": [
+        "https://lwn.net/Articles/1046840/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-12-01T21:11:05Z"
+    }
+  },
+  {
+    "hash": "7278f2f094e453ff4be43b35bb732982348232009ec74bd335ecb58768a73a10",
+    "item": {
+      "title": "The missile meant to strike fear in Russia’s enemies fails once again",
+      "description": "One of Vladimir Putin's favorite sabres to rattle seems to have lost its edge.",
+      "links": [
+        "https://arstechnica.com/space/2025/12/the-missile-meant-to-strike-fear-in-russias-enemies-fails-once-again/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "ICBM",
+        "launch",
+        "russia",
+        "Sarmat",
+        "vladimir putin"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/icbmfailure1.jpg"
+      },
+      "published": "2025-12-01T23:36:50Z"
+    }
+  },
+  {
+    "hash": "22662026165ffc465b615324d6f5c1f1d14cd6b8dda0f6861bc1aeeb664c2319",
+    "item": {
+      "title": "Supreme Court hears case that could trigger big crackdown on Internet piracy",
+      "description": "Justices want Cox to crack down on piracy, but question Sony's strict demands.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/"
+      ],
+      "categories": [
+        "Policy",
+        "copyright infringement",
+        "Cox",
+        "DMCA",
+        "piracy",
+        "Sony"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/online-piracy-1152x648-1764625886.jpg"
+      },
+      "published": "2025-12-01T22:33:25Z"
+    }
+  },
+  {
+    "hash": "559ad231c4c61aa05863b12331a8917a80a9d0b4e7cfa48b2cf37faf9071ed6e",
+    "item": {
+      "title": "OpenAI desperate to avoid explaining why it deleted pirated book datasets",
+      "description": "OpenAI risks increased fines after deleting pirated books datasets.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/12/openai-desperate-to-avoid-explaining-why-it-deleted-pirated-book-datasets/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "ChatGPT",
+        "copyright infringement",
+        "online piracy",
+        "openai",
+        "pirating books",
+        "training data"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1227510667-1152x648.jpg"
+      },
+      "published": "2025-12-01T22:16:28Z"
+    }
+  },
+  {
+    "hash": "f28580a31df2afd0b7535d77ba5b3e400dc8102442080ebcd1c0e6f5d72cbeca",
+    "item": {
+      "title": "In Myanmar, illicit rare-earth mining is taking a heavy toll",
+      "description": "Uncontrolled mining in areas of Myanmar ruled by powerful ethnic armies has boomed.",
+      "links": [
+        "https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/"
+      ],
+      "categories": [
+        "Science",
+        "Myanmar",
+        "rare earth elements",
+        "rare earth metals",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Emily Fishbein and Jauman Naw, Undark Magazine"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2218000971-1152x648.jpg"
+      },
+      "published": "2025-12-01T21:23:29Z"
+    }
+  },
+  {
+    "hash": "62b1e55135e33a00dc6c43b1b6d4294564f8c9a5e92f3a50f265a7ae62b2c6e4",
+    "item": {
+      "title": "TARS-Like Robot Both Rolls, and Walks",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png 1880w, https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"881845\" data-permalink=\"https://hackaday.com/2025/12/01/tars-like-robot-both-rolls-and-walks/tars3d-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png\" data-orig-size=\"1880,1058\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"TARS3D-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png?w=800\" /\u003e\u003c/div\u003e[Aditya Sripada] and [Abhishek Warrier]\u0026#8217;s TARS3D robot came from asking what it would take to make a robot with the capabilities of TARS, the robotic character from Interstellar. We couldn\u0026#8217;t \u003ca href=\"https://hackaday.com/2025/12/01/tars-like-robot-both-rolls-and-walks/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/tars-like-robot-both-rolls-and-walks/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "gait",
+        "interstellar",
+        "reinforcement learning",
+        "robot",
+        "rolling",
+        "TARS",
+        "walking"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/TARS3D-banner.png"
+      },
+      "published": "2025-12-02T00:00:31Z"
+    }
+  },
+  {
+    "hash": "d6db257a8cdd1d2ef1b8a1b2612ed7e409410e2c58ed8a764efc8005ab396e41",
+    "item": {
+      "title": "Using a Level 2 Charger to Work Around Slow 120 VAC Kettles",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"370\" src=\"https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg 1373w, https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg?resize=250,116 250w, https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg?resize=400,185 400w, https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg?resize=800,370 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"881995\" data-permalink=\"https://hackaday.com/2025/12/01/using-a-level-2-charger-to-work-around-slow-120-vac-kettles/uk_kettle_us_charger_adapter_technology_connections_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg\" data-orig-size=\"1373,635\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"uk_kettle_us_charger_adapter_technology_connections_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg?w=800\" /\u003e\u003c/div\u003eTo those of us who live in the civilized lands where ~230 VAC mains is the norm and we can shove a cool 3.5 kW into an electric kettle without \u003ca href=\"https://hackaday.com/2025/12/01/using-a-level-2-charger-to-work-around-slow-120-vac-kettles/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/using-a-level-2-charger-to-work-around-slow-120-vac-kettles/"
+      ],
+      "categories": [
+        "home hacks",
+        "car charger",
+        "electric kettle",
+        "mains voltage"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/uk_kettle_us_charger_adapter_technology_connections_youtube.jpg"
+      },
+      "published": "2025-12-01T21:00:40Z"
+    }
+  },
+  {
+    "hash": "c7dcfab0ff0c9f88d5cd1ec4c037adaf3d95912cf5dbdb8f8d33d5f3ab91737e",
+    "item": {
+      "title": "Quiet Your Drums With An Electronic Setup",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/FQRY6IRMI4YQM4R-e1764303967327.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" data-attachment-id=\"881920\" data-permalink=\"https://hackaday.com/2025/12/01/quiet-your-drums-with-an-electronic-setup/fqry6irmi4yqm4r/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/FQRY6IRMI4YQM4R-e1764303967327.jpg\" data-orig-size=\"4032,2270\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"FQRY6IRMI4YQM4R\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/FQRY6IRMI4YQM4R-e1764303967327.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/FQRY6IRMI4YQM4R-e1764303967327.jpg?w=800\" /\u003e\u003c/div\u003ePlaying the drums requires a lot of practice, but that practice can be incredibly loud. A nice workaround is presented by [PocketBoy], in converting an acoustic kit to electronic operation \u003ca href=\"https://hackaday.com/2025/12/01/quiet-your-drums-with-an-electronic-setup/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/quiet-your-drums-with-an-electronic-setup/"
+      ],
+      "categories": [
+        "Musical Hacks",
+        "drum kit",
+        "drums",
+        "electronic drum kit",
+        "electronic drums",
+        "piezo"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/FQRY6IRMI4YQM4R-e1764303967327.jpg"
+      },
+      "published": "2025-12-01T19:30:41Z"
+    }
+  },
+  {
+    "hash": "c4bd35af09b2ad7f5ba1cd3f970473e81053e2e89de71dda11e9d85151f07402",
+    "item": {
+      "title": "Australia’s New Asbestos Scare In Schools",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"352\" src=\"https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png 1090w, https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png?resize=250,110 250w, https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png?resize=400,176 400w, https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png?resize=800,352 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"881324\" data-permalink=\"https://hackaday.com/2025/12/01/australias-new-asbestos-scare-in-schools/ec-rainbow-sand-1/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png\" data-orig-size=\"1090,479\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"EC Rainbow Sand \u0026#8211; 1\" data-image-description=\"\" data-image-caption=\"\u0026lt;p\u0026gt;Many different brands of colored sand products are being recalled in the wake of the discovery of asbestos.\u0026lt;/p\u0026gt;\n\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png?w=800\" /\u003e\u003c/div\u003eAsbestos is a nasty old mineral. It\u0026#8217;s known for releasing fine, microscopic fibers that can lodge in the body\u0026#8217;s tissues and cause deadly disease over a period of decades. Originally \u003ca href=\"https://hackaday.com/2025/12/01/australias-new-asbestos-scare-in-schools/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/australias-new-asbestos-scare-in-schools/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "News",
+        "asbestos",
+        "Australia",
+        "colored sand",
+        "mining",
+        "quarry"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/EC-Rainbow-Sand-1.png"
+      },
+      "published": "2025-12-01T18:00:46Z"
+    }
+  },
+  {
+    "hash": "e02fb0d354e4c08ac7b159717b01ec1b0283500afebdd51f695f7aa8b63c3bb9",
+    "item": {
+      "title": "How To Design 3D Printed Pins that Won’t Break",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"881821\" data-permalink=\"https://hackaday.com/2025/12/01/how-to-design-3d-printed-pins-that-wont-break/design-unbreakable-pins-with-perfect-tolerances-0-2-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Design Unbreakable Pins with Perfect Tolerances 0-2 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png?w=800\" /\u003e\u003c/div\u003e[Slant 3D] has a useful video explaining some thoughtful CAD techniques for designing 3D printed pins that don\u0026#8217;t break and the concepts can be extended to similar features. Sure, one \u003ca href=\"https://hackaday.com/2025/12/01/how-to-design-3d-printed-pins-that-wont-break/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/how-to-design-3d-printed-pins-that-wont-break/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "3d printed",
+        "cad",
+        "dfm",
+        "microfeatures"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/Design-Unbreakable-Pins-with-Perfect-Tolerances-0-2-screenshot.png"
+      },
+      "published": "2025-12-01T16:30:05Z"
+    }
+  },
+  {
+    "hash": "6595955b6fd737ffdfc6d41bd4f9acd78229e6fe74e3cdc5c3eb2d799d17021f",
+    "item": {
+      "title": "3D Printing and the Dream of Affordable Prosthetics",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg 3000w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"515577\" data-permalink=\"https://hackaday.com/regenerative/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Regenerative\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg?w=800\" /\u003e\u003c/div\u003eAs amazing as the human body is, it\u0026#8217;s unfortunately not as amazing as e.g. axolotl bodies are, in the sense that they can regrow entire limbs and more. This has \u003ca href=\"https://hackaday.com/2025/12/01/3d-printing-and-the-dream-of-affordable-prosthetics/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/3d-printing-and-the-dream-of-affordable-prosthetics/"
+      ],
+      "categories": [
+        "Featured",
+        "Interest",
+        "Medical Hacks"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2022/01/Regenerative.jpg"
+      },
+      "published": "2025-12-01T15:00:38Z"
+    }
+  },
+  {
+    "hash": "95fded1bb20b0007eb11b3d02812fa19a5cfc26e1821b8d964b786f405897f3d",
+    "item": {
+      "title": "Losing Confidence",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46114599\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T22:56:16Z"
+    }
+  },
+  {
+    "hash": "b2a6d785af6ed04f960de407ad49aa1f057790fefab210c601481b9654fd1d6b",
+    "item": {
+      "title": "How to Attend Meetings – Internal guidelines from the New York Times",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46112906\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T20:40:58Z"
+    }
+  },
+  {
+    "hash": "a3b56e46acfcc204c5c616fc4fc9e102479813989b276b4dc0d96f21af29ed24",
+    "item": {
+      "title": "Amazon faces FAA probe after delivery drone snaps internet cable in Texas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056232\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T11:05:26Z"
+    }
+  },
+  {
+    "hash": "02ec6cb9d1ff60fd5b8cb7d7e91a19662262d53bcc24d01b00c6928fb70a600e",
+    "item": {
+      "title": "Anthropic: AI agents find $4.6M in blockchain smart contract exploits",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46115214\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://red.anthropic.com/2025/smart-contracts/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T23:44:51Z"
+    }
+  },
+  {
+    "hash": "7cdddff3367bbbd236ab7cf618c12c22f6597a8d5b97c3df14be48f89831354c",
+    "item": {
+      "title": "Cartographers have been hiding illustrations inside Switzerland’s maps (2020)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46107282\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T13:41:15Z"
+    }
+  },
+  {
+    "hash": "16ae7685cc88f0aa2445c3d2b9fbd0db46e213d2c9bf1073b9f5a64d7b3a741e",
+    "item": {
+      "title": "Mozilla's latest quagmire",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46113682\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://rubenerd.com/mozillas-latest-quagmire/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T21:44:07Z"
+    }
+  },
+  {
+    "hash": "c5f9079f25b6b3d173a02d68cfb3d72066deb6eb2bcb02c803727636c4794bb8",
+    "item": {
+      "title": "Codex, Opus, Gemini try to build Counter Strike",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46080835\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.instantdb.com/essays/agents_building_counterstrike"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T17:41:01Z"
+    }
+  },
+  {
+    "hash": "a5a2d601fd8c26612fa890856d4d7553bd14fdbabdf1688bcb08676854e340e9",
+    "item": {
+      "title": "Apple AI Chief Retiring After Siri Failure",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46114144\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T22:22:56Z"
+    }
+  },
+  {
+    "hash": "733bca8f47859fc1da1cb804f6930efddb865568e2c57d299a00eb8aed1491b4",
+    "item": {
+      "title": "10 years of writing a blog nobody reads",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46070883\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T16:39:35Z"
+    }
+  },
+  {
+    "hash": "13005bc211dae05ec69e1298c74d8f5efbaf28e43789b8fdac8f772795a42acb",
+    "item": {
+      "title": "Why I stopped using JSON for my APIs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46111469\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aloisdeniel.com/blog/better-than-json"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T18:58:50Z"
+    }
+  },
+  {
+    "hash": "b62b7827a30e88bdd1bd1b558ab55b23bd2fbac6255a50ad0b4335c0d8ab31b3",
+    "item": {
+      "title": "Ask HN: Quality of recent gens of Dell/Lenovo laptops worse than 10 years ago?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46108071\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46108071"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T14:47:48Z"
+    }
+  },
+  {
+    "hash": "8e0dee365cdea07e8ae2320a5f50cb59114e899ec13a9f1aba1ca836655d1cc9",
+    "item": {
+      "title": "Help, My Java Object Vanished (and the GC Is Not at Fault)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46077637\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arraying.de/posts/markword/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T11:19:34Z"
+    }
+  },
+  {
+    "hash": "b9eab1402053652621a811d421bd3cc017155632d7b6d34a2354963f282d2d39",
+    "item": {
+      "title": "User-Adjustable Leather Tool Organizers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098575\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.core77.com/posts/138928/User-Adjustable-Leather-Tool-Organizers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T17:26:01Z"
+    }
+  },
+  {
+    "hash": "875b56c727238d4cf6d2159cd569d866b19eb67d51b9b9c613745c28f9e90264",
+    "item": {
+      "title": "The healthcare market is taxing reproduction out of existence",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46113689\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aaronstannard.com/40k-baby/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T21:44:34Z"
+    }
+  },
+  {
+    "hash": "c6c9517151faff2caacf54e3f2dda697f195fffb89af781945d14325b7336344",
+    "item": {
+      "title": "Pose-free 3D Gaussian splatting via shape-ray estimation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46113387\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2505.22978"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T21:20:28Z"
+    }
+  },
+  {
+    "hash": "f0e483543a478cb0dd8953d181feb88b4f3c6327ff812bc60e27671fd5e88bed",
+    "item": {
+      "title": "Response to \"Ruby Is Not a Serious Programming Language\"",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46110836\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://robbyonrails.com/articles/2025/12/01/why-so-serious/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T18:16:09Z"
+    }
+  },
+  {
+    "hash": "1c984ec3e839f05cf9d454bd89c463da7e02611a5d736ff5d08e3af99911e74d",
+    "item": {
+      "title": "Cardano Price Prediction: Big Investors Are Quietly Pulling Out – The Worst Might Still Be Ahead",
+      "description": "\u003cp\u003eLong-term holders are scaling back their exposure to limit further losses – Cardano Price Predictions might not be in for a reversal just yet.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cardano-price-prediction-big-investors-are-quietly-pulling-out-the-worst-might-still-be-ahead/\"\u003eCardano Price Prediction: Big Investors Are Quietly Pulling Out – The Worst Might Still Be Ahead\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cardano-price-prediction-big-investors-are-quietly-pulling-out-the-worst-might-still-be-ahead/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Cardano",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01173611/1764610570-cardano-price-prediction.jpg"
+      },
+      "published": "2025-12-01T23:45:00Z"
+    }
+  },
+  {
+    "hash": "a0157d31bb245eeed7903bfb1601b508e2280c4779c470e1b1bfe241adc675ca",
+    "item": {
+      "title": "XRP Price Prediction: 1,000,000 New Payments Overnight – Is Something Big About to Hit the Market?",
+      "description": "\u003cp\u003eA sharp rise in on-chain activity has put the XRP price prediction in the spotlight, as data shows over 1.05 million payments were made between unique wallets on Saturday.That’s a 200,000 increase from Wednesday and a 15% spike overnight, signaling a notable surge in XRP Ledger usage.This jump could be driven by increased automation, whale [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-1000000-new-payments-overnight/\"\u003eXRP Price Prediction: 1,000,000 New Payments Overnight – Is Something Big About to Hit the Market?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-1000000-new-payments-overnight/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01144335/1764600214-chatgpt-image-dec-1-2025-02_42_49-pm_optimized-1.jpg"
+      },
+      "published": "2025-12-01T23:22:00Z"
+    }
+  },
+  {
+    "hash": "dbcfb692e648d4ef426941ce4e8ce690474d2e6a2f2044a1c721dca69a10ecca",
+    "item": {
+      "title": "Next Altcoin to Turn $100 into $10,000 – 1 December",
+      "description": "\u003cp\u003eThe crypto market just saw another sharp dip, wiping out 5% of its total value in the past 24 hours.Bitcoin has dropped to $86,700, while XRP and Solana are down over 6%, continuing a weeks-long trend of uncertainty across risk assets.But while large caps bleed, new altcoins could offer rare upside, especially those still in [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/next-altcoin-to-turn-100-into-10000-1-december/\"\u003eNext Altcoin to Turn $100 into $10,000 – 1 December\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/next-altcoin-to-turn-100-into-10000-1-december/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Altcoin",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01112616/1764588375-next-altcoin-to-turn-100-into-10000.jpg"
+      },
+      "published": "2025-12-01T23:08:00Z"
+    }
+  },
+  {
+    "hash": "e1224f4db20cb593a75286c879f1e5c2b8b3b2946c258b67c74103d198112bc4",
+    "item": {
+      "title": "Dogecoin Price Prediction: The Biggest DOGE Holders Just Stopped Moving – What Are They Waiting For?",
+      "description": "\u003cp\u003eWhale activity surrounding DOGE has fallen to its lowest level in the last 60 days, even as the token shows signs of a short-term bounce.This unexpected drop in large transactions is raising questions about the strength of the move and puts the Dogecoin price prediction under fresh scrutiny.The trend was first flagged by well-known crypto [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/dogecoin-price-prediction-the-biggest-doge-holders-just-stopped-moving/\"\u003eDogecoin Price Prediction: The Biggest DOGE Holders Just Stopped Moving – What Are They Waiting For?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/dogecoin-price-prediction-the-biggest-doge-holders-just-stopped-moving/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Dogecoin",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01152055/1764602454-dogecoin-price-prediction.jpg"
+      },
+      "published": "2025-12-01T22:49:00Z"
+    }
+  },
+  {
+    "hash": "865c10c68a4c77c88bf3baa1753ddc0af8153ca71a5ed67f7d4dc7e196a7a5cd",
+    "item": {
+      "title": "Best Crypto to Buy Now 1 December – XRP, Solana, PEPE",
+      "description": "\u003cp\u003eBitcoin has pulled back to seven-month lows while long-term holders stay calm and capital has shifted toward XRP, Solana, Pepe and Bitcoin Hyper, which analysts have described as among the best altcoin opportunities heading into 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-1-december-xrp-solana-pepe/\"\u003eBest Crypto to Buy Now 1 December – XRP, Solana, PEPE\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-1-december-xrp-solana-pepe/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Pepe",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01112554/Best-Crypto-to-Buy-Now-1.jpg"
+      },
+      "published": "2025-12-01T22:35:00Z"
+    }
+  },
+  {
+    "hash": "dbd5a4e7cc819d23c2d37f3495b06561473fd25be28236a56c7595dbbf12542a",
+    "item": {
+      "title": "Perplexity AI Predicts the Price of XRP, Pi Coin, Bitcoin by the End of 2025",
+      "description": "\u003cp\u003eFollowing Bitcoin’s retreat to seven-month lows, long-term holders have framed the move as a cooldown while XRP, Solana, Pepe and Bitcoin Hyper are viewed as some of the best oversold altcoin opportunities as ETFs, regulation and new layer-2 tech shape expectations into 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-xrp-pi-coin-bitcoin-by-the-end-of-2025/\"\u003ePerplexity AI Predicts the Price of XRP, Pi Coin, Bitcoin by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/perplexity-ai-predicts-the-price-of-xrp-pi-coin-bitcoin-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Pi Network",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/01171054/Perplexity-AI-Predicts-the-Price.jpg"
+      },
+      "published": "2025-12-01T22:30:00Z"
+    }
+  }
+]
