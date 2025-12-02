@@ -1175,5 +1175,360 @@
       },
       "published": "2025-12-02T05:00:49Z"
     }
+  },
+  {
+    "hash": "fc03a2a1e3214a5d244d227b5921643089f8db7588b783ee3a2823ae18b3a490",
+    "item": {
+      "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
+      "description": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
+      "links": [
+        "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-2eGLpT-dW3-PbjBoWaQtkVc-dEwO5RtxY532IOybzHPHQWo4lkSaf6fkpNyD_hWyoWtlmgfweLMyDEkBGEyr160z2_8tTVHoo6hRKfUh4yywZ9yMKq5hWSKEIz7OzngxWGy57CIOdHRSn6hHtKqy2R6qAFfDPQ7rEnMUzU236-TbAhwqEjlApSBLLIz/s1600/android-update.jpg"
+      },
+      "published": "2025-12-02T07:17:00Z"
+    }
+  },
+  {
+    "hash": "263c9125a6120d373d113584c136e863f809dc962108087265b389bab9d6be93",
+    "item": {
+      "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
+      "description": "India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report suspected fraud,",
+      "links": [
+        "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7sPiutSMvrqIMK5SFFM4l-nBy7iKHGTuStvLuI7A31pMoQocvyQDRqoruAs2pj8twBB4dlbzAdVgBgvF-Whwp2SgpoKaCvTX4mMKQR8NkuXcNReYPCdNTz6f7c7FXTmwWesffx6s15M3lulZXgWsap-NnPWutvSalieTm-G7uDdZfyppBvaj5xyY-RQT/s1600/sanchar-saathi-app.jpg"
+      },
+      "published": "2025-12-01T17:55:00Z"
+    }
+  },
+  {
+    "hash": "0eab17e113d87ad96aacb2c1dc85aec01ad7a1afd9a4be57c7c3babb051b3a95",
+    "item": {
+      "title": "Apple Releases Open Weights Video Model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46117802\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://starflow-v.github.io"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T05:10:01Z"
+    }
+  },
+  {
+    "hash": "287235935fe653202fe9c0855a73d739c505518d5064f5a318d449ea89d71707",
+    "item": {
+      "title": "Rootless Pings in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46118432\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bou.ke/blog/rust-ping/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T07:01:03Z"
+    }
+  },
+  {
+    "hash": "02ef5016d4181cce2f6fa26fc44dcc6b8360266281eb4f71076b439b831976cb",
+    "item": {
+      "title": "Beej's Guide to Learning Computer Science",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095662\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://beej.us/guide/bglcs/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T11:03:13Z"
+    }
+  },
+  {
+    "hash": "57606e96cb2f70854a4d09923a7b24d565f4ff996ecd999fb8e609df5eb8a4f2",
+    "item": {
+      "title": "Why Replicate is joining Cloudflare",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46117993\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.cloudflare.com/why-replicate-joining-cloudflare/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T05:40:39Z"
+    }
+  },
+  {
+    "hash": "244a228d0bd0d9ee089746cb304ef153948ce1bd870fdbd0170608ca3e8a0426",
+    "item": {
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46118722\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T07:46:47Z"
+    }
+  },
+  {
+    "hash": "d0b0de704a4395b59d53892e899a79b9e1b2c54ace8219bd8ebcfebd82f42a02",
+    "item": {
+      "title": "URL in C Puzzle",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46066764\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://susam.net/url-in-c.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T07:42:39Z"
+    }
+  },
+  {
+    "hash": "aff051d51692337ad65b0d077f59b3fb7eac066430b5707804ceacff325e4fd6",
+    "item": {
+      "title": "Notes on Bhutan",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46116179\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apropos.substack.com/p/notes-on-bhutan"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T01:30:15Z"
+    }
+  },
+  {
+    "hash": "1f5208038b76e1ad4b85d293f9112756ec299e83a9016d9eed554c67ad413d23",
+    "item": {
+      "title": "After Windows Update, Password icon invisible, click where it used to be",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46116567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://support.microsoft.com/en-us/topic/august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T02:12:14Z"
+    }
+  },
+  {
+    "hash": "9014c7720177fc6730fa6a1f75f65de873624a995ff3604499a926fb24fb0863",
+    "item": {
+      "title": "Stride Game Engine 4.3 with .NET 10 Support",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054787\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.stride3d.net/blog/announcing-stride-4-3-in-dotnet-10/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-26T06:43:58Z"
+    }
+  },
+  {
+    "hash": "7309a4867d0b115a4f3967eaa99691345de581b071a05f235d4f4694d250bfe3",
+    "item": {
+      "title": "Tested: 1981 Datsun 280ZX Turbo (1981)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090184\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.caranddriver.com/reviews/a69529696/1981-datsun-280-zx-turbo-archive-test/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-29T19:43:59Z"
+    }
+  },
+  {
+    "hash": "701a0b8c06d6b756b2acb29445b958417cb7182c037d665771bff3b5ffa59943",
+    "item": {
+      "title": "Little Lie Detector is Probably No Worse Than The Big Ones",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png 1402w, https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png?resize=800,451 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"881925\" data-permalink=\"https://hackaday.com/2025/12/02/little-lie-detector-is-probably-no-worse-than-the-big-ones/fwbbt5jmgjq5ucr/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png\" data-orig-size=\"1402,790\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"FWBBT5JMGJQ5UCR\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png?w=800\" /\u003e\u003c/div\u003eWant to know if somebody is lying? It\u0026#8217;s always so hard to tell. [dbmaking] has whipped up a fun little polygraph, otherwise known as a lie detector. It\u0026#8217;s nowhere near \u003ca href=\"https://hackaday.com/2025/12/02/little-lie-detector-is-probably-no-worse-than-the-big-ones/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/02/little-lie-detector-is-probably-no-worse-than-the-big-ones/"
+      ],
+      "categories": [
+        "Medical Hacks",
+        "arduino",
+        "lie detector",
+        "polygraph"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/FWBBT5JMGJQ5UCR-e1764304961535.png"
+      },
+      "published": "2025-12-02T09:00:36Z"
+    }
+  },
+  {
+    "hash": "432ff62bbcbb15ea5aff5ea9563a9a792c9908d1e75d679ea10ffb23d4f007dd",
+    "item": {
+      "title": "Converting a 1980s Broadcast Camera to HDMI",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg 1444w, https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882073\" data-permalink=\"https://hackaday.com/2025/12/01/converting-a-1980s-broadcast-camera-to-hdmi/sony-camera-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg\" data-orig-size=\"1444,812\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"sony-camera-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg?w=800\" /\u003e\u003c/div\u003eAlthough it might seem like there was a sudden step change from analog to digital sometime in the late 1900s, it was actually a slow, gradual change from things like \u003ca href=\"https://hackaday.com/2025/12/01/converting-a-1980s-broadcast-camera-to-hdmi/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/converting-a-1980s-broadcast-camera-to-hdmi/"
+      ],
+      "categories": [
+        "Video Hacks",
+        "80's",
+        "broadcast",
+        "camera",
+        "CCD",
+        "dxc-300a",
+        "hdmi",
+        "repairability",
+        "rp2040",
+        "sony",
+        "video",
+        "wii"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/sony-camera-main.jpg"
+      },
+      "published": "2025-12-02T06:00:08Z"
+    }
+  },
+  {
+    "hash": "8ceac7c5894347d0664a18a65bb412d2e76ffdc4550f4b5fc6bc2d28ead4fc82",
+    "item": {
+      "title": "Necroprinting Isn’t As Bad As It Sounds",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png 1920w, https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"881943\" data-permalink=\"https://hackaday.com/2025/12/01/necroprinting-isnt-as-bad-as-it-sounds/3d-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"3D necroprinting_ using mosquito proboscis as high-resolution nozzle 1-56 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png?w=800\" /\u003e\u003c/div\u003eA mosquito has a very finely tuned proboscis that is excellent at slipping through your skin to suck out the blood beneath. Researchers at McGill University recently figured that the \u003ca href=\"https://hackaday.com/2025/12/01/necroprinting-isnt-as-bad-as-it-sounds/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/01/necroprinting-isnt-as-bad-as-it-sounds/"
+      ],
+      "categories": [
+        "3d Printer hacks",
+        "3d printer",
+        "3d printing",
+        "insect",
+        "insects",
+        "mosquito",
+        "mosquito proboscis",
+        "necroprinting",
+        "proboscis",
+        "research paper"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/3D-necroprinting_-using-mosquito-proboscis-as-high-resolution-nozzle-1-56-screenshot.png"
+      },
+      "published": "2025-12-02T03:00:13Z"
+    }
+  },
+  {
+    "hash": "06b49876b0aed36cfb2c6980b23674f71e7443fb3c71b0bc23b4e53368610d3f",
+    "item": {
+      "title": "FDIC to Implement US Stablecoin Rule Framework This Month, Acting Chair Says",
+      "description": "\u003cp\u003eThe Federal Deposit Insurance Corporation will publish its first US stablecoin rule framework later this month.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/fdic-to-implement-us-stablecoin-rule-framework-this-month-acting-chair-says/\"\u003eFDIC to Implement US Stablecoin Rule Framework This Month, Acting Chair Says\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/fdic-to-implement-us-stablecoin-rule-framework-this-month-acting-chair-says/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "FDIC",
+        "Regulation",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/02074126/1764661286-image-1764661188033_optimized.jpg"
+      },
+      "published": "2025-12-02T07:44:21Z"
+    }
+  },
+  {
+    "hash": "c8a02d5a25d0ed954196d72e238860658b0c91416d21e699b510ef53592667b0",
+    "item": {
+      "title": "Vanguard Opens Platform to Crypto-Linked ETFs and Mutual Funds, Ending Years of Resistance",
+      "description": "\u003cp\u003eVanguard will allow trading of crypto-focused ETFs and mutual funds starting Tuesday, opening access to Bitcoin, Ether and other tokens for millions of investors.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/vanguard-opens-platform-crypto-linked-etfs-mutual-funds/\"\u003eVanguard Opens Platform to Crypto-Linked ETFs and Mutual Funds, Ending Years of Resistance\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/vanguard-opens-platform-crypto-linked-etfs-mutual-funds/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto ETFs",
+        "Vanguard"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/02071414/1764659654-stock-image_optimized-5.jpg"
+      },
+      "published": "2025-12-02T07:17:29Z"
+    }
+  },
+  {
+    "hash": "2074a854b9de1668adaffec005ac1a30d12f2ad2cdb8e36cd2af1a86717cade5",
+    "item": {
+      "title": "BitMine Doubles Down on Ether With $70M Buying Spree Despite Market Slump",
+      "description": "\u003cp\u003eBitMine bought nearly $70 million worth of ETH in three days, doubling down during the market pullback.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitmine-doubles-down-on-ether-with-70m-buying-spree-despite-market-slump/\"\u003eBitMine Doubles Down on Ether With $70M Buying Spree Despite Market Slump\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitmine-doubles-down-on-ether-with-70m-buying-spree-despite-market-slump/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "BitMine",
+        "Cryptocurrency",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/02063008/1764657007-image-1764656844549_optimized.jpg"
+      },
+      "published": "2025-12-02T06:31:22Z"
+    }
+  },
+  {
+    "hash": "9987ed999f26908676a0f7086dc7b81e35c6ca08072a3aec45d679e147f19cef",
+    "item": {
+      "title": "Anthropic Says AI Can Hack Smart Contracts After Spotting $4.6M in Exploits",
+      "description": "\u003cp\u003eAnthropic says AI models exploited recent smart contracts in simulation and uncovered $4.6M in flaws, showing the growing risk of AI-driven attacks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/anthropic-ai-can-hack-smart-contracts-spotting-4-6m-in-exploits/\"\u003eAnthropic Says AI Can Hack Smart Contracts After Spotting $4.6M in Exploits\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/anthropic-ai-can-hack-smart-contracts-spotting-4-6m-in-exploits/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "AI"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/02061931/1764656370-image-1764656319038_optimized.jpg"
+      },
+      "published": "2025-12-02T06:26:09Z"
+    }
   }
 ]
