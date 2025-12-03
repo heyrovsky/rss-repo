@@ -1177,5 +1177,213 @@
       },
       "published": "2025-12-03T06:19:31Z"
     }
+  },
+  {
+    "hash": "e0ee53c65a09382735ecc3f3b5a0639739a216c51d2a51a881d0f0843de648aa",
+    "item": {
+      "title": "Sound Open Firmware 2.14 Released With Intel Wildcat Lake \u0026 Nova Lake Support",
+      "description": "Sound Open Firmware is one of the projects started originally by Intel but has grown into a multi-vendor initiative for open-source audio digital signal processing (DSP) firmware and development tooling for a variety of platforms under the Linux Foundation umbrella...",
+      "links": [
+        "https://www.phoronix.com/news/Sound-Open-Firmware-2.14"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-03T11:41:00Z"
+    }
+  },
+  {
+    "hash": "9f73363ba3b2b3f50c79bb216c6d69d99315b3b2170a3f2b686ecbbde3202db5",
+    "item": {
+      "title": "Scoped User Access In Linux 6.19 To Reduce Speculation Barriers \u0026 Its Performance Hit",
+      "description": "Merged yesterday to the Linux 6.19 Git codebase was the \"core/uaccess\" pull that introduces new scoped user-mode access with auto-cleanup functionality. This can reduce the number of speculation barriers encountered when needing to access user-mode memory and thereby avoiding some of the performance penalties incurred by speculation barriers...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Scoped-User-Access"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-03T11:29:13Z"
+    }
+  },
+  {
+    "hash": "2b8f324cfdadbaa527fd00502babace200003c3587e6597a86f9f11827cf8b99",
+    "item": {
+      "title": "AES-GCM Optimizations Land In Linux 6.19 - Benefiting AMD Zen 3, AVX-512 CPUs Too",
+      "description": "Google engineer Eric Biggers who is known for his many Linux crypto subsystem performance optimizations has seen his latest pull requests land in Linux 6.19. Notable among them are some AES-GCM optimizations benefiting AMD Zen 3 processors and separately AVX-512 processors also benefit too from this latest round of optimization work...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-AES-GCM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-03T11:14:33Z"
+    }
+  },
+  {
+    "hash": "f604a2a17c363288ae3f8482a96825f46284299fba90d145287cefa19edd8bde",
+    "item": {
+      "title": "X.Org Server's xkbcomp Updated For Four Security Issues Dating Back Years",
+      "description": "Red Hat's Peter Hutterer announced the release today of xkbcomp 1.5, the CLI utility used for compiling X Keyboard Extension (XBD) keyboard descriptions for the X.Org Server. Driving this new xkbcomp release are fixes for four security issues...",
+      "links": [
+        "https://www.phoronix.com/news/xkbcomp-1.5-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-03T10:49:59Z"
+    }
+  },
+  {
+    "hash": "bb4d97b42e3e6fe31a3afae3eec0aba9ae056d9f3302eaa83d49aebc35e8edbc",
+    "item": {
+      "title": "Mathematics is hard for mathematicians to understand too",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46073978\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.science.org/doi/10.1126/science.aec9014"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T23:05:54Z"
+    }
+  },
+  {
+    "hash": "ff82c01dc97bbca4f1ab3b34cb926c12d00d39f30e4c44074aec97aae6099134",
+    "item": {
+      "title": "Trying Out C++26 Executors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46072323\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mropert.github.io/2025/11/21/trying_out_stdexec/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T19:10:56Z"
+    }
+  },
+  {
+    "hash": "8264f8835a7c88b66dc32457c29aad413239c54f49affe4887476fb6704961f4",
+    "item": {
+      "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage",
+      "description": "Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder, and still lost by a quarter inch. His mistake was not losing the contest. His mistake was assuming that effort alone could outmatch a new kind of tool.\nSecurity professionals are facing a similar",
+      "links": [
+        "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_4P5ELpACB-FnFxcCiCIcebpFFrXZIu9gkCjCAv4TAmaJTeIdo5zVIdwYukqu-MeZKQheSzmWFedSw-8-0gx5dOfbsdLNyMNglcp_etSWlTZpLuAZd00De4GbsAL-szGMm7P_wIbuM32IPuGGihYzTUJdQuFkOGuBcvFZCtaj2NoQgG4BCPvwfbJvvTk/s1600/ai-work.png"
+      },
+      "published": "2025-12-03T09:56:00Z"
+    }
+  },
+  {
+    "hash": "a60403bf9c1e40ea67f207bb796c10a58b1a9a7b47338e0bf564480f441544cd",
+    "item": {
+      "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
+      "description": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
+      "links": [
+        "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJ6D3cf9n4d0wB-0nReoF_JEgEraaVECS6V41EWkvsqwoa8YOSI5EnrHQ2MBHew0VbYvNg1pXuVpV7OQKTDKH4IWhlqyPZnVjA7RcLW_drNT2MVy3jupLSFT2ePAxBj0GaI3z3tNd4E2-gCBisHYhFUWXzyXocF0wGQCCLjV5W4Wl8FS5gLJX2GlQdGRZ/s1600/pytorch.jpg"
+      },
+      "published": "2025-12-03T09:30:00Z"
+    }
+  },
+  {
+    "hash": "84f16b0b80432997bd210148f0ae46fd606964ff98b08a50f7bba76cc164f9c1",
+    "item": {
+      "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
+      "description": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
+      "links": [
+        "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7pMBv7FKpI1ZaejuUm5kIC7Q_Lw7E3o4mfaC-4dY33fF2IlNA7_dcRFmMKSmlyqxrfiZXlAee52u_-OzSTa2hiNLz961dUHKb6Khqw3YSFGIYS2mns-s1BjTRHAOiUBXKI7MM-WC5ydc4RZ0b64IPFvcu9dEFwypyyo4HHEnNqSwpoLVXRYGiewM4Tn6/s1600/crypto-rust.jpg"
+      },
+      "published": "2025-12-03T08:39:00Z"
+    }
+  },
+  {
+    "hash": "2c0df24d0cbc369781f9fe6d62ea17005157fbea7d4645554a1a85ed41286cb1",
+    "item": {
+      "title": "Ripple, Solana and Binance Execs Break Down Market Shifts at Binance Blockchain Week 2025",
+      "description": "\u003cp\u003eA high-profile panel at Binance Blockchain Week brought together Brad Garlinghouse of Ripple, Lily Liu of the Solana Foundation, and Binance’s Richard Teng to dissect the latest trends shaping digital asset markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ripple-solana-and-binance-execs-break-down-market-shifts-at-binance-blockchain-week-2025/\"\u003eRipple, Solana and Binance Execs Break Down Market Shifts at Binance Blockchain Week 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ripple-solana-and-binance-execs-break-down-market-shifts-at-binance-blockchain-week-2025/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Binance",
+        "Ripple",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/03/20113504/1742470504-tokenization-dubai-blockchain-real-estate.jpg"
+      },
+      "published": "2025-12-03T11:03:08Z"
+    }
+  },
+  {
+    "hash": "f59a17220dc2b04bab5bf29a0065a204699ea6741b8b6f4b03dc36da0d66aa3a",
+    "item": {
+      "title": "Eric Trump-Linked American Bitcoin Stock Crashes 40% as Lockup Ends",
+      "description": "\u003cp\u003eAmerican Bitcoin shares plunged nearly 50% after newly unlocked stock hit the market following the lockup expiry.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/eric-trump-linked-american-bitcoin-stock-crashes-40-as-lockup-ends/\"\u003eEric Trump-Linked American Bitcoin Stock Crashes 40% as Lockup Ends\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/eric-trump-linked-american-bitcoin-stock-crashes-40-as-lockup-ends/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Eric Trump",
+        "Mining"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/03092631/1764753990-fe760e67-90ad-47cf-8121-0c5f065d1d29_optimized.jpg"
+      },
+      "published": "2025-12-03T09:47:13Z"
+    }
   }
 ]
