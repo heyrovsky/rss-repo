@@ -2807,5 +2807,565 @@
       },
       "published": "2025-12-04T13:18:30Z"
     }
+  },
+  {
+    "hash": "35635b8186e18453432f134345c582906d4f406119215bab0e74b3f8a9bebd71",
+    "item": {
+      "title": "In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet",
+      "description": "Thirty years later, JavaScript is the glue that holds the interactive web together, warts and all.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/"
+      ],
+      "categories": [
+        "Tech",
+        "1995",
+        "Bill Joy",
+        "brendan eich",
+        "browser history",
+        "ECMAScript",
+        "JavaScript",
+        "Netscape",
+        "Node.js",
+        "oracle",
+        "Programming",
+        "retrotech",
+        "software development",
+        "Sun microsystems",
+        "tales of tech lore",
+        "tech history",
+        "tech lore",
+        "trademark",
+        "typescript",
+        "web development"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/netscape_logo_header_3-1152x648.jpg"
+      },
+      "published": "2025-12-04T17:59:38Z"
+    }
+  },
+  {
+    "hash": "c3c22bb3cf26917d34844946e85507c03e2dacfeb5f17535e17d37a94fd40c2b",
+    "item": {
+      "title": "Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis",
+      "description": "They're quite a bit cheaper than manufactured nozzles if you can dissect them.",
+      "links": [
+        "https://arstechnica.com/science/2025/12/welcome-to-necroprinting-3d-printer-nozzle-made-from-mosquitos-proboscis/"
+      ],
+      "categories": [
+        "Science",
+        "3D printing",
+        "Biology",
+        "Biomechanics",
+        "materials science",
+        "mosquitos",
+        "printing"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2065922040-1152x648.jpg"
+      },
+      "published": "2025-12-04T16:16:46Z"
+    }
+  },
+  {
+    "hash": "bb8c37c604aead1998cc50f49fadd7f5ae44e4e110c08a14e3dadd4be1cf7e62",
+    "item": {
+      "title": "Trump wants tiny Japanese-style cars for US even as he cuts mpg goals",
+      "description": "Even the first Trump administration had tougher fuel economy targets. ",
+      "links": [
+        "https://arstechnica.com/cars/2025/12/trump-wants-tiny-japanese-style-cars-for-us-even-as-he-cuts-mpg-goals/"
+      ],
+      "categories": [
+        "Cars",
+        "CAFE standards",
+        "fuel economy",
+        "kei cars"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2234137052-1152x648.jpg"
+      },
+      "published": "2025-12-04T15:28:08Z"
+    }
+  },
+  {
+    "hash": "a7320bb9e9b85d2580a4a1a6d9a0ea60d22a5658c29c43d877f24c5e9b0ab3f7",
+    "item": {
+      "title": "Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026",
+      "description": "Developed with NASA and ESA, the 632-piece kit comes out Jan. 1.",
+      "links": [
+        "https://arstechnica.com/space/2025/12/lego-announces-nasa-artemis-sls-rocket-set-to-lift-off-literally-in-2026/"
+      ],
+      "categories": [
+        "Space",
+        "42221",
+        "artemis",
+        "Lego",
+        "moon",
+        "NASA",
+        "rocket",
+        "sls",
+        "space collectible",
+        "Space exploration",
+        "space history",
+        "space launch system",
+        "space memorabilia",
+        "space toy",
+        "Technic"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Robert Pearlman"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120225b-lg-1152x648.jpg"
+      },
+      "published": "2025-12-04T15:08:39Z"
+    }
+  },
+  {
+    "hash": "288b8115718abab3c672d975335378bf18efa6fab9b006bbf7c1c4f4b7d21f7d",
+    "item": {
+      "title": "FreeBSD 15.0 Benchmarks Versus FreeBSD 14.3 On AMD EPYC",
+      "description": "This week brought the official release of FreeBSD 15.0 as the latest major update to this BSD operating system. In being eager to test out this new FreeBSD release, for this first round of FreeBSD 15.0 benchmarking is seeing how it compares to the former FreeBSD 14.3 release on a Supermicro + AMD EPYC Turin server.",
+      "links": [
+        "https://www.phoronix.com/review/freebsd-15-amd-epyc"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T17:20:00Z"
+    }
+  },
+  {
+    "hash": "19d8c995accafca05f9e399f9c71c05a3fd4eb0b1eeba6142ce208e2af741169",
+    "item": {
+      "title": "Rust-Written Redox OS Sees Initial Wayland Port",
+      "description": "Developers behind Redox OS, the original open-source operating system written from scratch in the Rust programming language, have ported Wayland to it with initially getting the Smallvil Wayland compositor up and running along with the Smithay framework and the Wayland version of the GTK toolkit...",
+      "links": [
+        "https://www.phoronix.com/news/Wayland-On-Redox-OS"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T16:28:30Z"
+    }
+  },
+  {
+    "hash": "b3d2284684123a986c7192df2667e2afdfec0884c71687914b1b455fd8ca696d",
+    "item": {
+      "title": "Former Intel Open-Source Project SVT-VP9 Sees First Update In 5 Years",
+      "description": "The open-source SVT-VP9 project started by Intel as a high performance VP9 video encoder has seen its first new release in five years...",
+      "links": [
+        "https://www.phoronix.com/news/SVT-VP9-2025"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T16:04:11Z"
+    }
+  },
+  {
+    "hash": "cde028ef00a43bfa27bbc26bc63ce57ef1a8c38be606bd6488d1addf2a958a6d",
+    "item": {
+      "title": "Printk Improvement For Linux 6.19 Can Significantly Speed-Up Boot Times For Some Systems",
+      "description": "The Linux kernel's printk code for logging kernel messages has some useful improvements with the Linux 6.19 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Printk"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T15:50:29Z"
+    }
+  },
+  {
+    "hash": "4ab8b57f901dd61e691d2fbc554840847c7850f55d53a2f0c9615475ed7472fe",
+    "item": {
+      "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
+      "description": "The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organizations in China.\nThe search engine optimization (SEO) poisoning campaign leverages Microsoft Teams lures to trick unsuspecting users into downloading a malicious setup file that leads to the deployment of ValleyRAT (Winos 4.0), a known malware",
+      "links": [
+        "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOGRDm-2Em-PIUKEQzdon3yjLDInkZdDnDzgWKhQ0q6QmtDagHyiGNa2KRwJsUQEPnqLnfkTdHKiGyBIx3S4RiVlZ7Y4RlSn-rRbKF9SkZFEWf-6sYNMA3NE6-0DxziItdI81lLne3G63Gy5Pmdy9dd9W9CDS7lou5SwO0GvhzzV02F61MvGeanfeQBhri/s1600/msteams.jpg"
+      },
+      "published": "2025-12-04T17:25:00Z"
+    }
+  },
+  {
+    "hash": "600ad9ec38c7fdcf47e93b16935782eefad355aa2941b270e406324a2277c679",
+    "item": {
+      "title": "It’s time to free JavaScript (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145365\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://javascript.tm/letter"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T09:01:55Z"
+    }
+  },
+  {
+    "hash": "9659810e377edcd3789294b516a888f54859c41ee0545e9298c961007361b6e2",
+    "item": {
+      "title": "Multivox: Volumetric Display",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149813\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/AncientJames/multivox"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T16:58:35Z"
+    }
+  },
+  {
+    "hash": "0e03d1cc37204197a799a5f04f7a79d011bc63be47888dac8f5d0f81aadd76d7",
+    "item": {
+      "title": "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149727\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.browserbuddy.com/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T16:52:56Z"
+    }
+  },
+  {
+    "hash": "d56a1afc61c552a8e8ea409838b646f3be91a761c4f9d77d29a2f3439657353f",
+    "item": {
+      "title": "The End of the Train-Test Split",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149740\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://folio.benguzovsky.com/train-test"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T16:53:49Z"
+    }
+  },
+  {
+    "hash": "ba66ec1aad359f804921a500c6313664e97e3258077cb0ee5f47f11414ec44d4",
+    "item": {
+      "title": "Converge (YC S23) is hiring a martech expert in NYC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149849\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.runconverge.com/careers/technical-customer-success-manager"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T17:00:37Z"
+    }
+  },
+  {
+    "hash": "ff14e0e8f7f2081bdc6a9c000ce4ea3c401369c9582d3aa24c07946f7e73230c",
+    "item": {
+      "title": "Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46148460\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T15:06:08Z"
+    }
+  },
+  {
+    "hash": "89372891452e5e6175ac3b162edb2e401fd1ff779e723a44ce0bf249d3d2a5e0",
+    "item": {
+      "title": "Feynman vs. Computer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149066\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://entropicthoughts.com/feynman-vs-computer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T16:03:02Z"
+    }
+  },
+  {
+    "hash": "0278d12ef6c4f8fd37da51e49f0a3bf44c74ef8f552e47aa11f80d6e9028f243",
+    "item": {
+      "title": "Autism should not be treated as a single condition",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149375\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T16:25:31Z"
+    }
+  },
+  {
+    "hash": "60aca1514c4285ff4acdd842a5b1aaa316ec8d9ba0b05b4b6a34775e26bc01a8",
+    "item": {
+      "title": "Bootloader Unlock Wall of Shame",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149019\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T15:57:21Z"
+    }
+  },
+  {
+    "hash": "1860b5772885a8c9c560f697faff1000e8efa40c7464eddb7e90fed4a71ddcd1",
+    "item": {
+      "title": "What Is \"Open Recursion\"?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46121619\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T14:37:55Z"
+    }
+  },
+  {
+    "hash": "a35f0c863f9f1f4d5d5f46c9d16ebd4fa29acd0ecba57f883cdbf2466b28fb84",
+    "item": {
+      "title": "Proxmox Datacenter Manager 1.0 available",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46148744\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T15:31:12Z"
+    }
+  },
+  {
+    "hash": "bfe116ad0581f2df800a2d373ffd0e2f83189e32d2ab3a827fd2ecb70e6b30e9",
+    "item": {
+      "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46148748\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T15:31:52Z"
+    }
+  },
+  {
+    "hash": "0533dbdb873e56c1b57699d86efd168b65b5eec916618516029e0fd33b095841",
+    "item": {
+      "title": "Contextualization Machines",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46109130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stochasm.blog/posts/contextualization-machines/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T16:14:39Z"
+    }
+  },
+  {
+    "hash": "c0013f58c13bfebc821eaf5f532cbd609db35d079ae958c1bc12377619fc6b95",
+    "item": {
+      "title": "Record $12M Crypto Donation to Reform Rocks UK Politics as Government Weighs Ban",
+      "description": "\u003cp\u003eReform UK has received a record £9m donation from crypto investor Christopher Harborne, lifting it ahead of the Conservatives in recent fundraising as the UK debates crypto funding rules and recognizes digital assets as legal property.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/record-12m-crypto-donation-to-reform-rocks-uk-politics-as-government-weighs-ban/\"\u003eRecord $12M Crypto Donation to Reform Rocks UK Politics as Government Weighs Ban\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/record-12m-crypto-donation-to-reform-rocks-uk-politics-as-government-weighs-ban/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto Regulation",
+        "Political Donations"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04143809/1764859088-0_1124_optimized.jpg"
+      },
+      "published": "2025-12-04T17:23:03Z"
+    }
+  },
+  {
+    "hash": "02d71a7cd605844765d60cf056485ccac1c5750b39810289ba9e0ce5aa7c2ca8",
+    "item": {
+      "title": "Bitcoin Price Prediction: Quantum Threats Dismissed by Experts – But What If They’re Wrong?",
+      "description": "\u003cp class=\"font-claude-response-body whitespace-pre-wrap break-words\"\u003eBitcoin experts dismiss quantum computing concerns as premature, with researchers estimating no meaningful threat until 2045–2055, while BTC maintains bullish structure above $93,000.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-quantum-threats-dismissed-by-experts-but-what-if-theyre-wrong/\"\u003eBitcoin Price Prediction: Quantum Threats Dismissed by Experts – But What If They\u0026#8217;re Wrong?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-quantum-threats-dismissed-by-experts-but-what-if-theyre-wrong/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04123859/1764851938-bitcoin-price-prediction-2.jpg"
+      },
+      "published": "2025-12-04T17:07:04Z"
+    }
+  },
+  {
+    "hash": "49b9997f86a4e8ee15b91cfd4953082ecb3bbd0e17eeddfc96ab5611ae28dcdc",
+    "item": {
+      "title": "Stablecoin Adoption and Tokenized Settlement Take Center Stage at Binance Blockchain Week",
+      "description": "\u003cp\u003eAt Binance Blockchain Week, a panel with Tron DAO, Braza Bank, and Banking Circle has traced stablecoins’ rise across retail payments, cross-border flows, and tokenized settlement, stressing regulation, transparency, and infrastructure for institutional and emerging-market use.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/stablecoin-adoption-and-tokenized-settlement-take-center-stage-at-binance-blockchain-week/\"\u003eStablecoin Adoption and Tokenized Settlement Take Center Stage at Binance Blockchain Week\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/stablecoin-adoption-and-tokenized-settlement-take-center-stage-at-binance-blockchain-week/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/11/18131551/1763471750-stablecoins.jpg"
+      },
+      "published": "2025-12-04T17:00:16Z"
+    }
+  },
+  {
+    "hash": "b73b366ab68c9ae45b52511f041b39c82e9a8762c3b7a322e04561bde3a10c94",
+    "item": {
+      "title": "CZ and Peter Schiff Face Off at Binance Blockchain Week 2025: Bitcoin or Tokenized Gold?",
+      "description": "\u003cp\u003eBinance Blockchain Week 2025 has showcased a CZ–Peter Schiff exchange on sound money, contrasting Bitcoin’s internet-native design with tokenized gold backed by vault reserves, and has explored how digital and traditional assets may coexist in future systems.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/cz-and-peter-schiff-face-off-at-binance-blockchain-week-2025-bitcoin-or-tokenized-gold/\"\u003eCZ and Peter Schiff Face Off at Binance Blockchain Week 2025: Bitcoin or Tokenized Gold?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/cz-and-peter-schiff-face-off-at-binance-blockchain-week-2025-bitcoin-or-tokenized-gold/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Binance",
+        "Bitcoin",
+        "CZ"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04153927/1764862766-cz.jpg"
+      },
+      "published": "2025-12-04T16:01:47Z"
+    }
+  },
+  {
+    "hash": "0d45e86d6c1fb12480308708c74b76b382579361f1540108085d8b79d1ad993f",
+    "item": {
+      "title": "Bitcoin Near $92K Steadies Market as Curve, Bittensor and Avalanche Lead Altcoin Rotation",
+      "description": "\u003cp\u003eBitcoin has traded near $92,000 as the Fear and Greed Index has risen from extreme fear, easing liquidations and allowing selective rotation into CRV, TAO and AVAX, where deeper liquidity and active development have supported a steadier market structure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-shows-early-signs-of-stability-as-fear-index-rises-to-27/\"\u003eBitcoin Near $92K Steadies Market as Curve, Bittensor and Avalanche Lead Altcoin Rotation\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-shows-early-signs-of-stability-as-fear-index-rises-to-27/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04153627/1764862586-image-1764862472009_optimized.jpg"
+      },
+      "published": "2025-12-04T15:48:39Z"
+    }
+  },
+  {
+    "hash": "88e5ccdcfef8f1344e13a866b465668a4df83ec5e70a12379a2a6c30b5d33c2d",
+    "item": {
+      "title": "XRP Price Prediction: Important Data Shows Whales Just Bought $1.3 Billion in XRP – XRP Buying Spree Starting?",
+      "description": "\u003cp\u003eAs the market recovers, XRP is retesting the $2.20 level again, and on-chain data is showing a clear surge in whale accumulation along with record-breaking XRP velocity.According to CryptoQuant, on December 2, the Velocity metric on the XRP Ledger suddenly spiked to 0.0324, its highest level this year.That jump basically means the network got much [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-important-data-shows-whales-just-bought-1-3-billion-in-xrp-xrp-buying-spree-starting/\"\u003eXRP Price Prediction: Important Data Shows Whales Just Bought $1.3 Billion in XRP – XRP Buying Spree Starting?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-important-data-shows-whales-just-bought-1-3-billion-in-xrp-xrp-buying-spree-starting/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Ripple",
+        "XRP",
+        "XRP News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04140145/1764856904-xrp-price-prediction.jpg"
+      },
+      "published": "2025-12-04T15:28:15Z"
+    }
+  },
+  {
+    "hash": "cd7456f14c3de19d813d67a40774e9876d7afb781a09d2426649d6970f638fc2",
+    "item": {
+      "title": "Grayscale’s Spot Chainlink ETF Pulls $41M on Debut Despite Market Uncertainty",
+      "description": "\u003cp\u003eBloomberg’s Eric Balchunas says the Chainlink ETF opened with $41 million in inflows and $13 million in volume.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/grayscales-spot-chainlink-etf-pulls-41m-on-debut-despite-market-uncertainty/\"\u003eGrayscale’s Spot Chainlink ETF Pulls $41M on Debut Despite Market Uncertainty\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/grayscales-spot-chainlink-etf-pulls-41m-on-debut-despite-market-uncertainty/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "ChainLink",
+        "ETF",
+        "ETFs"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04125205/1764852724-1764570802-e8bd3c21-4698-44b5-93c8-8ec95756bbe4-1_optimized.jpg"
+      },
+      "published": "2025-12-04T15:12:02Z"
+    }
   }
 ]
