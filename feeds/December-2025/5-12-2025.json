@@ -2029,5 +2029,692 @@
       },
       "published": "2025-12-05T11:00:00Z"
     }
+  },
+  {
+    "hash": "0111f1e66dde11b55bc3e5819f62d6df9b94beb791dad458a73eabcca8c20d50",
+    "item": {
+      "title": "New report warns of critical climate risks in Arab region",
+      "description": "Foundations of daily life are being pushed to the brink by human-caused warming.",
+      "links": [
+        "https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/"
+      ],
+      "categories": [
+        "Science",
+        "arabian peninsula",
+        "climate change",
+        "extreme heat",
+        "heat index",
+        "syndication"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Bob Berwyn, Inside Climate News"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_0073-2048x1366-1-1152x648.jpg"
+      },
+      "published": "2025-12-05T12:15:43Z"
+    }
+  },
+  {
+    "hash": "92d51f334303c09157e3f8ab57392bbf5871f43281d09333e8ab9973d5114fe1",
+    "item": {
+      "title": "Rocket Report: Blunder at Baikonur; do launchers really need rocket engines?",
+      "description": "The Department of the Air Force approves a new home in Florida for SpaceX's Starship.",
+      "links": [
+        "https://arstechnica.com/space/2025/12/rocket-report-openais-launch-overture-south-korea-making-progress-in-space/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "isar aerospace",
+        "launch",
+        "openai",
+        "rocket report",
+        "South Korea",
+        "spacex",
+        "starship",
+        "stoke space",
+        "vega c"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/nurilift-1152x648.jpg"
+      },
+      "published": "2025-12-05T12:00:57Z"
+    }
+  },
+  {
+    "hash": "8eb82afb23d67ec5467a27f0172994474347924417388292699b7d3b3c48e992",
+    "item": {
+      "title": "Intel Updates Cache Aware Scheduling For Linux With Better NUMA Balancing",
+      "description": "Intel engineer Tim Chen has sent out a second version of the proposed Cache Aware Scheduling patches for the Linux kernel to enhance the CPU performance of modern processors sporting multiple cache domains...",
+      "links": [
+        "https://www.phoronix.com/news/Cache-Aware-Scheduling-v2"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-05T14:38:02Z"
+    }
+  },
+  {
+    "hash": "3d1a57fb6332c364c1ba748c6efb72c551712a21f0b9ee5c8b008453729e7661",
+    "item": {
+      "title": "Venus Vulkan Driver Lands Mesh Shader Support In Mesa 26.0",
+      "description": "Venus is the VirtIO-GPU driver that allows for Vulkan support within guest virtual machines permitting sufficient host driver support  and other requirements in place with hypervisors like CrosVM and QEMU. The Venus driver now supports Vulkan's mesh shader capabilities and in turn advances the DXVK-Proton support for Linux gaming within VMs...",
+      "links": [
+        "https://www.phoronix.com/news/Venus-Vulkan-Mesh-Shader"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-05T14:03:27Z"
+    }
+  },
+  {
+    "hash": "73414853c53d6de6a80daa73fdeca5731ee59e96b6b9f92f80c768133098f7e4",
+    "item": {
+      "title": "Intel Graphics Score A Big Win With Linux 6.19: Color Management \u0026 Xe VFIO Driver Merged",
+      "description": "On top of enabling Xe3P graphics for Nova Lake and Crescent Island plus other changes like CASF adaptive sharpening for Lunar Lake and newer, another set of Intel kernel graphics driver updates were merged overnight as a big win for the open-source Intel graphics stack on Linux...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-Graphics-Win-Linux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-05T13:15:22Z"
+    }
+  },
+  {
+    "hash": "3f6baaab00cf5015950688d146f589b4cb7e0f91d0ba3f42e39b1f84554a6793",
+    "item": {
+      "title": "This Week in Security: React, JSON Formatting, and the Return of Shai Hulud",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg 800w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?resize=400,242 400w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"188080\" data-permalink=\"https://hackaday.com/2016/01/26/the-dark-arts-meet-the-lulzsec-hackers/darkarts/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg\" data-orig-size=\"800,484\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"DarkArts\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" /\u003e\u003c/div\u003eAfter a week away recovering from too much turkey and sweet potato casserole, we\u0026#8217;re back for more security news! And if you need something to shake you out of that \u003ca href=\"https://hackaday.com/2025/12/05/this-week-in-security-react-json-formatting-and-the-return-of-shai-hulud/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/05/this-week-in-security-react-json-formatting-and-the-return-of-shai-hulud/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "Security Hacks",
+        "React",
+        "Shai-hulud",
+        "This Week in Security"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jonathan Bennett"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+      },
+      "published": "2025-12-05T15:00:26Z"
+    }
+  },
+  {
+    "hash": "95b13b49e2a0a505c00de375c4cad7147d2c373a63d91a52b8d6e4f88e153b42",
+    "item": {
+      "title": "Warnings About Retrobright Damaging Plastics After 10 Year Test",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"465\" src=\"https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg 1296w, https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg?resize=250,145 250w, https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg?resize=400,233 400w, https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg?resize=800,465 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"882292\" data-permalink=\"https://hackaday.com/2025/12/05/warnings-about-retrobright-damaging-plastics-after-10-year-test/retrobrighting_dreamcast_tech_tangents_youtube/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg\" data-orig-size=\"1296,754\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"retrobrighting_dreamcast_tech_tangents_youtube\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg?w=800\" /\u003e\u003c/div\u003eWithin the retro computing community there exists a lot of controversy about so-called \u0026#8216;retrobrighting\u0026#8217;, which involves methods that seeks to reverse the yellowing that many plastics suffer over time. While \u003ca href=\"https://hackaday.com/2025/12/05/warnings-about-retrobright-damaging-plastics-after-10-year-test/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/05/warnings-about-retrobright-damaging-plastics-after-10-year-test/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "bromine",
+        "Chemistry",
+        "restoration",
+        "retrobrighting"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/retrobrighting_dreamcast_tech_tangents_youtube.jpg"
+      },
+      "published": "2025-12-05T12:00:47Z"
+    }
+  },
+  {
+    "hash": "e77993e49c9669c7425f29d0f8a59a5209cb2e456c25ff0ba6e53c18b8235a75",
+    "item": {
+      "title": "Off-Grid, Small-Scale Payment System",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg 1200w, https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882183\" data-permalink=\"https://hackaday.com/2025/12/05/off-grid-small-scale-payment-system/meshtbank-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg\" data-orig-size=\"1200,675\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"meshtbank-main\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg?w=800\" /\u003e\u003c/div\u003eAn effective currency needs to be widely accepted, easy to use, and stable in value. By now most of us have recognized that cryptocurrencies fail at all three things, despite \u003ca href=\"https://hackaday.com/2025/12/05/off-grid-small-scale-payment-system/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/05/off-grid-small-scale-payment-system/"
+      ],
+      "categories": [
+        "Network Hacks",
+        "banking",
+        "community",
+        "ledger",
+        "local",
+        "Meshtastic",
+        "meshtbank",
+        "payments"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Bryan Cockfield"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/meshtbank-main.jpg"
+      },
+      "published": "2025-12-05T09:00:30Z"
+    }
+  },
+  {
+    "hash": "8e8b7e64d37b49602c40c53f9d7077c59cb1369ca92481cb62d4563ace3e05a5",
+    "item": {
+      "title": "Biogas Production For Surprisingly Little Effort",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882238\" data-permalink=\"https://hackaday.com/2025/12/04/biogas-production-for-surprisingly-little-effort/biogas-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"biogas-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg?w=800\" /\u003e\u003c/div\u003eProbably most people know that when organic matter such as kitchen waste rots, it can produce flammable methane. As a source of free energy it\u0026#8217;s attractive, but making a biogas \u003ca href=\"https://hackaday.com/2025/12/04/biogas-production-for-surprisingly-little-effort/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/04/biogas-production-for-surprisingly-little-effort/"
+      ],
+      "categories": [
+        "green hacks",
+        "anaerobic digestion",
+        "biogas",
+        "methane"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/biogas-featured.jpg"
+      },
+      "published": "2025-12-05T06:00:05Z"
+    }
+  },
+  {
+    "hash": "2226f59444e1ec93f4874265bf16e98bfdb60addea4e8dc8e167d077259a7bbd",
+    "item": {
+      "title": "Building a Microscope without Lenses",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A mirrorless camera is mounted on a stand, facing downwards toward a rotating microscope stage made of wood. A pair of wires come down from the stage, and a man\u0026#039;s hand is pointing to the stage.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png 2064w, https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?resize=1536,864 1536w, https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?resize=2048,1152 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882114\" data-permalink=\"https://hackaday.com/2025/12/04/building-a-microscope-without-lenses/ptychography_microscope/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png\" data-orig-size=\"2064,1161\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"ptychography_microscope\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png?w=800\" /\u003e\u003c/div\u003eIt’s relatively easy to understand how optical microscopes work at low magnifications: one lens magnifies an image, the next magnifies the already-magnified image, and so on until it reaches the \u003ca href=\"https://hackaday.com/2025/12/04/building-a-microscope-without-lenses/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/04/building-a-microscope-without-lenses/"
+      ],
+      "categories": [
+        "Science",
+        "camera lens",
+        "diffraction",
+        "microscope",
+        "optical microscope",
+        "ptychography"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Aaron Beckendorf"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/ptychography_microscope.png"
+      },
+      "published": "2025-12-05T03:00:37Z"
+    }
+  },
+  {
+    "hash": "dedf1175eac8a5222fa566eeece70184a60e1cf4979ed89ca6c92efcf54217a1",
+    "item": {
+      "title": "Preventing a Mess with the Weller WDC Solder Containment Pocket",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"498\" src=\"https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg 1156w, https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg?resize=250,155 250w, https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg?resize=400,249 400w, https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg?resize=800,498 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882186\" data-permalink=\"https://hackaday.com/2025/12/04/preventing-a-mess-with-the-weller-wdc-solder-containment-pocket/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg\" data-orig-size=\"1156,719\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg?w=800\" /\u003e\u003c/div\u003eHave you ever tipped all the stray bits of solder out of your tip cleaner by mistake? [MisterHW] is here with a bit of paraffin wax to save the day. \u003ca href=\"https://hackaday.com/2025/12/04/preventing-a-mess-with-the-weller-wdc-solder-containment-pocket/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/04/preventing-a-mess-with-the-weller-wdc-solder-containment-pocket/"
+      ],
+      "categories": [
+        "Tool Hacks",
+        "hand soldering",
+        "soldering iron"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Maya Posch"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/weller_wdc_paraffin_wax_catch_tray_misterhw_363aa2.jpg"
+      },
+      "published": "2025-12-05T00:00:05Z"
+    }
+  },
+  {
+    "hash": "05afebb9be82dcb3ec7ccf962f05a4196200cd1dcba30e6eb21a3c73bab9bbc4",
+    "item": {
+      "title": "[$] Eventual Rust in CPython",
+      "description": "\u003cp\u003e\nEmma Smith and Kirill Podoprigora, two of Python's core developers, have\n\u003ca href=\"https://discuss.python.org/t/pre-pep-rust-for-cpython/104906\"\u003eopened a\ndiscussion\u003c/a\u003e about including Rust code in CPython, the reference implementation of\nthe Python programming language. Initially, Rust would only be used for optional\nextension modules, but they would like to see Rust become a required dependency\nover time. The initial plan was to make Rust required by 2028, but Smith and\nPodoprigora indefinitely postponed that goal in response to concerns raised in the discussion.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1046933/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-12-05T14:33:09Z"
+    }
+  },
+  {
+    "hash": "06044aa6224a1458d7e26dc3eb97cb04cd376b18b584f11d0189cf1abf76f764",
+    "item": {
+      "title": "Security updates for Friday",
+      "description": "Security updates have been issued by \u003cb\u003eAlmaLinux\u003c/b\u003e (buildah, firefox, gimp:2.8, go-toolset:rhel8, ipa, kea, kernel, kernel-rt, pcs, qt6-qtquick3d, qt6-qtsvg, systemd, and valkey), \u003cb\u003eDebian\u003c/b\u003e (chromium and unbound), \u003cb\u003eFedora\u003c/b\u003e (alexvsbus, CuraEngine, fcgi, libcoap, python-kdcproxy, texlive-base, timg, and xpdf), \u003cb\u003eMageia\u003c/b\u003e (digikam, darktable, libraw, gnutls, python-django, unbound, webkit2, and xkbcomp), \u003cb\u003eOracle\u003c/b\u003e (bind, firefox, gimp:2.8, haproxy, ipa, java-25-openjdk, kea, kernel, libsoup3, libssh, libtiff, openssl, podman, qt6-qtsvg, squid, systemd, vim, and xorg-x11-server-Xwayland), \u003cb\u003eSlackware\u003c/b\u003e (httpd and libpng), \u003cb\u003eSUSE\u003c/b\u003e (chromedriver, kernel, and python-mistralclient), and \u003cb\u003eUbuntu\u003c/b\u003e (cups, linux-azure, linux-gcp, linux-gcp, linux-gke, linux-gkeop, linux-ibm-6.8, linux-iot, and mame).",
+      "links": [
+        "https://lwn.net/Articles/1049417/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-05T14:12:53Z"
+    }
+  },
+  {
+    "hash": "8b2ae1a28e1e727c57bf4d2fa6a958ef85e784dcb38cf3e6eb7118b5395c477c",
+    "item": {
+      "title": "Netflix to Acquire Warner Bros",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46160315\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T12:21:19Z"
+    }
+  },
+  {
+    "hash": "3d6f02dd8369debf96b312e39a7e2dcfe103c565884353ad3acda9db653dff14",
+    "item": {
+      "title": "Most technical problems are people problems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46160773\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T13:07:59Z"
+    }
+  },
+  {
+    "hash": "4e4d263dac1b5b48b5e344b213aa4f18f4ea18c8abea56cdcd48d98791c48174",
+    "item": {
+      "title": "Making RSS More Fun",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46160698\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://matduggan.com/making-rss-more-fun/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T13:00:28Z"
+    }
+  },
+  {
+    "hash": "d7407999d0d5bf9a438e01a779f099059bce005390c3c945d6c5f8a66c3331f8",
+    "item": {
+      "title": "Nimony (Nim 3.0) Design Principles",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46115758\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nim-lang.org/araq/nimony.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T00:39:41Z"
+    }
+  },
+  {
+    "hash": "57eb80348fd2a9c290f603a431b08b688d1fc7289e54fc501a01bcb41f87536b",
+    "item": {
+      "title": "Emerge Career (YC S22) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46161460\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T14:06:53Z"
+    }
+  },
+  {
+    "hash": "a95c0623ed40fcf8206cf1389496efb382bc110687b3e6d5428b2e4e8b97f5b9",
+    "item": {
+      "title": "Show HN: Kraa – Writing App for Everything",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46144801\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kraa.io/about"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T07:35:10Z"
+    }
+  },
+  {
+    "hash": "c7a7c9476ba682a62ab883bbe98fea76a352978ba43e1458b8784e85554cf897",
+    "item": {
+      "title": "Influential study on glyphosate safety retracted 25 years after publication",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46161125\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.lemonde.fr/en/environment/article/2025/12/03/influential-study-on-glyphosate-safety-retracted-25-years-after-publication_6748114_114.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T13:39:04Z"
+    }
+  },
+  {
+    "hash": "19b323ce6eff8713eab33ed2214aee5da5ae888c38cf3b75248878215069a0de",
+    "item": {
+      "title": "Ephemeral Infrastructure: Why Short-Lived Is a Good Thing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095602\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T10:50:32Z"
+    }
+  },
+  {
+    "hash": "5b61f5a4341666e4dba1a7faf1d87b82f40e13c5859e513a2d254b11ec50a302",
+    "item": {
+      "title": "New 3D scan reveals a hidden network of moai carvers on Easter Island",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099739\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.sciencedaily.com/releases/2025/11/251130050717.htm"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T19:45:59Z"
+    }
+  },
+  {
+    "hash": "4f6f26fe44aeef25aaf182d16dfdfd81e1eeb049a66d0f834fc07db1e6925cbb",
+    "item": {
+      "title": "Sugars, Gum, Stardust Found in NASA's Asteroid Bennu Samples",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46160239\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T12:12:52Z"
+    }
+  },
+  {
+    "hash": "9d37de7236e9ceffbbbd734bbdec0f144090465a687d0751d3e07a03a129bcf0",
+    "item": {
+      "title": "H-1B Workers Now Required to Make Social Media Profiles Public",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46162067\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.boundless.com/blog/expanded-screening-h1b-h4-social-media-requirement"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T14:52:29Z"
+    }
+  },
+  {
+    "hash": "a1b47f128b5e2be6dbb51156728eb7073872537a096c2b71dca65447c33d35e5",
+    "item": {
+      "title": "Early Indicators Suggest LILSHIB Could Be One of the Breakout Meme Tokens of the Year — Presale Momentum Is Already Building",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"444\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/image001-6.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/image001-6.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/12/image001-6-300x171.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/image001-6-768x437.png 768w\" sizes=\"(max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eLILSHIB has early signals of becoming a breakout meme token in the year due to its live presale at $0.0002 per token, which trades quickly with fair access and novel rewards. Its single-stage presale is based on First-Come, First-Served (FCFS), aiming at raising $11 million by selling 55 billion tokens",
+      "links": [
+        "https://thenewscrypto.com/early-indicators-suggest-lilshib-could-be-one-of-the-breakout-meme-tokens-of-the-year-presale-momentum-is-already-building/"
+      ],
+      "categories": [
+        "Press Release",
+        "LILSHIB"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/image001-6.png"
+      },
+      "published": "2025-12-05T11:20:13Z"
+    }
+  },
+  {
+    "hash": "2f1543a315217e53e54e85b11a1da6f1d2a0e81e91098beb8848299d170f366c",
+    "item": {
+      "title": "Could XRP Bounce Back After Sentiment Hits Two-Month Low?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/XRP-sentiment-plummets-which-could-set-token-up-for-rally.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Could XRP Bounce Back After Sentiment Hits Two-Month Low?\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/XRP-sentiment-plummets-which-could-set-token-up-for-rally.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/XRP-sentiment-plummets-which-could-set-token-up-for-rally-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/XRP-sentiment-plummets-which-could-set-token-up-for-rally-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eMarket​‍​‌‍​‍‌​‍​‌‍​‍‌ intelligence firm Santiment has indicated that the negativity related to XRP has gone down to its lowest level in more than two months. The analytics platform observed that conversations on social media about the cryptocurrency have gone down to what traders refer to as the \u0026#8220;fear zone\u0026#8221; level. Based",
+      "links": [
+        "https://thenewscrypto.com/could-xrp-bounce-back-after-sentiment-hits-two-month-low/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Ripple",
+        "xrp"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/XRP-sentiment-plummets-which-could-set-token-up-for-rally.jpg"
+      },
+      "published": "2025-12-05T11:11:41Z"
+    }
+  },
+  {
+    "hash": "c31acfa91944a20baa6a89b69aa07869242eae7ed4943e164c81301dbe52c591",
+    "item": {
+      "title": "GriffinAI Executes First Strategic Token Burn and Launches New Trend Mind Agent, Strengthening the Utility–Burn Flywheel",
+      "description": "\u003cp\u003e\u003cimg width=\"1262\" height=\"602\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1.png 1262w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1-300x143.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1-1024x488.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1-768x366.png 768w\" sizes=\"auto, (max-width: 1262px) 100vw, 1262px\" /\u003e\u003c/p\u003eGriffinAI, the leading AI Agent Builder for DeFi, today announced two major developments that reinforce its utility-driven ecosystem: the launch of its new Trend Mind Agent and the successful execution of its first strategic buyback and burn, permanently removing 10,000,000 $GAIN tokens from circulation. Launch of the Trend Mind Agent:",
+      "links": [
+        "https://thenewscrypto.com/griffinai-executes-first-strategic-token-burn-and-launches-new-trend-mind-agent-strengthening-the-utility-burn-flywheel/"
+      ],
+      "categories": [
+        "Press Release",
+        "GriffinAI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1.png"
+      },
+      "published": "2025-12-05T11:09:19Z"
+    }
+  },
+  {
+    "hash": "3b170cd5cc953fc81eabb9801d75ed7c741e1bd5d9668e57a83fd389bbcc4640",
+    "item": {
+      "title": "MEXC Reports 1,329% Average Peak Return Across Top New Tokens in November",
+      "description": "\u003cp\u003e\u003cimg width=\"780\" height=\"456\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/image001-5.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/image001-5.png 780w, https://thenewscrypto.com/wp-content/uploads/2025/12/image001-5-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/image001-5-768x449.png 768w\" sizes=\"auto, (max-width: 780px) 100vw, 780px\" /\u003e\u003c/p\u003eMEXC, a global leading cryptocurrency exchange, released its November operations report, revealing a substantial increase in user activity across utility-driven market sectors and a record level of alignment between trading volume and price performance on its platform. The data emphasizes MEXC’s leadership in rapid listing and early-stage asset discovery. By",
+      "links": [
+        "https://thenewscrypto.com/mexc-reports-1329-average-peak-return-across-top-new-tokens-in-november/"
+      ],
+      "categories": [
+        "Press Release",
+        "MEXC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/image001-5.png"
+      },
+      "published": "2025-12-05T10:00:00Z"
+    }
+  },
+  {
+    "hash": "999c7e52ab49a7e33f8cbb979dc5e850c0400b4a9f13cdb374d1213c7d350894",
+    "item": {
+      "title": "Bybit Private Wealth Management Beat November Downtrend with Top Fund Delivering Close to 30% APR",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"900\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR.jpg 1600w, https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR-1024x576.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR-768x432.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR-1536x864.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR-376x212.jpg 376w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eDubai, United Arab Emirates, 5th December 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bybit-private-wealth-management-beat-november-downtrend-with-top-fund-delivering-close-to-30-apr/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/BybitPWMMonthly_1764922461IX7QHFbNoR.jpg"
+      },
+      "published": "2025-12-05T08:27:29Z"
+    }
+  },
+  {
+    "hash": "57f9eb209de36428dfb2ea386358a44a8a0690ab1c0bcf27e83a0b63d0baf39f",
+    "item": {
+      "title": "Decoding the 2026 AI-Agent Thesis: AgentLISA’s Rise as the Security Backbone for Autonomous On-Chain Systems",
+      "description": "\u003cp\u003e\u003cimg width=\"1600\" height=\"900\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unknown.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unknown.png 1600w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-300x169.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1024x576.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-768x432.png 768w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-1536x864.png 1536w, https://thenewscrypto.com/wp-content/uploads/2025/12/unknown-376x212.png 376w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\" /\u003e\u003c/p\u003eIn a recent post outlining its investment thesis for 2026, Coinbase Ventures identified \u0026#8220;AI-Powered Infrastructure\u0026#8221; as a cornerstone of the next crypto cycle. The venture capital giant envisions a future where AI agents can autonomously launch on-chain businesses, handling everything from code generation to security audits. While many projects are",
+      "links": [
+        "https://thenewscrypto.com/decoding-the-2026-ai-agent-thesis-agentlisas-rise-as-the-security-backbone-for-autonomous-on-chain-systems/"
+      ],
+      "categories": [
+        "Press Release",
+        "AgentLISA"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/unknown.png"
+      },
+      "published": "2025-12-05T07:19:31Z"
+    }
+  },
+  {
+    "hash": "317e6422a91226a0c01e62684f36337bce70d54d00fef34c545db46d490f23d1",
+    "item": {
+      "title": "Shiba Inu Price Prediction: Mysterious Whale Empties Coinbase Wallet – Massive Bull Market About to Start?",
+      "description": "\u003cp\u003eShiba Inu Price Prediction has analyzed a whale wallet accumulating SHIB from Coinbase, negative exchange netflows and weak sector volume as the memecoin market has searched for a bottom while SHIB tests support and investors weigh conditions into 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-mysterious-whale-empties-coinbase-wallet-massive-bull-market-about-to-start/\"\u003eShiba Inu Price Prediction: Mysterious Whale Empties Coinbase Wallet – Massive Bull Market About to Start? \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-mysterious-whale-empties-coinbase-wallet-massive-bull-market-about-to-start/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Meme Coins",
+        "SHIB",
+        "Shiba inu"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Ahmed Balaha"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/05112518/1764933917-shiba-inu-price-prediction.jpg"
+      },
+      "published": "2025-12-05T14:45:06Z"
+    }
+  },
+  {
+    "hash": "ba34958d2a4f57a28eafaf47f6e247d5a862ac48e1776b95226714a37601a4b4",
+    "item": {
+      "title": "BlackRock’s Bitcoin ETF Bleeds $2.7B in Longest Outflow Streak Since Launch",
+      "description": "\u003cp\u003eBlackRock’s iShares Bitcoin Trust has entered its longest outflow streak to date, with over $2.7 billion withdrawn in five weeks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/blackrocks-bitcoin-etf-bleeds-2-7b-in-longest-outflow-streak-since-launch/\"\u003eBlackRock’s Bitcoin ETF Bleeds $2.7B in Longest Outflow Streak Since Launch\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/blackrocks-bitcoin-etf-bleeds-2-7b-in-longest-outflow-streak-since-launch/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Blackrock",
+        "Blackrock ETF"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/05104239/1764931359-image-1764931206341_optimized.jpg"
+      },
+      "published": "2025-12-05T14:41:20Z"
+    }
+  },
+  {
+    "hash": "c3bcf644c6674c0a06736c0d7b3a248075848f6e33433f3037bd6d2e51de427e",
+    "item": {
+      "title": "How Crypto’s Unpriced Risk is Keeping Institutional Capital on the Sidelines",
+      "description": "\u003cp\u003eBillions are entering crypto, yet big players still stay away. This op-ed breaks down the risk gap holding the industry back.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/exclusives/how-cryptos-unpriced-risk-is-keeping-institutional-capital-on-the-sidelines/\"\u003eHow Crypto’s Unpriced Risk is Keeping Institutional Capital on the Sidelines\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/exclusives/how-cryptos-unpriced-risk-is-keeping-institutional-capital-on-the-sidelines/"
+      ],
+      "categories": [
+        "Opinions",
+        "Adoption",
+        "Web3"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Dyma Budorin"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/05134238/1764942158-image-1764942132616_optimized.jpg"
+      },
+      "published": "2025-12-05T13:57:21Z"
+    }
+  },
+  {
+    "hash": "db663b7ee6339540f97041d9243a1408c783fb0336ce3db08909795050fc05a9",
+    "item": {
+      "title": "Why Is Crypto Down Today? – December 5, 2025",
+      "description": "\u003cp\u003eThe crypto market is down today by 1.1%. BTC fell 1.2% to $92,227, and ETH is down 0.6% to $3,169. Holding $96,000–$106,000 is critical to avoid further downside.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/why-is-crypto-down-today-december-5-2025/\"\u003eWhy Is Crypto Down Today? – December 5, 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/why-is-crypto-down-today-december-5-2025/"
+      ],
+      "categories": [
+        "Bitcoin News"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sead Fadilpašić"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/05131332/1764940411-why-is-crypto-down-today.jpg"
+      },
+      "published": "2025-12-05T13:19:50Z"
+    }
   }
 ]
