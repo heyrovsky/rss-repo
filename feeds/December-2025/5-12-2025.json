@@ -1,0 +1,527 @@
+[
+  {
+    "hash": "a39641490a80d4b1ee629c256f6a02627577c53cd5d18197e7750df0c114e571",
+    "item": {
+      "title": "Congress warned that NASA’s current plan for Artemis “cannot work”",
+      "description": "\"The Artemis III mission and those beyond should be canceled.\"",
+      "links": [
+        "https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/"
+      ],
+      "categories": [
+        "Space",
+        "artemis",
+        "congress",
+        "griffin",
+        "NASA",
+        "space",
+        "spacex",
+        "starship"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317-900x648.jpg"
+      },
+      "published": "2025-12-04T22:54:52Z"
+    }
+  },
+  {
+    "hash": "abac19091233142e1194ad2fa503af6b3d6c21af4b7193178fdd1943548041ca",
+    "item": {
+      "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
+      "description": "Defendants were convicted of similar crimes a decade ago. How were they cleared again?",
+      "links": [
+        "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "contractors",
+        "courts",
+        "data theft"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Dan Goodin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/data-theft-1152x648.jpg"
+      },
+      "published": "2025-12-04T21:51:36Z"
+    }
+  },
+  {
+    "hash": "c6e48f78e7ec1f2b2fd1f9aeb230a9b8acc65b53f6dff9f516b6f18ad825768b",
+    "item": {
+      "title": "Engineer proves that Kohler’s smart toilet cameras aren’t very private",
+      "description": "Kohler is getting the scoop on people's poop.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/"
+      ],
+      "categories": [
+        "Tech",
+        "cameras",
+        "e2ee",
+        "end to end encryption",
+        "smart home"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/fa9752cdfabfc67f2acd9bfdf4f195ecfdad5f05-1152x648.jpg"
+      },
+      "published": "2025-12-04T21:23:40Z"
+    }
+  },
+  {
+    "hash": "5796f21867cc724f1037644f06bf4f94d8aeaecc7ebfbe14948e273a43d7ee8c",
+    "item": {
+      "title": "CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote",
+      "description": "Today's meeting was chaotic and included garbage anti-vaccine presentations.",
+      "links": [
+        "https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/"
+      ],
+      "categories": [
+        "Health",
+        "anti-vaccine",
+        "CDC",
+        "robert f kennedy jr"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-1152x648.jpg"
+      },
+      "published": "2025-12-04T20:56:44Z"
+    }
+  },
+  {
+    "hash": "4fdd3eda6066fc42e230b06d78be74daa2adb41ee1b00ecb7044d6074c2b2f26",
+    "item": {
+      "title": "Graviton5 Announced With Up To 192 Cores Per Chip, 5x Larger Cache",
+      "description": "Amazon AWS today announced Graviton5 as their newest-generation ARM64 server processor for their EC2 cloud. Graviton5 is being promoted as offering 25% higher performance over existing Graviton4 processors...",
+      "links": [
+        "https://www.phoronix.com/news/AWS-Graviton5-Announced"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T23:44:52Z"
+    }
+  },
+  {
+    "hash": "1eae1facf0504355c3a3368d373f06735c82bf800f32b03247580e0a0d12065e",
+    "item": {
+      "title": "NVIDIA Releases CUDA 13.1 With New \"CUDA Tile\" Programming Model",
+      "description": "NVIDIA just released CUDA 13.1 for what they claim is \"the largest and most comprehensive update to the CUDA platform since it was invented two decades ago.\" The most notable addition with the CUDA 13.1 release is CUDA Tile as a new tile-based programming model...",
+      "links": [
+        "https://www.phoronix.com/news/NVIDIA-CUDA-13.1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T22:44:30Z"
+    }
+  },
+  {
+    "hash": "7684d11d2cb02d9be7ed4769403bfdff6d4709d412cd9663b11bdeee0c8cc27e",
+    "item": {
+      "title": "Linux 6.19 Brings Temperature Monitoring For The Steam Deck APU, Apple Silicon SMC",
+      "description": "The many hardware monitoring (HWMON) subsystem updates were merged today for Linux 6.19 that is predominantly around delivering new hardware support...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-HWMON"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-04T21:33:34Z"
+    }
+  },
+  {
+    "hash": "36c07cbd53dbdfc0e415dfdced09d1497f6903d9c61c09cffd65d708fecf60dc",
+    "item": {
+      "title": "AV1 – Now Powering 30% of Netflix Streaming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46155135\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T00:09:57Z"
+    }
+  },
+  {
+    "hash": "2b3f00cc36fab02f05591a47a063312b9e4abce0e8332e4109d2bb3aa95a683e",
+    "item": {
+      "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153058\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/deepreinforce-ai/CUDA-L2"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T21:04:29Z"
+    }
+  },
+  {
+    "hash": "2286a40670952b7725eadc7743d8c9da5fbfa86581b478c07dafdc424472ab7b",
+    "item": {
+      "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154022\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openrouter.ai/state-of-ai"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T22:26:43Z"
+    }
+  },
+  {
+    "hash": "edb2bffd1ad315b5e8d34c1dad74c46f905d7b3066d2efc196b7590cdbf7ce1f",
+    "item": {
+      "title": "Coca Cola has an executive dedicated to McDonald's",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154539\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.coca-colacompany.com/about-us/leadership/roberto-mercade"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T23:12:33Z"
+    }
+  },
+  {
+    "hash": "e2de6c95639fbf26f942f10dce6d8e39d0230b6db23dfdec7938bf5c7c5d4e8c",
+    "item": {
+      "title": "Thoughts on Go vs. Rust vs. Zig",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153466\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T21:40:24Z"
+    }
+  },
+  {
+    "hash": "fb28a4544ad8b2386b9d50f1efd919bf6f24d8be63eba8fc0c69613eba9719a2",
+    "item": {
+      "title": "StardustOS: Library operating system for building light-weight Unikernels",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154344\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/StardustOS"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T22:56:08Z"
+    }
+  },
+  {
+    "hash": "28f9016e3a955db3e51ceaed9d8e7654acc7460c009db5fd8d2b6b3b7b59d9ff",
+    "item": {
+      "title": "Django 6",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153116\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.djangoproject.com/en/6.0/releases/6.0/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T21:09:56Z"
+    }
+  },
+  {
+    "hash": "40057ce49a8065e870f7f861911a5f9fbfc93d7a7eecf10d3fcd47122563d9db",
+    "item": {
+      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154491\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T23:08:25Z"
+    }
+  },
+  {
+    "hash": "e5729490ae025ac2ca4e91bdb07e61489fb1c844e42267359a821ae4cb5db706",
+    "item": {
+      "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46152941\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/news/articles/c1w932vqye0o"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T20:56:08Z"
+    }
+  },
+  {
+    "hash": "167ceb1494d2dbcb5edeb1f49d136ece3ce7717687aa679c2aee127423d5f9e0",
+    "item": {
+      "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46155085\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lyra.horse/blog/2025/12/svg-clickjacking/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T00:03:36Z"
+    }
+  },
+  {
+    "hash": "7f90601bbd24950d52f427e5a973219c5017f73c8311e3cac9b2c8f67559fac8",
+    "item": {
+      "title": "Help, My Java Object Vanished (and the GC Is Not at Fault)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087509\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arraying.de/posts/markword/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-29T13:47:30Z"
+    }
+  },
+  {
+    "hash": "8824752bb3e4691b205e59f53381a258a88e17153ffb6fa2e977a7255f46e1ad",
+    "item": {
+      "title": "SMS phishers pivot to points, taxes, fake retailers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154484\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T23:08:07Z"
+    }
+  },
+  {
+    "hash": "860ffe3cc988c6b3f54fbbe29f93ed9e59a1c9196f84717e30505d5d46cdc0e0",
+    "item": {
+      "title": "Some models of reality are bolder than others",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46122114\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cjauvin.github.io/posts/metaphysical-boldness/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T15:23:57Z"
+    }
+  },
+  {
+    "hash": "300b258f39f1d9253b50fa2b6b7dd44c58f4e8f05f4b0ffe9606610d4d91d520",
+    "item": {
+      "title": "Shiba Inu Price Prediction: 2026 Privacy Upgrade Could Trigger the Next Big SHIB Price Explosion",
+      "description": "\u003cp\u003eThe developing team behind the Shibarium layer-2 chain for Shiba Inu has set a timeline for the deployment of a new privacy-focused upgrade. Can this favor a bullish Shiba Inu price prediction and reverse the token’s latest downtrend?According to the latest roadmap, fully homomorphic encryption (FHE) for the Shibarium L2 should be implemented during the [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/shiba-inu-price-prediction-2026-privacy-upgrade-could-trigger-the-next-big-shib-price-explosion/\"\u003eShiba Inu Price Prediction: 2026 Privacy Upgrade Could Trigger the Next Big SHIB Price Explosion\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/shiba-inu-price-prediction-2026-privacy-upgrade-could-trigger-the-next-big-shib-price-explosion/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "price analysis",
+        "SHIB",
+        "Shiba inu"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04121633/1764850592-shiba-inu-price-prediction-4.jpg"
+      },
+      "published": "2025-12-05T00:22:00Z"
+    }
+  },
+  {
+    "hash": "2e10b185f55711cecef9d423b82ca4429963fbc1f25666c231a06d727a2ceae9",
+    "item": {
+      "title": "Pepe Coin Price Prediction: Chart Signals Flash Green – But One Silent Metric Has Traders Whispering",
+      "description": "\u003cp\u003eOverlooked metrics and a fresh bull pattern have created a launchpad setup, now unfolding – Pepe price predictions now verge on the next bull run.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-coin-price-prediction-chart-signals-flash-green-but-one-silent-metric-has-traders-whispering/\"\u003ePepe Coin Price Prediction: Chart Signals Flash Green – But One Silent Metric Has Traders Whispering \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-coin-price-prediction-chart-signals-flash-green-but-one-silent-metric-has-traders-whispering/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Pepe",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04132403/1764854642-pepe-price-prediction-2.jpg"
+      },
+      "published": "2025-12-04T23:38:00Z"
+    }
+  },
+  {
+    "hash": "c764f251384f0fb533b8662f2c2e5e3f0cfcb54937539ee5ceac9957033f58bb",
+    "item": {
+      "title": "Solana Price Prediction: Trillion-Dollar Asset Manager Vanguard Just Backed SOL – Is the SOL Target Now $1,000?",
+      "description": "\u003cp\u003eThe second-largest asset manager just unlocked access to its 50 million client base – Solana price predictions could have the fuel for a $1000 move.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-trillion-dollar-asset-manager-vanguard-just-backed-sol-is-the-sol-target-now-1000/\"\u003eSolana Price Prediction: Trillion-Dollar Asset Manager Vanguard Just Backed SOL – Is the SOL Target Now $1,000?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-trillion-dollar-asset-manager-vanguard-just-backed-sol-is-the-sol-target-now-1000/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Price Prediction",
+        "Technical Analysis",
+        "Vanguard"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04173324/1764869603-solana-price-prediction.jpg"
+      },
+      "published": "2025-12-04T23:34:00Z"
+    }
+  },
+  {
+    "hash": "739ab46c957a5fc6a5f52cc7bcce8cbb85043392d669e1d2bef7420dcd3f3249",
+    "item": {
+      "title": "Ethereum Price Prediction: Wall Street Giant Just Backed the Tech Behind ETH – What Do They Know That You Don’t?",
+      "description": "\u003cp\u003eA quantitative trading firm called Jane Street just took a stake in a company that claims to have strengthened the Ethereum blockchain. As institutional appetite for blockchain tech keeps rising, this favors a bullish Ethereum price prediction.Antithesis, a firm based in North Carolina, received $105 million during its Series A funding round, led by Jane [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-price-prediction-wall-street-giant-just-backed-the-tech-behind-eth-what-do-they-know-that-you-dont/\"\u003eEthereum Price Prediction: Wall Street Giant Just Backed the Tech Behind ETH – What Do They Know That You Don’t?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-price-prediction-wall-street-giant-just-backed-the-tech-behind-eth-what-do-they-know-that-you-dont/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "ETH Price",
+        "Ethereum",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04112851/1764847731-ethereum-price-prediction-7.jpg"
+      },
+      "published": "2025-12-04T23:34:00Z"
+    }
+  },
+  {
+    "hash": "f5e4b8afeb5e42b9fdabd1edbe34d0bbb3bedbe1a3b0e8ae6a0580f16723b1ea",
+    "item": {
+      "title": "Best New Meme Coin to Buy Today – 4 December",
+      "description": "\u003cp\u003eCrypto market cap has held at $3.24T ahead of the FOMC as traders weigh Fed rate cuts and new altcoin ETFs, while PEPENODE has been presented as the best new meme coin for virtual mining nodes and high staking yields into 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/uk-budget-confirms-new-crypto-reporting-rules-from-january-1/\"\u003eBest New Meme Coin to Buy Today – 4 December\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/uk-budget-confirms-new-crypto-reporting-rules-from-january-1/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Meme Coins",
+        "Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Simon Chandler"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04230514/1764889513-chatgpt-image-dec-4-2025-06_03_27-pm_optimized.jpg"
+      },
+      "published": "2025-12-04T23:30:00Z"
+    }
+  },
+  {
+    "hash": "7673608b7932e2da8b7913a3b373034dfb1f45a3bbd17244880d5a8a3fa6a998",
+    "item": {
+      "title": "IMF Warns: Fragmented Stablecoin Rules Create “Roadblocks” – New Guidelines Released",
+      "description": "\u003cp\u003eThe IMF has warned that fragmented global stablecoin rules and technical gaps have created roadblocks for oversight, raised financial stability risks, and slowed cross-border payments, urging harmonized standards, stronger reserve rules and coordinated supervision.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/imf-fragmented-stablecoin-rules-roadblocks-guidelines/\"\u003eIMF Warns: Fragmented Stablecoin Rules Create “Roadblocks” – New Guidelines Released\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/imf-fragmented-stablecoin-rules-roadblocks-guidelines/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "IMF",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04221625/1764886584-428583de-4830-4d5d-9649-b36d85821320_optimized.jpg"
+      },
+      "published": "2025-12-04T22:53:36Z"
+    }
+  },
+  {
+    "hash": "c43d1484aa2a954b35bf1e14d255a72f194cb21b923a1e45fbffb4322413e6c9",
+    "item": {
+      "title": "Best Crypto to Buy Now 4 December – XRP, Pepe, Zcash",
+      "description": "\u003cp\u003eBitcoin has staged a new rebound, lifting total crypto market value toward $3.27 trillion, while XRP, Pepe and Zcash have been identified as the best crypto to buy now, supported by ETF flows, privacy use cases and renewed meme coin interest into December, after a sharp autumn correction in pricing.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/best-crypto-to-buy-now-4-december-xrp-pepe-zcash/\"\u003eBest Crypto to Buy Now 4 December – XRP, Pepe, Zcash\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/best-crypto-to-buy-now-4-december-xrp-pepe-zcash/"
+      ],
+      "categories": [
+        "Industry Talk",
+        "Pepe",
+        "XRP",
+        "zcash"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04112321/Best-Crypto-to-Buy-Now-1-1.jpg"
+      },
+      "published": "2025-12-04T22:35:00Z"
+    }
+  },
+  {
+    "hash": "49a2dd1814166de9131ca39e44f56885c4d417eb89a79efcd0356db504fcdfc1",
+    "item": {
+      "title": "New ChatGPT AI Predicts the Price of XRP, Bitcoin, Solana by the End of 2025",
+      "description": "\u003cp\u003eChatGPT has issued data-driven forecasts for XRP, Bitcoin and Solana, describing wide December ranges from sub-dollar XRP and $75,000 BTC to potential rallies toward $15 XRP, $230,000 BTC and $1,200 SOL, while Maxi Doge has pursued growth through a staking presale.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/new-chatgpt-ai-predicts-the-price-of-xrp-bitcoin-solana-by-the-end-of-2025/\"\u003eNew ChatGPT AI Predicts the Price of XRP, Bitcoin, Solana by the End of 2025\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/new-chatgpt-ai-predicts-the-price-of-xrp-bitcoin-solana-by-the-end-of-2025/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "Solana",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tim Hakki"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/04112054/ChatGPT-AI-Predicts-the-Price.jpg"
+      },
+      "published": "2025-12-04T22:30:00Z"
+    }
+  }
+]
