@@ -1822,5 +1822,123 @@
       "source": "Hacker News",
       "published": "2025-12-02T15:29:09Z"
     }
+  },
+  {
+    "hash": "c1afc99d11662c4fd35a9ab08ad768d4108dc75bdae5003d3bd9310a9fb7ecdf",
+    "item": {
+      "title": "OMSCS Open Courseware",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46175826\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sites.gatech.edu/omscsopencourseware/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T19:14:35Z"
+    }
+  },
+  {
+    "hash": "79e6c8956cc9f9483b35e4ec8b2b66903d5ad4058d2316c428069253620cea10",
+    "item": {
+      "title": "Abstract Interpretation in the Toy Optimizer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46142949\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bernsteinbear.com/blog/toy-abstract-interpretation/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T02:09:47Z"
+    }
+  },
+  {
+    "hash": "bc64798767895e9e2d77e1f96dcdce7374c3c396a2df311de6268259cc937c51",
+    "item": {
+      "title": "The general who refused to crush Tiananmen's protesters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46176072\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T19:47:13Z"
+    }
+  },
+  {
+    "hash": "02c56b5b214f5603d5408de1c39d2c298f94f98e873591b18c3293f23fe09a99",
+    "item": {
+      "title": "Finding Gene Cernan's Missing Moon Camera",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46128616\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T23:59:58Z"
+    }
+  },
+  {
+    "hash": "fcd964e04ac3b067a875e73ad23d9429133045a203c12b07834f0450c1acb85c",
+    "item": {
+      "title": "Traveling Neighborhoods",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097201\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://supernuclear.substack.com/p/traveling-neighborhoods"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T15:04:49Z"
+    }
+  },
+  {
+    "hash": "a57da2cdd91fb4e2b3c20b3659531d46fce9a4199126a1eadd8e47513f7fff2e",
+    "item": {
+      "title": "Ireland's Inability to Defend Itself",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46174744\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.irishpoliticsnewsletter.ie/p/ireland-neutrality"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T16:55:13Z"
+    }
+  },
+  {
+    "hash": "e385634cb6ce25f0f9a16d27122a0504f68128aef8fba5d83446bbaf0d2401ee",
+    "item": {
+      "title": "Perl's decline was cultural",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46175112\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T17:42:07Z"
+    }
+  },
+  {
+    "hash": "b3f2eccdf0d7a3e9c202e8fee997598676eb648fe73fa63cb0824b64961e6fc2",
+    "item": {
+      "title": "Microsoft's RAMDAX Driver Merged For Linux 6.19 To Carve Out RAM As NVDIMM Devices",
+      "description": "The Non-Volatile Memory Device (NVDIMM) subsystem updates were merged today for the in-development Linux 6.19 kernel. Most notable this cycle for the NVDIMM code is a new open-source driver addition courtesy of Microsoft...",
+      "links": [
+        "https://www.phoronix.com/news/RAMDAX-NVDIMM-Merged-LInux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T21:00:00Z"
+    }
+  },
+  {
+    "hash": "d40701daaf862fc8f1f91b32339b2583bf8660276b9d5af52076e4b36741e17b",
+    "item": {
+      "title": "AMD Starts Enabling Zen 6 \"znver6\" Compiler Support In GCC",
+      "description": "Making for a bit more exciting weekend is that minutes ago AMD has posted their first patch for enabling Zen 6 processor support within the GNU Compiler Collection (GCC) for -march=znver6 targeting...",
+      "links": [
+        "https://www.phoronix.com/news/GCC-Patch-AMD-Zen-6-znver6"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T19:11:15Z"
+    }
   }
 ]
