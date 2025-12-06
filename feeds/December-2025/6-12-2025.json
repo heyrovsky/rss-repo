@@ -1655,5 +1655,172 @@
       },
       "published": "2025-12-06T12:30:35Z"
     }
+  },
+  {
+    "hash": "e5f97533f4249f796ade710dbdfd69e284b7a6cd63a6b6b0d5fd136b5c5abd90",
+    "item": {
+      "title": "SteamOS tested on dedicated GPUs: No, it’s not always faster than Windows",
+      "description": "Ars testing shows SteamOS fares better on iGPUs than powerful graphics cards.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/"
+      ],
+      "categories": [
+        "Gaming",
+        "Tech",
+        "AMD",
+        "AMD Ryzen",
+        "Intel",
+        "NVIDIA",
+        "Radeon",
+        "steamos",
+        "Windows",
+        "windows 11",
+        "windows 11 25h2"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_2716-1152x648.jpeg"
+      },
+      "published": "2025-12-05T17:29:37Z"
+    }
+  },
+  {
+    "hash": "10b8202a531b2b9c9c7305c90ff91fbe685728ec5840395ab05d3c8bcccd7f76",
+    "item": {
+      "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
+      "description": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution.\nThe security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA). They affect popular",
+      "links": [
+        "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOpPc8ucnigXsFagXjVCnBwywXC-OOemw_QXXkGAPjAa1YKv0ViLZEPg0AtaGss65NKfl2M7gR9XwjgbFHgxPliOMkLEJ14VEXyLuuqwvqkH0Hj4aCDGKBbRtKuX3j3hmHCD05EKU1K74YgR8m4TdZu2_CZ_cqnWLZRmuvitlyjUW6wE2suxA8Y8oHGNY/s1600/ai-coding.jpg"
+      },
+      "published": "2025-12-06T15:24:00Z"
+    }
+  },
+  {
+    "hash": "34ad43f1dd76c6cc0a00bb359bd6692673ba57f6323d6adc23a17cea01de966b",
+    "item": {
+      "title": "Mesa 26.0 Bringing Support For 64K x 64K Textures With AMD RDNA4 GPUs",
+      "description": "The latest improvement to the RadeonSI Gallium3D driver by prominent AMD Mesa developer Marek Olšák is enabling support for up to 64K x 64K textures with RDNA4 GPUs...",
+      "links": [
+        "https://www.phoronix.com/news/RadeonSI-64K-Textures-Mesa-26.0"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T17:15:52Z"
+    }
+  },
+  {
+    "hash": "39a9ef50f8371b0ca6c36ae282918d9f2f5b52e90de9adedf93fbd9f931a70ed",
+    "item": {
+      "title": "HTML as an Accessible Format for Papers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46173825\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://info.arxiv.org/about/accessible_HTML.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T14:59:52Z"
+    }
+  },
+  {
+    "hash": "a628fb5220489eb91c046f3b11dd76413be39ff16db68037c169ed74060da88d",
+    "item": {
+      "title": "Perl's Decline Was Cultural",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46175112\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T17:42:07Z"
+    }
+  },
+  {
+    "hash": "f7160c3bf3d32ef54fa6c83be2c64df213db100945a2aa11b0c8efa7e148d1f0",
+    "item": {
+      "title": "GrapheneOS is the only Android OS providing full security patches",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46173407\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://grapheneos.social/@GrapheneOS/115647408229616018"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T13:58:31Z"
+    }
+  },
+  {
+    "hash": "e23de0ea637ccce0ea377add575065f0731a40232a9c6d3fe06b58ed9e3f4104",
+    "item": {
+      "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095817\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Tongyi-MAI/Z-Image"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T11:36:34Z"
+    }
+  },
+  {
+    "hash": "2fb92e501b704791d84236cba59ff204b4f93a8b364d36c2bcdc031f6c7c62db",
+    "item": {
+      "title": "Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46174789\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T17:01:53Z"
+    }
+  },
+  {
+    "hash": "366b4f5d94c900644b04985b7b9f478020fc73a7d86788397b2e1ae0534c0758",
+    "item": {
+      "title": "Mapping Amazing: Bee Maps",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094989\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://maphappenings.com/2025/11/06/bee-maps/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T08:50:01Z"
+    }
+  },
+  {
+    "hash": "ce1c3a8d3a724b4d93708aaadeace7f7178da28f16eadc17793852d50895f950",
+    "item": {
+      "title": "Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46174878\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/roriau0422/sfex-lang"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T17:13:03Z"
+    }
+  },
+  {
+    "hash": "ad054d65548293601a4269086f28e93c6d3d08b9523d2c37eeaf38d07ee95253",
+    "item": {
+      "title": "Detecting AV1-encoded videos with Python",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46122168\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alexwlchan.net/2025/detecting-av1-videos/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T15:29:09Z"
+    }
   }
 ]
