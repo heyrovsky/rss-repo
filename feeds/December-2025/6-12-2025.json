@@ -1030,5 +1030,372 @@
       },
       "published": "2025-12-06T08:23:22Z"
     }
+  },
+  {
+    "hash": "72afc0f0803ae247076574556d2fce1d14a2d28c976b18638e7a993b68df5df9",
+    "item": {
+      "title": "FEX 2512 Released With More Improvements For Gaming On ARM64 Linux",
+      "description": "FEX 2512 is out toda as the newest monthly update for this software that enables running x86/x86_64 Linux binaries on ARM64 Linux, including the likes of Wine and Valve's Steam Play (Proton) for being able to run Windows games on 64-bit ARM Linux devices...",
+      "links": [
+        "https://www.phoronix.com/news/FEX-Emu-2512-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T11:45:00Z"
+    }
+  },
+  {
+    "hash": "25e32d8804188e402df34044d90be1125896c0746a552fdb16e22da6b263d9c8",
+    "item": {
+      "title": "Flowblade Video Editor May Go Wayland-Only As Part Of GTK4 Port",
+      "description": "Flowblade 2.24 released today as the newest version of this open-source, non-linear video editing application. Flowblade 2.24 brings a number of refinements while also interesting is their commentary concerning the future with Wayland and GTK4 porting...",
+      "links": [
+        "https://www.phoronix.com/news/Flowblade-2.24-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T11:25:00Z"
+    }
+  },
+  {
+    "hash": "8c31273beeb688e145232c20719f08267a04adda27ea84becf1574ce88860875",
+    "item": {
+      "title": "Solaris 11.4 SRU 87 Released With New Security Features, GCC 15",
+      "description": "For anyone still relying on Solaris in production or just nostalgic Solaris users from the grand Sun Microsystems days, Solaris 11.4 SRU 87 was released by Oracle this week as one of the heavier stable release updates in recent memory...",
+      "links": [
+        "https://www.phoronix.com/news/Oracle-Solaris-11.4-SRU-87"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T11:12:20Z"
+    }
+  },
+  {
+    "hash": "769f21a30eb997927ea22825862eaa0324b9a35d9f8b3de7456da622a60be116",
+    "item": {
+      "title": "Linux 6.19 Brings Many Driver Core Changes For Rust, Housekeeping CPUs Exposed",
+      "description": "Beyond the main set of Rust changes to land in Linux 6.19 earlier this week, as we near the end of the first week of two for the Linux 6.19 merge window... More Rust changes. This time around the driver core updates for the kernel bring a number of Rust changes...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Driver-Core"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T10:56:26Z"
+    }
+  },
+  {
+    "hash": "a8aad73bbb56ff55677e4d204923676c9697e376bdae46e71d7fdd9d55f6f298",
+    "item": {
+      "title": "KDE Plasma 6.6 Supporting Per-DRM-Plane Color Pipelines, More Hardware Quirks/Fixes",
+      "description": "It was a busy start of December for KDE Plasma developers in working out several hardware fixes for the current Plasma 6.5 series while also working on new Plasma 6.6 features like the per-DRM-plane color pipelines...",
+      "links": [
+        "https://www.phoronix.com/news/Plasma-6.6-Per-DRM-Plane-Color"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T10:39:39Z"
+    }
+  },
+  {
+    "hash": "5cb9eb558a64e9eea0c94537150ab3a256955d9d1881e7faa416bdbc953271d3",
+    "item": {
+      "title": "Aurora: The Linux-based ultimate workstation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094589\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://getaurora.dev/en"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T07:24:00Z"
+    }
+  },
+  {
+    "hash": "8b9bafe8574a97053ab7f245efa3dafedc3ff5430e0f4800d3137c363dd8b655",
+    "item": {
+      "title": "Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46171921\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46171921"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T09:28:59Z"
+    }
+  },
+  {
+    "hash": "1dfbe04dae2ec4a939241df236c77a5b633d65cf0cb5e88d54f82b4c64bcab91",
+    "item": {
+      "title": "How America's \"truck-driver shortage\" made the industry a hellscape",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46172312\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T10:53:56Z"
+    }
+  },
+  {
+    "hash": "4f29d8604a1b173423c202477ea58931ff266c58a1abac263d45b82eadee81ee",
+    "item": {
+      "title": "PC-Man and the spark of childhood wonder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46123518\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://intotheverticalblank.com/2025/12/02/interview-greg-kuperberg/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T17:09:44Z"
+    }
+  },
+  {
+    "hash": "c440ebc055708f2b6859d8f61641d2b0246efae437e91db5d127842998541cdc",
+    "item": {
+      "title": "Divine D native Linux open-source mobile system – Rev. 1.1 Hardware Architecture",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46114064\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://docs.dawndrums.tn/blog/dd-rev1.1-arch/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T22:15:53Z"
+    }
+  },
+  {
+    "hash": "9fd132b36ad4db6b4f234991b4c85063aa134db42213481c26435f9d5aaa35e2",
+    "item": {
+      "title": "Bitcoin Under Pressure Following BlackRock’s $125M BTC Move",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Under Pressure Following BlackRock\u0026#039;s $125M BTC Move\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBitcoin​‍​‌‍​‍‌​‍​‌‍​‍‌ trading is still very volatile after a massive move from institutions that has scared the investors on different global exchanges in the last few trading sessions. On-chain metrics are pointing to a further drop in price before the digital asset can regain a bullish trend. Investors are paying extreme",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-under-pressure-following-blackrocks-125m-btc-move/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "Bitcoin (BTC)",
+        "BTC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase.jpg"
+      },
+      "published": "2025-12-06T06:02:23Z"
+    }
+  },
+  {
+    "hash": "bf3b15ac8d2bd004c1ca219f8ba68cd2030749fbcaa65ca246adcef6b689d28b",
+    "item": {
+      "title": "Strategy Raises $1.44B to Combat Investor Concerns During Bitcoin Downturn",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Strategy_raised_1_44B_to_dispel_‘FUD_amid_a_Bitcoin_down_cycle.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Strategy Raises $1.44B to Combat Investor Concerns During Bitcoin Downturn\" decoding=\"async\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Strategy_raised_1_44B_to_dispel_‘FUD_amid_a_Bitcoin_down_cycle.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/Strategy_raised_1_44B_to_dispel_‘FUD_amid_a_Bitcoin_down_cycle-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/Strategy_raised_1_44B_to_dispel_‘FUD_amid_a_Bitcoin_down_cycle-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eTo​‍​‌‍​‍‌​‍​‌‍​‍‌ alleviate growing investor anxiety caused by the ongoing Bitcoin bear market, Strategy has effectively obtained $1.44 billion of new capital. By selling stocks, the company finished the fundraising in a little more than a week, thus showing how it is still able to raise funds even when the market",
+      "links": [
+        "https://thenewscrypto.com/strategy-raises-1-44b-to-combat-investor-concerns-during-bitcoin-downturn/"
+      ],
+      "categories": [
+        "Market News",
+        "Market Updates",
+        "Bitcoin",
+        "BTC",
+        "strategy"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/Strategy_raised_1_44B_to_dispel_‘FUD_amid_a_Bitcoin_down_cycle.jpg"
+      },
+      "published": "2025-12-06T04:59:40Z"
+    }
+  },
+  {
+    "hash": "28f1e7fad9b750a7e8e81bd7a9d7272bb98f433d1072349d37dc231407b9a61e",
+    "item": {
+      "title": "USE.com Accelerates Toward Launch as Its Upcoming Presale Becomes One of the Market’s Most Watched Events",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/USE_com_Accelerates_Toward_Launch_as_Its_Upcoming_Presale_Becomes.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"USE.com Accelerates Toward Launch as Its Upcoming Presale Becomes One of the Market’s Most Watched Events\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/USE_com_Accelerates_Toward_Launch_as_Its_Upcoming_Presale_Becomes.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/USE_com_Accelerates_Toward_Launch_as_Its_Upcoming_Presale_Becomes-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/USE_com_Accelerates_Toward_Launch_as_Its_Upcoming_Presale_Becomes-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eUSE.com is accelerating toward its official debut as its upcoming presale quickly becomes one of the most closely watched events in the crypto market. With the industry transitioning into 2026 and traders actively seeking platforms built on modern, performance-driven infrastructure, USE.com has emerged as a standout contender ready to capture",
+      "links": [
+        "https://thenewscrypto.com/use-com-accelerates-toward-launch-as-its-upcoming-presale-becomes-one-of-the-markets-most-watched-events/"
+      ],
+      "categories": [
+        "Press Release",
+        "USE.com"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/USE_com_Accelerates_Toward_Launch_as_Its_Upcoming_Presale_Becomes.jpg"
+      },
+      "published": "2025-12-06T00:00:00Z"
+    }
+  },
+  {
+    "hash": "70de7e9d919a8874c1a2c4da69afd1bf1da9a3660c8cfd16f39abeeb9697d18e",
+    "item": {
+      "title": "How a Polymarket Trader Made $1M on Google Search Bets: And Why It’s Raising Flags",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/FBI-Storms-Polymarket-CEOs-Home-After-Election-Predictions-Come-True.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Polymarket CEO\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/FBI-Storms-Polymarket-CEOs-Home-After-Election-Predictions-Come-True.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/FBI-Storms-Polymarket-CEOs-Home-After-Election-Predictions-Come-True-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/FBI-Storms-Polymarket-CEOs-Home-After-Election-Predictions-Come-True-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eA Polymarket trader has generated nearly $1 million in profits through suspiciously accurate bets on Google\u0026#8217;s 2025 Year in Search rankings. The wallet address \u0026#8220;0xafEe,\u0026#8221; previously known as \u0026#8220;AlphaRaccoon,\u0026#8221; correctly predicted nearly every outcome in Google search trend markets. The trader purchased \u0026#8220;Yes\u0026#8221; shares on d4vd, a 20-year-old singer given",
+      "links": [
+        "https://thenewscrypto.com/how-a-polymarket-trader-made-1m-on-google-search-bets-and-why-its-raising-flags/"
+      ],
+      "categories": [
+        "Market News",
+        "Polymarket"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Vignesh k"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/FBI-Storms-Polymarket-CEOs-Home-After-Election-Predictions-Come-True.jpg"
+      },
+      "published": "2025-12-05T19:45:00Z"
+    }
+  },
+  {
+    "hash": "3369499893949cfbdee877d2ca4a60bb67f2d964580f32087da0096e2c3f4649",
+    "item": {
+      "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\nThe vulnerability, CVE-2025-55182 (CVSS score: 10.0), relates to a case of remote code execution that could be triggered by an",
+      "links": [
+        "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg"
+      },
+      "published": "2025-12-06T11:40:00Z"
+    }
+  },
+  {
+    "hash": "b9d400b27b4f56c81e0f8ff430030ab9423d0bcafbf56a09808a06a46e36d34e",
+    "item": {
+      "title": "Bitcoin Price Prediction: Year-End $100K Target Alive – Here Are the Three Drivers That Matter",
+      "description": "\u003cp\u003eBitcoin trades below $90,000 but maintains year-end $100K prospects as Federal Reserve rate cuts begin, order-book liquidity concentrates near key levels, and technical charts show potential breakout above $95,000 resistance.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-year-end-100k-target-alive-here-are-the-three-drivers-that-matter/\"\u003eBitcoin Price Prediction: Year-End $100K Target Alive \u0026#8211; Here Are the Three Drivers That Matter\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-year-end-100k-target-alive-here-are-the-three-drivers-that-matter/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/06112123/1765020082-stock-image_optimized-54.jpg"
+      },
+      "published": "2025-12-06T11:52:35Z"
+    }
+  },
+  {
+    "hash": "bc198ea788c4a2cb00ba876a7e10977da0c5cb3be176e6530231bb11cba393ac",
+    "item": {
+      "title": "Shiba Inu Price Declines to 2-Year Low, Investors Shift Their Attention to a New Project",
+      "description": "\u003cp\u003eAs SHIB struggles near its lowest price since 2023, traders eye LiquidChain, a new promising project entering the market.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://advertorial.cryptonews.com/press-releases/shiba-inu-price-declines-to-2-year-low-investors-shift-their-attention-to-new-project-liquidchain/\"\u003eShiba Inu Price Declines to 2-Year Low, Investors Shift Their Attention to a New Project\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://advertorial.cryptonews.com/press-releases/shiba-inu-price-declines-to-2-year-low-investors-shift-their-attention-to-new-project-liquidchain/"
+      ],
+      "categories": [
+        "Press Releases",
+        "Blockchain"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Cryptonews"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/03133702/1764769021-liquidchain.jpg"
+      },
+      "published": "2025-12-06T11:00:00Z"
+    }
+  },
+  {
+    "hash": "a5b6749271b71295b5013c701a729b89c7bd566389714d69df38c089dbd31bae",
+    "item": {
+      "title": "MetaMask Enters Prediction Markets With Polymarket Integration",
+      "description": "\u003cp\u003eMetaMask is moving directly into the prediction market through an integration with Polymarket, giving users the ability to trade event outcomes.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/metamask-enters-prediction-markets-with-polymarket-integration/\"\u003eMetaMask Enters Prediction Markets With Polymarket Integration\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/metamask-enters-prediction-markets-with-polymarket-integration/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "MetaMask",
+        "Polymarket",
+        "Prediction markets"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/06080237/1765008157-image-1765007917373_optimized.jpg"
+      },
+      "published": "2025-12-06T10:12:00Z"
+    }
+  },
+  {
+    "hash": "0a932a1e9e5a4228a455f46227e58be8cd0c41e1de58c3518bb61c85c3775593",
+    "item": {
+      "title": "CoinShares Debunks Tether Collapse Fears After Hayes Warning",
+      "description": "\u003cp\u003eCoinShares head of research James Butterfill has rejected insolvency concerns surrounding Tether following warnings from BitMEX founder Arthur Hayes, pointing to over $181 billion in reserves against $174 billion liabilities with a $6.78 billion surplus.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinshares-debunks-tether-collapse-fears-after-hayes-warning/\"\u003eCoinShares Debunks Tether Collapse Fears After Hayes Warning\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinshares-debunks-tether-collapse-fears-after-hayes-warning/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "CoinShares",
+        "Tether USDT"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/06085840/1765011520-stock-image_optimized-12.jpg"
+      },
+      "published": "2025-12-06T09:13:47Z"
+    }
   }
 ]
