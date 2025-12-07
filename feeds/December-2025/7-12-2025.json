@@ -1530,5 +1530,394 @@
       "source": "Hacker News",
       "published": "2025-12-07T15:23:48Z"
     }
+  },
+  {
+    "hash": "c5bce0b6ded34a5a635203ce8d12d53b667914cc34142419833d90319a2dd792",
+    "item": {
+      "title": "Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus",
+      "description": "Merged to the mainline Linux kernel last year was GPIB drivers in the kernel's \"staging\" area. GPIB is the General Purpose Interface Bus launched by HP back in 1972 for lab equipment and more. After a year of cleaning up the code in the kernel's staging area, for Linux 6.19 the GPIB drivers have been promoted out of the staging area and into the Linux kernel proper. The Linux kernel now has stable driver support for this 8 Mbyte/s parallel bus that was introduced 53 years ago...",
+      "links": [
+        "https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-07T19:47:11Z"
+    }
+  },
+  {
+    "hash": "f9d4240a22c43a8c1c5cca111ea7bcf43c59876740705a0c29fc1d9d8f31cfb8",
+    "item": {
+      "title": "USB Video Capture Devices: Wow! They’re All Bad!!",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"884506\" data-permalink=\"https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/usb-video-capture-devices-all-suck-but-theres-a-20-solution-0-21-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"USB video capture devices ALL SUCK \u0026amp;#8211; but there\u0026amp;#8217;s a $20 solution 0-21 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png?w=800\" /\u003e\u003c/div\u003e[VWestlife] purchased all kinds of USB video capture devices \u0026#8212; many of them from the early 2000s \u0026#8212; and put them through their paces in trying to digitize VHS classics \u003ca href=\"https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/"
+      ],
+      "categories": [
+        "classic hacks",
+        "Retrocomputing",
+        "firewire",
+        "usb",
+        "uuuu",
+        "VHS",
+        "video capture",
+        "vintage"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png"
+      },
+      "published": "2025-12-07T21:00:13Z"
+    }
+  },
+  {
+    "hash": "9df41e0d7ddd052c97b6806a94110c5e4107a23a77985a1d868b563c5fa66028",
+    "item": {
+      "title": "Neat Techniques To Make Interactive Light Sculptures",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882511\" data-permalink=\"https://hackaday.com/2025/12/07/neat-techniques-to-make-interactive-light-sculptures/the-electronics-that-make-lumanoi-interactive-0-3-screenshot/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"The Electronics that Make Lumanoi Interactive 0-3 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png?w=800\" /\u003e\u003c/div\u003e[Voria Labs] has created a whole bunch of artworks referred to as Lumanoi Interactive Light Sculptures. A new video explains the hardware behind these beautiful glowing pieces, as well as \u003ca href=\"https://hackaday.com/2025/12/07/neat-techniques-to-make-interactive-light-sculptures/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/07/neat-techniques-to-make-interactive-light-sculptures/"
+      ],
+      "categories": [
+        "Art",
+        "LED Hacks",
+        "addressable leds",
+        "art",
+        "light",
+        "light sculpture"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png"
+      },
+      "published": "2025-12-07T18:00:58Z"
+    }
+  },
+  {
+    "hash": "31bd5d47c1b3d27424f9be412c160cfb5b2b12eb9a019a7fef83d785d2bbf16f",
+    "item": {
+      "title": "Anatomy Of A Minimalist Home Computer",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"884563\" data-permalink=\"https://hackaday.com/2025/12/07/anatomy-of-a-minimalist-home-computer/vz200-featured/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"vz200-featured\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg?w=800\" /\u003e\u003c/div\u003eThere are plenty of well-known models among the 8-bit machines of the 1980s, and most readers could rattle them off without a thought. They were merely the stars among a \u003ca href=\"https://hackaday.com/2025/12/07/anatomy-of-a-minimalist-home-computer/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/07/anatomy-of-a-minimalist-home-computer/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "VTech",
+        "VZ200",
+        "z80"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Jenny List"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/vz200-featured.jpg"
+      },
+      "published": "2025-12-07T15:00:34Z"
+    }
+  },
+  {
+    "hash": "782b971b7d65bfa5bcce28c6fdf59150b120b115d7462164c0b7f9b0143b8476",
+    "item": {
+      "title": "The Key to Plotting",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"589\" src=\"https://hackaday.com/wp-content/uploads/2025/12/penwrite.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/penwrite.png 800w, https://hackaday.com/wp-content/uploads/2025/12/penwrite.png?resize=250,184 250w, https://hackaday.com/wp-content/uploads/2025/12/penwrite.png?resize=400,295 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"884427\" data-permalink=\"https://hackaday.com/2025/12/07/the-key-to-plotting/penwrite/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/penwrite.png\" data-orig-size=\"800,589\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"penwrite\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/penwrite.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/penwrite.png?w=800\" /\u003e\u003c/div\u003ePlotters aren\u0026#8217;t as common as they once were. Today, many printers can get high enough resolution with dots that drawing things with a pen isn\u0026#8217;t as necessary as it once \u003ca href=\"https://hackaday.com/2025/12/07/the-key-to-plotting/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/07/the-key-to-plotting/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "penwriter",
+        "plotter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/penwrite.png"
+      },
+      "published": "2025-12-07T12:00:49Z"
+    }
+  },
+  {
+    "hash": "961dedc371322b78e1873c4e6c74603b6e4ecd7eb351deeb77b644386724f3bf",
+    "item": {
+      "title": "The ZX Spectrum Finally Got An FPS",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png 932w, https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png?resize=250,140 250w, https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png?resize=400,224 400w, https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png?resize=800,449 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"884186\" data-permalink=\"https://hackaday.com/2025/12/07/the-zx-spectrum-finally-got-an-fps/worldofspells-releasewalkthrough-14-2-screenshot-1-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png\" data-orig-size=\"932,523\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"WorldOfSpells ReleaseWalkthrough 14-2 screenshot (1)\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png?w=800\" /\u003e\u003c/div\u003eThe ZX Spectrum is known for a lot of things, but it\u0026#8217;s not really known for a rich and deep library of FPS titles. However, there is finally such a \u003ca href=\"https://hackaday.com/2025/12/07/the-zx-spectrum-finally-got-an-fps/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/07/the-zx-spectrum-finally-got-an-fps/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "fps",
+        "raycasting",
+        "spells",
+        "ZX Spectrum"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/WorldOfSpells-ReleaseWalkthrough-14-2-screenshot-1-1-e1764826207678.png"
+      },
+      "published": "2025-12-07T09:00:58Z"
+    }
+  },
+  {
+    "hash": "f3bcd5b5b21c3c648e463462f32def3867b9a8120f9bb911f9e017b4ff18b1f9",
+    "item": {
+      "title": "F1 Light Box Helps You Know the Current Race Status",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"422\" src=\"https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"A dynamic light box for F1 events, built like the F1 logo.\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png 1517w, https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png?resize=250,132 250w, https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png?resize=400,211 400w, https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png?resize=800,422 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882662\" data-permalink=\"https://hackaday.com/2025/12/06/f1-light-box-helps-you-know-the-current-race-status/f1-light-800/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png\" data-orig-size=\"1517,800\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"F1-light-800\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png?w=800\" /\u003e\u003c/div\u003e[joppedc] wrote in to let us know that the Formula 1® season is coming to an end, and that the final race should be bangin\u0026#8217;. To get ready, he built \u003ca href=\"https://hackaday.com/2025/12/06/f1-light-box-helps-you-know-the-current-race-status/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/f1-light-box-helps-you-know-the-current-race-status/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "Misc Hacks",
+        "f1",
+        "F1 racing",
+        "light box",
+        "lightbox"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Kristina Panos"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/F1-light-800.png"
+      },
+      "published": "2025-12-07T06:00:58Z"
+    }
+  },
+  {
+    "hash": "7dcf986b4045babb34526c86be1894bcb2e932e57eb8014c3242b4e897cc513f",
+    "item": {
+      "title": "Standalone USB-PD Stack For All Your Sink Needs",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png 1280w, https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882504\" data-permalink=\"https://hackaday.com/2025/12/06/standalone-usb-pd-stack-for-all-your-sink-needs/hadimg_pdstack_sink_feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"hadimg_pdstack_sink_feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png?w=800\" /\u003e\u003c/div\u003eUSB PD is a fun protocol to explore, but it can be a bit complex to fully implement. It makes sense we\u0026#8217;re seeing new stacks pop up all the time, \u003ca href=\"https://hackaday.com/2025/12/06/standalone-usb-pd-stack-for-all-your-sink-needs/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/standalone-usb-pd-stack-for-all-your-sink-needs/"
+      ],
+      "categories": [
+        "Microcontrollers",
+        "Software Hacks",
+        "c++",
+        "usb c power delivery",
+        "USB Power Delivery",
+        "USB-C PD"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Arya Voronova"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/hadimg_pdstack_sink_feat.png"
+      },
+      "published": "2025-12-07T03:00:58Z"
+    }
+  },
+  {
+    "hash": "78664189b82c1cf9a3899f16ef5e789fa7ac69534936ea5cbb180768a82e642a",
+    "item": {
+      "title": "Estimates are difficult for developers and product owners",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46184229\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://thorsell.io/2025/12/07/estimates.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T19:17:17Z"
+    }
+  },
+  {
+    "hash": "9a70108a2894f2ba2d4774e76d76b40a6b29e4f7df36c3fd7bf605fd96cec459",
+    "item": {
+      "title": "Syncthing-Android have had a change of owner/maintainer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46184730\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/researchxxl/syncthing-android/issues/16"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T20:15:26Z"
+    }
+  },
+  {
+    "hash": "b6c94c8c0899e34f36a05ec016603eba15bfbf336da34570e796b684dcacca0b",
+    "item": {
+      "title": "I failed to recreate the 1996 Space Jam Website with Claude",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183294\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T17:18:54Z"
+    }
+  },
+  {
+    "hash": "39478f3fe4ab53c4270fb36c89c4923088b38e8338079288517e21aafd875a2b",
+    "item": {
+      "title": "Build a DIY magnetometer with a couple of seasoning bottles",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46086923\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-29T12:04:34Z"
+    }
+  },
+  {
+    "hash": "2b9a6b34c3ca2979bd8e826e04bee999b5474577e3ad2acd33e42012b16ce1e2",
+    "item": {
+      "title": "Dollar-stores overcharge cash-strapped customers while promising low prices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46181962\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T14:37:21Z"
+    }
+  },
+  {
+    "hash": "71144ef46505c276a939c7bda9192418769014a8506bbc11736770bf128b256e",
+    "item": {
+      "title": "The state of Schleswig-Holstein is consistently relying on open source",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46181491\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T13:21:24Z"
+    }
+  },
+  {
+    "hash": "429a13704eb71740757c0078c519a074f31fa08bccbe0fb1d23abecb90c89532",
+    "item": {
+      "title": "Over fifty new hallucinations in ICLR 2026 submissions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46181466\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gptzero.me/news/iclr-2026/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T13:16:26Z"
+    }
+  },
+  {
+    "hash": "65daafc8d69f66be3c76c611afe6065d204979039c92d84152b60f29abcde6a1",
+    "item": {
+      "title": "Nested Learning: A new ML paradigm for continual learning",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46182031\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T14:47:02Z"
+    }
+  },
+  {
+    "hash": "4f7e2fc80b86981a3dfa5725827cde2e0e59b41f2b1596ecdb849e6435f6a93e",
+    "item": {
+      "title": "A geothermal amoeba sets a new upper temperature limit for eukaryotes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46184303\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T19:26:08Z"
+    }
+  },
+  {
+    "hash": "be3def437ca4cefa3c141b3eccb1900ec2d805af2a00d32c32ad07240e12c3ac",
+    "item": {
+      "title": "The end of the road for Kafka-delta-ingest",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098567\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T17:25:28Z"
+    }
+  },
+  {
+    "hash": "c94a91d340e36a6dc1020a7aa3de56eaebb38bc91e0718e5ff98aba02ce6a39c",
+    "item": {
+      "title": "The AI wildfire is coming. it's going to be painful and healthy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183011\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T16:43:38Z"
+    }
+  },
+  {
+    "hash": "cc3467f27cfaf437f320124471a23ce992ef349f51afc36023dcbfeeecdc678d",
+    "item": {
+      "title": "Show HN: Spotify Wrapped but for LeetCode",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183952\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/collinboler/leetcodewrapped"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T18:42:57Z"
+    }
+  },
+  {
+    "hash": "0c7377a4adfd1cc94ad59c40132aaa8d51542b6361044a075cb14fbdf8427ec5",
+    "item": {
+      "title": "Should CSS be a constraint system instead?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183948\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pavpanchekha.com/blog/why-css-bad.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T18:42:04Z"
+    }
+  },
+  {
+    "hash": "32a65b7b4664b12f3f1adacad6c17ae1c950ed6c69c948a79200ffd7c611c4a3",
+    "item": {
+      "title": "Eurydice: a Rust to C compiler",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46178442\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jonathan.protzenko.fr/2025/10/28/eurydice.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T01:41:33Z"
+    }
+  },
+  {
+    "hash": "b4bf50af7ee1e812b833bf9847da13aa96621b7279f44e31915b8b77c12f0d5f",
+    "item": {
+      "title": "What is “literate programming”? (2024)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46125963\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pqnelson.github.io/2024/05/29/literate-programming.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T19:56:09Z"
+    }
   }
 ]
