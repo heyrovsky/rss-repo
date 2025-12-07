@@ -687,5 +687,532 @@
       "source": "Hacker News",
       "published": "2025-12-02T19:56:09Z"
     }
+  },
+  {
+    "hash": "9e8db0a4dac6fc9615920f003ebc9be06c3131fdedb600521b31d8c690e097a2",
+    "item": {
+      "title": "Linux 6.19 Delivers Working USB3 Support For Apple Silicon Devices",
+      "description": "Merged last night for the Linux 6.19 kernel merge window were all of the USB and Thunderbolt driver changes. Standing out this cycle is Apple Silicon devices like the M1 Macs now having working USB3 support on the mainline Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-USB3-Apple-M1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-07T12:00:00Z"
+    }
+  },
+  {
+    "hash": "1ba7124e455c920c735e520474a8e2a8cc817640ac5effb77172063bc757627b",
+    "item": {
+      "title": "NVIDIA Plumbs DMA-BUF Support For VFIO PCI Devices In Linux 6.19",
+      "description": "In addition to NVIDIA improving peer-to-peer (P2P) DMA for block devices in Linux 6.19, NVIDIA also led an effort providing DMA-BUF support for VFIO PCI devices for opening up some interesting new cases moving forward. As part of the VFIO pull request this new functionality has landed for Linux 6.19...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-DMA-BUF-VFIO-PCI"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-07T11:31:11Z"
+    }
+  },
+  {
+    "hash": "2310892966e5233135f7426a3f09c8a4ce957e7539dacbc3c797466f6716705b",
+    "item": {
+      "title": "Using AI To Modernize The Ubuntu Error Tracker Produced Some Code That Was \"Plain Wrong\"",
+      "description": "A week ago I wrote about AI being used to help modernize Ubuntu's Error Tracker. Microsoft GitHub Copilot was tasked to help adapt its Cassandra database usage to modern standards. It's worked in some areas but even for a rather straight forward task, some of the generated functions ended up being \"plain wrong\" according to the developer involved...",
+      "links": [
+        "https://www.phoronix.com/news/Ubuntu-Error-Tracker-AI-Error"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-07T11:18:18Z"
+    }
+  },
+  {
+    "hash": "4d2d8afae8911dd51b54f24840c5ac79609ca742415ea2fe7c630194bb802af5",
+    "item": {
+      "title": "Rust Drivers In Linux 6.19 Will Now Support... Module Parameters",
+      "description": "On top of the Rust driver core changes and other Rust code for Linux 6.19, the modules infrastructure for this new kernel version is also bringing some new code. Surprisingly, it's taken until now for Rust kernel modules/drivers to support module parameters as is common practice for passing different options when booting the kernel or manually loading kernel drivers with extra non-default options...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Rust-Module-Params"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-07T11:02:48Z"
+    }
+  },
+  {
+    "hash": "f31394a409145ee294548e56948de81dc8cc9bce9959813f07608f83240acefa",
+    "item": {
+      "title": "Bitcoin (BTC) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/11451f13-6832-4c0e-982f-b92f289396d8.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin (BTC)\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/11451f13-6832-4c0e-982f-b92f289396d8.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/11451f13-6832-4c0e-982f-b92f289396d8-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/11451f13-6832-4c0e-982f-b92f289396d8-150x84.jpg 150w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Bitcoin (BTC) price prediction for 2025, 2026-2030, we will analyze the price patterns of BTC by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Bitcoin (BTC) Current Market Status What is Bitcoin (BTC)? Bitcoin (BTC) 24H Technicals BITCOIN",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-btc-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Bitcoin",
+        "BTC",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Carolyna Mavis"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/11451f13-6832-4c0e-982f-b92f289396d8.jpg"
+      },
+      "published": "2025-12-06T14:59:38Z"
+    }
+  },
+  {
+    "hash": "4a859596e277fb27746bda7aee83c4fbcb334a6780a64ad4a4aa8925793dab67",
+    "item": {
+      "title": "Toncoin (TON) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/08/TON.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Toncoin (TON) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/08/TON.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/08/TON-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/08/TON-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/08/TON-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Toncoin (TON) price prediction for 2025, 2026-2030,\u0026#160; we will analyze the price patterns of TON by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Toncoin (TON) Current Market Status What is Toncoin (TON)? Toncoin (TON) 24H Technicals TONCOIN",
+      "links": [
+        "https://thenewscrypto.com/toncoin-ton-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "TON",
+        "Toncoin"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/08/TON.jpg"
+      },
+      "published": "2025-12-06T14:53:59Z"
+    }
+  },
+  {
+    "hash": "9692348dab14f935b5674b3cb41b896aeb486ea97684edda301076dce83049b8",
+    "item": {
+      "title": "Binance Coin (BNB) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Binance Coin (BNB)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Binance Coin (BNB) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of BNB by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Binance Coin (BNB) Current Market Status What is Binance Coin (BNB)? Binance Coin (BNB)",
+      "links": [
+        "https://thenewscrypto.com/binance-coin-bnb-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Binance",
+        "BNB",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/BinanceCoin-BNB_Price-prediction-1.jpg"
+      },
+      "published": "2025-12-06T14:44:07Z"
+    }
+  },
+  {
+    "hash": "6e8c6c49507e02e896f35c449e02cc456449a0221a1302d4f7de443f2dee7b8e",
+    "item": {
+      "title": "Mantle (MNT) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Mantle (MNT) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Mantle (MNT) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of MNT by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Mantle (MNT) Current Market Status What is Mantle (MNT)? Mantle (MNT) 24H Technicals MANTLE (MNT)",
+      "links": [
+        "https://thenewscrypto.com/mantle-mnt-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Mantle",
+        "MNT",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-24-at-5.27.53-PM.jpeg"
+      },
+      "published": "2025-12-06T14:36:37Z"
+    }
+  },
+  {
+    "hash": "00e91be6538187737c955e65af315025b314c72f44907ba317a8c8816e18c715",
+    "item": {
+      "title": "Bitcoin, Ethereum, and BNB Forecast Stability; Ozak AI Prediction Points to a 100x Shockwave",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/5-High-ROI-Cryptos-for-2025-Investors.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin, Ethereum, and BNB Forecast Stability; Ozak AI Prediction Points to a 100x Shockwave\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/5-High-ROI-Cryptos-for-2025-Investors.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/5-High-ROI-Cryptos-for-2025-Investors-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/5-High-ROI-Cryptos-for-2025-Investors-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eCrypto markets are entering a period of renewed strength, with major assets like Bitcoin, Ethereum, and BNB showing steady upward momentum and strong structural support. These top-tier cryptocurrencies are widely expected to maintain stability and deliver meaningful gains in the upcoming cycle, backed by institutional interest, expanding utility, and high",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-ethereum-and-bnb-forecast-stability-ozak-ai-prediction-points-to-a-100x-shockwave/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "BNB",
+        "ETHEREUM",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/5-High-ROI-Cryptos-for-2025-Investors.jpg"
+      },
+      "published": "2025-12-06T14:30:00Z"
+    }
+  },
+  {
+    "hash": "c433c0dfc246204c8d3e7e118699fecba6589e7ccfb7025e8cd7cee9bb190d8c",
+    "item": {
+      "title": "TRON (TRX) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/09/TRX-Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"TRON (TRX) Price Prediction\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/09/TRX-Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/09/TRX-Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/09/TRX-Price-prediction-376x212.jpg 376w, https://thenewscrypto.com/wp-content/uploads/2023/09/TRX-Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this TRON (TRX) price prediction 2025, 2026-2030, we will analyze the price patterns of TRX by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION TRON (TRX) Current Market Status What is TRON (TRX)? TRON (TRX) 24H Technicals TRON (TRX)",
+      "links": [
+        "https://thenewscrypto.com/tron-trx-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction",
+        "Tron",
+        "TRX"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/09/TRX-Price-prediction.jpg"
+      },
+      "published": "2025-12-06T14:20:55Z"
+    }
+  },
+  {
+    "hash": "58050ec36f0ed6ff1920bf2bd96103e7b812357c19fce7c61efad02aa9f055c6",
+    "item": {
+      "title": "What Does a 10% Referral Reward Mean in $LILSHIB? A Complete Breakdown for New Crypto Users",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"292\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-2.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"What Does a 10% Referral Reward Mean in $LILSHIB? A Complete Breakdown for New Crypto Users\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-2.jpg 512w, https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-2-300x171.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eLILSHIB has entered the market spotlight as the project officially opened its presale at an initial price of $0.0002. For the new project, which hopes to combine practical utility with meme-coin culture, this is a significant step. Early buyers also have access to a 10% payback reward for every confirmed",
+      "links": [
+        "https://thenewscrypto.com/what-does-a-10-referral-reward-mean-in-lilshib-a-complete-breakdown-for-new-crypto-users/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Crypto",
+        "LILSHIB"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-2.jpg"
+      },
+      "published": "2025-12-06T13:26:55Z"
+    }
+  },
+  {
+    "hash": "cf22c30b99d438a92fd92b830467e051554bed242d03af52889d23c0fd40b55e",
+    "item": {
+      "title": "From Pennies to Powerhouse: How Ozak AI’s Presale Price Could Transform Modest Investments Into Massive Returns Within Five Years",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Forget-Ethereums-3700.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"From Pennies to Powerhouse: How Ozak AI’s Presale Price Could Transform Modest Investments Into Massive Returns Within Five Years\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/11/Forget-Ethereums-3700.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/11/Forget-Ethereums-3700-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/11/Forget-Ethereums-3700-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eOzak AI ($OZ) continues to gain momentum as one of the most promising AI-powered crypto projects of the new market cycle. Built on a fusion of artificial intelligence and DePIN (Decentralized Physical Infrastructure Networks), Ozak AI introduces predictive analytics, decentralized computing power and token-based utility in one system. Instead of",
+      "links": [
+        "https://thenewscrypto.com/from-pennies-to-powerhouse-how-ozak-ais-presale-price-could-transform-modest-investments-into-massive-returns-within-five-years/"
+      ],
+      "categories": [
+        "Press Release",
+        "Bitcoin",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/11/Forget-Ethereums-3700.jpg"
+      },
+      "published": "2025-12-06T13:15:06Z"
+    }
+  },
+  {
+    "hash": "3a3523beb67cc47aec751af95012e803e5b93e885bbcee015c55b0061f018901",
+    "item": {
+      "title": "7 Crypto Exchanges With the Lowest Spot Fees",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/10/7-Picks-for-the-Best-Crypto-Coins.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"7 Crypto Exchanges With the Lowest Spot Fees\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/10/7-Picks-for-the-Best-Crypto-Coins.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/10/7-Picks-for-the-Best-Crypto-Coins-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/10/7-Picks-for-the-Best-Crypto-Coins-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThere’s a number of variables to examine when choosing a crypto exchange on which to trade, ranging from the assets it lists to the quality of its mobile app. While these characteristics are important, arguably the most critical factor of all – as well as being the easiest to quantitatively",
+      "links": [
+        "https://thenewscrypto.com/7-crypto-exchanges-with-the-lowest-spot-fees/"
+      ],
+      "categories": [
+        "Market News",
+        "Crypto",
+        "exchange"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/10/7-Picks-for-the-Best-Crypto-Coins.jpg"
+      },
+      "published": "2025-12-06T09:05:08Z"
+    }
+  },
+  {
+    "hash": "467821ca238e8c0803733d7d56ca16e872b36d9ec615ed5ed91f22b4930e339d",
+    "item": {
+      "title": "Bitcoin Under Pressure Following BlackRock’s $125M BTC Move",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bitcoin Under Pressure Following BlackRock\u0026#039;s $125M BTC Move\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eBitcoin​‍​‌‍​‍‌​‍​‌‍​‍‌ trading is still very volatile after a massive move from institutions that has scared the investors on different global exchanges in the last few trading sessions. On-chain metrics are pointing to a further drop in price before the digital asset can regain a bullish trend. Investors are paying extreme",
+      "links": [
+        "https://thenewscrypto.com/bitcoin-under-pressure-following-blackrocks-125m-btc-move/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Market Updates",
+        "Bitcoin",
+        "Bitcoin (BTC)",
+        "BTC"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Shubham sahu"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/Bitcoin_Price_Forecast_as_BlackRock_Sends_125M_in_BTC_to_Coinbase.jpg"
+      },
+      "published": "2025-12-06T06:02:23Z"
+    }
+  },
+  {
+    "hash": "594b96de2f58b1218250727c6280c2dc5a2aedcc4a2f68dbf5665320bafcd7c4",
+    "item": {
+      "title": "Principles of Slack Maximalism",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46081418\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T18:36:16Z"
+    }
+  },
+  {
+    "hash": "09bcb3246bd39556eeb861003ce4740777ea761e42f06f69556f7b867c1fc4a0",
+    "item": {
+      "title": "Patching Pulse Oximeter Firmware",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46107897\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://stefan-gloor.ch/pulseoximeter-hack"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T14:34:51Z"
+    }
+  },
+  {
+    "hash": "b235dc8ff958112bfa580c914df4690bca9e58fb87f9109b407408d263d5343c",
+    "item": {
+      "title": "My car charger can boil water really fast [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46075126\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=INZybkX8tLI"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T02:58:21Z"
+    }
+  },
+  {
+    "hash": "4a4614d7fb9c0c92fe6fc741a044b7965593849f61f5b89ac1a39f5a54178460",
+    "item": {
+      "title": "Bitcoin Price Analysis: 92% Fed Rate Cut Probability Sparks Bitcoin Comeback Talk",
+      "description": "\u003cp\u003eMarkets are pricing in a 92% probability of a 25-basis-point Fed rate cut at next week's FOMC meeting, as Bitcoin breaks out of a descending technical channel and analysts target a rally toward $100,000 within two weeks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-analysis-92-fed-rate-cut-probability-sparks-bitcoin-comeback-talk/\"\u003eBitcoin Price Analysis: 92% Fed Rate Cut Probability Sparks Bitcoin Comeback Talk\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-analysis-92-fed-rate-cut-probability-sparks-bitcoin-comeback-talk/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/07115345/1765108424-stock-image_optimized-56.jpg"
+      },
+      "published": "2025-12-07T12:08:09Z"
+    }
+  },
+  {
+    "hash": "2e6dccfcdfcb19636d5e247f43b17267c648786ac9e6145663e796289d2f25ef",
+    "item": {
+      "title": "Bitcoin “Liveliness” Indicator Rises, Hinting the Bull Cycle May Not Be Over",
+      "description": "\u003cp\u003eBitcoin’s “liveliness” metric is rising despite stagnant prices, signaling renewed underlying demand.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-liveliness-indicator-rises-hinting-the-bull-cycle-may-not-be-over/\"\u003eBitcoin “Liveliness” Indicator Rises, Hinting the Bull Cycle May Not Be Over\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-liveliness-indicator-rises-hinting-the-bull-cycle-may-not-be-over/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Adoption",
+        "Bitcoin",
+        "Market"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/07080500/1765094699-image-1765094445557_optimized.jpg"
+      },
+      "published": "2025-12-07T10:31:41Z"
+    }
+  },
+  {
+    "hash": "92a68d67d54944fc23c02c20c6e2a63d5976f68fd2e3e6bde18e0c0818e7b58a",
+    "item": {
+      "title": "Ether Supply on Exchanges Falls to Record Low, Raising Supply Squeeze Hopes",
+      "description": "\u003cp\u003eEther held on centralized exchanges has fallen to its lowest level in history, fueling speculation that a supply squeeze may be forming.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ether-supply-on-exchanges-falls-to-record-low-raising-supply-squeeze-hopes/\"\u003eEther Supply on Exchanges Falls to Record Low, Raising Supply Squeeze Hopes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ether-supply-on-exchanges-falls-to-record-low-raising-supply-squeeze-hopes/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Bitcoin",
+        "ETH",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/07080456/1765094695-image-1765094431323_optimized.jpg"
+      },
+      "published": "2025-12-07T10:26:18Z"
+    }
+  },
+  {
+    "hash": "aeb71b13dfbc4f696d45411cfd5debb3ceaf7c5ff6f9980315be6ad6a05b7d57",
+    "item": {
+      "title": "Korea to Treat Crypto Exchanges Like Banks After Upbit Hack",
+      "description": "\u003cp\u003eSouth Korea is moving to treat major crypto exchanges like traditional banks following November's $30.1 million Upbit hack, with planned regulations requiring platforms to compensate users for security breaches and system failures regardless of fault.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/korea-to-treat-crypto-exchanges-like-banks-after-upbit-hack/\"\u003eKorea to Treat Crypto Exchanges Like Banks After Upbit Hack\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/korea-to-treat-crypto-exchanges-like-banks-after-upbit-hack/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "South Korea",
+        "Upbit"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/07091546/1765098945-image-1765098924389_optimized.jpg"
+      },
+      "published": "2025-12-07T10:23:31Z"
+    }
+  },
+  {
+    "hash": "f664b50ac580e07d04799c7a11499d915ff345cb20d9bcb5336c214edd25759b",
+    "item": {
+      "title": "Euro Stablecoin Market Doubles to $680M A Year After MiCA",
+      "description": "\u003cp\u003eThe euro stablecoin market has doubled since MiCA’s rollout, reaching roughly $680 million in market cap.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/euro-stablecoin-market-doubles-to-680m-a-year-after-mica/\"\u003eEuro Stablecoin Market Doubles to $680M A Year After MiCA\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/euro-stablecoin-market-doubles-to-680m-a-year-after-mica/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Adoption",
+        "Europe",
+        "Stablecoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/07080451/1765094691-image-1765094424971_optimized.jpg"
+      },
+      "published": "2025-12-07T10:12:51Z"
+    }
+  },
+  {
+    "hash": "8790efef276cf852c49e296fa2b306460d87dcf88abfadc3e52fdaa24eba6eb1",
+    "item": {
+      "title": "Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies",
+      "description": "\u003cp\u003eOver 100 publicly traded companies that adopted Michael Saylor's Bitcoin treasury model now face a 43% median stock decline as massive debt obligations collide with crypto holdings that generate no cash flow to service payments.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/michael-saylors-bitcoin-playbook-backfires-on-100-companies/\"\u003eMichael Saylor\u0026#8217;s Bitcoin Playbook Backfires on 100+ Companies\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/michael-saylors-bitcoin-playbook-backfires-on-100-companies/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/07091322/1765098801-stock-image_optimized-55.jpg"
+      },
+      "published": "2025-12-07T10:10:22Z"
+    }
   }
 ]
