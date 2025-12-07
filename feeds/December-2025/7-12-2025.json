@@ -1,0 +1,410 @@
+[
+  {
+    "hash": "c80a7a24bae70ffeb6534535503965572e9efcd41e0f1fc6fce244d8b14a83bc",
+    "item": {
+      "title": "Microsoft's RAMDAX Driver Merged For Linux 6.19 To Carve Out RAM As NVDIMM Devices",
+      "description": "The Non-Volatile Memory Device (NVDIMM) subsystem updates were merged today for the in-development Linux 6.19 kernel. Most notable this cycle for the NVDIMM code is a new open-source driver addition courtesy of Microsoft...",
+      "links": [
+        "https://www.phoronix.com/news/RAMDAX-NVDIMM-Merged-Linux-6.19"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-06T21:00:00Z"
+    }
+  },
+  {
+    "hash": "f082fb1aea18bccbe1fdd5b19b1127aad4f084f30280e98d7ba74cd19cf1176c",
+    "item": {
+      "title": "Lessons Learned After Trying MeshCore for Off-grid Text Messaging",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png 1600w, https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?resize=1536,864 1536w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"884480\" data-permalink=\"https://hackaday.com/2025/12/06/lessons-learned-after-trying-meshcore-for-off-grid-text-messaging/t1000-and-lilygo-banner/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png\" data-orig-size=\"1600,900\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"t1000-and-lilygo-banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png?w=800\" /\u003e\u003c/div\u003e[Michael Lynch] recently decided to delve into the world of off-grid, decentralized communications with MeshCore, because being able to communicate wirelessly with others in a way that does not depend \u003ca href=\"https://hackaday.com/2025/12/06/lessons-learned-after-trying-meshcore-for-off-grid-text-messaging/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/lessons-learned-after-trying-meshcore-for-off-grid-text-messaging/"
+      ],
+      "categories": [
+        "Radio Hacks",
+        "LoRa",
+        "meshcore",
+        "Meshtastic",
+        "radio"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Donald Papp"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png"
+      },
+      "published": "2025-12-07T00:00:10Z"
+    }
+  },
+  {
+    "hash": "3abb458f0e1968ef8eb592617cb0949fabbb021938bf3f472bdbebc28e25269f",
+    "item": {
+      "title": "Bridging RTL-433 To Home Assistant",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png 824w, https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"884221\" data-permalink=\"https://hackaday.com/2025/12/06/bridging-rtl-433-to-home-assistant/screenshot-2025-12-04-175338-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png\" data-orig-size=\"824,464\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Screenshot 2025-12-04 175338\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png?w=800\" /\u003e\u003c/div\u003eIf you\u0026#8217;ve got an RTL-SDR compatible receiver, you\u0026#8217;ve probably used it for picking up signals from all kinds of weird things. Now, [Jaron McDaniel] has built a tool to integrate \u003ca href=\"https://hackaday.com/2025/12/06/bridging-rtl-433-to-home-assistant/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/bridging-rtl-433-to-home-assistant/"
+      ],
+      "categories": [
+        "home hacks",
+        "home-assistant",
+        "RTL-SDR",
+        "rtl_433",
+        "smart home"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/Screenshot-2025-12-04-175338-1-e1764831264638.png"
+      },
+      "published": "2025-12-06T21:00:01Z"
+    }
+  },
+  {
+    "hash": "caada1ef4b76086b4cfd75148a540951964286d05054e02d5bdeffa460e23482",
+    "item": {
+      "title": "Emulate ROMs at 12MHz With Pico2 PIO",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"251\" src=\"https://hackaday.com/wp-content/uploads/2025/12/pico2romEMU-feat-e1764609921842.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" data-attachment-id=\"882568\" data-permalink=\"https://hackaday.com/2025/12/06/emulate-roms-at-12mhz-with-pico2-pio/pico2romemu-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/pico2romEMU-feat-e1764609921842.jpg\" data-orig-size=\"3935,1233\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"pico2romEMU-feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/pico2romEMU-feat-e1764609921842.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/pico2romEMU-feat-e1764609921842.jpg?w=800\" /\u003e\u003c/div\u003eNothing lasts forever, and that includes the ROMs required to make a retrocomputer run. Even worse, what if you\u0026#8217;re rolling your own firmware? Period-appropriate EPROMs and their programmers aren\u0026#8217;t always \u003ca href=\"https://hackaday.com/2025/12/06/emulate-roms-at-12mhz-with-pico2-pio/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/emulate-roms-at-12mhz-with-pico2-pio/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "retrocomputing",
+        "rom",
+        "rom emulator"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/pico2romEMU-feat-e1764609921842.jpg"
+      },
+      "published": "2025-12-06T18:00:40Z"
+    }
+  },
+  {
+    "hash": "4ec49c4e99da68c4a7b4b73c41245e8ea21f675b04d0ed20673729ded28be26c",
+    "item": {
+      "title": "Something New Every Day, Something Relevant Every Week?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg 3000w, https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?resize=2048,1239 2048w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"323569\" data-permalink=\"https://hackaday.com/inspiration/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg\" data-orig-size=\"3000,1815\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;1\u0026quot;}\" data-image-title=\"Inspiration\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg?w=800\" /\u003e\u003c/div\u003eThe site is called Hackaday, and has been for 21 years. But it was only for maybe the first half-year that it was literally a hack a day. By the \u003ca href=\"https://hackaday.com/2025/12/06/something-new-every-day-something-relevant-every-week/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/something-new-every-day-something-relevant-every-week/"
+      ],
+      "categories": [
+        "Hackaday Columns",
+        "newsletter"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Elliot Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2018/09/inspiration.jpg"
+      },
+      "published": "2025-12-06T15:00:38Z"
+    }
+  },
+  {
+    "hash": "4382d7091adfb34168aef8679611e5c63b0390deabf82f5a63da7caef6a905c9",
+    "item": {
+      "title": "Electronic Dice Built The Old Fashioned Way",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png 1280w, https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882450\" data-permalink=\"https://hackaday.com/2025/12/06/electronic-dice-built-the-old-fashioned-way/i-built-a-dice-without-writing-a-single-line-of-code-3-51-screenshot-2/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"I Built a Dice Without Writing a Single Line of Code 3-51 screenshot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png?w=800\" /\u003e\u003c/div\u003eIf you wanted to build an electronic dice, you might grab an Arduino and a nice OLED display to whip up something fancy. You could even choose an ESP32 and \u003ca href=\"https://hackaday.com/2025/12/06/electronic-dice-built-the-old-fashioned-way/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/electronic-dice-built-the-old-fashioned-way/"
+      ],
+      "categories": [
+        "LED Hacks",
+        "555",
+        "555 timer",
+        "dice",
+        "dice roll"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Lewin Day"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/I-Built-a-Dice-Without-Writing-a-Single-Line-of-Code-3-51-screenshot-1.png"
+      },
+      "published": "2025-12-06T12:00:51Z"
+    }
+  },
+  {
+    "hash": "95bf99e6fa3649e60fbf5b2696aa7892ba80a7fcc596f352e358a5d8fee2a17b",
+    "item": {
+      "title": "Sudo Clean Up My Workbench",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/12/bot.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/bot.png 800w, https://hackaday.com/wp-content/uploads/2025/12/bot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/12/bot.png?resize=400,225 400w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"884469\" data-permalink=\"https://hackaday.com/2025/12/06/sudo-clean-up-my-workbench/bot-43/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/bot.png\" data-orig-size=\"800,450\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"bot\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/bot.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/bot.png?w=800\" /\u003e\u003c/div\u003e[Engineezy] might have been watching a 3D printer move when inspiration struck: Why not build a robot arm to clean up his workbench? Why not, indeed? Well, all you need \u003ca href=\"https://hackaday.com/2025/12/06/sudo-clean-up-my-workbench/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/06/sudo-clean-up-my-workbench/"
+      ],
+      "categories": [
+        "Robots Hacks",
+        "Tool Hacks",
+        "robot",
+        "workbench"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/bot.png"
+      },
+      "published": "2025-12-06T09:00:06Z"
+    }
+  },
+  {
+    "hash": "9dedd193108c81487b468269e3eb98afebdc8293d047ae267ff904ad2eed7da8",
+    "item": {
+      "title": "Blue Hedgehog, Meet Boing Ball: Can Sonic Run on Amiga?",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg 1280w, https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg?resize=800,450 800w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882336\" data-permalink=\"https://hackaday.com/2025/12/05/blue-hedgehog-meet-boing-ball-can-sonic-run-on-amiga/sonic-amiga-feat/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg\" data-orig-size=\"1280,720\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"Sonic-Amiga-Feat\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg?w=800\" /\u003e\u003c/div\u003eThe Amiga was a great game system in its day, but there were some titles it was just never going to get. Sonic the Hedgehog was one of them\u0026#8211; SEGA \u003ca href=\"https://hackaday.com/2025/12/05/blue-hedgehog-meet-boing-ball-can-sonic-run-on-amiga/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/05/blue-hedgehog-meet-boing-ball-can-sonic-run-on-amiga/"
+      ],
+      "categories": [
+        "Retrocomputing",
+        "amiga",
+        "Amiga 1200",
+        "assembly language",
+        "computer games",
+        "m68k",
+        "sega genesis",
+        "sega mega drive"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/11/Sonic-Amiga-Feat.jpg"
+      },
+      "published": "2025-12-06T06:00:49Z"
+    }
+  },
+  {
+    "hash": "c3e8fc2a373fc7aee0ba24a1141f661c28c72221d050d086ca7d1dc5ba10c620",
+    "item": {
+      "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46176905\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T21:55:09Z"
+    }
+  },
+  {
+    "hash": "466ab73b8a999d2b27af7bac52b94540d4d74b5795e374f8b0909b44c1e0f79d",
+    "item": {
+      "title": "Kilauea erupts, destroying webcam [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177645\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=TK2N99BDw7A"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T23:39:02Z"
+    }
+  },
+  {
+    "hash": "5c40bd9cf016934b1612f38a31aa3b7cbae7c9316124942c2236da4a9eac5452",
+    "item": {
+      "title": "United States Antarctic Program Field Manual (2024) [pdf]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177132\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T22:26:26Z"
+    }
+  },
+  {
+    "hash": "d1e3875fe71c48e500b3fe71a03dd78ee0d36a69fb0e01e5f34024ad86158593",
+    "item": {
+      "title": "Zebra-Llama: Towards Efficient Hybrid Models",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46176289\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2505.17272"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T20:15:54Z"
+    }
+  },
+  {
+    "hash": "3d0f4fa549517ded95e00ac62bc50c3cb2dc93ca52aa80008e633c7c8bb44378",
+    "item": {
+      "title": "Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177737\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T23:51:08Z"
+    }
+  },
+  {
+    "hash": "317270c9c8ba1cc2ec08c53e01ff9c3770c5baa8805375b2dfdbaa76eb58b98c",
+    "item": {
+      "title": "Saving Japan's exceptionally rare 'snow monsters'",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177418\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T23:06:53Z"
+    }
+  },
+  {
+    "hash": "cf522d124a497de879a1d81d78ed214766be36fef0dbf6fb0a764a53a9441c0b",
+    "item": {
+      "title": "Bikeshedding, or why I want to build a laptop",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46102276\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T01:08:01Z"
+    }
+  },
+  {
+    "hash": "2cf1fd8f7abf5ccdcf289027a0d907fb3acd2fac56abe4e70ce67c63ae7db265",
+    "item": {
+      "title": "Coffee linked to slower biological ageing among those with severe mental illness",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46176766\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T21:33:03Z"
+    }
+  },
+  {
+    "hash": "3053bb6d38409693f749e44887d9fcd6fe801cc8f8e9e11390b194e09526ddbc",
+    "item": {
+      "title": "Mathematics Without Numbers (1959)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46116007\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jstor.org/stable/20026529?seq=1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T01:08:12Z"
+    }
+  },
+  {
+    "hash": "29fd71d4e2e8b113429c4fe7a236a90d19d0321b3fb038b5799185180a622a86",
+    "item": {
+      "title": "PatchworkOS: An OS for x86_64, built from scratch in C and assembly",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177615\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/KaiNorberg/PatchworkOS"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T23:33:23Z"
+    }
+  },
+  {
+    "hash": "c7a101706132f52a7158655f9a687d49537b59713f86497a1843ad552c9f8b58",
+    "item": {
+      "title": "Catala – Law to Code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177022\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://catala-lang.org"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T22:11:33Z"
+    }
+  },
+  {
+    "hash": "ccea24a3dbbf63f356c888dd832f42f60f8e17a493123d08b4ed1856073ac741",
+    "item": {
+      "title": "OpenTelemetry Distribution Builder",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177664\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/observIQ/otel-distro-builder"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T23:41:18Z"
+    }
+  },
+  {
+    "hash": "23e368c0185b1c54ead95307b942cc0664417401e370479bab928327e305f404",
+    "item": {
+      "title": "Show HN: Tascli, a command line based (human) task and record manager",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46176533\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/Aperocky/tascli"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T20:56:38Z"
+    }
+  },
+  {
+    "hash": "cfd2f2c89cee5ea23bbfb5523da72ce8b30e995ebe5c75029dd8e8df61ee5774",
+    "item": {
+      "title": "Wave of (Open Street Map) Vandalism in South Korea",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177198\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.openstreetmap.org/user/KennyDap/diary/407844"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T22:34:56Z"
+    }
+  },
+  {
+    "hash": "8a58cb15ba11ed8a340277dca7a48f20deb0959e67302e0b9d18f290f085f853",
+    "item": {
+      "title": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46177926\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T00:11:47Z"
+    }
+  },
+  {
+    "hash": "3d542a6ef28f86e995d1b649208198992bc8fee116493c72b02716dbaf77f48c",
+    "item": {
+      "title": "Term-keys – Lossless keyboard input for Emacs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096341\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/CyberShadow/term-keys"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-30T13:07:38Z"
+    }
+  },
+  {
+    "hash": "651f4d84629c6dda29b18327aa33c150fd02523b824883a24b197806e6483d97",
+    "item": {
+      "title": "Running Claude Code in a loop to mirror human development practices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46175662\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T18:53:57Z"
+    }
+  }
+]
