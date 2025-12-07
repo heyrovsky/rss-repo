@@ -1364,5 +1364,171 @@
       "source": "Hacker News",
       "published": "2025-12-07T09:06:39Z"
     }
+  },
+  {
+    "hash": "198d3f079ad4cdcbdb0e08b4abfd3a4515dbd904e870f99304a62b9fb876f49a",
+    "item": {
+      "title": "Six stable kernels for the weekend",
+      "description": "\u003cp\u003eGreg Kroah-Hartman has announced the release of the\n\u003ca href=\"https://lwn.net/Articles/1049556/\"\u003e6.17.11\u003c/a\u003e,\n\u003ca href=\"https://lwn.net/Articles/1049557/\"\u003e6.12.61\u003c/a\u003e,\n\u003ca href=\"https://lwn.net/Articles/1049558/\"\u003e6.6.119\u003c/a\u003e,\n\u003ca href=\"https://lwn.net/Articles/1049559/\"\u003e6.1.159\u003c/a\u003e,\n\u003ca href=\"https://lwn.net/Articles/1049560/\"\u003e5.15.197\u003c/a\u003e, and\n\u003ca href=\"https://lwn.net/Articles/1049555/\"\u003e5.10.247\u003c/a\u003e stable kernels. Each contains important fixes throughout the tree; users of these kernels should upgrade.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1049554/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-07T15:48:39Z"
+    }
+  },
+  {
+    "hash": "cfd807957aafa778dcb7c3aa58d1584ad392f0ec9c04ca7862c3fb97998dc6fd",
+    "item": {
+      "title": "Linux 6.19 Introduces PCIe Link Encryption \u0026 Device Authentication, AMD SEV-TIO Enabling",
+      "description": "One of the most exciting merges this weekend to the Linux 6.19 kernel is establishing the infrastructure for supporting PCI Express link encryption and device authentication. Multiple vendors are working on PCIe link encryption for their hardware while this initial pull begins laying the foundation of AMD SEV-TIO Trusted I/O support for the mainline kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-PCIe-Link-Encrypt"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-07T17:26:31Z"
+    }
+  },
+  {
+    "hash": "6cf7bcae2ab5957487169c52d16cb5e20bf328a11bee2f9ac275606a3e928814",
+    "item": {
+      "title": "I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183294\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T17:18:54Z"
+    }
+  },
+  {
+    "hash": "f792a42221c80526553f1b5546f8914e6aefd57106389b93749509e74a07aa17",
+    "item": {
+      "title": "Scala 3 slowed us down?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46182202\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T15:08:17Z"
+    }
+  },
+  {
+    "hash": "584e63b30e4c1a57384541ccfbdf08b04ffb09000275f945be8a41cb328fc597",
+    "item": {
+      "title": "An Interactive Guide to the Fourier Transform",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46118358\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T06:50:17Z"
+    }
+  },
+  {
+    "hash": "ee5023098aa5e3c8acd0e64ac8e8936f03b6eba7a35fd97122167a897458dd0f",
+    "item": {
+      "title": "Building a Toast Component",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46135145\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://emilkowal.ski/ui/building-a-toast-component"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-03T14:51:54Z"
+    }
+  },
+  {
+    "hash": "8236271108b149ef199135b649ea5fc234f96b5a5d9bc85502914fddb04c11ba",
+    "item": {
+      "title": "Semantic Compression (2014)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183091\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://caseymuratori.com/blog_0015"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T16:55:15Z"
+    }
+  },
+  {
+    "hash": "83b60394d1acfdc1614b939c4fb57e196cf57a52afe0313798439183769c55a2",
+    "item": {
+      "title": "The AI Wildfire Is Coming. It's Going to Be Painful and Healthy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183011\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T16:43:38Z"
+    }
+  },
+  {
+    "hash": "9e960129e20f1d047590dacb43d1977075614d983e59f7d563bcd79bbafd4549",
+    "item": {
+      "title": "Locks in PostgreSQL",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46182496\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://habr.com/en/companies/postgrespro/articles/504498/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T15:42:02Z"
+    }
+  },
+  {
+    "hash": "bbc1ab50035a4154be3cdb0e101111d55b243ae0947d4e00fbf0fda23a4900e1",
+    "item": {
+      "title": "Vanity Activities",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46111448\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://quarter--mile.com/vanity-activities"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-01T18:57:21Z"
+    }
+  },
+  {
+    "hash": "0c0d7f2cc7ca8522e66d2127649ec7e3d1ca4afc0bd874e5cf0fe9f1df136501",
+    "item": {
+      "title": "The programmers who live in Flatland",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46070298\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-27T15:44:32Z"
+    }
+  },
+  {
+    "hash": "d1b8baaff20d4b43f35778e9ac121ca66f5fb65ab30b32c6cc0f7402534dcd07",
+    "item": {
+      "title": "OpenAI disables ChatGPT app suggestions that looked like ads",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46182582\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T15:52:18Z"
+    }
+  },
+  {
+    "hash": "e85691a7b8791dbfd701293990c65f90fe6976a9f5e87ac6a69b252d52d70662",
+    "item": {
+      "title": "Martin Parr has died",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46182340\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cg5m0mnvnvmo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T15:23:48Z"
+    }
   }
 ]
