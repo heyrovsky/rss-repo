@@ -2999,5 +2999,459 @@
       },
       "published": "2025-12-08T14:47:34Z"
     }
+  },
+  {
+    "hash": "bb6954c4cb7489c66956dbea4cd850209da4759a594e6c9d355eaa4c8a42dec4",
+    "item": {
+      "title": "[$] Disagreements over post-quantum encryption for TLS",
+      "description": "\u003cp\u003e\nThe\n\u003ca href=\"https://www.ietf.org/\"\u003e\nInternet Engineering Task Force\u003c/a\u003e (IETF) is the standards body responsible\nfor the TLS encryption standard — which your browser is using right now\nto allow you to read LWN.net. As part of its work to keep TLS secure, the IETF\nhas been entertaining\n\u003ca href=\"https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/\"\u003e\nproposals\u003c/a\u003e to adopt \"post-quantum\" cryptography (that is,\ncryptography that is not known to be easily broken by a quantum computer) for TLS\nversion 1.3. Discussion of the proposal has exposed a large disagreement between\nparticipants who worried about weakened security and others who worried about\nweakened marketability.\n\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1048978/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "daroc"
+        }
+      ],
+      "published": "2025-12-08T18:27:58Z"
+    }
+  },
+  {
+    "hash": "b0db1a0185c26ece7661320be147ad2095625a5bbd00b72020d9535d3edd39ab",
+    "item": {
+      "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
+      "description": "Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSupport RAT.\nThe attack chain, analyzed by Securonix, involves three main moving parts: An obfuscated JavaScript loader injected into a website, an HTML Application (HTA) that runs encrypted",
+      "links": [
+        "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCgAhdt5sz3PXhLRrV59c310Qk-9hJwShYKfrpg9cq5fdx7FH4hzseiqnNqE8X0_skZaT476KMf0GzbvSRJjQeO15Ra468a4l5C71u-nXGm3IrRQXlDzgf-_lYNldneG0WwsR81AK7jSvkeaO49RZlYoWTbATFVSAFDIl1NOogHhOUpzyc3IXTsQz6WyMv/s1600/hacked-website.jpg"
+      },
+      "published": "2025-12-08T17:37:00Z"
+    }
+  },
+  {
+    "hash": "7508192a2bbfb1baa40ea808c74f39f7db03fc29596946e70921308ea8dad6ad",
+    "item": {
+      "title": "Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover",
+      "description": "Paramount has already proven it can get a controversial merger done. ",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/"
+      ],
+      "categories": [
+        "Tech",
+        "acquisition",
+        "hbo max",
+        "paramount",
+        "streaming",
+        "warner bros. discovery"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Scharon Harding"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-1024x648.jpg"
+      },
+      "published": "2025-12-08T18:36:16Z"
+    }
+  },
+  {
+    "hash": "fa3991d4b61ef63aae4996eaed10637f8382d7ac48d6dbc1879f2c4a0cd41615",
+    "item": {
+      "title": "The Boys gears up for a supe-ocalypse in S5 teaser",
+      "description": "\"So how about it, you lot? One last go?\"",
+      "links": [
+        "https://arstechnica.com/culture/2025/12/the-boys-gears-up-for-a-supe-ocalypse-in-s5-teaser/"
+      ],
+      "categories": [
+        "Culture",
+        "entertainment",
+        "prime video",
+        "The Boys",
+        "Trailers",
+        "TV trailers"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/boys2-1152x648-1765118776.jpg"
+      },
+      "published": "2025-12-08T14:03:30Z"
+    }
+  },
+  {
+    "hash": "e1fb6f4a215507686fbcf903ea5555d47254447ac204593c883eb195205c86be",
+    "item": {
+      "title": "Linux 6.19's Hung Task \u0026 System Lockup Detectors Can Provide Greater Insight",
+      "description": "Beginning with the Linux 6.19 kernel, the hung task detector and system lock-up detector are now optionally able to provide greater insight into the issues by dumping additional system information. The new lockup_sys_info and hung_task_sys_info sysctl knobs were merged over as part of the pull requests managed by Andrew Morton...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Detectors-More-Info"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-08T21:00:32Z"
+    }
+  },
+  {
+    "hash": "4a4aba74141917997445022062c3c35507ae6207c4bddd7a62e865a466f2e20b",
+    "item": {
+      "title": "Live Update Orchestrator \"LUO\" Merged For Linux 6.19",
+      "description": "Google engineers for the past number of months have been working on the Live Update Orchestrator as a new way of applying live Linux kernel updates. The Live Update Orchestrator \"LUO\" builds atop the Kexec Handover \"KHO\" functionality already within the kernel. Google has since been deplyoing LUO in their production environments for faster security updates to kernels, especially when involving VMs. LUO is now upstream in Linux 6.19...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Live-Update-LUO"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-08T20:17:07Z"
+    }
+  },
+  {
+    "hash": "0100af0afb95e3f89c2841f49868e5113a2e7a090283231767a4b99563e2fe8f",
+    "item": {
+      "title": "Meson 1.10 Build System Adds OS/2 Support, Experimental C++ \"import std\"",
+      "description": "Meson 1.10 is out today as the newest feature release for this popular cross-platform build system...",
+      "links": [
+        "https://www.phoronix.com/news/Meson-1.10-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-08T18:22:09Z"
+    }
+  },
+  {
+    "hash": "42ef69ad1c33749cb5c05be96f9307aeeb59a0b07be981e990ddd5f087833734",
+    "item": {
+      "title": "Jepsen: NATS 2.12.1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46196105\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jepsen.io/analyses/nats-2.12.1"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T18:51:03Z"
+    }
+  },
+  {
+    "hash": "a7713f78cdf9943bb433e50af6f2d61bdf9b7b786decacf9cfe9baa2134b9b9a",
+    "item": {
+      "title": "Deep dive on Nvidia circular funding",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46196076\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T18:48:27Z"
+    }
+  },
+  {
+    "hash": "102daec6c0ebb6ea2b487daee942066da28ba0651bed6e638988758deb349d10",
+    "item": {
+      "title": "IBM to acquire Confluent",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192130\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.confluent.io/blog/ibm-to-acquire-confluent/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T13:43:59Z"
+    }
+  },
+  {
+    "hash": "f6f61b9cd3b5c2b9f93b33cbb04fd3dca69f2f23eda11c8b4ec1f3772b1ef90b",
+    "item": {
+      "title": "We collected 10k hours of neuro-language data in our basement",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46195109\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://condu.it/thought/10k-hours"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T17:33:13Z"
+    }
+  },
+  {
+    "hash": "dc239394375da58dbe942959a49679becfec4487b7b9b0f4dd4ebd6c9face6be",
+    "item": {
+      "title": "Microsoft Download Center Archive",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46166178\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://legacyupdate.net/download-center/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T19:33:28Z"
+    }
+  },
+  {
+    "hash": "148f0dc6401b5d366c4f75f04de7c8555d735f23c1222e9c4d75b965e75b7d55",
+    "item": {
+      "title": "Microsoft increases Office 365 and Microsoft 365 license prices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192186\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T13:49:21Z"
+    }
+  },
+  {
+    "hash": "eadc87b74866a37aea727471258950ae996233b6746fcc32d8406f0ef29f4399",
+    "item": {
+      "title": "Word spacing",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46157914\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://en.wikipedia.org/wiki/Word_spacing"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T08:08:42Z"
+    }
+  },
+  {
+    "hash": "2e7e2bb6f726393281e48424cd506d3f2270769024255cb91ad87f977acad6b9",
+    "item": {
+      "title": "Paramount launches hostile bid for Warner Bros",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192459\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T14:16:34Z"
+    }
+  },
+  {
+    "hash": "f3a8aab9695015e55422dfb7495105eb77fdb00eb83ca37de977697ccf302e77",
+    "item": {
+      "title": "GitHub no longer uses Toasts",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46196831\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://primer.style/accessibility/toasts/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T19:58:41Z"
+    }
+  },
+  {
+    "hash": "146d05e88191abaca85a89421f5e782c2451040f6b89413138364304f5c859f3",
+    "item": {
+      "title": "Quanta to publish popular math and physics books by Terence Tao and David Tong",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46195225\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T17:39:55Z"
+    }
+  },
+  {
+    "hash": "a9815032b477f5bfe75b5666ec5d5e74fca1268f58a0847647dcf6bf028e4046",
+    "item": {
+      "title": "No more O'Reilly subscriptions for me",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46194063\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T16:14:52Z"
+    }
+  },
+  {
+    "hash": "298211b05c693929478ef9176e7f635b8726b70b6d2d9e7f8f289a6ed9cf53eb",
+    "item": {
+      "title": "Trials avoid high risk patients and underestimate drug harms",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46196308\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nber.org/papers/w34534"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T19:07:59Z"
+    }
+  },
+  {
+    "hash": "e7b989faf5d502a262ba5d76bafa7c07c2d2144e88f04a373e3cd2d1db32cb42",
+    "item": {
+      "title": "Alignment is capability",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46191933\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.off-policy.com/alignment-is-capability/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T13:23:29Z"
+    }
+  },
+  {
+    "hash": "7ea63faa99bd2d8e4e5f0b66d26f8f9f5e87dc1b887c8504cdb17e1cca0b1b96",
+    "item": {
+      "title": "Google confirms Android attacks; no fix for most Samsung users",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46194315\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T16:32:50Z"
+    }
+  },
+  {
+    "hash": "72d2cd4ed58fa60806f7b19b6ef8cfb4579a10dc7664f8cbd78fd178a13c0a39",
+    "item": {
+      "title": "Wayland Nvidia",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145790\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://kextcache.com/wayland-nvidia-a-definite-2025-guide/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T10:00:24Z"
+    }
+  },
+  {
+    "hash": "4e0e3a313d04ade9bfb55e01e1bf0425cfb517fb31d3df8a6c1eddd5981ce1da",
+    "item": {
+      "title": "Cancer is surging, bringing a debate about whether to look for it",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46196545\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T19:30:28Z"
+    }
+  },
+  {
+    "hash": "dd9a114d939188d484ac29233316ffed728c91bbb2f99103324cbe2ef27dab96",
+    "item": {
+      "title": "Uber is turning data about trips and takeout into insights for marketers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192962\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T15:00:29Z"
+    }
+  },
+  {
+    "hash": "c75338e335967202c65a132e71d38d601dedbf9afd67bb7c4384bfb3e6048747",
+    "item": {
+      "title": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain",
+      "description": "\u003cp\u003eAt Abu Dhabi Finance Week, OKX CEO Star Xu has argued that on-chain finance has begun to support a shift in global economic activity, citing stablecoin growth, tokenized assets, self-custody wallets and regulatory work in major markets for compliant blockchain-based settlement.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/okx-ceo-star-xu-says-50-of-global-economy-will-run-on-blockchain/\"\u003eOKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/okx-ceo-star-xu-says-50-of-global-economy-will-run-on-blockchain/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "OKX",
+        "Stablecoin",
+        "Tokenization"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/08181437/1765217676-image-1765217602728_optimized.jpg"
+      },
+      "published": "2025-12-08T20:47:13Z"
+    }
+  },
+  {
+    "hash": "052d8ae1d573cfc34fc62131d9d79318fe745ecd6d120576f9b4766ef6f01499",
+    "item": {
+      "title": "JPMorgan CEO Drops Debanking Bombshell: “We Cut Republicans and Democrats” – No One’s Safe",
+      "description": "\u003cp\u003eJPMorgan CEO Jamie Dimon has denied that the bank has engaged in politically driven “debanking,” as crypto executives, Trump allies, Democrats and regulators debate Operation Chokepoint 2.0, de-risking, compliance with subpoenas and ongoing congressional probes.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/jpmorgan-ceo-admits-debanking-republicans-democrats/\"\u003eJPMorgan CEO Drops Debanking Bombshell: “We Cut Republicans and Democrats” – No One’s Safe\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/jpmorgan-ceo-admits-debanking-republicans-democrats/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Finance News",
+        "News",
+        "Banking",
+        "DeBank",
+        "JPMorgan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/08085847/1765184326-0_1128_optimized.jpg"
+      },
+      "published": "2025-12-08T20:41:58Z"
+    }
+  },
+  {
+    "hash": "0d73b135ecfcb149cd131b094b7301d10983efb5a153d13aee2b60e63b4afd06",
+    "item": {
+      "title": "Mantra CEO Issues Urgent Warning: “Withdraw Your OM From OKX Now” – Migration Crisis Escalates",
+      "description": "\u003cp\u003eMantra has disputed OKX’s OM migration schedule, saying published dates conflict with governance rules and technical timelines, after a $6B crash that has already shaken confidence, leaving exchange users reassessing custody, migration options, and communication gaps.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/mantra-ceo-urges-om-holders-withdraw-okx/\"\u003eMantra CEO Issues Urgent Warning: \u0026#8220;Withdraw Your OM From OKX Now\u0026#8221; – Migration Crisis Escalates\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/mantra-ceo-urges-om-holders-withdraw-okx/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "MANTRA",
+        "OKX"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/08190851/1765220930-image-1765220897379_optimized.jpg"
+      },
+      "published": "2025-12-08T20:28:02Z"
+    }
+  },
+  {
+    "hash": "3320cf56faf5de0a2af9eb3f7d7df82ce290e74e61329790b4531d6755083428",
+    "item": {
+      "title": "Bitcoin Price Prediction: Bernstein Says 4-Year Cycle Is Broken as Institutions Drive an ‘Elongated Bull Market,’ Raises 2026 Target to $150K",
+      "description": "\u003cp\u003eBernstein has raised its 2026 Bitcoin price target to $150,000, declaring the traditional 4-year cycle broken as institutional buying through ETFs offsets retail selling and creates an elongated bull market structure.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-bernstein-says-4-year-cycle-is-broken-as-institutions-drive-an-elongated-bull-market-raises-2026-target-to-150k/\"\u003eBitcoin Price Prediction: Bernstein Says 4-Year Cycle Is Broken as Institutions Drive an \u0026#8216;Elongated Bull Market,\u0026#8217; Raises 2026 Target to $150K\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-bernstein-says-4-year-cycle-is-broken-as-institutions-drive-an-elongated-bull-market-raises-2026-target-to-150k/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/08181641/1765217800-chatgpt-image-dec-2-2025-09_27_13-pm_optimized.jpg"
+      },
+      "published": "2025-12-08T18:46:06Z"
+    }
   }
 ]
