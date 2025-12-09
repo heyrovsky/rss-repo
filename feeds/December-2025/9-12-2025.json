@@ -506,5 +506,172 @@
       },
       "published": "2025-12-08T21:55:32Z"
     }
+  },
+  {
+    "hash": "6074dabfac2b2c7a5874836df2933aef6fc9adcbdf2b1ce977ea935b0551763f",
+    "item": {
+      "title": "Rust-Based Project Aims To Provide Modern Thumbnails For Audio/Video Files On GNOME",
+      "description": "Since Showtime replaced Totem as the default video player of GNOME, the desktop has lacked thumbnail capabilities for audio and video files. But to address that defect, the Rust-based gst-thumbnailers project has been in development to leverage GStreamer and paired with Rust to provide safe thumbnail generation capabilities for audio and video content...",
+      "links": [
+        "https://www.phoronix.com/news/gst-thumbnailers-1.0-alpha"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-09T01:42:00Z"
+    }
+  },
+  {
+    "hash": "c6f39c91f4bac67e43b26ec9f4b4fe739a927c01133dd9b3bbd031b7f592de12",
+    "item": {
+      "title": "Mesa 26.0 Lands Initial Support For Adreno Gen 8 - Including For The Snapdragon X2",
+      "description": "The newest Mesa 26.0-devel code as of today has landed initial support for Qualcomm Adreno Gen 8 graphics into the Freedreno Gallium3D driver. The Adreno Gen 8 graphics so far are most notably used by the new Snapdragon X2 Elite laptop SoC with its X2-85 GPU as well as the new Snapdragon 8 Elite Gen 5 with Adreno 840 graphics...",
+      "links": [
+        "https://www.phoronix.com/news/Freedreno-Lands-Adreno-Gen-8"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-09T01:21:38Z"
+    }
+  },
+  {
+    "hash": "f72d6e58a02b116cbea42de2365d2af7ee14ddc0583802580374ea5f1b993ac8",
+    "item": {
+      "title": "The universal weight subspace hypothesis",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46199623\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2512.05117"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T00:16:46Z"
+    }
+  },
+  {
+    "hash": "c9a731b37051c93565ea31ca9a340f17d166f2440f74d034d17dfb0d463b9218",
+    "item": {
+      "title": "Horses: AI progress is steady. Human equivalence is sudden",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46199723\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://andyljones.com/posts/horses.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T00:26:35Z"
+    }
+  },
+  {
+    "hash": "ce0d33eff0fb9f8d464efa94861cc141d01749840e2c2a00ac029760957d1f5a",
+    "item": {
+      "title": "The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46199950\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.untappedcities.com/automats-cafeterias-nyc/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T00:51:31Z"
+    }
+  },
+  {
+    "hash": "0da6af6bf4d6088c366f43636829b97b4c3abdfc1e57124fef9f9629a19d29da",
+    "item": {
+      "title": "OSHW: Small tablet based on RK3568 and AMOLED screen",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46136277\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-03T16:19:53Z"
+    }
+  },
+  {
+    "hash": "eb774e71873e72b6112118ea59930fcb3a3b73278a502513fc47329b8d2c9749",
+    "item": {
+      "title": "Scientific and Technical Amateur Radio",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46199935\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://destevez.net/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T00:50:32Z"
+    }
+  },
+  {
+    "hash": "a263dcf3d3cbdc98f96d4856587452696bbb46d4ca0f03ca7d8aa295a937b8ad",
+    "item": {
+      "title": "Latency Profiling in Python: From Code Bottlenecks to Observability",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46120732\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://quant.engineering/latency-profiling-in-python.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T12:55:31Z"
+    }
+  },
+  {
+    "hash": "64fccf4f6d9638cbc81883acd1e4ef613697eb63093964eb0b7970f868198277",
+    "item": {
+      "title": "Cassette tapes are making a comeback?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46143818\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://theconversation.com/cassette-tapes-are-making-a-comeback-yes-really-268108"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T04:30:25Z"
+    }
+  },
+  {
+    "hash": "d823041f011fa83ee7a5e573d392cf08071190275ba87ae545e3eec9af291b64",
+    "item": {
+      "title": "Everything that is wrong in museums starts with wall labels",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46128639\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.aaronland.info/weblog/2025/11/20/cafeteria/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-03T00:03:21Z"
+    }
+  },
+  {
+    "hash": "4e975b04a96bb825cac62ed036f43b833b4cfb216380c4fde0cffa6abc12cd40",
+    "item": {
+      "title": "Intel 8086 Microcode Explorer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154114\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nand2mario.github.io/8086_microcode.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T22:34:54Z"
+    }
+  },
+  {
+    "hash": "67d484b4fdd7c673c337c099413253c13379882f240a7d2ff3ea575398c9261a",
+    "item": {
+      "title": "Asia Market Open: Bitcoin Pauses At $90k As Anxiety Over Fed’s Next Moves Hits Equities",
+      "description": "\u003cp\u003eBitcoin held near $90,000 as Asian stocks slipped and traders grew uncertain about how quickly the Fed will ease after this week’s expected rate cut.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-anxiety-fed-next-moves-hits-stocks-asia-market-open/\"\u003eAsia Market Open: Bitcoin Pauses At $90k As Anxiety Over Fed’s Next Moves Hits Equities\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-anxiety-fed-next-moves-hits-stocks-asia-market-open/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Asia",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/09021625/1765246583-asia-market-open-cover.png"
+      },
+      "published": "2025-12-09T02:22:37Z"
+    }
   }
 ]
