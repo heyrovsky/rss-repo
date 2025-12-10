@@ -468,5 +468,201 @@
       },
       "published": "2025-12-09T22:08:00Z"
     }
+  },
+  {
+    "hash": "bc0609d2a384c3718af08b0f7cc6a675821c4bba7384147783dbd8afbcc1080f",
+    "item": {
+      "title": "The end of the kernel Rust experiment",
+      "description": "The topic of the Rust experiment was just discussed at the annual\nMaintainers Summit.  The consensus among the assembled developers is that\nRust in the kernel is no longer experimental — it is now a core part of the\nkernel and is here to stay.  So the \"experimental\" tag will be coming off.\nCongratulations are in order for all of the Rust-for-Linux team.\n\u003cp\u003e\n(Stay tuned for details in our Maintainers Summit coverage.)",
+      "links": [
+        "https://lwn.net/Articles/1049831/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-12-10T02:57:53Z"
+    }
+  },
+  {
+    "hash": "3507c654cc3d9aea023d7537fbeec932e70ed5b5ce3293692462587b4c515cca",
+    "item": {
+      "title": "Fedora Cloud Will Switch To /boot As A Btrfs Subvolume",
+      "description": "The Fedora Engineering and Steering Committee \"FESCo\" today signed off on a new feature for Fedora Cloud 44 to switch /boot to being as a Btrfs sub-volume rather than a separate partition...",
+      "links": [
+        "https://www.phoronix.com/news/Fedora-Cloud-Btrfs-Boot"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-10T01:34:16Z"
+    }
+  },
+  {
+    "hash": "fad3b4a0543f7210eb6b69259b02ada24961b695217766517c4edf5bd859ad5c",
+    "item": {
+      "title": "Linux 6.19 For RISC-V Brings Parallel CPU Hotplugging, Zalasr Ratified ISA Support",
+      "description": "The RISC-V CPU architecture changes have been merged for the in-development Linux 6.19 kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-RISC-V"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-10T01:25:27Z"
+    }
+  },
+  {
+    "hash": "3543180204b12e9a40794766eef6c459b8371cd67dae2633ef0e6459a6020b36",
+    "item": {
+      "title": "Making macOS Bearable",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46213385\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://seg6.space/posts/making-macos-bearable/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T02:37:34Z"
+    }
+  },
+  {
+    "hash": "978b9ba2a6c47e8e6b27a179ae1cd76bf854f6aaa4092868afec161cc774f088",
+    "item": {
+      "title": "NYC congestion pricing cuts air pollution by a fifth in six months",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46213504\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T02:58:45Z"
+    }
+  },
+  {
+    "hash": "9d645b7c2e98a1c686e460b8deb89cdcfa99c376f8e89ed3cb015683836f9ab5",
+    "item": {
+      "title": "The end of the kernel Rust experiment",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46213585\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lwn.net/Articles/1049831/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T03:15:24Z"
+    }
+  },
+  {
+    "hash": "54b497e7117606c7f431818fb8ccbd89b878f559c888e49ec14fef880a2780e5",
+    "item": {
+      "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46205437\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://mistral.ai/news/devstral-2-vibe-cli"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T14:45:01Z"
+    }
+  },
+  {
+    "hash": "506ab208783c41920c51ae34148dd9e16815eb133b42a25910d8087e3a8ba9c9",
+    "item": {
+      "title": "Writing our own Cheat Engine in Rust",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46158803\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lonami.dev/blog/woce-1/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T09:21:16Z"
+    }
+  },
+  {
+    "hash": "26ed0aaee462d50d7407aea3233e55c926439bdd649bc4a6d77ed9c5ee09bd1e",
+    "item": {
+      "title": "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46212969\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://zenodo.org/records/17873275"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T01:25:00Z"
+    }
+  },
+  {
+    "hash": "d67d9bebab67dd6320309563077f37228d9cbc5dc32a77091a7c152f9875a58f",
+    "item": {
+      "title": "Operando interlayer expansion of curved graphene for dense supercapacitors",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46147996\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/s41467-025-63485-0"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T14:26:30Z"
+    }
+  },
+  {
+    "hash": "53785e0e589ed2669636ab92cde32857ae34bd00961328e3cfeef021de83b1ef",
+    "item": {
+      "title": "When a video codec wins an Emmy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46164197\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T17:15:01Z"
+    }
+  },
+  {
+    "hash": "3fc1a892c4d4711699d6d8b8f2ff54320357be728dd3ddfad71f4fc752470a27",
+    "item": {
+      "title": "Show all your application error using Cloudflare Error Page",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46213273\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/donlon/cloudflare-error-page"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T02:18:07Z"
+    }
+  },
+  {
+    "hash": "b2e963750057232ed10d2603a1157c4d3e936ffa4415ef9d6d889c3243a03029",
+    "item": {
+      "title": "The AI-Education Death Spiral a.k.a. Let the Kids Cheat",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46213045\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://anandsanwal.me/ai-education-death-spiral/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T01:36:56Z"
+    }
+  },
+  {
+    "hash": "65727dd74a8070335b446622c2ebe826f1e260166961411d3fd315e303463517",
+    "item": {
+      "title": "Asia Market Open: Bitcoin Inches Higher, While Stocks Retreat Ahead of Fed Rate Call",
+      "description": "\u003cp\u003eBitcoin hovered near $92,000 as Asian stocks slipped, with traders bracing for the Fed’s final rate cut of the year and a potentially hawkish message to follow.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-stocks-retreat-ahead-fed-rate-call-asia-market-open/\"\u003eAsia Market Open: Bitcoin Inches Higher, While Stocks Retreat Ahead of Fed Rate Call\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-stocks-retreat-ahead-fed-rate-call-asia-market-open/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Asia",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10022748/1765333666-asia-market-open-cover.png"
+      },
+      "published": "2025-12-10T02:34:14Z"
+    }
   }
 ]
