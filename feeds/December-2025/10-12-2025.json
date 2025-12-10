@@ -2984,5 +2984,667 @@
       },
       "published": "2025-12-10T15:46:06Z"
     }
+  },
+  {
+    "hash": "50f9770aa194f29e773dcb2f151f2b67dfe9684155de2ef99e0abf6b0a509f0e",
+    "item": {
+      "title": "10 Years of Let's Encrypt Certificates",
+      "description": "\u003cp\u003eLet's Encrypt has \u003ca\nhref=\"https://letsencrypt.org/2025/12/09/10-years.html\"\u003epublished\u003c/a\u003e\na retrospective that covers the decade since it published its first\npublicly trusted certificate in September 2015:\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\nIn March 2016, we issued our one millionth certificate. Just two years\nlater, in September 2018, we were issuing a million certificates every\nday. In 2020 we reached a billion total certificates issued and as of\nlate 2025 we're frequently issuing ten million certificates per\nday. We're now on track to reach a billion active sites, probably\nsometime in the coming year.\n\u003c/blockquote\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1049965/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-10T18:29:51Z"
+    }
+  },
+  {
+    "hash": "8a96c3829f8f8cae6b8e4f7957ab46fbec1e950ef01801c9eb75b66ce4c34860",
+    "item": {
+      "title": "Kroah-Hartman: Linux CVEs, more than you ever wanted to know",
+      "description": "\u003cp\u003eGreg Kroah-Hartman is \u003ca\nhref=\"http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/\"\u003ewriting\na series of blog posts\u003c/a\u003e about Linux becoming a Certificate\nNumbering Authority (CNA):\u003c/p\u003e\n\n\u003cblockquote class=\"bq\"\u003e\n\u003cp\u003eIt's been almost 2 full years since \u003ca href=\"http://www.kroah.com/log/blog/2024/02/13/linux-is-a-cna/\"\u003eLinux became a CNA (Certificate\nNumbering Authority)\u003c/a\u003e which meant that we (i.e. the kernel.org\ncommunity) are now responsible for issuing all CVEs for the Linux\nkernel. During this time, we've become one of the largest creators of\nCVEs by quantity, going from nothing to number 3 in 2024 to number 1\nin 2025. Naturally, this has caused some questions about how we are\nboth doing all of this work, and how people can keep track of it.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003eSo far, Kroah-Hartman has published the introductory post, as well\nas a \u003ca\nhref=\"http://www.kroah.com/log/blog/2025/12/09/linux-kernel-version-numbers/\"\u003edetailed\npost about kernel version numbers\u003c/a\u003e that is well worth reading.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1049963/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-10T18:24:35Z"
+    }
+  },
+  {
+    "hash": "9d8f013c4b33b08adfccdcff738441878808d9ea461b74ea38beb1b072448d79",
+    "item": {
+      "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader",
+      "description": "Amazon has added color e-ink to its devices more slowly than its competitors.",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/"
+      ],
+      "categories": [
+        "Tech",
+        "Amazon",
+        "kindle",
+        "kindle colorsoft",
+        "kindle scribe",
+        "kindle scribe colorsoft"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Andrew Cunningham"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/download-1152x648.jpeg"
+      },
+      "published": "2025-12-10T18:40:58Z"
+    }
+  },
+  {
+    "hash": "e035e9654dd360b7a868813cd7504b024879c17b5d022aec2cb9347ec8091e68",
+    "item": {
+      "title": "US taking 25% cut of Nvidia chip sales “makes no sense,” experts say",
+      "description": "Trump’s odd Nvidia reversal may open the door for China to demand Blackwell access.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/12/us-taking-25-cut-of-nvidia-chip-sales-makes-no-sense-experts-say/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "AI chips",
+        "china",
+        "Donald Trump",
+        "NVIDIA",
+        "us-china trade war"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2212801610-1024x648.jpg"
+      },
+      "published": "2025-12-10T18:30:45Z"
+    }
+  },
+  {
+    "hash": "1503542878e504437486cb41189fb101d2a9f185b484fc01ccce9aa249879df9",
+    "item": {
+      "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
+      "description": "It is by no means certain that Russia will be able to fix Site 31 soon.",
+      "links": [
+        "https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/"
+      ],
+      "categories": [
+        "Space",
+        "dragon",
+        "russia",
+        "site 31",
+        "space",
+        "spacex"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Eric Berger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/51842830239_a0768f7dc5_k-1152x648.jpg"
+      },
+      "published": "2025-12-10T18:13:52Z"
+    }
+  },
+  {
+    "hash": "196d3f98a6950600b1c8fc3472a04acc20f8ae7d87dfb67f8e2000d7f1f0ee6c",
+    "item": {
+      "title": "Aave (AAVE) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Aave-Price-prediction-design.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Aave (AAVE) Price Prediction 2025, 2026-2030\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/11/Aave-Price-prediction-design.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2024/11/Aave-Price-prediction-design-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2024/11/Aave-Price-prediction-design-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Aave (AAVE) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of AAVE by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Aave (AAVE) Current Market Status What is Aave (AAVE)? Aave (AAVE) 24H Technicals AAVE (AAVE)",
+      "links": [
+        "https://thenewscrypto.com/aave-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "AAVE",
+        "Aave Pro",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/11/Aave-Price-prediction-design.jpg"
+      },
+      "published": "2025-12-10T15:24:16Z"
+    }
+  },
+  {
+    "hash": "c0d213f3d792a6a267344f66f5da0d7f9733b587929ead2de3cafb7f2386f5c2",
+    "item": {
+      "title": "Sei (SEI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"1521\" height=\"857\" src=\"https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sei (SEI) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM.jpeg 1521w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-1024x577.jpeg 1024w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-768x433.jpeg 768w, https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 1521px) 100vw, 1521px\" /\u003e\u003c/p\u003eIn this Sei (SEI) price prediction 2025, 2026-2030, we will analyze the price patterns of SEI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Sei (SEI) Current Market Status What is Sei (SEI)? Sei (SEI) 24H Technicals SEI (SEI)",
+      "links": [
+        "https://thenewscrypto.com/sei-sei-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-18-at-4.59.16-PM.jpeg"
+      },
+      "published": "2025-12-10T15:21:13Z"
+    }
+  },
+  {
+    "hash": "88dc03b439bc65bd53fc1f1245d9c5775db7dd260da5c5938440916c27366202",
+    "item": {
+      "title": "Pi (PI) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Pi_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Pi (PI) Price Prediction 2025, 2026-2030\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/02/Pi_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/02/Pi_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/02/Pi_Price-prediction-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Pi (PI) price prediction 2025, 2026-2030, we will analyze the price patterns of PI by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency.\u0026#160; TABLE OF CONTENTS INTRODUCTION Pi (PI) Current Market Status What is Pi (PI)? Pi (PI) 24H Technicals PI PRICE",
+      "links": [
+        "https://thenewscrypto.com/pi-pi-price-prediction-2025-2026-2030/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Crypto Market",
+        "Pi",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/02/Pi_Price-prediction.jpg"
+      },
+      "published": "2025-12-10T15:17:23Z"
+    }
+  },
+  {
+    "hash": "667a71f14879307dec5e7b434714956c717acee9d364a779c24d00c8fc8ae2eb",
+    "item": {
+      "title": "Cardano (ADA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Cardano (ADA)\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction-150x84.jpg 150w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Cardano (ADA) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of ADA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Cardano (ADA) Current Market Status What is Cardano (ADA)? Cardano (ADA) 24H Technicals CARDANO (ADA)",
+      "links": [
+        "https://thenewscrypto.com/ada-cardano-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "ADA",
+        "Cardano",
+        "Crypto Market",
+        "Cryptocurrency",
+        "price prediction"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/06/Cardano-ADA_Price-prediction.jpg"
+      },
+      "published": "2025-12-10T15:12:59Z"
+    }
+  },
+  {
+    "hash": "c57a4123b3774f69c9f9f5d81edff3061db51d1156d8efb30725fc2bd456f67d",
+    "item": {
+      "title": "BOLTS Launches Quantum-Resilience Pilot On Canton Network To Future-Proof $6T Real-World Assets",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"720\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/boltshero_1765369879GisTANHXvb.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/boltshero_1765369879GisTANHXvb.jpg 1200w, https://thenewscrypto.com/wp-content/uploads/2025/12/boltshero_1765369879GisTANHXvb-300x180.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/boltshero_1765369879GisTANHXvb-1024x614.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/boltshero_1765369879GisTANHXvb-768x461.jpg 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eGlencoe, Illinois, USA, 10th December 2025, Chainwire",
+      "links": [
+        "https://thenewscrypto.com/bolts-launches-quantum-resilience-pilot-on-canton-network-to-future-proof-6t-real-world-assets/"
+      ],
+      "categories": [
+        "Press Release"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Chainwire"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/boltshero_1765369879GisTANHXvb.jpg"
+      },
+      "published": "2025-12-10T14:07:39Z"
+    }
+  },
+  {
+    "hash": "c557de423148e295fcac08ffe3fbbb518af2272b0512e754fbf9d761445b5cb2",
+    "item": {
+      "title": "Soccerverse Secures FIFPRO License to Bring 65,000 Real Players On-Chain",
+      "description": "\u003cp\u003e\u003cimg width=\"1200\" height=\"700\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/go.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Soccerverse Secures FIFPRO License to Bring 65,000 Real Players On-Chain\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/go.png 1200w, https://thenewscrypto.com/wp-content/uploads/2025/12/go-300x175.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/go-1024x597.png 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/go-768x448.png 768w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /\u003e\u003c/p\u003eFootball management and trading game inspired by the community Soccerverse and FIFPRO, the international organization that represents professional football players, have inked a deal. More than 65,000 professional football players\u0026#8217; names and images may now be used by Soccerverse thanks to the new license, which significantly increases the game\u0026#8217;s credibility. The game",
+      "links": [
+        "https://thenewscrypto.com/soccerverse-secures-fifpro-license-to-bring-65000-real-players-on-chain/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Altcoin",
+        "Blockchain"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Mohamed Faisal"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/go.png"
+      },
+      "published": "2025-12-10T14:00:00Z"
+    }
+  },
+  {
+    "hash": "33fb730c76a579b4c292e20abc0ee31a33cd847a5c541575f0239e980d96e6f4",
+    "item": {
+      "title": "Folks Finance Announces xChain V2 With $10M+ Incentives: Scaling Crosschain Defi Into Mainstream Use",
+      "description": "\u003cp\u003e\u003cimg width=\"2045\" height=\"1152\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303.jpg 2045w, https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303-1024x577.jpg 1024w, https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303-768x433.jpg 768w, https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303-1536x865.jpg 1536w, https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303-376x212.jpg 376w\" sizes=\"auto, (max-width: 2045px) 100vw, 2045px\" /\u003e\u003c/p\u003e\u0026#160;Folks Finance, the leading crosschain lending protocol backed by Coinbase Ventures, Jump, ParaFi, and Borderless Capital, is entering its next development phase with the release of xChain V2, scheduled for H1 2026. To support the rollout, Folks Finance will allocate 1 million FOLKS (valued at ~$10M at the time of",
+      "links": [
+        "https://thenewscrypto.com/folks-finance-announces-xchain-v2-with-10m-incentives-scaling-crosschain-defi-into-mainstream-use/"
+      ],
+      "categories": [
+        "Press Release",
+        "Folks Finance"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Isabella"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/IMG_6303.jpg"
+      },
+      "published": "2025-12-10T14:00:00Z"
+    }
+  },
+  {
+    "hash": "1fa8626933c3d0970c138aa86c032c365ff7bc6f1f015f1b99fe472c1a01f1ec",
+    "item": {
+      "title": "Celestia (TIA) Price Prediction 2025, 2026-2030",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-22-at-10.04.34-AM.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Celestia (TIA) Price Prediction 2023, 2024-2030: we analyze the future movement of the cryptocurrency. Will the trend sustain or reverse?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-22-at-10.04.34-AM.jpeg 730w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-22-at-10.04.34-AM-300x169.jpeg 300w, https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-22-at-10.04.34-AM-376x212.jpeg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eIn this Celestia (TIA) price prediction 2025, 2026-2030,\u0026#160; we will analyze the price patterns of TIA by using accurate trader-friendly technical analysis indicators and predict the future movement of the cryptocurrency. TABLE OF CONTENTS INTRODUCTION Celestia (TIA) Current Market Status What is Celestia (TIA)? Celestia (TIA) 24H Technicals CELESTIA (TIA)",
+      "links": [
+        "https://thenewscrypto.com/celestia-tia-price-prediction/"
+      ],
+      "categories": [
+        "Crypto Price Prediction",
+        "Celestia",
+        "Crypto Market",
+        "Price preddiction",
+        "TIA"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Cianna Joy"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-22-at-10.04.34-AM.jpeg"
+      },
+      "published": "2025-12-10T13:44:13Z"
+    }
+  },
+  {
+    "hash": "34c8e694a5c3a7fcbad3502b629b4226e6e2205fba6f1143376fa2b7aecb4a04",
+    "item": {
+      "title": "BNB Could Reach $1,600: Ozak AI Price Prediction Outshines Every Major Altcoin",
+      "description": "\u003cp\u003e\u003cimg width=\"512\" height=\"287\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-1-2.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"BNB Could Reach $1,600: Ozak AI Price Prediction Outshines Every Major Altcoin\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-1-2.png 512w, https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-1-2-300x168.png 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-1-2-376x212.png 376w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" /\u003e\u003c/p\u003eOzak AI (OZ) is rapidly emerging as the strongest early-stage contender in the crypto market, with analysts increasingly noting that its long-term predictive trajectory outshines even the largest altcoins—including BNB.\u0026#160; While BNB builds a powerful bullish structure that could carry it toward $1,600 during the next major cycle, Ozak AI’s",
+      "links": [
+        "https://thenewscrypto.com/bnb-could-reach-1600-ozak-ai-price-prediction-outshines-every-major-altcoin/"
+      ],
+      "categories": [
+        "Press Release",
+        "Blockchain",
+        "Ozak AI"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Zayan"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/unnamed-1-2.png"
+      },
+      "published": "2025-12-10T13:30:00Z"
+    }
+  },
+  {
+    "hash": "6e55077db879cb05603b58f92deec6ae200910dfb699ec2ff554df96acfb9599",
+    "item": {
+      "title": "Ethereum (ETH) Bulls in Action: Will It Breeze Past $3.5K or Hit Headwinds?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Ethereum-ETH-Bulls-in-Action-Will-It-Breeze-Past-3.5K-or-Hit-Headwinds.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ethereum (ETH) Bulls in Action: Will It Breeze Past $3.5K or Hit Headwinds?\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Ethereum-ETH-Bulls-in-Action-Will-It-Breeze-Past-3.5K-or-Hit-Headwinds.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/Ethereum-ETH-Bulls-in-Action-Will-It-Breeze-Past-3.5K-or-Hit-Headwinds-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/Ethereum-ETH-Bulls-in-Action-Will-It-Breeze-Past-3.5K-or-Hit-Headwinds-376x212.jpg 376w\" sizes=\"auto, (max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eToday, the crypto market has shown some green shades, with the assets being bullish. Most of the digital assets are seeking to escape the bear hold, hoping the upside pressure to stay. The largest asset, Bitcoin (BTC), is trading at $92K. Meanwhile, the largest altcoin, Ethereum (ETH), has bounced back,",
+      "links": [
+        "https://thenewscrypto.com/ethereum-eth-bulls-in-action-will-it-breeze-past-3-5k-or-hit-headwinds/"
+      ],
+      "categories": [
+        "Ethereum News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "ETH",
+        "ETH Price",
+        "ETHEREUM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/Ethereum-ETH-Bulls-in-Action-Will-It-Breeze-Past-3.5K-or-Hit-Headwinds.jpg"
+      },
+      "published": "2025-12-10T13:09:27Z"
+    }
+  },
+  {
+    "hash": "a0c1e9e084237a3baba0a9d01d9bed32bce024a3352a62350caa7bc10a35bfac",
+    "item": {
+      "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+      "description": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
+      "links": [
+        "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
+      },
+      "published": "2025-12-10T20:19:00Z"
+    }
+  },
+  {
+    "hash": "d235bb46d880d4c00d853ce31b5e0d287c73e2d9e9da78a6063c350113231c66",
+    "item": {
+      "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+      "description": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
+      "links": [
+        "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
+      },
+      "published": "2025-12-10T19:21:00Z"
+    }
+  },
+  {
+    "hash": "fb6a50fc6a57779b8d4be1853692d20bfa68314c17d730b2c2a7117d712e33d0",
+    "item": {
+      "title": "Glibc Now Enabling 2MB THP On AArch64 By Default For Better Performance",
+      "description": "The GNU C Library's malloc implementation is now enabling 2MB Transparent Huge Pages (THP) by default for AArch64 Linux. This is being done in the name of better performance -- a healthy 6.25% performance improvement is noted for SPEC with this change...",
+      "links": [
+        "https://www.phoronix.com/news/Glibc-malloc-2MB-THP-AArch64"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-10T20:45:10Z"
+    }
+  },
+  {
+    "hash": "df9de09dc891de5d0528e9d67d3dac46856db6feed6f1ebb1841ab15ce9d3a29",
+    "item": {
+      "title": "Qt Toolkit Lands IO_uring Abstraction",
+      "description": "The newest feature to land in the cross-platform Qt toolkit is QIORing as an abstraction for Linux's IO_uring interface. This QIORing may also end up supporting Microsoft's Windows IORing implementation as well...",
+      "links": [
+        "https://www.phoronix.com/news/Qt-IO_uring-QIORing"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-10T20:37:36Z"
+    }
+  },
+  {
+    "hash": "af0a51f3d4f8866fd29338fd5984796356a008ef4e25cd7401d4674e13f91886",
+    "item": {
+      "title": "Super Mario 64 for the PS1",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46221925\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/malucard/sm64-psx"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T18:58:55Z"
+    }
+  },
+  {
+    "hash": "5ffbd36e3d22e69fd69b897e4461b320faca075111f03a977f424c1406525272",
+    "item": {
+      "title": "Scientists create ultra fast memory using light",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46150797\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T18:11:21Z"
+    }
+  },
+  {
+    "hash": "7b585c3be04b727c84b82d710bbd52a9bff8794ff552cb1dd3ef873a027f9c8a",
+    "item": {
+      "title": "Apple Services Experiencing Outage",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46223577\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.apple.com/support/systemstatus/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T20:47:15Z"
+    }
+  },
+  {
+    "hash": "2983cce1f62fb2eed505e02264554fceb9214a971a0d953ea94d6501aeb36373",
+    "item": {
+      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46221594\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2512.08309"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T18:37:27Z"
+    }
+  },
+  {
+    "hash": "c9f2495d994548dcdd7e3e6666ca8bc50459a5e5d57f6f99fa180b6e4e652512",
+    "item": {
+      "title": "Gundam is just the same as Jane Austen but happens to include giant mech suits",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46123310\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T16:55:36Z"
+    }
+  },
+  {
+    "hash": "d26e074464bf6adbafa1d977d2344098721ecf2bfd0c720aec38687531f04032",
+    "item": {
+      "title": "Show HN: Automated license plate reader coverage in the USA",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220794\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://alpranalysis.com"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:42:30Z"
+    }
+  },
+  {
+    "hash": "d58bd0ba9f73e859390434175193bee67909564470c7745ee6f9d6029b196c7e",
+    "item": {
+      "title": "Show HN: A 2-row, 16-key keyboard designed for smartphones",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220902\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://k-keyboard.com/Why-QWERTY-mini"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:49:28Z"
+    }
+  },
+  {
+    "hash": "cdded06b9066f9f48a59cac814088c77bcd5835c0784779e53cbc1c2ed4fe0fe",
+    "item": {
+      "title": "Intermittent hypoxia increases blood flow and benefits executive function",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46221404\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T18:24:13Z"
+    }
+  },
+  {
+    "hash": "1e3db2eb6a2937219db1b7b18920e17d228d3cd65d147055ee98fe80f81aef4d",
+    "item": {
+      "title": "Israel used Palantir technologies in pager attack in Lebanon",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46218640\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://the307.substack.com/p/revealed-israel-used-palantir-technologies"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T15:18:47Z"
+    }
+  },
+  {
+    "hash": "41fd60bf1cd540aabb2065f56b65183fca7c4a2fd66d1d534c4f3431d8bdb599",
+    "item": {
+      "title": "Kernel Float: Unlocking Mixed-Precision GPU Programming",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46173600\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dl.acm.org/doi/pdf/10.1145/3779120"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T14:26:07Z"
+    }
+  },
+  {
+    "hash": "901114759f2de694a06768d318708dbdd8099cb8f238abbc4570318008fc5686",
+    "item": {
+      "title": "EFF Launches Age Verification Hub as Resource Against Misguided Laws",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46223389\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T20:35:07Z"
+    }
+  },
+  {
+    "hash": "c1ec8b337ce974c17495978eda731e7b4e1d3f83714e70ceb4e364b0b0884c2c",
+    "item": {
+      "title": "Solana Price Prediction: Institutional Flows Into Spot ETFs Dry Up – Here’s the Catalyst They Might Be Waiting For",
+      "description": "\u003cp\u003eInstitutions have been holding off with the Fed’s rate cut decision imminent – Solana Price Predictions near their next potential catalyst.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/solana-price-prediction-institutional-flows-into-spot-etfs-dry-up-heres-the-catalyst-they-might-be-waiting-for/\"\u003eSolana Price Prediction: Institutional Flows Into Spot ETFs Dry Up – Here’s the Catalyst They Might Be Waiting For \u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/solana-price-prediction-institutional-flows-into-spot-etfs-dry-up-heres-the-catalyst-they-might-be-waiting-for/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "fed rate cut",
+        "Price Prediction",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10132020/1765372819-solana-price-prediction-2.jpg"
+      },
+      "published": "2025-12-10T19:26:00Z"
+    }
+  },
+  {
+    "hash": "4812393b3792d8a598b32c7781364cf43382980afdbd0f4143c8d146dcff580e",
+    "item": {
+      "title": "Japan Moves Crypto to Securities Law – Tighter Rules \u0026 Platform Crackdowns Coming",
+      "description": "\u003cp\u003eJapan has prepared a comprehensive reset of crypto oversight, moving digital assets from the Payment Services Act to the Financial Instruments and Exchange Act, with stricter exchange disclosures, insider-trading rules, bank-linked trading and a pending flat tax on gains.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/japan-crypto-securities-law-regulatory-shift/\"\u003eJapan Moves Crypto to Securities Law – Tighter Rules \u0026amp; Platform Crackdowns Coming\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/japan-crypto-securities-law-regulatory-shift/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "Crypto Regulations",
+        "Japan"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10181031/1765390230-0_81210_optimized.jpg"
+      },
+      "published": "2025-12-10T18:25:46Z"
+    }
+  },
+  {
+    "hash": "a6a113acbeb3073a107b74f13813a4796ba4ade6af287f50fd5202ea5e27dfa4",
+    "item": {
+      "title": "[LIVE] Bitcoin Price Reacts to Fed’s 25bps Rate Cut: Will Powell’s Guidance Shift Crypto Markets?",
+      "description": "\u003cp\u003eFed rate decision at 2pm ET, Powell speaks 2:30pm—Bitcoin holds $92K as markets await crucial December policy call.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/live-bitcoin-price-watch-fed-interest-rate-decision-today-will-powell-cut-or-pause/\"\u003e[LIVE] Bitcoin Price Reacts to Fed\u0026#8217;s 25bps Rate Cut: Will Powell\u0026#8217;s Guidance Shift Crypto Markets?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/live-bitcoin-price-watch-fed-interest-rate-decision-today-will-powell-cut-or-pause/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "fed rate cut"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10131020/1765372219-image-1765372188121_optimized.jpg"
+      },
+      "published": "2025-12-10T13:38:40Z"
+    }
   }
 ]
