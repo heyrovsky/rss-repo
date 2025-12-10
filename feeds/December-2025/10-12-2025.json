@@ -2411,5 +2411,578 @@
       },
       "published": "2025-12-10T12:42:26Z"
     }
+  },
+  {
+    "hash": "7eb8e457d57667f5356f984873c7d68f90f4536bcc829752f979f4d38d5ab229",
+    "item": {
+      "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
+      "description": "It drives fine, but the first hybrid Forester is not without its flaws.",
+      "links": [
+        "https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/"
+      ],
+      "categories": [
+        "Cars",
+        "2025 Subaru Forester Hybrid",
+        "car review"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jonathan M. Gitlin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-1152x648.jpg"
+      },
+      "published": "2025-12-10T18:00:19Z"
+    }
+  },
+  {
+    "hash": "7104e20eede864ce2836d0201a18d7444248a9cb662d13be6e2f5715e33f1151",
+    "item": {
+      "title": "This is the oldest evidence of people starting fires",
+      "description": "We didn't start the fire. (Neanderthals did, at least 400,000 years ago.)",
+      "links": [
+        "https://arstechnica.com/science/2025/12/this-is-the-oldest-evidence-of-people-starting-fires/"
+      ],
+      "categories": [
+        "Science",
+        "Archaeology",
+        "firestarting",
+        "hominins",
+        "making fire",
+        "Neanderthals",
+        "science"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Kiona N. Smith"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/artist-e1765349023584-1152x648.jpg"
+      },
+      "published": "2025-12-10T17:14:08Z"
+    }
+  },
+  {
+    "hash": "424a92829b3578dd0709b5ec16b5f6093aa04db933ec70ab4bee68e52e12f0b2",
+    "item": {
+      "title": "Sperm donor with rare cancer mutation fathered nearly 200 children in Europe",
+      "description": "Children with the mutation have up to a 90% chance of developing cancer by age 60.",
+      "links": [
+        "https://arstechnica.com/health/2025/12/sperm-donor-with-rare-cancer-mutation-fathered-nearly-200-children-in-europe/"
+      ],
+      "categories": [
+        "Health"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-460716005-1152x648.jpg"
+      },
+      "published": "2025-12-10T16:59:15Z"
+    }
+  },
+  {
+    "hash": "f32e812adfe7e65e7b2a337a687bcded95beb0d67b99012cb3f282cc8e1c035f",
+    "item": {
+      "title": "Impeachment articles filed against RFK Jr., claiming abuse of power",
+      "description": "He's the \"biggest self-created threat to our health and safety,\" Stevens said.",
+      "links": [
+        "https://arstechnica.com/health/2025/12/impeachment-articles-filed-against-rfk-jr-claiming-abuse-of-power/"
+      ],
+      "categories": [
+        "Health",
+        "anti-vaccine",
+        "Haley Stevens",
+        "impeachment",
+        "misinformation",
+        "robert f kennedy jr"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233690134-1152x648.jpg"
+      },
+      "published": "2025-12-10T15:11:10Z"
+    }
+  },
+  {
+    "hash": "cd69a82c3ff1c18024995784bc1b468ffa89d37469b3215bfdf6cc50d8078934",
+    "item": {
+      "title": "[$] Mix and match Linux distributions with Distrobox",
+      "description": "\u003cp\u003eLinux containers have made it reasonably easy to develop, distribute, and\ndeploy server applications along with all the distribution dependencies that they\nneed. For example, anyone can deploy and run a Debian-based \u003ca\nhref=\"https://hub.docker.com/_/postgres\"\u003ePostgreSQL container\u003c/a\u003e \non a Fedora\u0026#160;Linux host. \u003ca\nhref=\"https://distrobox.it/\"\u003eDistrobox\u003c/a\u003e is a project that is designed to\nbring the cross-distribution compatibility to the desktop and allow users to\nmix-and-match Linux distributions without fussing with dual-booting, virtual\nmachines, or multiple computers. It is an ideal way to install\nadditional software on image-based systems, such as Fedora's \u003ca\nhref=\"https://fedoraproject.org/atomic-desktops/\"\u003eAtomic Desktops\u003c/a\u003e\nor \u003ca href=\"https://lwn.net/Articles/1046228/\"\u003eBazzite\u003c/a\u003e, and also\nprovides a convenient way to move a development environment or\nfavorite applications to a new system.\u003c/p\u003e",
+      "links": [
+        "https://lwn.net/Articles/1049423/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-10T16:05:05Z"
+    }
+  },
+  {
+    "hash": "8a3e20f266b66da081b6e710a65ccffbcb21b2fb8b907bed252605cc4402d57b",
+    "item": {
+      "title": "FreeBSD 15.0 vs. Ubuntu Linux For AMD EPYC Server Performance",
+      "description": "Given the recent release of FreeBSD 15, I started off my testing in looking at how FreeBSD 15.0 improves performance versus FreeBSD 14.3. Now it's onto the next important question: how is FreeBSD 15.0 performing relative to Linux on servers? Here are some benchmarks exploring that topic today.",
+      "links": [
+        "https://www.phoronix.com/review/freebsd-15-amd-epyc-linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-10T15:30:06Z"
+    }
+  },
+  {
+    "hash": "d20494cb8482a3cfe1481d98fb4cbc721928167ac03591d28cc954f0456eb05c",
+    "item": {
+      "title": "Size of Life",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219346\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://neal.fun/size-of-life/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T16:02:57Z"
+    }
+  },
+  {
+    "hash": "72f298acde113a1348dd9df3691f8c3b4a6306e7ee2884e7f4967105f0c66279",
+    "item": {
+      "title": "DeepSeek uses banned Nvidia chips for AI model, report says",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219853\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T16:34:52Z"
+    }
+  },
+  {
+    "hash": "a335a4e0f5ab7ee7aa633469436942d6c2ad78db6517086a35aa4ba8b38ef119",
+    "item": {
+      "title": "Australia begins enforcing world-first teen social media ban",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46208348\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T18:12:29Z"
+    }
+  },
+  {
+    "hash": "cc0bd7c469384d0c85e416151d6498d0ba2477d089e3501a1f89da15c0f5aab3",
+    "item": {
+      "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219538\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://qwen.ai/blog?id=qwen3-omni-flash-20251201"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T16:13:38Z"
+    }
+  },
+  {
+    "hash": "0700ee435e69f0c49a6b72b0b6d264146fd15ff55772acd69b0025fa4a461675",
+    "item": {
+      "title": "Why the Sanitizer API is just `setHTML()`",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46198606\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://frederikbraun.de/why-sethtml.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T22:37:28Z"
+    }
+  },
+  {
+    "hash": "c16f70e8f1b8fac59e96e9acb9d46c4cde730a6a23fc6433ac70051c8f01d984",
+    "item": {
+      "title": "Auto-grading decade-old Hacker News discussions with hindsight",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220540\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://karpathy.bearblog.dev/auto-grade-hn/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:23:53Z"
+    }
+  },
+  {
+    "hash": "1499b4641793f4860a48c4f921c8df904bbac79bb1e8388d7aa2c030eb551f7e",
+    "item": {
+      "title": "COM Like a Bomb: Rust Outlook Add-in",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46218538\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://tritium.legal/blog/outlook"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T15:10:36Z"
+    }
+  },
+  {
+    "hash": "8403cc19bb2752450e0241569e4d91453aa6451d99d665d24aa7a6627c26d311",
+    "item": {
+      "title": "9 Mothers (YC X26) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220211\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://app.dover.com/jobs/9mothers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:00:22Z"
+    }
+  },
+  {
+    "hash": "3eebef9027a7296b1b5436ba7e8761ef9e4f31df966b1bc9e3cef560a1a591ec",
+    "item": {
+      "title": "Factor 0.101 now available",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46216583\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://re.factorcode.org/2025/12/factor-0-101-now-available.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T11:33:31Z"
+    }
+  },
+  {
+    "hash": "90a7703cda9b54e38942ee2ac352a6659fc0b32a14a666b38f9b19a79d79583d",
+    "item": {
+      "title": "Is It a Bubble? By Howard Marks",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220640\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:30:43Z"
+    }
+  },
+  {
+    "hash": "6471d1e9d10008e959b666f6f92c4d9f390832877765e6dba18f6dd0f951e437",
+    "item": {
+      "title": "Qualcomm acquires RISC-V focused Ventana Micro Systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46218800\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.qualcomm.com/news/releases/2025/12/qualcomm-acquires-ventana-micro-systems--deepening-risc-v-cpu-ex"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T15:30:46Z"
+    }
+  },
+  {
+    "hash": "ac296d06b4c84d9fc0aee5587386e6f974c1ec49e6700c1142a8e9c9dcbcfbb3",
+    "item": {
+      "title": "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219386\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46219386"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T16:05:03Z"
+    }
+  },
+  {
+    "hash": "b1237feac4fb5b0a6b137cff98556df198c5029899371c87fa5b498a59b6c6fc",
+    "item": {
+      "title": "Golang's big miss on memory arenas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46142589\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T01:10:28Z"
+    }
+  },
+  {
+    "hash": "4f42ef3ee5dfc9b02e4011653edd91de4bbe3f2f504dde40c4e0790720514552",
+    "item": {
+      "title": "Typewriter Plotters (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46162643\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://biosrhythm.com/?p=2143"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-05T15:34:49Z"
+    }
+  },
+  {
+    "hash": "b0b04f4d77da7b179a7fb6680f7e404a743026560b99e407216473e18623e0de",
+    "item": {
+      "title": "Volcanic eruptions set off a chain of events that brought Black Death to Europe",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46170707\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cam.ac.uk/stories/volcanoes-black-death"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T04:31:42Z"
+    }
+  },
+  {
+    "hash": "6f2a673f56f58553764bb12d41fa3264e1dc23eb5344708afaa5096ed5b1f18c",
+    "item": {
+      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220488\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:20:06Z"
+    }
+  },
+  {
+    "hash": "4d9e69cb155b2692f5f57a91d8d516b9cb7e90585aafff6c8961c66eac439bd3",
+    "item": {
+      "title": "RoboCrop: Teaching robots how to pick tomatoes",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46218782\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://phys.org/news/2025-12-robocrop-robots-tomatoes.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T15:29:14Z"
+    }
+  },
+  {
+    "hash": "310dd12d7636f075cf317d8b060f867f50642ade3c22d6ecd6b9bebdf7cb0be4",
+    "item": {
+      "title": "Super-Flat ASTs",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46150677\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jhwlr.io/super-flat-ast/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T18:01:09Z"
+    }
+  },
+  {
+    "hash": "713b34ba0ee64b879115718c95ede34ae1d3f7e3496f969a88682dcddb0f3965",
+    "item": {
+      "title": "Map of all the buildings in the world",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-04T22:43:33Z"
+    }
+  },
+  {
+    "hash": "b6c379eb7ffb4a4b64bf6ed3da17cfaea94edd9cd84f205b13df90b9f42cada6",
+    "item": {
+      "title": "Deprecations via warnings don't work for Python libraries",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46195679\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T18:13:59Z"
+    }
+  },
+  {
+    "hash": "6cf4a2f3b5a98771086558a3c03f9f8e458087d00a39cd7ae31053e73473bff9",
+    "item": {
+      "title": "In New York City, congestion pricing leads to marked drop in pollution",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46218725\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T15:25:05Z"
+    }
+  },
+  {
+    "hash": "4d735e04d3826b1efade08399bf8a412faef93d6ca9f07bd3b7da8b723eed242",
+    "item": {
+      "title": "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46205632\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://dosaygo-studio.github.io/hn-front-page-2035/news"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T15:00:38Z"
+    }
+  },
+  {
+    "hash": "145afe8d33f51727c96421b7eeae9c02f730b8888509843b5c2b902fbd4a24e0",
+    "item": {
+      "title": "England Historic Aerial Photo Explorer",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219544\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://historicengland.org.uk/images-books/archive/collections/aerial-photos/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T16:13:57Z"
+    }
+  },
+  {
+    "hash": "f2db42d9542326e1b9fd66a94d17349830bef817c24928a23ac0ee3bbe6f9b5d",
+    "item": {
+      "title": "Bitcoin Price Prediction: US Bank Now Lets Clients Buy BTC Directly – Could This Be the Start of a Banking Domino Effect?",
+      "description": "\u003cp\u003ePNC Bank, the sixth-largest commercial bank in the United States, has launched direct spot Bitcoin trading for eligible private bank clients, becoming the first major US bank to offer native Bitcoin exposure following regulatory approval from the Office of the Comptroller of the Currency.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-us-bank-now-lets-clients-buy-btc-directly-could-this-be-the-start-of-a-banking-domino-effect/\"\u003eBitcoin Price Prediction: US Bank Now Lets Clients Buy BTC Directly – Could This Be the Start of a Banking Domino Effect?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-us-bank-now-lets-clients-buy-btc-directly-could-this-be-the-start-of-a-banking-domino-effect/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Bitcoin",
+        "price analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10131745/1765372665-bitcoin-price-prediction-6.jpg"
+      },
+      "published": "2025-12-10T17:54:00Z"
+    }
+  },
+  {
+    "hash": "00289afad6b6681e4e0b2bc96b908e2a8082c4c6142e378539ec2b50a7e63a78",
+    "item": {
+      "title": "XRP Price Prediction: $100M Whale Dump Hits Just Before Breakout – Can Retail Buying Stop the Bleed?",
+      "description": "\u003cp\u003eXRP whales have dumped a significant volume of tokens ahead of today’s FOMC meeting and may have delayed the token’s recovery. However, long-term holders are still not selling and continue to show the kind of commitment that favors a bullish XRP price prediction.According to data from Santiment, whale wallets holding between 100 million and 1 [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-100m-whale-dump-hits-just-before-breakout-can-retail-buying-stop-the-bleed/\"\u003eXRP Price Prediction: $100M Whale Dump Hits Just Before Breakout – Can Retail Buying Stop the Bleed?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-100m-whale-dump-hits-just-before-breakout-can-retail-buying-stop-the-bleed/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Ripple",
+        "XRP News",
+        "XRP Price Prediction"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Alejandro Arrieche"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10144456/1765377896-xrp-price-prediction-22.jpg"
+      },
+      "published": "2025-12-10T17:35:40Z"
+    }
+  },
+  {
+    "hash": "54615ad06fae5dcd64b99dde62b50ef6cb7dd2b0caff221071f8f1d68a2556d4",
+    "item": {
+      "title": "Bitcoin Selling Pressure Eases as Exchange Inflows Drop: CryptoQuant",
+      "description": "\u003cp\u003eBitcoin has rebounded after a sharp drop, with exchange deposits, whale transfers and realized losses all declining, which has eased short-term selling pressure and set up resistance levels around $99K, $102K and $112K ahead of the Federal Reserve policy decision.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-selling-pressure-eases-as-exchange-inflows-drop-cryptoquant/\"\u003eBitcoin Selling Pressure Eases as Exchange Inflows Drop: CryptoQuant\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-selling-pressure-eases-as-exchange-inflows-drop-cryptoquant/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin",
+        "Cryptocurrency",
+        "CryptoQuant"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/05005749/1764896269-bitcoin-bull-in-chains.jpg"
+      },
+      "published": "2025-12-10T17:23:12Z"
+    }
+  },
+  {
+    "hash": "958d3ea0c08b9a9ed0066285014ad13e67e7d5551bf74f1f09daed2f88adf584",
+    "item": {
+      "title": "Crypto Tax Bill Targeted for Passage by Next August, House Tax Writer Says",
+      "description": "\u003cp\u003eU.S. lawmakers have stepped up efforts to update crypto tax rules, debating de minimis exemptions for small payments, staking income timing, exchange reporting duties and new 1099-DA forms as the IRS has prepared for broader oversight in 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/us-crypto-tax-bill-august-2026-passage/\"\u003eCrypto Tax Bill Targeted for Passage by Next August, House Tax Writer Says\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/us-crypto-tax-bill-august-2026-passage/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "News",
+        "crypto tax",
+        "IRS"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10135848/1765375128-0_61210_optimized.jpg"
+      },
+      "published": "2025-12-10T16:49:54Z"
+    }
+  },
+  {
+    "hash": "135c4893d84c04e6de890cd0783a202e5a12e7122890f4dceb19bafe0672016a",
+    "item": {
+      "title": "Ethereum Rises As Altcoin Season Fear Eases And Select Tokens Join The Move",
+      "description": "\u003cp\u003eCrypto sentiment has improved as the Fear and Greed Index has risen from recent lows, Bitcoin has stabilized near $92,000, and Ethereum, Monero, and Mantle have logged fresh gains, yet traders have treated this as early stabilization rather than a full altcoin season.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/ethereum-rises-as-altcoin-season-fear-eases-and-select-tokens-join-the-move/\"\u003eEthereum Rises As Altcoin Season Fear Eases And Select Tokens Join The Move\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/ethereum-rises-as-altcoin-season-fear-eases-and-select-tokens-join-the-move/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season",
+        "Ethereum"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/10151128/1765379487-image-1765379462191_optimized.jpg"
+      },
+      "published": "2025-12-10T16:41:49Z"
+    }
+  },
+  {
+    "hash": "9e8e87f94313bced7eeff2168b86862b6a86186ccdc5443ec73b20119890ad30",
+    "item": {
+      "title": "Strategy Challenges MSCI Plan to Exclude Digital Asset Treasury Firms from Key Indexes",
+      "description": "\u003cp\u003eStrategy has submitted a detailed response to MSCI, challenging a proposal to exclude digital asset treasury companies from major indexes and arguing it has threatened index stability, market neutrality, and U.S. efforts to integrate Bitcoin and digital assets into capital markets.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/strategy-submits-official-response-to-msci-on-digital-asset-treasury-classification/\"\u003eStrategy Challenges MSCI Plan to Exclude Digital Asset Treasury Firms from Key Indexes\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/strategy-submits-official-response-to-msci-on-digital-asset-treasury-classification/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Bitcoin",
+        "Michael Saylor",
+        "Strategy"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/02073430/1757236319-1740455603-billionaire-michael-saylor-eyes-more-bitcoin-is-a-supply-squeeze-incoming_optimized.jpg"
+      },
+      "published": "2025-12-10T15:46:06Z"
+    }
   }
 ]
