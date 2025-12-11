@@ -2775,5 +2775,360 @@
       },
       "published": "2025-12-11T12:23:21Z"
     }
+  },
+  {
+    "hash": "ea47fc12d1cdf3b32fc30a6af3dad45844dda0affa1687bf9b9cada0df0df482",
+    "item": {
+      "title": "D7VK 1.0 Released For \"Production Ready\" Direct3D 7 On Vulkan",
+      "description": "The D7VK project recently started as the Direct3D 7 API implemented atop the Vulkan API akin to DXVK and VKD3D-Proton with newer versions of Microsoft Direct3D. Today marks the D7VK 1.0 release for this project in now declaring itself \"production ready\" for Linux gamers...",
+      "links": [
+        "https://www.phoronix.com/news/D7VK-1.0-Released"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-11T17:50:08Z"
+    }
+  },
+  {
+    "hash": "b874720329fccbce6c1479f7cb1bf3a9c411992fe4cceab1313495e4e94daf00",
+    "item": {
+      "title": "NVIDIA GTX 980 Through RTX 5080: Open-Source Nouveau/Mesa Drivers vs. NVIDIA 580 Linux Drivers",
+      "description": "With the NVIDIA 590 Linux driver series removing GeForce 900 series \"Maxwell\" and GeForce 10 series \"Pascal\" as part of punting it off to the latest legacy driver branch, it's time for a last look at how the mainline NVIDIA Linux driver is performing with these aging graphics cards relative to the current state of the upstream open-source NVIDIA Linux drivers. In this article is a look at how the open-source and upstream Nouveau kernel driver with Nouveau/NVK Mesa drivers are performing relative to the NVIDIA 580 series with its Maxwell and Pascal support. For further perspective is also tossing in newer graphics cards too for providing a end-of-year GeForce 980 / 1080 / 2080 / 3080 / 4080 / 5080 series comparison between these different Linux drivers.",
+      "links": [
+        "https://www.phoronix.com/review/nvidia-980-5080-linux"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-11T16:10:28Z"
+    }
+  },
+  {
+    "hash": "48ca474e356c1309bc1d8634d93c5f178932c353ef29462c7a795aee95d65870",
+    "item": {
+      "title": "AMD GAIA 0.14 Released With Native Support For Linux \u0026 macOS",
+      "description": "Early this year AMD announced the open-source GAIA project for \"Generative AI Is Awesome\" as a showcase of AI support atop their Ryzen AI NPUs and other hardware. That began as a Windows-only project but in September AMD added Linux support to GAIA but only using Vulkan acceleration for AI on Radeon GPUs. Now today GAIA 0.14 is available with \"native\" support for both macOS and Linux...",
+      "links": [
+        "https://www.phoronix.com/news/AMD-GAIA-0.14"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-11T15:31:46Z"
+    }
+  },
+  {
+    "hash": "5b16c8053c60d4656cda22c24fcf4a177fcf0f273122dfd8089a09daebb11062",
+    "item": {
+      "title": "Bearish Alert for Stellar: Will the Bears Drag XLM Into Deeper Fiery Red?",
+      "description": "\u003cp\u003e\u003cimg width=\"730\" height=\"411\" src=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Bearish-Alert-for-Stellar-XLM-Will-the-Bears-Drag-XLM-Into-Deeper-Fiery-Red.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Bearish Alert for Stellar: Will the Bears Drag XLM Into Deeper Fiery Red?\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://thenewscrypto.com/wp-content/uploads/2025/12/Bearish-Alert-for-Stellar-XLM-Will-the-Bears-Drag-XLM-Into-Deeper-Fiery-Red.jpg 730w, https://thenewscrypto.com/wp-content/uploads/2025/12/Bearish-Alert-for-Stellar-XLM-Will-the-Bears-Drag-XLM-Into-Deeper-Fiery-Red-300x169.jpg 300w, https://thenewscrypto.com/wp-content/uploads/2025/12/Bearish-Alert-for-Stellar-XLM-Will-the-Bears-Drag-XLM-Into-Deeper-Fiery-Red-376x212.jpg 376w\" sizes=\"(max-width: 730px) 100vw, 730px\" /\u003e\u003c/p\u003eThe crypto market’s volatile nature has resulted in displaying both bear and bull signals alternative day. This back and forth flip makes it hard to predict the price action. With the Fear and Greed Index value holding at 29, fear sentiment is lingering across the assets, including Bitcoin (BTC) and",
+      "links": [
+        "https://thenewscrypto.com/bearish-alert-for-stellar-will-the-bears-drag-xlm-into-deeper-fiery-red/"
+      ],
+      "categories": [
+        "Editors News",
+        "Investing News",
+        "Market Updates",
+        "Altcoin",
+        "Cryptocurrency",
+        "Stellar",
+        "XLM"
+      ],
+      "source": "TheNewsCrypto",
+      "authors": [
+        {
+          "name": "Sarayu Krishna"
+        }
+      ],
+      "image": {
+        "url": "https://thenewscrypto.com/wp-content/uploads/2025/12/Bearish-Alert-for-Stellar-XLM-Will-the-Bears-Drag-XLM-Into-Deeper-Fiery-Red.jpg"
+      },
+      "published": "2025-12-11T10:54:57Z"
+    }
+  },
+  {
+    "hash": "1f5f600c23436cfcebac7ec16245bf91565b9880766b69ab4c905f8aa8f5b1dc",
+    "item": {
+      "title": "[$] Toward a policy for machine-learning tools in kernel development",
+      "description": "The first topic of discussion at the 2025 Maintainers Summit has been in\nthe air for a while: what role — if any — should machine-learning-based\ntools have in the kernel development process?  While there has been a fair\namount of controversy around these tools, and concerns remain, it seems\nthat the kernel community, or at least its high-level maintainership, is\ncomfortable with these tools becoming a significant part of the development\nprocess.",
+      "links": [
+        "https://lwn.net/Articles/1049830/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-12-11T17:57:52Z"
+    }
+  },
+  {
+    "hash": "fca2ad6b37ed8ab44d53cf8eb1f24dccebe27ec1a36ca17787307d1bd00f7a03",
+    "item": {
+      "title": "Days since last GitHub incident",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46233798\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github-incidents.pages.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T16:52:37Z"
+    }
+  },
+  {
+    "hash": "418ad2b204e29dd09c5eb59be02dc6af54fad7a14cc9a42112922d44a9fd1c61",
+    "item": {
+      "title": "An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46232220\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://arxiv.org/abs/2512.09643"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T15:01:44Z"
+    }
+  },
+  {
+    "hash": "e62eeab1ba57829b1d865b3e0886e232c22591c911dd762c8fe0606c638b4bf5",
+    "item": {
+      "title": "Things I want to say to my boss",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46233570\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T16:35:48Z"
+    }
+  },
+  {
+    "hash": "c1eb4deb1fbd7345697118a61b6efa0fd463be7a326d7ef376dc719d4fb1d199",
+    "item": {
+      "title": "Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46232434\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46232434"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T15:18:51Z"
+    }
+  },
+  {
+    "hash": "29fcb1b07474f33ac2f234cdb9474bde48a1e295a58cacc8b8e95aa412e52d02",
+    "item": {
+      "title": "Show HN: I've asked Claude to improve codebase quality 200 times",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46197930\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gricha.dev/blog/the-highest-quality-codebase"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T21:33:09Z"
+    }
+  },
+  {
+    "hash": "b36205eab92fc9af8c241819a1510adb64ab8322e3372cd75f520eab23a5b504",
+    "item": {
+      "title": "Kicking Robots",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46176800\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T21:38:43Z"
+    }
+  },
+  {
+    "hash": "be66d3e06b2f88d8717396917d21a80509429cceb0b867da9987b88d2a84de37",
+    "item": {
+      "title": "Giant of the Attic: On the Majesty of Alan Moore",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46083184\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.metropolitanreview.org/p/giant-of-the-attic"
+      ],
+      "source": "Hacker News",
+      "published": "2025-11-28T22:05:16Z"
+    }
+  },
+  {
+    "hash": "f2f5c54ae7066b7384c3073b9b3c69f55a286847ce609f94f91861aeff5e40c2",
+    "item": {
+      "title": "Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46233009\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46233009"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T15:59:33Z"
+    }
+  },
+  {
+    "hash": "d68966c3ede5cd8fa10ba83cecf77a809c3157192dc7a0e0baa4e0785ac200d0",
+    "item": {
+      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46232528\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=hksVvXONrIo"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T15:25:43Z"
+    }
+  },
+  {
+    "hash": "7a11fd572c383b9d3476faae896a587dffa27bd7e75bde6be48954808b84b610",
+    "item": {
+      "title": "Pop Goes the Population Count?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46231829\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://xania.org/202512/11-pop-goes-the-weasel-er-count"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T14:30:28Z"
+    }
+  },
+  {
+    "hash": "b98f846d302401337a04e989841bf9e76922c4605bc378cc2455e7d85cf70125",
+    "item": {
+      "title": "A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46233067\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T16:02:32Z"
+    }
+  },
+  {
+    "hash": "1487f3cab496e24aaef41c819906077f955b8a86bf500726276c66c9b1b618e4",
+    "item": {
+      "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
+      "description": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its",
+      "links": [
+        "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSr-PT3dj-KXpKptjdRmfwueMOhO5kNQWOHyylqmUj0nCT9BOb9UM7svBOwdWmnJipRU9vjO2l7WjVGJZc-U9jXCPpolj-GYZsBrP3x5AB4fInWxKVtZOYV6HNxCytEfbfgwWe21IE5k5VhcRMrouTw4DsYt9k2ZcjikVbPKI6UhoxutGP46v110aTra7i/s1600/backdoor.jpg"
+      },
+      "published": "2025-12-11T11:00:00Z"
+    }
+  },
+  {
+    "hash": "4657ad427a0e4c8024c14588a5a4927b0585fe6a0643567e4b5636d10fa71605",
+    "item": {
+      "title": "Did One Entity Kill PEPE’s Fair Launch? Bubblemaps Flags 30% Genesis Hoard, $2M Dump",
+      "description": "\u003cp\u003eNew blockchain analysis has raised doubts over PEPE’s fair launch, suggesting that one entity controlled a large share of the genesis supply and has sold early, as PEPE has faced price swings, security concerns, and renewed scrutiny of meme coin trading risks.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pepe-fair-launch-insider-supply-allegations/\"\u003eDid One Entity Kill PEPE’s Fair Launch? Bubblemaps Flags 30% Genesis Hoard, $2M Dump\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pepe-fair-launch-insider-supply-allegations/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Memecoin",
+        "Pepe"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hassan Shittu"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/11135359/1765461238-stock-image_optimized-1.jpg"
+      },
+      "published": "2025-12-11T17:09:21Z"
+    }
+  },
+  {
+    "hash": "07cbbd7c0013490709a02809588c4f401496e01a904809ad7d50099337998838",
+    "item": {
+      "title": "Altcoin Season Shows Flickers As Bitcoin Tests Support Near $90,000",
+      "description": "\u003cp\u003eBitcoin has stayed above $90,000 while the Fear and Greed Index has remained in the fear zone and the Altcoin Season Index has inched higher, as MYX, Tezos and UNUS SED LEO have recorded cautious gains on stable liquidity and steady network activity.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/altcoin-season-shows-flickers-as-bitcoin-tests-support-near-90000/\"\u003eAltcoin Season Shows Flickers As Bitcoin Tests Support Near $90,000\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/altcoin-season-shows-flickers-as-bitcoin-tests-support-near-90000/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Altcoin",
+        "altcoin season"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Hongji Feng"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/11151808/1765466287-image-1765466264840_optimized.jpg"
+      },
+      "published": "2025-12-11T17:03:44Z"
+    }
+  },
+  {
+    "hash": "418345e696c310d0ffeebe607dd5ad8074c864d4e42632f8f2bdceb537183190",
+    "item": {
+      "title": "Bitcoin Price Prediction: US Fed Cuts Rates for the Third Time – Is This the Trigger for a 2026 Crypto Supercycle?",
+      "description": "\u003cp\u003eThe Federal Reserve delivered a third consecutive quarter-point rate cut amid inflation concerns, while prominent crypto analysts including Raoul Pal and Tom Lee forecast a 2026 supercycle with Bitcoin's Power Curve projecting a $250,000 peak despite near-term technical weakness.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-prediction-us-fed-cuts-rates-for-the-third-time-is-this-the-trigger-for-a-2026-crypto-supercycle/\"\u003eBitcoin Price Prediction: US Fed Cuts Rates for the Third Time – Is This the Trigger for a 2026 Crypto Supercycle?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-prediction-us-fed-cuts-rates-for-the-third-time-is-this-the-trigger-for-a-2026-crypto-supercycle/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "Altcoins",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/11124319/1765456998-bitcoin-price-prediction-7.jpg"
+      },
+      "published": "2025-12-11T15:47:59Z"
+    }
+  },
+  {
+    "hash": "5cb92f0250494b49583ea060a5b48d6117c61ed369ac9e080c9f1e5d0555fe78",
+    "item": {
+      "title": "Coinbase UK CEO Predicts Stablecoins Will Enter Mainstream Payment Infrastructure by 2026",
+      "description": "\u003cp\u003eCoinbase has described how stablecoins have moved closer to mainstream payments, with Keith Grose citing UK and global regulation, rising consumer use and EURC transfers on Base as reasons the firm has set expectations for broader everyday adoption and payment integration by 2026.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/coinbase-uk-ceo-predicts-stablecoins-will-enter-mainstream-payment-infrastructure-by-2026/\"\u003eCoinbase UK CEO Predicts Stablecoins Will Enter Mainstream Payment Infrastructure by 2026\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/coinbase-uk-ceo-predicts-stablecoins-will-enter-mainstream-payment-infrastructure-by-2026/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "News",
+        "Coinbase",
+        "Payments",
+        "Stablecoins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Tanzeel Akhtar"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/07/03184641/1751568400-image-1751563800264_optimized.jpg"
+      },
+      "published": "2025-12-11T11:37:58Z"
+    }
   }
 ]
