@@ -689,5 +689,220 @@
       },
       "published": "2025-12-10T21:16:08Z"
     }
+  },
+  {
+    "hash": "f4d876d1d8c562cfc99a55b4826b358c2749593ee572ad7500588c6a22d5c7f2",
+    "item": {
+      "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one",
+      "description": "If NASA is serious about exploring Mars, it's past time to send new missions.",
+      "links": [
+        "https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/"
+      ],
+      "categories": [
+        "Science",
+        "Space",
+        "Lockheed Martin",
+        "Mars",
+        "MAVEN",
+        "NASA",
+        "planetary science",
+        "solar system"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Stephen Clark"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GSFC_20171208_Archive_e000206orig-1041x648.jpg"
+      },
+      "published": "2025-12-11T00:29:54Z"
+    }
+  },
+  {
+    "hash": "c751c61c33189ba248d67f29002127580424e69b4be6e3361a6c2b47f2730acc",
+    "item": {
+      "title": "Linux 6.19 Networking Delivers 4x Improvement For Heavy Transfer Workloads, New Hardware",
+      "description": "The big set of networking subsystem updates was recently merged for the ongoing Linux 6.19 merge window. There are some enticing core networking improvements like a big performance improvement for heavy transfer workloads, Bluetooth PAST enablement, and more. Plus a lot of wired and wireless networking driver activity and new hardware enablement...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-Networking"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-11T01:50:53Z"
+    }
+  },
+  {
+    "hash": "3b6d3407a187b418ba5096d0a513fc149939cdceed4b752fe04a1659e7f03d17",
+    "item": {
+      "title": "Intel's Vulkan Linux Driver Merges Shader VMA Allocator For Ray-Tracing Capture/Replay",
+      "description": "Merged today to the Intel open-source \"ANV\" Vulkan driver in Mesa 26.0 is introducing a shader VMA allocator. Long story short this new allocator steps toward enabling Vulkan ray-tracing capture/replay support, which can come in hand for debugging issues with Vulkan ray-tracing on Intel graphics hardware under Linux and similarly to assist in optimizing for better performance...",
+      "links": [
+        "https://www.phoronix.com/news/Intel-ANV-Shader-VMA-Allocator"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-11T01:25:15Z"
+    }
+  },
+  {
+    "hash": "f4c8a0d2663f11ee482b71a497b7a577a3b77ebc519330080cf29dd44b20aecb",
+    "item": {
+      "title": "Your Supercomputer Arrives in the Cloud",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2025/12/wolf1.png?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/wolf1.png 1200w, https://hackaday.com/wp-content/uploads/2025/12/wolf1.png?resize=250,125 250w, https://hackaday.com/wp-content/uploads/2025/12/wolf1.png?resize=400,200 400w, https://hackaday.com/wp-content/uploads/2025/12/wolf1.png?resize=800,400 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"884576\" data-permalink=\"https://hackaday.com/2025/12/10/your-supercomputer-arrives-in-the-cloud/wolf1/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/wolf1.png\" data-orig-size=\"1200,600\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"wolf1\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/wolf1.png?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/wolf1.png?w=800\" /\u003e\u003c/div\u003eFor as long as there have been supercomputers, people like us have seen the announcements and said, \u0026#8220;Boy! I\u0026#8217;d love to get some time on that computer.\u0026#8221; But now that \u003ca href=\"https://hackaday.com/2025/12/10/your-supercomputer-arrives-in-the-cloud/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/10/your-supercomputer-arrives-in-the-cloud/"
+      ],
+      "categories": [
+        "Software Development",
+        "Software Hacks",
+        "supercomputer",
+        "Wolfram"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Al Williams"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/wolf1.png"
+      },
+      "published": "2025-12-11T03:00:26Z"
+    }
+  },
+  {
+    "hash": "5af51f4d0f00bafc7b4f0e9acb28f4276bf02adcc8c1dfe1c96d6d3bebda6056",
+    "item": {
+      "title": "Volumetric Display With Lasers and Bubbly Glass",
+      "description": "\u003cdiv\u003e\u003cimg width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"King Tut, with less resolution than he\u0026#039;s had since Deluxe Paint\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?resize=1536,864 1536w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" data-attachment-id=\"882679\" data-permalink=\"https://hackaday.com/2025/12/10/volumetric-display-with-lasers-and-bubbly-glass/solid-state-volumetric-ancient-feature/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg\" data-orig-size=\"1920,1080\" data-comments-opened=\"1\" data-image-meta=\"{\u0026quot;aperture\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;credit\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;camera\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;caption\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;created_timestamp\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;copyright\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;focal_length\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;iso\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;shutter_speed\u0026quot;:\u0026quot;0\u0026quot;,\u0026quot;title\u0026quot;:\u0026quot;\u0026quot;,\u0026quot;orientation\u0026quot;:\u0026quot;0\u0026quot;}\" data-image-title=\"solid-state-volumetric-ancient-feature\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?w=400\" data-large-file=\"https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg?w=800\" /\u003e\u003c/div\u003eThere\u0026#8217;s a type of dust-collector that\u0026#8217;s been popular since the 1990s, where a cube of acrylic or glass is laser-etched in a three-dimensional pattern. Some people call them bubblegrams. While \u003ca href=\"https://hackaday.com/2025/12/10/volumetric-display-with-lasers-and-bubbly-glass/\" class=\"read-more\"\u003e\u0026#8230;read more\u003c/a\u003e",
+      "links": [
+        "https://hackaday.com/2025/12/10/volumetric-display-with-lasers-and-bubbly-glass/"
+      ],
+      "categories": [
+        "Laser Hacks",
+        "bubblegram",
+        "laser projector",
+        "volumetric display"
+      ],
+      "source": "Hackaday",
+      "authors": [
+        {
+          "name": "Tyler August"
+        }
+      ],
+      "image": {
+        "url": "https://hackaday.com/wp-content/uploads/2025/12/solid-state-volumetric-ancient-feature.jpg"
+      },
+      "published": "2025-12-11T00:00:52Z"
+    }
+  },
+  {
+    "hash": "4029b08af9f039baab6930dcda53223950bfa24e686d2ccd253afc79d504a5ba",
+    "item": {
+      "title": "Patterns.dev",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46226483\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.patterns.dev/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T01:18:55Z"
+    }
+  },
+  {
+    "hash": "85161c4b2358bd4645d1cb135cdcc94797c0800932acedd737a5c11329bc7483",
+    "item": {
+      "title": "VCMI: An open-source engine for Heroes III",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46174534\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vcmi.eu/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T16:27:35Z"
+    }
+  },
+  {
+    "hash": "a8d3950d1b88c4c038f1a4c1537cc5c5aee766ef8216db1440dfbc6f384ff679",
+    "item": {
+      "title": "Fossils reveal anacondas have been giants for over 12 million years",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46119762\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-02T10:30:46Z"
+    }
+  },
+  {
+    "hash": "fc588a7a6a108ede366290743584eeb8fa19bcc926e34aaa97464bbeb9614756",
+    "item": {
+      "title": "OpenRouter Broadcast",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46172498\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://openrouter.ai/docs/guides/features/broadcast/overview"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T11:28:56Z"
+    }
+  },
+  {
+    "hash": "cf1e2fb397e3cf737c4be23c5bd7a2a215351dc1895996d00e2c0ff8e1c1ec22",
+    "item": {
+      "title": "Gemini Clears Key CFTC Approval to Launch Prediction Market Platform in US",
+      "description": "\u003cp\u003eGemini has received a Contract Market (DCM) license from CFTC, allowing it to begin offering “simple yes or no questions” event contracts.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/gemini-clears-key-cftc-approval-to-launch-prediction-market-platform-in-us/\"\u003eGemini Clears Key CFTC Approval to Launch Prediction Market Platform in US\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/gemini-clears-key-cftc-approval-to-launch-prediction-market-platform-in-us/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Gemini",
+        "Prediction markets",
+        "Winklevoss Twins"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/11031540/1765422940-image-1765417914695_optimized.jpg"
+      },
+      "published": "2025-12-11T03:45:30Z"
+    }
+  },
+  {
+    "hash": "7bdbea1beee18bdeb51bdc0bff249d24acb75d8e173ca08dbc078d20b9c68b2d",
+    "item": {
+      "title": "Asia Market Open: Bitcoin Edges Lower As Fed Rate-Cut Boosts Stocks",
+      "description": "\u003cp\u003eBitcoin slipped 2% as stocks climbed on the Fed’s latest rate cut and Powell’s upbeat outlook, with policymakers signalling limited easing ahead.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-price-fed-rate-cut-boosts-stocks-asia-market-open/\"\u003eAsia Market Open: Bitcoin Edges Lower As Fed Rate-Cut Boosts Stocks\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-price-fed-rate-cut-boosts-stocks-asia-market-open/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Asia",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Shalini Nagarajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/11023831/1765420710-asia-market-open-cover.png"
+      },
+      "published": "2025-12-11T02:46:18Z"
+    }
   }
 ]
