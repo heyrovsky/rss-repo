@@ -3539,5 +3539,523 @@
       },
       "published": "2025-12-12T15:16:07Z"
     }
+  },
+  {
+    "hash": "ec259187e8996e3bd18db23b40185679fb9efd23db291bfa2f9de8edf0defec3",
+    "item": {
+      "title": "Ukrainians sue US chip firms for powering Russian drones, missiles",
+      "description": "Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/"
+      ],
+      "categories": [
+        "Policy",
+        "AMD",
+        "drones",
+        "Intel",
+        "missiles",
+        "russia",
+        "Russian invasion of Ukraine",
+        "Texas Instruments",
+        "Ukraine"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Ashley Belanger"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2161674727-1024x648.jpg"
+      },
+      "published": "2025-12-12T19:49:27Z"
+    }
+  },
+  {
+    "hash": "12593d75270b0d12d3670246200c802818abbd9c6b3caa2f1cbf5aeb256365cf",
+    "item": {
+      "title": "Scientists built an AI co-pilot for prosthetic bionic hands",
+      "description": "Managing each finger separately can, with the right sensors, ease control issues.",
+      "links": [
+        "https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/"
+      ],
+      "categories": [
+        "AI",
+        "Science",
+        "prosthetics",
+        "robotic hands",
+        "Robotics",
+        "sensors"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jacek Krywko"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2207559807-e1765565371849-1152x648-1765565584.jpg"
+      },
+      "published": "2025-12-12T19:14:31Z"
+    }
+  },
+  {
+    "hash": "6b98ee3e20425a22a98ea33354c8fc9374440509e25d8495dafbb1006ecf1d06",
+    "item": {
+      "title": "A study in contrasts: The cinematography of Wake Up Dead Man",
+      "description": "Ars chats with cinematographer Steve Yedlin about bringing Rian Johnson's Gothic vision to life.",
+      "links": [
+        "https://arstechnica.com/culture/2025/12/a-study-in-contrasts-the-cinematography-of-wake-up-dead-man/"
+      ],
+      "categories": [
+        "Culture",
+        "cinematography",
+        "entertainment",
+        "Netflix",
+        "Wake Up Dead Man"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jennifer Ouellette"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/wakeup1-1152x648.jpg"
+      },
+      "published": "2025-12-12T18:58:12Z"
+    }
+  },
+  {
+    "hash": "9a846cf1209ceb663952ae785a7af38cd6869ee09cff8a07e25b49d075d36218",
+    "item": {
+      "title": "Trump tries to block state AI laws himself after Congress decided not to",
+      "description": "Trump claims state laws force AI makers to embed \"ideological bias\" in models.",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/12/trump-tries-to-block-state-ai-laws-himself-after-congress-decided-not-to/"
+      ],
+      "categories": [
+        "AI",
+        "Policy",
+        "Trump"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Jon Brodkin"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg"
+      },
+      "published": "2025-12-12T18:29:50Z"
+    }
+  },
+  {
+    "hash": "6787efc22a8a51282cf2064f5f15e349c32d8a6039318fe1b662e08781fb748d",
+    "item": {
+      "title": "Man shocks doctors with extreme blood pressure, stroke from energy drinks",
+      "description": "His blood pressure was 254/150. Readings of 180/120 are considered an emergency.",
+      "links": [
+        "https://arstechnica.com/health/2025/12/man-shocks-doctors-with-extreme-blood-pressure-stroke-from-energy-drinks/"
+      ],
+      "categories": [
+        "Health",
+        "blood pressure",
+        "caffeine",
+        "cardiovascular disease",
+        "case report",
+        "energy drinks",
+        "hypertension",
+        "stroke"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Beth Mole"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1025255964-1152x648.jpg"
+      },
+      "published": "2025-12-12T17:33:22Z"
+    }
+  },
+  {
+    "hash": "4d6cbccc5e2a9ea6fc4635f7fafbe1832c5f813f76aa980f147f0bb0b2cf6542",
+    "item": {
+      "title": "Three new stable kernels",
+      "description": "Greg Kroah-Hartman has released the \u003ca\nhref=\"https://lwn.net/Articles/1050271/\"\u003e6.18.1\u003c/a\u003e, \u003ca\nhref=\"https://lwn.net/Articles/1050272/\"\u003e6.17.12\u003c/a\u003e, and \u003ca href=\"https://lwn.net/Articles/1050273/\"\u003e6.12.62\u003c/a\u003e stable\nkernels. Each contains important fixes; users of those kernels\nare advised to upgrade.\u003c/p\u003e\n\u003cp\u003e",
+      "links": [
+        "https://lwn.net/Articles/1050270/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "jzb"
+        }
+      ],
+      "published": "2025-12-12T19:45:30Z"
+    }
+  },
+  {
+    "hash": "0dbd22dfffd976690454d1e1551456e342f3e7b57c5d7391bf82d35742c8f297",
+    "item": {
+      "title": "Linux 6.19 Lands x2AVIC Patches For AMD SVM Handling Up To 4096 vCPUs",
+      "description": "The Kernel-based Virtual Machine \"KVM\" updates for Linux 6.19 include preparations by AMD for handling up to a possible 4,096 virtual CPUs for VMs...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-KVM"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-12T19:23:37Z"
+    }
+  },
+  {
+    "hash": "59e7aa7bb2dd94d866f55c160c50d51c3c82fef47f85911e2abd1ecbbe9e22c8",
+    "item": {
+      "title": "New Patches Lay Out Linux Kernel Adjustments For RISC-V RVA23 Hardware",
+      "description": "With the first of RISC-V RVA23-compatible hardware expected to be released in 2026, we are beginning to see more Linux developers prepare for this RVA23 profile and the now-mandated extensions. Sent out this week was an initial \"request for comments\" patch series on RVA23 adjustments for the Linux kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-Kernel-RFC-RISC-V-RVA23"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-12T18:58:33Z"
+    }
+  },
+  {
+    "hash": "7f729686873287effe638f77c486a9393f25b5aa735055c5dc888c08093c464a",
+    "item": {
+      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+      "description": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing",
+      "links": [
+        "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgcFxpYG91gB_qImBj80xopP9yPiTuHXJwTeIXOS92Fsj6dtv4A2LK3aQxVQGKfA6sJ7T5WfeX5CEFBFrPNNH96PY7qjHCbyb7yDH5WrATaFflCN3YgQxQZJlOlKaQLK0nDtbzGwlS0FrwBVm7CwEvPkr_qSbBR1fvXX-xxIZn6XdUspYS7k2c1j87330/s1600/git.jpg"
+      },
+      "published": "2025-12-12T18:50:00Z"
+    }
+  },
+  {
+    "hash": "5e357476780aa92868af7c8142d883007580b282f0575e4cabd74d03323a0aa8",
+    "item": {
+      "title": "Security issues with electronic invoices",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46248470\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://invoice.secvuln.info/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T20:28:41Z"
+    }
+  },
+  {
+    "hash": "cfc9256e97a64ce8be2417bcfcb68e58c8a73f06597f55ab857a608ec20b5585",
+    "item": {
+      "title": "SQLite JSON at full index speed using generated columns",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46243904\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T13:25:19Z"
+    }
+  },
+  {
+    "hash": "f9905eec9c5771b1527badcb97554bd696857c3b5ee7c5b5c7b8580228ff3bb8",
+    "item": {
+      "title": "GNU Unifont",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46248859\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://unifoundry.com/unifont/index.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T20:57:34Z"
+    }
+  },
+  {
+    "hash": "50d83f60e2ff34366e27454126c30d33f70828454c4fb6d11ce88c91da3d8c04",
+    "item": {
+      "title": "Motion (YC W20) Is Hiring Senior Staff Front End Engineers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46248892\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T21:00:54Z"
+    }
+  },
+  {
+    "hash": "2d024aa9361ef073644851f7a5c54c8b6dd9094e72958b340f75f991410146cd",
+    "item": {
+      "title": "CM0 – A new Raspberry Pi you can't buy",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46244922\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T15:19:19Z"
+    }
+  },
+  {
+    "hash": "1292ac4082adf6443d95fdec2cb1ad519535c4a608258f7d2c54387437ee4ee2",
+    "item": {
+      "title": "String theory inspires a brilliant, baffling new math proof",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46245622\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T16:23:10Z"
+    }
+  },
+  {
+    "hash": "fd3fab6cdd5d8689218eb7d2953271bd6f38c9c68ba9069b45bb2239ac48d718",
+    "item": {
+      "title": "New Kindle feature uses AI to answer questions about books",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46248417\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://reactormag.com/new-kindle-feature-ai-answer-questions-books-authors/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T20:24:04Z"
+    }
+  },
+  {
+    "hash": "72ac47d967feb202ca286237e7e5d2c65dab8cfeb6e92da4794d4c8121378847",
+    "item": {
+      "title": "Google releases its new Google Sans Flex font as open source",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46246802\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T18:07:57Z"
+    }
+  },
+  {
+    "hash": "7c51b60d08aa5bba7ba008ce783af33c0a7bb881eae7ac20d99db1ad8423a849",
+    "item": {
+      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46247000\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T18:23:21Z"
+    }
+  },
+  {
+    "hash": "4a6174565901b32d949d67c53119d2003d939b9fe15545d4c922344a1d47e815",
+    "item": {
+      "title": "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220411\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://clickhouse.com/blog/introducing-pg_clickhouse"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T17:14:39Z"
+    }
+  },
+  {
+    "hash": "ad489f30fa44b76cd710ee6736965724a77a98ec77cd08c5f699f8ebd86ef797",
+    "item": {
+      "title": "Bit flips: How cosmic rays grounded a fleet of aircraft",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46191890\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T13:20:19Z"
+    }
+  },
+  {
+    "hash": "0c952ad76923d5171920b9f5a6d2a03156ca6d865d179a5732f3feda6a4b6c5e",
+    "item": {
+      "title": "The true story of the Windows 3.1 'Hot Dog Stand' color scheme",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46247605\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T19:13:35Z"
+    }
+  },
+  {
+    "hash": "4cc7e6c702c77513021c0eef60253a27ed8117fdd22f199c689e6786fb37646e",
+    "item": {
+      "title": "Good conversations have lots of doorknobs (2022)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46191122\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T11:37:09Z"
+    }
+  },
+  {
+    "hash": "031883e4cfd1f6f48f8865baf7ed983a1e75b25bd96b206ef50a007581d4bcbd",
+    "item": {
+      "title": "Open sourcing the Remix Store",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46200562\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://remix.run/blog/oss-remix-store"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T02:25:28Z"
+    }
+  },
+  {
+    "hash": "ba73d6ec9f07ee5848cdf00c753767e678a8f3ae9d129fc54026000aa1829176",
+    "item": {
+      "title": "Nuclear energy key to decarbonising Europe, says EESC",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46246395\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.eesc.europa.eu/en/news-media/news/nuclear-energy-key-decarbonising-europe-says-eesc"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T17:32:48Z"
+    }
+  },
+  {
+    "hash": "0df0423be618a6dccdc997912e3be81419a3fa356de4143bd363257473b24933",
+    "item": {
+      "title": "Benn Jordan’s flock camera jammer will send you to jail in Florida now [video]",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46247415\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.youtube.com/watch?v=qEllWdK4l_A"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T18:58:43Z"
+    }
+  },
+  {
+    "hash": "cb76355c204df0fa68ab04a7423efe2c80f4fc3a4e81f2c0d37d66e470389723",
+    "item": {
+      "title": "Japan law opening phone app stores to go into effect",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46246006\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T16:59:04Z"
+    }
+  },
+  {
+    "hash": "a1d3336b22ac7f3c5f5234c8028c3844c6e5f3517d64c1850efbdb41db19bf9b",
+    "item": {
+      "title": "XRP Price Prediction: Solana Breakpoint Confirms XRP Is Coming to SOL – Can DeFi Liquidity Help Drive a Rally to $5?",
+      "description": "\u003cp\u003eXRP Price Prediction covers Hex Trust and LayerZero bringing 1:1 wrapped XRP to Solana, Ripple’s AMINA Bank Payments partnership, and chart levels near $2.00 support, with upside zones at $2.40, $2.61 and $3.17 as analysts watch 2026 $5 targets. wXRP may trade with RLUSD on Solana and Ethereum soon.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-solana-breakpoint-confirms-xrp-is-coming-to-sol-can-defi-liquidity-help-drive-a-rally-to-5/\"\u003eXRP Price Prediction: Solana Breakpoint Confirms XRP Is Coming to SOL – Can DeFi Liquidity Help Drive a Rally to $5?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-solana-breakpoint-confirms-xrp-is-coming-to-sol-can-defi-liquidity-help-drive-a-rally-to-5/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/12183952/1765564791-chatgpt-image-nov-12-2025-06_33_36-pm_optimized.jpg"
+      },
+      "published": "2025-12-12T19:43:23Z"
+    }
+  },
+  {
+    "hash": "4ec5a1821ca8082234f703577e5fd7e13b44d5dd51e8235753bf4292efb7d851",
+    "item": {
+      "title": "Bitcoin To Hit $150,000 By 2026, Treasury President Predicts",
+      "description": "\u003cp\u003eBitcoin has been projected at $150K by end-2026 by BSTR’s Katherine Dowling, who has pointed to stablecoin legislation, OCC guidance, Fed rate cuts, and ETF adoption. Bank of America has allowed advisers to recommend Bitcoin ETFs with 1%–4% allocations. BTC trades near $90,180, down 0.6% in 24h now.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/bitcoin-to-hit-150k-by-2026-treasury-president-says/\"\u003eBitcoin To Hit $150,000 By 2026, Treasury President Predicts\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/bitcoin-to-hit-150k-by-2026-treasury-president-says/"
+      ],
+      "categories": [
+        "Bitcoin News",
+        "News",
+        "Bitcoin"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "David Pokima"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/12191757/1765567077-stock-image_optimized-13.jpg"
+      },
+      "published": "2025-12-12T19:33:49Z"
+    }
+  },
+  {
+    "hash": "45887e427ef2f0bd12714271dd838f6d02e44e962692a4af0f335cb4ad72db01",
+    "item": {
+      "title": "Jupiter Unveils JupUSD Stablecoin and Major Solana Ecosystem Upgrades",
+      "description": "\u003cp\u003eJupiter has detailed seven Breakpoint upgrades, including JupUSD with Ethena, Jupiter Terminal trading tools, VRFD token verification, and open-source Jupiter Lend. The suite pairs builder analytics with execution tech used by Robinhood and $1M Rewards Hub pool, with $1.08T YTD volume and $2.7B TVL.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/jupiter-unveils-jupusd-stablecoin-and-major-solana-ecosystem-upgrades/\"\u003eJupiter Unveils JupUSD Stablecoin and Major Solana Ecosystem Upgrades\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/jupiter-unveils-jupusd-stablecoin-and-major-solana-ecosystem-upgrades/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "News",
+        "Jupiter",
+        "Solana"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/12175928/1765562367-stock-image_optimized-13.png"
+      },
+      "published": "2025-12-12T18:57:18Z"
+    }
+  },
+  {
+    "hash": "12d8846b4a9eb90af3b8f9d0e4bc0b3b91d29cd54430fca5d1768440022aae7c",
+    "item": {
+      "title": "Pi Coin Price Prediction: Chart Signals Significant Breakdown – But Can Buyers Stop a Fall to New Lows?",
+      "description": "\u003cp\u003ePI is flashing its biggest technical signal in weeks, and its bearish – Pi Coin Price predictions now brace for all-time lows.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/pi-coin-price-prediction-chart-signals-significant-breakdown-but-can-buyers-stop-a-fall-to-new-lows/\"\u003ePi Coin Price Prediction: Chart Signals Significant Breakdown – But Can Buyers Stop a Fall to New Lows?\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/pi-coin-price-prediction-chart-signals-significant-breakdown-but-can-buyers-stop-a-fall-to-new-lows/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "pi coin",
+        "Price Prediction",
+        "Technical Analysis"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Harvey Hunter"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/12174829/1765561709-pi-coin-price-prediction-1.jpg"
+      },
+      "published": "2025-12-12T18:22:29Z"
+    }
   }
 ]
