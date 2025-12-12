@@ -1418,5 +1418,184 @@
       },
       "published": "2025-12-12T04:01:19Z"
     }
+  },
+  {
+    "hash": "906e9659308bdf0fdb365df20836cfead2d931e55b0e1d20a27e4b7ec774b552",
+    "item": {
+      "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+      "description": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
+      "links": [
+        "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
+      },
+      "published": "2025-12-12T08:55:00Z"
+    }
+  },
+  {
+    "hash": "dca25bb7c993bf5ba48383ea3cb05d92d8541826750ca0ff7ffb3d399a654765",
+    "item": {
+      "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
+      "links": [
+        "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html"
+      ],
+      "source": "The Hacker News",
+      "authors": [
+        {
+          "name": "The Hacker News",
+          "email": "info@thehackernews.com"
+        }
+      ],
+      "image": {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg"
+      },
+      "published": "2025-12-12T08:41:00Z"
+    }
+  },
+  {
+    "hash": "0572c3537519ecd20bba9290ef53751c74733898d6eb28be3276c5f20be18e9d",
+    "item": {
+      "title": "The tiniest yet real telescope I've built",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46241763\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://lucassifoni.info/blog/miniscope-tiny-telescope/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T07:35:49Z"
+    }
+  },
+  {
+    "hash": "5038c6f45c9b367e3032cb0bbbab63d1f2495ad188314b82e650707d4a1bcc50",
+    "item": {
+      "title": "Google de-indexed Bear Blog and I don't know why",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46239752\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T01:20:05Z"
+    }
+  },
+  {
+    "hash": "a4ec4a2638164b26f9b891833673fe8e80d30377e55fc65e04fc4dcff0604882",
+    "item": {
+      "title": "Guarding My Git Forge Against AI Scrapers",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46241849\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T07:51:04Z"
+    }
+  },
+  {
+    "hash": "7f9679761439af59c4cd120c041a766d2c192e67fbd518fc131fbe257b2d3a3b",
+    "item": {
+      "title": "Journalism students expose Russian-linked vessels off the Dutch and German coast",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46242016\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.digitaldigging.org/p/they-droned-back"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T08:24:22Z"
+    }
+  },
+  {
+    "hash": "ac523de2493635bc053b8a32bf10fbb1c2b4272a8fc0e36c3769b8711c7f05be",
+    "item": {
+      "title": "The Boot Order of the Raspberry Pi Is Unusual",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46239820\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://patrickmccanna.net/the-raspberry-pi-boot-order-is-unusual/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T01:28:43Z"
+    }
+  },
+  {
+    "hash": "f354503fceec2c462d1aff12da5d539597c23483f08a5cfafab89daef6d23414",
+    "item": {
+      "title": "Polish Government Defies President, Reintroduces Identical Crypto Law",
+      "description": "\u003cp\u003ePoland's government escalated a political standoff by reintroducing an unmodified crypto regulation bill that President Karol Nawrocki vetoed, with Prime Minister Donald Tusk citing over 100 Russian and Belarusian entities in Poland's crypto registry as justification for urgent oversight.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/polish-government-defies-president-reintroduces-identical-crypto-law/\"\u003ePolish Government Defies President, Reintroduces Identical Crypto Law\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/polish-government-defies-president-reintroduces-identical-crypto-law/"
+      ],
+      "categories": [
+        "Crypto Regulation News",
+        "Poland",
+        "Regulation"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/11124058/1765456857-image-1765456829842_optimized.jpg"
+      },
+      "published": "2025-12-12T08:42:56Z"
+    }
+  },
+  {
+    "hash": "dc43f6ed77ca6a227d558e9e6f178ad62aeeaae44576345240f2a6f4aabb33db",
+    "item": {
+      "title": "Sam Altman’s World Project Upgrades App With Encrypted Chat, In-Chat Crypto Pay Options",
+      "description": "\u003cp\u003eSam Altman's iris-scanning world has upgraded its app to include an encrypted chat service with crypto payment integration.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/sam-altmans-world-project-upgrades-app-with-encrypted-chat-in-chat-crypto-pay-options/\"\u003eSam Altman’s World Project Upgrades App With Encrypted Chat, In-Chat Crypto Pay Options\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/sam-altmans-world-project-upgrades-app-with-encrypted-chat-in-chat-crypto-pay-options/"
+      ],
+      "categories": [
+        "Blockchain News",
+        "Crypto Payment",
+        "Sam Altman",
+        "World"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Sujha Sundararajan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/12064417/1765521856-image-1765521805240_optimized.jpg"
+      },
+      "published": "2025-12-12T06:58:26Z"
+    }
+  },
+  {
+    "hash": "4958e5ab5ab95f307d564a092ba154d742f8af82d0a54bb927d16b7344f1f41a",
+    "item": {
+      "title": "Korean Authorities Claim Binance Partially Complied in Freezing Upbit Hack Funds",
+      "description": "\u003cp\u003eKorean authorities say Binance froze only a small portion of the crypto stolen during last month’s Upbit hack.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/korean-authorities-claim-binance-froze-only-a-fraction-of-upbit-hack-funds/\"\u003eKorean Authorities Claim Binance Partially Complied in Freezing Upbit Hack Funds\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/korean-authorities-claim-binance-froze-only-a-fraction-of-upbit-hack-funds/"
+      ],
+      "categories": [
+        "Altcoin News",
+        "Binance",
+        "South Korea",
+        "Upbit"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Amin Ayan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/12061125/1765519885-image-1765519484951_optimized.jpg"
+      },
+      "published": "2025-12-12T06:23:05Z"
+    }
   }
 ]
