@@ -1654,5 +1654,243 @@
       },
       "published": "2025-12-13T12:33:00Z"
     }
+  },
+  {
+    "hash": "533d322f01dc63feb51afd58190665f5f704af3641526e8851d4e77dd023dcc9",
+    "item": {
+      "title": "Oracles Releases Updated \"bpftune\" For BPF-Based Auto-Tuning Of Linux Systems",
+      "description": "The past few years Oracle has been working on bpftune as a solution for BPF-based, automatic tuning of Linux systems. Bpftune has been available via Oracle Linux and GitHub while finally their open-source GitHub code has seen the first new tagged release in a while...",
+      "links": [
+        "https://www.phoronix.com/news/Oracle-bpftune-0.4-1"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-13T17:27:10Z"
+    }
+  },
+  {
+    "hash": "02745930ef24aae2c6d57dd5dd2a0c4ae06d1c20d4ba6cfddb0feebd9b60559e",
+    "item": {
+      "title": "NFS Lands Initial Support For Directory Delegations In Linux 6.19",
+      "description": "The Network File-System (NFS) client changes were merged today for the Linux 6.19 kernel with the most notable feature addition being initial support for basic directory delegations...",
+      "links": [
+        "https://www.phoronix.com/news/Linux-6.19-NFS"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-13T15:13:29Z"
+    }
+  },
+  {
+    "hash": "a3d24f5a0d849a9e20696f551936b855fd219b1ad17ac0f479b6d965e8974db9",
+    "item": {
+      "title": "I tried Gleam for Advent of Code",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46255991\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.tymscar.com/posts/gleamaoc2025/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T17:00:14Z"
+    }
+  },
+  {
+    "hash": "42fb72333c9bd4a296bd115c502b65401c6f9ef444c1330ef1b3b9ae9c1090da",
+    "item": {
+      "title": "Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46256325\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T17:41:32Z"
+    }
+  },
+  {
+    "hash": "a16f3dca171a1f0424f970471c171acfeea36d62b53ed8d7a489672483d288cc",
+    "item": {
+      "title": "What is the nicest thing a stranger has ever done for you?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46236001\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://louplummer.lol/nice-stranger/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-11T19:28:40Z"
+    }
+  },
+  {
+    "hash": "eba7ed4ab788fa69d27fbe8b07631c8fec69affd824d789bc6837386ffead66c",
+    "item": {
+      "title": "Cryptids",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46172586\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://wiki.bbchallenge.org/wiki/Cryptids"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T11:48:45Z"
+    }
+  },
+  {
+    "hash": "7a9a5383c36f2699486ef46fe0e898982d8cdbd5400708761628b1a050e717b1",
+    "item": {
+      "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46256249\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T17:32:21Z"
+    }
+  },
+  {
+    "hash": "1d8555b609f5451f83f649ae95ad3d394e3c6beb6635b380a5e4a2bdd42227a0",
+    "item": {
+      "title": "Ask HN: How can I get better at using AI for programming?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46255285\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://news.ycombinator.com/item?id=46255285"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T15:37:16Z"
+    }
+  },
+  {
+    "hash": "69969713a8a60a83fb4bbb8a3ca146c1ec3345c7543bb5b1c04b41e347ff16b3",
+    "item": {
+      "title": "EasyPost (YC S13) Is Hiring",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46256002\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.easypost.com/careers"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T17:01:25Z"
+    }
+  },
+  {
+    "hash": "fd25fbcb51645dcbe8ca8898ce9344d96c1abe74ef4508ff570dfa78bf88a407",
+    "item": {
+      "title": "Useful patterns for building HTML tools",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46223882\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://simonwillison.net/2025/Dec/10/html-tools/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T21:08:41Z"
+    }
+  },
+  {
+    "hash": "4ef6be2a1af4a62b5b556eb5c600b2a4f6298c1fbabc5185dd590360246d0d54",
+    "item": {
+      "title": "Researchers seeking better measures of cognitive fatigue",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46222162\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.nature.com/articles/d41586-025-03974-w"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-10T19:13:49Z"
+    }
+  },
+  {
+    "hash": "fe3af36925ae52adb586fcef35ca480b18638647c2e0ea406869a9499b0501b6",
+    "item": {
+      "title": "Z8086: Rebuilding the 8086 from Original Microcode",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46255007\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://nand2mario.github.io/posts/2025/z8086/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T15:04:29Z"
+    }
+  },
+  {
+    "hash": "34d46fe82cc7db97d1af9d8d5f75053c55c96320dcbdb508c7409b577a889322",
+    "item": {
+      "title": "Go Proposal: Secret Mode",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46210705\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://antonz.org/accepted/runtime-secret/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-09T21:10:52Z"
+    }
+  },
+  {
+    "hash": "be746051622d90b0b818409b1bec0f6a3130181c7e73cc1fe5b6b6673ad5a883",
+    "item": {
+      "title": "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46195068\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T17:30:15Z"
+    }
+  },
+  {
+    "hash": "e3c4ec4064259645aa956c9cf95ed80d759d49342ea16b70f7341a307a68d62f",
+    "item": {
+      "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46251620\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T03:06:53Z"
+    }
+  },
+  {
+    "hash": "dc7bf4ecba34390acd2d59024af3c99cf1099f51548727d613af6466fad11c94",
+    "item": {
+      "title": "Dynamic Pong Wars",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46172417\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://markodenic.tech/dynamic-pong-wars/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T11:14:49Z"
+    }
+  },
+  {
+    "hash": "a162a4ae83e16e6b6183a20f51d2f107bc36bfb497570fd4171da5d8347128f3",
+    "item": {
+      "title": "Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192545\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://github.com/linked-db/linked-ql"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-08T14:23:36Z"
+    }
+  },
+  {
+    "hash": "6e7c5ecb13d0fd12c1af3d5b73f37281862dd172b0f07076a43f012ff5bf10c1",
+    "item": {
+      "title": "XRP Price Prediction: Record-Holding IQ Genius Predicts XRP Rally to New ATH Going Into 2026",
+      "description": "\u003cp\u003eYoungHoon Kim, the world's highest IQ holder at 276, predicts XRP will set new all-time highs heading into 2026 as he actively purchases the token, while XRP ETFs approach $1.2 billion in cumulative inflows just weeks after launch.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca href=\"https://cryptonews.com/news/xrp-price-prediction-record-holding-iq-genius-predicts-xrp-rally-to-new-ath-going-into-2026/\"\u003eXRP Price Prediction: Record-Holding IQ Genius Predicts XRP Rally to New ATH Going Into 2026\u003c/a\u003e appeared first on \u003ca href=\"https://cryptonews.com\"\u003eCryptonews\u003c/a\u003e.\u003c/p\u003e\n",
+      "links": [
+        "https://cryptonews.com/news/xrp-price-prediction-record-holding-iq-genius-predicts-xrp-rally-to-new-ath-going-into-2026/"
+      ],
+      "categories": [
+        "Price Analysis",
+        "XRP"
+      ],
+      "source": "Cryptonews",
+      "authors": [
+        {
+          "name": "Anas Hassan"
+        }
+      ],
+      "image": {
+        "url": "https://cimg.co/wp-content/uploads/2025/12/13171743/1765646262-chatgpt-image-nov-13-2025-06_35_16-pm_optimized.jpg"
+      },
+      "published": "2025-12-13T17:19:18Z"
+    }
   }
 ]
