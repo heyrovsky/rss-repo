@@ -555,5 +555,172 @@
       },
       "published": "2025-12-12T22:29:42Z"
     }
+  },
+  {
+    "hash": "bf94c953178834fe03d477cf0bc037e69b6b98eb37c77ac4d93c29c897eadc11",
+    "item": {
+      "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
+      "description": "\"The vast majority of Codex is built by Codex,\" OpenAI told us about its new AI coding agent.",
+      "links": [
+        "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/"
+      ],
+      "categories": [
+        "AI",
+        "Biz \u0026 IT",
+        "agentic AI",
+        "AI agents",
+        "AI assistants",
+        "AI coding",
+        "AI development tools",
+        "AI programming",
+        "AI work",
+        "Anthropic",
+        "chatbots",
+        "Claude",
+        "code agents",
+        "Codex",
+        "Dario Amodei",
+        "generative ai",
+        "GitHub Copilot",
+        "google",
+        "GPT-5",
+        "large language models",
+        "machine learning",
+        "Mistral",
+        "open source",
+        "openai",
+        "Programming",
+        "sam altman",
+        "Simon Willison",
+        "software development",
+        "vibe coding"
+      ],
+      "source": "Ars Technica - All content",
+      "authors": [
+        {
+          "name": "Benj Edwards"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg"
+      },
+      "published": "2025-12-12T22:16:42Z"
+    }
+  },
+  {
+    "hash": "9551df899b77e27a5b2e8252dca0589af18f075a5a959b5b4bfd1d7566dc2149",
+    "item": {
+      "title": "New Linux Patch Confirms: Rust Experiment Is Done, Rust Is Here To Stay",
+      "description": "Rust for Linux lead developer Miguel Ojeda posted the patch a short time ago to \"conclude the Rust experiment\". The \"experiment\" of Rust programming language code in the Linux kernel is over as it's now accepted to be a success and \"Rust is here to stay\" in the kernel...",
+      "links": [
+        "https://www.phoronix.com/news/Rust-To-Stay-Linux-Kernel"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-13T01:35:56Z"
+    }
+  },
+  {
+    "hash": "dd274abb7c2ce31faa0e521337aa921c30c257e3ca81fc3b365e3eeadeb0fced",
+    "item": {
+      "title": "KDE Plasma 6.6 Will Finally Support Proper Screen Mirroring On Wayland",
+      "description": "It's an exciting week in KDE Plasma development land ahead of the holidays. Plasma 6.6 continues tacking on more feature work for Wayland...",
+      "links": [
+        "https://www.phoronix.com/news/Plasma-6.6-Screen-Mirroring"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-13T01:20:45Z"
+    }
+  },
+  {
+    "hash": "e0a7242778b6a3ac438c793a47639671f3bc31b04b71d6bc9d87be96f584bc23",
+    "item": {
+      "title": "Haiku OS Sees Port Of Go 1.18 Programming Language",
+      "description": "The BeOS-inspired Haiku operating system has received a recent port of the Go programming language to the platform. Plus Haiku also saw app improvements and more over the month of November...",
+      "links": [
+        "https://www.phoronix.com/news/Haiku-Gets-Modern-Go"
+      ],
+      "source": "Phoronix",
+      "authors": [
+        {
+          "name": "Michael Larabel"
+        }
+      ],
+      "published": "2025-12-13T01:10:13Z"
+    }
+  },
+  {
+    "hash": "5b538a9d4e949aa28bfd67c1bb4e377e22814ac219915d4360beb875b8e930f3",
+    "item": {
+      "title": "[$] The state of the kernel Rust experiment",
+      "description": "The ability to write kernel code in Rust was explicitly added as an\nexperiment — if things did not go well, Rust would be removed again.  At\nthe 2025 Maintainers Summit, a session was held to evaluate the state of\nthat experiment, and to decide whether the time had come to declare the\nresult to be a success.  The (arguably unsurprising) conclusion was that\nthe experiment is indeed a success, but there were some interesting points\nmade along the way.",
+      "links": [
+        "https://lwn.net/Articles/1050174/"
+      ],
+      "source": "LWN.net",
+      "authors": [
+        {
+          "name": "corbet"
+        }
+      ],
+      "published": "2025-12-13T01:19:08Z"
+    }
+  },
+  {
+    "hash": "97d3e6b11209a58675e11d8da1990255191261b83502da48e2f5bc8dfc04670b",
+    "item": {
+      "title": "So What Should We Call This – A Grue Jay?",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46183688\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-07T18:11:25Z"
+    }
+  },
+  {
+    "hash": "5e667793e33d4c803032f026cd0cb65e2d9f8fad01cdae1e9db6338e1945641e",
+    "item": {
+      "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46175888\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://gwern.net/doc/technology/2008-sower.pdf"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-06T19:21:50Z"
+    }
+  },
+  {
+    "hash": "b6de421254b415b71d330a14963a5af1daa60c5d7647c25ab0da21e5dfd2a4ec",
+    "item": {
+      "title": "The Checkerboard",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46250862\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://99percentinvisible.org/episode/650-the-checkerboard/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-13T00:50:47Z"
+    }
+  },
+  {
+    "hash": "4191c83b807be866f4c6791cd2f2e0defc4c6d1994955f4583bad5376852e7a7",
+    "item": {
+      "title": "Using secondary school maths to demystify AI",
+      "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46245731\"\u003eComments\u003c/a\u003e",
+      "links": [
+        "https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/"
+      ],
+      "source": "Hacker News",
+      "published": "2025-12-12T16:32:43Z"
+    }
   }
 ]
